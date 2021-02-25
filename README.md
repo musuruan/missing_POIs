@@ -1,2 +1,2 @@
 # Missing POIs
-[https://umap.openstreetmap.fr/it/map/missing-pois_564040]
+https://umap.openstreetmap.fr/it/map/missing-pois_564040
