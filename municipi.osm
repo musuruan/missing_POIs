@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.8 7d656e78">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-03-04T02:11:07Z" areas="2021-03-04T01:36:28Z"/>
+<meta osm_base="2021-03-05T02:13:28Z" areas="2021-03-05T01:25:25Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -4635,13 +4635,6 @@
     <tag k="population" v="1001"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778889" lat="45.4202303" lon="11.2477220" version="3" timestamp="2016-10-09T16:06:45Z" changeset="42757067" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3171"/>
-    <tag k="name" v="Soave"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7116"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778891" lat="45.6274569" lon="10.9515505" version="4" timestamp="2017-04-23T17:05:59Z" changeset="48066273" uid="1928626" user="Gianfranco2014">
     <tag k="gfoss_id" v="3168"/>
     <tag k="name" v="Sant'Anna d'Alfaedo"/>
@@ -7564,7 +7557,7 @@
     <tag k="population" v="783"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283831" lat="41.9140453" lon="14.9133027" version="8" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
+  <node id="67283831" lat="41.9138877" lon="14.9136133" version="9" timestamp="2021-03-04T23:03:52Z" changeset="100449923" uid="12638075" user="elucci">
     <tag k="gfoss_id" v="6041"/>
     <tag k="name" v="Guglionesi"/>
     <tag k="place" v="town"/>
@@ -11273,36 +11266,6 @@
     <tag k="wikidata" v="Q13364"/>
     <tag k="wikipedia" v="it:Ravenna"/>
   </node>
-  <node id="69300032" lat="44.4766739" lon="11.6383385" version="9" timestamp="2018-06-16T19:53:14Z" changeset="59901065" uid="1476146" user="Alecs01">
-    <tag k="ele" v="25"/>
-    <tag k="gfoss_id" v="4063"/>
-    <tag k="name" v="Medicina"/>
-    <tag k="name:egl" v="Midgénna"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="16739"/>
-    <tag k="postal_code" v="40059"/>
-    <tag k="ref:ISTAT" v="037037"/>
-    <tag k="ref:catasto" v="F083"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.medicina.bo.it/"/>
-    <tag k="wikidata" v="Q94944"/>
-    <tag k="wikipedia" v="it:Medicina (Italia)"/>
-  </node>
-  <node id="69300067" lat="44.6415700" lon="11.3478100" version="7" timestamp="2017-05-02T17:39:39Z" changeset="48342192" uid="1834719" user="LvdT">
-    <tag k="ele" v="25"/>
-    <tag k="gfoss_id" v="4028"/>
-    <tag k="name" v="Argelato"/>
-    <tag k="name:egl" v="Arżlè"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9844"/>
-    <tag k="postal_code" v="40050"/>
-    <tag k="ref:ISTAT" v="037002"/>
-    <tag k="ref:catasto" v="A392"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.argelato.bo.it/"/>
-    <tag k="wikidata" v="Q52218"/>
-    <tag k="wikipedia" v="it:Argelato"/>
-  </node>
   <node id="69300081" lat="44.1629560" lon="11.0358110" version="8" timestamp="2017-05-02T18:11:46Z" changeset="48342986" uid="1834719" user="LvdT">
     <tag k="ele" v="533"/>
     <tag k="gfoss_id" v="3526"/>
@@ -11377,29 +11340,6 @@
     <tag k="website" v="http://www.comune.marzabotto.bo.it/"/>
     <tag k="wikidata" v="Q94936"/>
     <tag k="wikipedia" v="it:Marzabotto"/>
-  </node>
-  <node id="69300118" lat="44.6241987" lon="11.4906968" version="10" timestamp="2017-05-02T17:39:40Z" changeset="48342192" uid="1834719" user="LvdT">
-    <tag k="ele" v="16"/>
-    <tag k="gfoss_id" v="4064"/>
-    <tag k="name" v="Minerbio"/>
-    <tag k="name:egl" v="Mnérbi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8793"/>
-    <tag k="postal_code" v="40061"/>
-    <tag k="ref:ISTAT" v="037038"/>
-    <tag k="ref:catasto" v="F219"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.minerbio.bo.it/"/>
-    <tag k="wikidata" v="Q94948"/>
-    <tag k="wikipedia" v="it:Minerbio"/>
-  </node>
-  <node id="69300125" lat="44.6461651" lon="11.5332953" version="9" timestamp="2017-05-02T17:39:40Z" changeset="48342192" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="4029"/>
-    <tag k="name" v="Baricella"/>
-    <tag k="name:egl" v="Bariṡèla"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6951"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69300161" lat="44.2758590" lon="10.9994080" version="9" timestamp="2017-05-02T18:11:47Z" changeset="48342986" uid="1834719" user="LvdT">
     <tag k="ele" v="805"/>
@@ -11664,21 +11604,6 @@
     <tag k="wikidata" v="Q100058"/>
     <tag k="wikipedia" v="it:Lama Mocogno"/>
   </node>
-  <node id="69300461" lat="44.6776083" lon="11.0436236" version="9" timestamp="2017-09-10T08:19:13Z" changeset="51900579" uid="339581" user="nyuriks">
-    <tag k="ele" v="20"/>
-    <tag k="gfoss_id" v="4006"/>
-    <tag k="name" v="Nonantola"/>
-    <tag k="name:egl" v="Nonàntla"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="15839"/>
-    <tag k="postal_code" v="41015"/>
-    <tag k="ref:ISTAT" v="036027"/>
-    <tag k="ref:catasto" v="F930"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.nonantola.mo.it/"/>
-    <tag k="wikidata" v="Q100080"/>
-    <tag k="wikipedia" v="it:Nonantola"/>
-  </node>
   <node id="69300465" lat="44.2685063" lon="10.9411886" version="9" timestamp="2017-03-07T17:05:54Z" changeset="46657212" uid="354284" user="sbiribizio">
     <tag k="ele" v="842"/>
     <tag k="gfoss_id" v="4005"/>
@@ -11799,21 +11724,6 @@
     <tag k="wikidata" v="Q100069"/>
     <tag k="wikipedia" v="it:Montecreto"/>
   </node>
-  <node id="69300518" lat="44.7297700" lon="11.0384010" version="7" timestamp="2017-09-10T08:19:16Z" changeset="51900579" uid="339581" user="nyuriks">
-    <tag k="ele" v="20"/>
-    <tag k="gfoss_id" v="3981"/>
-    <tag k="name" v="Bomporto"/>
-    <tag k="name:egl" v="Bumpòrt"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10157"/>
-    <tag k="postal_code" v="41030"/>
-    <tag k="ref:ISTAT" v="036002"/>
-    <tag k="ref:catasto" v="A959"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bomporto.mo.it/"/>
-    <tag k="wikidata" v="Q100038"/>
-    <tag k="wikipedia" v="it:Bomporto"/>
-  </node>
   <node id="69300527" lat="44.7835699" lon="10.8854523" version="17" timestamp="2018-08-18T21:49:01Z" changeset="61780925" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="3984"/>
     <tag k="name" v="Carpi"/>
@@ -11831,22 +11741,6 @@
     <tag k="wikidata" v="Q100041"/>
     <tag k="wikipedia" v="it:Carpi"/>
   </node>
-  <node id="69300532" lat="44.5034615" lon="10.9432999" version="12" timestamp="2017-09-10T08:19:16Z" changeset="51900579" uid="339581" user="nyuriks">
-    <tag k="ele" v="152"/>
-    <tag k="gfoss_id" v="3987"/>
-    <tag k="name" v="Castelvetro di Modena"/>
-    <tag k="name:egl" v="Castelvéder"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="11185"/>
-    <tag k="postal_code" v="41014"/>
-    <tag k="ref:ISTAT" v="036008"/>
-    <tag k="ref:LOCODE" v="ITCOM"/>
-    <tag k="ref:catasto" v="C287"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.castelvetro-di-modena.mo.it/"/>
-    <tag k="wikidata" v="Q100045"/>
-    <tag k="wikipedia" v="it:Castelvetro di Modena"/>
-  </node>
   <node id="69300554" lat="44.7896710" lon="11.0221000" version="9" timestamp="2017-09-10T08:19:17Z" changeset="51900579" uid="339581" user="nyuriks">
     <tag k="ele" v="22"/>
     <tag k="gfoss_id" v="4018"/>
@@ -11861,21 +11755,6 @@
     <tag k="website" v="http://www.comune.sanprospero.mo.it/"/>
     <tag k="wikidata" v="Q100100"/>
     <tag k="wikipedia" v="it:San Prospero (Modena)"/>
-  </node>
-  <node id="69300570" lat="44.5334130" lon="11.0240826" version="10" timestamp="2019-04-15T21:18:04Z" changeset="69249996" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="69"/>
-    <tag k="gfoss_id" v="4024"/>
-    <tag k="name" v="Spilamberto"/>
-    <tag k="name:egl" v="Spilambèrt"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12621"/>
-    <tag k="postal_code" v="41057"/>
-    <tag k="ref:ISTAT" v="036045"/>
-    <tag k="ref:catasto" v="I903"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.spilamberto.mo.it/"/>
-    <tag k="wikidata" v="Q100109"/>
-    <tag k="wikipedia" v="it:Spilamberto"/>
   </node>
   <node id="69300577" lat="44.3472638" lon="10.9904070" version="9" timestamp="2017-03-07T17:05:59Z" changeset="46657212" uid="354284" user="sbiribizio">
     <tag k="ele" v="758"/>
@@ -11893,37 +11772,12 @@
     <tag k="wikidata" v="Q100113"/>
     <tag k="wikipedia" v="it:Zocca"/>
   </node>
-  <node id="69300594" lat="44.7269690" lon="10.9986000" version="9" timestamp="2017-03-07T17:05:59Z" changeset="46657212" uid="354284" user="sbiribizio">
-    <tag k="ele" v="27"/>
-    <tag k="gfoss_id" v="3980"/>
-    <tag k="name" v="Bastiglia"/>
-    <tag k="name:egl" v="Bastìa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4149"/>
-    <tag k="postal_code" v="41030"/>
-    <tag k="ref:ISTAT" v="036001"/>
-    <tag k="ref:LOCODE" v="ITBTG"/>
-    <tag k="ref:catasto" v="A713"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bastiglia.mo.it/"/>
-    <tag k="wikidata" v="Q100036"/>
-    <tag k="wikipedia" v="it:Bastiglia (Italia)"/>
-  </node>
   <node id="69300610" lat="44.5684560" lon="9.8832790" version="6" timestamp="2016-09-21T13:17:23Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3931"/>
     <tag k="name" v="Mormorola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="84"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69300632" lat="44.5106079" lon="9.9896546" version="9" timestamp="2020-05-27T08:04:00Z" changeset="85816083" uid="1669056" user="Maurizio Melani (forwalk)">
-    <tag k="ele" v="808"/>
-    <tag k="gfoss_id" v="3891"/>
-    <tag k="name" v="Berceto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2434"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q100761"/>
   </node>
   <node id="69300640" lat="44.7211700" lon="11.0984030" version="9" timestamp="2017-09-10T08:19:18Z" changeset="51900579" uid="339581" user="nyuriks">
     <tag k="ele" v="23"/>
@@ -11979,13 +11833,6 @@
     <tag k="population" v="1773"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300703" lat="44.5205442" lon="10.1991991" version="7" timestamp="2016-09-21T13:17:30Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3926"/>
-    <tag k="name" v="Tizzano Val Parma"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2126"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69300738" lat="44.8587650" lon="10.1751800" version="4" timestamp="2016-09-21T13:17:19Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3903"/>
     <tag k="name" v="Fontevivo"/>
@@ -12004,27 +11851,11 @@
     <tag k="wikidata" v="Q100902"/>
     <tag k="wikipedia" v="it:Roccabianca"/>
   </node>
-  <node id="69300765" lat="44.4129554" lon="10.1241904" version="7" timestamp="2016-09-21T13:17:22Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="ele" v="820"/>
-    <tag k="gfoss_id" v="3909"/>
-    <tag k="name" v="Monchio delle Corti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1254"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69300781" lat="44.7331681" lon="9.9275557" version="5" timestamp="2016-09-21T13:17:25Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3915"/>
     <tag k="name" v="Pellegrino Parmense"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1285"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69300789" lat="44.4374371" lon="10.1944619" version="8" timestamp="2016-09-21T13:17:24Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="ele" v="691"/>
-    <tag k="gfoss_id" v="3913"/>
-    <tag k="name" v="Palanzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1352"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69300797" lat="44.8816660" lon="10.1721790" version="2" timestamp="2016-09-21T13:17:19Z" changeset="42322913" uid="743479" user="fayor">
@@ -12258,25 +12089,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q52981"/>
   </node>
-  <node id="69301450" lat="44.3891687" lon="11.8264514" version="4" timestamp="2016-09-16T15:55:06Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4115"/>
-    <tag k="name" v="Bagnara di Romagna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1761"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69301460" lat="44.4421700" lon="11.8601240" version="2" timestamp="2016-09-16T15:55:11Z" changeset="42205884" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4129"/>
     <tag k="name" v="Sant'Agata sul Santerno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2131"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301466" lat="44.3603680" lon="11.8445250" version="2" timestamp="2016-09-16T15:55:12Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4130"/>
-    <tag k="name" v="Solarolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4216"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301517" lat="44.9050126" lon="10.6302265" version="6" timestamp="2020-07-11T19:41:21Z" changeset="87861752" uid="1476146" user="Alecs01">
@@ -12341,15 +12158,6 @@
     <tag k="name:egl" v="Sân Pôl"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6083"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301692" lat="44.6201821" lon="10.6019259" version="6" timestamp="2017-09-01T18:41:01Z" changeset="51652579" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="3935"/>
-    <tag k="name" v="Albinea"/>
-    <tag k="name:egl" v="Albinèa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8860"/>
-    <tag k="ref:LOCODE" v="ITAJA"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301716" lat="43.8726846" lon="12.6685074" version="7" timestamp="2019-11-27T19:52:55Z" changeset="77651319" uid="178610" user="Pab09">
@@ -14003,14 +13811,6 @@
     <tag k="wikidata" v="Q51468"/>
     <tag k="wikipedia" v="it:Torano Nuovo"/>
   </node>
-  <node id="70993666" lat="42.8851442" lon="13.9155354" version="5" timestamp="2016-10-26T09:59:09Z" changeset="43187428" uid="2512300" user="samely">
-    <tag k="gfoss_id" v="5862"/>
-    <tag k="name" v="Martinsicuro"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="16033"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51452"/>
-  </node>
   <node id="70993681" lat="42.5449410" lon="13.6474940" version="2" timestamp="2016-09-07T17:42:34Z" changeset="41985059" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5860"/>
     <tag k="name" v="Tossicia"/>
@@ -14063,16 +13863,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="7152"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70993757" lat="42.6575672" lon="13.6555197" version="8" timestamp="2017-03-02T10:03:15Z" changeset="46517776" uid="3084054" user="agnostico">
-    <tag k="ele" v="437"/>
-    <tag k="gfoss_id" v="5858"/>
-    <tag k="name" v="Torricella Sicura"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2692"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51469"/>
-    <tag k="wikipedia" v="it:Torricella Sicura"/>
   </node>
   <node id="70993774" lat="42.5408678" lon="13.6789376" version="3" timestamp="2016-09-07T17:42:32Z" changeset="41985059" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5833"/>
