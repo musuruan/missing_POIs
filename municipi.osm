@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.8 7d656e78">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-03-07T02:15:12Z" areas="2021-03-07T01:39:26Z"/>
+<meta osm_base="2021-03-08T02:14:54Z" areas="2021-03-08T01:05:26Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -7421,6 +7421,13 @@
     <tag k="name" v="Castelluccio Inferiore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2344"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="67281100" lat="40.7475222" lon="15.8806483" version="4" timestamp="2016-08-28T18:58:37Z" changeset="41762146" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6414"/>
+    <tag k="name" v="Pietragalla"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4210"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67281107" lat="40.0675050" lon="15.8002740" version="2" timestamp="2016-08-28T18:58:34Z" changeset="41762146" uid="743479" user="fayor">
