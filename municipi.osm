@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-03-15T02:17:27Z" areas="2021-03-15T01:53:55Z"/>
+<meta osm_base="2021-03-16T02:16:12Z" areas="2021-03-16T01:43:25Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3859,13 +3859,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q24873"/>
   </node>
-  <node id="63631304" lat="45.1146460" lon="7.3835150" version="2" timestamp="2011-11-03T15:27:34Z" changeset="9731325" uid="113023" user="glaucos">
-    <tag k="gfoss_id" v="303"/>
-    <tag k="name" v="Villar Dora"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2718"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63631374" lat="45.0761440" lon="7.3407150" version="2" timestamp="2011-11-03T15:27:34Z" changeset="9731325" uid="113023" user="glaucos">
     <tag k="gfoss_id" v="285"/>
     <tag k="name" v="Valgioie"/>
@@ -7410,6 +7403,13 @@
     <tag k="name" v="Montemurro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1555"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="67281182" lat="40.1907152" lon="16.0763475" version="3" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6428"/>
+    <tag k="name" v="San Chirico Raparo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1304"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67281204" lat="40.8488190" lon="15.5413590" version="4" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
