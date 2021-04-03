@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-04-02T02:38:54Z" areas="2021-04-02T01:42:58Z"/>
+<meta osm_base="2021-04-03T02:30:27Z" areas="2021-04-03T01:21:03Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -11462,7 +11462,7 @@
     <tag k="population" v="4744"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300410" lat="44.0744650" lon="12.3275410" version="2" timestamp="2016-09-16T15:55:08Z" changeset="42205884" uid="743479" user="fayor">
+  <node id="69300410" lat="44.0743778" lon="12.3274733" version="3" timestamp="2021-04-02T12:49:25Z" changeset="102194793" uid="585860" user="RosTnT">
     <tag k="gfoss_id" v="4144"/>
     <tag k="name" v="Longiano"/>
     <tag k="place" v="village"/>
@@ -11617,23 +11617,6 @@
     <tag k="website" v="http://www.comune.montecreto.mo.it/"/>
     <tag k="wikidata" v="Q100069"/>
     <tag k="wikipedia" v="it:Montecreto"/>
-  </node>
-  <node id="69300527" lat="44.7835699" lon="10.8854523" version="17" timestamp="2018-08-18T21:49:01Z" changeset="61780925" uid="7022493" user="Fra00">
-    <tag k="gfoss_id" v="3984"/>
-    <tag k="name" v="Carpi"/>
-    <tag k="name:egl" v="Chèrp"/>
-    <tag k="name:he" v="קארפי"/>
-    <tag k="name:lt" v="Karpis"/>
-    <tag k="name:uk" v="Карпі"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="70699"/>
-    <tag k="postal_code" v="41012"/>
-    <tag k="ref:ISTAT" v="036005"/>
-    <tag k="ref:catasto" v="B819"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.carpi.mo.it/"/>
-    <tag k="wikidata" v="Q100041"/>
-    <tag k="wikipedia" v="it:Carpi"/>
   </node>
   <node id="69300554" lat="44.7896710" lon="11.0221000" version="9" timestamp="2017-09-10T08:19:17Z" changeset="51900579" uid="339581" user="nyuriks">
     <tag k="ele" v="22"/>
@@ -11841,16 +11824,6 @@
     <tag k="population" v="1881"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301217" lat="44.9280841" lon="9.9107218" version="5" timestamp="2017-04-24T19:35:30Z" changeset="48100375" uid="1476146" user="Alecs01">
-    <tag k="gfoss_id" v="3860"/>
-    <tag k="name" v="Fiorenzuola d'Arda"/>
-    <tag k="name:egl" v="Fiurinsöla"/>
-    <tag k="old_name:lat" v="Florentia"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="15297"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q102767"/>
-  </node>
   <node id="69301234" lat="45.0495995" lon="9.8743749" version="3" timestamp="2016-09-21T13:17:16Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="ele" v="45"/>
     <tag k="gfoss_id" v="3849"/>
@@ -11873,18 +11846,6 @@
     <tag k="name" v="Riolo Terme"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5720"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301331" lat="44.9018700" lon="10.5542870" version="5" timestamp="2017-09-01T18:01:35Z" changeset="51651638" uid="1834719" user="LvdT">
-    <tag k="ele" v="23"/>
-    <tag k="gfoss_id" v="3939"/>
-    <tag k="name" v="Boretto"/>
-    <tag k="name:egl" v="Burèt"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5400"/>
-    <tag k="postal_code" v="42022"/>
-    <tag k="ref:ISTAT" v="035005"/>
-    <tag k="ref:LOCODE" v="ITBRT"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301376" lat="44.6661530" lon="9.2871640" version="2" timestamp="2016-09-21T13:17:32Z" changeset="42322913" uid="743479" user="fayor">
@@ -11915,53 +11876,6 @@
     <tag k="name" v="Sant'Agata sul Santerno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2131"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301517" lat="44.9050126" lon="10.6302265" version="6" timestamp="2020-07-11T19:41:21Z" changeset="87861752" uid="1476146" user="Alecs01">
-    <tag k="gfoss_id" v="3957"/>
-    <tag k="name" v="Gualtieri"/>
-    <tag k="name:egl" v="Gualtēr"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6580"/>
-    <tag k="postal_code" v="42044"/>
-    <tag k="ref:ISTAT" v="035023"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301523" lat="44.8108626" lon="10.5632954" version="5" timestamp="2017-09-01T18:01:36Z" changeset="51651638" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="3949"/>
-    <tag k="name" v="Castelnovo di Sotto"/>
-    <tag k="name:egl" v="Castelnōv ed Sòt"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8462"/>
-    <tag k="ref:LOCODE" v="ITCDX"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301532" lat="44.9211516" lon="10.6539985" version="8" timestamp="2017-09-01T18:01:36Z" changeset="51651638" uid="1834719" user="LvdT">
-    <tag k="ele" v="25"/>
-    <tag k="gfoss_id" v="3958"/>
-    <tag k="name" v="Guastalla"/>
-    <tag k="name:egl" v="Guastâla"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="15225"/>
-    <tag k="postal_code" v="42016"/>
-    <tag k="ref:ISTAT" v="035024"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q111205"/>
-  </node>
-  <node id="69301536" lat="44.8416698" lon="10.5416150" version="4" timestamp="2017-09-01T18:01:36Z" changeset="51651638" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="3963"/>
-    <tag k="name" v="Poviglio"/>
-    <tag k="name:egl" v="Puvî"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6522"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301639" lat="44.9185339" lon="10.8042114" version="4" timestamp="2017-09-01T18:01:37Z" changeset="51651638" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="3966"/>
-    <tag k="name" v="Reggiolo"/>
-    <tag k="name:egl" v="Rezōl"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9178"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301654" lat="44.6258624" lon="10.4222874" version="5" timestamp="2017-12-03T16:38:04Z" changeset="54302391" uid="7073950" user="Ziomio">
@@ -13779,14 +13693,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="550"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72959932" lat="41.6406200" lon="13.5137040" version="5" timestamp="2017-03-11T12:49:42Z" changeset="46761722" uid="354284" user="sbiribizio">
-    <tag k="gfoss_id" v="5109"/>
-    <tag k="name" v="Monte San Giovanni Campano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12929"/>
-    <tag k="wikidata" v="Q116952"/>
-    <tag k="wikipedia" v="it:Monte San Giovanni Campano"/>
   </node>
   <node id="72959948" lat="41.5922170" lon="13.2439980" version="2" timestamp="2016-09-07T16:57:07Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5113"/>
