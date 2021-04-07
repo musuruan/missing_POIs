@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-04-06T02:34:55Z" areas="2021-04-06T02:27:57Z"/>
+<meta osm_base="2021-04-07T02:35:10Z" areas="2021-04-07T01:28:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -8630,14 +8630,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51933"/>
   </node>
-  <node id="68528952" lat="41.8446370" lon="15.1659370" version="4" timestamp="2019-04-26T14:55:12Z" changeset="69604196" uid="8996695" user="Bardhazizi">
-    <tag k="gfoss_id" v="6117"/>
-    <tag k="name" v="Chieuti"/>
-    <tag k="name:sq" v="Qefti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1788"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68528955" lat="41.3724270" lon="15.0961420" version="2" timestamp="2016-08-27T16:24:14Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6140"/>
     <tag k="name" v="Roseto Valfortore"/>
@@ -11240,21 +11232,6 @@
     <tag k="wikidata" v="Q94983"/>
     <tag k="wikipedia" v="it:Porretta Terme"/>
   </node>
-  <node id="69300229" lat="44.8941828" lon="11.8278892" version="7" timestamp="2020-07-16T16:07:22Z" changeset="88096399" uid="1476146" user="Alecs01">
-    <tag k="ele" v="5"/>
-    <tag k="gfoss_id" v="4093"/>
-    <tag k="name" v="Copparo"/>
-    <tag k="name:egl" v="Cupàr"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="16567"/>
-    <tag k="postal_code" v="44034"/>
-    <tag k="ref:ISTAT" v="038007"/>
-    <tag k="ref:catasto" v="C980"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.copparo.fe.it/"/>
-    <tag k="wikidata" v="Q95098"/>
-    <tag k="wikipedia" v="it:Copparo"/>
-  </node>
   <node id="69300237" lat="44.8824077" lon="11.9793488" version="9" timestamp="2017-04-02T21:55:25Z" changeset="47394388" uid="1834719" user="LvdT">
     <tag k="ele" v="-1"/>
     <tag k="gfoss_id" v="4096"/>
@@ -11403,13 +11380,6 @@
     <tag k="population" v="1591"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300402" lat="44.1611630" lon="11.7935280" version="2" timestamp="2016-09-16T15:55:09Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4147"/>
-    <tag k="name" v="Modigliana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4744"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69300410" lat="44.0743778" lon="12.3274733" version="3" timestamp="2021-04-02T12:49:25Z" changeset="102194793" uid="585860" user="RosTnT">
     <tag k="gfoss_id" v="4144"/>
     <tag k="name" v="Longiano"/>
@@ -11445,39 +11415,6 @@
     <tag k="website" v="http://www.comune.lamamocogno.mo.it/"/>
     <tag k="wikidata" v="Q100058"/>
     <tag k="wikipedia" v="it:Lama Mocogno"/>
-  </node>
-  <node id="69300467" lat="44.3396940" lon="10.8341135" version="13" timestamp="2018-03-12T15:35:55Z" changeset="57114969" uid="1834719" user="LvdT">
-    <tag k="ele" v="682"/>
-    <tag k="gfoss_id" v="4009"/>
-    <tag k="name" v="Pavullo nel Frignano"/>
-    <tag k="name:egl" v="Pavóll"/>
-    <tag k="name:uk" v="Павулло-нель-Фриньяно"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="17383"/>
-    <tag k="postal_code" v="41026"/>
-    <tag k="ref:ISTAT" v="036030"/>
-    <tag k="ref:LOCODE" v="ITPVO"/>
-    <tag k="ref:catasto" v="G393"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.pavullo-nel-frignano.mo.it/"/>
-    <tag k="wikidata" v="Q100084"/>
-    <tag k="wikipedia" v="it:Pavullo nel Frignano"/>
-  </node>
-  <node id="69300474" lat="44.3447580" lon="10.7235010" version="8" timestamp="2017-09-10T08:19:14Z" changeset="51900579" uid="339581" user="nyuriks">
-    <tag k="ele" v="810"/>
-    <tag k="gfoss_id" v="4011"/>
-    <tag k="name" v="Polinago"/>
-    <tag k="name:egl" v="Pulinègh"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1775"/>
-    <tag k="postal_code" v="41040"/>
-    <tag k="ref:ISTAT" v="036032"/>
-    <tag k="ref:LOCODE" v="ITOAG"/>
-    <tag k="ref:catasto" v="G789"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.polinago.mo.it/"/>
-    <tag k="wikidata" v="Q100087"/>
-    <tag k="wikipedia" v="it:Polinago"/>
   </node>
   <node id="69300478" lat="44.2047540" lon="10.6166010" version="7" timestamp="2017-03-07T17:05:55Z" changeset="46657212" uid="354284" user="sbiribizio">
     <tag k="ele" v="781"/>
@@ -11539,22 +11476,6 @@
     <tag k="wikidata" v="Q100069"/>
     <tag k="wikipedia" v="it:Montecreto"/>
   </node>
-  <node id="69300577" lat="44.3472638" lon="10.9904070" version="9" timestamp="2017-03-07T17:05:59Z" changeset="46657212" uid="354284" user="sbiribizio">
-    <tag k="ele" v="758"/>
-    <tag k="gfoss_id" v="4026"/>
-    <tag k="name" v="Zocca"/>
-    <tag k="name:egl" v="Zòca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5024"/>
-    <tag k="postal_code" v="41059"/>
-    <tag k="ref:ISTAT" v="036047"/>
-    <tag k="ref:LOCODE" v="ITZXQ"/>
-    <tag k="ref:catasto" v="M183"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.zocca.mo.it/"/>
-    <tag k="wikidata" v="Q100113"/>
-    <tag k="wikipedia" v="it:Zocca"/>
-  </node>
   <node id="69300610" lat="44.5684560" lon="9.8832790" version="6" timestamp="2016-09-21T13:17:23Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3931"/>
     <tag k="name" v="Mormorola"/>
@@ -11577,37 +11498,6 @@
     <tag k="website" v="http://www.comune.ravarino.mo.it/"/>
     <tag k="wikidata" v="Q100089"/>
     <tag k="wikipedia" v="it:Ravarino"/>
-  </node>
-  <node id="69300646" lat="44.3209570" lon="10.6461000" version="9" timestamp="2019-04-15T21:19:50Z" changeset="69250019" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="705"/>
-    <tag k="gfoss_id" v="4008"/>
-    <tag k="name" v="Palagano"/>
-    <tag k="name:egl" v="Palàgan"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2417"/>
-    <tag k="postal_code" v="41046"/>
-    <tag k="ref:ISTAT" v="036029"/>
-    <tag k="ref:catasto" v="G250"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.palagano.mo.it/"/>
-    <tag k="wikidata" v="Q100083"/>
-    <tag k="wikipedia" v="it:Palagano"/>
-  </node>
-  <node id="69300652" lat="44.3528570" lon="10.6255990" version="10" timestamp="2019-04-15T21:25:07Z" changeset="69250125" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="797"/>
-    <tag k="gfoss_id" v="4004"/>
-    <tag k="name" v="Montefiorino"/>
-    <tag k="name:egl" v="Muntfiurèin"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2258"/>
-    <tag k="postal_code" v="41045"/>
-    <tag k="ref:ISTAT" v="036025"/>
-    <tag k="ref:LOCODE" v="ITMFO"/>
-    <tag k="ref:catasto" v="F503"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.montefiorino.mo.it/"/>
-    <tag k="wikidata" v="Q100070"/>
-    <tag k="wikipedia" v="it:Montefiorino"/>
   </node>
   <node id="69300690" lat="44.6130570" lon="9.9754800" version="5" timestamp="2016-09-21T13:17:30Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3922"/>
@@ -11653,13 +11543,6 @@
     <tag k="name" v="Bettola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3187"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301039" lat="44.9262660" lon="10.1241780" version="4" timestamp="2016-09-21T13:17:30Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3923"/>
-    <tag k="name" v="Soragna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4358"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301090" lat="44.9541630" lon="9.7368690" version="2" timestamp="2016-09-21T13:17:28Z" changeset="42322913" uid="743479" user="fayor">
@@ -11745,13 +11628,6 @@
     <tag k="name" v="Alseno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4661"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301326" lat="44.2770835" lon="11.7245200" version="5" timestamp="2016-09-16T15:55:10Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4127"/>
-    <tag k="name" v="Riolo Terme"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5720"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301376" lat="44.6661530" lon="9.2871640" version="2" timestamp="2016-09-21T13:17:32Z" changeset="42322913" uid="743479" user="fayor">
@@ -14671,13 +14547,6 @@
     <tag k="population" v="1251"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963687" lat="42.1601883" lon="12.7852680" version="3" timestamp="2016-09-07T18:50:28Z" changeset="41986239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4982"/>
-    <tag k="name" v="Nerola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1419"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72963697" lat="41.8873266" lon="12.8931264" version="3" timestamp="2016-09-07T18:50:29Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4989"/>
     <tag k="name" v="Poli"/>
@@ -15652,11 +15521,6 @@
     <tag k="name" v="Vicoforte"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="2510133545" lat="43.9759077" lon="11.7775267" version="3" timestamp="2021-03-13T14:09:50Z" changeset="100954868" uid="4022573" user="Lola Fox">
-    <tag k="name" v="Premilcuore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="799"/>
-  </node>
   <node id="2593800769" lat="45.8237439" lon="7.1821889" version="2" timestamp="2020-04-29T06:21:15Z" changeset="84311677" uid="1669056" user="Maurizio Melani (forwalk)">
     <tag k="name" v="Saint-Rhémy-en-Bosses"/>
     <tag k="place" v="village"/>
@@ -15685,16 +15549,6 @@
     <tag k="name" v="Cottanello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="572"/>
-  </node>
-  <node id="2674512901" lat="41.8233236" lon="15.3654175" version="4" timestamp="2019-09-04T06:13:38Z" changeset="74066356" uid="1967477" user="bubix">
-    <tag k="alt_name" v="Porta della Puglia e del Gargano"/>
-    <tag k="capital" v="8"/>
-    <tag k="loc_name" v="Terranòvë"/>
-    <tag k="name" v="Poggio Imperiale"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2835"/>
-    <tag k="ref:istat" v="071040"/>
-    <tag k="wikidata" v="Q51946"/>
   </node>
   <node id="2707316028" lat="40.8932368" lon="12.9630622" version="3" timestamp="2016-09-07T16:57:07Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="name" v="Ponza"/>
