@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-04-07T02:35:10Z" areas="2021-04-07T01:28:55Z"/>
+<meta osm_base="2021-04-08T02:35:40Z" areas="2021-04-08T02:05:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -1306,14 +1306,6 @@
     <tag k="population" v="2002"/>
     <tag k="postal_code" v="26040"/>
     <tag k="ref:ISTAT" v="019057"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62511875" lat="45.3734822" lon="9.5727662" version="2" timestamp="2013-12-26T19:46:58Z" changeset="19650221" uid="178610" user="Pab09">
-    <tag k="gfoss_id" v="2624"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
-    <tag k="name" v="Monte Cremasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1923"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62511891" lat="45.2358730" lon="10.0222700" version="2" timestamp="2021-01-08T15:16:38Z" changeset="97177755" uid="743479" user="fayor">
@@ -8792,13 +8784,6 @@
     <tag k="population" v="1446"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529440" lat="40.3243980" lon="18.0975900" version="4" timestamp="2017-01-29T14:39:40Z" changeset="45622070" uid="4889506" user="PMJx">
-    <tag k="gfoss_id" v="6305"/>
-    <tag k="name" v="Monteroni di Lecce"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14013"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68529471" lat="40.0542230" lon="18.3791320" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6318"/>
     <tag k="name" v="Poggiardo"/>
@@ -8876,15 +8861,6 @@
     <tag k="population" v="9924"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529733" lat="40.3984955" lon="18.0183191" version="8" timestamp="2019-08-22T16:23:53Z" changeset="73633162" uid="1960233" user="corfede">
-    <tag k="gfoss_id" v="6268"/>
-    <tag k="name" v="Campi Salentina"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10472"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q52119"/>
-    <tag k="wikipedia" v="it:Campi Salentina"/>
-  </node>
   <node id="68529738" lat="40.0095220" lon="18.3925320" version="7" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6284"/>
     <tag k="name" v="Diso"/>
@@ -8943,15 +8919,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3095"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529904" lat="40.3785270" lon="18.0492200" version="6" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6312"/>
-    <tag k="name" v="Novoli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8484"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q52172"/>
-    <tag k="wikipedia" v="it:Novoli"/>
   </node>
   <node id="68529953" lat="40.4440240" lon="17.4151050" version="2" timestamp="2016-08-27T16:24:10Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6226"/>
@@ -11174,36 +11141,6 @@
     <tag k="wikidata" v="Q94745"/>
     <tag k="wikipedia" v="it:Castel di Casio"/>
   </node>
-  <node id="69300105" lat="44.2792634" lon="11.2664080" version="7" timestamp="2017-05-02T18:11:46Z" changeset="48342986" uid="1834719" user="LvdT">
-    <tag k="ele" v="621"/>
-    <tag k="gfoss_id" v="4070"/>
-    <tag k="name" v="Monzuno"/>
-    <tag k="name:egl" v="Munzón"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6500"/>
-    <tag k="postal_code" v="40036"/>
-    <tag k="ref:ISTAT" v="037044"/>
-    <tag k="ref:catasto" v="F706"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.monzuno.bologna.it/"/>
-    <tag k="wikidata" v="Q94972"/>
-    <tag k="wikipedia" v="it:Monzuno"/>
-  </node>
-  <node id="69300109" lat="44.2152590" lon="11.2329140" version="7" timestamp="2017-05-02T18:11:47Z" changeset="48342986" uid="1834719" user="LvdT">
-    <tag k="ele" v="602"/>
-    <tag k="gfoss_id" v="4077"/>
-    <tag k="name" v="San Benedetto Val di Sambro"/>
-    <tag k="name:egl" v="San Bandàtt"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4495"/>
-    <tag k="postal_code" v="40048"/>
-    <tag k="ref:ISTAT" v="037051"/>
-    <tag k="ref:catasto" v="G566"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sanbenedettovaldisambro.bo.it/"/>
-    <tag k="wikidata" v="Q94987"/>
-    <tag k="wikipedia" v="it:San Benedetto Val di Sambro"/>
-  </node>
   <node id="69300112" lat="44.3409877" lon="11.2047820" version="9" timestamp="2020-09-09T12:49:19Z" changeset="90647115" uid="2498239" user="maurizioa">
     <tag k="ele" v="130"/>
     <tag k="gfoss_id" v="4062"/>
@@ -11401,81 +11338,6 @@
     <tag k="population" v="10660"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300448" lat="44.3072628" lon="10.7317768" version="10" timestamp="2017-07-31T21:43:05Z" changeset="50734095" uid="5509234" user="Ben97">
-    <tag k="ele" v="842"/>
-    <tag k="gfoss_id" v="3997"/>
-    <tag k="name" v="Lama Mocogno"/>
-    <tag k="name:egl" v="Làma"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2912"/>
-    <tag k="postal_code" v="41023"/>
-    <tag k="ref:ISTAT" v="036018"/>
-    <tag k="ref:catasto" v="E426"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.lamamocogno.mo.it/"/>
-    <tag k="wikidata" v="Q100058"/>
-    <tag k="wikipedia" v="it:Lama Mocogno"/>
-  </node>
-  <node id="69300478" lat="44.2047540" lon="10.6166010" version="7" timestamp="2017-03-07T17:05:55Z" changeset="46657212" uid="354284" user="sbiribizio">
-    <tag k="ele" v="781"/>
-    <tag k="gfoss_id" v="4010"/>
-    <tag k="name" v="Pievepelago"/>
-    <tag k="name:egl" v="Pivpélegh"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2304"/>
-    <tag k="postal_code" v="41027"/>
-    <tag k="ref:ISTAT" v="036031"/>
-    <tag k="ref:catasto" v="G649"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.pievepelago.mo.it/"/>
-    <tag k="wikidata" v="Q100086"/>
-    <tag k="wikipedia" v="it:Pievepelago"/>
-  </node>
-  <node id="69300486" lat="44.2299738" lon="10.6515646" version="9" timestamp="2017-09-10T08:19:15Z" changeset="51900579" uid="339581" user="nyuriks">
-    <tag k="ele" v="716"/>
-    <tag k="gfoss_id" v="4014"/>
-    <tag k="name" v="Riolunato"/>
-    <tag k="name:egl" v="Ardundlà"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="759"/>
-    <tag k="postal_code" v="41020"/>
-    <tag k="ref:ISTAT" v="036035"/>
-    <tag k="ref:catasto" v="H303"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.riolunato.mo.it/"/>
-    <tag k="wikidata" v="Q100091"/>
-    <tag k="wikipedia" v="it:Riolunato"/>
-  </node>
-  <node id="69300506" lat="44.2955550" lon="10.5701980" version="9" timestamp="2019-04-15T21:19:30Z" changeset="69250019" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="1131"/>
-    <tag k="gfoss_id" v="3995"/>
-    <tag k="name" v="Frassinoro"/>
-    <tag k="name:egl" v="Frasnùr"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2046"/>
-    <tag k="postal_code" v="41044"/>
-    <tag k="ref:ISTAT" v="036016"/>
-    <tag k="ref:catasto" v="D783"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.frassinoro.mo.it/"/>
-    <tag k="wikidata" v="Q100056"/>
-    <tag k="wikipedia" v="it:Frassinoro"/>
-  </node>
-  <node id="69300510" lat="44.2459550" lon="10.7176020" version="8" timestamp="2017-09-10T08:19:15Z" changeset="51900579" uid="339581" user="nyuriks">
-    <tag k="ele" v="864"/>
-    <tag k="gfoss_id" v="4003"/>
-    <tag k="name" v="Montecreto"/>
-    <tag k="name:egl" v="Muntecrê"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1007"/>
-    <tag k="postal_code" v="41025"/>
-    <tag k="ref:ISTAT" v="036024"/>
-    <tag k="ref:catasto" v="F484"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.montecreto.mo.it/"/>
-    <tag k="wikidata" v="Q100069"/>
-    <tag k="wikipedia" v="it:Montecreto"/>
-  </node>
   <node id="69300610" lat="44.5684560" lon="9.8832790" version="6" timestamp="2016-09-21T13:17:23Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3931"/>
     <tag k="name" v="Mormorola"/>
@@ -11504,13 +11366,6 @@
     <tag k="name" v="Solignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1773"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69300738" lat="44.8587650" lon="10.1751800" version="4" timestamp="2016-09-21T13:17:19Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3903"/>
-    <tag k="name" v="Fontevivo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4874"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69300749" lat="45.0093690" lon="10.2193780" version="6" timestamp="2018-12-05T19:39:01Z" changeset="65215748" uid="9127709" user="Parma1983">
@@ -11552,14 +11407,6 @@
     <tag k="population" v="5238"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301126" lat="44.9991650" lon="9.7885690" version="3" timestamp="2020-05-27T02:45:23Z" changeset="85801238" uid="1669056" user="Maurizio Melani (forwalk)">
-    <tag k="gfoss_id" v="3876"/>
-    <tag k="name" v="Pontenure"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5230"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q102951"/>
-  </node>
   <node id="69301152" lat="44.7227486" lon="9.7028607" version="5" timestamp="2016-09-21T13:17:23Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3867"/>
     <tag k="name" v="Morfasso"/>
@@ -11599,20 +11446,6 @@
     <tag k="population" v="4202"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301209" lat="45.0131630" lon="9.5689640" version="2" timestamp="2016-09-21T13:17:20Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3863"/>
-    <tag k="name" v="Gragnano Trebbiense"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3470"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301214" lat="44.7128373" lon="9.5692864" version="3" timestamp="2016-09-21T13:17:19Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3858"/>
-    <tag k="name" v="Farini"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1881"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69301234" lat="45.0495995" lon="9.8743749" version="3" timestamp="2016-09-21T13:17:16Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="ele" v="45"/>
     <tag k="gfoss_id" v="3849"/>
@@ -11635,13 +11468,6 @@
     <tag k="name" v="Zerba"/>
     <tag k="place" v="village"/>
     <tag k="population" v="77"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301385" lat="45.0213670" lon="9.9498720" version="2" timestamp="2016-09-21T13:17:28Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3880"/>
-    <tag k="name" v="San Pietro in Cerro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="957"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301419" lat="44.4188782" lon="11.9082311" version="8" timestamp="2016-11-08T16:50:26Z" changeset="43492638" uid="2511706" user="calfarome">
@@ -15318,19 +15144,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="7598"/>
   </node>
-  <node id="1467216951" lat="44.2661566" lon="11.3255341" version="7" timestamp="2019-03-20T11:26:43Z" changeset="68331789" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="714"/>
-    <tag k="name" v="Loiano"/>
-    <tag k="name:egl" v="Lujàn"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4511"/>
-    <tag k="postal_code" v="40050"/>
-    <tag k="ref:ISTAT" v="037034"/>
-    <tag k="ref:catasto" v="E655"/>
-    <tag k="website" v="https://www.loiano.eu/"/>
-    <tag k="wikidata" v="Q94931"/>
-    <tag k="wikipedia" v="it:Loiano"/>
-  </node>
   <node id="1487570666" lat="45.7176620" lon="12.2068345" version="5" timestamp="2019-03-18T17:59:28Z" changeset="68267461" uid="554973" user="dgitto">
     <tag k="name" v="Paderno"/>
     <tag k="place" v="village"/>
@@ -15521,6 +15334,11 @@
     <tag k="name" v="Vicoforte"/>
     <tag k="place" v="village"/>
   </node>
+  <node id="2510133545" lat="43.9759077" lon="11.7775267" version="3" timestamp="2021-03-13T14:09:50Z" changeset="100954868" uid="4022573" user="Lola Fox">
+    <tag k="name" v="Premilcuore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="799"/>
+  </node>
   <node id="2593800769" lat="45.8237439" lon="7.1821889" version="2" timestamp="2020-04-29T06:21:15Z" changeset="84311677" uid="1669056" user="Maurizio Melani (forwalk)">
     <tag k="name" v="Saint-Rhémy-en-Bosses"/>
     <tag k="place" v="village"/>
@@ -15577,12 +15395,6 @@
     <tag k="place" v="hamlet"/>
     <tag k="population" v="133"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="3822345092" lat="44.1425053" lon="11.1665077" version="3" timestamp="2017-05-02T18:11:49Z" changeset="48342986" uid="1834719" user="LvdT">
-    <tag k="name" v="Castiglione dei Pepoli"/>
-    <tag k="name:egl" v="Castión"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5648"/>
   </node>
   <node id="3828946382" lat="40.8193255" lon="15.5384276" version="4" timestamp="2016-08-24T21:51:12Z" changeset="41674017" uid="743479" user="fayor">
     <tag k="name" v="San Fele"/>
