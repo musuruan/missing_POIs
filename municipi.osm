@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-04-26T02:37:24Z" areas="2021-04-26T02:29:21Z"/>
+<meta osm_base="2021-04-27T02:32:24Z" areas="2021-04-27T02:06:07Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -136,14 +136,6 @@
     <tag k="name" v="Torre de' Roveri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2036"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506117" lat="45.9491417" lon="9.6893096" version="3" timestamp="2021-01-14T11:40:31Z" changeset="97493203" uid="616481" user="gigi2037">
-    <tag k="gfoss_id" v="2147"/>
-    <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
-    <tag k="name" v="Valnegra"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="213"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506130" lat="45.9748900" lon="9.9135540" version="2" timestamp="2021-01-14T21:18:59Z" changeset="97516511" uid="616481" user="gigi2037">
@@ -2700,28 +2692,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17841"/>
     <tag k="wikipedia" v="it:Passerano Marmorito"/>
-  </node>
-  <node id="63623559" lat="44.7864182" lon="8.1822235" version="4" timestamp="2021-02-13T17:10:36Z" changeset="99221817" uid="492756" user="Botaler">
-    <tag k="gfoss_id" v="788"/>
-    <tag k="name" v="Costigliole d'Asti"/>
-    <tag k="name:pms" v="Costiòle"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5882"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.costigliole.at.it"/>
-    <tag k="wikidata" v="Q17806"/>
-    <tag k="wikipedia" v="it:Costigliole d'Asti"/>
-  </node>
-  <node id="63623561" lat="44.8228489" lon="8.3588889" version="4" timestamp="2017-09-12T21:45:24Z" changeset="51987867" uid="417672" user="Guidus">
-    <tag k="gfoss_id" v="786"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
-    <tag k="name" v="Cortiglione"/>
-    <tag k="name:pms" v="Corgèli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="568"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17804"/>
-    <tag k="wikipedia" v="it:Cortiglione"/>
   </node>
   <node id="63623583" lat="45.0049008" lon="8.1688056" version="2" timestamp="2017-09-17T11:15:00Z" changeset="52115050" uid="417672" user="Guidus">
     <tag k="gfoss_id" v="793"/>
@@ -5813,15 +5783,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4192"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274511" lat="39.5951730" lon="16.5175366" version="6" timestamp="2018-03-30T21:48:54Z" changeset="57674422" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6529"/>
-    <tag k="name" v="Corigliano Calabro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5402"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53870"/>
-    <tag k="wikipedia" v="it:Corigliano Calabro"/>
   </node>
   <node id="67274517" lat="39.8364040" lon="16.2619870" version="3" timestamp="2016-09-05T17:39:01Z" changeset="41936799" uid="354689" user="FraPla">
     <tag k="gfoss_id" v="6542"/>
@@ -12121,13 +12082,6 @@
     <tag k="name" v="Roccascalegna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1423"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70991949" lat="42.2177400" lon="14.4492160" version="2" timestamp="2016-09-07T16:52:27Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5992"/>
-    <tag k="name" v="Santa Maria Imbaro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1735"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70991971" lat="42.2107380" lon="14.1839100" version="2" timestamp="2016-09-07T16:52:25Z" changeset="41983597" uid="743479" user="fayor">
