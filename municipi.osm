@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-04-28T02:34:27Z" areas="2021-04-28T01:50:36Z"/>
+<meta osm_base="2021-04-29T02:29:56Z" areas="2021-04-29T01:32:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -37,20 +37,11 @@
     <tag k="population" v="3317"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505737" lat="45.7111311" lon="9.8227908" version="2" timestamp="2013-06-10T19:50:04Z" changeset="16501189" uid="139580" user="morsi">
+  <node id="62505737" lat="45.7118653" lon="9.8237886" version="3" timestamp="2021-04-28T17:25:04Z" changeset="103792878" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="1992"/>
-    <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
     <tag k="name" v="Cenate Sopra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2082"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62505756" lat="45.9517880" lon="9.7007490" version="2" timestamp="2021-01-14T11:40:31Z" changeset="97493203" uid="616481" user="gigi2037">
-    <tag k="gfoss_id" v="2059"/>
-    <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
-    <tag k="name" v="Moio de' Calvi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="207"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62505771" lat="45.8894870" lon="9.7692520" version="2" timestamp="2021-01-14T11:40:31Z" changeset="97493203" uid="616481" user="gigi2037">
@@ -2639,26 +2630,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17808"/>
     <tag k="wikipedia" v="it:Dusino San Michele"/>
-  </node>
-  <node id="63623268" lat="45.1016520" lon="8.1019300" version="3" timestamp="2021-02-01T11:03:55Z" changeset="98505148" uid="6178157" user="Tresho">
-    <tag k="gfoss_id" v="829"/>
-    <tag k="name" v="Robella"/>
-    <tag k="name:pms" v="Robela"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="562"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17852"/>
-    <tag k="wikipedia" v="it:Robella"/>
-  </node>
-  <node id="63623298" lat="45.0545319" lon="8.0492759" version="5" timestamp="2021-02-06T19:18:44Z" changeset="98826343" uid="3335735" user="nick1993">
-    <tag k="gfoss_id" v="823"/>
-    <tag k="name" v="Piovà Massaia"/>
-    <tag k="name:pms" v="Piovà"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="640"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17845"/>
-    <tag k="wikipedia" v="it:Piovà Massaia"/>
   </node>
   <node id="63623507" lat="45.0558500" lon="8.0187290" version="6" timestamp="2021-02-06T19:18:44Z" changeset="98826343" uid="3335735" user="nick1993">
     <tag k="capital" v="8"/>
@@ -12025,13 +11996,6 @@
     <tag k="name" v="Pollutri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2345"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70991903" lat="41.9756330" lon="14.2528150" version="3" timestamp="2021-04-24T09:45:48Z" changeset="103527029" uid="13158303" user="Ivan Carozza">
-    <tag k="gfoss_id" v="5962"/>
-    <tag k="name" v="Montenerodomo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="678"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70991914" lat="41.9843588" lon="14.1380412" version="3" timestamp="2018-12-25T18:08:04Z" changeset="65765471" uid="7022493" user="Fra00">
