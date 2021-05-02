@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-05-01T02:35:00Z" areas="2021-05-01T01:58:13Z"/>
+<meta osm_base="2021-05-02T02:37:10Z" areas="2021-05-02T02:30:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -4028,9 +4028,11 @@
     <tag k="population" v="362"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778133" lat="46.5711759" lon="12.5861180" version="4" timestamp="2016-10-13T15:57:12Z" changeset="42872569" uid="743479" user="fayor">
+  <node id="64778133" lat="46.5711759" lon="12.5861180" version="5" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="3356"/>
     <tag k="name" v="San Pietro di Cadore"/>
+    <tag k="name:fur" v="San Pieri in Cjadovri"/>
+    <tag k="name:vec" v="San Piero de Cador"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1839"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -4078,9 +4080,11 @@
     <tag k="population" v="1108"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778228" lat="46.5579382" lon="12.5491422" version="4" timestamp="2017-12-30T00:00:51Z" changeset="55023091" uid="554973" user="dgitto">
+  <node id="64778228" lat="46.5579382" lon="12.5491422" version="5" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="3359"/>
     <tag k="name" v="Santo Stefano di Cadore"/>
+    <tag k="name:fur" v="San Scjefin in Cjadovri"/>
+    <tag k="name:vec" v="San Sten de Cador"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2905"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -14730,10 +14734,11 @@
     <tag k="place" v="village"/>
     <tag k="population" v="995"/>
   </node>
-  <node id="1885679570" lat="45.7755980" lon="12.8374571" version="7" timestamp="2017-03-12T14:08:56Z" changeset="46785792" uid="354284" user="sbiribizio">
+  <node id="1885679570" lat="45.7755980" lon="12.8374571" version="8" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
     <tag k="ele" v="5"/>
     <tag k="name" v="Portogruaro"/>
-    <tag k="name:fur" v="Puart"/>
+    <tag k="name:fur" v="Puàrt"/>
+    <tag k="name:vec" v="Pòrto"/>
     <tag k="place" v="town"/>
     <tag k="population" v="25142"/>
     <tag k="postal_code" v="30026"/>
