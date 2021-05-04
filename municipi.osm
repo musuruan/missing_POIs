@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-05-03T02:35:49Z" areas="2021-05-03T01:55:12Z"/>
+<meta osm_base="2021-05-04T02:30:03Z" areas="2021-05-04T02:11:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -2060,6 +2060,14 @@
     <tag k="name" v="Cantalupo Ligure"/>
     <tag k="place" v="village"/>
     <tag k="population" v="555"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="63621958" lat="44.6500331" lon="8.7923887" version="3" timestamp="2015-04-18T13:06:32Z" changeset="30306947" uid="2643905" user="Gianni Cepollina">
+    <tag k="gfoss_id" v="879"/>
+    <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
+    <tag k="name" v="Bosio"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1177"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63621968" lat="44.8349500" lon="8.6249460" version="1" timestamp="2007-10-10T21:15:47Z" changeset="89634" uid="864" user="Niccolo">
