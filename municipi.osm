@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-06-05T03:27:25Z" areas="2021-06-05T02:34:02Z"/>
+<meta osm_base="2021-06-06T03:22:43Z" areas="2021-06-06T02:53:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -127,14 +127,6 @@
     <tag k="name" v="Torre de' Roveri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2036"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506130" lat="45.9748900" lon="9.9135540" version="2" timestamp="2021-01-14T21:18:59Z" changeset="97516511" uid="616481" user="gigi2037">
-    <tag k="gfoss_id" v="2145"/>
-    <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
-    <tag k="name" v="Valgoglio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="595"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506145" lat="45.7265314" lon="9.8939905" version="4" timestamp="2012-08-07T18:42:14Z" changeset="12649191" uid="604815" user="MauFre">
@@ -2064,8 +2056,7 @@
     <tag k="population" v="1146"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621980" lat="44.6582480" lon="8.8315540" version="1" timestamp="2007-10-10T21:15:47Z" changeset="89634" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="63621980" lat="44.6582837" lon="8.8315737" version="2" timestamp="2021-06-05T20:13:15Z" changeset="105896625" uid="13463167" user="FedeVi75">
     <tag k="gfoss_id" v="892"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
     <tag k="name" v="Carrosio"/>
@@ -6835,13 +6826,14 @@
     <tag k="population" v="3233"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280472" lat="40.5166150" lon="15.9245710" version="3" timestamp="2021-02-19T22:00:11Z" changeset="99619153" uid="12622654" user="jonatoieri">
+  <node id="67280472" lat="40.5166150" lon="15.9245710" version="4" timestamp="2021-06-06T01:50:55Z" changeset="105901588" uid="1772368" user="pizzaiolo">
     <tag k="description" v="Hic Sunt Dracones."/>
     <tag k="gfoss_id" v="6358"/>
     <tag k="name" v="Anzi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1949"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022259"/>
   </node>
   <node id="67280498" lat="40.6503150" lon="15.5141610" version="2" timestamp="2016-08-28T18:58:11Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6362"/>
@@ -6887,12 +6879,13 @@
     <tag k="population" v="4067"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280556" lat="40.6095170" lon="15.9397710" version="2" timestamp="2016-08-28T18:58:14Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280556" lat="40.6095170" lon="15.9397710" version="3" timestamp="2021-06-06T01:50:56Z" changeset="105901588" uid="1772368" user="pizzaiolo">
     <tag k="gfoss_id" v="6368"/>
     <tag k="name" v="Brindisi Montagna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="905"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023151"/>
   </node>
   <node id="67280578" lat="40.1907100" lon="16.1854810" version="2" timestamp="2016-08-28T18:58:18Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6380"/>
@@ -6944,12 +6937,13 @@
     <tag k="population" v="847"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280638" lat="40.2828100" lon="15.8887730" version="2" timestamp="2016-08-28T18:58:27Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280638" lat="40.2828100" lon="15.8887730" version="3" timestamp="2021-06-06T01:50:57Z" changeset="105901588" uid="1772368" user="pizzaiolo">
     <tag k="gfoss_id" v="6391"/>
     <tag k="name" v="Grumento Nova"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1839"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026258"/>
   </node>
   <node id="67280647" lat="40.8491023" lon="16.0324631" version="3" timestamp="2020-12-07T20:36:40Z" changeset="95444921" uid="5049733" user="Bilabill">
     <tag k="gfoss_id" v="6390"/>
@@ -6993,13 +6987,14 @@
     <tag k="population" v="758"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280695" lat="40.9089220" lon="15.8294640" version="3" timestamp="2016-09-05T17:06:28Z" changeset="41936066" uid="354689" user="FraPla">
+  <node id="67280695" lat="40.9089220" lon="15.8294640" version="4" timestamp="2021-06-06T01:50:57Z" changeset="105901588" uid="1772368" user="pizzaiolo">
     <tag k="gfoss_id" v="6401"/>
     <tag k="name" v="Maschito"/>
     <tag k="name:aae" v="Mashqiti"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1864"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027328"/>
   </node>
   <node id="67280704" lat="40.3766014" lon="15.8244926" version="3" timestamp="2016-08-28T18:58:30Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6400"/>
@@ -7244,13 +7239,14 @@
     <tag k="population" v="1472"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67281353" lat="40.9298220" lon="15.7345620" version="3" timestamp="2016-09-05T17:05:33Z" changeset="41936050" uid="354689" user="FraPla">
+  <node id="67281353" lat="40.9298220" lon="15.7345620" version="4" timestamp="2021-06-06T01:50:58Z" changeset="105901588" uid="1772368" user="pizzaiolo">
     <tag k="gfoss_id" v="6453"/>
     <tag k="name" v="Ginestra"/>
     <tag k="name:aae" v="Xhura"/>
     <tag k="place" v="village"/>
     <tag k="population" v="726"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q33675918"/>
   </node>
   <node id="67281359" lat="40.2397100" lon="16.0530780" version="2" timestamp="2016-08-28T18:58:44Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6431"/>
@@ -9611,13 +9607,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q58671"/>
     <tag k="wikipedia" v="it:Liberi (Italia)"/>
-  </node>
-  <node id="68579665" lat="41.3742777" lon="14.6640222" version="3" timestamp="2021-05-13T19:36:35Z" changeset="104656349" uid="5300343" user="alessandro trekking">
-    <tag k="gfoss_id" v="5332"/>
-    <tag k="name" v="Sassinoro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="646"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68579684" lat="41.1897400" lon="14.6800554" version="3" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5336"/>
