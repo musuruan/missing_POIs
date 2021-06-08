@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-06-07T03:38:42Z" areas="2021-06-07T03:22:27Z"/>
+<meta osm_base="2021-06-08T03:08:00Z" areas="2021-06-08T01:59:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3665,6 +3665,15 @@
     <tag k="population" v="1437"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="63630768" lat="45.9941511" lon="8.5729280" version="6" timestamp="2020-02-04T20:21:29Z" changeset="80553510" uid="10672736" user="3Pappa3">
+    <tag k="ele" v="700"/>
+    <tag k="gfoss_id" v="8061"/>
+    <tag k="is_in" v="Verbano-Cusio-Ossola, Piemonte, Italy"/>
+    <tag k="name" v="Intragna"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="125"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="63631225" lat="45.3084570" lon="8.1225270" version="3" timestamp="2019-04-28T20:19:04Z" changeset="69674153" uid="9577566" user="scarburato">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="323"/>
@@ -6747,13 +6756,6 @@
     <tag k="name" v="Fabrizia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2698"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280342" lat="40.7444119" lon="16.2427058" version="3" timestamp="2021-05-31T08:45:25Z" changeset="105608999" uid="3306614" user="gurciln">
-    <tag k="gfoss_id" v="6467"/>
-    <tag k="name" v="Irsina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5732"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280345" lat="40.5684200" lon="16.5024840" version="2" timestamp="2016-08-28T18:58:31Z" changeset="41762146" uid="743479" user="fayor">
