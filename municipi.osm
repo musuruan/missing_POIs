@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-06-11T02:32:40Z" areas="2021-06-11T01:53:58Z"/>
+<meta osm_base="2021-06-12T02:21:02Z" areas="2021-06-12T01:22:32Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3749,13 +3749,6 @@
     <tag k="name:lld" v="Cjaudés"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64776599" lat="46.1687756" lon="10.7591591" version="5" timestamp="2016-10-25T21:33:10Z" changeset="43173645" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="2907"/>
-    <tag k="name" v="Carisolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="918"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64776600" lat="46.2619126" lon="11.3385837" version="6" timestamp="2016-10-25T21:33:10Z" changeset="43173645" uid="743479" user="fayor">
@@ -9472,13 +9465,6 @@
     <tag k="population" v="863"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68568655" lat="41.2602289" lon="14.6960905" version="4" timestamp="2017-10-20T06:49:49Z" changeset="53089052" uid="1258547" user="Decan">
-    <tag k="gfoss_id" v="5275"/>
-    <tag k="name" v="Casalduni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1602"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68568696" lat="41.1315180" lon="14.6459350" version="2" timestamp="2016-09-01T23:10:02Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5274"/>
     <tag k="name" v="Campoli del Monte Taburno"/>
@@ -14775,6 +14761,10 @@
     <tag k="name" v="Cottanello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="572"/>
+  </node>
+  <node id="2677721655" lat="46.3813201" lon="11.9757736" version="5" timestamp="2021-06-11T08:45:09Z" changeset="106201245" uid="12525093" user="Beocchia">
+    <tag k="name" v="Celat"/>
+    <tag k="place" v="village"/>
   </node>
   <node id="2816762746" lat="45.5560431" lon="10.5625934" version="1" timestamp="2014-04-25T21:21:35Z" changeset="21942598" uid="708863" user="macd15ja">
     <tag k="name" v="Manerba del Garda"/>
