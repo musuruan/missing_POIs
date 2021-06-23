@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-06-22T02:21:32Z" areas="2021-06-22T01:51:51Z"/>
+<meta osm_base="2021-06-23T02:15:03Z" areas="2021-06-23T01:16:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -2020,10 +2020,8 @@
     <tag k="population" v="448"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621950" lat="44.7181520" lon="9.0449580" version="1" timestamp="2007-10-10T21:15:45Z" changeset="89634" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="63621950" lat="44.7181520" lon="9.0449580" version="2" timestamp="2021-06-22T10:48:57Z" changeset="106770700" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="885"/>
-    <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
     <tag k="name" v="Cantalupo Ligure"/>
     <tag k="place" v="village"/>
     <tag k="population" v="555"/>
@@ -9426,7 +9424,7 @@
     <tag k="population" v="2843"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579427" lat="41.2866220" lon="14.7294350" version="2" timestamp="2016-09-01T23:10:02Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68579427" lat="41.2869837" lon="14.7298739" version="3" timestamp="2021-06-22T14:40:59Z" changeset="106783607" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5273"/>
     <tag k="name" v="Campolattaro"/>
     <tag k="place" v="village"/>
@@ -12127,7 +12125,9 @@
     <tag k="population" v="405"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993068" lat="42.0044320" lon="14.0119100" version="2" timestamp="2016-09-08T02:38:55Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70993068" lat="42.0044320" lon="14.0119100" version="3" timestamp="2021-06-22T21:49:55Z" changeset="106800438" uid="1940323" user="SekeRob">
+    <tag k="alt_name" v="Canzano"/>
+    <tag k="description" v="The alt_name is in mozaic in pavement of Pz 20 Settembre."/>
     <tag k="gfoss_id" v="5725"/>
     <tag k="name" v="Cansano"/>
     <tag k="place" v="village"/>
