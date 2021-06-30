@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-06-29T02:19:35Z" areas="2021-06-29T02:04:23Z"/>
+<meta osm_base="2021-06-30T02:23:41Z" areas="2021-06-30T01:41:47Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -13179,12 +13179,14 @@
     <tag k="population" v="1274"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962056" lat="42.2064300" lon="13.1461880" version="2" timestamp="2016-09-07T16:51:14Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72962056" lat="42.2064300" lon="13.1461880" version="3" timestamp="2021-06-29T14:21:24Z" changeset="107153683" uid="11329839" user="giuliobranchetti">
     <tag k="gfoss_id" v="4887"/>
     <tag k="name" v="Pescorocchiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2553"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q224293"/>
+    <tag k="wikipedia" v="it:Pescorocchiano"/>
   </node>
   <node id="72962064" lat="42.3868338" lon="12.9483413" version="8" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="4854"/>
@@ -13421,13 +13423,6 @@
     <tag k="name" v="Palombara Sabina"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13269"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72962907" lat="42.0945683" lon="12.9084852" version="4" timestamp="2016-09-07T18:50:29Z" changeset="41986239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4987"/>
-    <tag k="name" v="Percile"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="216"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72962927" lat="41.8606210" lon="13.0330900" version="2" timestamp="2016-09-07T18:50:29Z" changeset="41986239" uid="743479" user="fayor">
