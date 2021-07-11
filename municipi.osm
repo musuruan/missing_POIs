@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-07-10T02:17:42Z" areas="2021-07-10T01:37:21Z"/>
+<meta osm_base="2021-07-11T02:19:13Z" areas="2021-07-11T01:52:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -1912,6 +1912,14 @@
     <tag k="wikidata" v="Q41058"/>
     <tag k="wikipedia" v="it:Galliavola"/>
   </node>
+  <node id="62517843" lat="46.0350465" lon="8.7717205" version="2" timestamp="2011-09-29T17:33:05Z" changeset="9429111" uid="527535" user="Constable">
+    <tag k="gfoss_id" v="1357"/>
+    <tag k="is_in" v="Varese, Lombardia, Italy"/>
+    <tag k="name" v="Agra"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="370"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="63621673" lat="44.6401393" lon="9.0618536" version="2" timestamp="2012-10-29T18:11:50Z" changeset="13676198" uid="658864" user="Puccia">
     <tag k="gfoss_id" v="957"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -1960,10 +1968,8 @@
     <tag k="population" v="500"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621811" lat="44.6015440" lon="8.5634490" version="1" timestamp="2007-10-10T21:15:40Z" changeset="89634" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="63621811" lat="44.6015440" lon="8.5634490" version="2" timestamp="2021-07-10T22:41:41Z" changeset="107764541" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="901"/>
-    <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
     <tag k="name" v="Cassinelle"/>
     <tag k="place" v="village"/>
     <tag k="population" v="864"/>
@@ -6911,7 +6917,7 @@
     <tag k="population" v="1778"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280847" lat="40.7180170" lon="15.6789630" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280847" lat="40.7178788" lon="15.6790066" version="3" timestamp="2021-07-10T16:27:32Z" changeset="107754552" uid="3306614" user="gurciln">
     <tag k="gfoss_id" v="6425"/>
     <tag k="name" v="Ruoti"/>
     <tag k="place" v="village"/>
