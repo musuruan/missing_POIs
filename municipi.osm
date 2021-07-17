@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-07-16T02:20:08Z" areas="2021-07-16T02:03:04Z"/>
+<meta osm_base="2021-07-17T02:18:38Z" areas="2021-07-17T01:46:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -1350,6 +1350,13 @@
     <tag k="population" v="3255"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="62512189" lat="45.2145680" lon="9.5714600" version="2" timestamp="2020-02-28T20:04:26Z" changeset="81605566" uid="478872" user="mcheck">
+    <tag k="gfoss_id" v="7865"/>
+    <tag k="name" v="Brembio"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2364"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="62512755" lat="45.0065791" lon="10.9804599" version="2" timestamp="2014-07-09T17:22:43Z" changeset="24049691" uid="504502" user="peppe10">
     <tag k="gfoss_id" v="2728"/>
     <tag k="is_in" v="Mantova, Lombardia, Italy"/>
@@ -1875,9 +1882,8 @@
     <tag k="population" v="609"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516980" lat="46.1827877" lon="9.6748279" version="3" timestamp="2020-12-21T20:21:06Z" changeset="96215903" uid="10847935" user="Luca T98">
+  <node id="62516980" lat="46.1827877" lon="9.6748279" version="4" timestamp="2021-07-16T21:01:16Z" changeset="108140278" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1669"/>
-    <tag k="is_in" v="Sondrio, Lombardia, Italy"/>
     <tag k="name" v="Buglio in Monte"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2038"/>
