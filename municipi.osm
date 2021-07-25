@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-07-24T02:19:06Z" areas="2021-07-24T02:07:33Z"/>
+<meta osm_base="2021-07-25T02:18:06Z" areas="2021-07-25T01:27:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -6637,13 +6637,6 @@
     <tag k="population" v="1179"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280402" lat="40.2884103" lon="16.5681711" version="4" timestamp="2020-05-05T15:41:54Z" changeset="84705318" uid="1211315" user="procuste">
-    <tag k="gfoss_id" v="6470"/>
-    <tag k="name" v="Montalbano Jonico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7991"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67280426" lat="40.1713120" lon="16.5255890" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6477"/>
     <tag k="name" v="Rotondella"/>
@@ -7020,13 +7013,6 @@
     <tag k="name" v="Terranova di Pollino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1534"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67281326" lat="40.2473120" lon="16.2711820" version="2" timestamp="2016-08-28T18:58:46Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6434"/>
-    <tag k="name" v="Sant'Arcangelo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6637"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67281334" lat="40.5459130" lon="15.5589630" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
@@ -8996,12 +8982,14 @@
     <tag k="population" v="411"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566728" lat="40.8163737" lon="15.2239389" version="3" timestamp="2016-08-30T01:07:07Z" changeset="41791239" uid="743479" user="fayor">
+  <node id="68566728" lat="40.8163737" lon="15.2239389" version="4" timestamp="2021-07-24T16:09:17Z" changeset="108538194" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5447"/>
     <tag k="name" v="Caposele"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3797"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55014"/>
+    <tag k="wikipedia" v="it:Caposele"/>
   </node>
   <node id="68566736" lat="41.2339230" lon="15.0067420" version="2" timestamp="2016-09-01T23:10:02Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5450"/>
