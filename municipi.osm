@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-01T02:23:42Z" areas="2021-08-01T02:00:13Z"/>
+<meta osm_base="2021-08-02T02:19:26Z" areas="2021-08-02T02:13:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -11115,14 +11115,6 @@
     <tag k="population" v="4831"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981508" lat="43.8676610" lon="12.4712470" version="5" timestamp="2016-09-09T17:36:39Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="alt_name" v="Montegrignano"/>
-    <tag k="gfoss_id" v="4195"/>
-    <tag k="name" v="Monte Grimano Terme"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1155"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70981767" lat="43.7791620" lon="12.7333550" version="3" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4205"/>
     <tag k="name" v="Petriano"/>
@@ -13376,12 +13368,14 @@
     <tag k="population" v="2310"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963421" lat="41.9171210" lon="12.8707860" version="2" timestamp="2016-09-07T18:50:32Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963421" lat="41.9171210" lon="12.8707860" version="3" timestamp="2021-08-01T14:45:19Z" changeset="108976910" uid="12638075" user="elucci">
     <tag k="gfoss_id" v="5006"/>
     <tag k="name" v="San Gregorio da Sassola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1444"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q243364"/>
+    <tag k="wikipedia" v="it:San Gregorio da Sassola"/>
   </node>
   <node id="72963435" lat="42.2347915" lon="12.5189050" version="3" timestamp="2016-09-07T18:50:33Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5010"/>
