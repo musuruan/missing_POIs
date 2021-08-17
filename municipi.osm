@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-16T02:16:50Z" areas="2021-08-16T01:17:43Z"/>
+<meta osm_base="2021-08-17T02:16:53Z" areas="2021-08-17T02:02:38Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -14394,6 +14394,13 @@
     <tag k="wikidata" v="Q50080"/>
     <tag k="wikipedia" v="it:Cerchio (Italia)"/>
   </node>
+  <node id="4462544779" lat="38.9472804" lon="16.5085552" version="3" timestamp="2021-08-16T05:20:28Z" changeset="109725110" uid="177389" user="Garmin-User">
+    <tag k="gfoss_id" v="6716"/>
+    <tag k="name" v="Tiriolo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4073"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="5035076874" lat="42.5143337" lon="12.2925076" version="3" timestamp="2017-11-11T15:33:05Z" changeset="53693345" uid="1211510" user="arcanma">
     <tag k="ele" v="95"/>
     <tag k="gfoss_id" v="50476"/>
@@ -14432,6 +14439,5 @@
     <tag k="place" v="neighbourhood"/>
     <tag k="postal_code" v="23851"/>
   </node>
-  <node id="9008671093" lat="38.9437633" lon="16.5085303" version="1" timestamp="2021-08-15T20:59:24Z" changeset="109715723" uid="8955470" user="Minilepre"/>
 
 </osm>
