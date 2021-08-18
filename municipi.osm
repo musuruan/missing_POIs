@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-17T02:16:53Z" areas="2021-08-17T02:02:38Z"/>
+<meta osm_base="2021-08-18T02:16:28Z" areas="2021-08-18T01:43:47Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -12038,12 +12038,13 @@
     <tag k="wikidata" v="Q51387"/>
     <tag k="wikipedia" v="it:Rosciano"/>
   </node>
-  <node id="70993517" lat="42.2366404" lon="14.0369214" version="5" timestamp="2021-08-11T15:07:25Z" changeset="109523501" uid="177389" user="Garmin-User">
+  <node id="70993517" lat="42.2366404" lon="14.0369214" version="6" timestamp="2021-08-17T10:27:58Z" changeset="109802399" uid="1940323" user="SekeRob">
     <tag k="gfoss_id" v="5882"/>
     <tag k="name" v="Lettomanoppello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3090"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikipedia" v="it:Lettomanoppello"/>
   </node>
   <node id="70993536" lat="42.3071380" lon="13.9327030" version="3" timestamp="2020-06-09T08:28:03Z" changeset="86394336" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5879"/>
@@ -14438,6 +14439,12 @@
     <tag k="name" v="Ponte Azzone Visconti"/>
     <tag k="place" v="neighbourhood"/>
     <tag k="postal_code" v="23851"/>
+  </node>
+  <node id="9014806060" lat="45.5499506" lon="9.0782031" version="1" timestamp="2021-08-17T17:06:46Z" changeset="109824885" uid="10901495" user="Marty5550">
+    <tag k="addr:postcode" v="20044"/>
+    <tag k="name" v="Arese"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="19051"/>
   </node>
 
 </osm>
