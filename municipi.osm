@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-08-21T02:19:33Z" areas="2021-08-21T01:29:32Z"/>
+<meta osm_base="2021-08-22T02:16:44Z" areas="2021-08-22T01:50:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -209,14 +209,6 @@
     <tag k="name" v="Gorlago"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4607"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506570" lat="45.7966425" lon="9.8349553" version="4" timestamp="2021-01-14T13:11:11Z" changeset="97497254" uid="616481" user="gigi2037">
-    <tag k="gfoss_id" v="2034"/>
-    <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
-    <tag k="name" v="Gazzaniga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5006"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506577" lat="45.7557840" lon="9.8866570" version="1" timestamp="2007-10-10T06:18:22Z" changeset="85182" uid="864" user="Niccolo">
@@ -670,10 +662,8 @@
     <tag k="population" v="2206"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508520" lat="45.5277840" lon="10.5126750" version="1" timestamp="2007-10-10T06:19:40Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62508520" lat="45.5277840" lon="10.5126750" version="2" timestamp="2021-08-21T20:54:52Z" changeset="110041944" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2350"/>
-    <tag k="is_in" v="Brescia, Lombardia, Italy"/>
     <tag k="name" v="Soiano del Lago"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1522"/>
