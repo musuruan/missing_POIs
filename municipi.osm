@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-09-07T02:16:54Z" areas="2021-09-07T01:58:38Z"/>
+<meta osm_base="2021-09-08T02:17:14Z" areas="2021-09-08T01:39:32Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -9665,14 +9665,6 @@
     <tag k="population" v="1741"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580660" lat="40.8669110" lon="14.4048330" version="3" timestamp="2016-11-08T17:14:37Z" changeset="43493368" uid="2511706" user="calfarome">
-    <tag k="gfoss_id" v="5410"/>
-    <tag k="name" v="Sant'Anastasia"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="27671"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q72585"/>
-  </node>
   <node id="68580681" lat="40.9148130" lon="14.5467360" version="2" timestamp="2019-10-01T06:29:22Z" changeset="75130005" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="5407"/>
     <tag k="name" v="San Paolo Bel Sito"/>
@@ -11777,14 +11769,6 @@
     <tag k="name" v="San Benedetto dei Marsi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4006"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70992677" lat="41.8453250" lon="13.5358010" version="4" timestamp="2018-10-16T07:00:19Z" changeset="63565664" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5799"/>
-    <tag k="name" v="San Vincenzo Vecchio"/>
-    <tag k="name:it" v="Sam Vincenzo Superiore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2577"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70992789" lat="41.8669965" lon="13.6245098" version="3" timestamp="2016-09-08T02:39:04Z" changeset="41992756" uid="743479" user="fayor">
@@ -14431,11 +14415,9 @@
     <tag k="place" v="neighbourhood"/>
     <tag k="postal_code" v="23851"/>
   </node>
-  <node id="9014806060" lat="45.5499506" lon="9.0782031" version="1" timestamp="2021-08-17T17:06:46Z" changeset="109824885" uid="10901495" user="Marty5550">
-    <tag k="addr:postcode" v="20044"/>
-    <tag k="name" v="Arese"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="19051"/>
+  <node id="9070591861" lat="41.8451813" lon="13.5359209" version="1" timestamp="2021-09-07T13:33:26Z" changeset="110861595" uid="4930752" user="datamove">
+    <tag k="name" v="San Vincenzo Valle Roveto"/>
+    <tag k="place" v="village"/>
   </node>
 
 </osm>
