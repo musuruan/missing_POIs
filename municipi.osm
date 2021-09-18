@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-09-17T02:22:54Z" areas="2021-09-17T01:35:41Z"/>
+<meta osm_base="2021-09-18T02:23:13Z" areas="2021-09-18T02:04:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -384,13 +384,11 @@
     <tag k="population" v="9879"/>
     <tag k="source" v="ISTAT (30/11/2015)"/>
   </node>
-  <node id="62507177" lat="45.4463770" lon="9.8770630" version="1" timestamp="2007-10-10T06:18:47Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62507177" lat="45.4463770" lon="9.8770630" version="2" timestamp="2021-09-17T08:37:11Z" changeset="111325989" uid="602784" user="fedc">
     <tag k="gfoss_id" v="2137"/>
     <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
-    <tag k="name" v="Torre Pallavicina"/>
+    <tag k="name" v="Torre"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1063"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62507341" lat="45.4799470" lon="9.8701285" version="2" timestamp="2011-08-12T06:40:02Z" changeset="8992311" uid="22110" user="ilrobi">
@@ -11330,13 +11328,6 @@
     <tag k="name" v="Treglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1236"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70991378" lat="41.9524330" lon="14.3518180" version="2" timestamp="2016-09-07T16:52:29Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6010"/>
-    <tag k="name" v="Villa Santa Maria"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1479"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70991416" lat="42.0120360" lon="14.5050200" version="2" timestamp="2016-09-07T16:52:17Z" changeset="41983597" uid="743479" user="fayor">
