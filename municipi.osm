@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-10-08T02:23:41Z" areas="2021-10-08T02:10:32Z"/>
+<meta osm_base="2021-10-09T02:19:16Z" areas="2021-10-09T01:33:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -6527,6 +6527,13 @@
     <tag k="population" v="9942"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="67280353" lat="40.1482120" lon="16.5388890" version="2" timestamp="2016-08-28T18:58:34Z" changeset="41762146" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6472"/>
+    <tag k="name" v="Nova Siri"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="6418"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="67280367" lat="40.1119100" lon="16.3879860" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6479"/>
     <tag k="name" v="San Giorgio Lucano"/>
@@ -6625,6 +6632,13 @@
     <tag k="population" v="416"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="67280597" lat="40.0103050" lon="15.9750790" version="2" timestamp="2016-08-28T18:58:17Z" changeset="41762146" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6377"/>
+    <tag k="name" v="Castelluccio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="987"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="67280603" lat="40.1138090" lon="16.1697820" version="10" timestamp="2017-03-03T14:13:18Z" changeset="46549824" uid="3084054" user="agnostico">
     <tag k="fax" v="+39 0973 572003"/>
     <tag k="gfoss_id" v="6385"/>
@@ -6680,6 +6694,13 @@
     <tag k="name" v="Lavello"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13626"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="67280671" lat="40.0473512" lon="15.8365953" version="4" timestamp="2016-09-09T00:49:43Z" changeset="42015514" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6396"/>
+    <tag k="name" v="Lauria"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="12919"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280678" lat="40.1283060" lon="15.7614720" version="4" timestamp="2016-08-28T18:58:28Z" changeset="41762146" uid="743479" user="fayor">
@@ -6864,6 +6885,13 @@
     <tag k="population" v="1100"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="67281213" lat="39.9527864" lon="16.0390877" version="3" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6424"/>
+    <tag k="name" v="Rotonda"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3888"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="67281227" lat="40.2120110" lon="16.2031810" version="2" timestamp="2016-08-28T18:58:40Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6423"/>
     <tag k="name" v="Roccanova"/>
@@ -6890,6 +6918,13 @@
     <tag k="name" v="Terranova di Pollino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1534"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="67281326" lat="40.2473120" lon="16.2711820" version="2" timestamp="2016-08-28T18:58:46Z" changeset="41762146" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6434"/>
+    <tag k="name" v="Sant'Arcangelo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="6637"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67281334" lat="40.5459130" lon="15.5589630" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
@@ -14211,6 +14246,11 @@
     <tag k="place" v="town"/>
     <tag k="population" v="40930"/>
     <tag k="wikidata" v="Q72443"/>
+  </node>
+  <node id="4365479397" lat="40.3138266" lon="16.2299609" version="1" timestamp="2016-08-24T21:50:39Z" changeset="41674017" uid="743479" user="fayor">
+    <tag k="name" v="Aliano"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1009"/>
   </node>
   <node id="4365479398" lat="40.2340242" lon="14.9846810" version="1" timestamp="2016-08-24T21:50:39Z" changeset="41674017" uid="743479" user="fayor">
     <tag k="name" v="Montecorice"/>
