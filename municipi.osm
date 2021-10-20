@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.56.9 76e5016d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-10-19T02:23:55Z" areas="2021-10-19T01:58:41Z"/>
+<meta osm_base="2021-10-20T02:24:03Z" areas="2021-10-20T01:24:09Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -9333,12 +9333,14 @@
     <tag k="population" v="1865"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579574" lat="41.0796408" lon="14.5429645" version="9" timestamp="2021-05-13T17:50:29Z" changeset="104652289" uid="10622815" user="Italian Technology">
+  <node id="68579574" lat="41.0796408" lon="14.5429645" version="10" timestamp="2021-10-19T15:53:06Z" changeset="112705252" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5300"/>
     <tag k="name" v="Moiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4106"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55919"/>
+    <tag k="wikipedia" v="it:Moiano"/>
   </node>
   <node id="68579578" lat="41.2906297" lon="14.9103428" version="4" timestamp="2021-06-19T15:27:02Z" changeset="106636727" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5301"/>
