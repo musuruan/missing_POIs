@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-10-24T02:21:50Z" areas="2021-10-24T01:37:13Z"/>
+<meta osm_base="2021-10-25T02:22:30Z" areas="2021-10-25T01:48:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -152,14 +152,6 @@
     <tag k="name" v="Costa Serina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="897"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506297" lat="45.7745025" lon="9.9208481" version="2" timestamp="2010-05-15T09:52:40Z" changeset="4704380" uid="139580" user="morsi">
-    <tag k="gfoss_id" v="1952"/>
-    <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
-    <tag k="name" v="Bianzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="521"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506391" lat="45.8306830" lon="9.5448480" version="2" timestamp="2021-01-14T12:31:57Z" changeset="97495586" uid="616481" user="gigi2037">
@@ -4553,7 +4545,7 @@
     <tag k="population" v="113"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253724" lat="38.0174321" lon="12.5159920" version="22" timestamp="2021-02-19T15:46:16Z" changeset="99604756" uid="743479" user="fayor">
+  <node id="67253724" lat="38.0174321" lon="12.5159920" version="23" timestamp="2021-10-24T20:38:27Z" changeset="112921198" uid="743479" user="fayor">
     <tag k="capital" v="6"/>
     <tag k="name" v="Trapani"/>
     <tag k="name:an" v="Tràpani"/>
@@ -4573,10 +4565,10 @@
     <tag k="name:sr" v="Трапани"/>
     <tag k="name:uk" v="Трапані"/>
     <tag k="name:zh" v="特拉帕尼"/>
-    <tag k="note" v="popolazione ottenuta sottraendo dal dato istat di novembre 2019 gli 8669 abitanti di Misiliscemi (L.R. 3/2021)"/>
+    <tag k="note" v="popolazione ottenuta sottraendo dal dato istat di gennaio 2021 gli 8669 abitanti di Misiliscemi (L.R. 3/2021)"/>
     <tag k="place" v="city"/>
-    <tag k="population" v="58438"/>
-    <tag k="source" v="Istat novembre 2019"/>
+    <tag k="population" v="56580"/>
+    <tag k="source" v="Istat gennaio 2021"/>
     <tag k="wikidata" v="Q13664"/>
   </node>
   <node id="67273354" lat="38.9549890" lon="16.6411050" version="4" timestamp="2021-03-24T22:35:36Z" changeset="101676917" uid="362065" user="GFS">
