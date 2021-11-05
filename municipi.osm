@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-11-04T02:23:17Z" areas="2021-11-04T00:51:13Z"/>
+<meta osm_base="2021-11-05T02:21:40Z" areas="2021-11-05T02:06:27Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -1696,13 +1696,13 @@
     <tag k="ref:ISTAT" v="018047"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516374" lat="46.2335291" lon="9.8516040" version="2" timestamp="2014-05-30T16:18:55Z" changeset="22641310" uid="753721" user="Ardu84">
-    <tag k="gfoss_id" v="1726"/>
-    <tag k="is_in" v="Sondrio, Lombardia, Italy"/>
+  <node id="62516374" lat="46.2335291" lon="9.8516040" version="3" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="Martino Scaglione">
+    <tag k="ele" v="795"/>
+    <tag k="loc_name" v="La Tur;La Tor"/>
     <tag k="name" v="Torre di Santa Maria"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="892"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="700"/>
+    <tag k="wikidata" v="Q30031195"/>
   </node>
   <node id="62516854" lat="45.1306498" lon="9.0833839" version="4" timestamp="2020-04-16T01:50:15Z" changeset="83618041" uid="478872" user="mcheck">
     <tag k="ele" v="80"/>
@@ -1742,20 +1742,21 @@
     <tag k="ref:ISTAT" v="018138"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516954" lat="46.1740940" lon="9.7754470" version="2" timestamp="2010-09-24T19:21:18Z" changeset="5865672" uid="110639" user="aighes">
-    <tag k="gfoss_id" v="1712"/>
-    <tag k="is_in" v="Sondrio, Lombardia, Italy"/>
+  <node id="62516954" lat="46.1740940" lon="9.7754470" version="3" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="Martino Scaglione">
+    <tag k="ele" v="586"/>
+    <tag k="loc_name" v="Postalés"/>
     <tag k="name" v="Postalesio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="609"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029107"/>
   </node>
-  <node id="62516980" lat="46.1827877" lon="9.6748279" version="4" timestamp="2021-07-16T21:01:16Z" changeset="108140278" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="1669"/>
+  <node id="62516980" lat="46.1827877" lon="9.6748279" version="5" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="Martino Scaglione">
+    <tag k="ele" v="577"/>
+    <tag k="fixme" v="Verificare se tutti gli abitanti di Buglio in Monte vivono nel capoluogo o ci sono dei paesini montani con almeno 1 abitante stabile"/>
+    <tag k="loc_name" v="Böi"/>
     <tag k="name" v="Buglio in Monte"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2038"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="1982"/>
   </node>
   <node id="62517005" lat="45.1550851" lon="8.9518816" version="2" timestamp="2010-03-14T13:44:55Z" changeset="4124479" uid="139882" user="enzopost">
     <tag k="gfoss_id" v="2437"/>
@@ -6518,13 +6519,6 @@
     <tag k="name" v="Colobraro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1535"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280399" lat="40.3944140" lon="16.1445780" version="2" timestamp="2016-08-28T18:58:26Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6464"/>
-    <tag k="name" v="Gorgoglione"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1179"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280402" lat="40.2884103" lon="16.5681711" version="4" timestamp="2020-05-05T15:41:54Z" changeset="84705318" uid="1211315" user="procuste">
