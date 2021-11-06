@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-11-05T02:21:40Z" areas="2021-11-05T02:06:27Z"/>
+<meta osm_base="2021-11-06T02:19:41Z" areas="2021-11-06T02:19:41Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -5300,12 +5300,13 @@
     <tag k="population" v="611"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274352" lat="39.6609483" lon="16.0282277" version="3" timestamp="2018-08-07T14:56:22Z" changeset="61438328" uid="616103" user="mdx76">
+  <node id="67274352" lat="39.6609483" lon="16.0282277" version="4" timestamp="2021-11-05T14:59:41Z" changeset="113413148" uid="13318013" user="pizzi81">
     <tag k="gfoss_id" v="6613"/>
     <tag k="name" v="San Sosti"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2299"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53981"/>
   </node>
   <node id="67274363" lat="39.1008910" lon="16.4100990" version="2" timestamp="2016-08-28T18:58:12Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6501"/>
@@ -6505,13 +6506,6 @@
     <tag k="name" v="Scanzano Jonico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6711"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280387" lat="40.3944140" lon="16.1725780" version="2" timestamp="2016-08-28T18:58:20Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6459"/>
-    <tag k="name" v="Cirigliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="445"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280393" lat="40.1873120" lon="16.4249860" version="2" timestamp="2016-08-28T18:58:20Z" changeset="41762146" uid="743479" user="fayor">
