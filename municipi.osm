@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2021-11-13T02:21:08Z" areas="2021-11-13T01:53:53Z"/>
+<meta osm_base="2021-11-14T02:21:43Z" areas="2021-11-13T19:51:06Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -1749,6 +1749,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="609"/>
     <tag k="wikidata" v="Q30029107"/>
+  </node>
+  <node id="62516980" lat="46.1827877" lon="9.6748279" version="7" timestamp="2021-11-13T11:00:40Z" changeset="113725893" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="ele" v="577"/>
+    <tag k="fixme" v="Verificare se tutti gli abitanti di Buglio in Monte vivono nel capoluogo o ci sono dei paesini montani con almeno 1 abitante stabile"/>
+    <tag k="loc_name" v="Böi"/>
+    <tag k="name" v="Buglio in Monte"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1982"/>
   </node>
   <node id="62517005" lat="45.1550851" lon="8.9518816" version="2" timestamp="2010-03-14T13:44:55Z" changeset="4124479" uid="139882" user="enzopost">
     <tag k="gfoss_id" v="2437"/>
@@ -13781,6 +13789,17 @@
     <tag k="name" v="Villagrande"/>
     <tag k="place" v="village"/>
     <tag k="population" v="510"/>
+  </node>
+  <node id="294778417" lat="44.9300126" lon="6.7184146" version="23" timestamp="2020-02-07T12:57:37Z" changeset="80692038" uid="49047" user="vincent_95">
+    <tag k="addr:postcode" v="05100"/>
+    <tag k="name" v="Montgenèvre"/>
+    <tag k="name:it" v="Monginevro"/>
+    <tag k="name:oc" v="Montginebre"/>
+    <tag k="place" v="village"/>
+    <tag k="ref:FR:SIREN" v="210500856"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="wikidata" v="Q933254"/>
+    <tag k="wikipedia" v="en:Montgenèvre"/>
   </node>
   <node id="321207640" lat="46.9960093" lon="11.9812416" version="10" timestamp="2021-01-12T15:09:45Z" changeset="97382208" uid="8199540" user="Marcello Perathoner">
     <tag k="name" v="Steinhaus - Cadipietra"/>
