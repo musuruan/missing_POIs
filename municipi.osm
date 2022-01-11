@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.57.1 74a55df1">
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-10T02:30:16Z" areas="2022-01-10T02:25:02Z"/>
+<meta osm_base="2022-01-11T02:30:08Z" areas="2022-01-10T23:40:04Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -576,10 +576,8 @@
     <tag k="population" v="2485"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508158" lat="45.6585870" lon="10.4205710" version="1" timestamp="2007-10-10T06:19:26Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62508158" lat="45.6585870" lon="10.4205710" version="2" timestamp="2022-01-10T17:12:53Z" changeset="115990688" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2338"/>
-    <tag k="is_in" v="Brescia, Lombardia, Italy"/>
     <tag k="name" v="Sabbio Chiese"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3178"/>
@@ -812,13 +810,14 @@
     <tag k="population" v="933"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509218" lat="45.6436432" lon="10.4994540" version="3" timestamp="2019-10-24T22:50:26Z" changeset="76176410" uid="350864" user="demon_box">
+  <node id="62509218" lat="45.6436432" lon="10.4994540" version="4" timestamp="2022-01-10T13:34:22Z" changeset="115982460" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2374"/>
     <tag k="loc_name" v="Boàren"/>
     <tag k="name" v="Vobarno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7477"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikipedia" v="it:Vobarno"/>
   </node>
   <node id="62509236" lat="45.3183780" lon="10.3723760" version="1" timestamp="2007-10-10T06:20:11Z" changeset="85182" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
