@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-13T02:31:55Z" areas="2022-01-12T06:01:39Z"/>
+<meta osm_base="2022-01-14T02:30:54Z" areas="2022-01-13T23:28:25Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -4109,7 +4109,7 @@
     <tag k="population" v="2626"/>
     <tag k="source" v="Regione Veneto, License IODL-2.0"/>
   </node>
-  <node id="64778896" lat="45.5139771" lon="11.1656408" version="6" timestamp="2017-10-21T21:27:21Z" changeset="53138872" uid="362065" user="GFS">
+  <node id="64778896" lat="45.5139247" lon="11.1656601" version="7" timestamp="2022-01-13T15:17:44Z" changeset="116111602" uid="11717522" user="Tinsemal">
     <tag k="gfoss_id" v="3177"/>
     <tag k="name" v="Tregnago"/>
     <tag k="place" v="village"/>
@@ -7532,11 +7532,12 @@
     <tag k="wikidata" v="Q20515"/>
     <tag k="wikipedia" v="it:Poggiodomo"/>
   </node>
-  <node id="68507628" lat="42.7125563" lon="12.8313663" version="12" timestamp="2019-01-13T00:19:53Z" changeset="66263511" uid="3435810" user="Alessandro Antonelli">
+  <node id="68507628" lat="42.7125563" lon="12.8313663" version="13" timestamp="2022-01-13T21:35:52Z" changeset="116125511" uid="5328797" user="LorenzoPesci">
     <tag k="ele" v="282"/>
     <tag k="gfoss_id" v="50105"/>
     <tag k="istat_id" v="5404710002"/>
     <tag k="name" v="Scheggino"/>
+    <tag k="note" v="http://www.iluoghidelsilenzio.it/?p=44787"/>
     <tag k="place" v="village"/>
     <tag k="population" v="273"/>
     <tag k="population:date" v="2011-10-09"/>
@@ -11676,12 +11677,14 @@
     <tag k="population" v="1831"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993279" lat="42.5181440" lon="14.0592030" version="3" timestamp="2020-07-24T11:18:04Z" changeset="88454453" uid="10124288" user="damianeue">
+  <node id="70993279" lat="42.5181440" lon="14.0592030" version="4" timestamp="2022-01-13T09:16:55Z" changeset="116097899" uid="1940323" user="SekeRob">
+    <tag k="ele" v="317"/>
     <tag k="gfoss_id" v="5874"/>
     <tag k="name" v="Città Sant'Angelo"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14969"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:ele" v="guidepost"/>
     <tag k="wikidata" v="Q51356"/>
     <tag k="wikipedia" v="it:Città Sant'Angelo"/>
   </node>
