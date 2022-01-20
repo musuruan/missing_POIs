@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-19T02:19:08Z" areas="2022-01-19T00:43:05Z"/>
+<meta osm_base="2022-01-20T02:30:31Z" areas="2022-01-20T01:57:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3455,10 +3455,9 @@
     <tag k="population" v="1437"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63631225" lat="45.3084570" lon="8.1225270" version="3" timestamp="2019-04-28T20:19:04Z" changeset="69674153" uid="9577566" user="scarburato">
+  <node id="63631225" lat="45.3084570" lon="8.1225270" version="4" timestamp="2022-01-19T16:50:07Z" changeset="116350519" uid="11220113" user="ivanbranco">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="323"/>
-    <tag k="is_in" v="Vercelli, Piemonte, Italy"/>
     <tag k="name" v="Bianzè"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2038"/>
@@ -9313,12 +9312,14 @@
     <tag k="population" v="1897"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579973" lat="41.1671170" lon="14.3337280" version="2" timestamp="2016-09-02T23:58:42Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="68579973" lat="41.1671170" lon="14.3337280" version="3" timestamp="2022-01-19T19:05:22Z" changeset="116355046" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5212"/>
     <tag k="name" v="Piana di Monte Verna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2523"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q58744"/>
+    <tag k="wikipedia" v="it:Piana di Monte Verna"/>
   </node>
   <node id="68579995" lat="40.9979333" lon="14.1793758" version="3" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5193"/>
