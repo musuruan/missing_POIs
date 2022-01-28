@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-01-27T02:20:15Z" areas="2022-01-27T00:30:36Z"/>
+<meta osm_base="2022-01-28T02:23:11Z" areas="2022-01-28T01:47:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -480,15 +480,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3388"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62507921" lat="45.4010810" lon="10.2792760" version="3" timestamp="2016-10-26T10:16:40Z" changeset="43187932" uid="3479270" user="nammala">
-    <tag k="gfoss_id" v="2248"/>
-    <tag k="is_in" v="Brescia, Lombardia, Italy"/>
-    <tag k="name" v="Ghedi"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="15627"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q104635"/>
   </node>
   <node id="62507937" lat="46.2203000" lon="10.3587590" version="1" timestamp="2007-10-10T06:19:17Z" changeset="85182" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
@@ -1819,12 +1810,13 @@
     <tag k="population" v="1599"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621838" lat="45.0716520" lon="8.2060330" version="2" timestamp="2021-06-14T08:44:06Z" changeset="106321202" uid="90379" user="Andrea Musuruane">
+  <node id="63621838" lat="45.0716520" lon="8.2060330" version="3" timestamp="2022-01-27T15:27:45Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="974"/>
     <tag k="name" v="Odalengo Piccolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="274"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028301"/>
   </node>
   <node id="63621890" lat="44.8417760" lon="8.9630083" version="2" timestamp="2015-10-08T20:54:45Z" changeset="34518794" uid="834334" user="hikerit">
     <tag k="gfoss_id" v="964"/>
@@ -1849,7 +1841,7 @@
     <tag k="population" v="1177"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621968" lat="44.8349500" lon="8.6249460" version="1" timestamp="2007-10-10T21:15:47Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63621968" lat="44.8349500" lon="8.6249460" version="2" timestamp="2022-01-27T15:27:39Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="894"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -1857,6 +1849,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1146"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023884"/>
   </node>
   <node id="63621980" lat="44.6582837" lon="8.8315737" version="3" timestamp="2021-12-16T21:18:18Z" changeset="115025765" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="892"/>
@@ -1891,7 +1884,7 @@
     <tag k="ref:ISTAT" v="006073"/>
     <tag k="wikidata" v="Q17360"/>
   </node>
-  <node id="63622041" lat="44.7346490" lon="8.7312510" version="1" timestamp="2007-10-10T21:15:49Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622041" lat="44.7346490" lon="8.7312510" version="2" timestamp="2022-01-27T15:27:41Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="927"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -1899,8 +1892,9 @@
     <tag k="place" v="village"/>
     <tag k="population" v="459"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025864"/>
   </node>
-  <node id="63622048" lat="44.6964500" lon="8.9654560" version="1" timestamp="2007-10-10T21:15:49Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622048" lat="44.6964500" lon="8.9654560" version="2" timestamp="2022-01-27T15:27:42Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="942"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -1908,13 +1902,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="538"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026237"/>
   </node>
-  <node id="63622084" lat="45.1328540" lon="8.2503330" version="2" timestamp="2021-06-26T14:17:59Z" changeset="107005070" uid="11220113" user="ivanbranco">
+  <node id="63622084" lat="45.1328540" lon="8.2503330" version="3" timestamp="2022-01-27T15:27:43Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="954"/>
     <tag k="name" v="Mombello Monferrato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1095"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027634"/>
   </node>
   <node id="63622091" lat="44.8384452" lon="9.0353171" version="3" timestamp="2015-10-17T08:25:30Z" changeset="34689072" uid="834334" user="hikerit">
     <tag k="gfoss_id" v="955"/>
@@ -1952,7 +1948,7 @@
     <tag k="population" v="339"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622167" lat="44.6671470" lon="8.7301520" version="1" timestamp="2007-10-10T21:15:54Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622167" lat="44.6671470" lon="8.7301520" version="2" timestamp="2022-01-27T15:27:44Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="960"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -1960,6 +1956,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="318"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027717"/>
   </node>
   <node id="63622188" lat="44.8483380" lon="8.9936102" version="2" timestamp="2015-10-05T18:32:29Z" changeset="34453694" uid="834334" user="hikerit">
     <tag k="gfoss_id" v="965"/>
@@ -1992,12 +1989,13 @@
     <tag k="population" v="4771"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622313" lat="45.0848530" lon="8.2655340" version="2" timestamp="2020-03-17T09:22:03Z" changeset="82294751" uid="478872" user="mcheck">
+  <node id="63622313" lat="45.0848530" lon="8.2655340" version="3" timestamp="2022-01-27T15:27:47Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="992"/>
     <tag k="name" v="Ponzano Monferrato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="404"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029061"/>
   </node>
   <node id="63622322" lat="44.8963500" lon="8.4049410" version="1" timestamp="2007-10-10T21:15:59Z" changeset="89634" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
@@ -2050,12 +2048,13 @@
     <tag k="population" v="245"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622406" lat="44.5431410" lon="8.3339460" version="2" timestamp="2020-01-25T10:47:10Z" changeset="80066617" uid="478872" user="mcheck">
+  <node id="63622406" lat="44.5431410" lon="8.3339460" version="3" timestamp="2022-01-27T15:27:49Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1022"/>
     <tag k="name" v="Spigno Monferrato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1216"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030874"/>
   </node>
   <node id="63622410" lat="44.8676119" lon="8.9126635" version="2" timestamp="2010-02-26T20:03:01Z" changeset="3983284" uid="198042" user="Terensky">
     <tag k="gfoss_id" v="1015"/>
@@ -2083,7 +2082,7 @@
     <tag k="population" v="4246"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622447" lat="44.6714470" lon="8.6484500" version="1" timestamp="2007-10-10T21:16:05Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622447" lat="44.6714470" lon="8.6484500" version="2" timestamp="2022-01-27T15:27:48Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="1004"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2091,6 +2090,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1346"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029445"/>
   </node>
   <node id="63622472" lat="44.8153520" lon="8.8572520" version="2" timestamp="2020-05-12T03:41:08Z" changeset="85055170" uid="219297" user="ZeLonewolf">
     <tag k="gfoss_id" v="1040"/>
@@ -2108,7 +2108,7 @@
     <tag k="population" v="682"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622497" lat="44.6704450" lon="8.4216450" version="1" timestamp="2007-10-10T21:16:07Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622497" lat="44.6704450" lon="8.4216450" version="2" timestamp="2022-01-27T15:27:50Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="1029"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2116,6 +2116,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="846"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031088"/>
   </node>
   <node id="63622502" lat="44.7285490" lon="8.7715520" version="1" timestamp="2007-10-10T21:16:07Z" changeset="89634" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
@@ -2126,7 +2127,7 @@
     <tag k="population" v="611"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622540" lat="44.8373530" lon="8.8737520" version="1" timestamp="2007-10-10T21:16:08Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622540" lat="44.8373530" lon="8.8737520" version="2" timestamp="2022-01-27T15:27:50Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="1023"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2134,6 +2135,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="322"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030884"/>
   </node>
   <node id="63622562" lat="44.8924951" lon="8.9600600" version="3" timestamp="2015-09-27T08:29:54Z" changeset="34277580" uid="834334" user="hikerit">
     <tag k="gfoss_id" v="1046"/>
@@ -2177,7 +2179,7 @@
     <tag k="population" v="312"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622630" lat="44.8496530" lon="8.8877520" version="1" timestamp="2007-10-10T21:16:12Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622630" lat="44.8496530" lon="8.8877520" version="2" timestamp="2022-01-27T15:27:51Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="1043"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2185,6 +2187,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="758"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031868"/>
   </node>
   <node id="63622692" lat="44.7661658" lon="8.8631749" version="3" timestamp="2018-01-01T18:33:35Z" changeset="55083143" uid="743479" user="fayor">
     <tag k="gfoss_id" v="899"/>
@@ -2206,7 +2209,7 @@
     <tag k="population" v="402"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622716" lat="44.8362500" lon="8.5385450" version="1" timestamp="2007-10-10T21:16:15Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622716" lat="44.8362500" lon="8.5385450" version="2" timestamp="2022-01-27T15:27:38Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="876"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2214,6 +2217,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="611"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023013"/>
   </node>
   <node id="63622725" lat="44.8255510" lon="8.6772480" version="1" timestamp="2007-10-10T21:16:16Z" changeset="89634" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
@@ -2256,7 +2260,7 @@
     <tag k="population" v="249"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622772" lat="44.7962540" lon="9.1068580" version="1" timestamp="2007-10-10T21:16:19Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622772" lat="44.7962540" lon="9.1068580" version="2" timestamp="2022-01-27T15:27:42Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="940"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2264,8 +2268,9 @@
     <tag k="place" v="village"/>
     <tag k="population" v="361"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026217"/>
   </node>
-  <node id="63622820" lat="44.6845480" lon="8.7039510" version="1" timestamp="2007-10-10T21:16:20Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622820" lat="44.6845480" lon="8.7039510" version="2" timestamp="2022-01-27T15:27:40Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="906"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2273,6 +2278,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1891"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024220"/>
   </node>
   <node id="63622838" lat="44.5988420" lon="8.3331450" version="2" timestamp="2020-01-25T10:47:10Z" changeset="80066617" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="922"/>
@@ -2290,7 +2296,7 @@
     <tag k="population" v="959"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622903" lat="44.6826470" lon="8.5878480" version="1" timestamp="2007-10-10T21:16:23Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622903" lat="44.6826470" lon="8.5878480" version="2" timestamp="2022-01-27T15:27:44Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="961"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2298,8 +2304,9 @@
     <tag k="place" v="village"/>
     <tag k="population" v="690"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027718"/>
   </node>
-  <node id="63622915" lat="44.9494522" lon="8.6857406" version="2" timestamp="2007-10-20T11:31:16Z" changeset="267771" uid="12473" user="mikelima">
+  <node id="63622915" lat="44.9494522" lon="8.6857406" version="3" timestamp="2022-01-27T15:27:44Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="Potlatch 0.4a"/>
     <tag k="gfoss_id" v="962"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2307,8 +2314,9 @@
     <tag k="place" v="village"/>
     <tag k="population" v="340"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027794"/>
   </node>
-  <node id="63622940" lat="44.6697480" lon="8.7586520" version="1" timestamp="2007-10-10T21:16:24Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63622940" lat="44.6697480" lon="8.7586520" version="2" timestamp="2022-01-27T15:27:46Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="983"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2316,6 +2324,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="721"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028616"/>
   </node>
   <node id="63622967" lat="44.5593420" lon="8.4131470" version="1" timestamp="2007-10-10T21:16:25Z" changeset="89634" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
@@ -2367,7 +2376,7 @@
     <tag k="population" v="1361"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63623129" lat="44.7508500" lon="8.7492510" version="1" timestamp="2007-10-10T21:16:30Z" changeset="89634" uid="864" user="Niccolo">
+  <node id="63623129" lat="44.7508500" lon="8.7492510" version="2" timestamp="2022-01-27T15:27:47Z" changeset="116671621" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="984"/>
     <tag k="is_in" v="Alessandria, Piemonte, Italy"/>
@@ -2375,6 +2384,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1011"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028639"/>
   </node>
   <node id="63623159" lat="45.0009066" lon="8.1460557" version="5" timestamp="2021-02-06T19:18:44Z" changeset="98826343" uid="3335735" user="nick1993">
     <tag k="gfoss_id" v="782"/>
@@ -13714,19 +13724,6 @@
     <tag k="name" v="Lauzacco"/>
     <tag k="name:fur" v="Lauçàc"/>
     <tag k="place" v="village"/>
-  </node>
-  <node id="528322124" lat="46.5332403" lon="9.8745860" version="7" timestamp="2021-12-05T14:22:34Z" changeset="114583806" uid="10901495" user="Martino Scaglione">
-    <tag k="ele" v="1721"/>
-    <tag k="name" v="Samedan"/>
-    <tag k="name:de" v="Samaden"/>
-    <tag k="name:it" v="Samedano;Samada"/>
-    <tag k="name:rm" v="Samedan"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2923"/>
-    <tag k="population:date" v="2020-12-21"/>
-    <tag k="website" v="https://www.samedan.ch/"/>
-    <tag k="wikidata" v="Q69085"/>
-    <tag k="wikipedia" v="de:Samedan"/>
   </node>
   <node id="539318222" lat="41.0850517" lon="16.0777763" version="4" timestamp="2016-08-27T16:24:10Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="name" v="Minervino Murge"/>
