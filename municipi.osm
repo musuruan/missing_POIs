@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-02-22T02:21:59Z" areas="2022-02-22T01:34:35Z"/>
+<meta osm_base="2022-02-23T02:26:39Z" areas="2022-02-23T01:48:06Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -10436,13 +10436,13 @@
     <tag k="population" v="3618"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979320" lat="43.6388630" lon="13.3074700" version="3" timestamp="2016-10-29T09:39:57Z" changeset="43262187" uid="362065" user="GFS">
+  <node id="70979320" lat="43.6388630" lon="13.3074700" version="4" timestamp="2022-02-22T14:03:30Z" changeset="117728946" uid="123412" user="totera">
     <tag k="gfoss_id" v="4254"/>
     <tag k="name" v="Montemarciano"/>
-    <tag k="note" v="Popolazione al 31/12/2014"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10029"/>
-    <tag k="source" v="ISTAT"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2493"/>
+    <tag k="population:date" v="2011-10-09"/>
+    <tag k="source:population" v="Istat 2011 census"/>
   </node>
   <node id="70979431" lat="43.5111580" lon="13.0736670" version="2" timestamp="2016-09-09T17:36:44Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4264"/>
