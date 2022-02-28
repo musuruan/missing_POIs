@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-02-27T02:25:56Z" areas="2022-02-27T01:43:17Z"/>
+<meta osm_base="2022-02-28T02:27:24Z" areas="2022-02-28T01:55:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -811,25 +811,22 @@
     <tag k="population" v="1700"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510530" lat="45.2518730" lon="9.9616680" version="2" timestamp="2019-01-08T14:20:53Z" changeset="66129937" uid="362065" user="GFS">
+  <node id="62510530" lat="45.2518730" lon="9.9616680" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2582"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Casalbuttano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4093"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510546" lat="45.1568734" lon="10.1156022" version="3" timestamp="2020-06-15T10:21:27Z" changeset="86663181" uid="10998670" user="Superste230">
+  <node id="62510546" lat="45.1568734" lon="10.1156022" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2612"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Ca' De Mari"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1634"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510662" lat="45.1764963" lon="9.9148339" version="4" timestamp="2019-01-08T14:20:53Z" changeset="66129937" uid="362065" user="GFS">
+  <node id="62510662" lat="45.1764963" lon="9.9148339" version="5" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2661"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Sesto Cremonese"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3113"/>
@@ -837,35 +834,29 @@
     <tag k="ref:ISTAT" v="019095"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510729" lat="45.1890700" lon="9.7898650" version="1" timestamp="2007-10-10T06:21:19Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62510729" lat="45.1890700" lon="9.7898650" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2642"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Pizzighettone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6785"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511135" lat="45.2122916" lon="10.3018212" version="3" timestamp="2022-01-22T16:30:09Z" changeset="116472398" uid="9622178" user="GiovanniC83">
+  <node id="62511135" lat="45.2122916" lon="10.3018212" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2680"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Volongo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="620"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511142" lat="45.3719720" lon="9.5871580" version="1" timestamp="2007-10-10T06:21:36Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511142" lat="45.3719720" lon="9.5871580" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2677"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Vaiano Cremasco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3622"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511153" lat="45.3283941" lon="9.8151283" version="3" timestamp="2021-02-22T12:30:19Z" changeset="99746717" uid="2192142" user="silkevicious">
+  <node id="62511153" lat="45.3283941" lon="9.8151283" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2676"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Trigolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1680"/>
@@ -879,9 +870,8 @@
     <tag k="population" v="521"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511184" lat="45.0731571" lon="10.0892046" version="3" timestamp="2015-08-30T08:09:05Z" changeset="33677421" uid="2073275" user="Fredie">
+  <node id="62511184" lat="45.0731571" lon="10.0892046" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2669"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Stagno Lombardo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1587"/>
@@ -889,9 +879,8 @@
     <tag k="ref:ISTAT" v="019103"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511192" lat="45.0603009" lon="10.5133806" version="3" timestamp="2020-07-03T19:56:06Z" changeset="87516480" uid="178610" user="Pab09">
+  <node id="62511192" lat="45.0603009" lon="10.5133806" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2667"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Spineda"/>
     <tag k="name:egl" v="Spineda"/>
     <tag k="place" v="village"/>
@@ -905,10 +894,8 @@
     <tag k="population" v="1424"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511275" lat="45.3053740" lon="9.9410670" version="1" timestamp="2007-10-10T06:21:43Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511275" lat="45.3053740" lon="9.9410670" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2593"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Castelvisconti"/>
     <tag k="place" v="village"/>
     <tag k="population" v="350"/>
@@ -921,19 +908,15 @@
     <tag k="population" v="1653"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511303" lat="45.4191750" lon="9.7825610" version="1" timestamp="2007-10-10T06:21:44Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511303" lat="45.4191750" lon="9.7825610" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2585"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Casaletto di Sopra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="586"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511333" lat="45.3180710" lon="9.6175590" version="1" timestamp="2007-10-10T06:21:45Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511333" lat="45.3180710" lon="9.6175590" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2584"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Casaletto Ceredano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1097"/>
@@ -954,28 +937,22 @@
     <tag k="population" v="1248"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511366" lat="45.3900730" lon="9.5695570" version="1" timestamp="2007-10-10T06:21:47Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511366" lat="45.3900730" lon="9.5695570" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2632"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Palazzo Pignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3590"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511368" lat="45.3984740" lon="9.6694590" version="1" timestamp="2007-10-10T06:21:47Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511368" lat="45.3984740" lon="9.6694590" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2577"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Campagnola Cremasca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="606"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511372" lat="45.4432750" lon="9.7457600" version="1" timestamp="2007-10-10T06:21:48Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511372" lat="45.4432750" lon="9.7457600" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2576"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Camisano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1225"/>
@@ -1014,17 +991,15 @@
     <tag k="population" v="476"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511389" lat="45.3060082" lon="9.7051398" version="3" timestamp="2016-08-29T11:54:11Z" changeset="41775822" uid="3737163" user="Claudio_IT">
+  <node id="62511389" lat="45.3060082" lon="9.7051398" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2648"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Ripalta Guerina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5660"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511407" lat="45.3555434" lon="9.7802426" version="2" timestamp="2019-10-09T11:18:40Z" changeset="75455816" uid="2653653" user="astraspera">
+  <node id="62511407" lat="45.3555434" lon="9.7802426" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2653"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Salvirola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="933"/>
@@ -1042,18 +1017,15 @@
     <tag k="ref:ISTAT" v="019061"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511432" lat="45.2388720" lon="9.9302680" version="2" timestamp="2014-02-05T15:47:35Z" changeset="20395232" uid="1257620" user="Luca Mina">
+  <node id="62511432" lat="45.2388720" lon="9.9302680" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2631"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Paderno Ponchielli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1499"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511446" lat="45.2018730" lon="10.1507730" version="1" timestamp="2007-10-10T06:21:52Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511446" lat="45.2018730" lon="10.1507730" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2616"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Grontardo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1301"/>
@@ -1069,10 +1041,9 @@
     <tag k="wikidata" v="Q42481"/>
     <tag k="wikipedia" v="it:Cingia de' Botti"/>
   </node>
-  <node id="62511458" lat="45.1584908" lon="9.8541585" version="2" timestamp="2015-10-28T11:15:06Z" changeset="34924026" uid="2073275" user="Fredie">
+  <node id="62511458" lat="45.1584908" lon="9.8541585" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="ele" v="53"/>
     <tag k="gfoss_id" v="2604"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Crotta d'Adda"/>
     <tag k="place" v="village"/>
     <tag k="population" v="670"/>
@@ -1080,18 +1051,15 @@
     <tag k="ref:ISTAT" v="019038"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511465" lat="45.3555026" lon="9.8355623" version="2" timestamp="2019-10-09T11:18:40Z" changeset="75455816" uid="2653653" user="astraspera">
+  <node id="62511465" lat="45.3555026" lon="9.8355623" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2605"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Cumignano sul Naviglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="402"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511475" lat="45.1099720" lon="10.2479770" version="1" timestamp="2007-10-10T06:21:53Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511475" lat="45.1099720" lon="10.2479770" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2606"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Derovere"/>
     <tag k="place" v="village"/>
     <tag k="population" v="350"/>
@@ -1106,27 +1074,22 @@
     <tag k="wikidata" v="Q42444"/>
     <tag k="wikipedia" v="it:Cella Dati"/>
   </node>
-  <node id="62511683" lat="45.4070730" lon="9.5534560" version="2" timestamp="2018-02-17T09:43:12Z" changeset="56435875" uid="7631217" user="Landotti Matteo">
+  <node id="62511683" lat="45.4070730" lon="9.5534560" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2633"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Pandino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9005"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511697" lat="45.4021740" lon="9.6947590" version="1" timestamp="2007-10-10T06:22:05Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511697" lat="45.4021740" lon="9.6947590" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2638"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Pianengo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2370"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511789" lat="45.4056740" lon="9.7239600" version="1" timestamp="2007-10-10T06:22:09Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511789" lat="45.4056740" lon="9.7239600" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2645"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Ricengo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1235"/>
@@ -1149,18 +1112,15 @@
     <tag k="population" v="931"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511899" lat="45.3788740" lon="9.7423610" version="1" timestamp="2007-10-10T06:22:14Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511899" lat="45.3788740" lon="9.7423610" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2628"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Offanengo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5511"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511917" lat="45.4179618" lon="9.5947015" version="2" timestamp="2019-10-07T10:27:57Z" changeset="75368293" uid="2653653" user="astraspera">
+  <node id="62511917" lat="45.4179618" lon="9.5947015" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2671"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Torlino Vimercati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="296"/>
@@ -1190,10 +1150,8 @@
     <tag k="population" v="2245"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512101" lat="45.1085710" lon="10.1576750" version="1" timestamp="2007-10-10T06:22:23Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62512101" lat="45.1085710" lon="10.1576750" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2665"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Sospiro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3255"/>
@@ -1428,14 +1386,6 @@
     <tag k="postal_code" v="46028"/>
     <tag k="wikidata" v="Q42371"/>
     <tag k="wikipedia" v="it:Sermide"/>
-  </node>
-  <node id="62513926" lat="45.4446690" lon="8.9902430" version="2" timestamp="2018-07-27T20:09:28Z" changeset="61129785" uid="8610318" user="Spegio">
-    <tag k="gfoss_id" v="1797"/>
-    <tag k="is_in" v="Milano, Lombardia, Italy"/>
-    <tag k="name" v="Cisliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4867"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62514002" lat="45.3178884" lon="9.1049027" version="3" timestamp="2021-07-12T13:01:10Z" changeset="107841275" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1782"/>
@@ -13412,9 +13362,8 @@
     <tag k="wikidata" v="Q20497"/>
     <tag k="wikipedia" v="it:Paciano"/>
   </node>
-  <node id="946942749" lat="45.1684360" lon="9.8901470" version="2" timestamp="2015-10-26T09:30:44Z" changeset="34876243" uid="2073275" user="Fredie">
+  <node id="946942749" lat="45.1684360" lon="9.8901470" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2567"/>
-    <tag k="is_in" v="Cremona, Lombardia, Italy"/>
     <tag k="name" v="Acquanegra Cremonese"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1226"/>
