@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-03-18T02:42:02Z" areas="2022-03-16T08:35:52Z"/>
+<meta osm_base="2022-03-19T02:31:42Z" areas="2022-03-19T02:14:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3284,15 +3284,6 @@
     <tag k="name" v="Avio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3918"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64776757" lat="46.1661363" lon="11.0034020" version="6" timestamp="2021-03-28T18:19:00Z" changeset="101884805" uid="8445331" user="JuaFritz">
-    <tag k="gfoss_id" v="2872"/>
-    <tag k="name" v="Andalo"/>
-    <tag k="name:it" v="Andalo"/>
-    <tag k="name:lld" v="Àndel"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1015"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64776800" lat="46.1191034" lon="10.7588619" version="3" timestamp="2016-10-25T21:33:08Z" changeset="43173645" uid="743479" user="fayor">
@@ -10921,9 +10912,11 @@
     <tag k="population" v="1486"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991800" lat="42.2305316" lon="14.3907794" version="8" timestamp="2020-11-12T17:01:02Z" changeset="94008882" uid="10124288" user="damianeue">
+  <node id="70991800" lat="42.2305316" lon="14.3907794" version="9" timestamp="2022-03-18T11:36:46Z" changeset="118629255" uid="1928626" user="Gianfranco2014">
     <tag k="gfoss_id" v="5954"/>
     <tag k="name" v="Lanciano"/>
+    <tag k="name:it" v="Lanciano"/>
+    <tag k="name:la" v="Anxsanum"/>
     <tag k="name:pronunciation" v="laŋ̩ˈt͡ʃaːno"/>
     <tag k="place" v="town"/>
     <tag k="population" v="35444"/>
