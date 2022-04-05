@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-04T02:57:25Z" areas="2022-04-04T02:46:06Z"/>
+<meta osm_base="2022-04-05T02:47:20Z" areas="2022-04-05T01:58:48Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3301,9 +3301,11 @@
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778167" lat="46.2987816" lon="12.0126535" version="3" timestamp="2016-10-13T15:57:14Z" changeset="42872569" uid="743479" user="fayor">
+  <node id="64778167" lat="46.2987816" lon="12.0126535" version="4" timestamp="2022-04-04T17:52:04Z" changeset="119312355" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3368"/>
-    <tag k="name" v="Taibon Agordino"/>
+    <tag k="name" v="Taibon Agordino - Taibon"/>
+    <tag k="name:it" v="Taibon Agordino"/>
+    <tag k="name:lld" v="Taibon"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1772"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -13130,11 +13132,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="352"/>
   </node>
-  <node id="1790710324" lat="45.7072654" lon="10.7669985" version="3" timestamp="2017-04-23T22:50:24Z" changeset="48073876" uid="1928626" user="Gianfranco2014">
+  <node id="1790710324" lat="45.7072654" lon="10.7669985" version="4" timestamp="2022-04-04T04:48:44Z" changeset="119284876" uid="1624486" user="thetornado76">
     <tag k="name" v="Magugnano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="300"/>
     <tag k="source" v="Regione Veneto, License IODL-2.0"/>
+    <tag k="wikidata" v="Q18504926"/>
   </node>
   <node id="1845214775" lat="42.6928561" lon="11.8163999" version="3" timestamp="2016-09-07T16:51:13Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="name" v="Onano"/>
