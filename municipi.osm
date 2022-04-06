@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-05T02:47:20Z" areas="2022-04-05T01:58:48Z"/>
+<meta osm_base="2022-04-06T02:49:59Z" areas="2022-04-06T02:15:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3310,9 +3310,10 @@
     <tag k="population" v="1772"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778175" lat="46.2720160" lon="12.0051960" version="2" timestamp="2016-10-13T15:57:15Z" changeset="42872569" uid="743479" user="fayor">
+  <node id="64778175" lat="46.2720160" lon="12.0051960" version="3" timestamp="2022-04-05T20:18:40Z" changeset="119358738" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3376"/>
-    <tag k="name" v="Voltago Agordino"/>
+    <tag k="name" v="Voltago Agordino - Oltach"/>
+    <tag k="name:lld" v="Oltach"/>
     <tag k="place" v="village"/>
     <tag k="population" v="991"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3331,10 +3332,11 @@
     <tag k="population" v="3193"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778212" lat="46.2822728" lon="12.0695095" version="4" timestamp="2016-10-13T15:57:08Z" changeset="42872569" uid="743479" user="fayor">
+  <node id="64778212" lat="46.2822728" lon="12.0695095" version="5" timestamp="2022-04-05T20:07:54Z" changeset="119358408" uid="15472180" user="Davide Conedera">
     <tag k="ele" v="816"/>
     <tag k="gfoss_id" v="3336"/>
-    <tag k="name" v="La Valle Agordina"/>
+    <tag k="name" v="La Valle Agordina - La Val"/>
+    <tag k="name:lld" v="La Val"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1108"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9437,13 +9439,6 @@
     <tag k="name" v="Conca dei Marini"/>
     <tag k="place" v="village"/>
     <tag k="population" v="697"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581897" lat="40.7261150" lon="15.2911550" version="2" timestamp="2016-08-28T18:58:20Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5592"/>
-    <tag k="name" v="Colliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3830"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68581904" lat="40.3438013" lon="15.1292011" version="3" timestamp="2016-08-30T01:07:09Z" changeset="41791239" uid="743479" user="fayor">
