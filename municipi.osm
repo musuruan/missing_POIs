@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-08T02:55:39Z" areas="2022-04-08T02:40:24Z"/>
+<meta osm_base="2022-04-09T02:43:39Z" areas="2022-04-09T01:51:17Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3350,9 +3350,10 @@
     <tag k="population" v="2905"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778244" lat="46.4338679" lon="11.9771622" version="5" timestamp="2018-02-17T01:04:20Z" changeset="56429579" uid="1714220" user="luschi">
+  <node id="64778244" lat="46.4338679" lon="11.9771622" version="6" timestamp="2022-04-08T20:06:45Z" changeset="119483922" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3353"/>
-    <tag k="name" v="Rocca Pietore"/>
+    <tag k="name" v="Rocca Pietore - La Rocia"/>
+    <tag k="name:lld" v="La Rocia"/>
     <tag k="old_name:de" v="Rukepraun"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1451"/>
@@ -11652,15 +11653,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022352"/>
   </node>
-  <node id="72960462" lat="41.5404180" lon="13.5122050" version="4" timestamp="2017-03-11T12:49:44Z" changeset="46761722" uid="354284" user="sbiribizio">
-    <tag k="gfoss_id" v="5090"/>
-    <tag k="name" v="Ceprano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8246"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q116716"/>
-    <tag k="wikipedia" v="it:Ceprano"/>
-  </node>
   <node id="72960542" lat="41.5774210" lon="13.8158110" version="3" timestamp="2021-04-29T19:56:41Z" changeset="103867285" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5078"/>
     <tag k="name" v="Belmonte Castello"/>
@@ -13203,11 +13195,6 @@
     <tag k="name" v="Saint-Rhémy-en-Bosses"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q35433"/>
-  </node>
-  <node id="2649519635" lat="45.2832419" lon="9.2966505" version="2" timestamp="2015-03-15T14:12:46Z" changeset="29496271" uid="602784" user="fedc">
-    <tag k="name" v="Torrevecchia Pia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3409"/>
   </node>
   <node id="2663786391" lat="40.5078822" lon="15.8137603" version="3" timestamp="2017-03-03T14:13:26Z" changeset="46549824" uid="3084054" user="agnostico">
     <tag k="name" v="Abriola"/>
