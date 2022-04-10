@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-09T02:43:39Z" areas="2022-04-09T01:51:17Z"/>
+<meta osm_base="2022-04-10T02:49:37Z" areas="2022-04-10T02:04:08Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3271,32 +3271,33 @@
     <tag k="population" v="4509"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778121" lat="46.3305243" lon="12.3228878" version="3" timestamp="2016-10-13T15:57:10Z" changeset="42872569" uid="743479" user="fayor">
+  <node id="64778121" lat="46.3305243" lon="12.3228878" version="4" timestamp="2022-04-09T18:04:51Z" changeset="119513364" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3344"/>
-    <tag k="name" v="Ospitale di Cadore"/>
+    <tag k="name" v="Ospitale di Cadore - Ospedal"/>
     <tag k="place" v="village"/>
     <tag k="population" v="365"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778127" lat="46.3970312" lon="12.3555500" version="3" timestamp="2016-10-13T15:57:10Z" changeset="42872569" uid="743479" user="fayor">
+  <node id="64778127" lat="46.3970312" lon="12.3555500" version="4" timestamp="2022-04-09T18:04:51Z" changeset="119513364" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3346"/>
-    <tag k="name" v="Perarolo di Cadore"/>
+    <tag k="name" v="Perarolo di Cadore - Perarol"/>
+    <tag k="name:lld" v="Perarol"/>
     <tag k="place" v="village"/>
     <tag k="population" v="362"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778133" lat="46.5711759" lon="12.5861180" version="5" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
+  <node id="64778133" lat="46.5711759" lon="12.5861180" version="6" timestamp="2022-04-09T16:32:31Z" changeset="119510596" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3356"/>
-    <tag k="name" v="San Pietro di Cadore"/>
+    <tag k="name" v="San Pietro di Cadore - San Piero"/>
     <tag k="name:fur" v="San Pieri in Cjadovri"/>
-    <tag k="name:vec" v="San Piero de Cador"/>
+    <tag k="name:lld" v="San Piero"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1839"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778134" lat="46.5825290" lon="12.5273020" version="2" timestamp="2016-10-13T15:57:12Z" changeset="42872569" uid="743479" user="fayor">
+  <node id="64778134" lat="46.5825290" lon="12.5273020" version="3" timestamp="2022-04-09T16:32:31Z" changeset="119510596" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3355"/>
-    <tag k="name" v="San Nicolò di Comelico"/>
+    <tag k="name" v="San Nicolò di Comelico - San Colò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3341,11 +3342,11 @@
     <tag k="population" v="1108"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778228" lat="46.5579382" lon="12.5491422" version="5" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
+  <node id="64778228" lat="46.5579382" lon="12.5491422" version="6" timestamp="2022-04-09T16:32:31Z" changeset="119510596" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3359"/>
-    <tag k="name" v="Santo Stefano di Cadore"/>
+    <tag k="name" v="Santo Stefano di Cadore - Sa Stefi"/>
     <tag k="name:fur" v="San Scjefin in Cjadovri"/>
-    <tag k="name:vec" v="San Sten de Cador"/>
+    <tag k="name:lld" v="Sa Stefi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2905"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -5452,13 +5453,6 @@
     <tag k="population" v="15636"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54682"/>
-  </node>
-  <node id="67275353" lat="38.2201116" lon="15.6373809" version="5" timestamp="2016-09-09T00:49:54Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6816"/>
-    <tag k="name" v="Villa San Giovanni"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13784"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67275374" lat="38.3221750" lon="16.3026050" version="2" timestamp="2016-08-28T18:58:26Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6759"/>
@@ -12949,9 +12943,9 @@
     <tag k="population" v="1226"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="1091320722" lat="46.3950450" lon="12.6702260" version="6" timestamp="2019-05-16T23:55:19Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="1091320722" lat="46.3950450" lon="12.6702260" version="7" timestamp="2022-04-09T21:14:16Z" changeset="119518107" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3713"/>
-    <tag k="name" v="Forni di Sotto"/>
+    <tag k="name" v="Forni di Sotto - For Disot"/>
     <tag k="name:fur" v="For Disot"/>
     <tag k="place" v="village"/>
     <tag k="population" v="716"/>
