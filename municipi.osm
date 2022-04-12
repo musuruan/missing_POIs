@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-11T03:02:54Z" areas="2022-04-11T02:16:24Z"/>
+<meta osm_base="2022-04-12T02:54:52Z" areas="2022-04-12T01:31:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -3272,18 +3272,20 @@
     <tag k="population" v="362"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778133" lat="46.5711759" lon="12.5861180" version="6" timestamp="2022-04-09T16:32:31Z" changeset="119510596" uid="15472180" user="Davide Conedera">
+  <node id="64778133" lat="46.5711759" lon="12.5861180" version="7" timestamp="2022-04-11T11:16:34Z" changeset="119573995" uid="1257620" user="Luca Mina">
     <tag k="gfoss_id" v="3356"/>
-    <tag k="name" v="San Pietro di Cadore - San Piero"/>
+    <tag k="loc_name" v="San Piero"/>
+    <tag k="name" v="San Pietro di Cadore"/>
     <tag k="name:fur" v="San Pieri in Cjadovri"/>
     <tag k="name:lld" v="San Piero"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1839"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778134" lat="46.5825290" lon="12.5273020" version="3" timestamp="2022-04-09T16:32:31Z" changeset="119510596" uid="15472180" user="Davide Conedera">
+  <node id="64778134" lat="46.5825290" lon="12.5273020" version="4" timestamp="2022-04-11T11:07:33Z" changeset="119573614" uid="1257620" user="Luca Mina">
     <tag k="gfoss_id" v="3355"/>
-    <tag k="name" v="San Nicolò di Comelico - San Colò"/>
+    <tag k="loc_name" v="San Colò"/>
+    <tag k="name" v="San Nicolò di Comelico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3328,9 +3330,10 @@
     <tag k="population" v="1108"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778228" lat="46.5579382" lon="12.5491422" version="6" timestamp="2022-04-09T16:32:31Z" changeset="119510596" uid="15472180" user="Davide Conedera">
+  <node id="64778228" lat="46.5579382" lon="12.5491422" version="7" timestamp="2022-04-11T11:20:57Z" changeset="119574177" uid="1257620" user="Luca Mina">
     <tag k="gfoss_id" v="3359"/>
-    <tag k="name" v="Santo Stefano di Cadore - Sa Stefi"/>
+    <tag k="loc_name" v="Sa Stefi"/>
+    <tag k="name" v="Santo Stefano di Cadore"/>
     <tag k="name:fur" v="San Scjefin in Cjadovri"/>
     <tag k="name:lld" v="Sa Stefi"/>
     <tag k="place" v="village"/>
@@ -3855,13 +3858,6 @@
     <tag k="source" v="Regione Veneto, License IODL-2.0"/>
     <tag k="wikidata" v="Q47342"/>
   </node>
-  <node id="64779112" lat="45.3045125" lon="11.4462660" version="4" timestamp="2016-10-08T21:08:45Z" changeset="42742263" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3198"/>
-    <tag k="name" v="Asigliano Veneto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="860"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64779131" lat="45.5593599" lon="11.2884303" version="5" timestamp="2017-04-23T08:11:38Z" changeset="48053038" uid="1928626" user="Gianfranco2014">
     <tag k="gfoss_id" v="3260"/>
     <tag k="name" v="Nogarole Vicentino"/>
@@ -4076,41 +4072,6 @@
     <tag k="population" v="4600"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273392" lat="39.0249900" lon="16.5964040" version="2" timestamp="2016-08-28T18:58:09Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6641"/>
-    <tag k="name" v="Albi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1105"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273403" lat="38.9417880" lon="16.4622020" version="2" timestamp="2016-08-28T18:58:09Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6643"/>
-    <tag k="name" v="Amato"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="874"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273410" lat="38.6807830" lon="16.4354040" version="2" timestamp="2016-08-28T18:58:10Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6645"/>
-    <tag k="name" v="Argusto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="568"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273418" lat="38.5686810" lon="16.5246070" version="5" timestamp="2016-08-28T18:58:11Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6646"/>
-    <tag k="name" v="Badolato"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3436"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273424" lat="39.0179920" lon="16.7864080" version="2" timestamp="2016-08-28T18:58:11Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6647"/>
-    <tag k="name" v="Belcastro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1400"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67273431" lat="38.8261860" lon="16.5088040" version="2" timestamp="2016-08-28T18:58:13Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6648"/>
     <tag k="name" v="Borgia"/>
@@ -4201,22 +4162,6 @@
     <tag k="name:aae" v="Garrafa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2084"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273543" lat="38.7930850" lon="16.4481030" version="2" timestamp="2016-08-28T18:58:09Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6642"/>
-    <tag k="name" v="Amaroni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2007"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273547" lat="39.0133910" lon="16.7684070" version="4" timestamp="2016-09-05T17:26:14Z" changeset="41936537" uid="354689" user="Francesco Placco">
-    <tag k="gfoss_id" v="6644"/>
-    <tag k="name" v="Andali"/>
-    <tag k="name:aae" v="Dandalli"/>
-    <tag k="old_name" v="Villa Aragona"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="954"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67273552" lat="39.0188240" lon="16.7427491" version="3" timestamp="2016-08-28T18:58:19Z" changeset="41762146" uid="743479" user="fayor">
