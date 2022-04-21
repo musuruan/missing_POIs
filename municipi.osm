@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-20T03:27:59Z" areas="2022-04-20T03:21:40Z"/>
+<meta osm_base="2022-04-21T03:18:59Z" areas="2022-04-21T02:36:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -1379,13 +1379,6 @@
     <tag k="name" v="Aicurzio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1980"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515082" lat="45.3319695" lon="9.0999868" version="4" timestamp="2015-08-09T12:33:55Z" changeset="33217910" uid="1476146" user="Alecs01">
-    <tag k="gfoss_id" v="1759"/>
-    <tag k="name" v="Binasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6921"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515090" lat="45.3272660" lon="9.0145460" version="3" timestamp="2021-07-12T13:01:10Z" changeset="107841275" uid="11220113" user="ivanbranco">
@@ -3247,7 +3240,7 @@
     <tag k="population" v="362"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778133" lat="46.5711759" lon="12.5861180" version="8" timestamp="2022-04-14T10:29:38Z" changeset="119706408" uid="1950277" user="Mannivu">
+  <node id="64778133" lat="46.5707195" lon="12.5860013" version="9" timestamp="2022-04-20T19:14:28Z" changeset="119969304" uid="1257620" user="Luca Mina">
     <tag k="gfoss_id" v="3356"/>
     <tag k="loc_name" v="San Piero"/>
     <tag k="name" v="San Pietro di Cadore"/>
@@ -3951,12 +3944,14 @@
     <tag k="population" v="546"/>
     <tag k="wikidata" v="Q266259"/>
   </node>
-  <node id="66586673" lat="43.8652210" lon="7.8687480" version="2" timestamp="2016-09-26T20:59:15Z" changeset="42456120" uid="743479" user="fayor">
+  <node id="66586673" lat="43.8652210" lon="7.8687480" version="3" timestamp="2022-04-20T07:52:37Z" changeset="119939303" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1135"/>
     <tag k="name" v="Castellaro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1044"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q260657"/>
+    <tag k="wikipedia" v="it:Castellaro (Italia)"/>
   </node>
   <node id="66586746" lat="44.0470260" lon="7.9149460" version="2" timestamp="2016-09-26T20:59:18Z" changeset="42456120" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1163"/>
@@ -3980,12 +3975,14 @@
     <tag k="population" v="503"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586902" lat="43.8379210" lon="7.8796490" version="2" timestamp="2016-09-26T20:59:19Z" changeset="42456120" uid="743479" user="fayor">
+  <node id="66586902" lat="43.8379210" lon="7.8796490" version="3" timestamp="2022-04-20T07:52:37Z" changeset="119939303" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1171"/>
     <tag k="name" v="Riva Ligure"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2747"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q269704"/>
+    <tag k="wikipedia" v="it:Riva Ligure"/>
   </node>
   <node id="66586956" lat="44.2238470" lon="9.7215181" version="4" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1330"/>
