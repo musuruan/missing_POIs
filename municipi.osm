@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-21T03:18:59Z" areas="2022-04-21T02:36:15Z"/>
+<meta osm_base="2022-04-22T03:37:06Z" areas="2022-04-22T02:50:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -589,8 +589,9 @@
     <tag k="population" v="1522"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508529" lat="45.4610389" lon="10.4845346" version="4" timestamp="2020-04-27T16:43:17Z" changeset="84210948" uid="219297" user="ZeLonewolf">
+  <node id="62508529" lat="45.4610389" lon="10.4845346" version="5" timestamp="2022-04-21T20:31:04Z" changeset="120018530" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2262"/>
+    <tag k="loc_name" v="Lunà"/>
     <tag k="name" v="Lonato del Garda"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12212"/>
@@ -3160,13 +3161,6 @@
     <tag k="population" v="300"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776848" lat="46.1484401" lon="10.7694794" version="4" timestamp="2016-10-25T21:33:15Z" changeset="43173645" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="2957"/>
-    <tag k="name" v="Giustino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="694"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64776865" lat="46.1793313" lon="11.0689304" version="5" timestamp="2021-03-28T18:19:00Z" changeset="101884805" uid="8445331" user="JuaFritz">
     <tag k="gfoss_id" v="2945"/>
     <tag k="loc_name" v="Fai"/>
@@ -5024,15 +5018,6 @@
     <tag k="population" v="3614"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275034" lat="38.1765710" lon="16.1178030" version="1" timestamp="2007-10-12T22:41:16Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="6743"/>
-    <tag k="is_in" v="Reggio Calabria, Calabria, Italy"/>
-    <tag k="name" v="Careri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2443"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275065" lat="38.0046595" lon="15.8573967" version="3" timestamp="2016-08-28T18:58:20Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6749"/>
     <tag k="name" v="Condofuri"/>
@@ -5129,25 +5114,11 @@
     <tag k="population" v="1201"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275262" lat="38.1483710" lon="16.0660020" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6794"/>
-    <tag k="name" v="San Luca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4106"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275266" lat="38.0109670" lon="15.8343980" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6793"/>
     <tag k="name" v="San Lorenzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3357"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275279" lat="38.1691690" lon="15.7891960" version="2" timestamp="2016-08-28T18:58:46Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6803"/>
-    <tag k="name" v="Santo Stefano in Aspromonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1470"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67275374" lat="38.3221750" lon="16.3026050" version="2" timestamp="2016-08-28T18:58:26Z" changeset="41762146" uid="743479" user="fayor">
@@ -5248,13 +5219,6 @@
     <tag k="population" v="1736"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275547" lat="38.2811720" lon="15.8903970" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6796"/>
-    <tag k="name" v="San Procopio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="617"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275580" lat="38.0737690" lon="16.0583020" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6790"/>
     <tag k="name" v="Samo"/>
@@ -5267,27 +5231,6 @@
     <tag k="name" v="Caraffa del Bianco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="622"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275640" lat="38.0845670" lon="15.7665960" version="2" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6742"/>
-    <tag k="name" v="Cardeto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2325"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275650" lat="38.3150434" lon="16.1997834" version="3" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6740"/>
-    <tag k="name" v="Canolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="957"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275667" lat="38.4322567" lon="16.4819579" version="4" timestamp="2018-10-22T21:07:56Z" changeset="63773255" uid="95387" user="rugamarcus">
-    <tag k="gfoss_id" v="6737"/>
-    <tag k="name" v="Camini"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="736"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67275700" lat="38.4381760" lon="16.1500000" version="2" timestamp="2016-08-28T18:58:26Z" changeset="41762146" uid="743479" user="fayor">
@@ -5311,48 +5254,11 @@
     <tag k="population" v="976"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275825" lat="38.5128770" lon="16.1006990" version="2" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6807"/>
-    <tag k="name" v="Serrata"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="964"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275833" lat="38.2637710" lon="15.8784970" version="2" timestamp="2016-08-28T18:58:49Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6809"/>
-    <tag k="name" v="Sinopoli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2329"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275856" lat="38.4831702" lon="15.9162707" version="3" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6817"/>
     <tag k="name" v="San Ferdinando"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4339"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275866" lat="38.2553720" lon="15.9704990" version="1" timestamp="2007-10-12T22:41:47Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="6798"/>
-    <tag k="is_in" v="Reggio Calabria, Calabria, Italy"/>
-    <tag k="name" v="Santa Cristina d'Aspromonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1095"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275890" lat="38.1725690" lon="15.7577950" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6800"/>
-    <tag k="name" v="Sant'Alessio in Aspromonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="436"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275899" lat="38.2187730" lon="16.1956040" version="2" timestamp="2016-08-28T18:58:46Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6802"/>
-    <tag k="name" v="Sant'Ilario dello Ionio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1389"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67275990" lat="38.6322790" lon="16.0738970" version="2" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
