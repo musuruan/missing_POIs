@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-04-25T03:06:52Z" areas="2022-04-25T02:25:19Z"/>
+<meta osm_base="2022-04-26T03:15:09Z" areas="2022-04-26T02:37:37Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
     <tag k="addr:postcode" v="74170"/>
@@ -4909,14 +4909,6 @@
     <tag k="population" v="1397"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274822" lat="39.2690337" lon="16.7674533" version="5" timestamp="2016-08-28T18:58:17Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7952"/>
-    <tag k="name" v="Castelsilano"/>
-    <tag k="old_name" v="Casino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1273"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274895" lat="39.6688010" lon="16.3104900" version="3" timestamp="2016-09-05T17:50:33Z" changeset="41937037" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6627"/>
     <tag k="name" v="Spezzano Albanese"/>
@@ -5058,67 +5050,11 @@
     <tag k="population" v="2415"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275266" lat="38.0109670" lon="15.8343980" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6793"/>
-    <tag k="name" v="San Lorenzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3357"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275381" lat="38.1733690" lon="15.7413950" version="2" timestamp="2016-08-28T18:58:27Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6761"/>
-    <tag k="name" v="Laganadi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="498"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275403" lat="38.4337129" lon="16.0604715" version="7" timestamp="2016-08-28T18:58:31Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6769"/>
     <tag k="name" v="Melicucco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4996"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275422" lat="38.4536790" lon="16.5520090" version="2" timestamp="2016-08-28T18:58:32Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6772"/>
-    <tag k="name" v="Monasterace"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3426"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275451" lat="38.4118780" lon="16.4525070" version="2" timestamp="2016-08-28T18:58:38Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6779"/>
-    <tag k="name" v="Placanica"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1507"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275456" lat="38.2199720" lon="16.0465010" version="2" timestamp="2016-08-28T18:58:38Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6780"/>
-    <tag k="name" v="Platì"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3823"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275463" lat="38.0472680" lon="15.8946990" version="2" timestamp="2016-08-28T18:58:40Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6786"/>
-    <tag k="name" v="Roccaforte del Greco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="802"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275470" lat="38.3219760" lon="16.4009070" version="2" timestamp="2016-08-28T18:58:40Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6787"/>
-    <tag k="name" v="Roccella Ionica"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6762"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275484" lat="38.3650760" lon="16.2777040" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6792"/>
-    <tag k="name" v="San Giovanni di Gerace"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="609"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67275493" lat="37.9666670" lon="15.9867020" version="2" timestamp="2016-08-28T18:58:35Z" changeset="41762146" uid="743479" user="fayor">
@@ -5128,53 +5064,11 @@
     <tag k="population" v="2709"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275508" lat="38.0031650" lon="15.6950960" version="2" timestamp="2016-08-28T18:58:33Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6774"/>
-    <tag k="name" v="Motta San Giovanni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6449"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275512" lat="37.9827660" lon="15.7579970" version="3" timestamp="2019-02-07T19:01:16Z" changeset="67004425" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6773"/>
-    <tag k="name" v="Montebello Jonico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6922"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275518" lat="38.3539760" lon="16.2883040" version="2" timestamp="2016-08-28T18:58:30Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6767"/>
-    <tag k="name" v="Martone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="597"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275525" lat="38.4406316" lon="16.0991609" version="3" timestamp="2017-02-18T18:40:25Z" changeset="46199305" uid="1209528" user="giosper">
-    <tag k="gfoss_id" v="6766"/>
-    <tag k="name" v="Maropati"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1736"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275580" lat="38.0737690" lon="16.0583020" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6790"/>
-    <tag k="name" v="Samo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1097"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275635" lat="38.0926700" lon="16.0864030" version="2" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6741"/>
     <tag k="name" v="Caraffa del Bianco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="622"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275856" lat="38.4831702" lon="15.9162707" version="3" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6817"/>
-    <tag k="name" v="San Ferdinando"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4339"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67275990" lat="38.6322790" lon="16.0738970" version="2" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
