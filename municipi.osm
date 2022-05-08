@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-07T02:54:51Z" areas="2022-05-07T01:58:52Z"/>
+<meta osm_base="2022-05-08T03:08:15Z" areas="2022-05-08T02:11:23Z"/>
 
-  <node id="26695130" lat="45.8928549" lon="6.7113338" version="12" timestamp="2020-01-18T14:15:26Z" changeset="79732018" uid="300696" user="daop5510">
+  <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
     <tag k="name" v="Saint-Gervais-les-Bains"/>
     <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q534206"/>
+    <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="24" timestamp="2022-04-28T07:30:59Z" changeset="120290701" uid="5359" user="user_5359">
     <tag k="alt_name" v="Chamonix"/>
@@ -4153,15 +4155,6 @@
     <tag k="population" v="3102"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273830" lat="39.7231000" lon="16.0898850" version="2" timestamp="2016-09-05T17:31:30Z" changeset="41936631" uid="354689" user="Francesco Placco">
-    <tag k="gfoss_id" v="6486"/>
-    <tag k="is_in" v="Cosenza, Calabria, Italy"/>
-    <tag k="name" v="Acquaformosa"/>
-    <tag k="name:aae" v="Firmoza"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1295"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67273838" lat="39.1286884" lon="16.3082134" version="3" timestamp="2016-08-29T01:35:01Z" changeset="41767201" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6624"/>
     <tag k="name" v="Scigliano"/>
@@ -4174,13 +4167,6 @@
     <tag k="name" v="Aprigliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2816"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273892" lat="39.9241209" lon="16.4698691" version="3" timestamp="2020-06-11T11:42:49Z" changeset="86515815" uid="11330561" user="vins312">
-    <tag k="gfoss_id" v="6491"/>
-    <tag k="name" v="Albidona"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1784"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67273904" lat="39.1304900" lon="16.2526950" version="2" timestamp="2016-08-28T18:58:09Z" changeset="41762146" uid="743479" user="fayor">
@@ -4621,13 +4607,6 @@
     <tag k="name" v="Aieta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="892"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274476" lat="39.4936950" lon="15.9520840" version="2" timestamp="2016-08-28T18:58:08Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6487"/>
-    <tag k="name" v="Acquappesa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2068"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274483" lat="39.6777304" lon="15.8211279" version="4" timestamp="2016-08-28T18:58:22Z" changeset="41762146" uid="743479" user="fayor">
