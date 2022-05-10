@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-09T03:13:35Z" areas="2022-05-09T02:22:54Z"/>
+<meta osm_base="2022-05-10T02:42:40Z" areas="2022-05-10T02:37:37Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3255,12 +3255,14 @@
     <tag k="population" v="1772"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778175" lat="46.2720160" lon="12.0051960" version="4" timestamp="2022-04-14T11:05:39Z" changeset="119707840" uid="1950277" user="Mannivu">
+  <node id="64778175" lat="46.2720160" lon="12.0051960" version="5" timestamp="2022-05-09T20:22:14Z" changeset="120764581" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3376"/>
-    <tag k="name" v="Voltago Agordino"/>
+    <tag k="name" v="Voltago Agordino - Oltach"/>
+    <tag k="name:it" v="Voltago Agordino"/>
+    <tag k="name:lld" v="Oltach"/>
     <tag k="place" v="village"/>
     <tag k="population" v="991"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source" v="geodati.gfoss.it;local knowledge;legge 482/99 sulle minoranze linguistiche;Wikipedia"/>
   </node>
   <node id="64778183" lat="46.0838843" lon="12.0432384" version="4" timestamp="2016-10-13T15:57:13Z" changeset="42872569" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3357"/>
@@ -3276,13 +3278,13 @@
     <tag k="population" v="3193"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778212" lat="46.2822728" lon="12.0695095" version="6" timestamp="2022-04-14T11:05:52Z" changeset="119707846" uid="1950277" user="Mannivu">
+  <node id="64778212" lat="46.2822728" lon="12.0695095" version="7" timestamp="2022-05-09T19:56:50Z" changeset="120763811" uid="15472180" user="Davide Conedera">
     <tag k="ele" v="816"/>
     <tag k="gfoss_id" v="3336"/>
-    <tag k="name" v="La Valle Agordina"/>
+    <tag k="name" v="La Valle Agordina - La Val"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1108"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source" v="geodati.gfoss.it;local knowledge;legge 482/99 sulle minoranze linguistiche;Wikipedia"/>
   </node>
   <node id="64778228" lat="46.5579382" lon="12.5491422" version="8" timestamp="2022-04-14T10:29:38Z" changeset="119706408" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="3359"/>
