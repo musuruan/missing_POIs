@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-10T02:42:40Z" areas="2022-05-10T02:37:37Z"/>
+<meta osm_base="2022-05-11T03:14:19Z" areas="2022-05-11T02:49:09Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3248,12 +3248,14 @@
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778167" lat="46.2987816" lon="12.0126535" version="5" timestamp="2022-04-14T11:38:52Z" changeset="119709308" uid="1950277" user="Mannivu">
+  <node id="64778167" lat="46.2987816" lon="12.0126535" version="6" timestamp="2022-05-10T20:47:50Z" changeset="120810786" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3368"/>
-    <tag k="name" v="Taibon Agordino"/>
+    <tag k="name" v="Taibon Agordino - Taibon"/>
+    <tag k="name:it" v="Taibon Agordino"/>
+    <tag k="name:lld" v="Taibon"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1772"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source" v="geodati.gfoss.it;local knowledge;Wikipedia;Legge nazionale 482/99 sulle minoranze linguistiche"/>
   </node>
   <node id="64778175" lat="46.2720160" lon="12.0051960" version="5" timestamp="2022-05-09T20:22:14Z" changeset="120764581" uid="15472180" user="Davide Conedera">
     <tag k="gfoss_id" v="3376"/>
@@ -3278,10 +3280,12 @@
     <tag k="population" v="3193"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778212" lat="46.2822728" lon="12.0695095" version="7" timestamp="2022-05-09T19:56:50Z" changeset="120763811" uid="15472180" user="Davide Conedera">
+  <node id="64778212" lat="46.2822728" lon="12.0695095" version="8" timestamp="2022-05-10T19:14:34Z" changeset="120807918" uid="15472180" user="Davide Conedera">
     <tag k="ele" v="816"/>
     <tag k="gfoss_id" v="3336"/>
     <tag k="name" v="La Valle Agordina - La Val"/>
+    <tag k="name:it" v="La Valle Agordina"/>
+    <tag k="name:lld" v="La Val"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1108"/>
     <tag k="source" v="geodati.gfoss.it;local knowledge;legge 482/99 sulle minoranze linguistiche;Wikipedia"/>
@@ -4164,13 +4168,6 @@
     <tag k="population" v="1601"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273877" lat="39.2416930" lon="16.3417960" version="2" timestamp="2016-08-28T18:58:10Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6497"/>
-    <tag k="name" v="Aprigliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2816"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67273907" lat="39.3516387" lon="16.2844314" version="3" timestamp="2016-08-28T18:58:18Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6515"/>
     <tag k="name" v="Castiglione Cosentino"/>
@@ -4539,20 +4536,6 @@
     <tag k="name" v="Belvedere Marittimo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9371"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274383" lat="39.1771910" lon="16.2882950" version="2" timestamp="2016-08-28T18:58:12Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6499"/>
-    <tag k="name" v="Belsito"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="930"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274389" lat="39.9524383" lon="16.5822838" version="3" timestamp="2016-08-28T18:58:10Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6496"/>
-    <tag k="name" v="Amendolara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3147"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274410" lat="39.5058502" lon="16.7595486" version="3" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
@@ -12243,8 +12226,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="572"/>
   </node>
-  <node id="2677721655" lat="46.3813201" lon="11.9757736" version="5" timestamp="2021-06-11T08:45:09Z" changeset="106201245" uid="12525093" user="Beocchia">
-    <tag k="name" v="Celat"/>
+  <node id="2677721655" lat="46.3813201" lon="11.9757736" version="6" timestamp="2022-05-10T21:16:58Z" changeset="120811457" uid="15472180" user="Davide Conedera">
+    <tag k="name" v="Celat - Zelat"/>
+    <tag k="name:it" v="Celat"/>
+    <tag k="name:lld" v="Zelat"/>
     <tag k="place" v="village"/>
   </node>
   <node id="3072217893" lat="40.7090178" lon="13.9186022" version="3" timestamp="2016-08-31T23:04:12Z" changeset="41838072" uid="743479" user="fayor">
@@ -12350,10 +12335,6 @@
   </node>
   <node id="6163598535" lat="41.7339376" lon="14.0343937" version="2" timestamp="2021-03-28T07:37:35Z" changeset="101863025" uid="1737330" user="harada83">
     <tag k="name" v="Alfedena"/>
-    <tag k="place" v="village"/>
-  </node>
-  <node id="6955913968" lat="39.1622028" lon="16.0825360" version="1" timestamp="2019-11-07T20:37:45Z" changeset="76776505" uid="330007" user="pikappa79">
-    <tag k="name" v="Belmonte Calabro"/>
     <tag k="place" v="village"/>
   </node>
   <node id="7066853715" lat="45.3207113" lon="11.8709849" version="1" timestamp="2019-12-18T16:10:11Z" changeset="78590858" uid="305001" user="voschix">
