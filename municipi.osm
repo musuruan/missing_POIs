@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-05-21T02:44:37Z" areas="2022-05-21T02:01:55Z"/>
+<meta osm_base="2022-05-22T03:02:25Z" areas="2022-05-22T02:12:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -4340,47 +4340,6 @@
     <tag k="population" v="4184"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274173" lat="39.9870090" lon="16.6016930" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6592"/>
-    <tag k="name" v="Roseto Capo Spulico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1759"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274177" lat="39.8096030" lon="16.1632850" version="4" timestamp="2020-07-21T14:31:40Z" changeset="88299497" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="6596"/>
-    <tag k="name" v="San Basile"/>
-    <tag k="name:aae" v="Shën Vàsili"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1285"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53955"/>
-    <tag k="wikipedia" v="it:San Basile"/>
-  </node>
-  <node id="67274180" lat="39.4684960" lon="16.1125880" version="3" timestamp="2016-09-05T17:51:55Z" changeset="41937071" uid="354689" user="Francesco Placco">
-    <tag k="gfoss_id" v="6594"/>
-    <tag k="name" v="Rota Greca"/>
-    <tag k="name:aae" v="Rrota"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1293"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274183" lat="39.5831000" lon="16.4201930" version="3" timestamp="2016-09-05T17:45:38Z" changeset="41936940" uid="354689" user="Francesco Placco">
-    <tag k="gfoss_id" v="6598"/>
-    <tag k="name" v="San Cosmo Albanese"/>
-    <tag k="name:aae" v="Stighari"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="702"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274187" lat="39.4270950" lon="16.1237890" version="3" timestamp="2016-09-05T17:44:46Z" changeset="41936916" uid="354689" user="Francesco Placco">
-    <tag k="gfoss_id" v="6597"/>
-    <tag k="name" v="San Benedetto Ullano"/>
-    <tag k="name:aae" v="Shën Bendhiti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1649"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274190" lat="40.0994110" lon="16.4818890" version="2" timestamp="2016-08-28T18:58:34Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6571"/>
     <tag k="name" v="Nocara"/>
@@ -4424,33 +4383,11 @@
     <tag k="population" v="1238"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274293" lat="39.7116002" lon="16.0484912" version="3" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6600"/>
-    <tag k="name" v="San Donato di Ninea"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1778"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274303" lat="39.3388930" lon="16.1434900" version="2" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6601"/>
     <tag k="name" v="San Fili"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2568"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274323" lat="39.2529756" lon="16.6973766" version="10" timestamp="2017-04-29T04:54:27Z" changeset="48245682" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="6604"/>
-    <tag k="name" v="San Giovanni in Fiore"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="17372"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53969"/>
-  </node>
-  <node id="67274328" lat="39.8892050" lon="16.3302880" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6605"/>
-    <tag k="name" v="San Lorenzo Bellizzi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="904"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274363" lat="39.1008910" lon="16.4100990" version="2" timestamp="2016-08-28T18:58:12Z" changeset="41762146" uid="743479" user="fayor">
@@ -4687,21 +4624,6 @@
     <tag k="population" v="2340"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274738" lat="39.3079940" lon="16.3210940" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6595"/>
-    <tag k="name" v="Rovito"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2817"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274754" lat="39.6682010" lon="16.2973900" version="3" timestamp="2016-09-05T17:49:59Z" changeset="41937022" uid="354689" user="Francesco Placco">
-    <tag k="gfoss_id" v="6606"/>
-    <tag k="name" v="San Lorenzo del Vallo"/>
-    <tag k="name:aae" v="Shëllorenxi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3428"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274771" lat="40.1097110" lon="16.5801910" version="5" timestamp="2017-03-05T13:46:19Z" changeset="46596366" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="6588"/>
     <tag k="name" v="Rocca Imperiale"/>
@@ -4716,13 +4638,6 @@
     <tag k="name" v="Roggiano Gravina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7739"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274790" lat="39.3984950" lon="16.2871930" version="2" timestamp="2016-08-28T18:58:40Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6591"/>
-    <tag k="name" v="Rose"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4413"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274796" lat="39.8719154" lon="15.9055522" version="3" timestamp="2016-08-28T18:58:36Z" changeset="41762146" uid="743479" user="fayor">
@@ -5630,13 +5545,6 @@
     <tag k="name" v="Montefalcone nel Sannio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1866"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67284156" lat="41.4564092" lon="14.6411943" version="3" timestamp="2016-09-03T02:35:26Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6079"/>
-    <tag k="name" v="San Giuliano del Sannio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1076"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67284159" lat="41.4929240" lon="14.4102250" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
