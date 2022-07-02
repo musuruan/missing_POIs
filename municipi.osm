@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-01T03:47:50Z" areas="2022-07-01T03:46:53Z"/>
+<meta osm_base="2022-07-02T03:39:07Z" areas="2022-07-02T03:00:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -37,13 +37,6 @@
     <tag k="name" v="Carobbio degli Angeli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3317"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62505737" lat="45.7118675" lon="9.8237131" version="4" timestamp="2021-05-24T21:07:21Z" changeset="105250508" uid="13159382" user="MismografoCenatese">
-    <tag k="gfoss_id" v="1992"/>
-    <tag k="name" v="Cenate Sopra"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2082"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62505771" lat="45.8894870" lon="9.7692520" version="2" timestamp="2021-01-14T11:40:31Z" changeset="97493203" uid="616481" user="gigi2037">
@@ -3041,7 +3034,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="190"/>
   </node>
-  <node id="64776541" lat="46.1081377" lon="11.3027058" version="10" timestamp="2020-01-22T17:54:38Z" changeset="79932324" uid="8445331" user="JuaFritz">
+  <node id="64776541" lat="46.1081377" lon="11.3027058" version="11" timestamp="2022-07-01T10:47:58Z" changeset="123080762" uid="1950277" user="Mannivu">
     <tag k="alt_name:de" v="St. Urschl"/>
     <tag k="gfoss_id" v="3032"/>
     <tag k="name" v="Sant'Orsola Terme"/>
@@ -3052,6 +3045,7 @@
     <tag k="population" v="906"/>
     <tag k="reg_name" v="Sant'Orsola"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030398"/>
   </node>
   <node id="64776567" lat="46.1302020" lon="10.7574700" version="3" timestamp="2016-10-25T21:33:08Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="2894"/>
