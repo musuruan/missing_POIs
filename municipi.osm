@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-14T03:43:18Z" areas="2022-07-14T03:14:34Z"/>
+<meta osm_base="2022-07-15T03:48:07Z" areas="2022-07-15T03:26:27Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -2840,6 +2840,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1011"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="63629559" lat="45.2352767" lon="7.6003081" version="5" timestamp="2022-04-10T08:51:13Z" changeset="119527139" uid="11220113" user="ivanbranco">
+    <tag k="gfoss_id" v="86"/>
+    <tag k="name" v="Ciriè"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="18188"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024782"/>
   </node>
   <node id="63629598" lat="45.1521446" lon="7.6579731" version="4" timestamp="2011-11-02T15:47:01Z" changeset="9723139" uid="113023" user="glaucos">
     <tag k="gfoss_id" v="28"/>
