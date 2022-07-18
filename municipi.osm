@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-17T03:35:17Z" areas="2022-07-17T02:48:40Z"/>
+<meta osm_base="2022-07-18T03:37:33Z" areas="2022-07-18T02:56:40Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1333,14 +1333,11 @@
     <tag k="population" v="3572"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62514191" lat="45.3129650" lon="8.9696450" version="2" timestamp="2017-06-13T19:52:06Z" changeset="49510103" uid="668137" user="Ramying">
-    <tag k="gfoss_id" v="1757"/>
-    <tag k="is_in" v="Milano, Lombardia, Italy"/>
+  <node id="62514191" lat="45.3129650" lon="8.9696450" version="3" timestamp="2022-07-17T21:34:38Z" changeset="123736155" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Besate"/>
     <tag k="name:lmo" v="Besaa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1729"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62514411" lat="45.5765762" lon="9.5291744" version="5" timestamp="2020-10-24T09:31:05Z" changeset="92982733" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1909"/>
@@ -1438,12 +1435,10 @@
     <tag k="population" v="352"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515459" lat="45.3123660" lon="9.0168460" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2410"/>
+  <node id="62515459" lat="45.3123851" lon="9.0179614" version="5" timestamp="2022-07-17T21:34:38Z" changeset="123736155" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Casorate Primo"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="7028"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515478" lat="45.0948626" lon="9.0312537" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="ele" v="68"/>
@@ -1878,13 +1873,6 @@
     <tag k="name" v="Villalvernia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="932"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63622481" lat="44.6616460" lon="8.5861490" version="2" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="1033"/>
-    <tag k="name" v="Trisobbio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="682"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63622497" lat="44.6704450" lon="8.4216450" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
