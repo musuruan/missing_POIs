@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.58.3 b33c3320">
+<osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-20T03:35:30Z" areas="2022-07-19T10:39:23Z"/>
+<meta osm_base="2022-07-21T03:28:37Z" areas="2022-07-20T11:06:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1526,12 +1526,10 @@
     <tag k="ref:ISTAT" v="018151"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516860" lat="45.2584640" lon="9.0427480" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2539"/>
+  <node id="62516860" lat="45.2584640" lon="9.0427480" version="3" timestamp="2022-07-20T09:32:05Z" changeset="123842048" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Trivolzio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1204"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62516883" lat="44.8394798" lon="9.3300680" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2504"/>
@@ -1838,13 +1836,6 @@
     <tag k="population" v="1216"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030874"/>
-  </node>
-  <node id="63622410" lat="44.8676119" lon="8.9126635" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="1015"/>
-    <tag k="name" v="Sarezzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1156"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63622421" lat="44.6922480" lon="8.7501520" version="2" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1009"/>
