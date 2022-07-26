@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-25T03:39:08Z" areas="2022-07-20T11:06:24Z"/>
+<meta osm_base="2022-07-26T03:57:08Z" areas="2022-07-20T11:06:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -218,14 +218,6 @@
     <tag k="name" v="Arzago d'Adda"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2285"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506644" lat="45.8701870" lon="9.8746550" version="4" timestamp="2021-01-14T21:18:59Z" changeset="97516511" uid="616481" user="gigi2037">
-    <tag k="gfoss_id" v="2097"/>
-    <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
-    <tag k="name" v="Premolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1102"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506664" lat="45.8740752" lon="9.6530220" version="6" timestamp="2021-03-24T09:50:35Z" changeset="101633885" uid="10513393" user="ceca2403">
@@ -3176,23 +3168,19 @@
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778167" lat="46.2987816" lon="12.0126535" version="6" timestamp="2022-05-10T20:47:50Z" changeset="120810786" uid="15472180" user="Davide Conedera">
+  <node id="64778167" lat="46.2987816" lon="12.0126535" version="7" timestamp="2022-07-25T10:49:59Z" changeset="124046136" uid="1257620" user="Luca_34c">
     <tag k="gfoss_id" v="3368"/>
-    <tag k="name" v="Taibon Agordino - Taibon"/>
-    <tag k="name:it" v="Taibon Agordino"/>
-    <tag k="name:lld" v="Taibon"/>
+    <tag k="name" v="Taibon Agordino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1772"/>
-    <tag k="source" v="geodati.gfoss.it;local knowledge;Wikipedia;Legge nazionale 482/99 sulle minoranze linguistiche"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778175" lat="46.2720160" lon="12.0051960" version="5" timestamp="2022-05-09T20:22:14Z" changeset="120764581" uid="15472180" user="Davide Conedera">
+  <node id="64778175" lat="46.2720160" lon="12.0051960" version="6" timestamp="2022-07-25T11:10:50Z" changeset="124047101" uid="1257620" user="Luca_34c">
     <tag k="gfoss_id" v="3376"/>
-    <tag k="name" v="Voltago Agordino - Oltach"/>
-    <tag k="name:it" v="Voltago Agordino"/>
-    <tag k="name:lld" v="Oltach"/>
+    <tag k="name" v="Voltago Agordino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="991"/>
-    <tag k="source" v="geodati.gfoss.it;local knowledge;legge 482/99 sulle minoranze linguistiche;Wikipedia"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778183" lat="46.0838843" lon="12.0432384" version="4" timestamp="2016-10-13T15:57:13Z" changeset="42872569" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3357"/>
@@ -3208,15 +3196,15 @@
     <tag k="population" v="3193"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778212" lat="46.2822728" lon="12.0695095" version="8" timestamp="2022-05-10T19:14:34Z" changeset="120807918" uid="15472180" user="Davide Conedera">
+  <node id="64778212" lat="46.2822728" lon="12.0695095" version="9" timestamp="2022-07-25T11:07:35Z" changeset="124046970" uid="1257620" user="Luca_34c">
     <tag k="ele" v="816"/>
     <tag k="gfoss_id" v="3336"/>
-    <tag k="name" v="La Valle Agordina - La Val"/>
+    <tag k="name" v="La Valle Agordina"/>
     <tag k="name:it" v="La Valle Agordina"/>
     <tag k="name:lld" v="La Val"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1108"/>
-    <tag k="source" v="geodati.gfoss.it;local knowledge;legge 482/99 sulle minoranze linguistiche;Wikipedia"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778228" lat="46.5579382" lon="12.5491422" version="8" timestamp="2022-04-14T10:29:38Z" changeset="119706408" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="3359"/>
@@ -11604,8 +11592,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="572"/>
   </node>
-  <node id="2677721655" lat="46.3813201" lon="11.9757736" version="6" timestamp="2022-05-10T21:16:58Z" changeset="120811457" uid="15472180" user="Davide Conedera">
-    <tag k="name" v="Celat - Zelat"/>
+  <node id="2677721655" lat="46.3813201" lon="11.9757736" version="8" timestamp="2022-07-25T11:34:51Z" changeset="124048116" uid="1257620" user="Luca_34c">
+    <tag k="name" v="Celat"/>
     <tag k="name:it" v="Celat"/>
     <tag k="name:lld" v="Zelat"/>
     <tag k="place" v="village"/>
