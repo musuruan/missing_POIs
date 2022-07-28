@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-27T03:42:23Z" areas="2022-07-20T11:06:24Z"/>
+<meta osm_base="2022-07-28T03:27:37Z" areas="2022-07-20T11:06:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1992,14 +1992,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="959"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63622903" lat="44.6826470" lon="8.5878480" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="961"/>
-    <tag k="name" v="Montaldo Bormida"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="690"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027718"/>
   </node>
   <node id="63622915" lat="44.9494522" lon="8.6857406" version="4" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="962"/>
@@ -11274,6 +11266,15 @@
     <tag k="is_in" v="Aosta"/>
     <tag k="name" v="Avise"/>
     <tag k="place" v="village"/>
+  </node>
+  <node id="463178837" lat="45.0189597" lon="6.6040901" version="12" timestamp="2020-02-07T12:57:37Z" changeset="80692038" uid="49047" user="vincent_95">
+    <tag k="addr:postcode" v="05100"/>
+    <tag k="name" v="Névache"/>
+    <tag k="name:oc" v="Nevacha"/>
+    <tag k="place" v="village"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="wikidata" v="Q588334"/>
+    <tag k="wikipedia" v="fr:Névache"/>
   </node>
   <node id="480638714" lat="45.1886190" lon="10.7919897" version="2" timestamp="2014-01-21T21:49:49Z" changeset="20131000" uid="69717" user="kaitu">
     <tag k="is_in" v="provincia di Mantova"/>
