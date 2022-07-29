@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-07-28T03:27:37Z" areas="2022-07-20T11:06:24Z"/>
+<meta osm_base="2022-07-29T03:44:24Z" areas="2022-07-20T11:06:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -11189,6 +11189,28 @@
     <tag k="wikidata" v="Q341014"/>
     <tag k="wikipedia" v="it:Sant'Antonio di Gallura"/>
     <tag k="wikipedia:sc" v="Sant'Antoni de Calanzanus"/>
+  </node>
+  <node id="240090371" lat="47.0380876" lon="11.4798884" version="7" timestamp="2021-09-02T19:18:01Z" changeset="110636989" uid="13854800" user="Osmonaut">
+    <tag k="ele" v="1165"/>
+    <tag k="name" v="Gries am Brenner"/>
+    <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+    <tag k="openGeoDB:community_identification_number" v="7031301"/>
+    <tag k="openGeoDB:is_in" v="Gries am Brenner,Innsbruck-Land,Tirol,Österreich,Europe"/>
+    <tag k="openGeoDB:is_in_loc_id" v="77515"/>
+    <tag k="openGeoDB:layer" v="7"/>
+    <tag k="openGeoDB:loc_id" v="29390"/>
+    <tag k="openGeoDB:location" v="locality"/>
+    <tag k="openGeoDB:name" v="Gries am Brenner"/>
+    <tag k="openGeoDB:population" v="1260"/>
+    <tag k="openGeoDB:postal_codes" v="6156"/>
+    <tag k="openGeoDB:sort_name" v="GRIES"/>
+    <tag k="openGeoDB:type" v="Ort"/>
+    <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1260"/>
+    <tag k="short_name" v="Gries"/>
+    <tag k="wikidata" v="Q669493"/>
+    <tag k="wikipedia" v="de:Gries am Brenner"/>
   </node>
   <node id="272333320" lat="46.4701147" lon="11.7296877" version="7" timestamp="2022-04-14T10:17:39Z" changeset="119705846" uid="1950277" user="Mannivu">
     <tag k="alt_name" v="Fontanazzo di Sotto"/>
