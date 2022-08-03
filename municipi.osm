@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-02T03:56:30Z" areas="2022-07-20T11:06:24Z"/>
+<meta osm_base="2022-08-03T03:46:08Z" areas="2022-07-20T11:06:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -230,13 +230,16 @@
     <tag k="wikidata" v="Q101545"/>
     <tag k="wikipedia" v="it:San Giovanni Bianco"/>
   </node>
-  <node id="62506697" lat="45.8870880" lon="9.9496560" version="3" timestamp="2021-01-14T21:18:59Z" changeset="97516511" uid="616481" user="gigi2037">
+  <node id="62506697" lat="45.8870880" lon="9.9496560" version="4" timestamp="2022-08-02T07:16:54Z" changeset="124376574" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="2001"/>
     <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
     <tag k="name" v="Clusone"/>
     <tag k="place" v="town"/>
     <tag k="population" v="8657"/>
+    <tag k="postal_code" v="25023"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://clusone.comune-online.it/"/>
+    <tag k="wikipedia" v="Clusone"/>
   </node>
   <node id="62506758" lat="45.8147830" lon="9.5710490" version="4" timestamp="2021-01-14T12:31:57Z" changeset="97495586" uid="616481" user="gigi2037">
     <tag k="gfoss_id" v="1949"/>
@@ -9545,12 +9548,14 @@
     <tag k="wikidata" v="Q51351"/>
     <tag k="wikipedia" v="it:Carpineto della Nora"/>
   </node>
-  <node id="70993350" lat="42.2544596" lon="13.8846932" version="4" timestamp="2020-06-10T07:55:24Z" changeset="86447455" uid="10124288" user="damianeue">
+  <node id="70993350" lat="42.2544596" lon="13.8846932" version="6" timestamp="2022-08-02T21:30:01Z" changeset="124410400" uid="1940323" user="SekeRob">
     <tag k="gfoss_id" v="5891"/>
     <tag k="name" v="Pescosansonesco"/>
+    <tag k="note" v="Encountered multiple direction and city limit signs saying Pescosansonesco Nuovo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="556"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:name" v="sign at road"/>
     <tag k="wikidata" v="Q51377"/>
     <tag k="wikipedia" v="it:Pescosansonesco"/>
   </node>
