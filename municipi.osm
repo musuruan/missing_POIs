@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-03T03:46:08Z" areas="2022-07-20T11:06:24Z"/>
+<meta osm_base="2022-08-04T03:19:23Z" areas="2022-07-20T10:48:09Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3144,21 +3144,24 @@
     <tag k="population" v="362"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778133" lat="46.5707195" lon="12.5860013" version="9" timestamp="2022-04-20T19:14:28Z" changeset="119969304" uid="1257620" user="Luca_34c">
+  <node id="64778133" lat="46.5707195" lon="12.5860013" version="10" timestamp="2022-08-03T13:12:53Z" changeset="124436716" uid="1257620" user="Luca_34c">
     <tag k="gfoss_id" v="3356"/>
     <tag k="loc_name" v="San Piero"/>
     <tag k="name" v="San Pietro di Cadore"/>
     <tag k="name:fur" v="San Pieri in Cjadovri"/>
+    <tag k="name:it" v="San Pietro di Cadore"/>
     <tag k="name:lld" v="San Piero"/>
     <tag k="name:vec" v="San Piero de Cador"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1839"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778134" lat="46.5825290" lon="12.5273020" version="4" timestamp="2022-04-11T11:07:33Z" changeset="119573614" uid="1257620" user="Luca_34c">
+  <node id="64778134" lat="46.5825290" lon="12.5273020" version="6" timestamp="2022-08-03T13:35:51Z" changeset="124437664" uid="1257620" user="Luca_34c">
     <tag k="gfoss_id" v="3355"/>
     <tag k="loc_name" v="San Colò"/>
     <tag k="name" v="San Nicolò di Comelico"/>
+    <tag k="name:it" v="San Nicolò di Comelico"/>
+    <tag k="name:lld" v="San Colò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3201,11 +3204,12 @@
     <tag k="population" v="1108"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778228" lat="46.5579382" lon="12.5491422" version="8" timestamp="2022-04-14T10:29:38Z" changeset="119706408" uid="1950277" user="Mannivu">
+  <node id="64778228" lat="46.5579382" lon="12.5491422" version="9" timestamp="2022-08-03T13:12:53Z" changeset="124436716" uid="1257620" user="Luca_34c">
     <tag k="gfoss_id" v="3359"/>
     <tag k="loc_name" v="Sa Stefi"/>
     <tag k="name" v="Santo Stefano di Cadore"/>
     <tag k="name:fur" v="San Scjefin in Cjadovri"/>
+    <tag k="name:it" v="Santo Stefano di Cadore"/>
     <tag k="name:lld" v="Sa Stefi"/>
     <tag k="name:vec" v="San Sten de Cador"/>
     <tag k="place" v="village"/>
@@ -7659,7 +7663,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72783"/>
   </node>
-  <node id="68581482" lat="40.7019110" lon="14.8337450" version="2" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
+  <node id="68581482" lat="40.7026349" lon="14.8328223" version="3" timestamp="2022-08-03T14:54:43Z" changeset="124440987" uid="2481418" user="Mr_67">
     <tag k="gfoss_id" v="5670"/>
     <tag k="name" v="San Mango Piemonte"/>
     <tag k="place" v="village"/>
