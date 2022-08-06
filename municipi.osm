@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-05T03:35:10Z" areas="2022-07-20T10:48:09Z"/>
+<meta osm_base="2022-08-06T03:13:09Z" areas="2022-07-20T11:06:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -11194,13 +11194,11 @@
     <tag k="wikidata" v="Q669493"/>
     <tag k="wikipedia" v="de:Gries am Brenner"/>
   </node>
-  <node id="272333320" lat="46.4701147" lon="11.7296877" version="7" timestamp="2022-04-14T10:17:39Z" changeset="119705846" uid="1950277" user="Mannivu">
-    <tag k="alt_name" v="Fontanazzo di Sotto"/>
-    <tag k="alt_name:lld" v="Fontanac de Sot"/>
-    <tag k="name" v="Fontanazzo"/>
-    <tag k="name:it" v="Fontanazzo"/>
-    <tag k="name:lld" v="Fontanac"/>
-    <tag k="place" v="village"/>
+  <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
+    <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
+    <tag k="name:it" v="Fontanazzo di sotto"/>
+    <tag k="name:lld" v="Fontanac' de Sot"/>
+    <tag k="place" v="neighbourhood"/>
   </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="11" timestamp="2016-10-25T21:33:26Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3048"/>
