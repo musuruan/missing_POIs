@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-15T03:49:35Z" areas="2022-07-20T11:06:24Z"/>
+<meta osm_base="2022-08-16T03:37:36Z" areas="2022-07-20T10:48:09Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -7917,13 +7917,6 @@
     <tag k="population" v="1280"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582056" lat="40.7869048" lon="15.3088435" version="5" timestamp="2022-08-14T16:02:17Z" changeset="124893933" uid="2481418" user="Mr_67">
-    <tag k="gfoss_id" v="5612"/>
-    <tag k="name" v="Laviano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1591"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68582065" lat="40.6489080" lon="14.6401410" version="2" timestamp="2016-08-30T01:07:11Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5615"/>
     <tag k="name" v="Maiori"/>
@@ -11173,6 +11166,14 @@
     <tag k="short_name" v="Gries"/>
     <tag k="wikidata" v="Q669493"/>
     <tag k="wikipedia" v="de:Gries am Brenner"/>
+  </node>
+  <node id="268044728" lat="44.8696760" lon="6.7212063" version="15" timestamp="2020-02-07T12:57:37Z" changeset="80692038" uid="49047" user="vincent_95">
+    <tag k="addr:postcode" v="05100"/>
+    <tag k="name" v="Cervières"/>
+    <tag k="name:oc" v="Cerviera"/>
+    <tag k="place" v="village"/>
+    <tag k="ref:FR:SIREN" v="210500278"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
   </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
