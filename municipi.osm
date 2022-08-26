@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-08-25T04:02:39Z" areas="2022-07-20T11:06:24Z"/>
+<meta osm_base="2022-08-26T04:09:36Z" areas="2022-07-20T10:48:09Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3883,7 +3883,7 @@
     <tag k="population" v="113"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253724" lat="38.0174321" lon="12.5159920" version="24" timestamp="2022-03-17T21:07:11Z" changeset="118611024" uid="1928626" user="Gianfranco2014">
+  <node id="67253724" lat="38.0174321" lon="12.5159920" version="25" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="capital" v="6"/>
     <tag k="name" v="Trapani"/>
     <tag k="name:an" v="Tràpani"/>
@@ -3905,10 +3905,10 @@
     <tag k="name:sr" v="Трапани"/>
     <tag k="name:uk" v="Трапані"/>
     <tag k="name:zh" v="特拉帕尼"/>
-    <tag k="note" v="popolazione ottenuta sottraendo dal dato istat di gennaio 2021 gli 8669 abitanti di Misiliscemi (L.R. 3/2021)"/>
+    <tag k="note" v="popolazione ottenuta sottraendo dal dato istat di gennaio 2022 gli 8669 abitanti di Misiliscemi (L.R. 3/2021)"/>
     <tag k="place" v="city"/>
-    <tag k="population" v="56580"/>
-    <tag k="source" v="Istat gennaio 2021"/>
+    <tag k="population" v="55817"/>
+    <tag k="source" v="Istat gennaio 2022"/>
     <tag k="wikidata" v="Q13664"/>
   </node>
   <node id="67273444" lat="38.9962900" lon="16.5796040" version="2" timestamp="2016-08-28T18:58:24Z" changeset="41762146" uid="743479" user="fayor">
@@ -11130,6 +11130,17 @@
     <tag k="population" v="700"/>
     <tag k="source:name:oc" v="ieo-bdtopoc"/>
     <tag k="source:population" v="INSEE 2013"/>
+  </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="11" timestamp="2016-10-25T21:33:26Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3048"/>
