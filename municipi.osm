@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.58.5 b0c4acbb">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-10-05T03:26:24Z" areas="2022-07-20T11:06:24Z"/>
+<meta osm_base="2022-10-06T03:24:39Z" areas="2022-10-06T02:47:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -20,17 +20,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="8611"/>
     <tag k="postal_code" v="74400"/>
-  </node>
-  <node id="41645818" lat="45.2769434" lon="6.8169262" version="22" timestamp="2022-07-18T23:46:14Z" changeset="123782957" uid="12121621" user="Futur3r">
-    <tag k="addr:postcode" v="73500"/>
-    <tag k="alt_name" v="Termignon-la-Vanoise"/>
-    <tag k="name" v="Termignon"/>
-    <tag k="name:uk" v="Терміньон"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="402"/>
-    <tag k="ref:FR:SIREN" v="217302900"/>
-    <tag k="wikidata" v="Q569751"/>
-    <tag k="wikipedia" v="fr:Termignon"/>
   </node>
   <node id="61753467" lat="43.9960778" lon="11.3550688" version="5" timestamp="2017-03-11T12:52:26Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="4518"/>
@@ -10935,62 +10924,11 @@
     <tag k="wikipedia" v="it:Sant'Antonio di Gallura"/>
     <tag k="wikipedia:sc" v="Sant'Antoni de Calanzanus"/>
   </node>
-  <node id="240090371" lat="47.0380876" lon="11.4798884" version="7" timestamp="2021-09-02T19:18:01Z" changeset="110636989" uid="13854800" user="Osmonaut">
-    <tag k="ele" v="1165"/>
-    <tag k="name" v="Gries am Brenner"/>
-    <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
-    <tag k="openGeoDB:community_identification_number" v="7031301"/>
-    <tag k="openGeoDB:is_in" v="Gries am Brenner,Innsbruck-Land,Tirol,Österreich,Europe"/>
-    <tag k="openGeoDB:is_in_loc_id" v="77515"/>
-    <tag k="openGeoDB:layer" v="7"/>
-    <tag k="openGeoDB:loc_id" v="29390"/>
-    <tag k="openGeoDB:location" v="locality"/>
-    <tag k="openGeoDB:name" v="Gries am Brenner"/>
-    <tag k="openGeoDB:population" v="1260"/>
-    <tag k="openGeoDB:postal_codes" v="6156"/>
-    <tag k="openGeoDB:sort_name" v="GRIES"/>
-    <tag k="openGeoDB:type" v="Ort"/>
-    <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1260"/>
-    <tag k="short_name" v="Gries"/>
-    <tag k="wikidata" v="Q669493"/>
-    <tag k="wikipedia" v="de:Gries am Brenner"/>
-  </node>
-  <node id="268044728" lat="44.8696760" lon="6.7212063" version="15" timestamp="2020-02-07T12:57:37Z" changeset="80692038" uid="49047" user="vincent_95">
-    <tag k="addr:postcode" v="05100"/>
-    <tag k="name" v="Cervières"/>
-    <tag k="name:oc" v="Cerviera"/>
-    <tag k="place" v="village"/>
-    <tag k="ref:FR:SIREN" v="210500278"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-  </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
     <tag k="name:it" v="Fontanazzo di sotto"/>
     <tag k="name:lld" v="Fontanac' de Sot"/>
     <tag k="place" v="neighbourhood"/>
-  </node>
-  <node id="275682756" lat="44.0618551" lon="7.6158933" version="13" timestamp="2020-04-28T11:21:42Z" changeset="84262430" uid="4224320" user="oc-OpenStreetMap">
-    <tag k="addr:postcode" v="06430"/>
-    <tag k="name" v="La Brigue"/>
-    <tag k="name:it" v="Briga Marittima"/>
-    <tag k="name:oc" v="La Briga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="700"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2013"/>
-  </node>
-  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
-    <tag k="ele" v="452"/>
-    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
-    <tag k="name" v="Morbio Superiore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="687"/>
-    <tag k="postal_code" v="6835"/>
-    <tag k="website" v="http://www.comunebreggia.ch"/>
-    <tag k="wikidata" v="Q668726"/>
-    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="11" timestamp="2016-10-25T21:33:26Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3048"/>
@@ -10998,14 +10936,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="285073587" lat="44.7940562" lon="6.9279072" version="21" timestamp="2020-02-07T12:57:37Z" changeset="80692038" uid="49047" user="vincent_95">
-    <tag k="name" v="Abriès"/>
-    <tag k="name:oc" v="Abriers"/>
-    <tag k="place" v="village"/>
-    <tag k="postal_code" v="05460"/>
-    <tag k="ref:FR:SIREN" v="210500013"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
   </node>
   <node id="291647121" lat="43.8402291" lon="12.3591843" version="4" timestamp="2016-09-11T00:19:08Z" changeset="42069137" uid="743479" user="fayor">
     <tag k="name" v="Villagrande"/>
@@ -11068,15 +10998,6 @@
     <tag k="is_in" v="Aosta"/>
     <tag k="name" v="Avise"/>
     <tag k="place" v="village"/>
-  </node>
-  <node id="463178837" lat="45.0189597" lon="6.6040901" version="12" timestamp="2020-02-07T12:57:37Z" changeset="80692038" uid="49047" user="vincent_95">
-    <tag k="addr:postcode" v="05100"/>
-    <tag k="name" v="Névache"/>
-    <tag k="name:oc" v="Nevacha"/>
-    <tag k="place" v="village"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="wikidata" v="Q588334"/>
-    <tag k="wikipedia" v="fr:Névache"/>
   </node>
   <node id="480638714" lat="45.1886190" lon="10.7919897" version="2" timestamp="2014-01-21T21:49:49Z" changeset="20131000" uid="69717" user="kaitu">
     <tag k="is_in" v="provincia di Mantova"/>
