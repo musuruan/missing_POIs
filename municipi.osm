@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-11-21T03:10:01Z" areas="2022-11-21T03:00:54Z"/>
+<meta osm_base="2022-11-22T03:04:53Z" areas="2022-11-22T02:13:09Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -372,12 +372,13 @@
     <tag k="population" v="4592"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507415" lat="45.8911690" lon="10.0099362" version="3" timestamp="2021-01-14T21:18:59Z" changeset="97516511" uid="616481" user="gigi2037">
+  <node id="62507415" lat="45.8911690" lon="10.0099362" version="4" timestamp="2022-11-21T13:55:39Z" changeset="129198473" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2071"/>
     <tag k="name" v="Onore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="907"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028356"/>
   </node>
   <node id="62507425" lat="46.0025950" lon="10.3519630" version="2" timestamp="2020-04-03T16:41:28Z" changeset="83045910" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="2220"/>
@@ -1760,14 +1761,6 @@
     <tag k="population" v="5820"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622366" lat="44.9941540" lon="8.5659420" version="8" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="1011"/>
-    <tag k="name" v="San Salvatore Monferrato"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4623"/>
-    <tag k="postal_code" v="15046"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63622370" lat="44.7858161" lon="9.0646537" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1012"/>
     <tag k="name" v="San Sebastiano Curone"/>
@@ -2240,16 +2233,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030468"/>
   </node>
-  <node id="63626324" lat="44.5015330" lon="7.5878300" version="2" timestamp="2021-08-28T06:04:16Z" changeset="110367151" uid="9006927" user="francians">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="550"/>
-    <tag k="is_in" v="Cuneo, Piemonte, Italy"/>
-    <tag k="name" v="Centallo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6209"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024521"/>
-  </node>
   <node id="63626345" lat="44.3872764" lon="8.0330475" version="4" timestamp="2021-08-28T06:04:17Z" changeset="110367151" uid="9006927" user="francians">
     <tag k="gfoss_id" v="555"/>
     <tag k="name" v="Ceva"/>
@@ -2622,13 +2605,6 @@
     <tag k="name" v="San Raffaele Cimena"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2815"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63628882" lat="44.9577440" lon="7.6673240" version="2" timestamp="2011-11-03T15:27:29Z" changeset="9731325" uid="113023" user="glaucos">
-    <tag k="gfoss_id" v="127"/>
-    <tag k="name" v="La Loggia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6485"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63628923" lat="45.4664675" lon="7.5709170" version="5" timestamp="2021-06-25T09:59:59Z" changeset="106952801" uid="2976645" user="Jrachi">
@@ -3678,17 +3654,6 @@
     <tag k="population" v="866"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502708" lat="45.8278081" lon="13.5018454" version="14" timestamp="2020-07-16T10:18:16Z" changeset="88080754" uid="361003" user="Cascafico">
-    <tag k="gfoss_id" v="3824"/>
-    <tag k="name" v="Ronchi dei Legionari"/>
-    <tag k="name:fur" v="Roncjis di Monfalcon"/>
-    <tag k="name:it" v="Ronchi dei Legionari"/>
-    <tag k="name:sl" v="Ronke"/>
-    <tag k="old_name:de" v="Ronkis"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11963"/>
-    <tag k="wikidata" v="Q30029564"/>
-  </node>
   <node id="66502961" lat="45.9035103" lon="12.5259887" version="8" timestamp="2019-05-16T23:53:20Z" changeset="70338353" uid="97922" user="damjang">
     <tag k="gfoss_id" v="7513"/>
     <tag k="name" v="Brugnera"/>
@@ -3706,14 +3671,6 @@
     <tag k="name:sl" v="Naborjet"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1036"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="66503300" lat="45.8870150" lon="12.9877260" version="4" timestamp="2019-05-16T23:54:02Z" changeset="70338353" uid="97922" user="damjang">
-    <tag k="gfoss_id" v="3801"/>
-    <tag k="name" v="Varmo"/>
-    <tag k="name:fur" v="Vildivar"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2892"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66503541" lat="46.4140956" lon="12.9207476" version="7" timestamp="2019-05-16T23:54:32Z" changeset="70338353" uid="97922" user="damjang">
@@ -3782,15 +3739,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="503"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="66586902" lat="43.8383252" lon="7.8826679" version="4" timestamp="2022-06-08T17:37:39Z" changeset="122128534" uid="15596130" user="NJH_osm">
-    <tag k="gfoss_id" v="1171"/>
-    <tag k="name" v="Riva Ligure"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2747"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q269704"/>
-    <tag k="wikipedia" v="it:Riva Ligure"/>
   </node>
   <node id="66586956" lat="44.2238470" lon="9.7215181" version="4" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1330"/>
@@ -10542,14 +10490,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3714"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72963535" lat="41.9962545" lon="12.6236212" version="5" timestamp="2016-11-08T16:32:19Z" changeset="43492081" uid="3877019" user="piligab">
-    <tag k="gfoss_id" v="5032"/>
-    <tag k="name" v="Fonte Nuova"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="32562"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q242637"/>
   </node>
   <node id="72963562" lat="42.2197263" lon="12.4259417" version="4" timestamp="2018-12-06T11:26:50Z" changeset="65235528" uid="3151555" user="Dino Michelini">
     <tag k="ele" v="220"/>
