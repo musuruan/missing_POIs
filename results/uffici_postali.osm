@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-03T18:59:47Z" areas="2022-12-03T18:41:07Z"/>
+<meta osm_base="2022-12-04T02:38:29Z" areas="2022-12-04T02:16:07Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -7151,14 +7151,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18444565"/>
   </node>
-  <node id="63629986" lat="45.4462590" lon="8.0057220" version="3" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="196"/>
-    <tag k="name" v="Piverone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1262"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q10193"/>
-  </node>
   <node id="63630020" lat="45.3567879" lon="7.6385012" version="3" timestamp="2019-09-17T16:33:26Z" changeset="74590647" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="187"/>
     <tag k="name" v="Pertusio"/>
@@ -7462,15 +7454,6 @@
     <tag k="population" v="125"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63631080" lat="45.3255590" lon="8.2642300" version="5" timestamp="2022-04-10T09:32:20Z" changeset="119528411" uid="11220113" user="ivanbranco">
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="384"/>
-    <tag k="name" v="Salasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="251"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30029700"/>
-  </node>
   <node id="63631142" lat="45.8829660" lon="8.1623473" version="5" timestamp="2021-12-23T15:25:26Z" changeset="115303075" uid="2976645" user="Jrachi">
     <tag k="ele" v="1002"/>
     <tag k="gfoss_id" v="338"/>
@@ -7538,15 +7521,6 @@
     <tag k="name" v="Germagno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="204"/>
-  </node>
-  <node id="63631924" lat="45.5574660" lon="8.3841280" version="4" timestamp="2021-02-06T20:47:13Z" changeset="98828834" uid="90379" user="Andrea Musuruane">
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="355"/>
-    <tag k="name" v="Lenta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="931"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q25131"/>
   </node>
   <node id="63632106" lat="45.8325854" lon="8.1946016" version="6" timestamp="2022-01-19T16:50:07Z" changeset="116350519" uid="11220113" user="ivanbranco">
     <tag k="ele" v="506"/>
@@ -22840,10 +22814,6 @@
     <tag k="name" v="Bedero Valtravaglia"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="2648773373" lat="45.6537944" lon="7.6843547" version="2" timestamp="2016-11-26T14:58:59Z" changeset="43965140" uid="439413" user="nuvolabianca">
-    <tag k="amenity" v="townhall"/>
-    <tag k="name" v="Municipio di Issogne"/>
-  </node>
   <node id="2649514075" lat="45.1374750" lon="8.7292673" version="2" timestamp="2014-02-02T10:54:38Z" changeset="20331432" uid="579545" user="Aury88">
     <tag k="name" v="Semiana"/>
     <tag k="place" v="village"/>
@@ -23059,6 +23029,10 @@
     <tag k="name:lld" v="Brésem"/>
     <tag k="place" v="village"/>
     <tag k="population" v="252"/>
+  </node>
+  <node id="4518891880" lat="45.6543781" lon="7.6846027" version="1" timestamp="2016-11-24T12:34:09Z" changeset="43919762" uid="439413" user="nuvolabianca">
+    <tag k="name" v="Issogne"/>
+    <tag k="place" v="village"/>
   </node>
   <node id="4595391507" lat="45.4319046" lon="9.7142090" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2583"/>
