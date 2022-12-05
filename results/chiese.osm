@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-04T02:39:34Z" areas="2022-12-04T01:44:38Z"/>
+<meta osm_base="2022-12-05T02:38:50Z" areas="2022-12-05T01:54:22Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1341,13 +1341,6 @@
     <tag k="population" v="395"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630481" lat="45.2675495" lon="7.7666000" version="3" timestamp="2021-02-14T17:51:06Z" changeset="99260812" uid="6645382" user="canfe">
-    <tag k="gfoss_id" v="33"/>
-    <tag k="name" v="Bosconero"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2927"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63630509" lat="44.8409410" lon="7.6359250" version="2" timestamp="2020-05-02T21:30:57Z" changeset="84537992" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="136"/>
     <tag k="name" v="Lombriasco"/>
@@ -2174,33 +2167,6 @@
     <tag k="name:scn" v="Paisi di Manchi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1632"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67254418" lat="37.5675898" lon="15.0051306" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="name" v="Camporotondo Etneo"/>
-    <tag k="name:scn" v="Campurutunnu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5172"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67254449" lat="37.5688530" lon="15.0228860" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="name" v="San Pietro Clarenza"/>
-    <tag k="name:scn" v="San Petru Clarenza"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8227"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67254475" lat="37.2795627" lon="14.4260202" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="name" v="San Michele di Ganzaria"/>
-    <tag k="name:scn" v="San Micheli di Ganzarìa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2875"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67254642" lat="37.4725561" lon="14.5325204" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="name" v="Raddusa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2806"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="67254696" lat="37.3242210" lon="14.4463939" version="17" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">

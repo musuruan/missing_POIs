@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-04T02:38:29Z" areas="2022-12-04T02:16:07Z"/>
+<meta osm_base="2022-12-05T02:37:52Z" areas="2022-12-05T01:54:22Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -4994,13 +4994,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17244"/>
   </node>
-  <node id="63622586" lat="45.1830051" lon="8.4026520" version="3" timestamp="2020-08-28T12:32:42Z" changeset="90082008" uid="169211" user="Simone Saviolo">
-    <tag k="gfoss_id" v="868"/>
-    <tag k="name" v="Balzola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1444"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63622591" lat="45.0016337" lon="8.7346236" version="5" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
     <tag k="ele" v="96"/>
     <tag k="gfoss_id" v="870"/>
@@ -6996,13 +6989,6 @@
     <tag k="population" v="598"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629645" lat="45.5128600" lon="7.8580170" version="2" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="30"/>
-    <tag k="name" v="Borgofranco d'Ivrea"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3631"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63629666" lat="44.9714155" lon="7.7786983" version="3" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="48"/>
     <tag k="name" v="Cambiano"/>
@@ -7293,21 +7279,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="920"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63630381" lat="45.4375586" lon="7.8517154" version="3" timestamp="2021-04-10T13:46:58Z" changeset="102699501" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="181"/>
-    <tag k="name" v="Pavone Canavese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3776"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63630397" lat="45.1044124" lon="7.7619962" version="6" timestamp="2019-01-09T20:34:20Z" changeset="66174952" uid="4347030" user="vbertola">
-    <tag k="gfoss_id" v="249"/>
-    <tag k="name" v="San Mauro Torinese"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="17817"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q10276"/>
   </node>
   <node id="63630417" lat="45.1220430" lon="7.0647080" version="4" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="149"/>
@@ -15004,13 +14975,6 @@
     <tag k="name" v="Portico di Caserta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6733"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580263" lat="41.2627170" lon="14.1519230" version="2" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5224"/>
-    <tag k="name" v="Riardo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2509"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68580271" lat="41.2717278" lon="14.1880047" version="3" timestamp="2016-09-02T23:58:43Z" changeset="41879755" uid="743479" user="fayor">
@@ -23165,13 +23129,14 @@
     <tag k="population" v="4592"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="8524635305" lat="44.9586175" lon="7.0565619" version="4" timestamp="2022-07-25T08:03:53Z" changeset="124038470" uid="11220113" user="ivanbranco">
+    <tag k="name" v="Roberso / loû Roubers"/>
+    <tag k="name:it" v="Roberso"/>
+    <tag k="place" v="hamlet"/>
+  </node>
   <node id="9070591861" lat="41.8451813" lon="13.5359209" version="1" timestamp="2021-09-07T13:33:26Z" changeset="110861595" uid="4930752" user="datamove">
     <tag k="name" v="San Vincenzo Valle Roveto"/>
     <tag k="place" v="village"/>
-  </node>
-  <node id="9909033628" lat="44.9585210" lon="7.0569815" version="1" timestamp="2022-07-25T08:03:53Z" changeset="124038470" uid="11220113" user="ivanbranco">
-    <tag k="amenity" v="townhall"/>
-    <tag k="name" v="Comune di Massello / Masêl"/>
   </node>
 
 </osm>
