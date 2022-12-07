@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-06T02:43:49Z" areas="2022-12-06T02:05:57Z"/>
+<meta osm_base="2022-12-07T02:48:49Z" areas="2022-12-07T02:47:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1720,14 +1720,6 @@
     <tag k="ele" v="280"/>
     <tag k="name" v="Osteno"/>
     <tag k="place" v="village"/>
-  </node>
-  <node id="62509302" lat="46.0872851" lon="9.2714803" version="2" timestamp="2018-01-18T00:37:42Z" changeset="55536591" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="1553"/>
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
-    <tag k="name" v="Cremia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="761"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62509356" lat="45.7155801" lon="8.9830741" version="6" timestamp="2020-04-23T14:51:16Z" changeset="84008844" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1654"/>
@@ -11296,12 +11288,14 @@
     <tag k="population" v="1760"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254085" lat="37.5778450" lon="13.7512590" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254085" lat="37.5778450" lon="13.7512590" version="10" timestamp="2022-12-06T14:15:12Z" changeset="129785346" uid="8215303" user="ross-map">
     <tag k="name" v="Mussomeli"/>
     <tag k="name:scn" v="Mussumeli"/>
     <tag k="place" v="town"/>
     <tag k="population" v="9969"/>
     <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="wikidata" v="Q477600"/>
+    <tag k="wikipedia" v="it:Mussomeli"/>
   </node>
   <node id="67254100" lat="37.5104792" lon="13.7110436" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Campofranco"/>
