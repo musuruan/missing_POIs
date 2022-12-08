@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-07T02:43:51Z" areas="2022-12-07T01:47:32Z"/>
+<meta osm_base="2022-12-08T02:38:54Z" areas="2022-12-08T02:33:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1751,19 +1751,20 @@
     <tag k="wikidata" v="Q17878"/>
     <tag k="wikipedia" v="it:Viale (Italia)"/>
   </node>
-  <node id="63625498" lat="44.3760350" lon="8.0933430" version="2" timestamp="2021-08-28T06:03:52Z" changeset="110367151" uid="9006927" user="francians">
-    <tag k="created_by" v="JOSM"/>
+  <node id="63625498" lat="44.3760350" lon="8.0933430" version="3" timestamp="2022-12-07T14:11:40Z" changeset="129823972" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="664"/>
     <tag k="is_in" v="Cuneo, Piemonte, Italy"/>
     <tag k="name" v="Priero"/>
+    <tag k="name:pms" v="Prié"/>
     <tag k="place" v="village"/>
     <tag k="population" v="441"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029188"/>
   </node>
-  <node id="63625508" lat="44.6796410" lon="7.9754350" version="3" timestamp="2021-08-28T06:03:53Z" changeset="110367151" uid="9006927" user="francians">
+  <node id="63625508" lat="44.6796410" lon="7.9754350" version="4" timestamp="2022-12-07T14:11:40Z" changeset="129823972" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="683"/>
     <tag k="name" v="Roddi"/>
+    <tag k="name:pms" v="Ròd"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1323"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -1967,9 +1968,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022497"/>
   </node>
-  <node id="63626636" lat="44.7871846" lon="8.0616451" version="6" timestamp="2021-08-28T06:04:27Z" changeset="110367151" uid="9006927" user="francians">
+  <node id="63626636" lat="44.7871846" lon="8.0616451" version="7" timestamp="2022-12-07T14:11:40Z" changeset="129823972" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="665"/>
     <tag k="name" v="Priocca"/>
+    <tag k="name:pms" v="Prioca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1956"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -10190,12 +10192,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="186"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="4210527718" lat="40.8771936" lon="14.1401591" version="3" timestamp="2016-10-27T16:57:06Z" changeset="43222834" uid="3877019" user="piligab">
-    <tag k="name" v="Quarto"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="40930"/>
-    <tag k="wikidata" v="Q72443"/>
   </node>
   <node id="4369955448" lat="41.0241649" lon="16.7095806" version="2" timestamp="2016-09-09T00:49:37Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="name" v="Binetto"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-07T02:47:54Z" areas="2022-12-07T01:20:34Z"/>
+<meta osm_base="2022-12-08T02:45:05Z" areas="2022-12-08T02:33:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3194,17 +3194,19 @@
     <tag k="population" v="1073"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63625618" lat="44.6158717" lon="7.4870199" version="4" timestamp="2021-08-28T06:03:58Z" changeset="110367151" uid="9006927" user="francians">
+  <node id="63625618" lat="44.6158717" lon="7.4870199" version="5" timestamp="2022-12-07T14:11:40Z" changeset="129823972" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="605"/>
     <tag k="name" v="Manta"/>
+    <tag k="name:pms" v="La Manta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3363"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027191"/>
   </node>
-  <node id="63625626" lat="44.6864430" lon="8.1502390" version="3" timestamp="2021-08-28T06:03:58Z" changeset="110367151" uid="9006927" user="francians">
+  <node id="63625626" lat="44.6864430" lon="8.1502390" version="4" timestamp="2022-12-07T14:11:40Z" changeset="129823972" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="604"/>
     <tag k="name" v="Mango"/>
+    <tag k="name:pms" v="Ël Mango"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1334"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3378,9 +3380,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029205"/>
   </node>
-  <node id="63626636" lat="44.7871846" lon="8.0616451" version="6" timestamp="2021-08-28T06:04:27Z" changeset="110367151" uid="9006927" user="francians">
+  <node id="63626636" lat="44.7871846" lon="8.0616451" version="7" timestamp="2022-12-07T14:11:40Z" changeset="129823972" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="665"/>
     <tag k="name" v="Priocca"/>
+    <tag k="name:pms" v="Prioca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1956"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3481,11 +3484,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027671"/>
   </node>
-  <node id="63627088" lat="44.4538581" lon="7.9812464" version="5" timestamp="2021-09-13T16:02:37Z" changeset="111153543" uid="11220113" user="ivanbranco">
+  <node id="63627088" lat="44.4538581" lon="7.9812464" version="6" timestamp="2022-12-07T14:11:40Z" changeset="129823972" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="609"/>
     <tag k="name" v="Marsaglia"/>
     <tag k="name:fr" v="La Marsaille"/>
     <tag k="name:it" v="Marsaglia"/>
+    <tag k="name:pms" v="Marsaja"/>
     <tag k="place" v="village"/>
     <tag k="population" v="316"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -5605,15 +5609,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1760"/>
     <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67254085" lat="37.5778450" lon="13.7512590" version="10" timestamp="2022-12-06T14:15:12Z" changeset="129785346" uid="8215303" user="ross-map">
-    <tag k="name" v="Mussomeli"/>
-    <tag k="name:scn" v="Mussumeli"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="9969"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q477600"/>
-    <tag k="wikipedia" v="it:Mussomeli"/>
   </node>
   <node id="67254109" lat="37.6541424" lon="13.8434233" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Villalba"/>
