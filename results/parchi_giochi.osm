@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-13T02:52:18Z" areas="2022-12-13T01:55:22Z"/>
+<meta osm_base="2022-12-14T02:49:07Z" areas="2022-12-14T02:05:47Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -11293,12 +11293,14 @@
     <tag k="population" v="1760"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254100" lat="37.5104792" lon="13.7110436" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254100" lat="37.5104792" lon="13.7110436" version="12" timestamp="2022-12-13T12:35:10Z" changeset="130035103" uid="8215303" user="ross-map">
     <tag k="name" v="Campofranco"/>
     <tag k="name:scn" v="Campufrancu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2708"/>
     <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="wikidata" v="Q477423"/>
+    <tag k="wikipedia" v="it:Campofranco"/>
   </node>
   <node id="67254138" lat="37.5974460" lon="13.9157630" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Marianopoli"/>
@@ -28393,7 +28395,7 @@
     <tag k="wikidata" v="Q389292"/>
     <tag k="wikipedia" v="it:Tramatza"/>
   </node>
-  <node id="3094257086" lat="40.2478913" lon="15.8903971" version="2" timestamp="2016-08-24T21:51:12Z" changeset="41674017" uid="743479" user="fayor">
+  <node id="3094257086" lat="40.2471338" lon="15.8887046" version="3" timestamp="2022-12-13T03:58:50Z" changeset="130019261" uid="923271" user="aldoct">
     <tag k="gfoss_id" v="6435"/>
     <tag k="name" v="Sarconi"/>
     <tag k="place" v="village"/>
