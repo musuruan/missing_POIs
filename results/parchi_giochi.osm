@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-15T02:49:51Z" areas="2022-12-15T01:02:07Z"/>
+<meta osm_base="2022-12-16T02:34:23Z" areas="2022-12-16T02:33:22Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -7602,12 +7602,15 @@
     <tag k="population" v="1635"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629729" lat="45.0520564" lon="7.4304032" version="3" timestamp="2014-03-10T08:48:55Z" changeset="21020346" uid="1976047" user="cartomatto">
+  <node id="63629729" lat="45.0520564" lon="7.4304032" version="4" timestamp="2022-12-15T19:04:25Z" changeset="130127690" uid="675302" user="Martj9">
     <tag k="gfoss_id" v="211"/>
     <tag k="name" v="Reano"/>
+    <tag k="name:pms" v="Rean"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1437"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q10215"/>
+    <tag k="wikipedia" v="it:Reano"/>
   </node>
   <node id="63629734" lat="45.4326987" lon="7.5025536" version="5" timestamp="2019-12-29T12:43:43Z" changeset="78977714" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="212"/>
@@ -7622,16 +7625,20 @@
     <tag k="population" v="532"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629748" lat="45.1379458" lon="7.3848302" version="6" timestamp="2019-07-01T18:50:29Z" changeset="71796093" uid="1778799" user="SomeoneElse_Revert">
+  <node id="63629748" lat="45.1379458" lon="7.3848302" version="7" timestamp="2022-12-15T16:35:44Z" changeset="130122811" uid="675302" user="Martj9">
     <tag k="gfoss_id" v="229"/>
     <tag k="name" v="Rubiana"/>
+    <tag k="name:fr" v="Rubiane"/>
+    <tag k="name:frp" v="Rubiana"/>
+    <tag k="name:pms" v="Rubian-a"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2048"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629765" lat="45.0261440" lon="7.4481180" version="2" timestamp="2011-11-03T15:27:33Z" changeset="9731325" uid="113023" user="glaucos">
+  <node id="63629765" lat="45.0261440" lon="7.4481180" version="3" timestamp="2022-12-15T18:56:50Z" changeset="130127471" uid="675302" user="Martj9">
     <tag k="gfoss_id" v="241"/>
     <tag k="name" v="Sangano"/>
+    <tag k="name:pms" v="Sangan"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3705"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7955,9 +7962,10 @@
     <tag k="population" v="1437"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630739" lat="45.0390440" lon="7.4218170" version="2" timestamp="2011-11-03T15:27:33Z" changeset="9731325" uid="113023" user="glaucos">
+  <node id="63630739" lat="45.0390440" lon="7.4218170" version="3" timestamp="2022-12-15T18:56:50Z" changeset="130127471" uid="675302" user="Martj9">
     <tag k="gfoss_id" v="276"/>
     <tag k="name" v="Trana"/>
+    <tag k="name:pms" v="Tran-a"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3343"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8130,9 +8138,11 @@
     <tag k="population" v="522"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63631304" lat="45.1146460" lon="7.3835150" version="2" timestamp="2011-11-03T15:27:34Z" changeset="9731325" uid="113023" user="glaucos">
+  <node id="63631304" lat="45.1146460" lon="7.3835150" version="3" timestamp="2022-12-15T16:35:44Z" changeset="130122811" uid="675302" user="Martj9">
     <tag k="gfoss_id" v="303"/>
     <tag k="name" v="Villar Dora"/>
+    <tag k="name:frp" v="Vilardòra"/>
+    <tag k="name:pms" v="O Vilar"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2718"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -19739,18 +19749,6 @@
     <tag k="website" v="https://www.comune.cavezzo.mo.it/"/>
     <tag k="wikidata" v="Q100046"/>
     <tag k="wikipedia" v="it:Cavezzo"/>
-  </node>
-  <node id="69300495" lat="44.1799513" lon="10.6477331" version="7" timestamp="2017-03-06T17:13:15Z" changeset="46629243" uid="890796" user="massic80">
-    <tag k="ele" v="953"/>
-    <tag k="gfoss_id" v="3993"/>
-    <tag k="name" v="Fiumalbo"/>
-    <tag k="name:eml" v="Fiumèlb"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1280"/>
-    <tag k="postal_code" v="41022"/>
-    <tag k="ref:ISTAT" v="036014"/>
-    <tag k="ref:catasto" v="D617"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69300510" lat="44.2459550" lon="10.7176020" version="8" timestamp="2017-09-10T08:19:15Z" changeset="51900579" uid="339581" user="nyuriks">
     <tag k="ele" v="864"/>

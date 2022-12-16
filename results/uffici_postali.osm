@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-15T02:43:48Z" areas="2022-12-15T01:02:07Z"/>
+<meta osm_base="2022-12-16T02:30:23Z" areas="2022-12-16T01:17:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -6766,9 +6766,10 @@
     <tag k="population" v="1274"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628718" lat="45.1168763" lon="7.3945500" version="7" timestamp="2019-08-04T15:59:04Z" changeset="72992995" uid="2976645" user="Jrachi">
+  <node id="63628718" lat="45.1168763" lon="7.3945500" version="8" timestamp="2022-12-15T16:35:44Z" changeset="130122811" uid="675302" user="Martj9">
     <tag k="gfoss_id" v="6"/>
     <tag k="name" v="Almese"/>
+    <tag k="name:pms" v="Almèis"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5658"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -6958,10 +6959,11 @@
     <tag k="population" v="5480"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629534" lat="45.1195420" lon="6.9853060" version="3" timestamp="2021-10-13T12:19:06Z" changeset="112460107" uid="2976645" user="Jrachi">
+  <node id="63629534" lat="45.1195420" lon="6.9853060" version="4" timestamp="2022-12-15T16:47:09Z" changeset="130123295" uid="675302" user="Martj9">
     <tag k="gfoss_id" v="80"/>
     <tag k="name" v="Chiomonte"/>
     <tag k="name:fr" v="Chaumont"/>
+    <tag k="name:oc" v="Cháumount"/>
     <tag k="name:pms" v="Cimon"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1011"/>
@@ -7234,11 +7236,12 @@
     <tag k="population" v="1398"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630305" lat="44.9404829" lon="6.8589750" version="5" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
+  <node id="63630305" lat="44.9404829" lon="6.8589750" version="6" timestamp="2022-12-15T16:47:09Z" changeset="130123295" uid="675302" user="Martj9">
     <tag k="gfoss_id" v="258"/>
     <tag k="name" v="Sauze di Cesana"/>
     <tag k="name:fr" v="Sauze de Césane"/>
     <tag k="name:oc" v="Lo Grand Sauze"/>
+    <tag k="name:pms" v="Sàuze 'd Cesan-a"/>
     <tag k="place" v="village"/>
     <tag k="population" v="186"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7452,9 +7455,11 @@
     <tag k="population" v="690"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63631374" lat="45.0761440" lon="7.3407150" version="2" timestamp="2011-11-03T15:27:34Z" changeset="9731325" uid="113023" user="glaucos">
+  <node id="63631374" lat="45.0762363" lon="7.3408936" version="4" timestamp="2022-12-15T19:18:17Z" changeset="130128078" uid="177389" user="Garmin-User">
     <tag k="gfoss_id" v="285"/>
     <tag k="name" v="Valgioie"/>
+    <tag k="name:frp" v="Voudjiň"/>
+    <tag k="name:pms" v="Valgiòje"/>
     <tag k="place" v="village"/>
     <tag k="population" v="728"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -16111,18 +16116,6 @@
     <tag k="website" v="https://www.comune.cavezzo.mo.it/"/>
     <tag k="wikidata" v="Q100046"/>
     <tag k="wikipedia" v="it:Cavezzo"/>
-  </node>
-  <node id="69300495" lat="44.1799513" lon="10.6477331" version="7" timestamp="2017-03-06T17:13:15Z" changeset="46629243" uid="890796" user="massic80">
-    <tag k="ele" v="953"/>
-    <tag k="gfoss_id" v="3993"/>
-    <tag k="name" v="Fiumalbo"/>
-    <tag k="name:eml" v="Fiumèlb"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1280"/>
-    <tag k="postal_code" v="41022"/>
-    <tag k="ref:ISTAT" v="036014"/>
-    <tag k="ref:catasto" v="D617"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69300506" lat="44.2955550" lon="10.5701980" version="9" timestamp="2019-04-15T21:19:30Z" changeset="69250019" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="1131"/>
