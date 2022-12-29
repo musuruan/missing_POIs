@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-28T02:35:08Z" areas="2022-12-28T02:30:01Z"/>
+<meta osm_base="2022-12-29T02:37:06Z" areas="2022-12-29T01:39:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -2501,12 +2501,13 @@
     <tag k="population" v="636"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512055" lat="45.4288750" lon="9.7016590" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62512055" lat="45.4288750" lon="9.7016590" version="3" timestamp="2022-12-28T10:30:25Z" changeset="130593536" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2660"/>
     <tag k="name" v="Sergnano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3067"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030602"/>
   </node>
   <node id="62512068" lat="45.0815720" lon="10.3562800" version="3" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="2662"/>
@@ -5183,9 +5184,8 @@
     <tag k="population" v="1361"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63623022" lat="44.6890920" lon="8.3032382" version="2" timestamp="2017-09-17T18:09:20Z" changeset="52123676" uid="417672" user="Guidus">
+  <node id="63623022" lat="44.6890920" lon="8.3032382" version="3" timestamp="2022-12-28T16:35:40Z" changeset="130610017" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="760"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Cassinasco"/>
     <tag k="name:pms" v="Cassinasch"/>
     <tag k="place" v="village"/>
@@ -5616,9 +5616,8 @@
     <tag k="wikidata" v="Q17820"/>
     <tag k="wikipedia" v="it:Moasca"/>
   </node>
-  <node id="63623625" lat="44.6690430" lon="8.2584420" version="2" timestamp="2017-09-17T18:09:20Z" changeset="52123676" uid="417672" user="Guidus">
+  <node id="63623625" lat="44.6690430" lon="8.2584420" version="3" timestamp="2022-12-28T16:35:40Z" changeset="130610017" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="798"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Loazzolo"/>
     <tag k="name:pms" v="Loasseu"/>
     <tag k="place" v="village"/>
@@ -5751,9 +5750,8 @@
     <tag k="wikidata" v="Q17867"/>
     <tag k="wikipedia" v="it:Settime"/>
   </node>
-  <node id="63624553" lat="44.6695002" lon="8.3372650" version="2" timestamp="2017-09-17T18:09:20Z" changeset="52123676" uid="417672" user="Guidus">
+  <node id="63624553" lat="44.6695002" lon="8.3372650" version="3" timestamp="2022-12-28T15:47:23Z" changeset="130608280" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="841"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Sessame"/>
     <tag k="name:pms" v="Siam"/>
     <tag k="place" v="village"/>
@@ -5892,9 +5890,8 @@
     <tag k="wikidata" v="Q17849"/>
     <tag k="wikipedia" v="it:Revigliasco d'Asti"/>
   </node>
-  <node id="63624912" lat="44.7067227" lon="8.3460034" version="2" timestamp="2017-09-15T21:14:32Z" changeset="52081671" uid="417672" user="Guidus">
+  <node id="63624912" lat="44.7067227" lon="8.3460034" version="3" timestamp="2022-12-28T15:47:23Z" changeset="130608280" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="832"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Rocchetta Palafea"/>
     <tag k="name:pms" v="Rochëtta Palafèja"/>
     <tag k="place" v="village"/>
