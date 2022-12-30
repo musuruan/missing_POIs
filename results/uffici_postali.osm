@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-29T02:33:07Z" areas="2022-12-29T01:39:24Z"/>
+<meta osm_base="2022-12-30T02:33:05Z" areas="2022-12-30T01:54:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -840,13 +840,14 @@
     <tag k="population" v="4166"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506785" lat="45.6250970" lon="9.7616399" version="2" timestamp="2015-05-14T07:26:25Z" changeset="31127874" uid="1726763" user="stefano664">
+  <node id="62506785" lat="45.6250970" lon="9.7616399" version="3" timestamp="2022-12-29T12:40:24Z" changeset="130643828" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1990"/>
     <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
     <tag k="name" v="Cavernago"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1667"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024457"/>
   </node>
   <node id="62506811" lat="45.5656770" lon="9.6401550" version="4" timestamp="2022-06-28T12:42:15Z" changeset="122956045" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2052"/>
@@ -3113,15 +3114,6 @@
     <tag k="population" v="10948"/>
     <tag k="postal_code" v="20065"/>
     <tag k="source" v="ISTAT (30/11/2015)"/>
-  </node>
-  <node id="62513872" lat="45.3729705" lon="9.3606419" version="4" timestamp="2022-03-18T10:06:16Z" changeset="118625993" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="1813"/>
-    <tag k="name" v="Dresano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2342"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q42417"/>
-    <tag k="wikipedia" v="it:Dresano"/>
   </node>
   <node id="62513897" lat="45.5138305" lon="8.8519543" version="8" timestamp="2022-04-02T21:13:11Z" changeset="119247527" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Inveruno"/>
@@ -13356,7 +13348,7 @@
     <tag k="wikidata" v="Q10862"/>
     <tag k="wikipedia" v="it:Monteleone d'Orvieto"/>
   </node>
-  <node id="68507883" lat="42.8639896" lon="12.1067006" version="12" timestamp="2022-06-08T17:34:25Z" changeset="122128428" uid="1211510" user="arcanma">
+  <node id="68507883" lat="42.8639534" lon="12.1066341" version="13" timestamp="2022-12-29T10:09:16Z" changeset="130636823" uid="9463303" user="Alberto23">
     <tag k="ele" v="441"/>
     <tag k="gfoss_id" v="50735"/>
     <tag k="istat_id" v="5502510002"/>
@@ -20973,21 +20965,6 @@
     <tag k="website" v="http://www.comune.assolo.or.it/Default.aspx"/>
     <tag k="wikidata" v="Q382585"/>
     <tag k="wikipedia" v="it:Assolo (Italia)"/>
-  </node>
-  <node id="72992894" lat="40.0251345" lon="9.1731440" version="41" timestamp="2017-03-01T21:25:03Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7387"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Tonara"/>
-    <tag k="name:it" v="Tonara"/>
-    <tag k="name:sc" v="Tonara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2397"/>
-    <tag k="postal_code" v="08039"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comunetonara.gov.it/"/>
-    <tag k="wikidata" v="Q295658"/>
-    <tag k="wikipedia" v="it:Tonara"/>
-    <tag k="wikipedia:sc" v="Tonara"/>
   </node>
   <node id="72992914" lat="39.8105520" lon="9.4990450" version="41" timestamp="2017-03-03T19:53:58Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7391"/>

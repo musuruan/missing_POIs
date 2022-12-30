@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-29T02:36:02Z" areas="2022-12-29T01:43:24Z"/>
+<meta osm_base="2022-12-30T02:37:06Z" areas="2022-12-30T01:51:39Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -160,12 +160,13 @@
     <tag k="population" v="2747"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506591" lat="45.5941934" lon="9.7539140" version="2" timestamp="2020-02-22T11:18:51Z" changeset="81343487" uid="1476146" user="Alecs01">
+  <node id="62506591" lat="45.5941934" lon="9.7539140" version="3" timestamp="2022-12-29T15:12:15Z" changeset="130650624" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2036"/>
     <tag k="name" v="Ghisalba"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4626"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026069"/>
   </node>
   <node id="62506615" lat="45.4815134" lon="9.5616783" version="3" timestamp="2012-03-09T15:50:47Z" changeset="10921148" uid="622046" user="Abner78">
     <tag k="gfoss_id" v="1939"/>
@@ -207,13 +208,14 @@
     <tag k="population" v="2001"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506785" lat="45.6250970" lon="9.7616399" version="2" timestamp="2015-05-14T07:26:25Z" changeset="31127874" uid="1726763" user="stefano664">
+  <node id="62506785" lat="45.6250970" lon="9.7616399" version="3" timestamp="2022-12-29T12:40:24Z" changeset="130643828" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1990"/>
     <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
     <tag k="name" v="Cavernago"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1667"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024457"/>
   </node>
   <node id="62506804" lat="45.6350810" lon="9.8128580" version="2" timestamp="2020-05-20T05:34:20Z" changeset="85475674" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1954"/>

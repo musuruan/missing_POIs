@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-29T02:37:06Z" areas="2022-12-29T01:39:24Z"/>
+<meta osm_base="2022-12-30T02:38:04Z" areas="2022-12-30T01:54:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -874,12 +874,13 @@
     <tag k="population" v="207"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506591" lat="45.5941934" lon="9.7539140" version="2" timestamp="2020-02-22T11:18:51Z" changeset="81343487" uid="1476146" user="Alecs01">
+  <node id="62506591" lat="45.5941934" lon="9.7539140" version="3" timestamp="2022-12-29T15:12:15Z" changeset="130650624" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2036"/>
     <tag k="name" v="Ghisalba"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4626"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026069"/>
   </node>
   <node id="62506596" lat="45.7499556" lon="9.5963684" version="3" timestamp="2021-01-14T12:31:57Z" changeset="97495586" uid="616481" user="gigi2037">
     <tag k="gfoss_id" v="1933"/>
@@ -962,13 +963,14 @@
     <tag k="population" v="4166"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506785" lat="45.6250970" lon="9.7616399" version="2" timestamp="2015-05-14T07:26:25Z" changeset="31127874" uid="1726763" user="stefano664">
+  <node id="62506785" lat="45.6250970" lon="9.7616399" version="3" timestamp="2022-12-29T12:40:24Z" changeset="130643828" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1990"/>
     <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
     <tag k="name" v="Cavernago"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1667"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024457"/>
   </node>
   <node id="62506822" lat="45.6251790" lon="9.6241540" version="1" timestamp="2007-10-10T06:18:33Z" changeset="85182" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
@@ -16334,7 +16336,7 @@
     <tag k="wikidata" v="Q10858"/>
     <tag k="wikipedia" v="it:Montegabbione"/>
   </node>
-  <node id="68507883" lat="42.8639896" lon="12.1067006" version="12" timestamp="2022-06-08T17:34:25Z" changeset="122128428" uid="1211510" user="arcanma">
+  <node id="68507883" lat="42.8639534" lon="12.1066341" version="13" timestamp="2022-12-29T10:09:16Z" changeset="130636823" uid="9463303" user="Alberto23">
     <tag k="ele" v="441"/>
     <tag k="gfoss_id" v="50735"/>
     <tag k="istat_id" v="5502510002"/>
@@ -19633,21 +19635,6 @@
     <tag k="website" v="http://www.comune.bondeno.fe.it/"/>
     <tag k="wikidata" v="Q95093"/>
     <tag k="wikipedia" v="it:Bondeno"/>
-  </node>
-  <node id="69300335" lat="44.7659740" lon="11.4901110" version="7" timestamp="2017-04-02T21:55:28Z" changeset="47394388" uid="1834719" user="LvdT">
-    <tag k="ele" v="10"/>
-    <tag k="gfoss_id" v="4104"/>
-    <tag k="name" v="Poggio Renatico"/>
-    <tag k="name:egl" v="Al Puz"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9852"/>
-    <tag k="postal_code" v="44028"/>
-    <tag k="ref:ISTAT" v="038018"/>
-    <tag k="ref:catasto" v="G768"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.poggiorenatico.fe.it/"/>
-    <tag k="wikidata" v="Q95135"/>
-    <tag k="wikipedia" v="it:Poggio Renatico"/>
   </node>
   <node id="69300339" lat="44.0422403" lon="12.3182595" version="3" timestamp="2016-09-16T15:55:11Z" changeset="42205884" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4153"/>
