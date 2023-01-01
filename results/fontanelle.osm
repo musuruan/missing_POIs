@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-31T02:32:23Z" areas="2022-12-31T02:00:55Z"/>
+<meta osm_base="2023-01-01T02:49:17Z" areas="2023-01-01T02:09:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -2123,14 +2123,6 @@
     <tag k="population" v="954"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517108" lat="45.8250769" lon="8.6887863" version="4" timestamp="2015-11-26T10:52:24Z" changeset="35588352" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="1374"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
-    <tag k="name" v="Bregano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="726"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62517180" lat="45.8199458" lon="8.8947116" version="6" timestamp="2022-08-09T20:18:12Z" changeset="124702136" uid="10901495" user="Martino Scaglione">
     <tag k="capital" v="8"/>
     <tag k="name" v="Cantello"/>
@@ -2241,14 +2233,6 @@
     <tag k="population" v="272"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027329"/>
-  </node>
-  <node id="62517922" lat="45.8282150" lon="8.6794636" version="4" timestamp="2015-03-15T15:33:33Z" changeset="29498014" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="1451"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
-    <tag k="name" v="Malgesso"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1113"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62517996" lat="45.7475410" lon="8.7522990" version="4" timestamp="2020-04-23T15:43:22Z" changeset="84011060" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1462"/>
@@ -2720,9 +2704,8 @@
     <tag k="wikidata" v="Q17824"/>
     <tag k="wikipedia" v="it:Mombercelli"/>
   </node>
-  <node id="63623167" lat="45.0399500" lon="8.0967310" version="2" timestamp="2017-09-17T11:15:02Z" changeset="52115050" uid="417672" user="Guidus">
+  <node id="63623167" lat="45.0399500" lon="8.0967310" version="3" timestamp="2022-12-31T08:53:01Z" changeset="130712571" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="789"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Cunico"/>
     <tag k="name:pms" v="Cuni"/>
     <tag k="place" v="village"/>
@@ -3004,15 +2987,6 @@
     <tag k="population" v="192"/>
     <tag k="wikidata" v="Q17873"/>
     <tag k="wikipedia" v="it:Tonengo"/>
-  </node>
-  <node id="63624808" lat="45.1148302" lon="8.0250510" version="4" timestamp="2021-02-26T21:42:11Z" changeset="100075948" uid="3504160" user="ernestoandolfi">
-    <tag k="gfoss_id" v="816"/>
-    <tag k="name" v="Moransengo"/>
-    <tag k="name:pms" v="Moransengh"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="230"/>
-    <tag k="wikidata" v="Q17838"/>
-    <tag k="wikipedia" v="it:Moransengo"/>
   </node>
   <node id="63624880" lat="45.0574500" lon="7.9862290" version="3" timestamp="2022-12-22T09:05:02Z" changeset="130364483" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="822"/>

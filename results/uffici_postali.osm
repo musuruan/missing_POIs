@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-31T02:28:09Z" areas="2022-12-31T02:04:53Z"/>
+<meta osm_base="2023-01-01T02:46:25Z" areas="2023-01-01T02:09:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -4442,14 +4442,6 @@
     <tag k="population" v="432"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517108" lat="45.8250769" lon="8.6887863" version="4" timestamp="2015-11-26T10:52:24Z" changeset="35588352" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="1374"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
-    <tag k="name" v="Bregano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="726"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62517523" lat="45.7845815" lon="8.7708941" version="3" timestamp="2020-04-23T15:43:22Z" changeset="84011060" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1427"/>
     <tag k="name" v="Galliate Lombardo"/>
@@ -5461,9 +5453,8 @@
     <tag k="wikidata" v="Q17757"/>
     <tag k="wikipedia" v="it:Bubbio"/>
   </node>
-  <node id="63623709" lat="45.0226378" lon="7.9507994" version="2" timestamp="2017-09-17T10:55:37Z" changeset="52114711" uid="417672" user="Guidus">
+  <node id="63623709" lat="45.0226378" lon="7.9507994" version="3" timestamp="2022-12-31T08:31:38Z" changeset="130712105" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="751"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Buttigliera d'Asti"/>
     <tag k="name:pms" v="Butijera"/>
     <tag k="place" v="village"/>
@@ -5541,15 +5532,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18043"/>
     <tag k="wikipedia" v="it:Caprile"/>
-  </node>
-  <node id="63624808" lat="45.1148302" lon="8.0250510" version="4" timestamp="2021-02-26T21:42:11Z" changeset="100075948" uid="3504160" user="ernestoandolfi">
-    <tag k="gfoss_id" v="816"/>
-    <tag k="name" v="Moransengo"/>
-    <tag k="name:pms" v="Moransengh"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="230"/>
-    <tag k="wikidata" v="Q17838"/>
-    <tag k="wikipedia" v="it:Moransengo"/>
   </node>
   <node id="63624842" lat="44.5858203" lon="8.2472013" version="5" timestamp="2020-01-25T10:47:10Z" changeset="80066617" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="818"/>
@@ -6768,10 +6750,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026599"/>
   </node>
-  <node id="63628252" lat="44.3071320" lon="7.9787420" version="4" timestamp="2022-12-20T17:31:24Z" changeset="130300074" uid="10649349" user="Mateusz_P_90110">
+  <node id="63628252" lat="44.3071320" lon="7.9787420" version="5" timestamp="2022-12-31T16:28:51Z" changeset="130727604" uid="616774" user="mueschel">
     <tag k="gfoss_id" v="600"/>
     <tag k="name" v="Lisio"/>
-    <tag k="nmae:pms" v="Lisi"/>
+    <tag k="name:pms" v="Lisi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="248"/>
     <tag k="source" v="geodati.gfoss.it"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2022-12-31T02:33:25Z" areas="2022-12-31T02:00:55Z"/>
+<meta osm_base="2023-01-01T02:50:31Z" areas="2023-01-01T02:09:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -4064,14 +4064,6 @@
     <tag k="population" v="954"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517108" lat="45.8250769" lon="8.6887863" version="4" timestamp="2015-11-26T10:52:24Z" changeset="35588352" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="1374"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
-    <tag k="name" v="Bregano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="726"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62517131" lat="45.7719597" lon="8.6743917" version="5" timestamp="2021-07-25T07:34:17Z" changeset="108554960" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1410"/>
     <tag k="name" v="Comabbio"/>
@@ -4093,13 +4085,6 @@
     <tag k="name" v="Tronzano Lago Maggiore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="257"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62517278" lat="45.8348649" lon="8.6980360" version="4" timestamp="2020-08-08T13:42:45Z" changeset="89128315" uid="1476146" user="Alecs01">
-    <tag k="gfoss_id" v="1365"/>
-    <tag k="name" v="Bardello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1218"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62517329" lat="45.9500498" lon="8.8322606" version="3" timestamp="2021-07-01T17:00:55Z" changeset="107271303" uid="11220113" user="ivanbranco">
@@ -5587,9 +5572,8 @@
     <tag k="wikidata" v="Q17813"/>
     <tag k="wikipedia" v="it:Grana (Italia)"/>
   </node>
-  <node id="63623583" lat="45.0049008" lon="8.1688056" version="2" timestamp="2017-09-17T11:15:00Z" changeset="52115050" uid="417672" user="Guidus">
+  <node id="63623583" lat="45.0049008" lon="8.1688056" version="3" timestamp="2022-12-31T14:59:42Z" changeset="130724216" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="793"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Frinco"/>
     <tag k="name:pms" v="Frinch"/>
     <tag k="place" v="village"/>
@@ -5842,15 +5826,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="401"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63624808" lat="45.1148302" lon="8.0250510" version="4" timestamp="2021-02-26T21:42:11Z" changeset="100075948" uid="3504160" user="ernestoandolfi">
-    <tag k="gfoss_id" v="816"/>
-    <tag k="name" v="Moransengo"/>
-    <tag k="name:pms" v="Moransengh"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="230"/>
-    <tag k="wikidata" v="Q17838"/>
-    <tag k="wikipedia" v="it:Moransengo"/>
   </node>
   <node id="63624830" lat="44.7733095" lon="8.3537090" version="4" timestamp="2021-02-14T21:19:03Z" changeset="99267434" uid="492756" user="Botaler">
     <tag k="gfoss_id" v="817"/>
@@ -11439,15 +11414,6 @@
     <tag k="old_name" v="Giardinelli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4312"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67254633" lat="37.2372009" lon="14.5132023" version="16" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="heritage" v="1"/>
-    <tag k="heritage:operator" v="whc"/>
-    <tag k="name" v="Caltagirone"/>
-    <tag k="name:scn" v="Cartaggiruni"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="35890"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="67254642" lat="37.4725561" lon="14.5325204" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
