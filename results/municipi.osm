@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-09T02:34:05Z" areas="2023-01-09T01:42:19Z"/>
+<meta osm_base="2023-01-10T02:39:44Z" areas="2023-01-10T02:05:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3004,10 +3004,11 @@
     <tag k="place" v="town"/>
     <tag k="population" v="11737"/>
   </node>
-  <node id="64778820" lat="45.4401858" lon="11.1323683" version="5" timestamp="2017-08-11T15:07:59Z" changeset="51037140" uid="504502" user="kkklllppp">
+  <node id="64778820" lat="45.4401858" lon="11.1323683" version="6" timestamp="2023-01-09T22:20:50Z" changeset="131080658" uid="43207" user="kdkeller">
     <tag k="name" v="San Pietro di Lavagno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2667"/>
+    <tag k="wikidata" v="Q18505526"/>
   </node>
   <node id="64778827" lat="45.5752921" lon="11.0410864" version="3" timestamp="2016-10-09T16:06:38Z" changeset="42757067" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3116"/>
@@ -3748,14 +3749,6 @@
     <tag k="population" v="1019"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274895" lat="39.6688010" lon="16.3104900" version="3" timestamp="2016-09-05T17:50:33Z" changeset="41937037" uid="354689" user="Francesco Placco">
-    <tag k="gfoss_id" v="6627"/>
-    <tag k="name" v="Spezzano Albanese"/>
-    <tag k="name:aae" v="Spixana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7036"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274911" lat="39.0902880" lon="16.1274930" version="2" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6625"/>
     <tag k="name" v="Serra d'Aiello"/>
@@ -4265,13 +4258,6 @@
     <tag k="population" v="726"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q33675918"/>
-  </node>
-  <node id="67281359" lat="40.2397458" lon="16.0530431" version="3" timestamp="2021-07-26T22:18:32Z" changeset="108647848" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="6431"/>
-    <tag k="name" v="San Martino d'Agri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="969"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67283781" lat="41.6324794" lon="14.7654374" version="3" timestamp="2016-09-03T02:35:18Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6021"/>
