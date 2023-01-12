@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-11T02:39:06Z" areas="2023-01-11T02:19:43Z"/>
+<meta osm_base="2023-01-12T02:37:39Z" areas="2023-01-12T01:31:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -900,31 +900,35 @@
     <tag k="population" v="1963"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621696" lat="44.8283471" lon="9.0058111" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63621696" lat="44.8283471" lon="9.0058111" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="898"/>
     <tag k="name" v="Casasco"/>
+    <tag k="name:pms" v="Casasch"/>
     <tag k="place" v="village"/>
     <tag k="population" v="149"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621766" lat="44.8207134" lon="8.8916301" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63621766" lat="44.8207134" lon="8.8916301" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="981"/>
     <tag k="name" v="Paderna"/>
+    <tag k="name:pms" v="Paderna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="243"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621935" lat="44.8763557" lon="8.9496846" version="4" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63621935" lat="44.8763557" lon="8.9496846" version="5" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="873"/>
     <tag k="name" v="Berzano di Tortona"/>
+    <tag k="name:pms" v="Bërsòu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="132"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621946" lat="45.0701919" lon="8.6064884" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63621946" lat="45.0701919" lon="8.6064884" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="ele" v="91"/>
     <tag k="gfoss_id" v="880"/>
     <tag k="name" v="Bozzole"/>
+    <tag k="name:pms" v="Bòssli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="321"/>
     <tag k="postal_code" v="15040"/>
@@ -939,104 +943,119 @@
     <tag k="population" v="2395"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622091" lat="44.8384452" lon="9.0353171" version="4" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63622091" lat="44.8384452" lon="9.0353171" version="5" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="955"/>
     <tag k="name" v="Momperone"/>
+    <tag k="name:pms" v="Mumpròn"/>
     <tag k="place" v="village"/>
     <tag k="population" v="232"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622359" lat="44.7847520" lon="8.9211540" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63622359" lat="44.7847520" lon="8.9211540" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="1013"/>
     <tag k="name" v="Sant'Agata Fossili"/>
+    <tag k="name:pms" v="Santa Àgata"/>
     <tag k="place" v="village"/>
     <tag k="population" v="413"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030300"/>
   </node>
-  <node id="63622370" lat="44.7858161" lon="9.0646537" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63622370" lat="44.7858161" lon="9.0646537" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="1012"/>
     <tag k="name" v="San Sebastiano Curone"/>
+    <tag k="name:pms" v="San Bastian"/>
     <tag k="place" v="village"/>
     <tag k="population" v="543"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622421" lat="44.6922480" lon="8.7501520" version="2" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63622421" lat="44.6922480" lon="8.7501520" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="1009"/>
     <tag k="name" v="San Cristoforo"/>
+    <tag k="name:lij" v="San Cristoffa"/>
+    <tag k="name:pms" v="San Cristòfi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="575"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622472" lat="44.8153520" lon="8.8572520" version="2" timestamp="2020-05-12T03:41:08Z" changeset="85055170" uid="219297" user="ZeLonewolf">
+  <node id="63622472" lat="44.8153520" lon="8.8572520" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="1040"/>
     <tag k="name" v="Villalvernia"/>
+    <tag k="name:pms" v="Vila Vèrnia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="932"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622497" lat="44.6704450" lon="8.4216450" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63622497" lat="44.6704450" lon="8.4216450" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="1029"/>
     <tag k="name" v="Terzo"/>
+    <tag k="name:pms" v="Ters"/>
     <tag k="place" v="village"/>
     <tag k="population" v="846"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031088"/>
   </node>
-  <node id="63622540" lat="44.8373530" lon="8.8737520" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63622540" lat="44.8373530" lon="8.8737520" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="1023"/>
     <tag k="name" v="Spineto Scrivia"/>
+    <tag k="name:pms" v="Spinegh"/>
     <tag k="place" v="village"/>
     <tag k="population" v="322"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030884"/>
   </node>
-  <node id="63622562" lat="44.8924951" lon="8.9600600" version="4" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63622562" lat="44.8924951" lon="8.9600600" version="5" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="1046"/>
     <tag k="name" v="Volpeglino"/>
+    <tag k="name:pms" v="Volpièj"/>
     <tag k="place" v="village"/>
     <tag k="population" v="160"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622703" lat="44.9057264" lon="8.9482890" version="4" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63622703" lat="44.9057264" lon="8.9482890" version="5" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="903"/>
     <tag k="name" v="Castellar Guidobono"/>
+    <tag k="name:pms" v="Ël Castlà"/>
     <tag k="place" v="village"/>
     <tag k="population" v="402"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622772" lat="44.7962540" lon="9.1068580" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63622772" lat="44.7962540" lon="9.1068580" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="940"/>
     <tag k="name" v="Gremiasco"/>
+    <tag k="name:pms" v="Gremiasch"/>
     <tag k="place" v="village"/>
     <tag k="population" v="361"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026217"/>
   </node>
-  <node id="63622838" lat="44.5988420" lon="8.3331450" version="2" timestamp="2020-01-25T10:47:10Z" changeset="80066617" uid="478872" user="mcheck">
+  <node id="63622838" lat="44.5988420" lon="8.3331450" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="922"/>
     <tag k="name" v="Denice"/>
+    <tag k="name:pms" v="Dens"/>
     <tag k="place" v="village"/>
     <tag k="population" v="204"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622981" lat="44.6305502" lon="8.4929313" version="2" timestamp="2020-06-16T14:46:24Z" changeset="86727657" uid="195228" user="vancori">
+  <node id="63622981" lat="44.6305502" lon="8.4929313" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="941"/>
     <tag k="name" v="Grognardo"/>
+    <tag k="name:pms" v="Gognèd"/>
     <tag k="place" v="village"/>
     <tag k="population" v="321"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63623011" lat="44.8870659" lon="8.9802506" version="3" timestamp="2022-02-14T10:36:42Z" changeset="117387186" uid="11220113" user="ivanbranco">
+  <node id="63623011" lat="44.8870659" lon="8.9802506" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="958"/>
     <tag k="name" v="Monleale"/>
+    <tag k="name:pms" v="Monlià"/>
     <tag k="place" v="village"/>
     <tag k="population" v="634"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63623093" lat="44.9449657" lon="8.4873857" version="5" timestamp="2022-05-07T21:10:19Z" changeset="120683014" uid="11304703" user="VLLLVI">
+  <node id="63623093" lat="44.9449657" lon="8.4873857" version="6" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="998"/>
     <tag k="name" v="Quargnento"/>
+    <tag k="name:pms" v="Quargnent"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1338"/>
     <tag k="ref:ISTAT" v="006141"/>
@@ -1056,9 +1075,10 @@
     <tag k="wikidata" v="Q17752"/>
     <tag k="wikipedia" v="it:Belveglio"/>
   </node>
-  <node id="63623137" lat="44.6398290" lon="8.5529994" version="2" timestamp="2021-07-11T08:31:20Z" changeset="107772226" uid="554973" user="dgitto">
+  <node id="63623137" lat="44.6398290" lon="8.5529994" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="996"/>
     <tag k="name" v="Prasco"/>
+    <tag k="name:pms" v="Prasch"/>
     <tag k="place" v="village"/>
     <tag k="population" v="534"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -1277,73 +1297,84 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026599"/>
   </node>
-  <node id="63628436" lat="44.9406524" lon="7.0532445" version="4" timestamp="2021-12-30T22:12:00Z" changeset="115584633" uid="2976645" user="Jrachi">
+  <node id="63628436" lat="44.9406524" lon="7.0532445" version="5" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="234"/>
-    <tag k="name" v="Salza di Pinerolo / Salso"/>
-    <tag k="name:it" v="Salza di Pinerolo"/>
+    <tag k="name" v="Salza di Pinerolo"/>
+    <tag k="name:oc" v="Salsa"/>
+    <tag k="name:pms" v="Sansa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="78"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628501" lat="44.9456400" lon="7.2184140" version="2" timestamp="2011-11-03T15:27:29Z" changeset="9731325" uid="113023" user="glaucos">
+  <node id="63628501" lat="44.9456400" lon="7.2184140" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="122"/>
     <tag k="name" v="Inverso Pinasca"/>
+    <tag k="name:oc" v="L'Envèrs de Pinascha"/>
+    <tag k="name:pms" v="L'Invers ëd Pinasca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="659"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629470" lat="44.9067269" lon="7.9101512" version="4" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
+  <node id="63629470" lat="44.9067269" lon="7.9101512" version="5" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="123"/>
     <tag k="name" v="Isolabella"/>
+    <tag k="name:pms" v="Isolabela"/>
     <tag k="place" v="village"/>
     <tag k="population" v="398"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629840" lat="45.3151540" lon="7.8091200" version="2" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
+  <node id="63629840" lat="45.3151540" lon="7.8091200" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="246"/>
     <tag k="name" v="San Giusto Canavese"/>
+    <tag k="name:pms" v="San Giust"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3080"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630111" lat="45.3425540" lon="7.6937170" version="2" timestamp="2020-06-20T19:19:17Z" changeset="86919202" uid="2976645" user="Jrachi">
+  <node id="63630111" lat="45.3425540" lon="7.6937170" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="170"/>
     <tag k="name" v="Oglianico"/>
+    <tag k="name:pms" v="Ojani"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1291"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630140" lat="45.0376490" lon="7.9400280" version="2" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
+  <node id="63630140" lat="45.0376490" lon="7.9400280" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="163"/>
     <tag k="name" v="Moriondo Torinese"/>
+    <tag k="name:pms" v="Moriond"/>
     <tag k="place" v="village"/>
     <tag k="population" v="763"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630176" lat="45.0457490" lon="7.9208270" version="2" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
+  <node id="63630176" lat="45.0457490" lon="7.9208270" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="153"/>
     <tag k="name" v="Mombello di Torino"/>
+    <tag k="name:pms" v="Mombel"/>
     <tag k="place" v="village"/>
     <tag k="population" v="395"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630509" lat="44.8409410" lon="7.6359250" version="2" timestamp="2020-05-02T21:30:57Z" changeset="84537992" uid="2976645" user="Jrachi">
+  <node id="63630509" lat="44.8409410" lon="7.6359250" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="136"/>
     <tag k="name" v="Lombriasco"/>
+    <tag k="name:pms" v="Lombriasch"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1004"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630625" lat="44.9186115" lon="7.7443466" version="3" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
+  <node id="63630625" lat="44.9186115" lon="7.7443466" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="308"/>
     <tag k="name" v="Villastellone"/>
+    <tag k="name:pms" v="Vilastlon"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4641"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630630" lat="44.9483900" lon="7.6339287" version="3" timestamp="2019-10-30T18:15:01Z" changeset="76409859" uid="478872" user="mcheck">
+  <node id="63630630" lat="44.9483900" lon="7.6339287" version="4" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="309"/>
     <tag k="name" v="Vinovo"/>
+    <tag k="name:pms" v="Vineuv"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13425"/>
     <tag k="source" v="geodati.gfoss.it"/>
