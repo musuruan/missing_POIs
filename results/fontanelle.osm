@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-12T02:39:27Z" areas="2023-01-12T02:19:24Z"/>
+<meta osm_base="2023-01-13T02:44:07Z" areas="2023-01-13T01:47:07Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3955,14 +3955,6 @@
     <tag k="wikidata" v="Q25195"/>
     <tag k="wikipedia" v="it:Rossa (Italia)"/>
   </node>
-  <node id="63631463" lat="45.2014510" lon="7.7782220" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
-    <tag k="gfoss_id" v="314"/>
-    <tag k="name" v="Volpiano"/>
-    <tag k="name:pms" v="Volpian"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12991"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63631617" lat="45.9573770" lon="8.5829250" version="3" timestamp="2023-01-12T01:34:24Z" changeset="131166994" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="8027"/>
     <tag k="is_in" v="Verbano-Cusio-Ossola, Piemonte, Italy"/>
@@ -4753,11 +4745,12 @@
     <tag k="population" v="10550"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778795" lat="45.4560955" lon="12.0301727" version="10" timestamp="2020-12-13T11:25:36Z" changeset="95751252" uid="504502" user="kkklllppp">
+  <node id="64778795" lat="45.4560955" lon="12.0301727" version="12" timestamp="2023-01-12T09:56:17Z" changeset="131179653" uid="1717503" user="osm19">
     <tag k="gfoss_id" v="350t1"/>
     <tag k="name" v="Pianiga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="12280 (Comune) 3400 (Capoluogo comunale)"/>
+    <tag k="note" v="12280 (Comune) 3400 (Capoluogo comunale)"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="12280"/>
     <tag k="source" v="ISTAT"/>
   </node>
   <node id="64778803" lat="45.7917474" lon="12.9090234" version="4" timestamp="2016-10-02T23:39:13Z" changeset="42593464" uid="743479" user="fayor">
@@ -8379,6 +8372,13 @@
     <tag k="name" v="San Paolo di Civitate"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6119"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68528995" lat="41.2061199" lon="15.5616103" version="3" timestamp="2016-08-27T16:23:58Z" changeset="41739592" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6101"/>
+    <tag k="name" v="Ascoli Satriano"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="6373"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529006" lat="41.4772290" lon="15.1242410" version="2" timestamp="2016-08-27T16:24:21Z" changeset="41739592" uid="743479" user="fayor">
