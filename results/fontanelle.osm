@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-13T02:44:07Z" areas="2023-01-13T01:47:07Z"/>
+<meta osm_base="2023-01-14T02:33:39Z" areas="2023-01-14T01:45:39Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1548,14 +1548,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="17134"/>
     <tag k="wikidata" v="Q43042"/>
-  </node>
-  <node id="62514771" lat="45.5828314" lon="9.4870409" version="4" timestamp="2021-07-11T16:04:05Z" changeset="107788531" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="1900"/>
-    <tag k="name" v="Trezzano Rosa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3760"/>
-    <tag k="postal_code" v="20060"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62514856" lat="45.5278124" lon="9.1169467" version="15" timestamp="2022-12-16T16:42:15Z" changeset="130163231" uid="362065" user="GFS">
     <tag k="alt_name" v="Baranzate di Bollate"/>
@@ -12404,6 +12396,22 @@
     <tag k="wikidata" v="Q283554"/>
     <tag k="wikipedia" v="it:Armungia"/>
     <tag k="wikipedia:sc" v="Armùngia"/>
+  </node>
+  <node id="72990791" lat="39.2915380" lon="9.0015420" version="49" timestamp="2018-07-16T19:06:14Z" changeset="60773809" uid="2589877" user="kent1D">
+    <tag k="gfoss_id" v="7400"/>
+    <tag k="int_name" v="Assemini"/>
+    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
+    <tag k="name" v="Assèmini/Assemini"/>
+    <tag k="name:it" v="Assemini"/>
+    <tag k="name:sc" v="Assèmini"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="23973"/>
+    <tag k="postal_code" v="09032"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.assemini.ca.it/"/>
+    <tag k="wikidata" v="Q283609"/>
+    <tag k="wikipedia" v="sc:Assèmini"/>
+    <tag k="wikipedia:it" v="Assemini"/>
   </node>
   <node id="72990803" lat="39.5497460" lon="9.3615450" version="41" timestamp="2019-03-20T06:23:02Z" changeset="68320549" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7401"/>
