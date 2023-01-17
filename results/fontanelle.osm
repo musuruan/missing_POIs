@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-16T02:40:57Z" areas="2023-01-16T02:08:30Z"/>
+<meta osm_base="2023-01-17T02:37:53Z" areas="2023-01-17T00:38:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -5865,13 +5865,6 @@
     <tag k="population" v="4313"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67255782" lat="37.8864540" lon="14.3121680" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="name" v="Castel di Lucio"/>
-    <tag k="name:scn" v="Castiɖɖuzzu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1177"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
   <node id="67255808" lat="38.0843696" lon="14.8071222" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="ele" v="660"/>
     <tag k="name" v="Castell'Umberto"/>
@@ -6104,13 +6097,6 @@
     <tag k="name:scn" v="San Giuseppi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8115"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67256957" lat="37.9146277" lon="14.1903782" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="name" v="San Mauro Castelverde"/>
-    <tag k="name:scn" v="Santu Mauru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1380"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="67256966" lat="37.9629600" lon="13.1753795" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
@@ -12184,12 +12170,14 @@
     <tag k="population" v="10592"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963186" lat="41.6991180" lon="13.0517930" version="2" timestamp="2016-09-07T18:50:26Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963186" lat="41.6991180" lon="13.0517930" version="3" timestamp="2023-01-16T11:43:16Z" changeset="131334659" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4952"/>
     <tag k="name" v="Gavignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1760"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q242668"/>
+    <tag k="wikipedia" v="it:Gavignano (Italia)"/>
   </node>
   <node id="72963196" lat="41.8720696" lon="12.8185343" version="6" timestamp="2016-09-10T00:13:40Z" changeset="42050952" uid="717514" user="ALn_668">
     <tag k="addr:country" v="IT"/>

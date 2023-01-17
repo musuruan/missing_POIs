@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-16T02:42:54Z" areas="2023-01-16T02:08:30Z"/>
+<meta osm_base="2023-01-17T02:39:55Z" areas="2023-01-17T02:19:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -12125,7 +12125,7 @@
     <tag k="population" v="987"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67255948" lat="37.9854630" lon="15.3596890" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255948" lat="37.9864756" lon="15.3594261" version="12" timestamp="2023-01-17T00:54:30Z" changeset="131357716" uid="923271" user="aldoct">
     <tag k="ele" v="180"/>
     <tag k="name" v="Pagliara"/>
     <tag k="name:scn" v="Pagghiara"/>
@@ -23698,12 +23698,14 @@
     <tag k="population" v="10592"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963186" lat="41.6991180" lon="13.0517930" version="2" timestamp="2016-09-07T18:50:26Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963186" lat="41.6991180" lon="13.0517930" version="3" timestamp="2023-01-16T11:43:16Z" changeset="131334659" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4952"/>
     <tag k="name" v="Gavignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1760"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q242668"/>
+    <tag k="wikipedia" v="it:Gavignano (Italia)"/>
   </node>
   <node id="72963246" lat="42.1049460" lon="12.4454599" version="5" timestamp="2017-03-11T12:49:48Z" changeset="46761722" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="5004"/>
