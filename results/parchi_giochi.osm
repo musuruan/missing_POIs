@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-19T02:47:25Z" areas="2023-01-18T22:01:46Z"/>
+<meta osm_base="2023-01-20T02:50:20Z" areas="2023-01-19T23:15:52Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -7941,13 +7941,15 @@
     <tag k="population" v="396"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630889" lat="45.9632681" lon="8.5758537" version="4" timestamp="2023-01-17T20:04:33Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630889" lat="45.9610803" lon="8.5813615" version="5" timestamp="2023-01-19T10:02:16Z" changeset="131457530" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="8033"/>
     <tag k="is_in" v="Verbano-Cusio-Ossola, Piemonte, Italy"/>
     <tag k="name" v="Bee"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="623"/>
+    <tag k="population" v="763"/>
+    <tag k="population:date" v="2022 08 31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="Istat"/>
   </node>
   <node id="63630895" lat="45.9819780" lon="8.5628240" version="4" timestamp="2023-01-17T20:04:17Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="created_by" v="JOSM"/>
@@ -8108,14 +8110,15 @@
     <tag k="population" v="441"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63631617" lat="45.9573770" lon="8.5829250" version="4" timestamp="2023-01-17T20:03:28Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="created_by" v="JOSM"/>
+  <node id="63631617" lat="45.9566296" lon="8.5838347" version="5" timestamp="2023-01-19T10:02:16Z" changeset="131457530" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="8027"/>
     <tag k="is_in" v="Verbano-Cusio-Ossola, Piemonte, Italy"/>
     <tag k="name" v="Arizzano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1890"/>
+    <tag k="population" v="1944"/>
+    <tag k="population:date" v="2022 08 31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="Istat"/>
     <tag k="wikidata" v="Q30022344"/>
   </node>
   <node id="63631704" lat="46.1399790" lon="8.3234150" version="1" timestamp="2007-10-10T21:22:00Z" changeset="89634" uid="864" user="Niccolo">
@@ -8133,13 +8136,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="283"/>
   </node>
-  <node id="63631807" lat="45.9597733" lon="8.5666174" version="5" timestamp="2023-01-17T20:01:31Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63631807" lat="45.9597733" lon="8.5666174" version="6" timestamp="2023-01-19T10:02:16Z" changeset="131457530" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="8098"/>
     <tag k="is_in" v="Verbano-Cusio-Ossola, Piemonte, Italy"/>
     <tag k="name" v="Vignone"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1090"/>
+    <tag k="population" v="1182"/>
+    <tag k="population:date" v="2022 08 31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="Istat"/>
   </node>
   <node id="63631867" lat="45.2359501" lon="8.3698748" version="7" timestamp="2023-01-17T19:55:14Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="capital" v="8"/>
