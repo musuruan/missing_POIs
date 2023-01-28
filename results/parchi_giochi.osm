@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-01-27T02:44:46Z" areas="2023-01-27T02:16:19Z"/>
+<meta osm_base="2023-01-28T02:43:22Z" areas="2023-01-28T02:01:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -5511,9 +5511,8 @@
     <tag k="wikidata" v="Q17792"/>
     <tag k="wikipedia" v="it:Cessole"/>
   </node>
-  <node id="63623554" lat="44.8724155" lon="8.3602486" version="4" timestamp="2017-09-12T21:45:23Z" changeset="51987867" uid="417672" user="Guidus">
+  <node id="63623554" lat="44.8724155" lon="8.3602486" version="5" timestamp="2023-01-27T10:02:06Z" changeset="131765331" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="775"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Cerro Tanaro"/>
     <tag k="name:pms" v="Ser"/>
     <tag k="place" v="village"/>
@@ -16311,14 +16310,6 @@
     <tag k="population" v="6566"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528790" lat="40.8492021" lon="17.1226371" version="9" timestamp="2022-03-06T15:09:02Z" changeset="118162771" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="6196"/>
-    <tag k="name" v="Putignano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="26859"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51846"/>
-  </node>
   <node id="68528801" lat="40.9173310" lon="17.0211910" version="3" timestamp="2016-09-09T00:49:53Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6207"/>
     <tag k="name" v="Turi"/>
@@ -16626,6 +16617,13 @@
     <tag k="name" v="Ordona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2584"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68529293" lat="39.8442180" lon="18.3695340" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6285"/>
+    <tag k="name" v="Gagliano del Capo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5660"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529305" lat="40.1215240" lon="18.4327320" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
@@ -25190,12 +25188,10 @@
     <tag k="wikipedia" v="it:Villagrande Strisaili"/>
     <tag k="wikipedia:sc" v="Biddamanna Istrisàili"/>
   </node>
-  <node id="72992277" lat="40.0371271" lon="9.6405028" version="40" timestamp="2017-03-01T21:24:56Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992277" lat="40.0371271" lon="9.6405028" version="41" timestamp="2023-01-27T22:36:31Z" changeset="131791047" uid="3592415" user="Fabrizio Tatti">
     <tag k="alt_name" v="Triè"/>
     <tag k="ele" v="140"/>
     <tag k="gfoss_id" v="7390"/>
-    <tag k="is_in:country" v="Italy"/>
-    <tag k="is_in:district" v="Ogliastra"/>
     <tag k="is_in:region" v="Sardegna"/>
     <tag k="name" v="Triei"/>
     <tag k="name:it" v="Triei"/>
@@ -27412,17 +27408,6 @@
     <tag k="website" v="http://www.comune.castello-d-argile.bo.it/"/>
     <tag k="wikidata" v="Q94782"/>
     <tag k="wikipedia" v="it:Castello d'Argile"/>
-  </node>
-  <node id="1131424162" lat="44.7705610" lon="10.7797829" version="5" timestamp="2017-09-01T18:15:20Z" changeset="51651966" uid="1834719" user="LvdT">
-    <tag k="ele" v="31"/>
-    <tag k="gfoss_id" v="39471"/>
-    <tag k="istat_id" v="2147483647"/>
-    <tag k="name" v="Correggio"/>
-    <tag k="name:egl" v="Curèz"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="25897"/>
-    <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q111176"/>
   </node>
   <node id="1131523001" lat="40.6798648" lon="14.9454092" version="4" timestamp="2021-01-12T22:54:06Z" changeset="97400078" uid="10418896" user="VLD151">
     <tag k="name" v="Montecorvino Pugliano"/>
