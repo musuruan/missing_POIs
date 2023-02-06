@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-05T02:49:18Z" areas="2023-02-05T02:02:40Z"/>
+<meta osm_base="2023-02-06T02:39:08Z" areas="2023-02-06T01:11:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -2650,12 +2650,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1983"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62512570" lat="46.0128352" lon="9.2963201" version="2" timestamp="2019-02-19T17:56:03Z" changeset="67362055" uid="69717" user="kaitu">
-    <tag k="gfoss_id" v="7836"/>
-    <tag k="name" v="Perledo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="874"/>
   </node>
   <node id="62512582" lat="46.0178860" lon="9.3449400" version="2" timestamp="2019-12-31T18:21:16Z" changeset="79065815" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7833"/>
@@ -10901,12 +10895,14 @@
     <tag k="population" v="1991"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587202" lat="44.1759320" lon="8.2704510" version="2" timestamp="2016-09-24T23:13:28Z" changeset="42413443" uid="743479" user="fayor">
+  <node id="66587202" lat="44.1765215" lon="8.2686297" version="4" timestamp="2023-02-05T17:52:57Z" changeset="132122780" uid="18344592" user="Alessandro Oddo">
     <tag k="gfoss_id" v="1250"/>
     <tag k="name" v="Tovo San Giacomo"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2165"/>
+    <tag k="population" v="2535"/>
+    <tag k="population:date" v="2022-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="Comune di Tovo San Giacomo"/>
   </node>
   <node id="66587222" lat="44.4446264" lon="8.4344600" version="5" timestamp="2016-09-24T23:13:26Z" changeset="42413443" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1239"/>
@@ -12226,13 +12222,6 @@
     <tag k="name:scn" v="Casteddammari"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14474"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67257074" lat="37.6358380" lon="12.7443380" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="name" v="Campobello di Mazara"/>
-    <tag k="name:scn" v="Campubeɖɖu"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11413"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="67257091" lat="37.6828513" lon="12.7955336" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
