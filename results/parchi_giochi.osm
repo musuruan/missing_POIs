@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-11T02:43:52Z" areas="2023-02-11T01:12:13Z"/>
+<meta osm_base="2023-02-12T02:47:20Z" areas="2023-02-12T01:02:53Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -8508,10 +8508,10 @@
     <tag k="population" v="2806"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778186" lat="45.9078030" lon="11.9081948" version="5" timestamp="2016-10-13T15:57:03Z" changeset="42872569" uid="743479" user="fayor">
+  <node id="64778186" lat="45.9078030" lon="11.9081948" version="6" timestamp="2023-02-11T11:56:55Z" changeset="132401074" uid="15886906" user="il_Cervo">
     <tag k="gfoss_id" v="3311"/>
     <tag k="name" v="Alano di Piave"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="2773"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -9135,10 +9135,10 @@
     <tag k="population" v="6161"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778638" lat="45.9166776" lon="11.9538948" version="5" timestamp="2021-04-03T22:09:40Z" changeset="102252861" uid="504502" user="kkklllppp">
+  <node id="64778638" lat="45.9166776" lon="11.9538948" version="6" timestamp="2023-02-11T11:56:55Z" changeset="132401074" uid="15886906" user="il_Cervo">
     <tag k="gfoss_id" v="3457"/>
     <tag k="name" v="Segusino"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="1980"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -12225,12 +12225,16 @@
     <tag k="population" v="14474"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67257091" lat="37.6828513" lon="12.7955336" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257091" lat="37.6828513" lon="12.7955336" version="11" timestamp="2023-02-11T09:07:28Z" changeset="132394811" uid="8215303" user="ross-map">
     <tag k="name" v="Castelvetrano"/>
     <tag k="name:scn" v="Castedduvitranu"/>
     <tag k="place" v="town"/>
     <tag k="population" v="29398"/>
+    <tag k="postal_code" v="91022"/>
     <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="website" v="https://comune.castelvetrano.tp.it/"/>
+    <tag k="wikidata" v="Q481674"/>
+    <tag k="wikipedia" v="it:Castelvetrano"/>
   </node>
   <node id="67257114" lat="37.7713420" lon="12.8776390" version="7" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Santa Ninfa"/>
