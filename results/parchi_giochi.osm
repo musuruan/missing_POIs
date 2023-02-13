@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-12T02:47:20Z" areas="2023-02-12T01:02:53Z"/>
+<meta osm_base="2023-02-13T02:49:48Z" areas="2023-02-13T02:33:10Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -9686,12 +9686,14 @@
     <tag k="population" v="1234"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779212" lat="45.5640412" lon="11.3748519" version="7" timestamp="2016-10-08T21:08:54Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779212" lat="45.5640412" lon="11.3748519" version="9" timestamp="2023-02-12T14:21:10Z" changeset="132447689" uid="1896251" user="simoleo89">
     <tag k="gfoss_id" v="3297"/>
     <tag k="name" v="Trissino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8784"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q47238"/>
+    <tag k="wikipedia" v="it:Trissino (Italia)"/>
   </node>
   <node id="64779219" lat="45.7130543" lon="11.6940642" version="4" timestamp="2016-10-08T21:08:46Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3213"/>
