@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-19T02:47:10Z" areas="2023-02-19T01:47:24Z"/>
+<meta osm_base="2023-02-20T02:49:34Z" areas="2023-02-19T23:50:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -5548,12 +5548,6 @@
     <tag k="name:scn" v="Mazzarruni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3937"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67254642" lat="37.4725561" lon="14.5325204" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="name" v="Raddusa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2806"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="67254696" lat="37.3242210" lon="14.4463939" version="17" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
@@ -13372,21 +13366,6 @@
     <tag k="website" v="http://www.comune.genoni.or.it/"/>
     <tag k="wikidata" v="Q385722"/>
     <tag k="wikipedia" v="it:Genoni"/>
-  </node>
-  <node id="72992422" lat="40.3865886" lon="9.6143225" version="49" timestamp="2017-03-01T21:24:58Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7323"/>
-    <tag k="name" v="Garteddi/Galtellì"/>
-    <tag k="name:it" v="Galtellì"/>
-    <tag k="name:sc" v="Garteddi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2344"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="ref:LOCODE" v="ITGLI"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.galtelli.gov.it/"/>
-    <tag k="wikidata" v="Q294814"/>
-    <tag k="wikipedia" v="it:Galtellì"/>
-    <tag k="wikipedia:sc" v="Garteddi"/>
   </node>
   <node id="72992449" lat="39.6996460" lon="9.1004380" version="42" timestamp="2017-03-03T19:53:57Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7326"/>
