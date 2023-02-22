@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-21T02:51:49Z" areas="2023-02-21T02:13:22Z"/>
+<meta osm_base="2023-02-22T02:50:53Z" areas="2023-02-22T02:22:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -7183,9 +7183,9 @@
     <tag k="population" v="3529"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628705" lat="45.1466510" lon="7.8493240" version="4" timestamp="2023-01-17T19:53:13Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63628705" lat="45.1471822" lon="7.8490570" version="5" timestamp="2023-02-21T13:59:39Z" changeset="132837734" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="252"/>
-    <tag k="name" v="San Raffaele Cimena"/>
+    <tag k="name" v="La Piana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2815"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -10906,7 +10906,7 @@
     <tag k="population" v="822"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253724" lat="38.0174321" lon="12.5159920" version="26" timestamp="2022-11-09T01:50:25Z" changeset="128663403" uid="10119880" user="Briantin de Montrei">
+  <node id="67253724" lat="38.0174321" lon="12.5159920" version="27" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="capital" v="6"/>
     <tag k="name" v="Trapani"/>
     <tag k="name:an" v="Tràpani"/>
@@ -10933,16 +10933,14 @@
     <tag k="place" v="city"/>
     <tag k="population" v="55817"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q13664"/>
   </node>
-  <node id="67253728" lat="35.5035259" lon="12.6066887" version="15" timestamp="2020-06-18T14:38:59Z" changeset="86830972" uid="743479" user="fayor">
+  <node id="67253728" lat="35.5035259" lon="12.6066887" version="16" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="alt_name:ar" v="لامبيدوسا"/>
     <tag k="name" v="Lampedusa"/>
     <tag k="name:ar" v="لنبذوشة"/>
     <tag k="note" v="popolazione ottenuta sommando anche gli abitanti di Terranova e Grecale"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4839"/>
-    <tag k="wikidata" v="Q107338"/>
   </node>
   <node id="67253732" lat="37.5700419" lon="13.4546092" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Alessandria della Rocca"/>
@@ -10997,13 +10995,12 @@
     <tag k="population" v="6977"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67253785" lat="37.7022410" lon="12.9858420" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253785" lat="37.7022410" lon="12.9858420" version="13" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Montevago"/>
     <tag k="name:scn" v="Muntivau"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2713"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q30027952"/>
   </node>
   <node id="67253796" lat="37.1916637" lon="13.7637141" version="16" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Donnafugata"/>
@@ -11022,15 +11019,13 @@
     <tag k="population" v="2137"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67253811" lat="37.6299364" lon="13.6413747" version="13" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67253811" lat="37.6299364" lon="13.6413747" version="14" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="San Giovanni Gemini"/>
     <tag k="name:scn" v="San Giuvanni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7532"/>
     <tag k="postal_code" v="92020"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q432669"/>
-    <tag k="wikipedia" v="it:San Giovanni Gemini"/>
   </node>
   <node id="67253815" lat="37.4790152" lon="13.5443155" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Sant'Angelo Muxaro"/>
@@ -11099,15 +11094,13 @@
     <tag k="population" v="2878"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67253937" lat="37.6250274" lon="13.4907602" version="15" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67253937" lat="37.6250274" lon="13.4907602" version="16" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Santo Stefano Quisquina"/>
     <tag k="name:scn" v="Santu Stèfanu Quisquina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4138"/>
     <tag k="postal_code" v="92020"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q432680"/>
-    <tag k="wikipedia" v="it:Santo Stefano Quisquina"/>
   </node>
   <node id="67253941" lat="37.5027873" lon="13.2661885" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Ribera"/>
@@ -11116,7 +11109,7 @@
     <tag k="population" v="17871"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67253952" lat="37.6477395" lon="13.1110313" version="15" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67253952" lat="37.6477395" lon="13.1110313" version="16" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Zabut"/>
     <tag k="name" v="Sambuca di Sicilia"/>
     <tag k="name:scn" v="Sammuca"/>
@@ -11124,17 +11117,13 @@
     <tag k="population" v="5385"/>
     <tag k="postal_code" v="92017"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q432659"/>
-    <tag k="wikipedia" v="it:Sambuca di Sicilia"/>
   </node>
-  <node id="67253968" lat="37.5719991" lon="13.7028911" version="12" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67253968" lat="37.5719991" lon="13.7028911" version="13" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Acquaviva Platani"/>
     <tag k="place" v="village"/>
     <tag k="population" v="864"/>
     <tag k="postal_code" v="93010"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q342479"/>
-    <tag k="wikipedia" v="it:Acquaviva Platani"/>
   </node>
   <node id="67253978" lat="37.4408400" lon="13.3920540" version="17" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Cattolica Eraclea"/>
@@ -11188,15 +11177,13 @@
     <tag k="population" v="1760"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254100" lat="37.5104792" lon="13.7110436" version="13" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67254100" lat="37.5104792" lon="13.7110436" version="14" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Campofranco"/>
     <tag k="name:scn" v="Campufrancu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2708"/>
     <tag k="postal_code" v="93010"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q477423"/>
-    <tag k="wikipedia" v="it:Campofranco"/>
   </node>
   <node id="67254138" lat="37.5974460" lon="13.9157630" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Marianopoli"/>
@@ -11287,15 +11274,13 @@
     <tag k="population" v="8670"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254822" lat="37.4954203" lon="14.3907910" version="11" timestamp="2023-01-30T18:53:02Z" changeset="131893042" uid="8215303" user="ross-map">
+  <node id="67254822" lat="37.4954203" lon="14.3907910" version="12" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Valguarnera Caropepe"/>
     <tag k="name:scn" v="Carrapipi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7019"/>
     <tag k="postal_code" v="94019"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q56213"/>
-    <tag k="wikipedia" v="it:Valguarnera Caropepe"/>
   </node>
   <node id="67254828" lat="37.5679714" lon="14.6918187" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Catenanuova"/>
@@ -11503,7 +11488,7 @@
     <tag k="population" v="182"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67255258" lat="37.9298854" lon="14.3628727" version="18" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67255258" lat="37.9298854" lon="14.3628727" version="19" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Mistretta"/>
     <tag k="name:scn" v="Mistritta"/>
     <tag k="old_name" v="Amestratos, Amestratus, Amastra, Mestraton, Mitistratos"/>
@@ -11511,8 +11496,6 @@
     <tag k="population" v="4374"/>
     <tag k="postal_code" v="98073"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q493428"/>
-    <tag k="wikipedia" v="it:Mistretta"/>
   </node>
   <node id="67255268" lat="37.8996704" lon="15.0490427" version="17" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="alt_name" v="Mojo Alcantara"/>
@@ -11616,7 +11599,7 @@
     <tag k="population" v="6691"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67255718" lat="37.8440930" lon="14.7117268" version="16" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67255718" lat="37.8440930" lon="14.7117268" version="17" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Cisarò"/>
     <tag k="ele" v="1150"/>
     <tag k="name" v="Cesarò"/>
@@ -11625,8 +11608,6 @@
     <tag k="population" v="2179"/>
     <tag k="postal_code" v="98033"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q492631"/>
-    <tag k="wikipedia" v="it:Cesarò"/>
   </node>
   <node id="67255741" lat="38.1174821" lon="15.0796108" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Farcuni"/>
@@ -11795,25 +11776,21 @@
     <tag k="population" v="6191"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256310" lat="37.9673767" lon="13.9739295" version="12" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67256310" lat="37.9673767" lon="13.9739295" version="13" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Gratteri"/>
     <tag k="name:scn" v="Ratteri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="867"/>
     <tag k="postal_code" v="90010"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q490951"/>
-    <tag k="wikipedia" v="it:Gratteri"/>
   </node>
-  <node id="67256336" lat="37.7963398" lon="14.1084677" version="12" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67256336" lat="37.7963398" lon="14.1084677" version="13" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Petralia Soprana"/>
     <tag k="name:scn" v="Pitralia Suprana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2993"/>
     <tag k="postal_code" v="90026"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q490929"/>
-    <tag k="wikipedia" v="it:Petralia Soprana"/>
   </node>
   <node id="67256343" lat="38.0438957" lon="13.1198211" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Partinico"/>
@@ -11822,17 +11799,15 @@
     <tag k="population" v="30556"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256351" lat="37.8477519" lon="13.7620485" version="11" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67256351" lat="37.8477519" lon="13.7620485" version="12" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Montemaggiore Belsito"/>
     <tag k="name:scn" v="Muntimajuri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2972"/>
     <tag k="postal_code" v="90020"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q491415"/>
-    <tag k="wikipedia" v="it:Montemaggiore Belsito"/>
   </node>
-  <node id="67256381" lat="37.9849315" lon="13.3280957" version="15" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67256381" lat="37.9849315" lon="13.3280957" version="16" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Santa Cristina Gela"/>
     <tag k="name:aae" v="Sëndahstina"/>
     <tag k="name:it" v="Santa Cristina Gela"/>
@@ -11840,18 +11815,14 @@
     <tag k="population" v="987"/>
     <tag k="postal_code" v="90030"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q489276"/>
-    <tag k="wikipedia" v="it:Santa Cristina Gela"/>
   </node>
-  <node id="67256434" lat="37.6789450" lon="13.6034550" version="10" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67256434" lat="37.6789450" lon="13.6034550" version="11" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Castronovo di Sicilia"/>
     <tag k="name:scn" v="Castrunovu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2844"/>
     <tag k="postal_code" v="90030"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q490756"/>
-    <tag k="wikipedia" v="it:Castronovo di Sicilia"/>
   </node>
   <node id="67256442" lat="37.7799480" lon="13.7138560" version="7" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Alia"/>
@@ -11859,7 +11830,7 @@
     <tag k="population" v="3314"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256456" lat="37.8210665" lon="13.8902244" version="12" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67256456" lat="37.8210665" lon="13.8902244" version="13" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Caltavuturo"/>
     <tag k="name:ru" v="Кальтавутуро"/>
     <tag k="name:scn" v="Caltavuturu"/>
@@ -11867,15 +11838,16 @@
     <tag k="population" v="3594"/>
     <tag k="postal_code" v="90022"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q491404"/>
-    <tag k="wikipedia" v="it:Caltavuturo"/>
   </node>
-  <node id="67256482" lat="38.0484487" lon="13.3905539" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256482" lat="38.0485261" lon="13.3910630" version="14" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
+    <tag k="ele" v="356"/>
     <tag k="name" v="Belmonte Mezzagno"/>
     <tag k="name:scn" v="Bilmunti Minzagnu"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10927"/>
+    <tag k="population" v="10904"/>
     <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.belmonte.pa.it/"/>
   </node>
   <node id="67256486" lat="38.0471029" lon="13.1426837" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Borgetto"/>
@@ -11967,15 +11939,15 @@
     <tag k="population" v="2678"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256658" lat="37.6812542" lon="13.3792656" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256658" lat="37.6812542" lon="13.3792656" version="14" timestamp="2023-02-21T20:53:21Z" changeset="132853292" uid="743479" user="fayor">
     <tag k="name" v="Palazzo Adriano"/>
     <tag k="name:aae" v="Pallaci"/>
     <tag k="name:scn" v="Palazzu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="18381"/>
+    <tag k="population" v="1838"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256678" lat="37.9948357" lon="13.2826890" version="15" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67256678" lat="37.9948357" lon="13.2826890" version="16" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Piana degli Albanesi"/>
     <tag k="name:aae" v="Hora e Arbëreshëvet"/>
     <tag k="name:it" v="Piana degli Albanesi"/>
@@ -11984,18 +11956,14 @@
     <tag k="population" v="5588"/>
     <tag k="postal_code" v="90037"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q489267"/>
-    <tag k="wikipedia" v="it:Piana degli Albanesi"/>
   </node>
-  <node id="67256685" lat="37.8082253" lon="14.0925134" version="11" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67256685" lat="37.8082253" lon="14.0925134" version="12" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Petralia Sottana"/>
     <tag k="name:scn" v="Pitralia Suttana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2470"/>
     <tag k="postal_code" v="90027"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q490955"/>
-    <tag k="wikipedia" v="it:Petralia Sottana"/>
   </node>
   <node id="67256688" lat="37.8360280" lon="13.1538583" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Roccamena"/>
@@ -12065,10 +12033,10 @@
     <tag k="population" v="2983"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256846" lat="37.0481124" lon="14.7937968" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256846" lat="37.0481124" lon="14.7937968" version="14" timestamp="2023-02-21T20:53:21Z" changeset="132853292" uid="743479" user="fayor">
     <tag k="name" v="Giarratana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="27977"/>
+    <tag k="population" v="2797"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="67256895" lat="37.1264910" lon="14.8503797" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
@@ -12213,7 +12181,7 @@
     <tag k="population" v="14474"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67257091" lat="37.6828513" lon="12.7955336" version="11" timestamp="2023-02-11T09:07:28Z" changeset="132394811" uid="8215303" user="ross-map">
+  <node id="67257091" lat="37.6828513" lon="12.7955336" version="12" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Castelvetrano"/>
     <tag k="name:scn" v="Castedduvitranu"/>
     <tag k="place" v="town"/>
@@ -12221,8 +12189,6 @@
     <tag k="postal_code" v="91022"/>
     <tag k="source" v="Istat gennaio 2022"/>
     <tag k="website" v="https://comune.castelvetrano.tp.it/"/>
-    <tag k="wikidata" v="Q481674"/>
-    <tag k="wikipedia" v="it:Castelvetrano"/>
   </node>
   <node id="67257114" lat="37.7713420" lon="12.8776390" version="7" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Santa Ninfa"/>
@@ -28358,15 +28324,13 @@
     <tag k="name" v="Le Plan-de-Clavel"/>
     <tag k="place" v="hamlet"/>
   </node>
-  <node id="4791626652" lat="37.8584782" lon="14.1543408" version="10" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="4791626652" lat="37.8584782" lon="14.1543408" version="11" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Geraci Siculo"/>
     <tag k="name:scn" v="Jiraci"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1717"/>
     <tag k="postal_code" v="90010"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q386523"/>
-    <tag k="wikipedia" v="it:Geraci Siculo"/>
   </node>
   <node id="4854475959" lat="41.6553834" lon="14.0624272" version="4" timestamp="2020-11-25T18:16:29Z" changeset="94792637" uid="166489" user="Fintocubano">
     <tag k="name" v="Castel San Vincenzo"/>

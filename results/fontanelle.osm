@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-21T02:49:53Z" areas="2023-02-21T02:07:20Z"/>
+<meta osm_base="2023-02-22T02:47:53Z" areas="2023-02-22T02:22:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3576,9 +3576,9 @@
     <tag k="population" v="270"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628705" lat="45.1466510" lon="7.8493240" version="4" timestamp="2023-01-17T19:53:13Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63628705" lat="45.1471822" lon="7.8490570" version="5" timestamp="2023-02-21T13:59:39Z" changeset="132837734" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="252"/>
-    <tag k="name" v="San Raffaele Cimena"/>
+    <tag k="name" v="La Piana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2815"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -5307,7 +5307,7 @@
     <tag k="population" v="957"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253724" lat="38.0174321" lon="12.5159920" version="26" timestamp="2022-11-09T01:50:25Z" changeset="128663403" uid="10119880" user="Briantin de Montrei">
+  <node id="67253724" lat="38.0174321" lon="12.5159920" version="27" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="capital" v="6"/>
     <tag k="name" v="Trapani"/>
     <tag k="name:an" v="Tràpani"/>
@@ -5334,7 +5334,6 @@
     <tag k="place" v="city"/>
     <tag k="population" v="55817"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q13664"/>
   </node>
   <node id="67253732" lat="37.5700419" lon="13.4546092" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Alessandria della Rocca"/>
@@ -5382,13 +5381,12 @@
     <tag k="population" v="6977"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67253785" lat="37.7022410" lon="12.9858420" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253785" lat="37.7022410" lon="12.9858420" version="13" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Montevago"/>
     <tag k="name:scn" v="Muntivau"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2713"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q30027952"/>
   </node>
   <node id="67253800" lat="37.3083930" lon="13.4615669" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Realmonte"/>
@@ -5397,15 +5395,13 @@
     <tag k="population" v="4371"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67253804" lat="37.2679139" lon="13.9732545" version="14" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67253804" lat="37.2679139" lon="13.9732545" version="15" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Ravanusa"/>
     <tag k="name:scn" v="Rivinusa"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10453"/>
     <tag k="postal_code" v="92029"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q372261"/>
-    <tag k="wikipedia" v="it:Ravanusa"/>
   </node>
   <node id="67253806" lat="37.4324601" lon="13.5562347" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Santa Elisabetta"/>
@@ -5614,15 +5610,13 @@
     <tag k="population" v="9063"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67255188" lat="37.9668039" lon="14.2916918" version="16" timestamp="2023-01-30T05:23:44Z" changeset="131863544" uid="8215303" user="ross-map">
+  <node id="67255188" lat="37.9668039" lon="14.2916918" version="17" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="name" v="Pettineo"/>
     <tag k="name:scn" v="Pittineu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1228"/>
     <tag k="postal_code" v="98070"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q497435"/>
-    <tag k="wikipedia" v="it:Pettineo (Italia)"/>
   </node>
   <node id="67255232" lat="38.0680617" lon="14.6333345" version="16" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Sant'Àita di Militieɖɖu"/>
@@ -5772,12 +5766,15 @@
     <tag k="population" v="7545"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256482" lat="38.0484487" lon="13.3905539" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256482" lat="38.0485261" lon="13.3910630" version="14" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
+    <tag k="ele" v="356"/>
     <tag k="name" v="Belmonte Mezzagno"/>
     <tag k="name:scn" v="Bilmunti Minzagnu"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10927"/>
+    <tag k="population" v="10904"/>
     <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.belmonte.pa.it/"/>
   </node>
   <node id="67256486" lat="38.0471029" lon="13.1426837" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Borgetto"/>
