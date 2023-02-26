@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-25T02:47:55Z" areas="2023-02-25T02:05:23Z"/>
+<meta osm_base="2023-02-26T02:55:22Z" areas="2023-02-26T02:13:49Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3803,6 +3803,15 @@
     <tag k="wikidata" v="Q25195"/>
     <tag k="wikipedia" v="it:Rossa (Italia)"/>
   </node>
+  <node id="63631165" lat="45.3576129" lon="8.3888418" version="8" timestamp="2023-01-17T20:07:31Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+    <tag k="capital" v="8"/>
+    <tag k="gfoss_id" v="333"/>
+    <tag k="name" v="Caresanablot"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="988"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023760"/>
+  </node>
   <node id="63631617" lat="45.9566296" lon="8.5838347" version="5" timestamp="2023-01-19T10:02:16Z" changeset="131457530" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="8027"/>
     <tag k="is_in" v="Verbano-Cusio-Ossola, Piemonte, Italy"/>
@@ -6692,7 +6701,7 @@
     <tag k="population" v="3428"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274778" lat="39.6181990" lon="16.1596870" version="2" timestamp="2016-08-28T18:58:40Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274778" lat="39.6149201" lon="16.1583495" version="3" timestamp="2023-02-25T10:45:59Z" changeset="132999892" uid="18546446" user="Bazooka_">
     <tag k="gfoss_id" v="6589"/>
     <tag k="name" v="Roggiano Gravina"/>
     <tag k="place" v="village"/>
