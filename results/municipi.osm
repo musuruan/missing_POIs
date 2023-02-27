@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-26T02:50:13Z" areas="2023-02-26T02:20:47Z"/>
+<meta osm_base="2023-02-27T02:42:58Z" areas="2023-02-27T02:24:49Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -709,7 +709,7 @@
     <tag k="population" v="4093"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510662" lat="45.1764963" lon="9.9148339" version="5" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510662" lat="45.1764963" lon="9.9148339" version="6" timestamp="2023-02-26T21:58:14Z" changeset="133060902" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2661"/>
     <tag k="name" v="Sesto Cremonese"/>
     <tag k="place" v="village"/>
@@ -717,6 +717,7 @@
     <tag k="postal_code" v="26028"/>
     <tag k="ref:ISTAT" v="019095"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q18488731"/>
   </node>
   <node id="62510729" lat="45.1890700" lon="9.7898650" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2642"/>

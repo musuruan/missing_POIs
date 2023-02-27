@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-26T02:56:24Z" areas="2023-02-26T02:20:47Z"/>
+<meta osm_base="2023-02-27T02:50:07Z" areas="2023-02-27T02:24:49Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -346,12 +346,12 @@
     <tag k="population" v="1231"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753609" lat="44.2935397" lon="10.1311647" version="5" timestamp="2017-04-02T18:19:32Z" changeset="47389387" uid="1834719" user="LvdT">
+  <node id="61753609" lat="44.2930697" lon="10.1305261" version="6" timestamp="2023-02-26T13:19:21Z" changeset="133042293" uid="16850240" user="Optic_Fiber">
     <tag k="ele" v="530"/>
     <tag k="gfoss_id" v="4411"/>
     <tag k="name" v="Comano"/>
     <tag k="name:egl" v="Comàn"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="hamlet"/>
     <tag k="population" v="799"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -1713,10 +1713,11 @@
     <tag k="population" v="1700"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509273" lat="46.0067559" lon="9.0831114" version="5" timestamp="2020-03-01T13:58:49Z" changeset="81644592" uid="9616185" user="LukeDH">
+  <node id="62509273" lat="46.0067559" lon="9.0831114" version="6" timestamp="2023-02-26T12:49:02Z" changeset="133041112" uid="43207" user="kdkeller">
     <tag k="ele" v="280"/>
     <tag k="name" v="Osteno"/>
     <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q13101032"/>
   </node>
   <node id="62509356" lat="45.7155801" lon="8.9830741" version="6" timestamp="2020-04-23T14:51:16Z" changeset="84008844" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1654"/>
@@ -1822,9 +1823,10 @@
     <tag k="population" v="261"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510087" lat="45.8591679" lon="9.1592920" version="3" timestamp="2014-01-18T16:43:36Z" changeset="20069179" uid="69717" user="kaitu">
+  <node id="62510087" lat="45.8591679" lon="9.1592920" version="4" timestamp="2023-02-26T12:49:02Z" changeset="133041112" uid="43207" user="kdkeller">
     <tag k="name" v="Lemna"/>
     <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q13100877"/>
   </node>
   <node id="62510124" lat="46.1711426" lon="9.3514943" version="4" timestamp="2022-03-22T15:14:31Z" changeset="118782907" uid="10901495" user="Martino Scaglione">
     <tag k="ele" v="430"/>
@@ -1888,12 +1890,13 @@
     <tag k="population" v="1634"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510553" lat="45.2161874" lon="10.2215208" version="5" timestamp="2022-11-26T17:28:44Z" changeset="129410343" uid="465052" user="hecktor">
+  <node id="62510553" lat="45.2161874" lon="10.2215208" version="6" timestamp="2023-02-26T21:58:09Z" changeset="133060902" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2611"/>
     <tag k="name" v="Gabbioneta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="845"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q18488363"/>
   </node>
   <node id="62510559" lat="45.3032710" lon="9.6560600" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2600"/>
@@ -1903,11 +1906,12 @@
     <tag k="wikidata" v="Q3696842"/>
     <tag k="wikipedia" v="it:Credera"/>
   </node>
-  <node id="62510565" lat="45.3324720" lon="9.6926610" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510565" lat="45.3324720" lon="9.6926610" version="4" timestamp="2023-02-26T21:58:12Z" changeset="133060902" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2647"/>
     <tag k="name" v="Ripalta Nuova"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1607"/>
+    <tag k="wikidata" v="Q18488619"/>
   </node>
   <node id="62510573" lat="45.2003707" lon="10.0503375" version="4" timestamp="2021-01-08T15:16:38Z" changeset="97177755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="2643"/>
@@ -11257,16 +11261,6 @@
     <tag k="population" v="3563"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254572" lat="37.4941730" lon="14.6497153" version="16" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="alt_name" v="Castel di Judica"/>
-    <tag k="alt_name:scn" v="Castel di Jùdica"/>
-    <tag k="name" v="Castel di Iudica"/>
-    <tag k="name:scn" v="Jardineddi"/>
-    <tag k="old_name" v="Giardinelli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4312"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
   <node id="67254730" lat="37.6101657" lon="15.0967587" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Viagrande"/>
     <tag k="name:scn" v="Varanni"/>
@@ -12172,15 +12166,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="14474"/>
     <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67257091" lat="37.6828513" lon="12.7955336" version="12" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
-    <tag k="name" v="Castelvetrano"/>
-    <tag k="name:scn" v="Castedduvitranu"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="29398"/>
-    <tag k="postal_code" v="91022"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="website" v="https://comune.castelvetrano.tp.it/"/>
   </node>
   <node id="67257114" lat="37.7713420" lon="12.8776390" version="7" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="name" v="Santa Ninfa"/>
@@ -27177,7 +27162,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3170"/>
   </node>
-  <node id="677679441" lat="46.0725932" lon="9.1096304" version="2" timestamp="2014-05-19T23:09:46Z" changeset="22435320" uid="69717" user="kaitu">
+  <node id="677679441" lat="46.0725932" lon="9.1096304" version="3" timestamp="2023-02-26T12:48:59Z" changeset="133041112" uid="43207" user="kdkeller">
     <tag k="ele" v="1044"/>
     <tag k="gfoss_id" v="12088"/>
     <tag k="istat_id" v="1323310001"/>
@@ -27185,6 +27170,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="106"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q3646649"/>
   </node>
   <node id="677679475" lat="46.0283776" lon="9.1825386" version="1" timestamp="2010-03-29T19:45:23Z" changeset="4270832" uid="68842" user="noperante">
     <tag k="ele" v="377"/>
@@ -27810,9 +27796,10 @@
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024225"/>
   </node>
-  <node id="2064845279" lat="45.9897732" lon="9.0942129" version="2" timestamp="2014-01-31T17:10:31Z" changeset="20303312" uid="1476146" user="Alecs01">
+  <node id="2064845279" lat="45.9897732" lon="9.0942129" version="3" timestamp="2023-02-26T12:49:09Z" changeset="133041112" uid="43207" user="kdkeller">
     <tag k="name" v="Ponna Superiore"/>
     <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q18487770"/>
   </node>
   <node id="2079322088" lat="43.7165530" lon="12.3760477" version="3" timestamp="2016-09-09T17:36:29Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="ele" v="343"/>
