@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-27T02:49:08Z" areas="2023-02-27T02:34:54Z"/>
+<meta osm_base="2023-02-28T02:51:20Z" areas="2023-02-28T02:37:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1491,12 +1491,13 @@
     <tag k="population" v="558"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62514649" lat="45.0009590" lon="9.1034540" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62514649" lat="45.0009590" lon="9.1034540" version="3" timestamp="2023-02-27T21:40:26Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2471"/>
     <tag k="name" v="Montebello della Battaglia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1647"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q91019693"/>
   </node>
   <node id="62514670" lat="45.0101856" lon="9.1623970" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2433"/>
@@ -1655,12 +1656,13 @@
     <tag k="ref:ISTAT" v="018090"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515351" lat="45.0369456" lon="9.3155381" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515351" lat="45.0369456" lon="9.3155381" version="4" timestamp="2023-02-27T21:40:25Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2476"/>
     <tag k="name" v="Montù Beccaria"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1683"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q90041801"/>
   </node>
   <node id="62515365" lat="45.0966059" lon="9.3628461" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2381"/>
@@ -5282,13 +5284,6 @@
     <tag k="name" v="Erli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="244"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="66587040" lat="44.0056260" lon="8.0292490" version="2" timestamp="2016-09-24T23:13:28Z" changeset="42413443" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="1248"/>
-    <tag k="name" v="Testico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="200"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66587048" lat="44.3902587" lon="8.2079522" version="4" timestamp="2016-10-01T18:39:44Z" changeset="42568713" uid="743479" user="fayor">
