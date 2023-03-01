@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
+<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-02-28T02:51:20Z" areas="2023-02-28T02:37:00Z"/>
+<meta osm_base="2023-03-01T03:02:15Z" areas="2023-03-01T02:02:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -471,6 +471,14 @@
     <tag k="name" v="Bulgarograsso"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2989"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62509100" lat="45.8342780" lon="8.9427350" version="3" timestamp="2017-06-03T18:20:27Z" changeset="49226257" uid="1476146" user="Alecs01">
+    <tag k="gfoss_id" v="1513"/>
+    <tag k="is_in" v="Como, Lombardia, Italy"/>
+    <tag k="name" v="Bizzarone"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1495"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62509127" lat="46.0168950" lon="10.3283620" version="2" timestamp="2020-04-03T16:41:28Z" changeset="83045910" uid="478872" user="mcheck">
