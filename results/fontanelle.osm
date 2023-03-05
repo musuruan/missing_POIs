@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-04T02:48:48Z" areas="2023-03-04T02:31:25Z"/>
+<meta osm_base="2023-03-05T00:34:52Z" areas="2023-03-05T00:03:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1539,11 +1539,11 @@
     <tag k="wikidata" v="Q42287"/>
     <tag k="wikipedia" v="it:San Zenone al Lambro"/>
   </node>
-  <node id="62514743" lat="45.4794715" lon="9.0546807" version="11" timestamp="2023-03-02T14:27:31Z" changeset="133214282" uid="9616185" user="LukeDH">
+  <node id="62514743" lat="45.4794715" lon="9.0546807" version="12" timestamp="2023-03-04T21:43:04Z" changeset="133307232" uid="10901495" user="Martino Scaglione">
     <tag k="loc_name" v="Settim"/>
     <tag k="name" v="Settimo Milanese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5900"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="17134"/>
     <tag k="wikidata" v="Q43042"/>
   </node>
   <node id="62514856" lat="45.5278124" lon="9.1169467" version="15" timestamp="2022-12-16T16:42:15Z" changeset="130163231" uid="362065" user="GFS">
@@ -15365,18 +15365,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2000"/>
   </node>
-  <node id="7279974866" lat="45.5980297" lon="9.0401233" version="10" timestamp="2023-03-02T14:27:31Z" changeset="133214282" uid="9616185" user="LukeDH">
-    <tag k="loc_name" v="Càronn"/>
-    <tag k="loc_name:pronunciation" v="kaˈrɔ̃ː"/>
-    <tag k="name" v="Caronno Milanese"/>
-    <tag k="name:lmo" v="Càronn"/>
-    <tag k="name:lmo:pronunciation" v="kaˈrɔ̃ː"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9800"/>
-    <tag k="short_name" v="Caronno"/>
-    <tag k="wikidata" v="Q40824"/>
-    <tag k="wikipedia" v="it:Caronno Pertusella"/>
-  </node>
   <node id="7853050795" lat="42.0887415" lon="14.2171622" version="2" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
     <tag k="name" v="Civitella Messer Raimondo"/>
     <tag k="place" v="village"/>
@@ -15391,6 +15379,18 @@
   <node id="9070591861" lat="41.8451813" lon="13.5359209" version="1" timestamp="2021-09-07T13:33:26Z" changeset="110861595" uid="4930752" user="datamove">
     <tag k="name" v="San Vincenzo Valle Roveto"/>
     <tag k="place" v="village"/>
+  </node>
+  <node id="9456508975" lat="45.5971023" lon="9.0509248" version="7" timestamp="2023-03-04T21:43:04Z" changeset="133307232" uid="10901495" user="Martino Scaglione">
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="194"/>
+    <tag k="name" v="Caronno Pertusella"/>
+    <tag k="name:lmo" v="Càronn Pertüsela"/>
+    <tag k="name:lmo:pronunciation" v="kaˈrɔ̃ː pertyˈzɛla"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="16377"/>
+    <tag k="wikidata" v="Q40824"/>
+    <tag k="wikimedia_commons" v="Category:Caronno Pertusella"/>
+    <tag k="wikipedia" v="it:Caronno Pertusella"/>
   </node>
 
 </osm>
