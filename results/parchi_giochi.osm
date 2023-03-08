@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59 e21c39fe">
+<osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-07T03:11:00Z" areas="2023-03-07T02:32:38Z"/>
+<meta osm_base="2023-03-08T03:29:36Z" areas="2023-03-08T03:19:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -9205,13 +9205,6 @@
     <tag k="population" v="6374"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778691" lat="45.8673585" lon="12.1037673" version="5" timestamp="2020-12-23T22:26:47Z" changeset="96349041" uid="504502" user="kkklllppp">
-    <tag k="gfoss_id" v="3426"/>
-    <tag k="name" v="Moriago della Battaglia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2627"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778698" lat="45.7791032" lon="12.4203368" version="5" timestamp="2021-01-22T17:21:44Z" changeset="97988827" uid="504502" user="kkklllppp">
     <tag k="gfoss_id" v="3430"/>
     <tag k="name" v="Ormelle"/>
@@ -9803,9 +9796,9 @@
     <tag k="population" v="1516"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502909" lat="46.0453055" lon="12.8679995" version="13" timestamp="2022-12-07T15:06:46Z" changeset="129825927" uid="2521964" user="furlanlaghee">
+  <node id="66502909" lat="46.0453055" lon="12.8679995" version="14" timestamp="2023-03-07T16:52:16Z" changeset="133410671" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7543"/>
-    <tag k="loc_name" v="San 'Sors"/>
+    <tag k="loc_name:fur" v="San 'Sors"/>
     <tag k="name" v="San Giorgio della Richinvelda / San Zorç da la Richinvelde"/>
     <tag k="name:fur" v="San Zorç da la Richinvelde"/>
     <tag k="name:it" v="San Giorgio della Richinvelda"/>
@@ -9837,10 +9830,11 @@
     <tag k="population" v="465"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503009" lat="46.0208288" lon="12.8637610" version="8" timestamp="2022-12-07T15:06:46Z" changeset="129825927" uid="2521964" user="furlanlaghee">
+  <node id="66503009" lat="46.0208288" lon="12.8637610" version="9" timestamp="2023-03-07T16:52:16Z" changeset="133410671" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7544"/>
     <tag k="name" v="San Martino al Tagliamento / San Martin dal Tiliment"/>
     <tag k="name:fur" v="San Martin dal Tiliment"/>
+    <tag k="name:it" v="San Martino al Tagliamento"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1336"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -10189,9 +10183,9 @@
     <tag k="population" v="2969"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503502" lat="46.1260654" lon="13.0315790" version="9" timestamp="2022-04-14T08:13:04Z" changeset="119700109" uid="361003" user="Cascafico">
+  <node id="66503502" lat="46.1260654" lon="13.0315790" version="10" timestamp="2023-03-07T16:52:16Z" changeset="133410671" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3766"/>
-    <tag k="loc_name" v="Rives Darcjan"/>
+    <tag k="loc_name:fur" v="Rives Darcjan"/>
     <tag k="name" v="Rive d'Arcano"/>
     <tag k="name:fur" v="Rivis Darcjan"/>
     <tag k="place" v="village"/>
