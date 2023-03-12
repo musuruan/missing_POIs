@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-08T03:27:22Z" areas="2023-03-08T03:19:23Z"/>
+<meta osm_base="2023-03-12T02:58:22Z" areas="2023-03-12T02:09:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -5090,10 +5090,11 @@
     <tag k="population" v="2326"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503242" lat="46.2559997" lon="13.0809181" version="8" timestamp="2022-12-11T18:32:03Z" changeset="129971902" uid="2521964" user="furlanlaghee">
+  <node id="66503242" lat="46.2559997" lon="13.0809181" version="9" timestamp="2023-03-09T16:46:28Z" changeset="133486484" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3737"/>
     <tag k="name" v="Osoppo / Osôf"/>
     <tag k="name:fur" v="Osôf"/>
+    <tag k="name:it" v="Osoppo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2889"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -5824,7 +5825,7 @@
     <tag k="population" v="3443"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256598" lat="37.9035790" lon="13.8154701" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256598" lat="37.9038816" lon="13.8154084" version="13" timestamp="2023-03-08T09:28:56Z" changeset="133432832" uid="923271" user="aldoct">
     <tag k="name" v="Cerda"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4940"/>
@@ -7903,13 +7904,6 @@
     <tag k="population" v="940"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284344" lat="41.5987240" lon="14.1049170" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7574"/>
-    <tag k="name" v="Colli a Volturno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1407"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284353" lat="41.6559250" lon="14.1023160" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7571"/>
     <tag k="name" v="Cerro al Volturno"/>
@@ -7945,13 +7939,6 @@
     <tag k="population" v="1959"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284413" lat="41.6067273" lon="14.1394889" version="3" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7578"/>
-    <tag k="name" v="Fornelli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1985"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284433" lat="41.6968199" lon="14.2335322" version="4" timestamp="2016-09-03T02:35:25Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7598"/>
     <tag k="name" v="Roccasicura"/>
@@ -7964,13 +7951,6 @@
     <tag k="name" v="Sant'Elena Sannita"/>
     <tag k="place" v="village"/>
     <tag k="population" v="277"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67284450" lat="41.5527250" lon="14.3682240" version="2" timestamp="2016-09-03T02:35:28Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7602"/>
-    <tag k="name" v="Santa Maria del Molise"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="654"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67284465" lat="41.6381618" lon="14.3315648" version="4" timestamp="2016-09-03T02:35:28Z" changeset="41880656" uid="743479" user="fayor">
@@ -9439,13 +9419,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q499139"/>
     <tag k="wikipedia" v="it:Villa Literno"/>
-  </node>
-  <node id="68580344" lat="40.9955725" lon="14.2073729" version="3" timestamp="2016-09-02T23:58:46Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5248"/>
-    <tag k="name" v="Teverola"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14291"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68580376" lat="40.9160204" lon="14.2680178" version="5" timestamp="2020-02-16T12:40:48Z" changeset="81070066" uid="8778675" user="melovesosm">
     <tag k="gfoss_id" v="5343"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-08T03:29:36Z" areas="2023-03-08T03:19:23Z"/>
+<meta osm_base="2023-03-12T03:01:23Z" areas="2023-03-12T02:09:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -825,14 +825,6 @@
     <tag k="name" v="Cividate al Piano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4869"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506427" lat="45.7578026" lon="10.0202068" version="2" timestamp="2014-05-28T08:02:24Z" changeset="22595354" uid="139580" user="morsi">
-    <tag k="gfoss_id" v="2025"/>
-    <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
-    <tag k="name" v="Fonteno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="697"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506441" lat="45.6375780" lon="9.5563520" version="1" timestamp="2007-10-10T06:18:17Z" changeset="85182" uid="864" user="Niccolo">
@@ -5895,16 +5887,6 @@
     <tag k="population" v="725"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63624998" lat="45.6868680" lon="8.2467220" version="6" timestamp="2023-01-17T19:57:08Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="ele" v="377"/>
-    <tag k="gfoss_id" v="7708"/>
-    <tag k="name" v="Crevacuore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1876"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18057"/>
-    <tag k="wikipedia" v="it:Crevacuore"/>
-  </node>
   <node id="63625017" lat="45.5813541" lon="8.0987784" version="5" timestamp="2023-01-17T19:56:34Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="7738"/>
     <tag k="name" v="Ronco Biellese"/>
@@ -8107,7 +8089,7 @@
     <tag k="source:population" v="Istat"/>
     <tag k="wikidata" v="Q30022344"/>
   </node>
-  <node id="63631704" lat="46.1344914" lon="8.3271138" version="2" timestamp="2023-03-01T11:41:08Z" changeset="133168172" uid="18567094" user="Piero Tiziani">
+  <node id="63631704" lat="46.1344914" lon="8.3271138" version="2" timestamp="2023-03-01T11:41:08Z" changeset="133168172" uid="18567094" user="user_18567094">
     <tag k="name" v="Masera"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1429"/>
@@ -9762,9 +9744,9 @@
     <tag k="population" v="424"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502865" lat="46.2299006" lon="12.9155542" version="6" timestamp="2019-05-16T23:53:11Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66502865" lat="46.2299006" lon="12.9155542" version="7" timestamp="2023-03-09T16:46:28Z" changeset="133486484" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7522"/>
-    <tag k="loc_name" v="Clausiet"/>
+    <tag k="loc_name:fur" v="Clausiet"/>
     <tag k="name" v="Clauzetto"/>
     <tag k="name:fur" v="Clausêt"/>
     <tag k="place" v="village"/>
@@ -9943,11 +9925,12 @@
     <tag k="population" v="3788"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503191" lat="45.9270160" lon="12.9451240" version="6" timestamp="2023-03-06T17:26:35Z" changeset="133373110" uid="129060" user="Klenje">
+  <node id="66503191" lat="45.9270160" lon="12.9451240" version="7" timestamp="2023-03-08T09:41:54Z" changeset="133433310" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3686"/>
     <tag k="loc_name:fur" v="Cjamin"/>
     <tag k="name" v="Camino al Tagliamento / Cjamin dal Tiliment"/>
     <tag k="name:fur" v="Cjamin dal Tiliment"/>
+    <tag k="name:it" v="Camino al Tagliamento"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1632"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -11259,15 +11242,12 @@
     <tag k="population" v="8670"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254822" lat="37.4954203" lon="14.3907910" version="13" timestamp="2023-03-05T09:36:09Z" changeset="133317757" uid="8215303" user="ross-map">
+  <node id="67254822" lat="37.4954203" lon="14.3907910" version="14" timestamp="2023-03-09T15:52:45Z" changeset="133484592" uid="743479" user="fayor">
     <tag k="name" v="Valguarnera Caropepe"/>
     <tag k="name:scn" v="Carrapipi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7019"/>
-    <tag k="postal_code" v="94019"/>
     <tag k="source" v="Istat gennaio 2022"/>
-    <tag k="wikidata" v="Q56213"/>
-    <tag k="wikipedia" v="it:Valguarnera Caropepe"/>
   </node>
   <node id="67254835" lat="37.6279049" lon="14.4238862" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
     <tag k="alt_name:la" v="Asaru"/>
@@ -18590,16 +18570,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="22730"/>
     <tag k="wikidata" v="Q81341"/>
-  </node>
-  <node id="68581313" lat="40.6336700" lon="14.6026095" version="7" timestamp="2020-08-08T16:45:20Z" changeset="89133407" uid="10866488" user="sfusato">
-    <tag k="gfoss_id" v="5555"/>
-    <tag k="name" v="Amalfi"/>
-    <tag k="name:ru" v="Амальфи"/>
-    <tag k="name:zh" v="阿马尔菲"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5428"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.amalfi.com"/>
   </node>
   <node id="68581335" lat="40.4784224" lon="15.1166081" version="3" timestamp="2016-08-30T01:07:05Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5552"/>
