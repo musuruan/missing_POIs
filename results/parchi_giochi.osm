@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-12T03:01:23Z" areas="2023-03-12T02:09:35Z"/>
+<meta osm_base="2023-03-14T02:55:44Z" areas="2023-03-14T02:36:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -8012,15 +8012,6 @@
     <tag k="wikidata" v="Q30022998"/>
     <tag k="wikipedia" v="it:Borgo Vercelli"/>
   </node>
-  <node id="63631215" lat="45.3494350" lon="8.0531020" version="9" timestamp="2023-01-17T19:54:07Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="325"/>
-    <tag k="name" v="Borgo d'Ale"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2565"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q24896"/>
-  </node>
   <node id="63631252" lat="45.3651580" lon="8.0729250" version="6" timestamp="2023-01-17T20:07:22Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="318"/>
@@ -9693,9 +9684,9 @@
     <tag k="population" v="1530"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502726" lat="45.9414163" lon="13.5136289" version="8" timestamp="2017-05-02T19:42:36Z" changeset="48345647" uid="1553347" user="MitjaJez">
+  <node id="66502726" lat="45.9414163" lon="13.5136289" version="9" timestamp="2023-03-13T21:14:07Z" changeset="133642017" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3809"/>
-    <tag k="loc_name" v="Capriva"/>
+    <tag k="loc_name:fur" v="Capriva"/>
     <tag k="name" v="Capriva del Friuli"/>
     <tag k="name:fur" v="Caprive"/>
     <tag k="name:it" v="Capriva del Friuli"/>
@@ -9970,14 +9961,6 @@
     <tag k="population" v="637"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503212" lat="46.5272704" lon="12.9892339" version="5" timestamp="2019-05-16T23:53:48Z" changeset="70338353" uid="97922" user="damjang">
-    <tag k="gfoss_id" v="3693"/>
-    <tag k="name" v="Cercivento"/>
-    <tag k="name:fur" v="Çurçuvint"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="771"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66503222" lat="45.8355150" lon="13.1008290" version="4" timestamp="2019-05-16T23:53:49Z" changeset="70338353" uid="97922" user="damjang">
     <tag k="gfoss_id" v="3746"/>
     <tag k="name" v="Pocenia"/>
@@ -10092,9 +10075,9 @@
     <tag k="population" v="456"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503348" lat="45.8008548" lon="13.3457543" version="6" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
+  <node id="66503348" lat="45.8008548" lon="13.3457543" version="7" timestamp="2023-03-13T21:14:07Z" changeset="133642017" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3791"/>
-    <tag k="loc_name" v="Tiars"/>
+    <tag k="loc_name:fur" v="Tiars"/>
     <tag k="name" v="Terzo d'Aquileia"/>
     <tag k="name:fur" v="Tierç"/>
     <tag k="place" v="village"/>
@@ -10157,9 +10140,9 @@
     <tag k="population" v="490"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503498" lat="45.8382313" lon="13.4019302" version="5" timestamp="2019-05-16T23:54:27Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503498" lat="45.8382313" lon="13.4019302" version="6" timestamp="2023-03-13T21:14:07Z" changeset="133642017" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3769"/>
-    <tag k="loc_name" v="Ruda"/>
+    <tag k="loc_name:fur" v="Ruda"/>
     <tag k="name" v="Ruda"/>
     <tag k="name:fur" v="Rude"/>
     <tag k="place" v="village"/>
@@ -26995,19 +26978,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="6886"/>
   </node>
-  <node id="408479171" lat="44.2142924" lon="11.5040816" version="8" timestamp="2017-05-02T18:37:12Z" changeset="48343640" uid="1834719" user="LvdT">
-    <tag k="ele" v="215"/>
-    <tag k="name" v="Castel del Rio"/>
-    <tag k="name:rgn" v="Castèl de Rè"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1233"/>
-    <tag k="postal_code" v="40022"/>
-    <tag k="ref:ISTAT" v="037014"/>
-    <tag k="ref:catasto" v="C086"/>
-    <tag k="website" v="http://www.casteldelrio.provincia.bologna.it/"/>
-    <tag k="wikidata" v="Q94717"/>
-    <tag k="wikipedia" v="it:Castel del Rio"/>
-  </node>
   <node id="410831525" lat="44.0864021" lon="8.1474179" version="2" timestamp="2016-09-24T23:13:24Z" changeset="42413443" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1213"/>
     <tag k="name" v="Cisano sul Neva"/>
@@ -27046,11 +27016,12 @@
     <tag k="wikidata" v="Q100040"/>
     <tag k="wikipedia" v="it:Camposanto"/>
   </node>
-  <node id="506692510" lat="45.8096604" lon="13.4448012" version="4" timestamp="2017-03-12T14:10:42Z" changeset="46785853" uid="354284" user="sbiribizio">
+  <node id="506692510" lat="45.8096604" lon="13.4448012" version="5" timestamp="2023-03-13T21:14:07Z" changeset="133642017" uid="129060" user="Klenje">
     <tag k="ele" v="8"/>
     <tag k="gfoss_id" v="34161"/>
     <tag k="istat_id" v="2147483647"/>
     <tag k="name" v="Pieris"/>
+    <tag k="name:fur" v="Pieris"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3140"/>
     <tag k="wikidata" v="Q3903065"/>
@@ -28406,7 +28377,8 @@
     <tag k="wikidata" v="Q103832"/>
     <tag k="wikipedia" v="it:Castelcovati"/>
   </node>
-  <node id="5960566531" lat="42.5021621" lon="13.7828321" version="1" timestamp="2018-10-06T04:12:03Z" changeset="63247651" uid="478872" user="mcheck">
+  <node id="5960566531" lat="42.5021621" lon="13.7828321" version="2" timestamp="2023-03-13T14:27:57Z" changeset="133628100" uid="1940323" user="SekeRob">
+    <tag k="ele" v="470"/>
     <tag k="gfoss_id" v="5818"/>
     <tag k="name" v="Arsita"/>
     <tag k="place" v="village"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-12T02:58:22Z" areas="2023-03-12T02:09:35Z"/>
+<meta osm_base="2023-03-14T02:53:31Z" areas="2023-03-14T02:36:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -9055,6 +9055,13 @@
     <tag k="name" v="San Giorgio La Molara"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3297"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68579529" lat="41.1568180" lon="14.5278320" version="2" timestamp="2016-09-01T23:10:05Z" changeset="41859282" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="5295"/>
+    <tag k="name" v="Frasso Telesino"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2708"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68579536" lat="41.1605703" lon="14.5053103" version="3" timestamp="2016-09-01T23:10:07Z" changeset="41859282" uid="743479" user="fayor">
