@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-14T02:55:44Z" areas="2023-03-14T02:36:29Z"/>
+<meta osm_base="2023-03-17T02:51:13Z" areas="2023-03-17T02:15:50Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1736,11 +1736,12 @@
     <tag k="population" v="302"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509552" lat="45.8783832" lon="9.1586626" version="3" timestamp="2013-07-18T23:32:50Z" changeset="17006206" uid="69717" user="kaitu">
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
+  <node id="62509552" lat="45.8783832" lon="9.1586626" version="4" timestamp="2023-03-15T14:40:01Z" changeset="133713125" uid="69717" user="kaitu">
     <tag k="name" v="Pognana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="774"/>
+    <tag k="wikidata" v="Q30028963"/>
+    <tag k="wikimedia_commons" v="Category:Pognana"/>
   </node>
   <node id="62509590" lat="46.1603890" lon="9.2947360" version="2" timestamp="2010-09-24T19:22:19Z" changeset="5865672" uid="110639" user="aighes">
     <tag k="gfoss_id" v="1615"/>
@@ -9716,9 +9717,9 @@
     <tag k="population" v="1892"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502785" lat="45.9312174" lon="13.5285489" version="6" timestamp="2020-04-03T20:26:31Z" changeset="83052843" uid="2842498" user="Igorzo">
+  <node id="66502785" lat="45.9312174" lon="13.5285489" version="7" timestamp="2023-03-14T22:28:43Z" changeset="133687107" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3828"/>
-    <tag k="loc_name" v="San Lurinz"/>
+    <tag k="loc_name:fur" v="San Lurinz"/>
     <tag k="name" v="San Lorenzo Isontino"/>
     <tag k="name:fur" v="Sant Lurinç dal Lusinç"/>
     <tag k="name:sl" v="Šlovrenc"/>
@@ -27463,7 +27464,7 @@
     <tag k="name" v="Jovençan"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="1763679242" lat="45.7527192" lon="7.5551973" version="4" timestamp="2017-08-01T11:26:29Z" changeset="50749839" uid="6052402" user="CUSPC">
+  <node id="1763679242" lat="45.7525526" lon="7.5553260" version="5" timestamp="2023-03-15T16:02:38Z" changeset="133716106" uid="571665" user="Walk60">
     <tag k="alt_name" v="Chef-Lieu"/>
     <tag k="name" v="Saint-Denis - Capoluogo"/>
     <tag k="place" v="hamlet"/>
@@ -27580,9 +27581,10 @@
     <tag k="wikipedia" v="it:Belvì"/>
     <tag k="wikipedia:sc" v="Brebì"/>
   </node>
-  <node id="1831456395" lat="46.4035784" lon="12.8230913" version="10" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
+  <node id="1831456395" lat="46.4035784" lon="12.8230913" version="11" timestamp="2023-03-16T21:23:26Z" changeset="133766037" uid="129060" user="Klenje">
+    <tag k="loc_name:fur" v="Midias"/>
     <tag k="name" v="Mediis"/>
-    <tag k="name:fur" v="Midias"/>
+    <tag k="name:fur" v="Midiis"/>
     <tag k="place" v="village"/>
     <tag k="population" v="149"/>
     <tag k="wikidata" v="Q3853796"/>
