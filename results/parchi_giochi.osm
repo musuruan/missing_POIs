@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-22T03:08:38Z" areas="2023-03-22T02:17:52Z"/>
+<meta osm_base="2023-03-24T02:58:25Z" areas="2023-03-24T02:43:10Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -108,13 +108,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q82704"/>
     <tag k="wikipedia" v="it:Gambassi Terme"/>
-  </node>
-  <node id="61753433" lat="43.7589215" lon="10.8790130" version="5" timestamp="2016-09-13T21:24:50Z" changeset="42136022" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4489"/>
-    <tag k="name" v="Cerreto Guidi"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10870"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753436" lat="44.1124753" lon="11.5477477" version="7" timestamp="2021-09-13T21:52:55Z" changeset="111166684" uid="69259" user="DnaX">
     <tag k="gfoss_id" v="4508"/>
@@ -5530,7 +5523,7 @@
     <tag k="wikidata" v="Q17803"/>
     <tag k="wikipedia" v="it:Cortanze"/>
   </node>
-  <node id="63623579" lat="44.9983510" lon="8.2994360" version="6" timestamp="2023-02-20T14:52:16Z" changeset="132794938" uid="743479" user="fayor">
+  <node id="63623579" lat="44.9983510" lon="8.2994360" version="7" timestamp="2023-03-22T11:26:48Z" changeset="133974124" uid="1967477" user="bubix">
     <tag k="description" v="Il paese ha cambiato denominazione. https://www.agenziaentrate.gov.it/portale/documents/20143/4988606/Risoluzione+4+del+6+febbraio+2023.pdf/d8493c76-94ce-f2d0-531b-c63c093c582f"/>
     <tag k="gfoss_id" v="794"/>
     <tag k="name" v="Grana Monferrato"/>
@@ -5538,6 +5531,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="611"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q17813"/>
+    <tag k="wikipedia" v="it:Grana Monferrato"/>
   </node>
   <node id="63623583" lat="45.0049008" lon="8.1688056" version="3" timestamp="2022-12-31T14:59:42Z" changeset="130724216" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="793"/>
@@ -9814,9 +9809,9 @@
     <tag k="population" v="1272"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503065" lat="46.3088622" lon="12.7884970" version="6" timestamp="2019-05-16T23:53:30Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503065" lat="46.3088622" lon="12.7884970" version="7" timestamp="2023-03-23T13:32:12Z" changeset="134023356" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7550"/>
-    <tag k="loc_name" v="Vildisora"/>
+    <tag k="loc_name:fur" v="Vildisora"/>
     <tag k="name" v="Tramonti di Sopra"/>
     <tag k="name:fur" v="Tramonç Disore"/>
     <tag k="place" v="village"/>
@@ -22427,7 +22422,7 @@
     <tag k="population" v="1854"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960760" lat="41.3115150" lon="13.7357130" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960760" lat="41.3063513" lon="13.7318836" version="5" timestamp="2023-03-23T20:39:22Z" changeset="134039994" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5063"/>
     <tag k="name" v="Spigno Saturnia"/>
     <tag k="place" v="village"/>
