@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-24T02:30:02Z" areas="2023-03-24T01:43:23Z"/>
+<meta osm_base="2023-03-26T02:32:34Z" areas="2023-03-26T02:03:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1829,12 +1829,13 @@
     <tag k="population" v="675"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509341" lat="45.8575910" lon="9.1162943" version="5" timestamp="2022-10-11T03:17:44Z" changeset="127332292" uid="14309561" user="kmpoppe (@ Mapillary Update)">
+  <node id="62509341" lat="45.8575910" lon="9.1162943" version="6" timestamp="2023-03-25T17:59:13Z" changeset="134113159" uid="69717" user="kaitu">
     <tag k="mapillary" v="323403319143186"/>
     <tag k="name" v="Torno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1222"/>
     <tag k="tourism" v="yes"/>
+    <tag k="wikidata" v="Q30031169"/>
   </node>
   <node id="62509382" lat="46.0834861" lon="9.1491275" version="2" timestamp="2009-06-12T10:45:21Z" changeset="1494798" uid="103957" user="Simonexxx83">
     <tag k="created_by" v="JOSM"/>
@@ -21844,7 +21845,7 @@
     <tag k="name" v="Hône"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="342436162" lat="45.7411525" lon="7.4693953" version="3" timestamp="2021-05-12T11:19:58Z" changeset="104569418" uid="571665" user="Walk60">
+  <node id="342436162" lat="45.7403340" lon="7.4693455" version="4" timestamp="2023-03-25T21:40:47Z" changeset="134119177" uid="18794293" user="HeadAsylum432">
     <tag k="name" v="Nus"/>
     <tag k="place" v="village"/>
   </node>
@@ -22206,7 +22207,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="285"/>
   </node>
-  <node id="1353509434" lat="45.8736327" lon="7.4229025" version="7" timestamp="2022-01-06T17:56:53Z" changeset="115847955" uid="11220113" user="ivanbranco">
+  <node id="1353509434" lat="45.8736327" lon="7.4229025" version="8" timestamp="2023-03-25T21:47:10Z" changeset="134119316" uid="18794293" user="HeadAsylum432">
+    <tag k="alt_name" v="Bionaz"/>
     <tag k="name" v="Plan de Veyne"/>
     <tag k="place" v="hamlet"/>
   </node>

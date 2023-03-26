@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.2 0994154d">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-03-24T02:58:25Z" areas="2023-03-24T02:43:10Z"/>
+<meta osm_base="2023-03-26T03:00:56Z" areas="2023-03-26T02:03:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1712,12 +1712,12 @@
     <tag k="population" v="302"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509552" lat="45.8783832" lon="9.1586626" version="4" timestamp="2023-03-15T14:40:01Z" changeset="133713125" uid="69717" user="kaitu">
+  <node id="62509552" lat="45.8783832" lon="9.1586626" version="5" timestamp="2023-03-25T15:06:30Z" changeset="134107080" uid="69717" user="kaitu">
     <tag k="name" v="Pognana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="774"/>
     <tag k="wikidata" v="Q30028963"/>
-    <tag k="wikimedia_commons" v="Category:Pognana"/>
+    <tag k="wikimedia_commons" v="Category:Pognana (Pognana Lario)"/>
   </node>
   <node id="62509590" lat="46.1603890" lon="9.2947360" version="2" timestamp="2010-09-24T19:22:19Z" changeset="5865672" uid="110639" user="aighes">
     <tag k="gfoss_id" v="1615"/>
@@ -7476,12 +7476,10 @@
     <tag k="population" v="1704"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629686" lat="45.5833024" lon="7.8104064" version="5" timestamp="2023-01-17T19:54:29Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="57"/>
+  <node id="63629686" lat="45.5841595" lon="7.8118976" version="6" timestamp="2023-03-25T21:58:39Z" changeset="134119578" uid="18794293" user="HeadAsylum432">
     <tag k="name" v="Carema"/>
     <tag k="place" v="village"/>
     <tag k="population" v="770"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63629715" lat="45.2000490" lon="7.5689170" version="4" timestamp="2023-01-17T19:54:10Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="220"/>
@@ -7595,14 +7593,6 @@
     <tag k="population" v="966"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18444565"/>
-  </node>
-  <node id="63629974" lat="45.5629600" lon="7.8073150" version="5" timestamp="2023-01-17T20:01:32Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="210"/>
-    <tag k="name" v="Quincinetto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q10213"/>
   </node>
   <node id="63630011" lat="45.2890930" lon="7.4041615" version="5" timestamp="2023-01-17T19:53:07Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="188"/>
@@ -17830,12 +17820,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.museincampania.it/spip.php?page=musei_dettaglio&amp;id_museo=110"/>
   </node>
-  <node id="68579918" lat="41.2447180" lon="14.3356270" version="2" timestamp="2016-09-02T23:58:37Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="68579918" lat="41.2447180" lon="14.3356270" version="3" timestamp="2023-03-24T20:26:00Z" changeset="134083561" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5159"/>
     <tag k="name" v="Alvignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4950"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q58435"/>
+    <tag k="wikipedia" v="it:Alvignano"/>
   </node>
   <node id="68579922" lat="41.0370179" lon="14.3362944" version="3" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5260"/>
@@ -27205,9 +27197,9 @@
     <tag k="name" v="Casatta"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="1258081254" lat="45.7615649" lon="7.5321619" version="4" timestamp="2023-01-29T08:15:19Z" changeset="131831779" uid="1550808" user="marcogino">
+  <node id="1258081254" lat="45.7615649" lon="7.5321619" version="5" timestamp="2023-03-25T21:37:33Z" changeset="134119092" uid="18794293" user="HeadAsylum432">
     <tag k="ele" v="1017"/>
-    <tag k="name" v="Verrayes capoluogo"/>
+    <tag k="name" v="Verrayes"/>
     <tag k="place" v="village"/>
   </node>
   <node id="1271008791" lat="45.3636394" lon="11.3390076" version="2" timestamp="2021-03-28T13:48:08Z" changeset="101874419" uid="504502" user="kkklllppp">
@@ -27270,7 +27262,8 @@
     <tag k="population" v="1083"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="1353509434" lat="45.8736327" lon="7.4229025" version="7" timestamp="2022-01-06T17:56:53Z" changeset="115847955" uid="11220113" user="ivanbranco">
+  <node id="1353509434" lat="45.8736327" lon="7.4229025" version="8" timestamp="2023-03-25T21:47:10Z" changeset="134119316" uid="18794293" user="HeadAsylum432">
+    <tag k="alt_name" v="Bionaz"/>
     <tag k="name" v="Plan de Veyne"/>
     <tag k="place" v="hamlet"/>
   </node>
