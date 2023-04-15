@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-14T02:26:47Z" areas="2023-04-13T22:22:08Z"/>
+<meta osm_base="2023-04-15T02:28:15Z" areas="2023-04-14T23:00:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -150,10 +150,10 @@
     <tag k="wikidata" v="Q82884"/>
     <tag k="wikipedia" v="it:Vinci"/>
   </node>
-  <node id="61753482" lat="42.8715131" lon="11.5387645" version="3" timestamp="2022-01-03T21:04:46Z" changeset="115728526" uid="12462490" user="Rodamati">
+  <node id="61753482" lat="42.8715131" lon="11.5387645" version="4" timestamp="2023-04-14T21:59:14Z" changeset="134922345" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4659"/>
     <tag k="name" v="Arcidosso"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="4114"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -164,10 +164,10 @@
     <tag k="population" v="2695"/>
     <tag k="postal_code" v="58044"/>
   </node>
-  <node id="61753504" lat="42.8932352" lon="11.5383804" version="4" timestamp="2016-09-11T17:22:56Z" changeset="42083429" uid="743479" user="fayor">
+  <node id="61753504" lat="42.8932352" lon="11.5383804" version="5" timestamp="2023-04-14T21:59:14Z" changeset="134922345" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4662"/>
     <tag k="name" v="Castel del Piano"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="4331"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -400,10 +400,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q102555"/>
   </node>
-  <node id="61753680" lat="43.1607652" lon="11.3879245" version="7" timestamp="2019-12-02T08:46:49Z" changeset="77807329" uid="9616185" user="LukeDH">
+  <node id="61753680" lat="43.1607652" lon="11.3879245" version="8" timestamp="2023-04-14T21:59:14Z" changeset="134922345" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4641"/>
     <tag k="name" v="Murlo"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="1932"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -430,10 +430,10 @@
     <tag k="wikidata" v="Q91382"/>
     <tag k="wikipedia" v="it:Radicondoli"/>
   </node>
-  <node id="61753713" lat="42.8965067" lon="11.7697064" version="3" timestamp="2019-04-16T08:35:55Z" changeset="69261699" uid="3335899" user="GBAB">
+  <node id="61753713" lat="42.8965067" lon="11.7697064" version="4" timestamp="2023-04-14T21:59:14Z" changeset="134922345" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4646"/>
     <tag k="name" v="Radicofani"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="1219"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -11793,13 +11793,6 @@
     <tag k="name" v="Lascari"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3652"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67256642" lat="38.1982950" lon="13.2473444" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
-    <tag k="name" v="Isola delle Femmine"/>
-    <tag k="name:scn" v="Isula"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7001"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="67256646" lat="38.0352205" lon="13.4514041" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
@@ -26870,9 +26863,9 @@
     <tag k="wikidata" v="Q100919"/>
     <tag k="wikipedia" v="it:San Secondo Parmense"/>
   </node>
-  <node id="394739006" lat="43.0593353" lon="11.6044087" version="10" timestamp="2018-05-30T17:52:35Z" changeset="59405802" uid="923271" user="aldoct">
+  <node id="394739006" lat="43.0593353" lon="11.6044087" version="11" timestamp="2023-04-14T21:16:52Z" changeset="134921398" uid="17965418" user="DabMK">
     <tag k="name" v="San Quirico d'Orcia"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="city"/>
     <tag k="population" v="2662"/>
   </node>
   <node id="395603809" lat="43.9567671" lon="12.1959387" version="5" timestamp="2022-01-27T23:08:19Z" changeset="116685553" uid="554973" user="dgitto">
@@ -27185,12 +27178,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="48"/>
   </node>
-  <node id="1296554287" lat="42.9899110" lon="11.8687316" version="5" timestamp="2017-03-11T12:54:08Z" changeset="46761779" uid="354284" user="sbiribizio">
+  <node id="1296554287" lat="42.9899110" lon="11.8687316" version="6" timestamp="2023-04-14T21:59:14Z" changeset="134922345" uid="17965418" user="DabMK">
     <tag k="ele" v="573"/>
     <tag k="gfoss_id" v="48369"/>
     <tag k="istat_id" v="2147483647"/>
     <tag k="name" v="Sarteano"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="city"/>
     <tag k="population" v="4717"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q91447"/>
@@ -27331,10 +27324,10 @@
     <tag k="wikidata" v="Q42922"/>
     <tag k="wikipedia" v="it:Paullo"/>
   </node>
-  <node id="1716415318" lat="43.0165076" lon="11.9477118" version="6" timestamp="2022-06-18T18:39:17Z" changeset="122556915" uid="923271" user="aldoct">
+  <node id="1716415318" lat="43.0165076" lon="11.9477118" version="7" timestamp="2023-04-14T21:59:14Z" changeset="134922345" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4633"/>
     <tag k="name" v="Chiusi"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="city"/>
     <tag k="population" v="8704"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q91185"/>

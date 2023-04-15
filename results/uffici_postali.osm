@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-14T02:23:52Z" areas="2023-04-13T22:22:08Z"/>
+<meta osm_base="2023-04-15T02:25:19Z" areas="2023-04-15T00:07:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -149,7 +149,7 @@
     <tag k="wikidata" v="Q102716"/>
     <tag k="wikipedia" v="it:Quarrata"/>
   </node>
-  <node id="61753681" lat="42.8809724" lon="11.6724203" version="5" timestamp="2017-03-11T12:52:28Z" changeset="46761779" uid="354284" user="sbiribizio">
+  <node id="61753681" lat="42.8809724" lon="11.6724203" version="6" timestamp="2023-04-14T21:16:52Z" changeset="134921398" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4623"/>
     <tag k="name" v="Abbadia San Salvatore"/>
     <tag k="name:be" v="Абадзія-Сан-Сальваторэ"/>
@@ -159,7 +159,7 @@
     <tag k="name:ru" v="Аббадия-Сан-Сальваторе"/>
     <tag k="name:uk" v="Аббадія-Сан-Сальваторе"/>
     <tag k="name:zh" v="阿巴迪亚圣萨尔瓦托雷"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="city"/>
     <tag k="population" v="6832"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q91096"/>
@@ -173,10 +173,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q102652"/>
   </node>
-  <node id="61753700" lat="43.0071166" lon="11.6155411" version="3" timestamp="2016-09-11T17:22:56Z" changeset="42083429" uid="743479" user="fayor">
+  <node id="61753700" lat="43.0071166" lon="11.6155411" version="4" timestamp="2023-04-14T21:16:52Z" changeset="134921398" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4629"/>
     <tag k="name" v="Castiglione d'Orcia"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="2508"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -185,6 +185,14 @@
     <tag k="name" v="Castelnuovo Berardenga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9097"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="61753707" lat="43.4682951" lon="11.4342003" version="7" timestamp="2023-04-14T21:59:14Z" changeset="134922345" uid="17965418" user="DabMK">
+    <tag k="gfoss_id" v="4635"/>
+    <tag k="name" v="Gaiole in Chianti"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="2386"/>
+    <tag k="postal_code" v="53013"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753737" lat="43.4677993" lon="11.0432115" version="16" timestamp="2021-09-24T16:26:05Z" changeset="111656041" uid="11220113" user="ivanbranco">
@@ -764,14 +772,6 @@
     <tag k="name" v="Cisano Bergamasco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5605"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506711" lat="45.6508189" lon="9.8480158" version="2" timestamp="2012-02-23T07:01:05Z" changeset="10765607" uid="139580" user="morsi">
-    <tag k="gfoss_id" v="1997"/>
-    <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
-    <tag k="name" v="Chiuduno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5051"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506720" lat="45.6605820" lon="9.9310600" version="1" timestamp="2007-10-10T06:18:28Z" changeset="85182" uid="864" user="Niccolo">
@@ -22561,9 +22561,9 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2401"/>
   </node>
-  <node id="3362027422" lat="43.4650284" lon="11.1483367" version="3" timestamp="2016-10-27T15:13:43Z" changeset="43219620" uid="2511706" user="calfarome">
+  <node id="3362027422" lat="43.4650284" lon="11.1483367" version="4" timestamp="2023-04-14T21:16:52Z" changeset="134921398" uid="17965418" user="DabMK">
     <tag k="name" v="Poggibonsi"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="city"/>
     <tag k="population" v="29196"/>
     <tag k="wikidata" v="Q91350"/>
   </node>
