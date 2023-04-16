@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-15T02:27:23Z" areas="2023-04-14T23:00:23Z"/>
+<meta osm_base="2023-04-16T02:32:31Z" areas="2023-04-15T23:53:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -4930,13 +4930,6 @@
     <tag k="name" v="Villaga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1859"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64779236" lat="45.4284910" lon="11.5031990" version="2" timestamp="2016-10-08T21:08:55Z" changeset="42742263" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3308"/>
-    <tag k="name" v="Zovencedo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="866"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64779239" lat="45.7336727" lon="11.5214968" version="5" timestamp="2022-11-09T21:56:45Z" changeset="128705486" uid="8432340" user="ascanio12">
@@ -14779,9 +14772,10 @@
     <tag k="population" v="358"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="1736600352" lat="45.7150864" lon="7.2763432" version="6" timestamp="2017-08-23T07:57:28Z" changeset="51365451" uid="6052402" user="CUSPC">
+  <node id="1736600352" lat="45.7150864" lon="7.2763432" version="8" timestamp="2023-04-15T23:34:43Z" changeset="134958487" uid="18892689" user="ComitéNosAccents">
     <tag k="ele" v="632"/>
     <tag k="name" v="Jovençan"/>
+    <tag k="name:frp" v="Dzonsàn;Dzoénsàn"/>
     <tag k="place" v="village"/>
   </node>
   <node id="1805561779" lat="39.6811693" lon="8.8338449" version="40" timestamp="2017-03-01T21:25:43Z" changeset="46505334" uid="454589" user="sabas88">
