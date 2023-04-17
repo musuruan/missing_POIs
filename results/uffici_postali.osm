@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-16T02:30:27Z" areas="2023-04-15T20:08:54Z"/>
+<meta osm_base="2023-04-17T02:26:23Z" areas="2023-04-15T20:08:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -149,7 +149,7 @@
     <tag k="wikidata" v="Q102716"/>
     <tag k="wikipedia" v="it:Quarrata"/>
   </node>
-  <node id="61753681" lat="42.8809724" lon="11.6724203" version="6" timestamp="2023-04-14T21:16:52Z" changeset="134921398" uid="17965418" user="DabMK">
+  <node id="61753681" lat="42.8809724" lon="11.6724203" version="8" timestamp="2023-04-16T20:29:53Z" changeset="134991012" uid="178610" user="Pab09">
     <tag k="gfoss_id" v="4623"/>
     <tag k="name" v="Abbadia San Salvatore"/>
     <tag k="name:be" v="Абадзія-Сан-Сальваторэ"/>
@@ -159,7 +159,7 @@
     <tag k="name:ru" v="Аббадия-Сан-Сальваторе"/>
     <tag k="name:uk" v="Аббадія-Сан-Сальваторе"/>
     <tag k="name:zh" v="阿巴迪亚圣萨尔瓦托雷"/>
-    <tag k="place" v="city"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="6832"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q91096"/>
@@ -173,10 +173,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q102652"/>
   </node>
-  <node id="61753700" lat="43.0071166" lon="11.6155411" version="4" timestamp="2023-04-14T21:16:52Z" changeset="134921398" uid="17965418" user="DabMK">
+  <node id="61753700" lat="43.0071166" lon="11.6155411" version="5" timestamp="2023-04-16T20:54:29Z" changeset="134991699" uid="178610" user="Pab09">
     <tag k="gfoss_id" v="4629"/>
     <tag k="name" v="Castiglione d'Orcia"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="2508"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -22308,7 +22308,7 @@
     <tag k="population" v="611"/>
     <tag k="wikidata" v="Q18494139"/>
   </node>
-  <node id="1924400001" lat="43.8402554" lon="10.6165432" version="3" timestamp="2022-04-17T17:23:41Z" changeset="119825471" uid="3335899" user="GBAB">
+  <node id="1924400001" lat="43.8401177" lon="10.6164074" version="4" timestamp="2023-04-16T16:09:42Z" changeset="134981758" uid="3335899" user="GBAB">
     <tag k="name" v="Porcari"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8845"/>
@@ -22569,9 +22569,9 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2401"/>
   </node>
-  <node id="3362027422" lat="43.4650284" lon="11.1483367" version="4" timestamp="2023-04-14T21:16:52Z" changeset="134921398" uid="17965418" user="DabMK">
+  <node id="3362027422" lat="43.4650284" lon="11.1483367" version="5" timestamp="2023-04-16T18:31:50Z" changeset="134987294" uid="17965418" user="DabMK">
     <tag k="name" v="Poggibonsi"/>
-    <tag k="place" v="city"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="29196"/>
     <tag k="wikidata" v="Q91350"/>
   </node>
