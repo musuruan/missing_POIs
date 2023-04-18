@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-17T02:29:16Z" areas="2023-04-15T20:08:54Z"/>
+<meta osm_base="2023-04-18T02:27:52Z" areas="2023-04-15T20:08:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -21758,13 +21758,6 @@
     <tag k="population" v="1809"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993741" lat="42.5944010" lon="13.7396474" version="3" timestamp="2016-09-07T17:42:32Z" changeset="41985059" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5820"/>
-    <tag k="name" v="Basciano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2381"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70993746" lat="42.7418470" lon="13.8101950" version="3" timestamp="2016-09-07T17:42:32Z" changeset="41985059" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5821"/>
     <tag k="name" v="Bellante"/>
@@ -21834,15 +21827,6 @@
     <tag k="website" v="https://italia.indettaglio.it/ita/abruzzo/cermignano.html"/>
     <tag k="wikidata" v="Q51439"/>
     <tag k="wikipedia" v="it:Cermignano"/>
-  </node>
-  <node id="70993896" lat="42.5934430" lon="13.7721960" version="3" timestamp="2020-07-08T10:16:00Z" changeset="87703327" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5848"/>
-    <tag k="name" v="Penna Sant'Andrea"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1761"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51459"/>
-    <tag k="wikipedia" v="it:Penna Sant'Andrea"/>
   </node>
   <node id="70993903" lat="42.5235400" lon="13.5553920" version="3" timestamp="2016-09-07T17:42:34Z" changeset="41985059" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5849"/>
@@ -28303,9 +28287,11 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2000"/>
   </node>
-  <node id="7757111115" lat="38.8233552" lon="16.4263838" version="1" timestamp="2020-07-27T16:15:58Z" changeset="88575718" uid="7645685" user="gianluca nigozza">
+  <node id="7757111115" lat="38.8233552" lon="16.4263838" version="2" timestamp="2023-04-17T14:34:43Z" changeset="135017967" uid="14295845" user="Rocco_I">
+    <tag k="addr:postcode" v="88024"/>
     <tag k="name" v="Girifalco"/>
     <tag k="place" v="town"/>
+    <tag k="website" v="https://www.comune.girifalco.cz.it/"/>
   </node>
   <node id="7856975265" lat="40.2421263" lon="15.8689875" version="3" timestamp="2022-09-12T17:49:54Z" changeset="126101102" uid="923271" user="aldoct">
     <tag k="gfoss_id" v="6404"/>
