@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-19T02:27:20Z" areas="2023-04-18T23:16:54Z"/>
+<meta osm_base="2023-04-20T02:25:08Z" areas="2023-04-15T20:08:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -3211,7 +3211,7 @@
     <tag k="population" v="113"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253724" lat="38.0174321" lon="12.5159920" version="27" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
+  <node id="67253724" lat="38.0174321" lon="12.5159920" version="28" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="capital" v="6"/>
     <tag k="name" v="Trapani"/>
     <tag k="name:an" v="Tràpani"/>
@@ -3234,10 +3234,9 @@
     <tag k="name:sr" v="Трапани"/>
     <tag k="name:uk" v="Трапані"/>
     <tag k="name:zh" v="特拉帕尼"/>
-    <tag k="note" v="popolazione ottenuta sottraendo dal dato istat di gennaio 2022 gli 8669 abitanti di Misiliscemi (L.R. 3/2021)"/>
     <tag k="place" v="city"/>
-    <tag k="population" v="55817"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="55524"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67273444" lat="38.9962900" lon="16.5796040" version="2" timestamp="2016-08-28T18:58:24Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6667"/>

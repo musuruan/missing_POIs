@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-19T02:30:15Z" areas="2023-04-15T20:08:54Z"/>
+<meta osm_base="2023-04-20T02:28:09Z" areas="2023-04-15T20:08:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -10824,7 +10824,7 @@
     <tag k="population" v="822"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253724" lat="38.0174321" lon="12.5159920" version="27" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
+  <node id="67253724" lat="38.0174321" lon="12.5159920" version="28" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="capital" v="6"/>
     <tag k="name" v="Trapani"/>
     <tag k="name:an" v="Tràpani"/>
@@ -10847,10 +10847,9 @@
     <tag k="name:sr" v="Трапани"/>
     <tag k="name:uk" v="Трапані"/>
     <tag k="name:zh" v="特拉帕尼"/>
-    <tag k="note" v="popolazione ottenuta sottraendo dal dato istat di gennaio 2022 gli 8669 abitanti di Misiliscemi (L.R. 3/2021)"/>
     <tag k="place" v="city"/>
-    <tag k="population" v="55817"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="55524"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67253728" lat="35.5035259" lon="12.6066887" version="16" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
     <tag k="alt_name:ar" v="لامبيدوسا"/>
@@ -10860,34 +10859,34 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4839"/>
   </node>
-  <node id="67253732" lat="37.5700419" lon="13.4546092" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253732" lat="37.5700419" lon="13.4546092" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Alessandria della Rocca"/>
     <tag k="name:scn" v="Lisciànnira di la Rocca"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2500"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="24380"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253740" lat="37.5261400" lon="13.2898510" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253740" lat="37.5261400" lon="13.2898510" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Calamonaci"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1173"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1158"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253754" lat="37.3485851" lon="13.7500957" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253754" lat="37.3485851" lon="13.7500957" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Castrofilippo"/>
     <tag k="name:scn" v="Castrufilippu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2597"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2613"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253758" lat="37.4079410" lon="13.6429590" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253758" lat="37.4079410" lon="13.6429590" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Comitini"/>
     <tag k="name:scn" v="Cumitini"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="887"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="849"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253770" lat="37.3929390" lon="13.3507530" version="18" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253770" lat="37.3929390" lon="13.3507530" version="19" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Muntallè"/>
     <tag k="name" v="Montallegro"/>
     <tag k="name:ar" v="مونتاليغرو"/>
@@ -10896,150 +10895,150 @@
     <tag k="name:scn" v="Muntallegru"/>
     <tag k="name:uk" v="Монталлегро"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2369"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2376"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253776" lat="37.6066390" lon="12.9678430" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253776" lat="37.6066390" lon="12.9678430" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Menfi"/>
     <tag k="name:scn" v="Mènfrici"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11747"/>
+    <tag k="population" v="11820"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67253780" lat="37.2962200" lon="13.7915674" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253780" lat="37.2962200" lon="13.7915674" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Naro"/>
     <tag k="name:scn" v="Naru"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6977"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="7006"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253785" lat="37.7022410" lon="12.9858420" version="13" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
+  <node id="67253785" lat="37.7022410" lon="12.9858420" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Montevago"/>
     <tag k="name:scn" v="Muntivau"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2713"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2701"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253796" lat="37.1916637" lon="13.7637141" version="16" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253796" lat="37.1916637" lon="13.7637141" version="17" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Donnafugata"/>
     <tag k="name" v="Palma di Montechiaro"/>
     <tag k="name:ru" v="Пальма-ди-Монтекьяро"/>
     <tag k="name:scn" v="Parma di Muntichiaru"/>
     <tag k="name:uk" v="Пальма-ді-Монтек'яро"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="21251"/>
+    <tag k="population" v="21358"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67253806" lat="37.4324601" lon="13.5562347" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253806" lat="37.4324601" lon="13.5562347" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Santa Elisabetta"/>
     <tag k="name:scn" v="'a Sabbetta"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2137"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2186"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253811" lat="37.6299364" lon="13.6413747" version="15" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67253811" lat="37.6299364" lon="13.6413747" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="San Giovanni Gemini"/>
     <tag k="name:scn" v="San Giuvanni"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="7532"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="7512"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253815" lat="37.4790152" lon="13.5443155" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253815" lat="37.4790152" lon="13.5443155" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Sant'Angelo Muxaro"/>
     <tag k="name:scn" v="Sant'Àngilu Muxaru"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1156"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1150"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253819" lat="37.6920516" lon="13.0201940" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253819" lat="37.6920516" lon="13.0201940" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Santa Margherita di Belice"/>
     <tag k="name:scn" v="Santa Margarita"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6004"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6044"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253824" lat="37.6173969" lon="13.4397692" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253824" lat="37.6173969" lon="13.4397692" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Bivona"/>
     <tag k="name:scn" v="Vivona"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3226"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3208"/>
+    <tag k="source" v="Istat gennaio 2023"/>
     <tag k="website" v="https://edition.cnn.com/travel/article/one-euro-home-italy-bivona/index.html"/>
   </node>
-  <node id="67253832" lat="37.3380858" lon="13.4219962" version="18" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253832" lat="37.3380858" lon="13.4219962" version="19" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Siculiana"/>
     <tag k="name:ar" v="سيكوليانا"/>
     <tag k="name:it" v="Siculiana"/>
     <tag k="name:ru" v="Сикульяна"/>
     <tag k="name:uk" v="Сікуліана"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4078"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4141"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253841" lat="37.2522942" lon="13.7935999" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253841" lat="37.2522942" lon="13.7935999" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Camastra"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1915"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2005"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253853" lat="37.2584400" lon="13.9182660" version="15" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253853" lat="37.2584400" lon="13.9182660" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Campobello di Licata"/>
     <tag k="name:ru" v="Кампобелло-ди-Ликата"/>
     <tag k="name:scn" v="Camubieɖɖru"/>
     <tag k="name:uk" v="Кампобелло-ді-Ліката"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="9093"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="9055"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253860" lat="37.5994420" lon="13.2901500" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253860" lat="37.5994420" lon="13.2901500" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Burgio"/>
     <tag k="name:scn" v="Burgiu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2514"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2495"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253929" lat="37.5790488" lon="13.3065678" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253929" lat="37.5790488" lon="13.3065678" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Lucca Sicula"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1729"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1718"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253933" lat="37.5090143" lon="13.5242820" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253933" lat="37.5090143" lon="13.5242820" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="San Biagio Platani"/>
     <tag k="name:scn" v="Sammrasi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2878"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2852"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253937" lat="37.6250274" lon="13.4907602" version="17" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67253937" lat="37.6250274" lon="13.4907602" version="18" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Santo Stefano Quisquina"/>
     <tag k="name:scn" v="Santu Stèfanu Quisquina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4138"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4061"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253941" lat="37.5027873" lon="13.2661885" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253941" lat="37.5027873" lon="13.2661885" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Ribera"/>
     <tag k="name:scn" v="Rivela"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="17871"/>
+    <tag k="population" v="17808"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67253952" lat="37.6477395" lon="13.1110313" version="17" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67253952" lat="37.6477395" lon="13.1110313" version="18" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Zabut"/>
     <tag k="name" v="Sambuca di Sicilia"/>
     <tag k="name:scn" v="Sammuca"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5385"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="5336"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253968" lat="37.5719991" lon="13.7028911" version="14" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67253968" lat="37.5719991" lon="13.7028911" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Acquaviva Platani"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="864"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="867"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253978" lat="37.4408400" lon="13.3920540" version="17" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253978" lat="37.4408400" lon="13.3920540" version="18" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Cattolica Eraclea"/>
     <tag k="name:ar" v="كاتوليكا إيراكليا"/>
     <tag k="name:it" v="Cattolica Eraclea"/>
@@ -11047,179 +11046,179 @@
     <tag k="name:scn" v="Catòlica"/>
     <tag k="name:uk" v="Каттоліка-Ераклеа"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3307"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3305"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253995" lat="37.5881410" lon="13.2892500" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67253995" lat="37.5881410" lon="13.2892500" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Villafranca Sicula"/>
     <tag k="name:scn" v="Villafranca"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1342"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1325"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254005" lat="37.4535082" lon="13.8162377" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254005" lat="37.4535082" lon="13.8162377" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Montedoro"/>
     <tag k="name:scn" v="Muntidoru"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1393"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1383"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254012" lat="37.4715206" lon="13.7364367" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254012" lat="37.4715206" lon="13.7364367" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Milena"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2714"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2703"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254049" lat="37.3342349" lon="13.9911109" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254049" lat="37.3342349" lon="13.9911109" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Sommatino"/>
     <tag k="name:scn" v="Summatinu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6385"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6400"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254054" lat="37.4538430" lon="13.8804630" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254054" lat="37.4538430" lon="13.8804630" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Serradifalco"/>
     <tag k="name:scn" v="Serradifarcu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5554"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="5480"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254072" lat="37.6786480" lon="14.0294640" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254072" lat="37.6786480" lon="14.0294640" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Resuttano"/>
     <tag k="name:scn" v="Resuttanu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1760"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1752"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254100" lat="37.5104792" lon="13.7110436" version="15" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67254100" lat="37.5104792" lon="13.7110436" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Campofranco"/>
     <tag k="name:scn" v="Campufrancu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2708"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2651"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254138" lat="37.5974460" lon="13.9157630" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254138" lat="37.5974460" lon="13.9157630" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Marianopoli"/>
     <tag k="name:scn" v="Paisi di Manchi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1632"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1602"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254156" lat="37.3050236" lon="14.2140779" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254156" lat="37.3050236" lon="14.2140779" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Mazzarino"/>
     <tag k="name:scn" v="Mazzarinu"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11043"/>
+    <tag k="population" v="10929"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254193" lat="37.2819611" lon="14.0824138" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254193" lat="37.2819611" lon="14.0824138" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Riesi"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10532"/>
+    <tag k="population" v="10501"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254289" lat="37.6063923" lon="15.1268948" version="15" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254289" lat="37.6063923" lon="15.1268948" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Aci Sant'Antonio"/>
     <tag k="name:scn" v="Sant'Antoni"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="17864"/>
+    <tag k="population" v="17964"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254361" lat="37.7923548" lon="15.2069456" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254361" lat="37.7923548" lon="15.2069456" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Fiumefreddo di Sicilia"/>
     <tag k="name:scn" v="Ciumifriddu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="9013"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="9055"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254372" lat="37.8624231" lon="14.8078349" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254372" lat="37.8624231" lon="14.8078349" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Maniace"/>
     <tag k="name:scn" v="Maniàci"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3753"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3758"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254475" lat="37.2795627" lon="14.4260202" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254475" lat="37.2795627" lon="14.4260202" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="San Michele di Ganzaria"/>
     <tag k="name:scn" v="San Micheli di Ganzarìa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2875"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254481" lat="37.5652540" lon="15.1117880" version="17" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254481" lat="37.5652540" lon="15.1117880" version="18" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="San Gregorio di Catania"/>
     <tag k="name:ar" v="سان جريجوريو دي كاتانيا"/>
     <tag k="name:ru" v="Сан-Григорио-дель-Катании"/>
     <tag k="name:scn" v="San Grigoriu"/>
     <tag k="name:uk" v="Сан-Грегоріо-ді-Катанія"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11450"/>
+    <tag k="population" v="11490"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254525" lat="37.0833929" lon="14.5616741" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254525" lat="37.0833929" lon="14.5616741" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Mazzarrone"/>
     <tag k="name:scn" v="Mazzarruni"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3937"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3952"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254546" lat="37.8290222" lon="14.8656644" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254546" lat="37.8290222" lon="14.8656644" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Maletto"/>
     <tag k="name:scn" v="Malettu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3563"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3604"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254730" lat="37.6101657" lon="15.0967587" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254730" lat="37.6101657" lon="15.0967587" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Viagrande"/>
     <tag k="name:scn" v="Varanni"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="8670"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="8884"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254822" lat="37.4954203" lon="14.3907910" version="14" timestamp="2023-03-09T15:52:45Z" changeset="133484592" uid="743479" user="fayor">
+  <node id="67254822" lat="37.4954203" lon="14.3907910" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Valguarnera Caropepe"/>
     <tag k="name:scn" v="Carrapipi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="7019"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6955"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254842" lat="37.7103507" lon="14.5356897" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254842" lat="37.7103507" lon="14.5356897" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Gagliano Castelferrato"/>
     <tag k="name:scn" v="Agghianu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3334"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3256"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254848" lat="37.8106540" lon="14.5072730" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254848" lat="37.8106540" lon="14.5072730" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Cerami"/>
     <tag k="name:scn" v="Cirami"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1839"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1854"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254878" lat="37.5901914" lon="14.2719716" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254878" lat="37.5901914" lon="14.2719716" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Calascibetta"/>
     <tag k="name:it" v="Calascibetta"/>
     <tag k="name:scn" v="Calatascibetta"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4123"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4056"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254886" lat="37.3728434" lon="14.2033133" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254886" lat="37.3728434" lon="14.2033133" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Barrafranca"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11887"/>
+    <tag k="population" v="11797"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254893" lat="37.6552774" lon="14.4494678" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254893" lat="37.6552774" lon="14.4494678" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Nissoria"/>
     <tag k="name:scn" v="Nissurìa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2821"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2837"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254900" lat="37.6229520" lon="14.7390790" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254900" lat="37.6229520" lon="14.7390790" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Centuripe"/>
     <tag k="name:en" v="Centuripe"/>
     <tag k="name:ru" v="Чентурипе"/>
@@ -11227,38 +11226,38 @@
     <tag k="name:uk" v="Чентурипе"/>
     <tag k="old_name" v="Kentoripa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5098"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="5017"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254936" lat="37.9772620" lon="15.2447860" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254936" lat="37.9772620" lon="15.2447860" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Antiɖɖu"/>
     <tag k="name" v="Antillo"/>
     <tag k="name:scn" v="Antiḍḍu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="840"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="808"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254952" lat="37.8489090" lon="14.4784730" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254952" lat="37.8489090" lon="14.4784730" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Capizzi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2873"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2842"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254991" lat="37.4215639" lon="14.1370261" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254991" lat="37.4215639" lon="14.1370261" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Pietraperzia"/>
     <tag k="name:ar" v="بيترابيرزيا"/>
     <tag k="name:scn" v="Petrapirzia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6369"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6302"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254999" lat="37.7655191" lon="14.3516256" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67254999" lat="37.7655191" lon="14.3516256" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Spillinga"/>
     <tag k="name" v="Sperlinga"/>
     <tag k="name:scn" v="Sperrënga"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="697"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="672"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67255026" lat="37.9034002" lon="15.2754256" version="11" timestamp="2020-06-18T14:38:59Z" changeset="86830972" uid="743479" user="fayor">
     <tag k="ele" v="410"/>
@@ -11274,745 +11273,745 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1436"/>
   </node>
-  <node id="67255039" lat="38.0272713" lon="14.7526560" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255039" lat="38.0272713" lon="14.7526560" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Longi"/>
     <tag k="name:scn" v="Lonci"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1345"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1321"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255042" lat="38.0968660" lon="14.9583399" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255042" lat="38.0968660" lon="14.9583399" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Librizzi"/>
     <tag k="name:scn" v="Libbrizzi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1570"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1579"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255048" lat="37.8802614" lon="15.3064429" version="18" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255048" lat="37.8802614" lon="15.3064429" version="19" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Letojanni"/>
     <tag k="name:scn" v="Lotijanni"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2810"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2833"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255059" lat="38.0459174" lon="14.6760173" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255059" lat="38.0459174" lon="14.6760173" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Militeɖɖu"/>
     <tag k="name" v="Militello Rosmarino"/>
     <tag k="name:scn" v="Militeḍḍu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1174"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1161"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255069" lat="38.1669407" lon="15.2516409" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255069" lat="38.1669407" lon="15.2516409" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Merì"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2305"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2282"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255088" lat="37.9183933" lon="15.0553829" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255088" lat="37.9183933" lon="15.0553829" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="710"/>
     <tag k="name" v="Malvagna"/>
     <tag k="name:scn" v="Marvagna"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="638"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="631"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255098" lat="37.9612044" lon="15.3817350" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255098" lat="37.9612044" lon="15.3817350" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Furci Siculo"/>
     <tag k="name:scn" v="Furci Siculu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3199"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3205"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255112" lat="37.9137205" lon="15.3354491" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255112" lat="37.9137205" lon="15.3354491" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="420"/>
     <tag k="name" v="Forza d'Agrò"/>
     <tag k="name:ru" v="Форца-д'Агро"/>
     <tag k="name:scn" v="'a Forza"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="844"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="831"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255125" lat="37.9873511" lon="14.9097135" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255125" lat="37.9873511" lon="14.9097135" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Fluresta"/>
     <tag k="ele" v="1270"/>
     <tag k="name" v="Floresta"/>
     <tag k="name:scn" v="a Furesta"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="470"/>
+    <tag k="population" v="473"/>
     <tag k="short_name:scn" v="Furesta"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255167" lat="38.0315592" lon="14.7725171" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255167" lat="38.0315592" lon="14.7725171" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Galati Mamertino"/>
     <tag k="name:scn" v="Jalati"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2313"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2254"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255220" lat="38.1234806" lon="15.0608492" version="16" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255220" lat="38.1234806" lon="15.0608492" version="17" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="5"/>
     <tag k="name" v="Oliveri"/>
     <tag k="name:scn" v="u Liveri"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2038"/>
+    <tag k="population" v="2088"/>
     <tag k="short_name:scn" v="Liveri"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255238" lat="38.0552610" lon="14.9095780" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255238" lat="38.0552610" lon="14.9095780" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Raccuja"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="887"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="856"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255244" lat="37.9301966" lon="15.2680955" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255244" lat="37.9301966" lon="15.2680955" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="723"/>
     <tag k="istat_id" v="083071"/>
     <tag k="name" v="Roccafiorita"/>
     <tag k="name:scn" v="Roccaciurita"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="182"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="172"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255258" lat="37.9298854" lon="14.3628727" version="20" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67255258" lat="37.9298854" lon="14.3628727" version="21" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Mistretta"/>
     <tag k="name:scn" v="Mistritta"/>
     <tag k="old_name" v="Amestratos, Amestratus, Amastra, Mestraton, Mitistratos"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4374"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4354"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255268" lat="37.8996704" lon="15.0490427" version="17" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255268" lat="37.8996704" lon="15.0490427" version="18" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name" v="Mojo Alcantara"/>
     <tag k="ele" v="535"/>
     <tag k="name" v="Moio Alcantara"/>
     <tag k="name:scn" v="u Moju"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="666"/>
+    <tag k="population" v="675"/>
     <tag k="short_name" v="Moio"/>
     <tag k="short_name:scn" v="Moju"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255280" lat="38.1221178" lon="14.7889805" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255280" lat="38.1221178" lon="14.7889805" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="480"/>
     <tag k="name" v="Naso"/>
     <tag k="name:scn" v="Nasu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3472"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3452"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255300" lat="37.8956251" lon="15.1723466" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255300" lat="37.8956251" lon="15.1723466" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="453"/>
     <tag k="name" v="Motta Camastra"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="810"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="792"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255521" lat="38.0273640" lon="15.4176890" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255521" lat="38.0273640" lon="15.4176890" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Alì"/>
     <tag k="old_name" v="Alì Superiore"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="685"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="653"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255538" lat="38.0213177" lon="14.7013957" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255538" lat="38.0213177" lon="14.7013957" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Alcara li Fusi"/>
     <tag k="name:scn" v="l'Arcara"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1731"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1695"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255614" lat="38.0301033" lon="14.8241901" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255614" lat="38.0301033" lon="14.8241901" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="465"/>
     <tag k="name" v="Tortorici"/>
     <tag k="name:scn" v="Turturici"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5788"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="5704"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255625" lat="38.1138413" lon="14.8822553" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255625" lat="38.1138413" lon="14.8822553" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Sant'Angelo di Brolo"/>
     <tag k="name:scn" v="Sant'Àncilu Brolu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2773"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2749"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255661" lat="38.0510589" lon="15.4369028" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255661" lat="38.0510589" lon="15.4369028" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="210"/>
     <tag k="name" v="Itala"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1474"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1496"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255666" lat="38.5544690" lon="14.8254710" version="17" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255666" lat="38.5544690" lon="14.8254710" version="18" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Leni"/>
     <tag k="name:ar" v="ليني"/>
     <tag k="name:it" v="Leni"/>
     <tag k="name:ru" v="Лени"/>
     <tag k="name:uk" v="Лені"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="681"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="680"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255681" lat="37.9011288" lon="15.1362079" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255681" lat="37.9011288" lon="15.1362079" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Francavilla di Sicilia"/>
     <tag k="name:scn" v="Francavigghia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3590"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3549"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255693" lat="38.0722687" lon="14.7449534" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255693" lat="38.0722687" lon="14.7449534" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Frazzanò"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="594"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="586"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255704" lat="37.8600912" lon="15.2214123" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255704" lat="37.8600912" lon="15.2214123" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Kaggi"/>
     <tag k="name" v="Gaggi"/>
     <tag k="name:scn" v="Caggi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3070"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3088"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255713" lat="38.1732691" lon="14.8951639" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255713" lat="38.1732691" lon="14.8951639" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Giujusa Marea"/>
     <tag k="ele" v="25"/>
     <tag k="name" v="Gioiosa Marea"/>
     <tag k="name:scn" v="Giujusa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6691"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6749"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255718" lat="37.8440930" lon="14.7117268" version="18" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67255718" lat="37.8440930" lon="14.7117268" version="19" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Cisarò"/>
     <tag k="ele" v="1150"/>
     <tag k="name" v="Cesarò"/>
     <tag k="name:scn" v="Risarò"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2179"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2162"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255741" lat="38.1174821" lon="15.0796108" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255741" lat="38.1174821" lon="15.0796108" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Farcuni"/>
     <tag k="ele" v="3"/>
     <tag k="name" v="Falcone"/>
     <tag k="name:scn" v="Faccuni"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2760"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2804"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255754" lat="38.1090610" lon="14.8289760" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255754" lat="38.1090610" lon="14.8289760" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Ficarra"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1317"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1284"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255763" lat="38.0858737" lon="14.7301178" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255763" lat="38.0858737" lon="14.7301178" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Crapisusu"/>
     <tag k="name" v="Capri Leone"/>
     <tag k="name:scn" v="Crapi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4313"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4357"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255772" lat="37.9581620" lon="15.3225880" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255772" lat="37.9581620" lon="15.3225880" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Casalvecchio Siculo"/>
     <tag k="name:scn" v="Casaluvecchiu Siculu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="733"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="724"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255782" lat="37.8864540" lon="14.3121680" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255782" lat="37.8864540" lon="14.3121680" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Castel di Lucio"/>
     <tag k="name:scn" v="Castiɖɖuzzu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1177"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1225"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255808" lat="38.0843696" lon="14.8071222" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255808" lat="38.0843696" lon="14.8071222" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="660"/>
     <tag k="name" v="Castell'Umberto"/>
     <tag k="name:scn" v="Casteḍḍ'Umbertu"/>
     <tag k="old_name:scn" v="Castania"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2847"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2824"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255828" lat="38.0134424" lon="14.5973915" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255828" lat="38.0134424" lon="14.5973915" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="San Frareau"/>
     <tag k="name" v="San Fratello"/>
     <tag k="name:scn" v="San Frateḍḍu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3293"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3250"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255866" lat="37.9329830" lon="15.0084546" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255866" lat="37.9329830" lon="15.0084546" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="812"/>
     <tag k="name" v="Roccella Valdemone"/>
     <tag k="name:scn" v="Ruccella Vaddemuni"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="564"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="566"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255873" lat="38.1814845" lon="15.3725556" version="15" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67255873" lat="38.1814845" lon="15.3725556" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="a Rocca"/>
     <tag k="name" v="Roccavaldina"/>
     <tag k="name:scn" v="Roccavaddina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="987"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="999"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255948" lat="37.9864756" lon="15.3594261" version="12" timestamp="2023-01-17T00:54:30Z" changeset="131357716" uid="923271" user="aldoct">
+  <node id="67255948" lat="37.9864756" lon="15.3594261" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="180"/>
     <tag k="name" v="Pagliara"/>
     <tag k="name:scn" v="Pagghiara"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1118"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1113"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256009" lat="38.0846600" lon="14.7514750" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256009" lat="38.0846600" lon="14.7514750" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Mirto"/>
     <tag k="name:scn" v="Mirtu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="909"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="893"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256025" lat="38.0035859" lon="15.3170947" version="15" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256025" lat="38.0035859" lon="15.3170947" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="420"/>
     <tag k="name" v="Mandanici"/>
     <tag k="name:scn" v="Mannanici"/>
     <tag k="old_name" v="Mandanice"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="531"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="506"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256136" lat="38.0154435" lon="14.3490272" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256136" lat="38.0154435" lon="14.3490272" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Santo Stefano di Camastra"/>
     <tag k="name:scn" v="Santu Stèfanu di Camastra"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4370"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4336"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256144" lat="38.0830509" lon="14.8493379" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256144" lat="38.0830509" lon="14.8493379" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Sinagra"/>
     <tag k="name:scn" v="Sinària"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2489"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2459"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256160" lat="37.8459539" lon="14.7020201" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256160" lat="37.8459539" lon="14.7020201" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="1150"/>
     <tag k="name" v="San Teodoro"/>
     <tag k="name:scn" v="'u Casali"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1226"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1240"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256177" lat="38.5611700" lon="14.8707720" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256177" lat="38.5611700" lon="14.8707720" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Santa Marina Salina"/>
     <tag k="name:scn" v="Santa Marina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="848"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="853"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256201" lat="37.9167440" lon="14.9625921" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256201" lat="37.9167440" lon="14.9625921" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="1030"/>
     <tag k="name" v="Santa Domenica Vittoria"/>
     <tag k="name:scn" v="Santa Duminica"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="871"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="850"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256219" lat="37.6705908" lon="13.2378036" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256219" lat="37.6705908" lon="13.2378036" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Giuliana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1718"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1683"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256226" lat="38.0880490" lon="13.1570410" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256226" lat="38.0880490" lon="13.1570410" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Giardinello"/>
     <tag k="name:scn" v="Jardineɖɖu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2275"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2260"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256278" lat="38.0889639" lon="13.1713433" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256278" lat="38.0889639" lon="13.1713433" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Montelepre"/>
     <tag k="name:scn" v="Muncilebbri"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5788"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="5733"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256288" lat="37.9528926" lon="13.4150241" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256288" lat="37.9528926" lon="13.4150241" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Marineo"/>
     <tag k="name:scn" v="Marinè"/>
     <tag k="old_name:el" v="Μάκελλα"/>
     <tag k="old_name:la" v="Macella"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6187"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6107"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256301" lat="37.7469460" lon="13.6048540" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256301" lat="37.7469460" lon="13.6048540" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Lercara Friddi"/>
     <tag k="name:scn" v="Lercara"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6191"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6177"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256310" lat="37.9673767" lon="13.9739295" version="14" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67256310" lat="37.9673767" lon="13.9739295" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Gratteri"/>
     <tag k="name:scn" v="Ratteri"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="867"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="859"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256336" lat="37.7963398" lon="14.1084677" version="14" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67256336" lat="37.7963398" lon="14.1084677" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Petralia Soprana"/>
     <tag k="name:scn" v="Pitralia Suprana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2993"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2958"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256343" lat="38.0438957" lon="13.1198211" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256343" lat="38.0438957" lon="13.1198211" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Partinico"/>
     <tag k="name:scn" v="Partinicu"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="30556"/>
+    <tag k="population" v="30694"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256351" lat="37.8477519" lon="13.7620485" version="13" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67256351" lat="37.8477519" lon="13.7620485" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Montemaggiore Belsito"/>
     <tag k="name:scn" v="Muntimajuri"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2972"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2935"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256381" lat="37.9849315" lon="13.3280957" version="17" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67256381" lat="37.9849315" lon="13.3280957" version="18" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Santa Cristina Gela"/>
     <tag k="name:aae" v="Sëndahstina"/>
     <tag k="name:it" v="Santa Cristina Gela"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="987"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1008"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256434" lat="37.6789450" lon="13.6034550" version="12" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67256434" lat="37.6789450" lon="13.6034550" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Castronovo di Sicilia"/>
     <tag k="name:scn" v="Castrunovu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2844"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2813"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256442" lat="37.7799480" lon="13.7138560" version="7" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256442" lat="37.7799480" lon="13.7138560" version="8" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Alia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3314"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3297"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256456" lat="37.8210665" lon="13.8902244" version="14" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67256456" lat="37.8210665" lon="13.8902244" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Caltavuturo"/>
     <tag k="name:ru" v="Кальтавутуро"/>
     <tag k="name:scn" v="Caltavuturu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3594"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3551"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256482" lat="38.0485261" lon="13.3910630" version="14" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
+  <node id="67256482" lat="38.0485261" lon="13.3910630" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="ele" v="356"/>
     <tag k="name" v="Belmonte Mezzagno"/>
     <tag k="name:scn" v="Bilmunti Minzagnu"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10904"/>
+    <tag k="population" v="10853"/>
     <tag k="source" v="Istat gennaio 2022"/>
     <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="https://comune.belmonte.pa.it/"/>
   </node>
-  <node id="67256486" lat="38.0471029" lon="13.1426837" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256486" lat="38.0471029" lon="13.1426837" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Borgetto"/>
     <tag k="name:scn" v="Burgettu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="7051"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="7065"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256489" lat="37.9151751" lon="13.4635490" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256489" lat="37.9151751" lon="13.4635490" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Cefalà Diana"/>
     <tag k="name:scn" v="Cifalà Diana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="986"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="982"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256503" lat="38.1707175" lon="13.2391699" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256503" lat="38.1707175" lon="13.2391699" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Capaci"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11262"/>
+    <tag k="population" v="11342"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256521" lat="38.1549428" lon="13.1098412" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256521" lat="38.1549428" lon="13.1098412" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Cinisi"/>
     <tag k="name:ru" v="Чинизи"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11846"/>
+    <tag k="population" v="11945"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256535" lat="37.6772195" lon="13.2705210" version="15" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256535" lat="37.6772195" lon="13.2705210" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Chiusa Sclafani"/>
     <tag k="name:scn" v="Chiusa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2566"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2523"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256550" lat="37.8968159" lon="13.5623449" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256550" lat="37.8968159" lon="13.5623449" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Ciminna"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3443"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3410"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256570" lat="37.7309803" lon="13.1831444" version="15" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256570" lat="37.7309803" lon="13.1831444" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Contessa Entellina"/>
     <tag k="name:aae" v="Kundisë"/>
     <tag k="name:it" v="Contessa Entellina"/>
     <tag k="name:scn" v="Cuntissa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1505"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1496"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256609" lat="38.0884578" lon="13.4637863" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256609" lat="38.0884578" lon="13.4637863" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Ficarazzi"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="12766"/>
+    <tag k="population" v="12944"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256627" lat="37.9033438" lon="13.4289245" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256627" lat="37.9033438" lon="13.4289245" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Godrano"/>
     <tag k="name:scn" v="Cutranu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1062"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1038"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256637" lat="38.0000530" lon="13.9414590" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256637" lat="38.0000530" lon="13.9414590" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Lascari"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3652"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3667"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256646" lat="38.0352205" lon="13.4514041" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256646" lat="38.0352205" lon="13.4514041" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Misilmeri"/>
     <tag k="name:scn" v="Mussulumeri"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="28648"/>
+    <tag k="population" v="28767"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256651" lat="37.8645320" lon="13.4641955" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256651" lat="37.8645320" lon="13.4641955" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Mezzojuso"/>
     <tag k="name:aae" v="Munçisfi"/>
     <tag k="name:scn" v="Menzijusu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2678"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2610"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256658" lat="37.6812542" lon="13.3792656" version="14" timestamp="2023-02-21T20:53:21Z" changeset="132853292" uid="743479" user="fayor">
+  <node id="67256658" lat="37.6812542" lon="13.3792656" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Palazzo Adriano"/>
     <tag k="name:aae" v="Pallaci"/>
     <tag k="name:scn" v="Palazzu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1838"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1809"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256678" lat="37.9948357" lon="13.2826890" version="17" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67256678" lat="37.9948357" lon="13.2826890" version="18" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Piana degli Albanesi"/>
     <tag k="name:aae" v="Hora e Arbëreshëvet"/>
     <tag k="name:it" v="Piana degli Albanesi"/>
     <tag k="name:scn" v="Chiana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5588"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="5531"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256685" lat="37.8082253" lon="14.0925134" version="13" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="67256685" lat="37.8082253" lon="14.0925134" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Petralia Sottana"/>
     <tag k="name:scn" v="Pitralia Suttana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2470"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256688" lat="37.8360280" lon="13.1538583" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256688" lat="37.8360280" lon="13.1538583" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Roccamena"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1375"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1341"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256699" lat="38.0765278" lon="13.4436674" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256699" lat="38.0765278" lon="13.4436674" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Villabate"/>
     <tag k="name:scn" v="Villabbati"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="19533"/>
+    <tag k="population" v="19624"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256707" lat="37.8567237" lon="13.9068535" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256707" lat="37.8567237" lon="13.9068535" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Scillato"/>
     <tag k="name:scn" v="Scillatu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="617"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="591"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256716" lat="37.6934756" lon="14.1146510" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256716" lat="37.6934756" lon="14.1146510" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Alimena"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1753"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1755"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256723" lat="37.8645090" lon="13.7811604" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256723" lat="37.8645090" lon="13.7811604" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Aliminusa"/>
     <tag k="name:scn" v="Larminusa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1092"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1055"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256736" lat="37.9254289" lon="13.5377102" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256736" lat="37.9254289" lon="13.5377102" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Baucina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1839"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1858"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256742" lat="37.7054309" lon="13.2587609" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256742" lat="37.7054309" lon="13.2587609" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Bisacquino"/>
     <tag k="name:scn" v="Busacchinu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4155"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4105"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256751" lat="37.7468626" lon="14.0998377" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256751" lat="37.7468626" lon="14.0998377" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Bompietro"/>
     <tag k="name:scn" v="Bompietru"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1219"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1194"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256766" lat="37.7536363" lon="13.2687669" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256766" lat="37.7536363" lon="13.2687669" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Campofiorito"/>
     <tag k="name:scn" v="Campuciurutu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1165"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1130"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256773" lat="37.8971862" lon="13.0954120" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256773" lat="37.8971862" lon="13.0954120" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Masciɖɖi"/>
     <tag k="name" v="Camporeale"/>
     <tag k="name:scn" v="Campurriali"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2983"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2980"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256846" lat="37.0481124" lon="14.7937968" version="14" timestamp="2023-02-21T20:53:21Z" changeset="132853292" uid="743479" user="fayor">
+  <node id="67256846" lat="37.0481124" lon="14.7937968" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Giarratana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2797"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2837"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256895" lat="37.1264910" lon="14.8503797" version="14" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256895" lat="37.1264910" lon="14.8503797" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Buccheri"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1745"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1722"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256928" lat="37.9836510" lon="13.6955540" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256928" lat="37.9836510" lon="13.6955540" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Termini Imerese"/>
     <tag k="name:scn" v="Tèrmini"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="25030"/>
+    <tag k="population" v="24890"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256935" lat="38.1300612" lon="13.2335013" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256935" lat="38.1300612" lon="13.2335013" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Torretta"/>
     <tag k="name:scn" v="Turretta"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4141"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4283"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256942" lat="38.0813306" lon="13.5254399" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256942" lat="38.0813306" lon="13.5254399" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Santa Flavia"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10869"/>
+    <tag k="population" v="11015"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256946" lat="37.9148918" lon="13.7623432" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256946" lat="37.9148918" lon="13.7623432" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Sciara"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2530"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2511"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256957" lat="37.9146277" lon="14.1903782" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256957" lat="37.9146277" lon="14.1903782" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="San Mauro Castelverde"/>
     <tag k="name:scn" v="Santu Mauru"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1380"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1348"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256961" lat="37.8059480" lon="13.6384550" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256961" lat="37.8059480" lon="13.6384550" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Roccapalumba"/>
     <tag k="name:scn" v="Roccapalumma"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2183"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2163"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256966" lat="37.9629600" lon="13.1753795" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256966" lat="37.9629600" lon="13.1753795" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="San Cipirello"/>
     <tag k="name:scn" v="Sancipirreɖɖu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4972"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4943"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256970" lat="37.9080125" lon="13.4863499" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256970" lat="37.9080125" lon="13.4863499" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Villafrati"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3062"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3110"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256974" lat="37.7514745" lon="14.0748265" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256974" lat="37.7514745" lon="14.0748265" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Blufi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="888"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="874"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256980" lat="37.9233414" lon="13.5692549" version="12" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256980" lat="37.9233414" lon="13.5692549" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Ventimiglia di Sicilia"/>
     <tag k="name:scn" v="Calamigna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1821"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256984" lat="37.8250916" lon="13.5713017" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256984" lat="37.8250916" lon="13.5713017" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Vicari"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2423"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="2434"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256988" lat="38.7104559" lon="13.1912999" version="10" timestamp="2022-10-20T21:39:55Z" changeset="127856683" uid="1098648" user="gsperb">
+  <node id="67256988" lat="38.7104559" lon="13.1912999" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Ustica"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1306"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1314"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256993" lat="37.7474480" lon="13.8278590" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256993" lat="37.7474480" lon="13.8278590" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Valledolmo"/>
     <tag k="name:scn" v="Vaɖɖilurmu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3205"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3168"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256998" lat="37.9943863" lon="13.6565095" version="13" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67256998" lat="37.9943863" lon="13.6565095" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Trabia"/>
     <tag k="name:scn" v="Trabbìa"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10391"/>
+    <tag k="population" v="10550"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67257007" lat="37.7278410" lon="12.8885400" version="7" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257007" lat="37.7278410" lon="12.8885400" version="8" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Partanna"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="9892"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="9828"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257015" lat="37.9812974" lon="12.5573091" version="11" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257015" lat="37.9812974" lon="12.5573091" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Paceca"/>
     <tag k="name" v="Paceco"/>
     <tag k="name:ja" v="パチェーコ"/>
@@ -12020,87 +12019,87 @@
     <tag k="name:scn" v="Paceca"/>
     <tag k="name:uk" v="Пачеко"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10824"/>
+    <tag k="population" v="10764"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67257025" lat="37.7579420" lon="13.0097420" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257025" lat="37.7579420" lon="13.0097420" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Salaparuta"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1584"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1560"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257029" lat="37.7620964" lon="13.0343176" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257029" lat="37.7620964" lon="13.0343176" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Poggioreale"/>
     <tag k="name:scn" v="Puggiuriali"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1349"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1300"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257059" lat="38.0781631" lon="12.6752292" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257059" lat="38.0781631" lon="12.6752292" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Custonaci"/>
     <tag k="name:scn" v="Custunaci"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5258"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="5260"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257067" lat="38.0188460" lon="12.8858370" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257067" lat="38.0188460" lon="12.8858370" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Castellammare del Golfo"/>
     <tag k="name:scn" v="Casteddammari"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="14474"/>
+    <tag k="population" v="14597"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67257114" lat="37.7713420" lon="12.8776390" version="7" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257114" lat="37.7713420" lon="12.8776390" version="8" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Santa Ninfa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4829"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4767"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257216" lat="37.0348710" lon="15.0626532" version="15" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257216" lat="37.0348710" lon="15.0626532" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Canicattini Bagni"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6566"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6517"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257251" lat="37.9136378" lon="12.8618933" version="15" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257251" lat="37.9136378" lon="12.8618933" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Calatafimi Segesta"/>
     <tag k="name:scn" v="Calatafimi Seggesta"/>
     <tag k="old_name" v="Calatafimi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6196"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6127"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257299" lat="38.0389840" lon="12.6169791" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257299" lat="38.0389840" lon="12.6169791" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Valderice"/>
     <tag k="name:scn" v="Valdèrici"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11524"/>
+    <tag k="population" v="11485"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67257327" lat="37.9314018" lon="12.3274291" version="15" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257327" lat="37.9314018" lon="12.3274291" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Favignana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4448"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="4528"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257335" lat="37.7162399" lon="12.4945468" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257335" lat="37.7162399" lon="12.4945468" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Petrosino"/>
     <tag k="name:ja" v="ペトロジーノ"/>
     <tag k="name:ru" v="Петрозино"/>
     <tag k="name:scn" v="Pitrusinu"/>
     <tag k="name:uk" v="Петрозіно"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="7924"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="7899"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257343" lat="37.8685749" lon="12.8144792" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="67257343" lat="37.8685749" lon="12.8144792" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Vita"/>
     <tag k="name:ja" v="ヴィータ"/>
     <tag k="name:ru" v="Вита"/>
     <tag k="name:uk" v="Віта"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1799"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1812"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67273343" lat="39.0716890" lon="16.2844960" version="2" timestamp="2016-08-28T18:58:20Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6659"/>
@@ -26772,11 +26771,11 @@
     <tag k="wikidata" v="Q1523719"/>
     <tag k="wikipedia" v="it:Giglio Castello"/>
   </node>
-  <node id="283889021" lat="37.6161157" lon="15.0792308" version="16" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="283889021" lat="37.6161157" lon="15.0792308" version="17" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Trecastagni"/>
     <tag k="name:scn" v="Triccastagni"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11135"/>
+    <tag k="population" v="11259"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="291647121" lat="43.8402291" lon="12.3591843" version="4" timestamp="2016-09-11T00:19:08Z" changeset="42069137" uid="743479" user="fayor">
@@ -27239,13 +27238,13 @@
     <tag k="wikidata" v="Q42943"/>
     <tag k="wikipedia" v="it:San Benedetto Po"/>
   </node>
-  <node id="1431755301" lat="37.7831794" lon="14.0410513" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="1431755301" lat="37.7831794" lon="14.0410513" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="istat_id" v="2147483647"/>
     <tag k="name" v="Castellana Sicula"/>
     <tag k="name:scn" v="Castiɖɖana Sicula"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3056"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3016"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="1435627520" lat="44.5164015" lon="8.3821606" version="5" timestamp="2023-01-17T19:56:40Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="982"/>
@@ -27654,19 +27653,19 @@
     <tag k="place" v="village"/>
     <tag k="population" v="229"/>
   </node>
-  <node id="2195104829" lat="37.5133908" lon="14.9670716" version="10" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="2195104829" lat="37.5133908" lon="14.9670716" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Motta Sant'Anastasia"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="12008"/>
+    <tag k="population" v="12070"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="2209950022" lat="37.6522747" lon="14.6409744" version="12" timestamp="2023-01-10T17:03:15Z" changeset="131115093" uid="554973" user="dgitto">
+  <node id="2209950022" lat="37.6522747" lon="14.6409744" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Regalbuto"/>
     <tag k="name:scn" v="Regarbutu"/>
     <tag k="old_name" v="Rahal Abbud"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6777"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="6647"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="2246343232" lat="39.0648291" lon="8.4562962" version="48" timestamp="2022-07-16T18:30:01Z" changeset="123698814" uid="7494825" user="dafadllyn">
     <tag k="name" v="Santu Antiogu/Sant'Antioco"/>
@@ -27711,11 +27710,11 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q35433"/>
   </node>
-  <node id="2595078856" lat="37.5196965" lon="13.4340800" version="9" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="2595078856" lat="37.5196965" lon="13.4340800" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Cianciana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3099"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="3089"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="2624856975" lat="46.0179035" lon="11.7997542" version="3" timestamp="2016-10-13T15:57:07Z" changeset="42872569" uid="743479" user="fayor">
     <tag k="name" v="Fonzaso"/>
@@ -27979,13 +27978,13 @@
     <tag k="population" v="4309"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="3973181006" lat="37.9811734" lon="14.3020605" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="3973181006" lat="37.9811734" lon="14.3020605" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="'a Motta"/>
     <tag k="name" v="Motta d'Affermo"/>
     <tag k="name:scn" v="Motta d'Affermu"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="671"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="659"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="3977137851" lat="45.1274138" lon="9.0292889" version="4" timestamp="2020-08-08T09:04:21Z" changeset="89120788" uid="1476146" user="Alecs01">
     <tag k="name" v="Zinasco Vecchio"/>
@@ -28084,10 +28083,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="252"/>
   </node>
-  <node id="4528229038" lat="46.1566932" lon="9.5822934" version="4" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="Martino Scaglione">
+  <node id="4528229038" lat="46.1565197" lon="9.5817449" version="5" timestamp="2023-04-19T16:11:03Z" changeset="135110357" uid="18309341" user="saifanjahmal">
     <tag k="ele" v="730"/>
     <tag k="name" v="Serone"/>
-    <tag k="place" v="hamlet"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="75"/>
     <tag k="population:date" v="2011"/>
   </node>
@@ -28124,12 +28123,12 @@
     <tag k="name" v="Le Plan-de-Clavel (chef-lieu)"/>
     <tag k="place" v="hamlet"/>
   </node>
-  <node id="4791626652" lat="37.8584782" lon="14.1543408" version="12" timestamp="2023-03-17T21:42:14Z" changeset="133805590" uid="743479" user="fayor">
+  <node id="4791626652" lat="37.8584782" lon="14.1543408" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Geraci Siculo"/>
     <tag k="name:scn" v="Jiraci"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1717"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1705"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="4854475959" lat="41.6553834" lon="14.0624272" version="4" timestamp="2020-11-25T18:16:29Z" changeset="94792637" uid="166489" user="Fintocubano">
     <tag k="name" v="Castel San Vincenzo"/>
@@ -28148,12 +28147,12 @@
     <tag k="population" v="1365"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="5084784210" lat="37.4738288" lon="13.7807446" version="8" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="5084784210" lat="37.4738288" lon="13.7807446" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Bompensiere"/>
     <tag k="name:scn" v="Naduri"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="510"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="491"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="5097129050" lat="42.3206768" lon="12.6211875" version="1" timestamp="2017-09-11T07:03:52Z" changeset="51929231" uid="461682" user="Griphon">
     <tag k="name" v="Selci"/>
@@ -28275,12 +28274,12 @@
     <tag k="name" v="Alfedena"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="6214029481" lat="37.8266849" lon="13.4859358" version="6" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="6214029481" lat="37.8266849" lon="13.4859358" version="7" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Campofelice di Fitalia"/>
     <tag k="name:scn" v="Campufilici di Fitalia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="466"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="445"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="7132841997" lat="40.9469957" lon="14.6382602" version="1" timestamp="2020-01-15T10:25:11Z" changeset="79602283" uid="10639077" user="Felice Noviello">
     <tag k="name" v="Quadrelle"/>
@@ -28315,12 +28314,12 @@
     <tag k="wikimedia_commons" v="File:2007-422-DSCN2132-Sirta-Forcola_Valtellina+Chiesa-S-Giuseppe.jpg"/>
     <tag k="wikipedia" v="ceb:Sirta"/>
   </node>
-  <node id="8345438675" lat="37.9558591" lon="15.3393223" version="3" timestamp="2022-08-25T15:20:48Z" changeset="125367276" uid="743479" user="fayor">
+  <node id="8345438675" lat="37.9558591" lon="15.3393223" version="4" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Savoca"/>
     <tag k="name:scn" v="Sàvuca"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1702"/>
-    <tag k="source" v="Istat gennaio 2022"/>
+    <tag k="population" v="1726"/>
+    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="8524635305" lat="44.9586175" lon="7.0565619" version="4" timestamp="2022-07-25T08:03:53Z" changeset="124038470" uid="11220113" user="ivanbranco">
     <tag k="name" v="Roberso / loû Roubers"/>
