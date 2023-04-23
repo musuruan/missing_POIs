@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-22T02:25:52Z" areas="2023-04-22T00:31:57Z"/>
+<meta osm_base="2023-04-23T02:33:21Z" areas="2023-04-22T22:31:50Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1799,7 +1799,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030732"/>
   </node>
-  <node id="63625860" lat="44.0833358" lon="7.7491191" version="12" timestamp="2023-04-21T23:42:20Z" changeset="135212448" uid="1778799" user="SomeoneElse_Revert">
+  <node id="63625860" lat="44.0833358" lon="7.7491191" version="14" timestamp="2023-04-22T15:11:03Z" changeset="135232332" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="520"/>
     <tag k="name" v="Piaggia"/>
     <tag k="place" v="hamlet"/>
@@ -8611,12 +8611,15 @@
     <tag k="population" v="3029"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962206" lat="41.7419154" lon="12.9121745" version="4" timestamp="2017-04-18T15:38:45Z" changeset="47910048" uid="4138605" user="MapperGo">
+  <node id="72962206" lat="41.7419154" lon="12.9121745" version="5" timestamp="2023-04-22T15:38:29Z" changeset="135233295" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4922"/>
     <tag k="name" v="Artena"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14276"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q241770"/>
+    <tag k="wikimedia_commons" v="Category:Artena"/>
+    <tag k="wikipedia" v="it:Artena"/>
   </node>
   <node id="72962276" lat="42.2633290" lon="12.8700810" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4907"/>
@@ -8655,12 +8658,15 @@
     <tag k="population" v="612"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962439" lat="41.8179234" lon="12.9283673" version="3" timestamp="2016-09-07T18:50:24Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962439" lat="41.8179234" lon="12.9283673" version="4" timestamp="2023-04-22T09:20:24Z" changeset="135220825" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4937"/>
     <tag k="name" v="Cave"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11287"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q177726"/>
+    <tag k="wikimedia_commons" v="Category:Cave (Italy)"/>
+    <tag k="wikipedia" v="it:Cave (Italia)"/>
   </node>
   <node id="72962495" lat="41.9616174" lon="12.9409322" version="3" timestamp="2016-09-07T18:50:25Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4941"/>
@@ -9132,7 +9138,7 @@
     <tag k="wikipedia" v="it:Villaperuccio"/>
     <tag k="wikipedia:sc" v="Sa Baronia"/>
   </node>
-  <node id="72991677" lat="39.2758994" lon="8.6404754" version="43" timestamp="2017-03-01T21:24:48Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991677" lat="39.2758994" lon="8.6404754" version="44" timestamp="2023-04-22T19:34:33Z" changeset="135241013" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Bidda Matzràxa"/>
     <tag k="alt_name_1" v="Biddamassàrgia"/>
     <tag k="gfoss_id" v="7491"/>
@@ -9144,7 +9150,7 @@
     <tag k="population" v="3713"/>
     <tag k="postal_code" v="09010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.villamassargia.ca.it/"/>
+    <tag k="website" v="https://www.comune.villamassargia.ca.it/"/>
     <tag k="wikidata" v="Q286768"/>
     <tag k="wikipedia" v="it:Villamassargia"/>
     <tag k="wikipedia:sc" v="Bidda Matzràxia"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-22T02:26:51Z" areas="2023-04-21T22:43:28Z"/>
+<meta osm_base="2023-04-23T02:34:24Z" areas="2023-04-22T22:31:50Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -6328,6 +6328,14 @@
     <tag k="population" v="3470"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="69301262" lat="45.0872650" lon="9.5960630" version="7" timestamp="2023-04-22T14:25:24Z" changeset="135229277" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="gfoss_id" v="3847"/>
+    <tag k="name" v="Calendasco"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2311"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q102583"/>
+  </node>
   <node id="69301331" lat="44.9018700" lon="10.5542870" version="5" timestamp="2017-09-01T18:01:35Z" changeset="51651638" uid="1834719" user="LvdT">
     <tag k="ele" v="23"/>
     <tag k="gfoss_id" v="3939"/>
@@ -8264,7 +8272,7 @@
     <tag k="wikidata" v="Q284481"/>
     <tag k="wikipedia" v="sc:Pramantellu"/>
   </node>
-  <node id="72990967" lat="39.2070310" lon="8.3809310" version="41" timestamp="2017-03-01T21:24:41Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72990967" lat="39.2070310" lon="8.3809310" version="42" timestamp="2023-04-22T19:47:35Z" changeset="135241553" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7446"/>
     <tag k="name" v="Portescusi/Portoscuso"/>
     <tag k="name:it" v="Portoscuso"/>
@@ -8274,7 +8282,7 @@
     <tag k="postal_code" v="09010"/>
     <tag k="ref:LOCODE" v="ITPVE"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.portoscuso.ci.it/"/>
+    <tag k="website" v="https://www.comune.portoscuso.ci.it/"/>
     <tag k="wikidata" v="Q202704"/>
     <tag k="wikipedia" v="it:Portoscuso"/>
     <tag k="wikipedia:sc" v="Portescusi"/>
@@ -8337,7 +8345,7 @@
     <tag k="wikipedia" v="it:Turri"/>
     <tag k="wikipedia:sc" v="Turri"/>
   </node>
-  <node id="72991768" lat="39.2680862" lon="9.0496306" version="42" timestamp="2017-03-01T21:24:49Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991768" lat="39.2680862" lon="9.0496306" version="43" timestamp="2023-04-22T19:52:31Z" changeset="135241741" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7505"/>
     <tag k="name" v="Su Masu/Elmas"/>
     <tag k="name:it" v="Elmas"/>
@@ -8347,7 +8355,7 @@
     <tag k="postal_code" v="09030"/>
     <tag k="ref:LOCODE" v="ITELM"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.elmas.ca.it/"/>
+    <tag k="website" v="https://comune.elmas.ca.it/"/>
     <tag k="wikidata" v="Q283906"/>
     <tag k="wikipedia" v="it:Elmas"/>
     <tag k="wikipedia:sc" v="Su Masu"/>

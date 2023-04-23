@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-22T02:28:53Z" areas="2023-04-22T00:31:57Z"/>
+<meta osm_base="2023-04-23T02:36:24Z" areas="2023-04-22T22:31:50Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -19758,10 +19758,12 @@
     <tag k="population" v="3470"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301262" lat="45.0873218" lon="9.5974792" version="4" timestamp="2023-04-21T12:23:23Z" changeset="135191272" uid="19023184" user="freddieforbes">
+  <node id="69301262" lat="45.0872650" lon="9.5960630" version="7" timestamp="2023-04-22T14:25:24Z" changeset="135229277" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="gfoss_id" v="3847"/>
     <tag k="name" v="Calendasco"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="781"/>
+    <tag k="population" v="2311"/>
+    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q102583"/>
   </node>
   <node id="69301267" lat="44.9146620" lon="9.6693680" version="4" timestamp="2022-12-24T09:27:30Z" changeset="130449045" uid="4425563" user="Danysan95">
@@ -22785,12 +22787,15 @@
     <tag k="population" v="3029"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962206" lat="41.7419154" lon="12.9121745" version="4" timestamp="2017-04-18T15:38:45Z" changeset="47910048" uid="4138605" user="MapperGo">
+  <node id="72962206" lat="41.7419154" lon="12.9121745" version="5" timestamp="2023-04-22T15:38:29Z" changeset="135233295" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4922"/>
     <tag k="name" v="Artena"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14276"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q241770"/>
+    <tag k="wikimedia_commons" v="Category:Artena"/>
+    <tag k="wikipedia" v="it:Artena"/>
   </node>
   <node id="72962241" lat="41.8089180" lon="12.7377840" version="6" timestamp="2017-03-11T12:49:47Z" changeset="46761722" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="4971"/>
@@ -22861,20 +22866,25 @@
     <tag k="wikidata" v="Q242539"/>
     <tag k="wikipedia" v="it:Civitella San Paolo"/>
   </node>
-  <node id="72962426" lat="41.7270330" lon="13.0041576" version="8" timestamp="2016-10-26T10:00:04Z" changeset="43187465" uid="2512300" user="samely">
+  <node id="72962426" lat="41.7270330" lon="13.0041576" version="9" timestamp="2023-04-22T15:38:29Z" changeset="135233295" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4945"/>
     <tag k="name" v="Colleferro"/>
     <tag k="place" v="town"/>
     <tag k="population" v="21595"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q242553"/>
+    <tag k="wikimedia_commons" v="Category:Colleferro"/>
+    <tag k="wikipedia" v="it:Colleferro"/>
   </node>
-  <node id="72962439" lat="41.8179234" lon="12.9283673" version="3" timestamp="2016-09-07T18:50:24Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962439" lat="41.8179234" lon="12.9283673" version="4" timestamp="2023-04-22T09:20:24Z" changeset="135220825" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4937"/>
     <tag k="name" v="Cave"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11287"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q177726"/>
+    <tag k="wikimedia_commons" v="Category:Cave (Italy)"/>
+    <tag k="wikipedia" v="it:Cave (Italia)"/>
   </node>
   <node id="72962495" lat="41.9616174" lon="12.9409322" version="3" timestamp="2016-09-07T18:50:25Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4941"/>
@@ -23733,7 +23743,7 @@
     <tag k="wikipedia" v="it:Sant'Andrea Frius"/>
     <tag k="wikipedia:sc" v="Sant'Andria 'e Frius"/>
   </node>
-  <node id="72991053" lat="39.0672340" lon="9.0094450" version="45" timestamp="2017-03-03T19:53:49Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72991053" lat="39.0672340" lon="9.0094450" version="46" timestamp="2023-04-22T19:30:18Z" changeset="135240842" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7463"/>
     <tag k="name" v="Sarroccu/Sarroch"/>
     <tag k="name:it" v="Sarroch"/>
@@ -23743,7 +23753,7 @@
     <tag k="postal_code" v="09018"/>
     <tag k="ref:LOCODE" v="ITPFX"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sarroch.ca.it/"/>
+    <tag k="website" v="https://comune.sarroch.ca.it/"/>
     <tag k="wikidata" v="Q284901"/>
     <tag k="wikipedia" v="it:Sarroch"/>
     <tag k="wikipedia:sc" v="Sarroccu"/>
@@ -23991,7 +24001,7 @@
     <tag k="population" v="1430"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72991259" lat="39.0718310" lon="8.6356380" version="40" timestamp="2019-09-16T14:28:53Z" changeset="74536016" uid="478872" user="mcheck">
+  <node id="72991259" lat="39.0718310" lon="8.6356380" version="41" timestamp="2023-04-22T19:44:01Z" changeset="135241401" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7423"/>
     <tag k="name" v="Giba"/>
     <tag k="name:it" v="Giba"/>
@@ -24000,12 +24010,12 @@
     <tag k="population" v="2093"/>
     <tag k="postal_code" v="09010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.giba.ca.it/"/>
+    <tag k="website" v="https://www.comune.giba.ca.it/"/>
     <tag k="wikidata" v="Q286283"/>
     <tag k="wikipedia" v="it:Giba"/>
     <tag k="wikipedia:sc" v="Giba"/>
   </node>
-  <node id="72991271" lat="39.2666261" lon="8.4717404" version="40" timestamp="2017-03-01T21:24:44Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991271" lat="39.2666261" lon="8.4717404" version="41" timestamp="2023-04-22T19:31:11Z" changeset="135240867" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7425"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
     <tag k="name" v="Gonnesa"/>
@@ -24015,7 +24025,7 @@
     <tag k="population" v="5169"/>
     <tag k="postal_code" v="09010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.gonnesa.ca.it"/>
+    <tag k="website" v="https://www.comune.gonnesa.ca.it/"/>
     <tag k="wikidata" v="Q286304"/>
     <tag k="wikipedia" v="it:Gonnesa"/>
     <tag k="wikipedia:sc" v="Gonnesa"/>
@@ -24239,7 +24249,7 @@
     <tag k="wikipedia" v="it:Settimo San Pietro"/>
     <tag k="wikipedia:sc" v="Sètimu"/>
   </node>
-  <node id="72991529" lat="39.2942475" lon="9.0929717" version="40" timestamp="2017-03-01T21:24:46Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991529" lat="39.2942475" lon="9.0929717" version="41" timestamp="2023-04-22T19:48:27Z" changeset="135241586" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7471"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
     <tag k="name" v="Sestu"/>
@@ -24249,12 +24259,12 @@
     <tag k="population" v="15233"/>
     <tag k="postal_code" v="09028"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sestu.ca.it/"/>
+    <tag k="website" v="https://www.comune.sestu.ca.it/"/>
     <tag k="wikidata" v="Q285089"/>
     <tag k="wikipedia" v="it:Sestu"/>
     <tag k="wikipedia:sc" v="Sestu"/>
   </node>
-  <node id="72991548" lat="39.0018300" lon="8.6463390" version="40" timestamp="2017-03-03T19:53:53Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72991548" lat="39.0018300" lon="8.6463390" version="41" timestamp="2023-04-22T19:35:15Z" changeset="135241038" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7459"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
     <tag k="name" v="Arresi/Sant'Anna Arresi"/>
@@ -24264,7 +24274,7 @@
     <tag k="population" v="2583"/>
     <tag k="postal_code" v="09010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.santannaarresi.ca.it/"/>
+    <tag k="website" v="https://www.comune.santannaarresi.ca.it/"/>
     <tag k="wikidata" v="Q286691"/>
     <tag k="wikipedia" v="it:Sant'Anna Arresi"/>
     <tag k="wikipedia:sc" v="Arresi"/>
@@ -24359,7 +24369,7 @@
     <tag k="wikipedia" v="it:Siddi"/>
     <tag k="wikipedia:sc" v="Siddi"/>
   </node>
-  <node id="72991621" lat="39.3002370" lon="8.8087380" version="42" timestamp="2017-03-01T21:24:47Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991621" lat="39.3002370" lon="8.8087380" version="43" timestamp="2023-04-22T19:42:30Z" changeset="135241330" uid="9451067" user="b-jazz-bot">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="7475"/>
     <tag k="name" v="Silìcua/Siliqua"/>
@@ -24369,7 +24379,7 @@
     <tag k="population" v="4150"/>
     <tag k="postal_code" v="09010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.siliqua.ca.it"/>
+    <tag k="website" v="https://www.comune.siliqua.ca.it/"/>
     <tag k="wikidata" v="Q285124"/>
     <tag k="wikipedia" v="sc:Silìcua"/>
   </node>
@@ -24403,7 +24413,7 @@
     <tag k="wikipedia" v="it:Villasalto"/>
     <tag k="wikipedia:sc" v="Biddesatu"/>
   </node>
-  <node id="72991677" lat="39.2758994" lon="8.6404754" version="43" timestamp="2017-03-01T21:24:48Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991677" lat="39.2758994" lon="8.6404754" version="44" timestamp="2023-04-22T19:34:33Z" changeset="135241013" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Bidda Matzràxa"/>
     <tag k="alt_name_1" v="Biddamassàrgia"/>
     <tag k="gfoss_id" v="7491"/>
@@ -24415,7 +24425,7 @@
     <tag k="population" v="3713"/>
     <tag k="postal_code" v="09010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.villamassargia.ca.it/"/>
+    <tag k="website" v="https://www.comune.villamassargia.ca.it/"/>
     <tag k="wikidata" v="Q286768"/>
     <tag k="wikipedia" v="it:Villamassargia"/>
     <tag k="wikipedia:sc" v="Bidda Matzràxia"/>
@@ -24435,7 +24445,7 @@
     <tag k="wikipedia" v="it:Austis"/>
     <tag k="wikipedia:sc" v="Austis"/>
   </node>
-  <node id="72991791" lat="39.0744310" lon="8.6659380" version="40" timestamp="2017-03-03T19:53:54Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72991791" lat="39.0744310" lon="8.6659380" version="41" timestamp="2023-04-22T19:41:00Z" changeset="135241274" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7504"/>
     <tag k="name" v="Piscinas"/>
     <tag k="name:it" v="Piscinas"/>
@@ -24445,12 +24455,12 @@
     <tag k="postal_code" v="09010"/>
     <tag k="ref:LOCODE" v="ITZQW"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.piscinas.ci.it/"/>
+    <tag k="website" v="https://www.comune.piscinas.ci.it/"/>
     <tag k="wikidata" v="Q286625"/>
     <tag k="wikipedia" v="it:Piscinas"/>
     <tag k="wikipedia:sc" v="Piscinas"/>
   </node>
-  <node id="72991806" lat="39.2541390" lon="9.1788460" version="47" timestamp="2018-07-16T19:06:15Z" changeset="60773809" uid="2589877" user="kent1D">
+  <node id="72991806" lat="39.2541390" lon="9.1788460" version="48" timestamp="2023-04-22T19:38:45Z" changeset="135241189" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Cuartuciu"/>
     <tag k="gfoss_id" v="7502"/>
     <tag k="int_name" v="Quartucciu"/>
@@ -24462,7 +24472,7 @@
     <tag k="population" v="10766"/>
     <tag k="postal_code" v="09044"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.quartucciu.ca.it/"/>
+    <tag k="website" v="https://www.comune.quartucciu.ca.it/"/>
     <tag k="wikidata" v="Q284501"/>
     <tag k="wikipedia" v="it:Quartucciu"/>
     <tag k="wikipedia:sc" v="Quartùcciu"/>
