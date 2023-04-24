@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.59.5 b201bb38">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-23T02:36:24Z" areas="2023-04-22T22:31:50Z"/>
+<meta osm_base="2023-04-24T02:30:30Z" areas="2023-04-23T22:18:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="13" timestamp="2022-05-07T21:14:46Z" changeset="120683192" uid="8536397" user="Antimuonium">
     <tag k="addr:postcode" v="74170"/>
@@ -1435,7 +1435,7 @@
     <tag k="population" v="1931"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508634" lat="45.9256920" lon="10.2508620" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508634" lat="45.9258392" lon="10.2508308" version="3" timestamp="2023-04-23T07:52:59Z" changeset="135251753" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2240"/>
     <tag k="name" v="Esine"/>
     <tag k="place" v="village"/>
@@ -6444,9 +6444,8 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022663"/>
   </node>
-  <node id="63626449" lat="44.1089458" lon="8.0030740" version="5" timestamp="2023-01-17T19:44:07Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63626449" lat="44.1089458" lon="8.0030740" version="6" timestamp="2023-04-23T12:05:45Z" changeset="135259146" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="494"/>
-    <tag k="is_in" v="Cuneo, Piemonte, Italy"/>
     <tag k="name" v="Alto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="104"/>
@@ -8330,7 +8329,7 @@
     <tag k="population" v="892"/>
     <tag k="wikidata" v="Q30025836"/>
   </node>
-  <node id="64777172" lat="46.5982157" lon="11.5325098" version="8" timestamp="2020-10-31T21:58:36Z" changeset="93353575" uid="8199540" user="Marcello Perathoner">
+  <node id="64777172" lat="46.5982585" lon="11.5318969" version="9" timestamp="2023-04-23T20:49:50Z" changeset="135277247" uid="1714220" user="luschi">
     <tag k="gfoss_id" v="2816"/>
     <tag k="name" v="Waidbruck - Ponte Gardena"/>
     <tag k="name:de" v="Waidbruck"/>
@@ -12031,13 +12030,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="5260"/>
     <tag k="source" v="Istat gennaio 2023"/>
-  </node>
-  <node id="67257067" lat="38.0188460" lon="12.8858370" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Castellammare del Golfo"/>
-    <tag k="name:scn" v="Casteddammari"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14597"/>
-    <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="67257114" lat="37.7713420" lon="12.8776390" version="8" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Santa Ninfa"/>
@@ -17211,13 +17203,6 @@
     <tag k="population" v="1370"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68567694" lat="41.0083726" lon="14.9559541" version="5" timestamp="2023-02-15T14:28:04Z" changeset="132584782" uid="18490317" user="Kira-Group">
-    <tag k="gfoss_id" v="5536"/>
-    <tag k="name" v="Taurasi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2750"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68567835" lat="41.0198267" lon="15.1113184" version="7" timestamp="2016-09-01T23:10:15Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5533"/>
     <tag k="name" v="Sturno"/>
@@ -17755,13 +17740,6 @@
     <tag k="name" v="Camigliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1739"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68579894" lat="41.1600160" lon="14.2323260" version="2" timestamp="2016-09-02T23:58:38Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5163"/>
-    <tag k="name" v="Bellona"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5103"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68579913" lat="41.0242566" lon="14.4970522" version="4" timestamp="2016-08-31T23:04:11Z" changeset="41838072" uid="743479" user="fayor">
@@ -26845,9 +26823,9 @@
     <tag k="wikidata" v="Q100919"/>
     <tag k="wikipedia" v="it:San Secondo Parmense"/>
   </node>
-  <node id="394739006" lat="43.0593353" lon="11.6044087" version="13" timestamp="2023-04-16T20:31:37Z" changeset="134991055" uid="178610" user="Pab09">
+  <node id="394739006" lat="43.0593353" lon="11.6044087" version="14" timestamp="2023-04-23T12:27:25Z" changeset="135259773" uid="17965418" user="DabMK">
     <tag k="name" v="San Quirico d'Orcia"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="2662"/>
   </node>
   <node id="395603809" lat="43.9567671" lon="12.1959387" version="5" timestamp="2022-01-27T23:08:19Z" changeset="116685553" uid="554973" user="dgitto">
