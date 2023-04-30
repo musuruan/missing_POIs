@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-29T02:28:05Z" areas="2023-04-28T21:34:37Z"/>
+<meta osm_base="2023-04-30T02:28:24Z" areas="2023-04-30T01:46:06Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7452,10 +7452,12 @@
     <tag k="population" v="1704"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629686" lat="45.5841595" lon="7.8118976" version="10" timestamp="2023-04-11T20:11:37Z" changeset="134789323" uid="18919519" user="yannis323">
+  <node id="63629686" lat="45.5833024" lon="7.8104064" version="11" timestamp="2023-04-29T12:28:37Z" changeset="135502092" uid="90379" user="Andrea Musuruane">
+    <tag k="gfoss_id" v="57"/>
     <tag k="name" v="Carema"/>
     <tag k="place" v="village"/>
     <tag k="population" v="770"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63629715" lat="45.2000490" lon="7.5689170" version="4" timestamp="2023-01-17T19:54:10Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="220"/>
@@ -27102,9 +27104,9 @@
     <tag k="name" v="Casatta"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="1258081254" lat="45.7615649" lon="7.5321619" version="10" timestamp="2023-04-15T22:17:57Z" changeset="134957409" uid="18892689" user="ComitéNosAccents">
+  <node id="1258081254" lat="45.7615649" lon="7.5321619" version="11" timestamp="2023-04-29T12:28:37Z" changeset="135502092" uid="90379" user="Andrea Musuruane">
     <tag k="ele" v="1017"/>
-    <tag k="name" v="Verrayes"/>
+    <tag k="name" v="Verrayes capoluogo"/>
     <tag k="name:frp" v="Vèèi"/>
     <tag k="place" v="village"/>
   </node>
@@ -27168,9 +27170,8 @@
     <tag k="population" v="1083"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="1353509434" lat="45.8736327" lon="7.4229025" version="13" timestamp="2023-04-11T20:11:37Z" changeset="134789323" uid="18919519" user="yannis323">
-    <tag k="alt_name" v="Plan de Veyne"/>
-    <tag k="name" v="Bionaz"/>
+  <node id="1353509434" lat="45.8736327" lon="7.4229025" version="14" timestamp="2023-04-29T12:28:37Z" changeset="135502092" uid="90379" user="Andrea Musuruane">
+    <tag k="name" v="Plan de Veyne"/>
     <tag k="place" v="hamlet"/>
   </node>
   <node id="1366789571" lat="45.7279673" lon="7.3522207" version="9" timestamp="2023-04-15T23:34:43Z" changeset="134958487" uid="18892689" user="ComitéNosAccents">
@@ -27861,7 +27862,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2401"/>
   </node>
-  <node id="3420413061" lat="46.1120630" lon="11.3218180" version="9" timestamp="2021-12-21T07:38:17Z" changeset="115194579" uid="61042" user="Agh">
+  <node id="3420413061" lat="46.1120630" lon="11.3218180" version="10" timestamp="2023-04-29T19:00:15Z" changeset="135515076" uid="6269039" user="giocomai">
     <tag k="alt_name:it" v="Fierozzo di Dentro"/>
     <tag k="alt_name:mhn" v="Innervlarötz"/>
     <tag k="name" v="Mitterpèrg - San Felice"/>
@@ -27869,6 +27870,7 @@
     <tag k="name:mhn" v="Mitterpèrg"/>
     <tag k="place" v="village"/>
     <tag k="population" v="67"/>
+    <tag k="wikidata" v="Q18482643"/>
   </node>
   <node id="3687249567" lat="42.9100282" lon="12.3370419" version="9" timestamp="2017-11-11T16:51:53Z" changeset="53695173" uid="1211510" user="arcanma">
     <tag k="ele" v="184"/>
