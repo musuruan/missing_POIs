@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-04-30T02:28:24Z" areas="2023-04-30T01:46:06Z"/>
+<meta osm_base="2023-05-01T02:30:36Z" areas="2023-05-01T01:20:38Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -958,7 +958,7 @@
     <tag k="population" v="2248"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506830" lat="45.5913800" lon="9.8092590" version="1" timestamp="2007-10-10T06:18:33Z" changeset="85182" uid="864" user="Niccolo">
+  <node id="62506830" lat="45.5913800" lon="9.8092590" version="2" timestamp="2023-04-30T15:41:48Z" changeset="135542343" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="2063"/>
     <tag k="is_in" v="Bergamo, Lombardia, Italy"/>
@@ -966,6 +966,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2588"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028041"/>
   </node>
   <node id="62506849" lat="45.4698770" lon="9.8019610" version="2" timestamp="2020-02-08T08:55:59Z" changeset="80717089" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2024"/>
@@ -11142,13 +11143,6 @@
     <tag k="name:scn" v="Mazzarruni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3952"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
-  <node id="67254546" lat="37.8290222" lon="14.8656644" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Maletto"/>
-    <tag k="name:scn" v="Malettu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3604"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67254730" lat="37.6101657" lon="15.0967587" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
