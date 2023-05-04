@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-03T02:27:55Z" areas="2023-04-25T08:53:24Z"/>
+<meta osm_base="2023-05-04T02:27:20Z" areas="2023-05-04T00:05:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -15016,13 +15016,16 @@
     <tag k="population" v="2177"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284025" lat="41.4857240" lon="14.4729270" version="10" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
+  <node id="67284025" lat="41.4857240" lon="14.4729270" version="11" timestamp="2023-05-03T15:17:44Z" changeset="135665614" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="480"/>
     <tag k="gfoss_id" v="6015"/>
     <tag k="name" v="Bojano"/>
     <tag k="place" v="town"/>
     <tag k="population" v="8312"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q277374"/>
+    <tag k="wikimedia_commons" v="Category:Bojano (Italy)"/>
+    <tag k="wikipedia" v="it:Bojano"/>
   </node>
   <node id="67284027" lat="41.5260260" lon="14.5594280" version="2" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6014"/>
