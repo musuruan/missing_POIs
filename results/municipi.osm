@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-07T02:30:39Z" areas="2023-05-06T22:51:34Z"/>
+<meta osm_base="2023-05-08T02:26:26Z" areas="2023-04-25T08:53:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6143,13 +6143,6 @@
     <tag k="population" v="5303"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581123" lat="40.5557701" lon="14.2136040" version="5" timestamp="2019-12-02T03:13:47Z" changeset="77796740" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="5342"/>
-    <tag k="name" v="Anacapri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5855"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68581153" lat="40.9521422" lon="14.5514360" version="3" timestamp="2021-01-14T12:43:07Z" changeset="97496069" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5367"/>
     <tag k="name" v="Comiziano"/>
@@ -6164,14 +6157,10 @@
     <tag k="population" v="2025"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581313" lat="40.6336700" lon="14.6026095" version="7" timestamp="2020-08-08T16:45:20Z" changeset="89133407" uid="10866488" user="sfusato">
-    <tag k="gfoss_id" v="5555"/>
+  <node id="68581313" lat="40.6343229" lon="14.6025543" version="8" timestamp="2023-05-08T00:22:53Z" changeset="135830222" uid="19193084" user="user_19193084">
     <tag k="name" v="Amalfi"/>
-    <tag k="name:ru" v="Амальфи"/>
-    <tag k="name:zh" v="阿马尔菲"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5428"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.amalfi.com"/>
   </node>
   <node id="68581408" lat="40.9254140" lon="14.5828370" version="2" timestamp="2016-08-31T23:04:20Z" changeset="41838072" uid="743479" user="fayor">
@@ -6274,7 +6263,7 @@
     <tag k="population" v="2202"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581745" lat="40.6369080" lon="14.6075410" version="2" timestamp="2016-08-30T01:07:06Z" changeset="41791239" uid="743479" user="fayor">
+  <node id="68581745" lat="40.6360239" lon="14.6087851" version="3" timestamp="2023-05-08T00:22:53Z" changeset="135830222" uid="19193084" user="user_19193084">
     <tag k="gfoss_id" v="5560"/>
     <tag k="name" v="Atrani"/>
     <tag k="place" v="village"/>
@@ -6345,7 +6334,7 @@
     <tag k="population" v="1280"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582065" lat="40.6489080" lon="14.6401410" version="2" timestamp="2016-08-30T01:07:11Z" changeset="41791239" uid="743479" user="fayor">
+  <node id="68582065" lat="40.6503690" lon="14.6409447" version="3" timestamp="2023-05-08T00:22:53Z" changeset="135830222" uid="19193084" user="user_19193084">
     <tag k="gfoss_id" v="5615"/>
     <tag k="name" v="Maiori"/>
     <tag k="place" v="village"/>
@@ -9081,15 +9070,6 @@
     <tag k="population" v="3436"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72964427" lat="42.5379248" lon="12.0309974" version="5" timestamp="2021-01-23T21:14:02Z" changeset="98036313" uid="3335899" user="GBAB">
-    <tag k="gfoss_id" v="4814"/>
-    <tag k="name" v="Montefiascone"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13432"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q176142"/>
-    <tag k="wikipedia" v="it:Montefiascone"/>
-  </node>
   <node id="72964430" lat="42.6053622" lon="12.1876584" version="3" timestamp="2017-01-06T15:14:39Z" changeset="44955653" uid="3151555" user="Dino Michelini">
     <tag k="gfoss_id" v="4800"/>
     <tag k="name" v="Civitella d'Agliano"/>
@@ -9539,5 +9519,6 @@
     <tag k="name" v="San Vincenzo Valle Roveto"/>
     <tag k="place" v="village"/>
   </node>
+  <node id="10876753346" lat="40.5557701" lon="14.2136040" version="1" timestamp="2023-05-08T00:22:53Z" changeset="135830222" uid="19193084" user="user_19193084"/>
 
 </osm>
