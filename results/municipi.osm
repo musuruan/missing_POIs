@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-08T02:26:26Z" areas="2023-04-25T08:53:24Z"/>
+<meta osm_base="2023-05-09T02:26:36Z" areas="2023-05-08T22:07:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4688,6 +4688,14 @@
     <tag k="population" v="1450"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="68528711" lat="40.8978290" lon="16.8424870" version="4" timestamp="2016-10-27T19:08:47Z" changeset="43226231" uid="2511706" user="calfarome">
+    <tag k="gfoss_id" v="6161"/>
+    <tag k="name" v="Acquaviva delle Fonti"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="20799"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q51810"/>
+  </node>
   <node id="68528727" lat="41.0503200" lon="16.9167417" version="6" timestamp="2016-10-27T19:09:46Z" changeset="43226265" uid="2511706" user="calfarome">
     <tag k="gfoss_id" v="6174"/>
     <tag k="name" v="Capurso"/>
@@ -6143,6 +6151,13 @@
     <tag k="population" v="5303"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="68581123" lat="40.5557701" lon="14.2136040" version="7" timestamp="2023-05-08T08:53:23Z" changeset="135842369" uid="11220113" user="ivanbranco">
+    <tag k="gfoss_id" v="5342"/>
+    <tag k="name" v="Anacapri"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5855"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="68581153" lat="40.9521422" lon="14.5514360" version="3" timestamp="2021-01-14T12:43:07Z" changeset="97496069" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5367"/>
     <tag k="name" v="Comiziano"/>
@@ -6157,10 +6172,14 @@
     <tag k="population" v="2025"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581313" lat="40.6343229" lon="14.6025543" version="8" timestamp="2023-05-08T00:22:53Z" changeset="135830222" uid="19193084" user="user_19193084">
+  <node id="68581313" lat="40.6336700" lon="14.6026095" version="9" timestamp="2023-05-08T08:53:23Z" changeset="135842369" uid="11220113" user="ivanbranco">
+    <tag k="gfoss_id" v="5555"/>
     <tag k="name" v="Amalfi"/>
+    <tag k="name:ru" v="Амальфи"/>
+    <tag k="name:zh" v="阿马尔菲"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5428"/>
+    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.amalfi.com"/>
   </node>
   <node id="68581408" lat="40.9254140" lon="14.5828370" version="2" timestamp="2016-08-31T23:04:20Z" changeset="41838072" uid="743479" user="fayor">
@@ -6263,7 +6282,7 @@
     <tag k="population" v="2202"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581745" lat="40.6360239" lon="14.6087851" version="3" timestamp="2023-05-08T00:22:53Z" changeset="135830222" uid="19193084" user="user_19193084">
+  <node id="68581745" lat="40.6369080" lon="14.6075410" version="4" timestamp="2023-05-08T08:53:23Z" changeset="135842369" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="5560"/>
     <tag k="name" v="Atrani"/>
     <tag k="place" v="village"/>
@@ -6334,7 +6353,7 @@
     <tag k="population" v="1280"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582065" lat="40.6503690" lon="14.6409447" version="3" timestamp="2023-05-08T00:22:53Z" changeset="135830222" uid="19193084" user="user_19193084">
+  <node id="68582065" lat="40.6489080" lon="14.6401410" version="4" timestamp="2023-05-08T08:53:23Z" changeset="135842369" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="5615"/>
     <tag k="name" v="Maiori"/>
     <tag k="place" v="village"/>
@@ -9519,6 +9538,5 @@
     <tag k="name" v="San Vincenzo Valle Roveto"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="10876753346" lat="40.5557701" lon="14.2136040" version="1" timestamp="2023-05-08T00:22:53Z" changeset="135830222" uid="19193084" user="user_19193084"/>
 
 </osm>
