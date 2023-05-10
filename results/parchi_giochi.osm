@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-09T02:29:36Z" areas="2023-05-08T22:07:23Z"/>
+<meta osm_base="2023-05-10T02:28:09Z" areas="2023-05-09T21:45:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -22881,13 +22881,14 @@
     <tag k="population" v="1201"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962717" lat="41.8296733" lon="12.9722464" version="4" timestamp="2020-06-20T09:36:20Z" changeset="86905408" uid="3860151" user="Michele Aquilani">
+  <node id="72962717" lat="41.8296733" lon="12.9722464" version="5" timestamp="2023-05-09T13:42:15Z" changeset="135896733" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4953"/>
     <tag k="name" v="Genazzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6036"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q242675"/>
+    <tag k="wikimedia_commons" v="Category:Genazzano"/>
     <tag k="wikipedia" v="it:Genazzano"/>
   </node>
   <node id="72962733" lat="42.0825210" lon="12.4002730" version="3" timestamp="2021-01-13T17:17:32Z" changeset="97456285" uid="1669056" user="Maurizio Melani (forwalk)">
@@ -23168,12 +23169,15 @@
     <tag k="population" v="764"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963709" lat="41.8464200" lon="12.9454880" version="2" timestamp="2016-09-07T18:50:30Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963709" lat="41.8464200" lon="12.9454880" version="3" timestamp="2023-05-09T13:42:15Z" changeset="135896733" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4996"/>
     <tag k="name" v="Rocca di Cave"/>
     <tag k="place" v="village"/>
     <tag k="population" v="358"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q243220"/>
+    <tag k="wikimedia_commons" v="Category:Rocca di Cave"/>
+    <tag k="wikipedia" v="it:Rocca di Cave"/>
   </node>
   <node id="72963718" lat="42.2902415" lon="12.2138064" version="5" timestamp="2016-09-07T16:51:15Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4823"/>
@@ -27779,10 +27783,15 @@
     <tag k="name" v="Capiago"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="2773689927" lat="41.8060233" lon="13.0580683" version="2" timestamp="2016-09-07T16:57:06Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="2773689927" lat="41.8060233" lon="13.0580683" version="3" timestamp="2023-05-09T13:42:15Z" changeset="135896733" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Paliano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="8281"/>
+    <tag k="population" v="7933"/>
+    <tag k="population:date" v="2022-06-30"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q116961"/>
+    <tag k="wikimedia_commons" v="Category:Paliano"/>
+    <tag k="wikipedia" v="it:Paliano"/>
   </node>
   <node id="2808184554" lat="40.3229668" lon="15.0523949" version="2" timestamp="2016-08-30T01:07:18Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5696"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-09T02:27:24Z" areas="2023-05-08T22:07:23Z"/>
+<meta osm_base="2023-05-10T02:25:01Z" areas="2023-04-25T08:53:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -22506,10 +22506,15 @@
     <tag k="ref:istat" v="071040"/>
     <tag k="wikidata" v="Q51946"/>
   </node>
-  <node id="2773689927" lat="41.8060233" lon="13.0580683" version="2" timestamp="2016-09-07T16:57:06Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="2773689927" lat="41.8060233" lon="13.0580683" version="3" timestamp="2023-05-09T13:42:15Z" changeset="135896733" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Paliano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="8281"/>
+    <tag k="population" v="7933"/>
+    <tag k="population:date" v="2022-06-30"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q116961"/>
+    <tag k="wikimedia_commons" v="Category:Paliano"/>
+    <tag k="wikipedia" v="it:Paliano"/>
   </node>
   <node id="2889953902" lat="45.8128922" lon="8.9286792" version="3" timestamp="2022-07-26T09:55:43Z" changeset="124087284" uid="11220113" user="ivanbranco">
     <tag k="name" v="Caversaccio"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
+<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-09T02:27:24Z" areas="2023-04-25T08:53:24Z"/>
+<meta osm_base="2023-05-10T02:26:08Z" areas="2023-05-09T21:45:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -8173,12 +8173,15 @@
     <tag k="population" v="2163"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963709" lat="41.8464200" lon="12.9454880" version="2" timestamp="2016-09-07T18:50:30Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963709" lat="41.8464200" lon="12.9454880" version="3" timestamp="2023-05-09T13:42:15Z" changeset="135896733" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4996"/>
     <tag k="name" v="Rocca di Cave"/>
     <tag k="place" v="village"/>
     <tag k="population" v="358"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q243220"/>
+    <tag k="wikimedia_commons" v="Category:Rocca di Cave"/>
+    <tag k="wikipedia" v="it:Rocca di Cave"/>
   </node>
   <node id="72963725" lat="42.4605984" lon="12.3856056" version="8" timestamp="2022-09-04T11:09:15Z" changeset="125768209" uid="3800982" user="Lumocra">
     <tag k="name" v="Orte"/>
