@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-16T02:30:18Z" areas="2023-04-25T08:53:24Z"/>
+<meta osm_base="2023-05-17T02:30:37Z" areas="2023-05-16T23:32:53Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -22,42 +22,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="8611"/>
     <tag k="postal_code" v="74400"/>
-  </node>
-  <node id="29098903" lat="45.5284919" lon="13.5684109" version="28" timestamp="2023-03-18T20:06:50Z" changeset="133836709" uid="3667522" user="Drosum">
-    <tag k="alt_name:it" v="Pirano d'Istria"/>
-    <tag k="alt_name:la" v="Piranum;Pyrhanum;Castrum Pyrhani"/>
-    <tag k="name" v="Piran / Pirano"/>
-    <tag k="name:ar" v="بيران"/>
-    <tag k="name:bg" v="Пиран"/>
-    <tag k="name:ce" v="Пиран"/>
-    <tag k="name:el" v="Πιράν"/>
-    <tag k="name:fa" v="پیران"/>
-    <tag k="name:he" v="פיראן"/>
-    <tag k="name:hr" v="Piran"/>
-    <tag k="name:it" v="Pirano"/>
-    <tag k="name:ja" v="ピラン"/>
-    <tag k="name:ka" v="პირანი"/>
-    <tag k="name:ko" v="피란"/>
-    <tag k="name:la" v="Pyrrhanum"/>
-    <tag k="name:lt" v="Piranas"/>
-    <tag k="name:mk" v="Пиран"/>
-    <tag k="name:ru" v="Пиран"/>
-    <tag k="name:sl" v="Piran"/>
-    <tag k="name:sr" v="Пиран"/>
-    <tag k="name:tt" v="Пиран"/>
-    <tag k="name:uk" v="Пиран"/>
-    <tag k="name:ur" v="پیران"/>
-    <tag k="name:vec" v="Piràn"/>
-    <tag k="name:zh-Hans" v="皮兰"/>
-    <tag k="name:zh-Hant" v="皮蘭"/>
-    <tag k="old_name:de" v="Pirian"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="3827"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
-    <tag k="website" v="https://www.piran.si/"/>
-    <tag k="wikidata" v="Q1382"/>
-    <tag k="wikipedia" v="sl:Piran"/>
   </node>
   <node id="56040271" lat="44.3204868" lon="11.7992579" version="3" timestamp="2016-09-16T15:55:07Z" changeset="42205884" uid="743479" user="fayor">
     <tag k="name" v="Castel Bolognese"/>
@@ -27121,15 +27085,6 @@
     <tag k="name:frp" v="Vèèi"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="1271008791" lat="45.3636394" lon="11.3390076" version="2" timestamp="2021-03-28T13:48:08Z" changeset="101874419" uid="504502" user="kkklllppp">
-    <tag k="ele" v="29"/>
-    <tag k="gfoss_id" v="25405"/>
-    <tag k="istat_id" v="2147483647"/>
-    <tag k="name" v="Santo Stefano di Zimella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2682"/>
-    <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
   <node id="1274631717" lat="42.4093586" lon="12.7665388" version="6" timestamp="2018-05-15T09:20:45Z" changeset="58976905" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="4863"/>
     <tag k="name" v="Contigliano"/>
@@ -28049,6 +28004,11 @@
     <tag k="name" v="Lusia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="31"/>
+  </node>
+  <node id="4439307787" lat="45.3637799" lon="11.3393157" version="2" timestamp="2023-05-16T07:33:06Z" changeset="136154622" uid="4930752" user="datamove">
+    <tag k="name" v="Zimella"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4952"/>
   </node>
   <node id="4464079813" lat="46.4118147" lon="10.9708987" version="5" timestamp="2021-08-23T14:00:13Z" changeset="110119348" uid="1834719" user="LvdT">
     <tag k="name" v="Bresimo"/>

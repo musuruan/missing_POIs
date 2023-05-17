@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-16T02:27:23Z" areas="2023-05-16T00:24:32Z"/>
+<meta osm_base="2023-05-17T02:27:30Z" areas="2023-05-16T23:32:53Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5860,19 +5860,6 @@
     <tag k="population" v="7149"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580142" lat="41.1079984" lon="14.2097176" version="7" timestamp="2016-10-27T18:40:23Z" changeset="43225309" uid="2748195" user="karitotp">
-    <tag k="gfoss_id" v="5171"/>
-    <tag k="name" v="Capua"/>
-    <tag k="name:fr" v="Capoue"/>
-    <tag k="name:it" v="Capua"/>
-    <tag k="name:pl" v="Kapua"/>
-    <tag k="name:uk" v="Капуа"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="18820"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q58477"/>
-    <tag k="wikipedia" v="it:Capua"/>
-  </node>
   <node id="68580158" lat="41.1783215" lon="14.3649478" version="4" timestamp="2020-05-08T17:20:41Z" changeset="84907635" uid="11045191" user="Settebello">
     <tag k="gfoss_id" v="5165"/>
     <tag k="name" v="Caiazzo"/>
@@ -9262,15 +9249,6 @@
     <tag k="wikidata" v="Q59297"/>
     <tag k="wikipedia" v="it:Sant'Elpidio a Mare"/>
   </node>
-  <node id="1271008791" lat="45.3636394" lon="11.3390076" version="2" timestamp="2021-03-28T13:48:08Z" changeset="101874419" uid="504502" user="kkklllppp">
-    <tag k="ele" v="29"/>
-    <tag k="gfoss_id" v="25405"/>
-    <tag k="istat_id" v="2147483647"/>
-    <tag k="name" v="Santo Stefano di Zimella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2682"/>
-    <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
   <node id="1274631717" lat="42.4093586" lon="12.7665388" version="6" timestamp="2018-05-15T09:20:45Z" changeset="58976905" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="4863"/>
     <tag k="name" v="Contigliano"/>
@@ -9491,6 +9469,11 @@
     <tag k="population" v="1635"/>
     <tag k="wikidata" v="Q50080"/>
     <tag k="wikipedia" v="it:Cerchio (Italia)"/>
+  </node>
+  <node id="4439307787" lat="45.3637799" lon="11.3393157" version="2" timestamp="2023-05-16T07:33:06Z" changeset="136154622" uid="4930752" user="datamove">
+    <tag k="name" v="Zimella"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4952"/>
   </node>
   <node id="5261897138" lat="44.4758995" lon="10.0889264" version="1" timestamp="2017-12-03T12:54:29Z" changeset="54296789" uid="7073950" user="Ziomio">
     <tag k="name" v="Corniglio"/>
