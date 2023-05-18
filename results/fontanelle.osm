@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-17T02:29:34Z" areas="2023-05-17T00:07:19Z"/>
+<meta osm_base="2023-05-18T02:28:35Z" areas="2023-05-17T23:50:53Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10960,12 +10960,15 @@
     <tag k="population" v="358"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991868" lat="42.2549400" lon="14.3223130" version="2" timestamp="2016-09-07T16:52:24Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70991868" lat="42.2549400" lon="14.3223130" version="3" timestamp="2023-05-17T11:12:10Z" changeset="136207861" uid="1940323" user="SekeRob">
     <tag k="gfoss_id" v="5975"/>
     <tag k="name" v="Poggiofiorito"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="951"/>
+    <tag k="population" v="870"/>
+    <tag k="postal_code" v="66030"/>
+    <tag k="residential" v="rural"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://italia.indettaglio.it/ita/abruzzo/poggiofiorito.html"/>
   </node>
   <node id="70991878" lat="42.1378390" lon="14.5917210" version="2" timestamp="2016-09-07T16:52:24Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5976"/>
@@ -11911,16 +11914,16 @@
     <tag k="wikipedia" v="it:Sanluri"/>
     <tag k="wikipedia:sc" v="Seddori"/>
   </node>
-  <node id="72990741" lat="39.8785705" lon="9.5410772" version="55" timestamp="2022-04-08T23:17:03Z" changeset="119487784" uid="10255266" user="BodhidharmaI">
+  <node id="72990741" lat="39.8785705" lon="9.5410772" version="56" timestamp="2023-05-17T13:58:20Z" changeset="136214990" uid="10721323" user="Lorenzo Zucca">
     <tag k="alt_name" v="Lanusè"/>
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="7333"/>
     <tag k="int_name" v="Lanusei"/>
-    <tag k="name" v="Lanusèi/Lanusei"/>
+    <tag k="name" v="Lanusè/Lanusei"/>
     <tag k="name:en" v="Lanusei"/>
     <tag k="name:it" v="Lanusei"/>
     <tag k="name:ru" v="Ланузеи"/>
-    <tag k="name:sc" v="Lanusèi"/>
+    <tag k="name:sc" v="Lanusè"/>
     <tag k="name:zh" v="拉努塞伊"/>
     <tag k="note" v="ha meno di 10000 abitanti (requisito formale per place=town in Italia), ma è un il centro più importante nella regione geografica (Ogliastra) insieme a Tortolì"/>
     <tag k="place" v="town"/>
