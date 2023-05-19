@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-18T02:29:37Z" areas="2023-05-17T23:50:53Z"/>
+<meta osm_base="2023-05-19T02:29:51Z" areas="2023-05-18T23:27:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -21357,13 +21357,6 @@
     <tag k="population" v="405"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993006" lat="41.8862984" lon="13.5833430" version="3" timestamp="2020-04-03T17:27:45Z" changeset="83047798" uid="1876027" user="michele stress">
-    <tag k="gfoss_id" v="5746"/>
-    <tag k="name" v="Collelongo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1514"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70993018" lat="42.1241749" lon="13.8424893" version="3" timestamp="2020-12-19T09:47:40Z" changeset="96101964" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="5748"/>
     <tag k="name" v="Corfinio"/>
@@ -28220,6 +28213,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="445"/>
     <tag k="source" v="Istat gennaio 2023"/>
+  </node>
+  <node id="6986902195" lat="45.7737507" lon="9.0017492" version="2" timestamp="2023-04-19T17:38:08Z" changeset="135114279" uid="18309341" user="saifanjahmal">
+    <tag k="name" v="Lurate"/>
+    <tag k="place" v="suburb"/>
   </node>
   <node id="7132841997" lat="40.9469957" lon="14.6382602" version="1" timestamp="2020-01-15T10:25:11Z" changeset="79602283" uid="10639077" user="Felice Noviello">
     <tag k="name" v="Quadrelle"/>
