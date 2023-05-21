@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-20T02:26:13Z" areas="2023-05-19T21:58:24Z"/>
+<meta osm_base="2023-05-21T02:34:22Z" areas="2023-05-20T21:24:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -28,6 +28,13 @@
     <tag k="name" v="Lucignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3468"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="61753407" lat="43.5279646" lon="11.7631758" version="3" timestamp="2019-09-06T00:57:43Z" changeset="74153812" uid="478872" user="mcheck">
+    <tag k="gfoss_id" v="4594"/>
+    <tag k="name" v="Castiglion Fibocchi"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1985"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753659" lat="43.9038155" lon="11.0033961" version="5" timestamp="2016-10-26T10:11:51Z" changeset="43187810" uid="3479270" user="nammala">
@@ -10175,13 +10182,6 @@
     <tag k="name" v="Besenzone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="953"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301130" lat="44.9262610" lon="9.4960640" version="2" timestamp="2016-09-21T13:17:25Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3873"/>
-    <tag k="name" v="Piozzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="696"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301189" lat="44.8327057" lon="9.7298940" version="4" timestamp="2022-06-29T18:14:35Z" changeset="123013957" uid="1950277" user="Mannivu">
