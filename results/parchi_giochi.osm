@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-21T02:35:21Z" areas="2023-05-20T22:36:15Z"/>
+<meta osm_base="2023-05-22T02:35:01Z" areas="2023-05-21T22:08:36Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4079,9 +4079,8 @@
     <tag k="population" v="867"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517503" lat="45.9345252" lon="8.7858239" version="2" timestamp="2016-10-02T10:52:22Z" changeset="42579448" uid="1476146" user="Alecs01">
+  <node id="62517503" lat="45.9345252" lon="8.7858239" version="3" timestamp="2023-05-21T18:15:30Z" changeset="136382734" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="1425"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Ferrera di Varese"/>
     <tag k="place" v="village"/>
     <tag k="population" v="564"/>
@@ -10773,7 +10772,7 @@
     <tag k="population" v="1991"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587202" lat="44.1765215" lon="8.2686297" version="4" timestamp="2023-02-05T17:52:57Z" changeset="132122780" uid="18344592" user="Alessandro Oddo">
+  <node id="66587202" lat="44.1766002" lon="8.2685484" version="5" timestamp="2023-05-21T08:53:59Z" changeset="136363688" uid="18344592" user="Alessandro Oddo">
     <tag k="gfoss_id" v="1250"/>
     <tag k="name" v="Tovo San Giacomo"/>
     <tag k="place" v="village"/>
@@ -16318,10 +16317,13 @@
     <tag k="population" v="13987"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529136" lat="41.9287487" lon="15.8837691" version="3" timestamp="2023-04-03T17:51:02Z" changeset="134465557" uid="18841250" user="leonardashley87330">
+  <node id="68529136" lat="41.9287487" lon="15.8837691" version="4" timestamp="2023-05-21T21:25:01Z" changeset="136388037" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Rodi Garganico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3778"/>
+    <tag k="wikidata" v="Q51949"/>
+    <tag k="wikimedia_commons" v="Category:Rodi Garganico"/>
+    <tag k="wikipedia" v="it:Rodi Garganico"/>
   </node>
   <node id="68529140" lat="41.1035240" lon="15.4617540" version="2" timestamp="2016-08-27T16:24:14Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6138"/>
