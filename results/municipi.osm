@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.2 e4cf9f7a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-05-30T02:32:47Z" areas="2023-05-30T00:14:59Z"/>
+<meta osm_base="2023-05-31T02:47:54Z" areas="2023-05-31T01:56:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -8652,12 +8652,14 @@
     <tag k="population" v="764"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962733" lat="42.0825210" lon="12.4002730" version="3" timestamp="2021-01-13T17:17:32Z" changeset="97456285" uid="1669056" user="Maurizio Melani (forwalk)">
+  <node id="72962733" lat="42.0825210" lon="12.4002730" version="4" timestamp="2023-05-30T22:11:07Z" changeset="136765030" uid="19435570" user="samylamiayasmine">
+    <tag k="ele" v="243"/>
     <tag k="gfoss_id" v="4949"/>
     <tag k="name" v="Formello"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12918"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.formello.rm.it/"/>
     <tag k="wikidata" v="Q242645"/>
   </node>
   <node id="72962747" lat="42.2548260" lon="12.5976750" version="2" timestamp="2016-09-07T18:50:25Z" changeset="41986239" uid="743479" user="fayor">
@@ -9370,10 +9372,14 @@
     <tag k="wikidata" v="Q52510"/>
     <tag k="wikipedia" v="it:Abriola"/>
   </node>
-  <node id="2673845419" lat="42.1410780" lon="12.3836686" version="3" timestamp="2021-01-13T16:49:31Z" changeset="97455152" uid="1669056" user="Maurizio Melani (forwalk)">
+  <node id="2673845419" lat="42.1410780" lon="12.3836686" version="4" timestamp="2023-05-30T22:16:51Z" changeset="136765180" uid="19435570" user="samylamiayasmine">
+    <tag k="ele" v="270"/>
     <tag k="name" v="Campagnano di Roma"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11571"/>
+    <tag k="population" v="11586"/>
+    <tag k="population:date" v="2017-04-30"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comunecampagnano.it/"/>
     <tag k="wikidata" v="Q241911"/>
   </node>
   <node id="2673996091" lat="42.4059662" lon="12.6859706" version="1" timestamp="2014-02-16T01:09:33Z" changeset="20587632" uid="69717" user="kaitu">
