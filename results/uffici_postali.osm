@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.60 f4c14d41">
+<osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-03T02:40:08Z" areas="2023-06-02T23:50:39Z"/>
+<meta osm_base="2023-06-04T03:01:18Z" areas="2023-06-03T23:29:06Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1753,7 +1753,7 @@
     <tag k="population" v="208"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509926" lat="45.8327443" lon="9.2323609" version="5" timestamp="2023-05-25T10:18:03Z" changeset="136536993" uid="19303717" user="gapathys">
+  <node id="62509926" lat="45.8327443" lon="9.2323609" version="7" timestamp="2023-06-03T12:10:59Z" changeset="136900065" uid="19471310" user="gapathys">
     <tag k="gfoss_id" v="1538"/>
     <tag k="name" v="Castelmarte"/>
     <tag k="place" v="village"/>
@@ -3953,7 +3953,7 @@
     <tag k="population" v="2642"/>
     <tag k="wikidata" v="Q30030801"/>
   </node>
-  <node id="62516755" lat="46.2203043" lon="9.8642208" version="6" timestamp="2023-05-25T08:53:34Z" changeset="136533212" uid="19303717" user="gapathys">
+  <node id="62516755" lat="46.2203043" lon="9.8642208" version="8" timestamp="2023-06-03T12:10:59Z" changeset="136900065" uid="19471310" user="gapathys">
     <tag k="ele" v="754"/>
     <tag k="name" v="Spriana"/>
     <tag k="place" v="village"/>
@@ -9313,9 +9313,9 @@
     <tag k="population" v="2892"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503311" lat="46.3740306" lon="13.0953599" version="7" timestamp="2019-05-16T23:54:03Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503311" lat="46.3740306" lon="13.0953599" version="8" timestamp="2023-06-03T13:57:11Z" changeset="136903286" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3673"/>
-    <tag k="name" v="Amaro"/>
+    <tag k="name" v="Amaro / Damâr"/>
     <tag k="name:fur" v="Damâr"/>
     <tag k="place" v="village"/>
     <tag k="population" v="751"/>
@@ -11632,7 +11632,7 @@
     <tag k="population" v="1439"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280587" lat="40.0367080" lon="16.3345860" version="5" timestamp="2022-09-21T22:06:55Z" changeset="126482017" uid="9531524" user="Jerry Jorts">
+  <node id="67280587" lat="40.0365521" lon="16.3349364" version="6" timestamp="2023-06-04T00:43:11Z" changeset="136918906" uid="543072" user="lamacchiacosta">
     <tag k="gfoss_id" v="6374"/>
     <tag k="name" v="San Paolo Albanese"/>
     <tag k="name:sq" v="Shën Pali Arbëreshëve"/>
@@ -14901,11 +14901,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3013"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581298" lat="40.6572110" lon="15.0230500" version="2" timestamp="2016-08-31T01:50:32Z" changeset="41816306" uid="743479" user="fayor">
-    <tag k="name" v="Ariano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1673"/>
   </node>
   <node id="68581380" lat="40.7743100" lon="14.4620360" version="2" timestamp="2016-08-31T23:04:12Z" changeset="41838072" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5347"/>
