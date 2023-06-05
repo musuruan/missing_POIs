@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-04T03:00:24Z" areas="2023-06-03T23:29:06Z"/>
+<meta osm_base="2023-06-05T02:44:33Z" areas="2023-06-04T23:05:07Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4852,18 +4852,24 @@
     <tag k="population" v="7495"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529322" lat="40.2374250" lon="18.2552270" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529322" lat="40.2374250" lon="18.2552270" version="5" timestamp="2023-06-04T17:19:52Z" changeset="136941709" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6298"/>
     <tag k="name" v="Martignano"/>
+    <tag k="name:el" v="Μαρτινιάνο"/>
+    <tag k="name:it" v="Martignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1770"/>
+    <tag k="reg_name:el-it" v="Martignàna"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529328" lat="40.1738974" lon="18.2970106" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529328" lat="40.1738974" lon="18.2970106" version="7" timestamp="2023-06-04T17:40:27Z" changeset="136942302" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6275"/>
     <tag k="name" v="Castrignano de' Greci"/>
+    <tag k="name:el" v="Καστρινιάνο ντέι Γκρέκι"/>
+    <tag k="name:it" v="Castrignano de' Greci"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4107"/>
+    <tag k="reg_name:el-it" v="Kascignàna"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529352" lat="40.1263230" lon="18.2016270" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">

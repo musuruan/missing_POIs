@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-04T03:01:18Z" areas="2023-06-03T23:29:06Z"/>
+<meta osm_base="2023-06-05T02:45:36Z" areas="2023-06-04T23:05:07Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1753,7 +1753,7 @@
     <tag k="population" v="208"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509926" lat="45.8327443" lon="9.2323609" version="7" timestamp="2023-06-03T12:10:59Z" changeset="136900065" uid="19471310" user="gapathys">
+  <node id="62509926" lat="45.8332290" lon="9.2327030" version="16" timestamp="2023-06-05T01:41:13Z" changeset="136951607" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="1538"/>
     <tag k="name" v="Castelmarte"/>
     <tag k="place" v="village"/>
@@ -3953,10 +3953,10 @@
     <tag k="population" v="2642"/>
     <tag k="wikidata" v="Q30030801"/>
   </node>
-  <node id="62516755" lat="46.2203043" lon="9.8642208" version="8" timestamp="2023-06-03T12:10:59Z" changeset="136900065" uid="19471310" user="gapathys">
+  <node id="62516755" lat="46.2203043" lon="9.8642208" version="17" timestamp="2023-06-05T01:43:17Z" changeset="136951607" uid="1778799" user="SomeoneElse_Revert">
     <tag k="ele" v="754"/>
     <tag k="name" v="Spriana"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="hamlet"/>
     <tag k="population" v="79"/>
     <tag k="wikidata" v="Q40703"/>
     <tag k="wikipedia" v="it:Spriana"/>
@@ -10906,11 +10906,14 @@
     <tag k="population" v="410"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275050" lat="37.9306249" lon="15.9174518" version="5" timestamp="2017-03-05T13:46:20Z" changeset="46596366" uid="354284" user="sbiribizio">
+  <node id="67275050" lat="37.9306249" lon="15.9174518" version="6" timestamp="2023-06-04T15:49:06Z" changeset="136938349" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6733"/>
     <tag k="name" v="Bova Marina"/>
+    <tag k="name:el" v="Γιαλός του Βούα"/>
+    <tag k="name:it" v="Bova Marina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3967"/>
+    <tag k="reg_name:el-it" v="Jalò tu Vua"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54573"/>
     <tag k="wikipedia" v="it:Bova Marina"/>
@@ -13327,18 +13330,24 @@
     <tag k="population" v="8685"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529322" lat="40.2374250" lon="18.2552270" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529322" lat="40.2374250" lon="18.2552270" version="5" timestamp="2023-06-04T17:19:52Z" changeset="136941709" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6298"/>
     <tag k="name" v="Martignano"/>
+    <tag k="name:el" v="Μαρτινιάνο"/>
+    <tag k="name:it" v="Martignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1770"/>
+    <tag k="reg_name:el-it" v="Martignàna"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529328" lat="40.1738974" lon="18.2970106" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529328" lat="40.1738974" lon="18.2970106" version="7" timestamp="2023-06-04T17:40:27Z" changeset="136942302" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6275"/>
     <tag k="name" v="Castrignano de' Greci"/>
+    <tag k="name:el" v="Καστρινιάνο ντέι Γκρέκι"/>
+    <tag k="name:it" v="Castrignano de' Greci"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4107"/>
+    <tag k="reg_name:el-it" v="Kascignàna"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529343" lat="39.8892190" lon="18.3693330" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
@@ -13425,11 +13434,14 @@
     <tag k="population" v="2765"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529665" lat="40.2036212" lon="18.3019803" version="7" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529665" lat="40.2036212" lon="18.3019803" version="8" timestamp="2023-06-04T17:24:21Z" changeset="136941837" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6297"/>
     <tag k="name" v="Martano"/>
+    <tag k="name:el" v="Μαρτάνο"/>
+    <tag k="name:it" v="Martano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9225"/>
+    <tag k="reg_name:el-it" v="Martàna"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529719" lat="40.2894249" lon="17.9994144" version="6" timestamp="2016-09-09T00:49:43Z" changeset="42015514" uid="743479" user="fayor">
@@ -22319,10 +22331,13 @@
     <tag k="wikidata" v="Q52510"/>
     <tag k="wikipedia" v="it:Abriola"/>
   </node>
-  <node id="2663843258" lat="40.2500221" lon="18.2807272" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="2663843258" lat="40.2500221" lon="18.2807272" version="5" timestamp="2023-06-04T17:21:42Z" changeset="136941753" uid="117497" user="Gnurpsnewoel">
     <tag k="name" v="Calimera"/>
+    <tag k="name:el" v="Καλημέρα"/>
+    <tag k="name:it" v="Calimera"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7310"/>
+    <tag k="reg_name:el-it" v="Kalimèra"/>
   </node>
   <node id="2672321412" lat="40.9864545" lon="14.1753318" version="2" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="name" v="San Marcellino"/>

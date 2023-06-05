@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-04T03:02:22Z" areas="2023-06-04T00:17:54Z"/>
+<meta osm_base="2023-06-05T02:45:36Z" areas="2023-06-04T23:05:07Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3204,11 +3204,14 @@
     <tag k="population" v="2443"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275050" lat="37.9306249" lon="15.9174518" version="5" timestamp="2017-03-05T13:46:20Z" changeset="46596366" uid="354284" user="sbiribizio">
+  <node id="67275050" lat="37.9306249" lon="15.9174518" version="6" timestamp="2023-06-04T15:49:06Z" changeset="136938349" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6733"/>
     <tag k="name" v="Bova Marina"/>
+    <tag k="name:el" v="Γιαλός του Βούα"/>
+    <tag k="name:it" v="Bova Marina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3967"/>
+    <tag k="reg_name:el-it" v="Jalò tu Vua"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54573"/>
     <tag k="wikipedia" v="it:Bova Marina"/>
@@ -4687,11 +4690,14 @@
     <tag k="population" v="3112"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529328" lat="40.1738974" lon="18.2970106" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529328" lat="40.1738974" lon="18.2970106" version="7" timestamp="2023-06-04T17:40:27Z" changeset="136942302" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6275"/>
     <tag k="name" v="Castrignano de' Greci"/>
+    <tag k="name:el" v="Καστρινιάνο ντέι Γκρέκι"/>
+    <tag k="name:it" v="Castrignano de' Greci"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4107"/>
+    <tag k="reg_name:el-it" v="Kascignàna"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529337" lat="40.0730200" lon="18.1630729" version="6" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
@@ -4743,11 +4749,14 @@
     <tag k="population" v="9516"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529566" lat="40.2221250" lon="18.2252260" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529566" lat="40.2221250" lon="18.2252260" version="5" timestamp="2023-06-04T17:33:20Z" changeset="136942088" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6337"/>
     <tag k="name" v="Sternatia"/>
+    <tag k="name:el" v="Στερνατία"/>
+    <tag k="name:it" v="Sternatia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2699"/>
+    <tag k="reg_name:el-it" v="Chòra"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529584" lat="40.1017240" lon="18.4493330" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
@@ -8731,11 +8740,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="244"/>
   </node>
-  <node id="5007015665" lat="37.9275650" lon="15.7659980" version="1" timestamp="2017-08-01T10:32:35Z" changeset="50747897" uid="1006938" user="ardean80">
+  <node id="5007015665" lat="37.9275650" lon="15.7659980" version="4" timestamp="2023-06-04T16:49:26Z" changeset="136940784" uid="117497" user="Gnurpsnewoel">
+    <tag k="alt_name:it" v="Roghudi Nuovo"/>
     <tag k="gfoss_id" v="6788"/>
     <tag k="name" v="Roghudi"/>
+    <tag k="name:el" v="Ρογκούντι"/>
+    <tag k="name:it" v="Roghudi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1365"/>
+    <tag k="reg_name:el-it" v="Richùdi"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="5035076874" lat="42.5143337" lon="12.2925076" version="3" timestamp="2017-11-11T15:33:05Z" changeset="53693345" uid="1211510" user="arcanma">
