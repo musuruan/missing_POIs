@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-05T02:47:33Z" areas="2023-06-04T23:05:07Z"/>
+<meta osm_base="2023-06-06T02:51:46Z" areas="2023-06-05T22:41:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2542,14 +2542,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="121"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63622973" lat="44.6439440" lon="8.4249460" version="5" timestamp="2023-01-17T20:03:21Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="949"/>
-    <tag k="name" v="Melazzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1185"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027416"/>
   </node>
   <node id="63622991" lat="45.0138003" lon="8.8435726" version="6" timestamp="2023-01-17T19:57:26Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="ele" v="78"/>
@@ -6327,12 +6319,14 @@
     <tag k="population" v="1393"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274293" lat="39.7116002" lon="16.0484912" version="3" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274293" lat="39.7116002" lon="16.0484912" version="4" timestamp="2023-06-05T14:50:33Z" changeset="136976616" uid="69259" user="DnaX">
     <tag k="gfoss_id" v="6600"/>
     <tag k="name" v="San Donato di Ninea"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1778"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53962"/>
+    <tag k="wikipedia" v="it:San Donato di Ninea"/>
   </node>
   <node id="67274309" lat="39.6047970" lon="15.9148820" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6602"/>

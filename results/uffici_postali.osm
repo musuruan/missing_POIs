@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-05T02:45:36Z" areas="2023-06-04T23:05:07Z"/>
+<meta osm_base="2023-06-06T02:50:46Z" areas="2023-06-05T22:41:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1753,7 +1753,7 @@
     <tag k="population" v="208"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509926" lat="45.8332290" lon="9.2327030" version="16" timestamp="2023-06-05T01:41:13Z" changeset="136951607" uid="1778799" user="SomeoneElse_Revert">
+  <node id="62509926" lat="45.8332290" lon="9.2327030" version="26" timestamp="2023-06-05T21:25:49Z" changeset="136989678" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="1538"/>
     <tag k="name" v="Castelmarte"/>
     <tag k="place" v="village"/>
@@ -2336,7 +2336,7 @@
     <tag k="population" v="2374"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512021" lat="45.1119730" lon="10.3329790" version="3" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
+  <node id="62512021" lat="45.1116474" lon="10.3328342" version="4" timestamp="2023-06-05T14:22:04Z" changeset="136975510" uid="4930752" user="datamove">
     <tag k="gfoss_id" v="2681"/>
     <tag k="name" v="Voltido"/>
     <tag k="name:egl" v="Vultéed"/>
@@ -3953,7 +3953,7 @@
     <tag k="population" v="2642"/>
     <tag k="wikidata" v="Q30030801"/>
   </node>
-  <node id="62516755" lat="46.2203043" lon="9.8642208" version="17" timestamp="2023-06-05T01:43:17Z" changeset="136951607" uid="1778799" user="SomeoneElse_Revert">
+  <node id="62516755" lat="46.2203043" lon="9.8642208" version="29" timestamp="2023-06-05T21:26:09Z" changeset="136989678" uid="1778799" user="SomeoneElse_Revert">
     <tag k="ele" v="754"/>
     <tag k="name" v="Spriana"/>
     <tag k="place" v="hamlet"/>
@@ -9626,15 +9626,6 @@
     <tag k="population" v="503"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586909" lat="43.8264190" lon="7.6945450" version="4" timestamp="2022-04-19T10:57:34Z" changeset="119900992" uid="15596130" user="NJH_osm">
-    <tag k="gfoss_id" v="1178"/>
-    <tag k="name" v="Seborga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="279"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q269808"/>
-    <tag k="wikipedia" v="it:Seborga"/>
-  </node>
   <node id="66586956" lat="44.2238470" lon="9.7215181" version="4" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1330"/>
     <tag k="name" v="Borghetto di Vara"/>
@@ -10398,13 +10389,6 @@
     <tag k="name" v="Tarsia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2383"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274293" lat="39.7116002" lon="16.0484912" version="3" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6600"/>
-    <tag k="name" v="San Donato di Ninea"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1778"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274309" lat="39.6047970" lon="15.9148820" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
@@ -18639,12 +18623,15 @@
     <tag k="population" v="910"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963142" lat="41.8629967" lon="12.9518024" version="3" timestamp="2016-09-07T18:50:24Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963142" lat="41.8629967" lon="12.9518024" version="4" timestamp="2023-06-05T15:58:43Z" changeset="136979272" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4930"/>
     <tag k="name" v="Capranica Prenestina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="334"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q241990"/>
+    <tag k="wikimedia_commons" v="Category:Capranica Prenestina"/>
+    <tag k="wikipedia" v="it:Capranica Prenestina"/>
   </node>
   <node id="72963186" lat="41.6991180" lon="13.0517930" version="3" timestamp="2023-01-16T11:43:16Z" changeset="131334659" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4952"/>
@@ -18746,12 +18733,13 @@
     <tag k="population" v="3536"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963469" lat="41.6920247" lon="13.0233488" version="8" timestamp="2022-11-29T06:25:24Z" changeset="129504053" uid="3860151" user="Michele Aquilani">
+  <node id="72963469" lat="41.6914426" lon="13.0231783" version="9" timestamp="2023-06-05T15:58:43Z" changeset="136979272" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5013"/>
     <tag k="name" v="Segni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9159"/>
     <tag k="wikidata" v="Q243458"/>
+    <tag k="wikimedia_commons" v="Category:Segni"/>
     <tag k="wikipedia" v="it:Segni (Italia)"/>
   </node>
   <node id="72963479" lat="42.0998260" lon="13.0066860" version="2" timestamp="2016-09-07T18:50:34Z" changeset="41986239" uid="743479" user="fayor">
