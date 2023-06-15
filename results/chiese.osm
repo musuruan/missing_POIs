@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-13T02:36:37Z" areas="2023-06-11T03:07:17Z"/>
+<meta osm_base="2023-06-15T02:35:41Z" areas="2023-06-11T03:07:17Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4600,6 +4600,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51940"/>
   </node>
+  <node id="68529089" lat="41.9043440" lon="15.8994530" version="4" timestamp="2023-06-14T22:17:18Z" changeset="137346887" uid="19497998" user="branco-revert">
+    <tag k="gfoss_id" v="6121"/>
+    <tag k="name" v="Ischitella"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4562"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="68529096" lat="41.3254260" lon="15.1598440" version="2" timestamp="2016-08-27T16:24:05Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6119"/>
     <tag k="name" v="Faeto"/>
@@ -4766,6 +4773,13 @@
     <tag k="name" v="Surano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1791"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68529781" lat="39.9835190" lon="18.0868260" version="3" timestamp="2016-09-09T00:49:52Z" changeset="42015514" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6342"/>
+    <tag k="name" v="Taviano"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="12186"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529797" lat="40.1301258" lon="18.1005072" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
@@ -6238,7 +6252,7 @@
     <tag k="population" v="953"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301107" lat="44.9753650" lon="9.8310700" version="8" timestamp="2023-06-10T07:24:25Z" changeset="137160851" uid="1778799" user="SomeoneElse_Revert">
+  <node id="69301107" lat="44.9753650" lon="9.8310700" version="10" timestamp="2023-06-14T14:16:03Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="3846"/>
     <tag k="name" v="Cadeo"/>
     <tag k="place" v="village"/>
@@ -8027,13 +8041,14 @@
     <tag k="population" v="1057"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963186" lat="41.6991180" lon="13.0517930" version="3" timestamp="2023-01-16T11:43:16Z" changeset="131334659" uid="3860151" user="Michele Aquilani">
+  <node id="72963186" lat="41.6991180" lon="13.0517930" version="4" timestamp="2023-06-13T14:58:35Z" changeset="137290480" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4952"/>
     <tag k="name" v="Gavignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1760"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q242668"/>
+    <tag k="wikimedia_commons" v="Category:Gavignano"/>
     <tag k="wikipedia" v="it:Gavignano (Italia)"/>
   </node>
   <node id="72963255" lat="41.9861230" lon="12.9379860" version="2" timestamp="2016-09-07T18:50:32Z" changeset="41986239" uid="743479" user="fayor">
@@ -8555,7 +8570,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="634"/>
   </node>
-  <node id="1944059493" lat="44.9563630" lon="9.6849670" version="8" timestamp="2023-06-10T07:16:25Z" changeset="137160851" uid="1778799" user="SomeoneElse_Revert">
+  <node id="1944059493" lat="44.9563630" lon="9.6849670" version="10" timestamp="2023-06-14T14:27:59Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="3874"/>
     <tag k="name" v="Podenzano"/>
     <tag k="place" v="village"/>
