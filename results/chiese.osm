@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-17T02:32:19Z" areas="2023-06-11T03:07:17Z"/>
+<meta osm_base="2023-06-18T02:47:28Z" areas="2023-06-13T15:42:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11,10 +11,12 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="25" timestamp="2023-02-17T22:22:26Z" changeset="132696664" uid="4346095" user="jerome92370">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="26" timestamp="2023-06-17T21:33:29Z" changeset="137461795" uid="507417" user="tartiflex">
     <tag k="alt_name" v="Chamonix"/>
+    <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
     <tag k="name" v="Chamonix-Mont-Blanc"/>
+    <tag k="name:frp" v="Shamouni"/>
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
     <tag k="name:ru" v="Шамони-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
@@ -5531,7 +5533,7 @@
     <tag k="population" v="10078"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580056" lat="41.3667210" lon="14.3777260" version="2" timestamp="2016-09-02T23:58:40Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="68580056" lat="41.3675389" lon="14.3760599" version="3" timestamp="2023-06-17T15:21:35Z" changeset="137451440" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5181"/>
     <tag k="name" v="Castello del Matese"/>
     <tag k="place" v="village"/>
