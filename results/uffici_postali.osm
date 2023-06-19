@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-18T02:47:28Z" areas="2023-06-11T03:07:17Z"/>
+<meta osm_base="2023-06-19T02:37:28Z" areas="2023-06-13T15:42:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -168,19 +168,23 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q102652"/>
   </node>
-  <node id="61753700" lat="43.0071166" lon="11.6155411" version="5" timestamp="2023-04-16T20:54:29Z" changeset="134991699" uid="178610" user="Pab09">
+  <node id="61753700" lat="43.0071166" lon="11.6155411" version="6" timestamp="2023-06-18T16:55:53Z" changeset="137485888" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4629"/>
     <tag k="name" v="Castiglione d'Orcia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2508"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q91152"/>
+    <tag k="wikipedia" v="en:Castiglione d'Orcia"/>
   </node>
-  <node id="61753701" lat="43.3455237" lon="11.5018883" version="3" timestamp="2023-01-28T06:10:29Z" changeset="131796266" uid="923271" user="aldoct">
+  <node id="61753701" lat="43.3455237" lon="11.5018883" version="4" timestamp="2023-06-18T16:55:53Z" changeset="137485888" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4628"/>
     <tag k="name" v="Castelnuovo Berardenga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9097"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q91142"/>
+    <tag k="wikipedia" v="en:Castelnuovo Berardenga"/>
   </node>
   <node id="61753707" lat="43.4682951" lon="11.4342003" version="7" timestamp="2023-04-14T21:59:14Z" changeset="134922345" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4635"/>
@@ -22284,11 +22288,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="219"/>
   </node>
-  <node id="2593800769" lat="45.8237439" lon="7.1821889" version="4" timestamp="2023-04-15T23:34:43Z" changeset="134958487" uid="18892689" user="ComitéNosAccents">
+  <node id="2593800769" lat="45.8237439" lon="7.1821889" version="5" timestamp="2023-06-18T17:14:37Z" changeset="137486480" uid="18913526" user="Gurusraouta">
     <tag k="name" v="Saint-Rhémy-en-Bosses"/>
+    <tag k="name:fr" v="Saint-Rhémy-en-Bosses"/>
     <tag k="name:frp" v="Sen-Remì Boussa;Sen-Remì Bosa"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q35433"/>
+    <tag k="wikipedia" v="fr:Saint-Rhémy-en-Bosses"/>
   </node>
   <node id="2628968777" lat="45.9779476" lon="8.7200626" version="2" timestamp="2019-12-07T11:05:23Z" changeset="78084002" uid="1476146" user="Alecs01">
     <tag k="name" v="Bedero Valtravaglia"/>
