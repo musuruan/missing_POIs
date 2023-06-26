@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-25T03:05:49Z" areas="2023-06-13T15:42:54Z"/>
+<meta osm_base="2023-06-26T02:58:53Z" areas="2023-06-25T23:10:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4908,12 +4908,14 @@
     <tag k="population" v="7041"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566215" lat="41.0491237" lon="14.9176369" version="5" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566215" lat="41.0463567" lon="14.9131426" version="6" timestamp="2023-06-25T11:16:29Z" changeset="137748690" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5545"/>
     <tag k="name" v="Venticano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2547"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55137"/>
+    <tag k="wikipedia" v="it:Venticano"/>
   </node>
   <node id="68566231" lat="40.9589140" lon="14.6005370" version="2" timestamp="2016-08-31T23:04:12Z" changeset="41838072" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5437"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-25T03:05:49Z" areas="2023-06-11T03:07:17Z"/>
+<meta osm_base="2023-06-26T02:58:53Z" areas="2023-06-25T23:10:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -13593,12 +13593,14 @@
     <tag k="population" v="7041"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566215" lat="41.0491237" lon="14.9176369" version="5" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566215" lat="41.0463567" lon="14.9131426" version="6" timestamp="2023-06-25T11:16:29Z" changeset="137748690" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5545"/>
     <tag k="name" v="Venticano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2547"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55137"/>
+    <tag k="wikipedia" v="it:Venticano"/>
   </node>
   <node id="68566222" lat="40.9867210" lon="15.4744550" version="2" timestamp="2016-08-28T18:58:10Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5434"/>
@@ -13978,13 +13980,6 @@
     <tag k="name" v="Petruro Irpino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="400"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567232" lat="41.0113420" lon="14.9087042" version="7" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5489"/>
-    <tag k="name" v="Montemiletto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5312"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68567271" lat="40.9989220" lon="15.5341570" version="2" timestamp="2016-08-28T18:58:33Z" changeset="41762146" uid="743479" user="fayor">
@@ -21671,7 +21666,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="9032"/>
   </node>
-  <node id="559501062" lat="45.7639422" lon="6.9853467" version="4" timestamp="2020-02-06T11:56:10Z" changeset="80639731" uid="2976645" user="Jrachi">
+  <node id="559501062" lat="45.7639422" lon="6.9853467" version="6" timestamp="2023-06-25T21:31:26Z" changeset="137767583" uid="18892689" user="ComitéNosAccents">
     <tag k="name" v="Pré-Saint-Didier"/>
     <tag k="place" v="village"/>
   </node>
@@ -21870,8 +21865,9 @@
     <tag k="place" v="village"/>
     <tag k="population" v="285"/>
   </node>
-  <node id="1353509434" lat="45.8736327" lon="7.4229025" version="38" timestamp="2023-06-14T14:27:05Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="name" v="Plan de Veyne"/>
+  <node id="1353509434" lat="45.8736327" lon="7.4229025" version="39" timestamp="2023-06-25T15:31:52Z" changeset="137757029" uid="18892689" user="ComitéNosAccents">
+    <tag k="loc_name" v="Plan de Veyne"/>
+    <tag k="name" v="Plan-de-Veyne"/>
     <tag k="place" v="hamlet"/>
   </node>
   <node id="1402807545" lat="45.8737061" lon="9.4830221" version="5" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="Martino Scaglione">
@@ -21974,7 +21970,7 @@
     <tag k="population" v="358"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="1736600352" lat="45.7150864" lon="7.2763432" version="8" timestamp="2023-04-15T23:34:43Z" changeset="134958487" uid="18892689" user="ComitéNosAccents">
+  <node id="1736600352" lat="45.7150864" lon="7.2763432" version="10" timestamp="2023-06-25T21:31:26Z" changeset="137767583" uid="18892689" user="ComitéNosAccents">
     <tag k="ele" v="632"/>
     <tag k="name" v="Jovençan"/>
     <tag k="name:frp" v="Dzonsàn;Dzoénsàn"/>
@@ -22519,10 +22515,12 @@
     <tag k="population" v="4148"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="4989788296" lat="45.7285199" lon="7.4066634" version="4" timestamp="2017-08-08T09:03:19Z" changeset="50938028" uid="6052402" user="CUSPC">
+  <node id="4989788296" lat="45.7285199" lon="7.4066634" version="5" timestamp="2023-06-25T15:57:27Z" changeset="137757946" uid="18892689" user="ComitéNosAccents">
     <tag k="name" v="Brissogne"/>
     <tag k="name:ru" v="Бриссонь"/>
     <tag k="place" v="village"/>
+    <tag k="population" v="965"/>
+    <tag k="population:date" v="2022-12-31"/>
   </node>
   <node id="5035076874" lat="42.5143337" lon="12.2925076" version="3" timestamp="2017-11-11T15:33:05Z" changeset="53693345" uid="1211510" user="arcanma">
     <tag k="ele" v="95"/>
