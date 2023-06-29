@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-28T02:52:06Z" areas="2023-06-27T22:06:25Z"/>
+<meta osm_base="2023-06-29T02:49:22Z" areas="2023-06-28T21:32:25Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -16413,12 +16413,14 @@
     <tag k="population" v="684"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980334" lat="43.2026560" lon="13.6728850" version="2" timestamp="2016-09-09T17:36:39Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980334" lat="43.2026560" lon="13.6728850" version="3" timestamp="2023-06-28T14:19:48Z" changeset="137881875" uid="19648411" user="smezio">
     <tag k="gfoss_id" v="4382"/>
     <tag k="name" v="Monte Urano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8353"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q59262"/>
+    <tag k="wikipedia" v="en:Monte Urano"/>
   </node>
   <node id="70980350" lat="43.0500664" lon="13.6310024" version="3" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4383"/>

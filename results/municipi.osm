@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-28T02:52:06Z" areas="2023-06-27T22:25:51Z"/>
+<meta osm_base="2023-06-29T02:48:27Z" areas="2023-06-28T21:32:25Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4470,12 +4470,15 @@
     <tag k="population" v="1407"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284348" lat="41.6778469" lon="14.3855378" version="3" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284348" lat="41.6778469" lon="14.3855378" version="4" timestamp="2023-06-28T12:32:15Z" changeset="137877546" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="7572"/>
     <tag k="name" v="Chiauci"/>
     <tag k="place" v="village"/>
     <tag k="population" v="277"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q279017"/>
+    <tag k="wikipedia" v="it:Chiauci"/>
   </node>
   <node id="67284360" lat="41.7664300" lon="14.3976210" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7570"/>
