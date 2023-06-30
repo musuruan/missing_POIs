@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-06-29T02:49:22Z" areas="2023-06-28T21:32:25Z"/>
+<meta osm_base="2023-06-30T02:46:07Z" areas="2023-06-29T21:49:39Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4284,6 +4284,16 @@
     <tag k="place" v="village"/>
     <tag k="population" v="432"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62517469" lat="45.9613696" lon="8.6818093" version="5" timestamp="2022-08-12T18:41:11Z" changeset="124830049" uid="11220113" user="ivanbranco">
+    <tag k="gfoss_id" v="1470"/>
+    <tag k="name" v="Porto Valtravaglia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2287"/>
+    <tag k="postal_code" v="21010"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.portovaltravaglia.va.it/"/>
+    <tag k="wikipedia" v="it:Porto Valtravaglia"/>
   </node>
   <node id="62517523" lat="45.7845815" lon="8.7708941" version="3" timestamp="2020-04-23T15:43:22Z" changeset="84011060" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1427"/>
@@ -11902,19 +11912,6 @@
     <tag k="population" v="969"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283753" lat="41.6001750" lon="14.2383017" version="15" timestamp="2022-07-08T16:21:16Z" changeset="123373401" uid="10901495" user="Martino Scaglione">
-    <tag k="capital" v="6"/>
-    <tag k="ele" v="423"/>
-    <tag k="loc_name" v="Sèrnia"/>
-    <tag k="name" v="Isernia"/>
-    <tag k="name:pronunciation" v="iˈsεrnja"/>
-    <tag k="name:zh" v="伊塞尔尼亚"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="20000"/>
-    <tag k="wikidata" v="Q13450"/>
-    <tag k="wikimedia_commons" v="Category:Isernia"/>
-    <tag k="wikipedia" v="it:Isernia"/>
-  </node>
   <node id="67283771" lat="41.5562506" lon="14.5585312" version="3" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6017"/>
     <tag k="name" v="Busso"/>
@@ -16412,15 +16409,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="684"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70980334" lat="43.2026560" lon="13.6728850" version="3" timestamp="2023-06-28T14:19:48Z" changeset="137881875" uid="19648411" user="smezio">
-    <tag k="gfoss_id" v="4382"/>
-    <tag k="name" v="Monte Urano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8353"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q59262"/>
-    <tag k="wikipedia" v="en:Monte Urano"/>
   </node>
   <node id="70980350" lat="43.0500664" lon="13.6310024" version="3" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4383"/>
