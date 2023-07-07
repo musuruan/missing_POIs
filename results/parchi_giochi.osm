@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-06T02:57:25Z" areas="2023-07-05T22:35:35Z"/>
+<meta osm_base="2023-07-07T02:54:40Z" areas="2023-07-06T22:04:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -426,12 +426,14 @@
     <tag k="wikidata" v="Q91373"/>
     <tag k="wikipedia" v="en:Radicofani"/>
   </node>
-  <node id="61753731" lat="43.2864992" lon="11.6041365" version="4" timestamp="2021-09-14T16:28:28Z" changeset="111204721" uid="923271" user="aldoct">
+  <node id="61753731" lat="43.2864992" lon="11.6041365" version="5" timestamp="2023-07-06T17:39:05Z" changeset="138198210" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4648"/>
     <tag k="name" v="Rapolano Terme"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5249"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q91395"/>
+    <tag k="wikipedia" v="en:Rapolano Terme"/>
   </node>
   <node id="62505633" lat="45.7916524" lon="9.5515500" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1948"/>
@@ -1133,13 +1135,6 @@
     <tag k="name" v="Bione"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1386"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62507672" lat="45.8489819" lon="10.1645561" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2177"/>
-    <tag k="name" v="Artogne"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3134"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62507678" lat="45.2669750" lon="10.1481720" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
