@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-10T02:55:31Z" areas="2023-07-10T01:07:55Z"/>
+<meta osm_base="2023-07-11T02:44:58Z" areas="2023-07-11T00:41:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4929,6 +4929,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3095"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68529917" lat="40.1478250" lon="18.4859330" version="6" timestamp="2023-06-14T22:08:21Z" changeset="137346715" uid="19497998" user="branco-revert">
+    <tag k="gfoss_id" v="6314"/>
+    <tag k="name" v="Otranto"/>
+    <tag k="name:el" v="Οτράντο"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="5282"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q52174"/>
   </node>
   <node id="68529953" lat="40.4440240" lon="17.4151050" version="2" timestamp="2016-08-27T16:24:10Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6226"/>
