@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-13T02:55:00Z" areas="2023-07-12T23:43:53Z"/>
+<meta osm_base="2023-07-14T02:54:23Z" areas="2023-07-13T22:20:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -978,12 +978,13 @@
     <tag k="population" v="599"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507245" lat="45.6197210" lon="9.7988771" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62507245" lat="45.6197210" lon="9.7988771" version="4" timestamp="2023-07-13T13:01:29Z" changeset="138463724" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1969"/>
     <tag k="name" v="Calcinate"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4665"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023349"/>
   </node>
   <node id="62507278" lat="45.6039279" lon="9.5555981" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1963"/>
@@ -6210,10 +6211,8 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025427"/>
   </node>
-  <node id="63627316" lat="44.5437390" lon="8.1049410" version="4" timestamp="2023-01-17T19:44:55Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="created_by" v="JOSM"/>
+  <node id="63627316" lat="44.5437390" lon="8.1049410" version="5" timestamp="2023-07-13T12:30:26Z" changeset="138462622" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="577"/>
-    <tag k="is_in" v="Cuneo, Piemonte, Italy"/>
     <tag k="name" v="Feisoglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="395"/>
