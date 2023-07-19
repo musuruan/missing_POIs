@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-18T02:54:06Z" areas="2023-07-18T01:40:01Z"/>
+<meta osm_base="2023-07-19T03:38:44Z" areas="2023-07-19T01:40:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2804,13 +2804,6 @@
     <tag k="population" v="7246"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513314" lat="44.9524875" lon="10.8226230" version="3" timestamp="2020-12-19T18:16:30Z" changeset="96117864" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="2708"/>
-    <tag k="name" v="Gonzaga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8054"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62513368" lat="45.0691748" lon="10.5831131" version="2" timestamp="2020-07-03T19:56:06Z" changeset="87516480" uid="178610" user="Pab09">
     <tag k="gfoss_id" v="2706"/>
     <tag k="is_in" v="Mantova, Lombardia, Italy"/>
@@ -3046,8 +3039,9 @@
     <tag k="postal_code" v="20040"/>
     <tag k="source" v="local knowledge"/>
   </node>
-  <node id="62514449" lat="45.5062394" lon="8.8152655" version="15" timestamp="2023-06-14T14:21:21Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+  <node id="62514449" lat="45.5062394" lon="8.8152655" version="16" timestamp="2023-07-18T11:28:08Z" changeset="138664528" uid="19903291" user="Igi5216">
     <tag k="gfoss_id" v="1808"/>
+    <tag k="loc_name" v="Cugion"/>
     <tag k="name" v="Cuggiono"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7516"/>
@@ -6689,9 +6683,9 @@
     <tag k="population" v="1875"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629495" lat="45.4381560" lon="7.6946150" version="6" timestamp="2023-01-17T19:58:59Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629495" lat="45.4381560" lon="7.6946150" version="7" timestamp="2023-07-18T21:10:22Z" changeset="138687903" uid="4795149" user="Fedurli">
     <tag k="gfoss_id" v="67"/>
-    <tag k="name" v="Castelnuovo Nigra"/>
+    <tag k="name" v="Sale Castelnuovo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="440"/>
     <tag k="source" v="geodati.gfoss.it"/>

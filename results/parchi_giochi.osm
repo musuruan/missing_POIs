@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-18T02:57:15Z" areas="2023-07-18T02:03:45Z"/>
+<meta osm_base="2023-07-19T03:41:45Z" areas="2023-07-19T01:40:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2943,13 +2943,6 @@
     <tag k="population" v="6297"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513314" lat="44.9524875" lon="10.8226230" version="3" timestamp="2020-12-19T18:16:30Z" changeset="96117864" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="2708"/>
-    <tag k="name" v="Gonzaga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8054"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62513340" lat="45.1928760" lon="10.4868810" version="1" timestamp="2007-10-10T06:23:19Z" changeset="85182" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="2713"/>
@@ -4135,9 +4128,8 @@
     <tag k="population" v="1646"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62518221" lat="45.8285392" lon="8.6500523" version="3" timestamp="2018-07-04T12:08:58Z" changeset="60406503" uid="1476146" user="Alecs01">
+  <node id="62518221" lat="45.8285392" lon="8.6500523" version="4" timestamp="2023-07-18T08:40:39Z" changeset="138656317" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="1373"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Brebbia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3120"/>
@@ -6498,9 +6490,10 @@
     <tag k="population" v="370"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63627136" lat="44.6117340" lon="7.4257250" version="5" timestamp="2023-01-17T19:46:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63627136" lat="44.6117340" lon="7.4257250" version="6" timestamp="2023-07-18T18:21:25Z" changeset="138682595" uid="15601309" user="JoanFrancesBlanc">
     <tag k="gfoss_id" v="647"/>
     <tag k="name" v="Pagno"/>
+    <tag k="name:oc" v="Panh"/>
     <tag k="place" v="village"/>
     <tag k="population" v="554"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7220,9 +7213,9 @@
     <tag k="population" v="1875"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629495" lat="45.4381560" lon="7.6946150" version="6" timestamp="2023-01-17T19:58:59Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629495" lat="45.4381560" lon="7.6946150" version="7" timestamp="2023-07-18T21:10:22Z" changeset="138687903" uid="4795149" user="Fedurli">
     <tag k="gfoss_id" v="67"/>
-    <tag k="name" v="Castelnuovo Nigra"/>
+    <tag k="name" v="Sale Castelnuovo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="440"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -11643,13 +11636,6 @@
     <tag k="population" v="2511"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256957" lat="37.9146277" lon="14.1903782" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="San Mauro Castelverde"/>
-    <tag k="name:scn" v="Santu Mauru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1348"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
   <node id="67256961" lat="37.8059480" lon="13.6384550" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Roccapalumba"/>
     <tag k="name:scn" v="Roccapalumma"/>
@@ -14037,7 +14023,7 @@
     <tag k="population" v="3046"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67276115" lat="38.7050483" lon="16.1900703" version="3" timestamp="2016-08-28T18:58:29Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67276115" lat="38.7069062" lon="16.1896135" version="4" timestamp="2023-07-18T19:47:58Z" changeset="138685293" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="7994"/>
     <tag k="name" v="Maierato"/>
     <tag k="place" v="village"/>
@@ -28033,5 +28019,6 @@
     <tag k="wikidata" v="Q40903"/>
     <tag k="wikipedia" v="it:Castelveccana"/>
   </node>
+  <node id="11053842143" lat="44.9548317" lon="10.8197986" version="1" timestamp="2023-07-18T21:26:08Z" changeset="138688580" uid="10256797" user="l1toss"/>
 
 </osm>
