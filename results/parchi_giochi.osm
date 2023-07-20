@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.60.6 e2dc3e5b">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-19T03:41:45Z" areas="2023-07-19T01:40:21Z"/>
+<meta osm_base="2023-07-20T02:30:59Z" areas="2023-07-20T01:06:25Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2941,6 +2941,13 @@
     <tag k="name" v="Poggio Rusco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6297"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62513314" lat="44.9524875" lon="10.8226230" version="5" timestamp="2023-07-19T05:19:14Z" changeset="138696351" uid="177389" user="Garmin-User">
+    <tag k="gfoss_id" v="2708"/>
+    <tag k="name" v="Gonzaga"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="8054"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513340" lat="45.1928760" lon="10.4868810" version="1" timestamp="2007-10-10T06:23:19Z" changeset="85182" uid="864" user="Niccolo">
@@ -6717,10 +6724,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023052"/>
   </node>
-  <node id="63627604" lat="44.6007340" lon="7.4059250" version="5" timestamp="2023-01-17T19:51:04Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63627604" lat="44.6007340" lon="7.4059250" version="6" timestamp="2023-07-19T04:54:48Z" changeset="138695821" uid="15601309" user="JoanFrancesBlanc">
     <tag k="gfoss_id" v="521"/>
     <tag k="name" v="Brondello"/>
-    <tag k="name:oc" v="Brondel"/>
+    <tag k="name:oc" v="Brondèl"/>
     <tag k="place" v="village"/>
     <tag k="population" v="349"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -24241,20 +24248,6 @@
     <tag k="wikipedia" v="it:Nuragus"/>
     <tag k="wikipedia:sc" v="Nuragus"/>
   </node>
-  <node id="72991951" lat="40.2722600" lon="9.4030360" version="45" timestamp="2019-03-20T06:32:29Z" changeset="68320750" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7351"/>
-    <tag k="name" v="Ulìana/Oliena"/>
-    <tag k="name:it" v="Oliena"/>
-    <tag k="name:sc" v="Ulìana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7604"/>
-    <tag k="postal_code" v="08025"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.oliena.nu.it/"/>
-    <tag k="wikidata" v="Q295313"/>
-    <tag k="wikipedia" v="it:Oliena"/>
-    <tag k="wikipedia:sc" v="Ulìana"/>
-  </node>
   <node id="72991962" lat="39.7120480" lon="9.2298410" version="39" timestamp="2017-03-01T21:24:51Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7350"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
@@ -26815,10 +26808,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1039"/>
   </node>
-  <node id="1187757106" lat="46.2498461" lon="11.3431769" version="2" timestamp="2020-04-24T08:51:08Z" changeset="84048973" uid="8445331" user="JuaFritz">
-    <tag k="name" v="Casatta"/>
-    <tag k="place" v="village"/>
-  </node>
   <node id="1258081254" lat="45.7615649" lon="7.5321619" version="35" timestamp="2023-06-14T14:32:47Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="ele" v="1017"/>
     <tag k="name" v="Verrayes capoluogo"/>
@@ -28019,6 +28008,5 @@
     <tag k="wikidata" v="Q40903"/>
     <tag k="wikipedia" v="it:Castelveccana"/>
   </node>
-  <node id="11053842143" lat="44.9548317" lon="10.8197986" version="1" timestamp="2023-07-18T21:26:08Z" changeset="138688580" uid="10256797" user="l1toss"/>
 
 </osm>
