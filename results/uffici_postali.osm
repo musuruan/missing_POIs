@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.61.1 2cf8333c">
+<osm version="0.6" generator="Overpass API 0.7.61.2 bd0cdeae">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-21T02:29:13Z" areas="2023-07-20T07:57:18Z"/>
+<meta osm_base="2023-07-22T02:26:29Z" areas="2023-07-20T07:57:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3039,10 +3039,11 @@
     <tag k="postal_code" v="20040"/>
     <tag k="source" v="local knowledge"/>
   </node>
-  <node id="62514449" lat="45.5062394" lon="8.8152655" version="16" timestamp="2023-07-18T11:28:08Z" changeset="138664528" uid="19903291" user="Igi5216">
+  <node id="62514449" lat="45.5062394" lon="8.8152655" version="17" timestamp="2023-07-21T17:46:47Z" changeset="138824741" uid="19903291" user="Igi5216">
     <tag k="gfoss_id" v="1808"/>
     <tag k="loc_name" v="Cugion"/>
     <tag k="name" v="Cuggiono"/>
+    <tag k="name:pms" v="Cügiòn"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7516"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3132,9 +3133,10 @@
     <tag k="population" v="7437"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62514950" lat="45.5291504" lon="8.7366656" version="6" timestamp="2019-01-06T13:01:29Z" changeset="66069265" uid="1476146" user="Alecs01">
+  <node id="62514950" lat="45.5291504" lon="8.7366656" version="7" timestamp="2023-07-21T17:45:18Z" changeset="138824741" uid="19903291" user="Igi5216">
     <tag k="gfoss_id" v="1906"/>
     <tag k="name" v="Turbigo"/>
+    <tag k="name:pms" v="Türbigh"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7225"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9052,9 +9054,9 @@
     <tag k="population" v="3816"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503019" lat="46.1605087" lon="12.6621363" version="11" timestamp="2022-12-11T18:32:03Z" changeset="129971902" uid="2521964" user="furlanlaghee">
+  <node id="66503019" lat="46.1605087" lon="12.6621363" version="12" timestamp="2023-07-21T16:59:05Z" changeset="138823110" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="7532"/>
-    <tag k="name" v="Montereale Valcellina / Montreâl"/>
+    <tag k="name" v="Montereale Valcellina"/>
     <tag k="name:fur" v="Montreâl"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4656"/>
@@ -11375,7 +11377,7 @@
     <tag k="population" v="819"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67276006" lat="38.6637292" lon="16.2848847" version="4" timestamp="2022-04-17T20:19:00Z" changeset="119830505" uid="34088" user="CVI">
+  <node id="67276006" lat="38.6632577" lon="16.2853884" version="5" timestamp="2023-07-21T14:16:42Z" changeset="138816100" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="8009"/>
     <tag k="name" v="San Nicola da Crissa"/>
     <tag k="place" v="village"/>
