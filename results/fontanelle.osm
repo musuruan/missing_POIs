@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.2 bd0cdeae">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-22T02:28:29Z" areas="2023-07-21T22:17:42Z"/>
+<meta osm_base="2023-07-23T02:35:01Z" areas="2023-07-20T07:57:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5066,13 +5066,6 @@
     <tag k="wikidata" v="Q248807"/>
     <tag k="wikipedia" v="it:San Biagio della Cima"/>
   </node>
-  <node id="66586984" lat="44.2370380" lon="9.7241009" version="4" timestamp="2022-03-07T17:37:06Z" changeset="118206248" uid="2498239" user="maurizioa">
-    <tag k="gfoss_id" v="1331"/>
-    <tag k="name" v="Brugnato"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1191"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66587021" lat="44.1375290" lon="8.1031480" version="2" timestamp="2016-09-24T23:13:24Z" changeset="42413443" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1216"/>
     <tag k="name" v="Erli"/>
@@ -5112,33 +5105,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="957"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67253724" lat="38.0174321" lon="12.5159920" version="30" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
-    <tag k="capital" v="6"/>
-    <tag k="name" v="Trapani"/>
-    <tag k="name:an" v="Tràpani"/>
-    <tag k="name:ar" v="تراباني"/>
-    <tag k="name:bg" v="Трапани"/>
-    <tag k="name:el" v="Δρέπανον"/>
-    <tag k="name:en" v="Trapani"/>
-    <tag k="name:fa" v="تراپانی"/>
-    <tag k="name:he" v="טרפאני"/>
-    <tag k="name:it" v="Trapani"/>
-    <tag k="name:ja" v="トラーパニ"/>
-    <tag k="name:la" v="Drepanum"/>
-    <tag k="name:language" v="Drepanum"/>
-    <tag k="name:oc" v="Drapena"/>
-    <tag k="name:pms" v="Tràpani"/>
-    <tag k="name:pt" v="Trápani"/>
-    <tag k="name:roa-tara" v="Trapane"/>
-    <tag k="name:ru" v="Трапани"/>
-    <tag k="name:scn" v="Tràpani"/>
-    <tag k="name:sr" v="Трапани"/>
-    <tag k="name:uk" v="Трапані"/>
-    <tag k="name:zh" v="特拉帕尼"/>
-    <tag k="place" v="city"/>
-    <tag k="population" v="55524"/>
-    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67253732" lat="37.5700419" lon="13.4546092" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Alessandria della Rocca"/>
@@ -14209,6 +14175,19 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3165"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="13" timestamp="2022-08-10T17:04:16Z" changeset="124741067" uid="10901495" user="Martino Scaglione">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>
