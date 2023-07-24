@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.61.2 bd0cdeae">
+<osm version="0.6" generator="Overpass API 0.7.61.3 b40422fd">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-23T02:32:58Z" areas="2023-07-22T21:44:54Z"/>
+<meta osm_base="2023-07-24T02:30:34Z" areas="2023-07-20T07:57:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1216,15 +1216,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022743"/>
   </node>
-  <node id="63627585" lat="44.6023589" lon="8.1472522" version="7" timestamp="2023-01-17T19:46:33Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="515"/>
-    <tag k="name" v="Bosia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="204"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18377"/>
-    <tag k="wikipedia" v="it:Bosia"/>
-  </node>
   <node id="63628244" lat="44.4022340" lon="7.9708400" version="4" timestamp="2023-01-17T19:43:43Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="597"/>
@@ -1291,13 +1282,6 @@
     <tag k="name" v="Vinovo"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13425"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778120" lat="46.1028140" lon="12.1863030" version="2" timestamp="2016-10-13T15:57:09Z" changeset="42872569" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3338"/>
-    <tag k="name" v="Limana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4509"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778121" lat="46.3305243" lon="12.3228878" version="5" timestamp="2022-04-12T12:23:59Z" changeset="119619955" uid="1257620" user="Luca_34c">
@@ -8379,6 +8363,19 @@
     <tag k="website" v="http://www.comunedierula.it/"/>
     <tag k="wikidata" v="Q390699"/>
     <tag k="wikipedia" v="sc:Èrula"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="13" timestamp="2022-08-10T17:04:16Z" changeset="124741067" uid="10901495" user="Martino Scaglione">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="268788418" lat="43.5263107" lon="13.0630099" version="13" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="name" v="Montecarotto"/>
