@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.61.3 b40422fd">
+<osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-24T02:31:35Z" areas="2023-07-20T07:57:18Z"/>
+<meta osm_base="2023-07-25T02:43:13Z" areas="2023-07-24T21:21:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11,14 +11,13 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="28" timestamp="2023-07-15T03:23:55Z" changeset="138529459" uid="13203370" user="Rukkhadevata">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="29" timestamp="2023-07-25T00:49:09Z" changeset="138963468" uid="19889284" user="SdfN5h5063">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
     <tag k="name" v="Chamonix-Mont-Blanc"/>
     <tag k="name:frp" v="Shamouni"/>
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
-    <tag k="name:ru" v="Шамони-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
     <tag k="place" v="town"/>
@@ -4295,12 +4294,11 @@
     <tag k="population" v="10054 (comune) 6034 (capoluogo comunale)"/>
     <tag k="source" v="ISTAT"/>
   </node>
-  <node id="64778672" lat="45.7540029" lon="11.9553621" version="14" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="64778672" lat="45.7540029" lon="11.9553621" version="15" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="3379"/>
     <tag k="name" v="Altivole"/>
     <tag k="name:it" v="Altivole"/>
     <tag k="name:ja" v="アルティーヴォレ"/>
-    <tag k="name:ru" v="Альтиволе"/>
     <tag k="name:vec" v="Intiòłe"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6912"/>
@@ -5066,10 +5064,9 @@
     <tag k="population" v="244"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587048" lat="44.3902587" lon="8.2079522" version="6" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="66587048" lat="44.3902587" lon="8.2079522" version="7" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="1211"/>
     <tag k="name" v="Cengio"/>
-    <tag k="name:ru" v="Ченджо"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3563"/>
   </node>
@@ -5126,12 +5123,11 @@
     <tag k="population" v="849"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253770" lat="37.3929390" lon="13.3507530" version="21" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67253770" lat="37.3929390" lon="13.3507530" version="22" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="alt_name:scn" v="Muntallè"/>
     <tag k="name" v="Montallegro"/>
     <tag k="name:ar" v="مونتاليغرو"/>
     <tag k="name:it" v="Montallegro"/>
-    <tag k="name:ru" v="Монталлегро"/>
     <tag k="name:scn" v="Muntallegru"/>
     <tag k="name:uk" v="Монталлегро"/>
     <tag k="place" v="village"/>
@@ -5186,9 +5182,8 @@
     <tag k="population" v="2005"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253853" lat="37.2584400" lon="13.9182660" version="18" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67253853" lat="37.2584400" lon="13.9182660" version="19" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="name" v="Campobello di Licata"/>
-    <tag k="name:ru" v="Кампобелло-ди-Ликата"/>
     <tag k="name:scn" v="Camubieɖɖru"/>
     <tag k="name:uk" v="Кампобелло-ді-Ліката"/>
     <tag k="place" v="village"/>
@@ -5230,9 +5225,8 @@
     <tag k="population" v="1383"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254027" lat="37.3560363" lon="13.9272894" version="19" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67254027" lat="37.3560363" lon="13.9272894" version="20" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="name" v="Delia"/>
-    <tag k="name:ru" v="Делья"/>
     <tag k="name:scn" v="La Dilia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3845"/>
@@ -5259,9 +5253,8 @@
     <tag k="population" v="1402"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254130" lat="37.6820470" lon="13.8315600" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
+  <node id="67254130" lat="37.6820470" lon="13.8315600" version="11" timestamp="2023-07-24T23:13:38Z" changeset="138961827" uid="743479" user="fayor">
     <tag k="name" v="Vallelunga Pratameno"/>
-    <tag k="name:scn" v="Vaɖɖilonga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3106"/>
     <tag k="source" v="Istat gennaio 2023"/>
@@ -5696,11 +5689,10 @@
     <tag k="population" v="9828"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257015" lat="37.9812974" lon="12.5573091" version="14" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67257015" lat="37.9812974" lon="12.5573091" version="15" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="alt_name:scn" v="Paceca"/>
     <tag k="name" v="Paceco"/>
     <tag k="name:ja" v="パチェーコ"/>
-    <tag k="name:ru" v="Пачеко"/>
     <tag k="name:scn" v="Paceca"/>
     <tag k="name:uk" v="Пачеко"/>
     <tag k="place" v="town"/>
@@ -5722,7 +5714,7 @@
     <tag k="population" v="3713"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257047" lat="37.6537292" lon="12.5886912" version="15" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67257047" lat="37.6537292" lon="12.5886912" version="16" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="alt_name:la" v="Masaris"/>
     <tag k="name" v="Mazara del Vallo"/>
     <tag k="name:ar" v="مازر"/>
@@ -5730,7 +5722,6 @@
     <tag k="name:it" v="Mazara del Vallo"/>
     <tag k="name:ja" v="マツァーラ・デル・ヴァッロ"/>
     <tag k="name:la" v="Mazaria"/>
-    <tag k="name:ru" v="Мадзара-дель-Валло"/>
     <tag k="name:scn" v="Mazzara"/>
     <tag k="name:sr" v="Мацара дел Вало"/>
     <tag k="name:uk" v="Мацара-дель-Валло"/>
@@ -5751,10 +5742,9 @@
     <tag k="population" v="7498"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257343" lat="37.8685749" lon="12.8144792" version="13" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67257343" lat="37.8685749" lon="12.8144792" version="14" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="name" v="Vita"/>
     <tag k="name:ja" v="ヴィータ"/>
-    <tag k="name:ru" v="Вита"/>
     <tag k="name:uk" v="Віта"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1812"/>
@@ -6012,10 +6002,9 @@
     <tag k="population" v="3096"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274037" lat="39.1419900" lon="16.2356940" version="5" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67274037" lat="39.1419900" lon="16.2356940" version="6" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="6544"/>
     <tag k="name" v="Grimaldi"/>
-    <tag k="name:ru" v="Гримальди"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1870"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -6913,7 +6902,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026431"/>
   </node>
-  <node id="67275955" lat="38.7259810" lon="16.0328950" version="2" timestamp="2016-08-28T18:58:13Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275955" lat="38.7264614" lon="16.0333950" version="3" timestamp="2023-07-24T14:23:13Z" changeset="138942946" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="7977"/>
     <tag k="name" v="Briatico"/>
     <tag k="place" v="village"/>
@@ -8985,10 +8974,9 @@
     <tag k="wikidata" v="Q58547"/>
     <tag k="wikipedia" v="it:Casapulla"/>
   </node>
-  <node id="68580192" lat="41.0114120" lon="14.1248250" version="6" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="68580192" lat="41.0114120" lon="14.1248250" version="7" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="5175"/>
     <tag k="name" v="Casal di Principe"/>
-    <tag k="name:ru" v="Казаль-ди-Принципе"/>
     <tag k="place" v="town"/>
     <tag k="population" v="21389"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9154,10 +9142,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72503"/>
   </node>
-  <node id="68580695" lat="40.8292962" lon="14.3341677" version="7" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="68580695" lat="40.8292962" lon="14.3341677" version="8" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="5405"/>
     <tag k="name" v="San Giorgio a Cremano"/>
-    <tag k="name:ru" v="Сан-Джорджо-а-Кремано"/>
     <tag k="place" v="town"/>
     <tag k="population" v="45557"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9217,18 +9204,16 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72118"/>
   </node>
-  <node id="68580940" lat="40.8009070" lon="14.0518270" version="5" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="68580940" lat="40.8009070" lon="14.0518270" version="6" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="5385"/>
     <tag k="name" v="Monte di Procida"/>
-    <tag k="name:ru" v="Монте-ди-Прочида"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12838"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580988" lat="40.7509699" lon="13.8900602" version="8" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="68580988" lat="40.7509699" lon="13.8900602" version="9" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="5376"/>
     <tag k="name" v="Lacco Ameno"/>
-    <tag k="name:ru" v="Деревня Лаккомена"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4273"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9241,10 +9226,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72602"/>
   </node>
-  <node id="68581026" lat="40.9056130" lon="14.5050350" version="6" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="68581026" lat="40.9056130" lon="14.5050350" version="7" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="5414"/>
     <tag k="name" v="Saviano"/>
-    <tag k="name:ru" v="Савьяно"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15982"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9494,11 +9478,10 @@
     <tag k="population" v="3466"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582037" lat="40.7498877" lon="14.6133234" version="12" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="68582037" lat="40.7498877" lon="14.6133234" version="13" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="5637"/>
     <tag k="name" v="Pagani"/>
     <tag k="name:lt" v="Paganis"/>
-    <tag k="name:ru" v="Пагани"/>
     <tag k="name:uk" v="Пагані"/>
     <tag k="place" v="town"/>
     <tag k="population" v="35962"/>
@@ -11038,11 +11021,10 @@
     <tag k="wikidata" v="Q51464"/>
     <tag k="wikipedia" v="it:Sant'Egidio alla Vibrata"/>
   </node>
-  <node id="72959669" lat="41.6419807" lon="13.3469287" version="23" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="72959669" lat="41.6419807" lon="13.3469287" version="24" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="capital" v="6"/>
     <tag k="gfoss_id" v="5103"/>
     <tag k="name" v="Frosinone"/>
-    <tag k="name:ru" v="Фрозиноне"/>
     <tag k="name:zh" v="弗罗西诺内"/>
     <tag k="place" v="city"/>
     <tag k="population" v="46323"/>
@@ -11672,7 +11654,7 @@
     <tag k="wikipedia" v="it:Sanluri"/>
     <tag k="wikipedia:sc" v="Seddori"/>
   </node>
-  <node id="72990741" lat="39.8785705" lon="9.5410772" version="58" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="72990741" lat="39.8785705" lon="9.5410772" version="59" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="alt_name" v="Lanusè"/>
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="7333"/>
@@ -11680,7 +11662,6 @@
     <tag k="name" v="Lanusè/Lanusei"/>
     <tag k="name:en" v="Lanusei"/>
     <tag k="name:it" v="Lanusei"/>
-    <tag k="name:ru" v="Ланузеи"/>
     <tag k="name:sc" v="Lanusè"/>
     <tag k="name:zh" v="拉努塞伊"/>
     <tag k="note" v="ha meno di 10000 abitanti (requisito formale per place=town in Italia), ma è un il centro più importante nella regione geografica (Ogliastra) insieme a Tortolì"/>
@@ -14154,19 +14135,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3165"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="240033339" lat="46.3388659" lon="9.5573117" version="13" timestamp="2022-08-10T17:04:16Z" changeset="124741067" uid="10901495" user="Martino Scaglione">
-    <tag k="ele" v="832"/>
-    <tag k="name" v="Promontogno"/>
-    <tag k="old_name" v="Primentonia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="104"/>
-    <tag k="population:date" v="2008"/>
-    <tag k="postal_code" v="7606"/>
-    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
-    <tag k="wikidata" v="Q7249857"/>
-    <tag k="wikimedia_commons" v="Category:Promontogno"/>
-    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.61.3 b40422fd">
+<osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-24T02:30:34Z" areas="2023-07-20T07:57:18Z"/>
+<meta osm_base="2023-07-25T02:41:10Z" areas="2023-07-25T01:24:20Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11,14 +11,13 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="28" timestamp="2023-07-15T03:23:55Z" changeset="138529459" uid="13203370" user="Rukkhadevata">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="29" timestamp="2023-07-25T00:49:09Z" changeset="138963468" uid="19889284" user="SdfN5h5063">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
     <tag k="name" v="Chamonix-Mont-Blanc"/>
     <tag k="name:frp" v="Shamouni"/>
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
-    <tag k="name:ru" v="Шамони-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
     <tag k="place" v="town"/>
@@ -1600,12 +1599,11 @@
     <tag k="population" v="1694"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778672" lat="45.7540029" lon="11.9553621" version="14" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="64778672" lat="45.7540029" lon="11.9553621" version="15" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="3379"/>
     <tag k="name" v="Altivole"/>
     <tag k="name:it" v="Altivole"/>
     <tag k="name:ja" v="アルティーヴォレ"/>
-    <tag k="name:ru" v="Альтиволе"/>
     <tag k="name:vec" v="Intiòłe"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6912"/>
@@ -1897,7 +1895,7 @@
     <tag k="population" v="113"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253724" lat="38.0174321" lon="12.5159920" version="30" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67253724" lat="38.0174321" lon="12.5159920" version="31" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="capital" v="6"/>
     <tag k="name" v="Trapani"/>
     <tag k="name:an" v="Tràpani"/>
@@ -1915,7 +1913,6 @@
     <tag k="name:pms" v="Tràpani"/>
     <tag k="name:pt" v="Trápani"/>
     <tag k="name:roa-tara" v="Trapane"/>
-    <tag k="name:ru" v="Трапани"/>
     <tag k="name:scn" v="Tràpani"/>
     <tag k="name:sr" v="Трапани"/>
     <tag k="name:uk" v="Трапані"/>
@@ -1978,9 +1975,8 @@
     <tag k="population" v="2005"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253853" lat="37.2584400" lon="13.9182660" version="18" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67253853" lat="37.2584400" lon="13.9182660" version="19" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="name" v="Campobello di Licata"/>
-    <tag k="name:ru" v="Кампобелло-ди-Ликата"/>
     <tag k="name:scn" v="Camubieɖɖru"/>
     <tag k="name:uk" v="Кампобелло-ді-Ліката"/>
     <tag k="place" v="village"/>
@@ -1994,11 +1990,10 @@
     <tag k="population" v="5211"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253978" lat="37.4408400" lon="13.3920540" version="20" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67253978" lat="37.4408400" lon="13.3920540" version="21" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="name" v="Cattolica Eraclea"/>
     <tag k="name:ar" v="كاتوليكا إيراكليا"/>
     <tag k="name:it" v="Cattolica Eraclea"/>
-    <tag k="name:ru" v="Каттолика-Эраклея"/>
     <tag k="name:scn" v="Catòlica"/>
     <tag k="name:uk" v="Каттоліка-Ераклеа"/>
     <tag k="place" v="village"/>
@@ -2012,9 +2007,8 @@
     <tag k="population" v="1383"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254027" lat="37.3560363" lon="13.9272894" version="19" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67254027" lat="37.3560363" lon="13.9272894" version="20" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="name" v="Delia"/>
-    <tag k="name:ru" v="Делья"/>
     <tag k="name:scn" v="La Dilia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3845"/>
@@ -2163,10 +2157,9 @@
     <tag k="population" v="4767"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257343" lat="37.8685749" lon="12.8144792" version="13" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67257343" lat="37.8685749" lon="12.8144792" version="14" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="name" v="Vita"/>
     <tag k="name:ja" v="ヴィータ"/>
-    <tag k="name:ru" v="Вита"/>
     <tag k="name:uk" v="Віта"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1812"/>
@@ -2536,10 +2529,9 @@
     <tag k="population" v="1525"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274037" lat="39.1419900" lon="16.2356940" version="5" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67274037" lat="39.1419900" lon="16.2356940" version="6" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="6544"/>
     <tag k="name" v="Grimaldi"/>
-    <tag k="name:ru" v="Гримальди"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1870"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3672,10 +3664,9 @@
     <tag k="population" v="584"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280544" lat="40.4778488" lon="15.6301506" version="8" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="67280544" lat="40.4778488" lon="15.6301506" version="9" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="6367"/>
     <tag k="name" v="Brienza"/>
-    <tag k="name:ru" v="Бриенца"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4067"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -5676,10 +5667,9 @@
     <tag k="population" v="6199"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581026" lat="40.9056130" lon="14.5050350" version="6" timestamp="2023-07-15T07:43:34Z" changeset="138533724" uid="9403945" user="快乐的老鼠宝宝">
+  <node id="68581026" lat="40.9056130" lon="14.5050350" version="7" timestamp="2023-07-25T00:52:55Z" changeset="138963522" uid="19889284" user="SdfN5h5063">
     <tag k="gfoss_id" v="5414"/>
     <tag k="name" v="Saviano"/>
-    <tag k="name:ru" v="Савьяно"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15982"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8363,19 +8353,6 @@
     <tag k="website" v="http://www.comunedierula.it/"/>
     <tag k="wikidata" v="Q390699"/>
     <tag k="wikipedia" v="sc:Èrula"/>
-  </node>
-  <node id="240033339" lat="46.3388659" lon="9.5573117" version="13" timestamp="2022-08-10T17:04:16Z" changeset="124741067" uid="10901495" user="Martino Scaglione">
-    <tag k="ele" v="832"/>
-    <tag k="name" v="Promontogno"/>
-    <tag k="old_name" v="Primentonia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="104"/>
-    <tag k="population:date" v="2008"/>
-    <tag k="postal_code" v="7606"/>
-    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
-    <tag k="wikidata" v="Q7249857"/>
-    <tag k="wikimedia_commons" v="Category:Promontogno"/>
-    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="268788418" lat="43.5263107" lon="13.0630099" version="13" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="name" v="Montecarotto"/>
