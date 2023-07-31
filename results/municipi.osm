@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-30T02:22:39Z" areas="2023-07-29T23:15:19Z"/>
+<meta osm_base="2023-07-31T02:25:45Z" areas="2023-07-31T00:46:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2303,20 +2303,6 @@
     <tag k="population" v="3072"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630358" lat="44.8714420" lon="7.6080240" version="4" timestamp="2023-01-17T20:01:20Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="174"/>
-    <tag k="name" v="Osasio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="738"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63630509" lat="44.8409410" lon="7.6359250" version="4" timestamp="2023-01-17T19:55:38Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="136"/>
-    <tag k="name" v="Lombriasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1004"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63630514" lat="45.0580320" lon="7.8746227" version="5" timestamp="2023-01-17T20:06:44Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="144"/>
     <tag k="name" v="Marentino"/>
@@ -3655,25 +3641,20 @@
     <tag k="population" v="2415"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275403" lat="38.4337129" lon="16.0604715" version="7" timestamp="2016-08-28T18:58:31Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275403" lat="38.4337129" lon="16.0604715" version="8" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6769"/>
     <tag k="name" v="Melicucco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4996"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54624"/>
+    <tag k="wikipedia" v="it:Melicucco"/>
   </node>
   <node id="67275635" lat="38.0926700" lon="16.0864030" version="2" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6741"/>
     <tag k="name" v="Caraffa del Bianco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="622"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275990" lat="38.6322790" lon="16.0738970" version="2" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="8007"/>
-    <tag k="name" v="San Costantino Calabro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2308"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280332" lat="40.4129181" lon="16.6910968" version="4" timestamp="2021-02-09T01:07:07Z" changeset="98936912" uid="554973" user="dgitto">
@@ -7220,13 +7201,6 @@
     <tag k="name" v="Palombaro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1177"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70991860" lat="42.0048340" lon="14.3243160" version="2" timestamp="2016-09-07T16:52:23Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5971"/>
-    <tag k="name" v="Pennadomo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="358"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70991878" lat="42.1378390" lon="14.5917210" version="2" timestamp="2016-09-07T16:52:24Z" changeset="41983597" uid="743479" user="fayor">
