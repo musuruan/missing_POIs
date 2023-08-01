@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-07-31T02:29:45Z" areas="2023-07-30T22:49:11Z"/>
+<meta osm_base="2023-08-01T02:34:43Z" areas="2023-08-01T00:27:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -8064,16 +8064,6 @@
     <tag k="population" v="892"/>
     <tag k="wikidata" v="Q30025836"/>
   </node>
-  <node id="64777179" lat="47.0407407" lon="12.1058909" version="8" timestamp="2018-06-08T05:53:26Z" changeset="59656007" uid="2641694" user="JM82">
-    <tag k="gfoss_id" v="2819"/>
-    <tag k="name" v="Prettau - Predoi"/>
-    <tag k="name:de" v="Prettau"/>
-    <tag k="name:en" v="Predoi"/>
-    <tag k="name:it" v="Predoi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="633"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64777182" lat="46.4774258" lon="11.0224369" version="6" timestamp="2020-08-28T16:18:46Z" changeset="90091004" uid="8445331" user="JuaFritz">
     <tag k="gfoss_id" v="2820"/>
     <tag k="is_in" v="Bolzano - Bozen, Trentino-Alto Adige, Italy"/>
@@ -13195,11 +13185,12 @@
     <tag k="population" v="5055"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275067" lat="38.4159570" lon="16.0974291" version="5" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
+  <node id="67275067" lat="38.4159570" lon="16.0974291" version="6" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6747"/>
     <tag k="name" v="Cinquefrondi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6461"/>
+    <tag k="postal_code" v="89021"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54602"/>
     <tag k="wikipedia" v="it:Cinquefrondi"/>
@@ -13359,12 +13350,14 @@
     <tag k="population" v="1470"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275283" lat="38.3350926" lon="15.8712547" version="3" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275283" lat="38.3350926" lon="15.8712547" version="4" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6806"/>
     <tag k="name" v="Seminara"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3352"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54667"/>
+    <tag k="wikipedia" v="it:Seminara"/>
   </node>
   <node id="67275287" lat="38.2506700" lon="15.7189930" version="2" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6805"/>
@@ -13387,20 +13380,22 @@
     <tag k="population" v="1373"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275323" lat="38.3170730" lon="15.9843980" version="3" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
+  <node id="67275323" lat="38.3170730" lon="15.9843980" version="4" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6815"/>
     <tag k="name" v="Varapodio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2329"/>
+    <tag k="postal_code" v="89010"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54687"/>
     <tag k="wikipedia" v="it:Varapodio"/>
   </node>
-  <node id="67275336" lat="38.3550541" lon="16.0147781" version="7" timestamp="2023-07-25T19:39:19Z" changeset="139005270" uid="18063623" user="DomeF">
+  <node id="67275336" lat="38.3550541" lon="16.0147781" version="8" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6813"/>
     <tag k="name" v="Taurianova"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15636"/>
+    <tag k="postal_code" v="89029"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54682"/>
     <tag k="wikipedia" v="it:Taurianova"/>
@@ -13447,11 +13442,12 @@
     <tag k="population" v="1079"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275403" lat="38.4337129" lon="16.0604715" version="8" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
+  <node id="67275403" lat="38.4337129" lon="16.0604715" version="9" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6769"/>
     <tag k="name" v="Melicucco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4996"/>
+    <tag k="postal_code" v="89020"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54624"/>
     <tag k="wikipedia" v="it:Melicucco"/>
@@ -13495,12 +13491,14 @@
     <tag k="population" v="6762"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275478" lat="38.4872833" lon="15.9764948" version="7" timestamp="2016-09-09T00:49:48Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="67275478" lat="38.4872833" lon="15.9764948" version="8" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6789"/>
     <tag k="name" v="Rosarno"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14841"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54644"/>
+    <tag k="wikipedia" v="it:Rosarno"/>
   </node>
   <node id="67275484" lat="38.3650760" lon="16.2777040" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6792"/>
@@ -13516,11 +13514,12 @@
     <tag k="population" v="2709"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275502" lat="38.2935931" lon="15.9841395" version="6" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
+  <node id="67275502" lat="38.2935931" lon="15.9841395" version="7" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6775"/>
     <tag k="name" v="Oppido Mamertina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5559"/>
+    <tag k="postal_code" v="89014"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54631"/>
     <tag k="wikipedia" v="it:Oppido Mamertina"/>
@@ -13578,11 +13577,12 @@
     <tag k="population" v="1097"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275591" lat="38.4119961" lon="15.9592404" version="4" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
+  <node id="67275591" lat="38.4119961" lon="15.9592404" version="5" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6785"/>
     <tag k="name" v="Rizziconi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7650"/>
+    <tag k="postal_code" v="89016"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54640"/>
     <tag k="wikipedia" v="it:Rizziconi"/>
@@ -13594,11 +13594,13 @@
     <tag k="population" v="1343"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275626" lat="38.4065094" lon="16.0774549" version="9" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
+  <node id="67275626" lat="38.4065094" lon="16.0774549" version="10" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6781"/>
     <tag k="name" v="Polistena"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10496"/>
+    <tag k="postal_code" v="89024"/>
+    <tag k="postal_code:source" v="89024"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54637"/>
     <tag k="wikipedia" v="it:Polistena"/>
@@ -13645,12 +13647,14 @@
     <tag k="population" v="736"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275672" lat="38.2884710" lon="15.8077950" version="3" timestamp="2016-09-09T00:49:36Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="67275672" lat="38.2884710" lon="15.8077950" version="4" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6727"/>
     <tag k="name" v="Bagnara Calabra"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10255"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54565"/>
+    <tag k="wikipedia" v="it:Bagnara Calabra"/>
   </node>
   <node id="67275679" lat="38.0132680" lon="16.0826040" version="2" timestamp="2016-08-28T18:58:14Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6735"/>
@@ -13666,12 +13670,14 @@
     <tag k="population" v="3389"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275700" lat="38.4381760" lon="16.1500000" version="2" timestamp="2016-08-28T18:58:26Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275700" lat="38.4381760" lon="16.1500000" version="3" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6757"/>
     <tag k="name" v="Giffone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2182"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54613"/>
+    <tag k="wikipedia" v="it:Giffone"/>
   </node>
   <node id="67275707" lat="38.3654760" lon="16.2649040" version="2" timestamp="2016-08-28T18:58:26Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6760"/>
@@ -13757,28 +13763,33 @@
     <tag k="population" v="964"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275833" lat="38.2637710" lon="15.8784970" version="2" timestamp="2016-08-28T18:58:49Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275833" lat="38.2637710" lon="15.8784970" version="3" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6809"/>
     <tag k="name" v="Sinopoli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2329"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54673"/>
+    <tag k="wikipedia" v="it:Sinopoli"/>
   </node>
-  <node id="67275842" lat="38.3226730" lon="16.0074990" version="3" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
+  <node id="67275842" lat="38.3226730" lon="16.0074990" version="4" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6814"/>
     <tag k="name" v="Terranova Sappo Minulio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="537"/>
+    <tag k="postal_code" v="89010"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54685"/>
     <tag k="wikipedia" v="it:Terranova Sappo Minulio"/>
   </node>
-  <node id="67275856" lat="38.4831702" lon="15.9162707" version="3" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275856" lat="38.4831702" lon="15.9162707" version="4" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6817"/>
     <tag k="name" v="San Ferdinando"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4339"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54646"/>
+    <tag k="wikipedia" v="it:San Ferdinando (Italia)"/>
   </node>
   <node id="67275866" lat="38.2553720" lon="15.9704990" version="1" timestamp="2007-10-12T22:41:47Z" changeset="137044" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
@@ -27209,12 +27220,14 @@
     <tag k="name:lld" v="Zelat"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="2727309749" lat="38.3006628" lon="16.3303619" version="2" timestamp="2016-08-28T18:58:30Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="2727309749" lat="38.3006628" lon="16.3303619" version="3" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6765"/>
     <tag k="name" v="Marina di Gioiosa Ionica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6440"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54621"/>
+    <tag k="wikipedia" v="it:Marina di Gioiosa Ionica"/>
   </node>
   <node id="2767963675" lat="39.8896785" lon="18.3312082" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="name" v="Alessano"/>
