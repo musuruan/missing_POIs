@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-02T02:22:59Z" areas="2023-08-02T00:19:00Z"/>
+<meta osm_base="2023-08-03T02:24:15Z" areas="2023-08-03T00:08:22Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -8560,12 +8560,16 @@
     <tag k="population" v="1360"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579501" lat="41.1994210" lon="14.8441390" version="4" timestamp="2016-09-01T23:10:10Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68579501" lat="41.1994210" lon="14.8441390" version="5" timestamp="2023-08-02T15:06:28Z" changeset="139352386" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5312"/>
     <tag k="name" v="Pietrelcina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3031"/>
+    <tag k="population" v="3076"/>
+    <tag k="population:date" v="2023-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q55949"/>
+    <tag k="wikipedia" v="it:Pietrelcina"/>
   </node>
   <node id="68579511" lat="41.0662180" lon="14.8358400" version="2" timestamp="2016-09-01T23:10:12Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5325"/>

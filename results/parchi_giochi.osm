@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-02T02:22:59Z" areas="2023-08-02T00:19:00Z"/>
+<meta osm_base="2023-08-03T02:25:16Z" areas="2023-08-03T00:08:22Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -94,15 +94,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="14615"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="61753431" lat="43.5391127" lon="10.9540750" version="5" timestamp="2017-03-11T12:52:25Z" changeset="46761779" uid="354284" user="sbiribizio">
-    <tag k="gfoss_id" v="4498"/>
-    <tag k="name" v="Gambassi Terme"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4709"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q82704"/>
-    <tag k="wikipedia" v="it:Gambassi Terme"/>
   </node>
   <node id="61753436" lat="44.1124753" lon="11.5477477" version="7" timestamp="2021-09-13T21:52:55Z" changeset="111166684" uid="69259" user="DnaX">
     <tag k="gfoss_id" v="4508"/>
@@ -16986,12 +16977,16 @@
     <tag k="population" v="4932"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579501" lat="41.1994210" lon="14.8441390" version="4" timestamp="2016-09-01T23:10:10Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68579501" lat="41.1994210" lon="14.8441390" version="5" timestamp="2023-08-02T15:06:28Z" changeset="139352386" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5312"/>
     <tag k="name" v="Pietrelcina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3031"/>
+    <tag k="population" v="3076"/>
+    <tag k="population:date" v="2023-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q55949"/>
+    <tag k="wikipedia" v="it:Pietrelcina"/>
   </node>
   <node id="68579506" lat="41.2512272" lon="14.6269436" version="3" timestamp="2016-09-01T23:10:12Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5322"/>
