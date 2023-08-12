@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-11T02:13:46Z" areas="2023-08-11T00:14:14Z"/>
+<meta osm_base="2023-08-12T02:11:40Z" areas="2023-08-11T23:14:20Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6608,16 +6608,6 @@
     <tag k="population" v="673"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275363" lat="38.4239740" lon="15.8989950" version="6" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6758"/>
-    <tag k="name" v="Gioia Tauro"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="19864"/>
-    <tag k="short_name" v="Gioia"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54614"/>
-    <tag k="wikipedia" v="it:Gioia Tauro"/>
-  </node>
   <node id="67275381" lat="38.1733690" lon="15.7413950" version="2" timestamp="2016-08-28T18:58:27Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6761"/>
     <tag k="name" v="Laganadi"/>
@@ -6779,6 +6769,13 @@
     <tag k="population" v="1082"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="67275798" lat="38.5755780" lon="16.0202960" version="2" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="8006"/>
+    <tag k="name" v="San Calogero"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4649"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="67275825" lat="38.5128770" lon="16.1006990" version="2" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6807"/>
     <tag k="name" v="Serrata"/>
@@ -6808,15 +6805,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3544"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275944" lat="38.6274446" lon="16.0559118" version="5" timestamp="2023-07-30T17:17:06Z" changeset="139219073" uid="18785499" user="DaveMzp">
-    <tag k="alt_name" v="Jonadi"/>
-    <tag k="gfoss_id" v="7991"/>
-    <tag k="name" v="Ionadi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2662"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026431"/>
   </node>
   <node id="67276009" lat="38.5969341" lon="16.2303554" version="2" timestamp="2014-04-16T10:17:01Z" changeset="21727007" uid="2027988" user="fdgeo">
     <tag k="gfoss_id" v="8014"/>
