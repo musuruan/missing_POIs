@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-13T02:15:26Z" areas="2023-08-12T23:34:28Z"/>
+<meta osm_base="2023-08-14T02:15:09Z" areas="2023-08-13T23:21:57Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -16587,12 +16587,13 @@
     <tag k="population" v="921"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68567290" lat="40.9745752" lon="14.7401863" version="4" timestamp="2020-10-29T09:08:25Z" changeset="93225080" uid="554973" user="dgitto">
+  <node id="68567290" lat="40.9745752" lon="14.7401863" version="5" timestamp="2023-08-13T16:16:04Z" changeset="139832235" uid="8813335" user="fthierygeo">
     <tag k="gfoss_id" v="5521"/>
     <tag k="name" v="Sant'Angelo a Scala"/>
     <tag k="place" v="village"/>
     <tag k="population" v="736"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55100"/>
   </node>
   <node id="68567329" lat="41.0712210" lon="15.2005480" version="2" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5517"/>
@@ -20877,15 +20878,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="686"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70993164" lat="41.8502606" lon="14.0782574" version="3" timestamp="2020-07-20T14:31:27Z" changeset="88252536" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5791"/>
-    <tag k="name" v="Roccaraso"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1604"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q50138"/>
-    <tag k="wikipedia" v="it:Roccaraso"/>
   </node>
   <node id="70993170" lat="41.9334300" lon="13.9770100" version="3" timestamp="2016-09-08T02:39:01Z" changeset="41992756" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5790"/>
