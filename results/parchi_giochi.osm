@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-15T02:14:24Z" areas="2023-08-14T23:12:21Z"/>
+<meta osm_base="2023-08-16T02:14:42Z" areas="2023-08-15T22:59:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -13783,7 +13783,7 @@
     <tag k="population" v="1389"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275924" lat="38.7839630" lon="16.2910515" version="4" timestamp="2023-08-14T17:28:13Z" changeset="139882064" uid="18785499" user="DaveMzp">
+  <node id="67275924" lat="38.7838211" lon="16.2912123" version="5" timestamp="2023-08-15T15:07:58Z" changeset="139920216" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="7985"/>
     <tag k="name" v="Filadelfia"/>
     <tag k="place" v="village"/>
@@ -18823,15 +18823,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="6999"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69300632" lat="44.5106079" lon="9.9896546" version="9" timestamp="2020-05-27T08:04:00Z" changeset="85816083" uid="1669056" user="Maurizio Melani (forwalk)">
-    <tag k="ele" v="808"/>
-    <tag k="gfoss_id" v="3891"/>
-    <tag k="name" v="Berceto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2434"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q100761"/>
   </node>
   <node id="69300640" lat="44.7240342" lon="11.0998110" version="10" timestamp="2022-02-19T22:34:47Z" changeset="117621453" uid="1834719" user="LvdT">
     <tag k="ele" v="23"/>
@@ -26401,21 +26392,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="355"/>
   </node>
-  <node id="892512332" lat="43.0224336" lon="12.0705233" version="11" timestamp="2017-11-11T17:07:55Z" changeset="53695556" uid="1211510" user="arcanma">
-    <tag k="ele" v="391"/>
-    <tag k="gfoss_id" v="49895"/>
-    <tag k="istat_id" v="5403610001"/>
-    <tag k="name" v="Paciano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="529"/>
-    <tag k="population:date" v="2011-10-09"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.paciano.pg.it/"/>
-    <tag k="wikidata" v="Q20497"/>
-    <tag k="wikipedia" v="it:Paciano"/>
-  </node>
   <node id="894055836" lat="45.9920276" lon="12.2318827" version="4" timestamp="2017-03-12T14:08:21Z" changeset="46785792" uid="354284" user="sbiribizio">
     <tag k="name" v="Santa Maria"/>
     <tag k="place" v="village"/>
@@ -26665,15 +26641,6 @@
     <tag k="website" v="https://www.comune.paullo.mi.it/"/>
     <tag k="wikidata" v="Q42922"/>
     <tag k="wikipedia" v="it:Paullo"/>
-  </node>
-  <node id="1716415318" lat="43.0165076" lon="11.9477118" version="8" timestamp="2023-04-16T18:31:50Z" changeset="134987294" uid="17965418" user="DabMK">
-    <tag k="gfoss_id" v="4633"/>
-    <tag k="name" v="Chiusi"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="8704"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q91185"/>
-    <tag k="wikipedia" v="it:Chiusi"/>
   </node>
   <node id="1727509731" lat="41.2739626" lon="14.2222886" version="2" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="ele" v="180"/>
@@ -27708,6 +27675,15 @@
     <tag k="population" v="1900"/>
     <tag k="wikidata" v="Q40903"/>
     <tag k="wikipedia" v="it:Castelveccana"/>
+  </node>
+  <node id="11117760679" lat="43.0165150" lon="11.9477359" version="1" timestamp="2023-08-15T22:21:22Z" changeset="139937683" uid="17965418" user="DabMK">
+    <tag k="gfoss_id" v="4633"/>
+    <tag k="name" v="Chiusi"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="8704"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q91185"/>
+    <tag k="wikipedia" v="it:Chiusi"/>
   </node>
 
 </osm>
