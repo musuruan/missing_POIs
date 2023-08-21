@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-20T02:14:59Z" areas="2023-08-19T21:32:29Z"/>
+<meta osm_base="2023-08-21T02:14:13Z" areas="2023-08-20T22:06:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11,7 +11,7 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="38" timestamp="2023-07-26T01:40:40Z" changeset="139013211" uid="2456367" user="hdevine825">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="46" timestamp="2023-08-21T01:36:54Z" changeset="140157904" uid="81735" user="ovruni">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -173,10 +173,9 @@
     <tag k="population" v="2367"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753555" lat="43.9947210" lon="10.2257715" version="18" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="61753555" lat="43.9947210" lon="10.2257715" version="21" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="4451"/>
     <tag k="name" v="Seravezza"/>
-    <tag k="name:ru" v="Серавецца"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13073"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3061,15 +3060,6 @@
     <tag k="population" v="1468"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513552" lat="45.2547770" lon="10.4743790" version="1" timestamp="2007-10-10T06:23:28Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="2692"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
-    <tag k="name" v="Casaloldo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2174"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62513565" lat="45.2595770" lon="10.4044780" version="1" timestamp="2007-10-10T06:23:28Z" changeset="85182" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="2691"/>
@@ -4204,13 +4194,6 @@
     <tag k="population" v="470"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621811" lat="44.6015440" lon="8.5634490" version="4" timestamp="2023-01-17T20:05:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="901"/>
-    <tag k="name" v="Cassinelle"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="864"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63621838" lat="45.0716520" lon="8.2060330" version="5" timestamp="2023-01-17T20:00:40Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="974"/>
     <tag k="name" v="Odalengo Piccolo"/>
@@ -4505,10 +4488,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029510"/>
   </node>
-  <node id="63622304" lat="44.7951536" lon="8.7848493" version="20" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="63622304" lat="44.7951536" lon="8.7848493" version="23" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="995"/>
     <tag k="name" v="Pozzolo Formigaro"/>
-    <tag k="name:ru" v="Поццоло-Формигаро"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4771"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -4528,10 +4510,9 @@
     <tag k="population" v="1753"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622338" lat="44.7526366" lon="8.6583243" version="17" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="63622338" lat="44.7526366" lon="8.6583243" version="20" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="997"/>
     <tag k="name" v="Predosa"/>
-    <tag k="name:ru" v="Предоза"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2074"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -6847,14 +6828,13 @@
     <tag k="population" v="1224"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628415" lat="45.1279823" lon="7.1779846" version="21" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="63628415" lat="45.1279823" lon="7.1779846" version="24" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="ele" v="420"/>
     <tag k="gfoss_id" v="245"/>
     <tag k="name" v="San Giorio di Susa"/>
     <tag k="name:fr" v="Saint-Joire"/>
     <tag k="name:frp" v="San Djeuri"/>
     <tag k="name:pms" v="San Gieuri"/>
-    <tag k="name:ru" v="Сан-Джорио-ди-Суза"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1040"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7123,7 +7103,7 @@
     <tag k="population" v="7430"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629394" lat="45.0973834" lon="6.9290646" version="22" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="63629394" lat="45.0973834" lon="6.9290646" version="25" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="alt_name:oc" v="Isiya"/>
     <tag k="gfoss_id" v="100"/>
     <tag k="name" v="Exilles"/>
@@ -7132,7 +7112,6 @@
     <tag k="name:it" v="Exilles"/>
     <tag k="name:oc" v="Ensilha"/>
     <tag k="name:pms" v="Isìles"/>
-    <tag k="name:ru" v="Эксиллес"/>
     <tag k="place" v="village"/>
     <tag k="population" v="284"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7494,17 +7473,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3072"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63630364" lat="45.0330519" lon="6.8325100" version="6" timestamp="2022-01-19T21:10:23Z" changeset="116358963" uid="2976645" user="Jrachi">
-    <tag k="gfoss_id" v="175"/>
-    <tag k="name" v="Oulx"/>
-    <tag k="name:fr" v="Oulx"/>
-    <tag k="name:oc" v="Ors"/>
-    <tag k="name:pms" v="Ols"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2657"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
   </node>
   <node id="63630381" lat="45.4375586" lon="7.8517154" version="5" timestamp="2023-01-17T19:57:24Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="181"/>
@@ -8010,7 +7978,7 @@
     <tag k="population" v="694"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64777024" lat="46.5176161" lon="11.2313730" version="19" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="64777024" lat="46.5176161" lon="11.2313730" version="22" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="2753"/>
     <tag k="name" v="Andrian - Andriano"/>
     <tag k="name:de" v="Andrian"/>
@@ -8019,7 +7987,6 @@
     <tag k="name:ja" v="アンドリアーノ"/>
     <tag k="name:nl" v="Andrian"/>
     <tag k="name:pt" v="Andrian"/>
-    <tag k="name:ru" v="Андриан"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1042"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8358,10 +8325,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q34317"/>
   </node>
-  <node id="64778458" lat="45.6075204" lon="11.9994148" version="18" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="64778458" lat="45.6075204" lon="11.9994148" version="21" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="3579"/>
     <tag k="name" v="Piombino Dese"/>
-    <tag k="name:ru" v="Пьомбино-Дезе"/>
     <tag k="place" v="town"/>
     <tag k="population" v="9534"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8770,12 +8736,11 @@
     <tag k="population" v="6348"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778672" lat="45.7540029" lon="11.9553621" version="24" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="64778672" lat="45.7540029" lon="11.9553621" version="27" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="3379"/>
     <tag k="name" v="Altivole"/>
     <tag k="name:it" v="Altivole"/>
     <tag k="name:ja" v="アルティーヴォレ"/>
-    <tag k="name:ru" v="Альтиволе"/>
     <tag k="name:vec" v="Intiòłe"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6912"/>
@@ -10255,10 +10220,9 @@
     <tag k="population" v="453"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587048" lat="44.3902587" lon="8.2079522" version="16" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="66587048" lat="44.3902587" lon="8.2079522" version="19" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="1211"/>
     <tag k="name" v="Cengio"/>
-    <tag k="name:ru" v="Ченджо"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3563"/>
   </node>
@@ -10270,10 +10234,9 @@
     <tag k="population" v="645"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587057" lat="44.3675360" lon="8.2017460" version="15" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="66587057" lat="44.3675360" lon="8.2017460" version="18" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="1226"/>
     <tag k="name" v="Millesimo"/>
-    <tag k="name:ru" v="Миллезимо"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3250"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -10418,11 +10381,10 @@
     <tag k="population" v="634"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587171" lat="44.1357684" lon="8.2217538" version="18" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="66587171" lat="44.1357684" lon="8.2217538" version="21" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="addr:postcode" v="17054"/>
     <tag k="gfoss_id" v="1199"/>
     <tag k="name" v="Boissano"/>
-    <tag k="name:ru" v="Бойссано"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2061"/>
     <tag k="postal_code" v="17054"/>
@@ -10465,7 +10427,7 @@
     <tag k="population" v="822"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253724" lat="38.0174321" lon="12.5159920" version="40" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67253724" lat="38.0174321" lon="12.5159920" version="43" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="capital" v="6"/>
     <tag k="name" v="Trapani"/>
     <tag k="name:an" v="Tràpani"/>
@@ -10483,7 +10445,6 @@
     <tag k="name:pms" v="Tràpani"/>
     <tag k="name:pt" v="Trápani"/>
     <tag k="name:roa-tara" v="Trapane"/>
-    <tag k="name:ru" v="Трапани"/>
     <tag k="name:scn" v="Tràpani"/>
     <tag k="name:sr" v="Трапани"/>
     <tag k="name:uk" v="Трапані"/>
@@ -10527,12 +10488,11 @@
     <tag k="population" v="849"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253770" lat="37.3929390" lon="13.3507530" version="31" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67253770" lat="37.3929390" lon="13.3507530" version="34" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="alt_name:scn" v="Muntallè"/>
     <tag k="name" v="Montallegro"/>
     <tag k="name:ar" v="مونتاليغرو"/>
     <tag k="name:it" v="Montallegro"/>
-    <tag k="name:ru" v="Монталлегро"/>
     <tag k="name:scn" v="Muntallegru"/>
     <tag k="name:uk" v="Монталлегро"/>
     <tag k="place" v="village"/>
@@ -10560,10 +10520,9 @@
     <tag k="population" v="2701"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253796" lat="37.1916637" lon="13.7637141" version="29" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67253796" lat="37.1916637" lon="13.7637141" version="32" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="alt_name:scn" v="Donnafugata"/>
     <tag k="name" v="Palma di Montechiaro"/>
-    <tag k="name:ru" v="Пальма-ди-Монтекьяро"/>
     <tag k="name:scn" v="Parma di Muntichiaru"/>
     <tag k="name:uk" v="Пальма-ді-Монтек'яро"/>
     <tag k="place" v="town"/>
@@ -10606,11 +10565,10 @@
     <tag k="source" v="Istat gennaio 2023"/>
     <tag k="website" v="https://edition.cnn.com/travel/article/one-euro-home-italy-bivona/index.html"/>
   </node>
-  <node id="67253832" lat="37.3380858" lon="13.4219962" version="31" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67253832" lat="37.3380858" lon="13.4219962" version="34" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Siculiana"/>
     <tag k="name:ar" v="سيكوليانا"/>
     <tag k="name:it" v="Siculiana"/>
-    <tag k="name:ru" v="Сикульяна"/>
     <tag k="name:uk" v="Сікуліана"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4141"/>
@@ -10622,9 +10580,8 @@
     <tag k="population" v="2005"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253853" lat="37.2584400" lon="13.9182660" version="28" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67253853" lat="37.2584400" lon="13.9182660" version="31" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Campobello di Licata"/>
-    <tag k="name:ru" v="Кампобелло-ди-Ликата"/>
     <tag k="name:scn" v="Camubieɖɖru"/>
     <tag k="name:uk" v="Кампобелло-ді-Ліката"/>
     <tag k="place" v="village"/>
@@ -10679,11 +10636,10 @@
     <tag k="population" v="867"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253978" lat="37.4408400" lon="13.3920540" version="30" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67253978" lat="37.4408400" lon="13.3920540" version="33" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Cattolica Eraclea"/>
     <tag k="name:ar" v="كاتوليكا إيراكليا"/>
     <tag k="name:it" v="Cattolica Eraclea"/>
-    <tag k="name:ru" v="Каттолика-Эраклея"/>
     <tag k="name:scn" v="Catòlica"/>
     <tag k="name:uk" v="Каттоліка-Ераклеа"/>
     <tag k="place" v="village"/>
@@ -10779,10 +10735,9 @@
     <tag k="population" v="2875"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254481" lat="37.5652540" lon="15.1117880" version="30" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67254481" lat="37.5652540" lon="15.1117880" version="33" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="San Gregorio di Catania"/>
     <tag k="name:ar" v="سان جريجوريو دي كاتانيا"/>
-    <tag k="name:ru" v="Сан-Григорио-дель-Катании"/>
     <tag k="name:scn" v="San Grigoriu"/>
     <tag k="name:uk" v="Сан-Грегоріо-ді-Катанія"/>
     <tag k="place" v="town"/>
@@ -10845,10 +10800,9 @@
     <tag k="population" v="2837"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254900" lat="37.6229520" lon="14.7390790" version="26" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67254900" lat="37.6229520" lon="14.7390790" version="29" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Centuripe"/>
     <tag k="name:en" v="Centuripe"/>
-    <tag k="name:ru" v="Чентурипе"/>
     <tag k="name:scn" v="Centorbi"/>
     <tag k="name:uk" v="Чентурипе"/>
     <tag k="old_name" v="Kentoripa"/>
@@ -10942,10 +10896,9 @@
     <tag k="population" v="3205"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255112" lat="37.9137205" lon="15.3354491" version="27" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67255112" lat="37.9137205" lon="15.3354491" version="30" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="ele" v="420"/>
     <tag k="name" v="Forza d'Agrò"/>
-    <tag k="name:ru" v="Форца-д'Агро"/>
     <tag k="name:scn" v="'a Forza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="831"/>
@@ -11062,11 +11015,10 @@
     <tag k="population" v="1496"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67255666" lat="38.5544690" lon="14.8254710" version="30" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67255666" lat="38.5544690" lon="14.8254710" version="33" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Leni"/>
     <tag k="name:ar" v="ليني"/>
     <tag k="name:it" v="Leni"/>
-    <tag k="name:ru" v="Лени"/>
     <tag k="name:uk" v="Лені"/>
     <tag k="place" v="village"/>
     <tag k="population" v="680"/>
@@ -11327,9 +11279,8 @@
     <tag k="population" v="3297"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256456" lat="37.8210665" lon="13.8902244" version="27" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67256456" lat="37.8210665" lon="13.8902244" version="30" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Caltavuturo"/>
-    <tag k="name:ru" v="Кальтавутуро"/>
     <tag k="name:scn" v="Caltavuturu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3551"/>
@@ -11365,9 +11316,8 @@
     <tag k="population" v="11342"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256521" lat="38.1549428" lon="13.1098412" version="23" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67256521" lat="38.1549428" lon="13.1098412" version="26" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Cinisi"/>
-    <tag k="name:ru" v="Чинизи"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11945"/>
     <tag k="source" v="Istat gennaio 2022"/>
@@ -11616,11 +11566,10 @@
     <tag k="population" v="9828"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257015" lat="37.9812974" lon="12.5573091" version="24" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67257015" lat="37.9812974" lon="12.5573091" version="27" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="alt_name:scn" v="Paceca"/>
     <tag k="name" v="Paceco"/>
     <tag k="name:ja" v="パチェーコ"/>
-    <tag k="name:ru" v="Пачеко"/>
     <tag k="name:scn" v="Paceca"/>
     <tag k="name:uk" v="Пачеко"/>
     <tag k="place" v="town"/>
@@ -11680,20 +11629,18 @@
     <tag k="population" v="4528"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257335" lat="37.7162399" lon="12.4945468" version="23" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67257335" lat="37.7162399" lon="12.4945468" version="26" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Petrosino"/>
     <tag k="name:ja" v="ペトロジーノ"/>
-    <tag k="name:ru" v="Петрозино"/>
     <tag k="name:scn" v="Pitrusinu"/>
     <tag k="name:uk" v="Петрозіно"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7899"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67257343" lat="37.8685749" lon="12.8144792" version="23" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67257343" lat="37.8685749" lon="12.8144792" version="26" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Vita"/>
     <tag k="name:ja" v="ヴィータ"/>
-    <tag k="name:ru" v="Вита"/>
     <tag k="name:uk" v="Віта"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1812"/>
@@ -11870,10 +11817,9 @@
     <tag k="population" v="2668"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273532" lat="38.9319900" lon="16.8583100" version="19" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67273532" lat="38.9319900" lon="16.8583100" version="22" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="6649"/>
     <tag k="name" v="Botricello"/>
-    <tag k="name:ru" v="Ботричелло"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4586"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -12233,10 +12179,9 @@
     <tag k="population" v="1525"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274037" lat="39.1419900" lon="16.2356940" version="15" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="67274037" lat="39.1419900" lon="16.2356940" version="18" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="6544"/>
     <tag k="name" v="Grimaldi"/>
-    <tag k="name:ru" v="Гримальди"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1870"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -16091,13 +16036,12 @@
     <tag k="population" v="11311"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566148" lat="40.9141958" lon="14.7888764" version="25" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="68566148" lat="40.9141958" lon="14.7888764" version="28" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="capital" v="6"/>
     <tag k="ele" v="348"/>
     <tag k="gfoss_id" v="5438"/>
     <tag k="name" v="Avellino"/>
     <tag k="name:el" v="Αβελλίνο"/>
-    <tag k="name:ru" v="Авеллино"/>
     <tag k="name:zh" v="阿韋利諾"/>
     <tag k="place" v="city"/>
     <tag k="population" v="54847"/>
@@ -17666,10 +17610,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72503"/>
   </node>
-  <node id="68580695" lat="40.8292962" lon="14.3341677" version="17" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="68580695" lat="40.8292962" lon="14.3341677" version="20" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="5405"/>
     <tag k="name" v="San Giorgio a Cremano"/>
-    <tag k="name:ru" v="Сан-Джорджо-а-Кремано"/>
     <tag k="place" v="town"/>
     <tag k="population" v="45557"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -17737,10 +17680,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72438"/>
   </node>
-  <node id="68580967" lat="40.9210826" lon="14.5327402" version="21" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="68580967" lat="40.9210826" lon="14.5327402" version="24" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="5388"/>
     <tag k="name" v="Nola"/>
-    <tag k="name:ru" v="Нола"/>
     <tag k="name:uk" v="Нола"/>
     <tag k="name:zh" v="诺拉"/>
     <tag k="place" v="town"/>
@@ -17780,10 +17722,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72602"/>
   </node>
-  <node id="68581026" lat="40.9056130" lon="14.5050350" version="16" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="68581026" lat="40.9056130" lon="14.5050350" version="19" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="5414"/>
     <tag k="name" v="Saviano"/>
-    <tag k="name:ru" v="Савьяно"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15982"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -18188,11 +18129,10 @@
     <tag k="population" v="2052"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582037" lat="40.7498877" lon="14.6133234" version="22" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="68582037" lat="40.7498877" lon="14.6133234" version="25" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="5637"/>
     <tag k="name" v="Pagani"/>
     <tag k="name:lt" v="Paganis"/>
-    <tag k="name:ru" v="Пагани"/>
     <tag k="name:uk" v="Пагані"/>
     <tag k="place" v="town"/>
     <tag k="population" v="35962"/>
@@ -18265,10 +18205,9 @@
     <tag k="population" v="1009"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582224" lat="40.6092539" lon="14.9821443" version="20" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="68582224" lat="40.6092539" lon="14.9821443" version="23" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="5563"/>
     <tag k="name" v="Battipaglia"/>
-    <tag k="name:ru" v="Баттипалья"/>
     <tag k="place" v="town"/>
     <tag k="population" v="50359"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -22062,10 +22001,9 @@
     <tag k="wikidata" v="Q224430"/>
     <tag k="wikipedia" v="it:Rocca Sinibalda"/>
   </node>
-  <node id="72961916" lat="42.5164340" lon="12.8549770" version="17" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="72961916" lat="42.5164340" lon="12.8549770" version="20" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="4898"/>
     <tag k="name" v="Rivodutri"/>
-    <tag k="name:ru" v="Риводутри"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1310"/>
     <tag k="source:population" v="wikipedia:it, 31.12.2010"/>
@@ -22514,10 +22452,9 @@
     <tag k="wikidata" v="Q243364"/>
     <tag k="wikipedia" v="it:San Gregorio da Sassola"/>
   </node>
-  <node id="72963447" lat="42.0354641" lon="11.8679380" version="19" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="72963447" lat="42.0354641" lon="11.8679380" version="22" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="gfoss_id" v="5008"/>
     <tag k="name" v="Santa Marinella"/>
-    <tag k="name:ru" v="Санта-Маринелла"/>
     <tag k="place" v="town"/>
     <tag k="population" v="18783"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -27463,9 +27400,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="244"/>
   </node>
-  <node id="4989788296" lat="45.7285199" lon="7.4066634" version="17" timestamp="2023-07-25T22:58:48Z" changeset="139011184" uid="14454329" user="Beton Krai">
+  <node id="4989788296" lat="45.7285199" lon="7.4066634" version="20" timestamp="2023-08-21T00:33:52Z" changeset="140156712" uid="20047720" user="UwIWRby47_KKerlin_BitWni2826">
     <tag k="name" v="Brissogne"/>
-    <tag k="name:ru" v="Бриссонь"/>
     <tag k="place" v="village"/>
     <tag k="population" v="965"/>
     <tag k="population:date" v="2022-12-31"/>
