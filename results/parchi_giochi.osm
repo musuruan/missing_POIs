@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-22T02:16:11Z" areas="2023-08-21T21:49:36Z"/>
+<meta osm_base="2023-08-23T02:14:59Z" areas="2023-08-22T21:40:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -142,13 +142,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2695"/>
     <tag k="postal_code" v="58044"/>
-  </node>
-  <node id="61753504" lat="42.8932352" lon="11.5383804" version="6" timestamp="2023-04-16T20:54:29Z" changeset="134991699" uid="178610" user="Pab09">
-    <tag k="gfoss_id" v="4662"/>
-    <tag k="name" v="Castel del Piano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4331"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753505" lat="42.7716300" lon="11.6992480" version="2" timestamp="2016-09-11T17:22:56Z" changeset="42083429" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4663"/>
@@ -10783,13 +10776,6 @@
     <tag k="population" v="1854"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254874" lat="37.6932846" lon="15.1064599" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Zafferana Etnea"/>
-    <tag k="name:scn" v="Zafarana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9324"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
   <node id="67254878" lat="37.5901914" lon="14.2719716" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Calascibetta"/>
     <tag k="name:it" v="Calascibetta"/>
@@ -20417,14 +20403,6 @@
     <tag k="population" v="1098"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991708" lat="41.8682549" lon="14.4530577" version="4" timestamp="2016-09-07T16:52:18Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="ele" v="1081"/>
-    <tag k="gfoss_id" v="5928"/>
-    <tag k="name" v="Castiglione Messer Marino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2225"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70991744" lat="42.2486966" lon="14.1859179" version="7" timestamp="2019-09-08T08:01:46Z" changeset="74220804" uid="10124288" user="damianeue">
     <tag k="ele" v="227"/>
     <tag k="gfoss_id" v="5938"/>
@@ -27038,10 +27016,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4307"/>
   </node>
-  <node id="2663786391" lat="40.5078822" lon="15.8137603" version="3" timestamp="2017-03-03T14:13:26Z" changeset="46549824" uid="3084054" user="agnostico">
+  <node id="2663786391" lat="40.5074284" lon="15.8147487" version="4" timestamp="2023-08-22T09:47:17Z" changeset="140219416" uid="361003" user="Cascafico">
+    <tag k="gfoss_id" v="6355"/>
     <tag k="name" v="Abriola"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1521"/>
+    <tag k="population" v="1542"/>
+    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.abriola.eu/"/>
     <tag k="wikidata" v="Q52510"/>
     <tag k="wikipedia" v="it:Abriola"/>
