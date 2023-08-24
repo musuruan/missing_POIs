@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-23T02:13:59Z" areas="2023-08-23T00:57:21Z"/>
+<meta osm_base="2023-08-24T02:13:59Z" areas="2023-08-24T00:39:09Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7278,13 +7278,6 @@
     <tag k="population" v="2474"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284306" lat="41.5616240" lon="14.1671190" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7582"/>
-    <tag k="name" v="Macchia d'Isernia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="909"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284310" lat="41.4951210" lon="14.0068160" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7575"/>
     <tag k="name" v="Conca Casale"/>
@@ -11720,11 +11713,11 @@
     <tag k="wikipedia" v="it:Serramanna"/>
     <tag k="wikipedia:sc" v="Serramanna"/>
   </node>
-  <node id="72991053" lat="39.0672340" lon="9.0094450" version="46" timestamp="2023-04-22T19:30:18Z" changeset="135240842" uid="9451067" user="b-jazz-bot">
+  <node id="72991053" lat="39.0655592" lon="9.0108295" version="47" timestamp="2023-08-23T09:22:36Z" changeset="140265913" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="7463"/>
-    <tag k="name" v="Sarroccu/Sarroch"/>
+    <tag k="name" v="Sarrocu/Sarroch"/>
     <tag k="name:it" v="Sarroch"/>
-    <tag k="name:sc" v="Sarroccu"/>
+    <tag k="name:sc" v="Sarrocu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5243"/>
     <tag k="postal_code" v="09018"/>
@@ -14225,11 +14218,6 @@
     <tag k="name" v="Baruchella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="961"/>
-  </node>
-  <node id="2322888747" lat="45.0940564" lon="11.4934621" version="2" timestamp="2016-10-02T23:39:08Z" changeset="42593464" uid="743479" user="fayor">
-    <tag k="name" v="Badia Polesine"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10509"/>
   </node>
   <node id="2324307169" lat="43.7911505" lon="12.1551264" version="3" timestamp="2021-09-01T15:51:19Z" changeset="110574761" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="4171"/>
