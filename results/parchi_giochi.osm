@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-25T02:16:26Z" areas="2023-08-25T00:19:32Z"/>
+<meta osm_base="2023-08-26T02:13:48Z" areas="2023-08-25T21:21:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1054,12 +1054,14 @@
     <tag k="wikidata" v="Q101466"/>
     <tag k="wikipedia" v="it:Pontirolo Nuovo"/>
   </node>
-  <node id="62507408" lat="45.6307873" lon="9.5910634" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62507408" lat="45.6307873" lon="9.5910634" version="4" timestamp="2023-08-25T16:53:38Z" changeset="140381517" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="2074"/>
     <tag k="name" v="Osio Sopra"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4077"/>
+    <tag k="population" v="5202"/>
+    <tag k="population:date" v="2021-05-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="62507425" lat="46.0025950" lon="10.3519630" version="2" timestamp="2020-04-03T16:41:28Z" changeset="83045910" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="2220"/>
@@ -13168,12 +13170,15 @@
     <tag k="population" v="1627"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275139" lat="39.0354447" lon="16.9792627" version="5" timestamp="2016-09-09T00:49:41Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="67275139" lat="39.0354447" lon="16.9792627" version="6" timestamp="2023-08-25T12:23:27Z" changeset="140370157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="7959"/>
     <tag k="name" v="Cutro"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10541"/>
+    <tag k="postal_code" v="88842"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54508"/>
+    <tag k="wikipedia" v="it:Cutro"/>
   </node>
   <node id="67275150" lat="39.3073729" lon="17.0259873" version="5" timestamp="2016-08-28T18:58:31Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7961"/>

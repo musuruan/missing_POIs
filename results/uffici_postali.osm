@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-25T02:13:21Z" areas="2023-08-25T00:19:32Z"/>
+<meta osm_base="2023-08-26T02:10:40Z" areas="2023-08-26T00:13:10Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -252,12 +252,14 @@
     <tag k="population" v="990"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505788" lat="45.6160780" lon="9.5890530" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62505788" lat="45.6160780" lon="9.5890530" version="6" timestamp="2023-08-25T16:53:38Z" changeset="140381517" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="2075"/>
     <tag k="name" v="Osio Sotto"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="12443"/>
+    <tag k="population" v="12427"/>
+    <tag k="population:date" v="2021-05-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="62505798" lat="45.7380261" lon="10.0345150" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2081"/>
@@ -566,12 +568,14 @@
     <tag k="wikidata" v="Q30025630"/>
     <tag k="wikipedia" v="it:Fara Gera d'Adda"/>
   </node>
-  <node id="62506457" lat="45.6525039" lon="9.6060129" version="3" timestamp="2021-08-29T16:01:35Z" changeset="110418686" uid="554973" user="dgitto">
+  <node id="62506457" lat="45.6472193" lon="9.6019202" version="4" timestamp="2023-08-25T16:53:38Z" changeset="140381517" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="2015"/>
     <tag k="name" v="Dalmine"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="21459"/>
+    <tag k="population" v="23322"/>
+    <tag k="population:date" v="2023-02-28"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q101028"/>
   </node>
   <node id="62506463" lat="45.9907873" lon="9.6018874" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -1047,12 +1051,14 @@
     <tag k="population" v="2711"/>
     <tag k="source" v="Comune di Parre"/>
   </node>
-  <node id="62507408" lat="45.6307873" lon="9.5910634" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62507408" lat="45.6307873" lon="9.5910634" version="4" timestamp="2023-08-25T16:53:38Z" changeset="140381517" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="2074"/>
     <tag k="name" v="Osio Sopra"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4077"/>
+    <tag k="population" v="5202"/>
+    <tag k="population:date" v="2021-05-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="62507415" lat="45.8911690" lon="10.0099362" version="4" timestamp="2022-11-21T13:55:39Z" changeset="129198473" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2071"/>
@@ -10879,12 +10885,15 @@
     <tag k="population" v="5614"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275139" lat="39.0354447" lon="16.9792627" version="5" timestamp="2016-09-09T00:49:41Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="67275139" lat="39.0354447" lon="16.9792627" version="6" timestamp="2023-08-25T12:23:27Z" changeset="140370157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="7959"/>
     <tag k="name" v="Cutro"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10541"/>
+    <tag k="postal_code" v="88842"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54508"/>
+    <tag k="wikipedia" v="it:Cutro"/>
   </node>
   <node id="67275166" lat="39.1222128" lon="16.9641231" version="5" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7971"/>
