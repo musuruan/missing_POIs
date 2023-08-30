@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-29T02:43:12Z" areas="2023-08-28T21:44:00Z"/>
+<meta osm_base="2023-08-30T02:13:20Z" areas="2023-08-29T21:46:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10783,12 +10783,15 @@
     <tag k="population" v="2443"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275040" lat="38.5054770" lon="16.0862980" version="2" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275040" lat="38.5054770" lon="16.0862980" version="3" timestamp="2023-08-29T14:27:49Z" changeset="140544932" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6739"/>
     <tag k="name" v="Candidoni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="410"/>
+    <tag k="postal_code" v="89020"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54588"/>
+    <tag k="wikipedia" v="it:Candidoni"/>
   </node>
   <node id="67275050" lat="37.9306249" lon="15.9174518" version="6" timestamp="2023-06-04T15:49:06Z" changeset="136938349" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6733"/>
@@ -10811,16 +10814,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54575"/>
     <tag k="wikipedia" v="it:Bovalino"/>
-  </node>
-  <node id="67275067" lat="38.4159570" lon="16.0974291" version="6" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6747"/>
-    <tag k="name" v="Cinquefrondi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6461"/>
-    <tag k="postal_code" v="89021"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54602"/>
-    <tag k="wikipedia" v="it:Cinquefrondi"/>
   </node>
   <node id="67275076" lat="38.2468194" lon="16.1388115" version="3" timestamp="2016-08-28T18:58:19Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6746"/>
@@ -10851,15 +10844,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="852"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275103" lat="38.4657760" lon="16.0641980" version="3" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6752"/>
-    <tag k="name" v="Feroleto della Chiesa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1872"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54608"/>
-    <tag k="wikipedia" v="it:Feroleto della Chiesa"/>
   </node>
   <node id="67275117" lat="39.3076929" lon="16.9109837" version="8" timestamp="2016-09-05T17:25:14Z" changeset="41936519" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="7963"/>
@@ -11175,12 +11159,15 @@
     <tag k="population" v="3611"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275715" lat="38.2753720" lon="15.9279970" version="2" timestamp="2016-08-28T18:58:21Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275715" lat="38.2753720" lon="15.9279970" version="3" timestamp="2023-08-29T14:27:49Z" changeset="140544932" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6750"/>
     <tag k="name" v="Cosoleto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="976"/>
+    <tag k="postal_code" v="89050"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54606"/>
+    <tag k="wikipedia" v="it:Cosoleto"/>
   </node>
   <node id="67275743" lat="38.7169990" lon="16.2910587" version="3" timestamp="2020-11-07T15:01:50Z" changeset="93709151" uid="95387" user="rugamarcus">
     <tag k="gfoss_id" v="7997"/>
@@ -13994,12 +13981,15 @@
     <tag k="population" v="4185"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68569307" lat="41.2479220" lon="14.8713390" version="2" timestamp="2016-09-01T23:10:09Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68569307" lat="41.2452922" lon="14.8671548" version="3" timestamp="2023-08-29T18:57:35Z" changeset="140556087" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5306"/>
     <tag k="name" v="Pago Veiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2657"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q55940"/>
+    <tag k="wikipedia" v="it:Pago Veiano"/>
   </node>
   <node id="68569750" lat="41.4419648" lon="14.9395633" version="4" timestamp="2016-09-01T23:10:03Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5280"/>

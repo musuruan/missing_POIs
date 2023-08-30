@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-29T02:42:14Z" areas="2023-08-29T00:01:00Z"/>
+<meta osm_base="2023-08-30T02:12:17Z" areas="2023-08-29T21:46:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5485,12 +5485,15 @@
     <tag k="population" v="2350"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68569307" lat="41.2479220" lon="14.8713390" version="2" timestamp="2016-09-01T23:10:09Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68569307" lat="41.2452922" lon="14.8671548" version="3" timestamp="2023-08-29T18:57:35Z" changeset="140556087" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5306"/>
     <tag k="name" v="Pago Veiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2657"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q55940"/>
+    <tag k="wikipedia" v="it:Pago Veiano"/>
   </node>
   <node id="68579283" lat="41.2780306" lon="14.4787446" version="3" timestamp="2016-09-01T23:10:05Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5289"/>
