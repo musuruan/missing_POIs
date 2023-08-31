@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-30T02:16:27Z" areas="2023-08-29T21:46:05Z"/>
+<meta osm_base="2023-08-31T02:17:15Z" areas="2023-08-30T23:51:48Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -9630,9 +9630,8 @@
     <tag k="population" v="1617"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503336" lat="46.1269227" lon="13.5775111" version="13" timestamp="2023-07-28T13:35:57Z" changeset="139136217" uid="10415485" user="JillSS">
+  <node id="66503336" lat="46.1269227" lon="13.5775111" version="14" timestamp="2023-08-30T15:17:01Z" changeset="140594221" uid="11631067" user="emandt">
     <tag k="gfoss_id" v="3782"/>
-    <tag k="is_in" v="Stregna;del Natisone;Friuli Venezia Giulia;Italy;EU"/>
     <tag k="name" v="Stregna / Sriednje"/>
     <tag k="name:fur" v="Stregne"/>
     <tag k="name:it" v="Stregna"/>
@@ -13666,7 +13665,7 @@
     <tag k="wikidata" v="Q54721"/>
     <tag k="wikipedia" v="it:Mongiana"/>
   </node>
-  <node id="67275760" lat="38.7801840" lon="16.2716990" version="2" timestamp="2016-08-28T18:58:24Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275760" lat="38.7799264" lon="16.2728427" version="3" timestamp="2023-08-30T11:49:12Z" changeset="140584452" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="7988"/>
     <tag k="name" v="Francavilla Angitola"/>
     <tag k="place" v="village"/>
@@ -13700,10 +13699,10 @@
     <tag k="wikidata" v="Q54740"/>
     <tag k="wikipedia" v="it:Simbario"/>
   </node>
-  <node id="67275790" lat="38.6752674" lon="15.8948507" version="4" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
+  <node id="67275790" lat="38.6752674" lon="15.8948507" version="5" timestamp="2023-08-30T09:58:53Z" changeset="140579462" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="8018"/>
     <tag k="name" v="Tropea"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="6836"/>
     <tag k="postal_code" v="89861"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -14277,13 +14276,6 @@
     <tag k="name" v="San Martino d'Agri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="969"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67283771" lat="41.5562506" lon="14.5585312" version="3" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6017"/>
-    <tag k="name" v="Busso"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67283781" lat="41.6324794" lon="14.7654374" version="3" timestamp="2016-09-03T02:35:18Z" changeset="41880656" uid="743479" user="fayor">
