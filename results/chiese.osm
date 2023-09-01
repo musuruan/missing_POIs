@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-08-31T02:14:14Z" areas="2023-08-30T23:51:48Z"/>
+<meta osm_base="2023-09-01T02:19:00Z" areas="2023-08-31T22:01:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1277,9 +1277,8 @@
     <tag k="population" v="365"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778128" lat="46.1030653" lon="12.0255839" version="3" timestamp="2013-10-06T22:08:31Z" changeset="18221237" uid="504502" user="kkklllppp">
+  <node id="64778128" lat="46.1030653" lon="12.0255839" version="4" timestamp="2023-08-31T09:14:05Z" changeset="140624838" uid="11631067" user="emandt">
     <tag k="gfoss_id" v="3354"/>
-    <tag k="is_in" v="Belluno, Veneto, Italy"/>
     <tag k="name" v="San Gregorio nelle Alpi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1599"/>
@@ -1571,11 +1570,12 @@
     <tag k="population" v="12176"/>
     <tag k="source" v="ISTAT"/>
   </node>
-  <node id="64778653" lat="45.6017010" lon="12.1652120" version="5" timestamp="2018-02-27T23:04:09Z" changeset="56737984" uid="362065" user="GFS">
+  <node id="64778653" lat="45.6017010" lon="12.1652120" version="6" timestamp="2023-08-31T12:46:11Z" changeset="140633985" uid="11631067" user="emandt">
     <tag k="gfoss_id" v="3473"/>
     <tag k="name" v="Zero Branco"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="11261 (comune) 5838 (sede comunale)"/>
+    <tag k="population" v="11578"/>
+    <tag k="population:date" v="2023-05-31"/>
     <tag k="source" v="ISTAT"/>
   </node>
   <node id="64778654" lat="45.6789734" lon="12.4920994" version="7" timestamp="2018-06-06T18:50:03Z" changeset="59612121" uid="2914055" user="Elia Z">
@@ -1721,9 +1721,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1347"/>
   </node>
-  <node id="64778840" lat="45.6618875" lon="12.5299422" version="5" timestamp="2017-03-10T17:11:52Z" changeset="46743890" uid="1476146" user="Alecs01">
+  <node id="64778840" lat="45.6618875" lon="12.5299422" version="6" timestamp="2023-08-31T08:37:16Z" changeset="140623332" uid="11631067" user="emandt">
     <tag k="gfoss_id" v="3500"/>
-    <tag k="is_in" v="Venezia, Veneto, Italy"/>
     <tag k="name" v="Noventa di Piave"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5952"/>
