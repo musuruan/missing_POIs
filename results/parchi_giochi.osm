@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-01T02:21:04Z" areas="2023-08-31T22:01:30Z"/>
+<meta osm_base="2023-09-02T02:13:51Z" areas="2023-09-01T23:44:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -16302,12 +16302,14 @@
     <tag k="population" v="859"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566529" lat="41.0311909" lon="14.5967236" version="8" timestamp="2022-05-09T19:36:50Z" changeset="120763161" uid="177389" user="Garmin-User">
+  <node id="68566529" lat="41.0311909" lon="14.5967236" version="9" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5510"/>
     <tag k="name" v="Rotondi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3346"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55087"/>
+    <tag k="wikipedia" v="it:Rotondi"/>
   </node>
   <node id="68566535" lat="40.8939150" lon="14.8685430" version="2" timestamp="2016-09-01T23:10:14Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5524"/>
@@ -16537,12 +16539,14 @@
     <tag k="wikidata" v="Q55086"/>
     <tag k="wikipedia" v="it:Roccabascerana"/>
   </node>
-  <node id="68567092" lat="40.9917410" lon="14.7292448" version="3" timestamp="2020-10-29T11:54:26Z" changeset="93234912" uid="554973" user="dgitto">
+  <node id="68567092" lat="40.9917410" lon="14.7292448" version="4" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5503"/>
     <tag k="name" v="Pietrastornina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1650"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55080"/>
+    <tag k="wikipedia" v="it:Pietrastornina"/>
   </node>
   <node id="68567179" lat="40.8972130" lon="14.6076380" version="2" timestamp="2016-08-31T23:04:16Z" changeset="41838072" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5498"/>
@@ -16888,12 +16892,14 @@
     <tag k="population" v="691"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579387" lat="41.1945665" lon="14.5533628" version="3" timestamp="2020-09-29T23:13:13Z" changeset="91732393" uid="11403185" user="Giovanni Forgione">
+  <node id="68579387" lat="41.1945665" lon="14.5533628" version="4" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5333"/>
     <tag k="name" v="Solopaca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4163"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55984"/>
+    <tag k="wikipedia" v="it:Solopaca"/>
   </node>
   <node id="68579409" lat="41.4017250" lon="14.8080350" version="2" timestamp="2016-09-01T23:10:03Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5277"/>
@@ -16962,19 +16968,23 @@
     <tag k="population" v="3297"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579529" lat="41.1568180" lon="14.5278320" version="2" timestamp="2016-09-01T23:10:05Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68579529" lat="41.1568180" lon="14.5278320" version="3" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5295"/>
     <tag k="name" v="Frasso Telesino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2708"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55912"/>
+    <tag k="wikipedia" v="it:Frasso Telesino"/>
   </node>
-  <node id="68579536" lat="41.1605703" lon="14.5053103" version="3" timestamp="2016-09-01T23:10:07Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68579536" lat="41.1605703" lon="14.5053103" version="4" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5299"/>
     <tag k="name" v="Melizzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1865"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55918"/>
+    <tag k="wikipedia" v="it:Melizzano"/>
   </node>
   <node id="68579541" lat="41.2561870" lon="14.7824256" version="4" timestamp="2016-09-01T23:10:05Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5293"/>
@@ -17339,12 +17349,14 @@
     <tag k="population" v="6629"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580118" lat="41.2048140" lon="13.8543170" version="4" timestamp="2020-03-15T16:08:17Z" changeset="82221120" uid="9475258" user="Aranc">
+  <node id="68580118" lat="41.2048140" lon="13.8543170" version="5" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5258"/>
     <tag k="name" v="Cellole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7149"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q58567"/>
+    <tag k="wikipedia" v="it:Cellole"/>
   </node>
   <node id="68580142" lat="41.1079984" lon="14.2097176" version="7" timestamp="2016-10-27T18:40:23Z" changeset="43225309" uid="2748195" user="karitotp">
     <tag k="gfoss_id" v="5171"/>
@@ -17375,12 +17387,14 @@
     <tag k="population" v="2385"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580175" lat="41.1815532" lon="14.4525036" version="3" timestamp="2017-04-18T20:08:25Z" changeset="47917666" uid="554973" user="dgitto">
+  <node id="68580175" lat="41.1815532" lon="14.4525036" version="4" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5179"/>
     <tag k="name" v="Castel Campagnano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1632"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q58549"/>
+    <tag k="wikipedia" v="it:Castel Campagnano"/>
   </node>
   <node id="68580229" lat="41.4502210" lon="14.1583200" version="2" timestamp="2016-09-02T23:58:40Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5186"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-01T02:20:03Z" areas="2023-08-31T22:01:30Z"/>
+<meta osm_base="2023-09-02T02:12:48Z" areas="2023-09-01T23:44:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7677,6 +7677,13 @@
     <tag k="population" v="1765"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="68529201" lat="40.2581260" lon="18.2490260" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6270"/>
+    <tag k="name" v="Caprarica di Lecce"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2813"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="68529216" lat="40.1977814" lon="18.3408272" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6272"/>
     <tag k="name" v="Carpignano Salentino"/>
@@ -8426,12 +8433,14 @@
     <tag k="population" v="2673"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579352" lat="41.2029177" lon="14.4616360" version="4" timestamp="2018-08-11T07:17:50Z" changeset="61559299" uid="1258547" user="Decan">
+  <node id="68579352" lat="41.2029177" lon="14.4616360" version="5" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5262"/>
     <tag k="name" v="Amorosi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2761"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55847"/>
+    <tag k="wikipedia" v="it:Amorosi"/>
   </node>
   <node id="68579371" lat="41.1655125" lon="14.9390381" version="4" timestamp="2020-09-05T21:47:06Z" changeset="90465012" uid="1258547" user="Decan">
     <tag k="gfoss_id" v="5338"/>
@@ -8479,19 +8488,23 @@
     <tag k="population" v="3297"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579529" lat="41.1568180" lon="14.5278320" version="2" timestamp="2016-09-01T23:10:05Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68579529" lat="41.1568180" lon="14.5278320" version="3" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5295"/>
     <tag k="name" v="Frasso Telesino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2708"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55912"/>
+    <tag k="wikipedia" v="it:Frasso Telesino"/>
   </node>
-  <node id="68579536" lat="41.1605703" lon="14.5053103" version="3" timestamp="2016-09-01T23:10:07Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68579536" lat="41.1605703" lon="14.5053103" version="4" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5299"/>
     <tag k="name" v="Melizzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1865"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55918"/>
+    <tag k="wikipedia" v="it:Melizzano"/>
   </node>
   <node id="68579541" lat="41.2561870" lon="14.7824256" version="4" timestamp="2016-09-01T23:10:05Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5293"/>
@@ -8725,12 +8738,14 @@
     <tag k="population" v="6629"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580118" lat="41.2048140" lon="13.8543170" version="4" timestamp="2020-03-15T16:08:17Z" changeset="82221120" uid="9475258" user="Aranc">
+  <node id="68580118" lat="41.2048140" lon="13.8543170" version="5" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5258"/>
     <tag k="name" v="Cellole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7149"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q58567"/>
+    <tag k="wikipedia" v="it:Cellole"/>
   </node>
   <node id="68580128" lat="41.1651220" lon="13.9494528" version="3" timestamp="2016-09-02T23:58:40Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5257"/>
@@ -8753,12 +8768,14 @@
     <tag k="population" v="5856"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580175" lat="41.1815532" lon="14.4525036" version="3" timestamp="2017-04-18T20:08:25Z" changeset="47917666" uid="554973" user="dgitto">
+  <node id="68580175" lat="41.1815532" lon="14.4525036" version="4" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5179"/>
     <tag k="name" v="Castel Campagnano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1632"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q58549"/>
+    <tag k="wikipedia" v="it:Castel Campagnano"/>
   </node>
   <node id="68580185" lat="41.0753140" lon="14.2897280" version="3" timestamp="2021-11-01T17:23:11Z" changeset="113247371" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5177"/>
@@ -14224,12 +14241,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024168"/>
   </node>
-  <node id="2397594736" lat="41.0102150" lon="14.7033415" version="2" timestamp="2016-09-01T23:10:09Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="2397594736" lat="41.0102150" lon="14.7033415" version="3" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5307"/>
     <tag k="name" v="Pannarano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2011"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55943"/>
+    <tag k="wikipedia" v="it:Pannarano"/>
   </node>
   <node id="2398922388" lat="41.0302254" lon="14.5373430" version="4" timestamp="2016-09-01T23:10:05Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="name" v="Forchia"/>
