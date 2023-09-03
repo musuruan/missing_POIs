@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-02T02:09:39Z" areas="2023-09-01T23:44:21Z"/>
+<meta osm_base="2023-09-03T02:13:35Z" areas="2023-09-02T23:28:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4047,12 +4047,13 @@
     <tag k="population" v="926"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283843" lat="41.8055672" lon="14.9210984" version="13" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
-    <tag k="gfoss_id" v="6043"/>
+  <node id="67283843" lat="41.8005697" lon="14.9107419" version="14" timestamp="2023-09-02T11:43:06Z" changeset="140714920" uid="20124152" user="amarie-vinnie">
+    <tag k="ele" v="341"/>
     <tag k="name" v="Larino"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="7078"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="5150"/>
+    <tag k="wikidata" v="Q30026506"/>
+    <tag k="wikipedia" v="it:Larino"/>
   </node>
   <node id="67283860" lat="41.6449290" lon="14.6751290" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6053"/>

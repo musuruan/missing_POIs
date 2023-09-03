@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-02T02:13:51Z" areas="2023-09-01T23:44:21Z"/>
+<meta osm_base="2023-09-03T02:17:33Z" areas="2023-09-02T23:28:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -362,7 +362,8 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q102555"/>
   </node>
-  <node id="61753680" lat="43.1607652" lon="11.3879245" version="10" timestamp="2023-06-20T23:04:02Z" changeset="137581617" uid="17965418" user="DabMK">
+  <node id="61753680" lat="43.1607652" lon="11.3879245" version="11" timestamp="2023-09-02T18:43:12Z" changeset="140732020" uid="17965418" user="DabMK">
+    <tag k="ele" v="294"/>
     <tag k="gfoss_id" v="4641"/>
     <tag k="name" v="Murlo"/>
     <tag k="place" v="village"/>
@@ -378,14 +379,18 @@
     <tag k="population" v="2917"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753704" lat="43.1396699" lon="11.1801262" version="7" timestamp="2018-08-30T14:52:44Z" changeset="62142941" uid="923271" user="aldoct">
+  <node id="61753704" lat="43.1396699" lon="11.1801262" version="8" timestamp="2023-09-02T18:43:12Z" changeset="140732020" uid="17965418" user="DabMK">
+    <tag k="ele" v="375"/>
     <tag k="gfoss_id" v="4640"/>
     <tag k="name" v="Monticiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1408"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q91272"/>
+    <tag k="wikipedia" v="en:Monticiano"/>
   </node>
-  <node id="61753712" lat="43.2611122" lon="11.0418861" version="8" timestamp="2023-06-16T18:43:04Z" changeset="137425240" uid="923271" user="aldoct">
+  <node id="61753712" lat="43.2611122" lon="11.0418861" version="9" timestamp="2023-09-02T18:43:12Z" changeset="140732020" uid="17965418" user="DabMK">
+    <tag k="ele" v="509"/>
     <tag k="gfoss_id" v="4647"/>
     <tag k="name" v="Radicondoli"/>
     <tag k="place" v="village"/>
@@ -394,7 +399,8 @@
     <tag k="wikidata" v="Q91382"/>
     <tag k="wikipedia" v="it:Radicondoli"/>
   </node>
-  <node id="61753713" lat="42.8965067" lon="11.7697064" version="6" timestamp="2023-06-18T17:18:07Z" changeset="137486588" uid="17965418" user="DabMK">
+  <node id="61753713" lat="42.8965067" lon="11.7697064" version="7" timestamp="2023-09-02T18:43:12Z" changeset="140732020" uid="17965418" user="DabMK">
+    <tag k="ele" v="780"/>
     <tag k="gfoss_id" v="4646"/>
     <tag k="name" v="Radicofani"/>
     <tag k="place" v="village"/>
@@ -403,7 +409,8 @@
     <tag k="wikidata" v="Q91373"/>
     <tag k="wikipedia" v="en:Radicofani"/>
   </node>
-  <node id="61753731" lat="43.2864992" lon="11.6041365" version="5" timestamp="2023-07-06T17:39:05Z" changeset="138198210" uid="17965418" user="DabMK">
+  <node id="61753731" lat="43.2864992" lon="11.6041365" version="6" timestamp="2023-09-02T18:43:12Z" changeset="140732020" uid="17965418" user="DabMK">
+    <tag k="ele" v="334"/>
     <tag k="gfoss_id" v="4648"/>
     <tag k="name" v="Rapolano Terme"/>
     <tag k="place" v="village"/>
@@ -14320,14 +14327,11 @@
     <tag k="population" v="1737"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283817" lat="41.8042340" lon="14.7929300" version="1" timestamp="2007-10-12T22:48:49Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="6039"/>
-    <tag k="is_in" v="Campobasso, Molise, Italy"/>
+  <node id="67283817" lat="41.8016615" lon="14.7934189" version="2" timestamp="2023-09-02T11:47:18Z" changeset="140715050" uid="20124152" user="amarie-vinnie">
+    <tag k="ele" v="274"/>
     <tag k="name" v="Guardialfiera"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1171"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="950"/>
   </node>
   <node id="67283820" lat="41.4350240" lon="14.5417290" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6040"/>
@@ -14350,12 +14354,13 @@
     <tag k="population" v="926"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283843" lat="41.8055672" lon="14.9210984" version="13" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
-    <tag k="gfoss_id" v="6043"/>
+  <node id="67283843" lat="41.8005697" lon="14.9107419" version="14" timestamp="2023-09-02T11:43:06Z" changeset="140714920" uid="20124152" user="amarie-vinnie">
+    <tag k="ele" v="341"/>
     <tag k="name" v="Larino"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="7078"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="5150"/>
+    <tag k="wikidata" v="Q30026506"/>
+    <tag k="wikipedia" v="it:Larino"/>
   </node>
   <node id="67283853" lat="41.5950300" lon="14.9117350" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6047"/>
@@ -14513,14 +14518,12 @@
     <tag k="population" v="2177"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284025" lat="41.4857240" lon="14.4729270" version="11" timestamp="2023-05-03T15:17:44Z" changeset="135665614" uid="3860151" user="Michele Aquilani">
-    <tag k="ele" v="480"/>
-    <tag k="gfoss_id" v="6015"/>
+  <node id="67284025" lat="41.4826448" lon="14.4723134" version="12" timestamp="2023-09-02T11:58:59Z" changeset="140715428" uid="20124152" user="amarie-vinnie">
+    <tag k="ele" v="482"/>
     <tag k="name" v="Bojano"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="8312"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q277374"/>
+    <tag k="population" v="7350"/>
+    <tag k="wikidata" v="Q30022894"/>
     <tag k="wikimedia_commons" v="Category:Bojano (Italy)"/>
     <tag k="wikipedia" v="it:Bojano"/>
   </node>
@@ -19829,13 +19832,6 @@
     <tag k="name" v="Venarotta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2270"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70981058" lat="43.0677414" lon="13.6592144" version="3" timestamp="2017-08-14T15:27:17Z" changeset="51114172" uid="6085311" user="Time2Design">
-    <tag k="gfoss_id" v="4391"/>
-    <tag k="name" v="Petritoli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2529"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70981079" lat="43.0668280" lon="13.3410165" version="3" timestamp="2016-09-09T17:36:35Z" changeset="42039680" uid="743479" user="fayor">
@@ -27683,7 +27679,8 @@
     <tag k="wikidata" v="Q40903"/>
     <tag k="wikipedia" v="it:Castelveccana"/>
   </node>
-  <node id="11117760679" lat="43.0165150" lon="11.9477359" version="1" timestamp="2023-08-15T22:21:22Z" changeset="139937683" uid="17965418" user="DabMK">
+  <node id="11117760679" lat="43.0165150" lon="11.9477359" version="2" timestamp="2023-09-02T18:43:12Z" changeset="140732020" uid="17965418" user="DabMK">
+    <tag k="ele" v="398"/>
     <tag k="gfoss_id" v="4633"/>
     <tag k="name" v="Chiusi"/>
     <tag k="place" v="town"/>

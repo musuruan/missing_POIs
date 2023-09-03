@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-02T02:12:48Z" areas="2023-09-01T23:44:21Z"/>
+<meta osm_base="2023-09-03T02:16:37Z" areas="2023-09-02T23:28:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1568,13 +1568,6 @@
     <tag k="name" v="Alagna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="755"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515402" lat="45.0621619" lon="9.2611911" version="13" timestamp="2023-06-14T14:21:45Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="2400"/>
-    <tag k="name" v="Broni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9347"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515409" lat="45.1269219" lon="8.6235671" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
@@ -6947,12 +6940,13 @@
     <tag k="population" v="969"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283786" lat="41.7370332" lon="14.8456632" version="4" timestamp="2023-07-02T10:10:33Z" changeset="138017342" uid="10622815" user="Italian Technology">
-    <tag k="gfoss_id" v="6023"/>
+  <node id="67283786" lat="41.7396685" lon="14.8519039" version="5" timestamp="2023-09-02T11:54:25Z" changeset="140715269" uid="20124152" user="amarie-vinnie">
+    <tag k="ele" v="643"/>
     <tag k="name" v="Casacalenda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2440"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="1852"/>
+    <tag k="wikidata" v="Q30023877"/>
+    <tag k="wikipedia" v="it:Casacalenda"/>
   </node>
   <node id="67283790" lat="41.5803583" lon="14.5281165" version="3" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6024"/>
@@ -6982,14 +6976,11 @@
     <tag k="population" v="1737"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283817" lat="41.8042340" lon="14.7929300" version="1" timestamp="2007-10-12T22:48:49Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="6039"/>
-    <tag k="is_in" v="Campobasso, Molise, Italy"/>
+  <node id="67283817" lat="41.8016615" lon="14.7934189" version="2" timestamp="2023-09-02T11:47:18Z" changeset="140715050" uid="20124152" user="amarie-vinnie">
+    <tag k="ele" v="274"/>
     <tag k="name" v="Guardialfiera"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1171"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="950"/>
   </node>
   <node id="67283820" lat="41.4350240" lon="14.5417290" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6040"/>
