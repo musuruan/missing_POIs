@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-04T02:14:30Z" areas="2023-09-03T21:42:31Z"/>
+<meta osm_base="2023-09-05T02:12:39Z" areas="2023-09-04T22:51:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7725,12 +7725,12 @@
     <tag k="population" v="2170"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64777083" lat="46.3308364" lon="11.3046335" version="13" timestamp="2023-03-22T13:23:42Z" changeset="133978395" uid="821281" user="fkamm">
+  <node id="64777083" lat="46.3308364" lon="11.3046335" version="14" timestamp="2023-09-04T14:44:43Z" changeset="140809442" uid="11631067" user="emandt">
     <tag k="addr:postcode" v="39040"/>
     <tag k="contact:email" v="info@gemeinde.montan.bz.it"/>
     <tag k="gfoss_id" v="2804"/>
     <tag k="is_in" v="Bolzano - Bozen, Trentino-Alto Adige, Italy"/>
-    <tag k="name" v="Montan  an der Weinstraße - Montagna sulla Strada del Vino"/>
+    <tag k="name" v="Montan an der Weinstraße - Montagna sulla Strada del Vino"/>
     <tag k="name:de" v="Montan an der Weinstraße"/>
     <tag k="name:it" v="Montagna sulla Strada del Vino"/>
     <tag k="place" v="village"/>
@@ -17006,12 +17006,15 @@
     <tag k="population" v="2536"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992259" lat="41.9940179" lon="13.8040518" version="3" timestamp="2016-09-08T02:38:53Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992259" lat="41.9940179" lon="13.8040518" version="4" timestamp="2023-09-04T13:21:00Z" changeset="140805432" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5711"/>
     <tag k="name" v="Anversa degli Abruzzi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="431"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q47093"/>
+    <tag k="wikimedia_commons" v="Category:Anversa degli Abruzzi"/>
+    <tag k="wikipedia" v="it:Anversa degli Abruzzi"/>
   </node>
   <node id="70992331" lat="41.9891260" lon="13.3343950" version="2" timestamp="2016-09-08T02:38:56Z" changeset="41992756" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5736"/>
@@ -17027,12 +17030,15 @@
     <tag k="population" v="1509"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992419" lat="41.9570270" lon="13.4735980" version="2" timestamp="2016-09-08T02:38:58Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992419" lat="41.9570270" lon="13.4735980" version="3" timestamp="2023-09-04T13:21:00Z" changeset="140805432" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5758"/>
     <tag k="name" v="Luco dei Marsi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5541"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q50103"/>
+    <tag k="wikimedia_commons" v="Category:Luco dei Marsi"/>
+    <tag k="wikipedia" v="it:Luco dei Marsi"/>
   </node>
   <node id="70992429" lat="41.9377176" lon="13.6841160" version="3" timestamp="2021-01-08T18:06:52Z" changeset="97184607" uid="166489" user="Fintocubano">
     <tag k="gfoss_id" v="5757"/>
@@ -17104,12 +17110,15 @@
     <tag k="population" v="4326"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992809" lat="41.9347290" lon="13.8420070" version="2" timestamp="2016-09-08T02:39:03Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992809" lat="41.9347290" lon="13.8420070" version="3" timestamp="2023-09-04T13:21:00Z" changeset="140805432" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5810"/>
     <tag k="name" v="Villalago"/>
     <tag k="place" v="village"/>
     <tag k="population" v="636"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q50169"/>
+    <tag k="wikimedia_commons" v="Category:Villalago"/>
+    <tag k="wikipedia" v="it:Villalago"/>
   </node>
   <node id="70992821" lat="41.7584905" lon="13.9907295" version="3" timestamp="2016-09-08T02:38:54Z" changeset="41992756" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5717"/>
@@ -22193,11 +22202,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="5549"/>
   </node>
-  <node id="4391227795" lat="42.0637848" lon="13.6001354" version="2" timestamp="2020-10-06T12:14:42Z" changeset="92048931" uid="3860151" user="Michele Aquilani">
+  <node id="4391227795" lat="42.0637848" lon="13.6001354" version="3" timestamp="2023-09-04T13:21:00Z" changeset="140805432" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Cerchio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1635"/>
     <tag k="wikidata" v="Q50080"/>
+    <tag k="wikimedia_commons" v="Category:Cerchio (Italy)"/>
     <tag k="wikipedia" v="it:Cerchio (Italia)"/>
   </node>
   <node id="4464079813" lat="46.4118147" lon="10.9708987" version="5" timestamp="2021-08-23T14:00:13Z" changeset="110119348" uid="1834719" user="LvdT">
