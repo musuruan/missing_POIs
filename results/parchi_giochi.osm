@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-08T02:16:56Z" areas="2023-09-07T22:00:58Z"/>
+<meta osm_base="2023-09-09T02:13:54Z" areas="2023-09-08T21:42:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10685,13 +10685,6 @@
     <tag k="population" v="10501"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67254289" lat="37.6063923" lon="15.1268948" version="16" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Aci Sant'Antonio"/>
-    <tag k="name:scn" v="Sant'Antoni"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="17964"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
   <node id="67254372" lat="37.8624231" lon="14.8078349" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Maniace"/>
     <tag k="name:scn" v="Maniàci"/>
@@ -14037,12 +14030,17 @@
     <tag k="population" v="6110"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280776" lat="40.7618200" lon="15.9866700" version="2" timestamp="2016-08-28T18:58:34Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280776" lat="40.7618200" lon="15.9866700" version="3" timestamp="2023-09-08T13:00:09Z" changeset="140986442" uid="2496484" user="FERINA365">
     <tag k="gfoss_id" v="6410"/>
     <tag k="name" v="Oppido Lucano"/>
+    <tag k="name:it" v="Oppido Lucano"/>
+    <tag k="name:la" v="Oppidum"/>
+    <tag k="name:nap" v="Òppete"/>
+    <tag k="name:osc" v="Opinum"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3968"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="3593"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="source:population" v="ISTAT"/>
   </node>
   <node id="67280806" lat="40.5439140" lon="15.6382650" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6437"/>
@@ -23636,7 +23634,7 @@
     <tag k="wikipedia" v="it:Settimo San Pietro"/>
     <tag k="wikipedia:sc" v="Sètimu"/>
   </node>
-  <node id="72991529" lat="39.2942475" lon="9.0929717" version="41" timestamp="2023-04-22T19:48:27Z" changeset="135241586" uid="9451067" user="b-jazz-bot">
+  <node id="72991529" lat="39.2999356" lon="9.0925928" version="42" timestamp="2023-09-08T08:59:46Z" changeset="140976812" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="7471"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
     <tag k="name" v="Sestu"/>

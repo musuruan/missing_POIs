@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-08T02:15:00Z" areas="2023-09-07T21:23:15Z"/>
+<meta osm_base="2023-09-09T02:12:05Z" areas="2023-09-08T21:14:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3714,12 +3714,17 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikipedia" v="it:Missanello"/>
   </node>
-  <node id="67280776" lat="40.7618200" lon="15.9866700" version="2" timestamp="2016-08-28T18:58:34Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280776" lat="40.7618200" lon="15.9866700" version="3" timestamp="2023-09-08T13:00:09Z" changeset="140986442" uid="2496484" user="FERINA365">
     <tag k="gfoss_id" v="6410"/>
     <tag k="name" v="Oppido Lucano"/>
+    <tag k="name:it" v="Oppido Lucano"/>
+    <tag k="name:la" v="Oppidum"/>
+    <tag k="name:nap" v="Òppete"/>
+    <tag k="name:osc" v="Opinum"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3968"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="3593"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="source:population" v="ISTAT"/>
   </node>
   <node id="67280806" lat="40.5439140" lon="15.6382650" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6437"/>
