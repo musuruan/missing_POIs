@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-11T02:16:29Z" areas="2023-09-11T01:26:58Z"/>
+<meta osm_base="2023-09-12T02:14:18Z" areas="2023-09-12T01:09:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -24,13 +24,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="8611"/>
     <tag k="postal_code" v="74400"/>
-  </node>
-  <node id="61753396" lat="43.2744629" lon="11.7459997" version="6" timestamp="2020-04-08T23:29:18Z" changeset="83274609" uid="178610" user="Pab09">
-    <tag k="gfoss_id" v="4604"/>
-    <tag k="name" v="Lucignano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3468"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753407" lat="43.5279646" lon="11.7631758" version="3" timestamp="2019-09-06T00:57:43Z" changeset="74153812" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="4594"/>
@@ -2818,16 +2811,6 @@
     <tag k="wikidata" v="Q17844"/>
     <tag k="wikipedia" v="it:Pino d'Asti"/>
   </node>
-  <node id="63624912" lat="44.7067227" lon="8.3460034" version="3" timestamp="2022-12-28T15:47:23Z" changeset="130608280" uid="2976645" user="Jrachi">
-    <tag k="gfoss_id" v="832"/>
-    <tag k="name" v="Rocchetta Palafea"/>
-    <tag k="name:pms" v="Rochëtta Palafèja"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="406"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17855"/>
-    <tag k="wikipedia" v="it:Rocchetta Palafea"/>
-  </node>
   <node id="63624939" lat="44.7540212" lon="8.2957567" version="4" timestamp="2021-02-14T01:01:40Z" changeset="99234952" uid="492756" user="Botaler">
     <tag k="gfoss_id" v="837"/>
     <tag k="name" v="San Marzano Oliveto"/>
@@ -2928,13 +2911,6 @@
     <tag k="population" v="1184"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63625410" lat="45.6160964" lon="8.1957130" version="3" timestamp="2019-06-13T16:09:47Z" changeset="71224172" uid="4213793" user="LaniusCollurio">
-    <tag k="gfoss_id" v="7701"/>
-    <tag k="name" v="Casapinta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="449"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63625418" lat="45.4815620" lon="8.1943250" version="4" timestamp="2023-01-17T20:00:23Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="7764"/>
     <tag k="name" v="Villanova Biellese"/>
@@ -2978,14 +2954,6 @@
     <tag k="population" v="3363"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027191"/>
-  </node>
-  <node id="63625626" lat="44.6864430" lon="8.1502390" version="5" timestamp="2023-01-17T19:47:44Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="604"/>
-    <tag k="name" v="Mango"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1334"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027179"/>
   </node>
   <node id="63625640" lat="45.5930492" lon="8.0516761" version="7" timestamp="2023-01-17T19:53:02Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="7753"/>
@@ -3243,14 +3211,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="370"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63627139" lat="44.4622330" lon="7.6656330" version="3" timestamp="2021-08-28T06:04:42Z" changeset="110367151" uid="9006927" user="francians">
-    <tag k="gfoss_id" v="625"/>
-    <tag k="name" v="Montanera"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="731"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027737"/>
   </node>
   <node id="63627145" lat="44.7687192" lon="7.9241508" version="6" timestamp="2023-01-17T19:47:55Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="624"/>
@@ -9036,18 +8996,6 @@
     <tag k="population" v="2025"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581195" lat="40.9358637" lon="14.2488046" version="6" timestamp="2020-08-21T13:07:07Z" changeset="89748042" uid="11366923" user="Acheloo">
-    <tag k="gfoss_id" v="5358"/>
-    <tag k="name" v="Casandrino"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14336"/>
-    <tag k="postal_code" v="80025"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.casandrino.na.it/hh/index.php"/>
-    <tag k="wikidata" v="Q71945"/>
-    <tag k="wikimedia_commons" v="File:Casandrino.jpg"/>
-    <tag k="wikipedia" v="it:Casandrino"/>
-  </node>
   <node id="68581219" lat="40.1725386" lon="15.5457516" version="4" timestamp="2020-06-29T17:10:23Z" changeset="87305921" uid="11353882" user="gianluca ragone">
     <tag k="gfoss_id" v="5578"/>
     <tag k="name" v="Caselle in Pittari"/>
@@ -14282,13 +14230,6 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q18487574"/>
     <tag k="wikipedia" v="it:Gaggino"/>
-  </node>
-  <node id="3870116726" lat="44.7749510" lon="8.0299844" version="6" timestamp="2023-01-17T19:48:05Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="540"/>
-    <tag k="name" v="Castellinaldo d'Alba"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="941"/>
-    <tag k="source" v="ISTAT - 31/07/2015"/>
   </node>
   <node id="3930345705" lat="42.5202031" lon="13.3009480" version="7" timestamp="2020-11-04T12:10:19Z" changeset="93542198" uid="7022493" user="Fra00">
     <tag k="name" v="Capitignano"/>
