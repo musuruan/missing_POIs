@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-16T02:13:59Z" areas="2023-09-16T00:06:17Z"/>
+<meta osm_base="2023-09-17T02:18:01Z" areas="2023-09-16T23:42:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -21043,15 +21043,6 @@
     <tag k="population" v="3161"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993729" lat="42.5319147" lon="13.8815453" version="5" timestamp="2020-07-28T08:42:49Z" changeset="88607522" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5828"/>
-    <tag k="name" v="Castiglione Messer Raimondo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2570"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51435"/>
-    <tag k="wikipedia" v="it:Castiglione Messer Raimondo"/>
-  </node>
   <node id="70993734" lat="42.6467837" lon="13.8031426" version="4" timestamp="2020-11-11T23:50:37Z" changeset="93956383" uid="8188604" user="Taftetor">
     <tag k="gfoss_id" v="5824"/>
     <tag k="name" v="Canzano"/>
@@ -21524,12 +21515,15 @@
     <tag k="population" v="4131"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960511" lat="41.7985608" lon="13.2204887" version="4" timestamp="2016-09-07T16:57:05Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72960511" lat="41.7985608" lon="13.2204887" version="5" timestamp="2023-09-16T02:37:34Z" changeset="141325011" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5100"/>
     <tag k="name" v="Fiuggi"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10536"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q116840"/>
+    <tag k="wikimedia_commons" v="Category:Fiuggi"/>
+    <tag k="wikipedia" v="it:Fiuggi"/>
   </node>
   <node id="72960542" lat="41.5774210" lon="13.8158110" version="3" timestamp="2021-04-29T19:56:41Z" changeset="103867285" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5078"/>
@@ -22446,13 +22440,15 @@
     <tag k="population" v="223"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963554" lat="41.8191960" lon="12.8003335" version="5" timestamp="2016-10-26T10:03:15Z" changeset="43187575" uid="2512300" user="samely">
+  <node id="72963554" lat="41.8191960" lon="12.8003335" version="6" timestamp="2023-09-16T02:37:34Z" changeset="141325011" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5030"/>
     <tag k="name" v="San Cesareo"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15153"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q243346"/>
+    <tag k="wikimedia_commons" v="Category:San Cesareo"/>
+    <tag k="wikipedia" v="it:San Cesareo"/>
   </node>
   <node id="72963572" lat="42.0842815" lon="12.9966119" version="3" timestamp="2016-09-07T18:50:34Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5020"/>

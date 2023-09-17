@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-16T02:10:34Z" areas="2023-09-16T00:06:17Z"/>
+<meta osm_base="2023-09-17T02:14:50Z" areas="2023-09-16T23:42:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2323,14 +2323,6 @@
     <tag k="name:pms" v="Valgiòje"/>
     <tag k="place" v="village"/>
     <tag k="population" v="728"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63631463" lat="45.2014510" lon="7.7782220" version="4" timestamp="2023-01-17T19:55:59Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="314"/>
-    <tag k="name" v="Volpiano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12991"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64776518" lat="46.1442060" lon="11.2195800" version="6" timestamp="2019-03-02T20:07:38Z" changeset="67722704" uid="364" user="Edward">
@@ -8673,7 +8665,7 @@
     <tag k="population" v="5018"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963353" lat="41.8383835" lon="12.8310500" version="8" timestamp="2016-10-26T10:01:29Z" changeset="43187514" uid="2512300" user="samely">
+  <node id="72963353" lat="41.8383835" lon="12.8310500" version="9" timestamp="2023-09-16T02:37:34Z" changeset="141325011" uid="3860151" user="Michele Aquilani">
     <tag k="addr:country" v="IT"/>
     <tag k="gfoss_id" v="5025"/>
     <tag k="name" v="Zagarolo"/>
@@ -8681,6 +8673,8 @@
     <tag k="population" v="17843"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q140255"/>
+    <tag k="wikimedia_commons" v="Category:Zagarolo"/>
+    <tag k="wikipedia" v="it:Zagarolo"/>
   </node>
   <node id="72963384" lat="41.9269887" lon="13.2306665" version="3" timestamp="2016-09-07T18:50:34Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5019"/>
