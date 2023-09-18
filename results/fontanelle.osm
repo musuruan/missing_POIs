@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-17T02:18:01Z" areas="2023-09-16T23:42:00Z"/>
+<meta osm_base="2023-09-18T02:16:45Z" areas="2023-09-17T23:16:57Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1440,15 +1440,6 @@
     <tag k="name:lmo" v="Busnagh"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4576"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515090" lat="45.3272660" lon="9.0145460" version="3" timestamp="2021-07-12T13:01:10Z" changeset="107841275" uid="11220113" user="ivanbranco">
-    <tag k="alt_name:lmo" v="Bubbian"/>
-    <tag k="gfoss_id" v="1766"/>
-    <tag k="name" v="Bubbiano"/>
-    <tag k="name:lmo" v="Bibian"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1404"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515098" lat="45.5966599" lon="9.3777061" version="4" timestamp="2019-01-13T12:09:42Z" changeset="66271819" uid="1476146" user="Alecs01">
@@ -10898,20 +10889,25 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022715"/>
   </node>
-  <node id="72960598" lat="41.8308503" lon="13.1463990" version="4" timestamp="2016-09-07T16:57:07Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72960598" lat="41.8308503" lon="13.1463990" version="5" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5118"/>
     <tag k="name" v="Piglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4700"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q117128"/>
+    <tag k="wikimedia_commons" v="Category:Piglio"/>
+    <tag k="wikipedia" v="it:Piglio"/>
   </node>
-  <node id="72960644" lat="41.8421210" lon="13.0951920" version="3" timestamp="2021-04-29T19:56:41Z" changeset="103867285" uid="1950277" user="Mannivu">
+  <node id="72960644" lat="41.8421210" lon="13.0951920" version="4" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5136"/>
     <tag k="name" v="Serrone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2943"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030650"/>
+    <tag k="wikidata" v="Q117354"/>
+    <tag k="wikimedia_commons" v="Category:Serrone"/>
+    <tag k="wikipedia" v="it:Serrone"/>
   </node>
   <node id="72960660" lat="41.5521210" lon="13.7784110" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="5142"/>
@@ -11054,12 +11050,15 @@
     <tag k="population" v="1537"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962192" lat="41.8834220" lon="13.0267900" version="2" timestamp="2016-09-07T18:50:23Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962192" lat="41.8834220" lon="13.0267900" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4923"/>
     <tag k="name" v="Bellegra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3029"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q241780"/>
+    <tag k="wikimedia_commons" v="Category:Bellegra"/>
+    <tag k="wikipedia" v="it:Bellegra"/>
   </node>
   <node id="72962276" lat="42.2633290" lon="12.8700810" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4907"/>
@@ -11108,12 +11107,15 @@
     <tag k="wikimedia_commons" v="Category:Colleferro"/>
     <tag k="wikipedia" v="it:Colleferro"/>
   </node>
-  <node id="72962495" lat="41.9616174" lon="12.9409322" version="3" timestamp="2016-09-07T18:50:25Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962495" lat="41.9616174" lon="12.9409322" version="4" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4941"/>
     <tag k="name" v="Ciciliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1133"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q242521"/>
+    <tag k="wikimedia_commons" v="Category:Ciciliano"/>
+    <tag k="wikipedia" v="it:Ciciliano"/>
   </node>
   <node id="72962597" lat="41.9420762" lon="13.0373148" version="3" timestamp="2016-09-07T18:50:24Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4928"/>
@@ -11150,12 +11152,15 @@
     <tag k="population" v="10466"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962927" lat="41.8606210" lon="13.0330900" version="2" timestamp="2016-09-07T18:50:29Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962927" lat="41.8606210" lon="13.0330900" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4984"/>
     <tag k="name" v="Olevano Romano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6354"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q243128"/>
+    <tag k="wikimedia_commons" v="Category:Olevano Romano"/>
+    <tag k="wikipedia" v="it:Olevano Romano"/>
   </node>
   <node id="72963034" lat="41.8841220" lon="13.0953910" version="2" timestamp="2016-09-07T18:50:22Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4912"/>
@@ -11180,34 +11185,44 @@
     <tag k="postal_code" v="00010"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963255" lat="41.9861230" lon="12.9379860" version="2" timestamp="2016-09-07T18:50:32Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963255" lat="41.9861230" lon="12.9379860" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5005"/>
     <tag k="name" v="Sambuci"/>
     <tag k="place" v="village"/>
     <tag k="population" v="891"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q243324"/>
+    <tag k="wikimedia_commons" v="Category:Sambuci"/>
+    <tag k="wikipedia" v="it:Sambuci"/>
   </node>
-  <node id="72963263" lat="41.9105220" lon="13.0237890" version="2" timestamp="2016-09-07T18:50:30Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963263" lat="41.9105220" lon="13.0237890" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5000"/>
     <tag k="name" v="Rocca Santo Stefano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1009"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q243216"/>
+    <tag k="wikimedia_commons" v="Category:Rocca Santo Stefano"/>
+    <tag k="wikipedia" v="it:Rocca Santo Stefano"/>
   </node>
-  <node id="72963399" lat="41.8723220" lon="13.0672910" version="2" timestamp="2016-09-07T18:50:30Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963399" lat="41.8723220" lon="13.0672910" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5001"/>
     <tag k="name" v="Roiate"/>
     <tag k="place" v="village"/>
     <tag k="population" v="798"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q243243"/>
+    <tag k="wikimedia_commons" v="Category:Roiate"/>
+    <tag k="wikipedia" v="it:Roiate"/>
   </node>
-  <node id="72963421" lat="41.9177118" lon="12.8720735" version="4" timestamp="2022-02-03T15:36:24Z" changeset="116969808" uid="8101879" user="Fred73000">
+  <node id="72963421" lat="41.9177118" lon="12.8720735" version="5" timestamp="2023-09-17T11:11:44Z" changeset="141376746" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5006"/>
     <tag k="name" v="San Gregorio da Sassola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1444"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q243364"/>
+    <tag k="wikimedia_commons" v="Category:San Gregorio da Sassola"/>
     <tag k="wikipedia" v="it:San Gregorio da Sassola"/>
   </node>
   <node id="72963572" lat="42.0842815" lon="12.9966119" version="3" timestamp="2016-09-07T18:50:34Z" changeset="41986239" uid="743479" user="fayor">
