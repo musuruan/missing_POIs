@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-19T02:19:06Z" areas="2023-09-19T00:34:44Z"/>
+<meta osm_base="2023-09-20T02:16:49Z" areas="2023-09-20T00:29:38Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -471,7 +471,7 @@
     <tag k="population" v="207"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505768" lat="45.4687750" lon="9.6210570" version="7" timestamp="2019-07-31T11:44:08Z" changeset="72852072" uid="1950277" user="Mannivu">
+  <node id="62505768" lat="45.4687750" lon="9.6210570" version="8" timestamp="2023-09-19T16:50:53Z" changeset="141477726" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2058"/>
     <tag k="name" v="Misano di Gera d'Adda"/>
     <tag k="place" v="village"/>
@@ -479,7 +479,7 @@
     <tag k="population:date" v="2016"/>
     <tag k="source:population" v="http://www.comuni-italiani.it/016/135/statistiche/"/>
     <tag k="website" v="http://www.comune.misano.bg.it/"/>
-    <tag k="wikidata" v="Q101239"/>
+    <tag k="wikidata" v="Q30027573"/>
     <tag k="wikipedia" v="it:Misano di Gera d'Adda"/>
   </node>
   <node id="62505771" lat="45.8894870" lon="9.7692520" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -1931,12 +1931,14 @@
     <tag k="population" v="620"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511153" lat="45.3283941" lon="9.8151283" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511153" lat="45.3283941" lon="9.8151283" version="5" timestamp="2023-09-19T20:57:54Z" changeset="141485938" uid="18934313" user="Premo19">
     <tag k="gfoss_id" v="2676"/>
     <tag k="name" v="Trigolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1680"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q42849"/>
+    <tag k="wikipedia" v="it:Trigolo"/>
   </node>
   <node id="62511173" lat="45.1043730" lon="10.4307810" version="3" timestamp="2021-09-20T20:29:35Z" changeset="111465994" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="2672"/>
@@ -2044,13 +2046,13 @@
     <tag k="population" v="1097"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511340" lat="45.4440750" lon="9.6432580" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511340" lat="45.4440750" lon="9.6432580" version="4" timestamp="2023-09-19T16:54:57Z" changeset="141477896" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2581"/>
     <tag k="name" v="Capralba"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2092"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q42812"/>
+    <tag k="wikidata" v="Q30023674"/>
     <tag k="wikipedia" v="it:Capralba"/>
   </node>
   <node id="62511368" lat="45.3984740" lon="9.6694590" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
@@ -2336,12 +2338,13 @@
     <tag k="ref:ISTAT" v="019108"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511962" lat="45.4015730" lon="9.6249580" version="2" timestamp="2020-04-15T22:49:08Z" changeset="83615601" uid="478872" user="mcheck">
+  <node id="62511962" lat="45.4015730" lon="9.6249580" version="3" timestamp="2023-09-19T16:57:53Z" changeset="141478007" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2675"/>
     <tag k="name" v="Trescore Cremasco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2374"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031303"/>
   </node>
   <node id="62512011" lat="45.1750730" lon="10.1645740" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2679"/>
@@ -15536,13 +15539,6 @@
     <tag k="population" v="1992"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529011" lat="41.7839380" lon="15.4437440" version="5" timestamp="2023-06-14T22:33:12Z" changeset="137347147" uid="19497998" user="branco-revert">
-    <tag k="gfoss_id" v="6100"/>
-    <tag k="name" v="Apricena"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13328"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68529015" lat="41.3588527" lon="16.0874365" version="4" timestamp="2016-09-09T00:49:53Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6153"/>
     <tag k="name" v="Trinitapoli"/>
@@ -21229,19 +21225,25 @@
     <tag k="wikidata" v="Q116948"/>
     <tag k="wikipedia" v="it:Isola del Liri"/>
   </node>
-  <node id="72959948" lat="41.5922170" lon="13.2439980" version="2" timestamp="2016-09-07T16:57:07Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72959948" lat="41.5922170" lon="13.2439980" version="3" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5113"/>
     <tag k="name" v="Patrica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2915"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q116967"/>
+    <tag k="wikimedia_commons" v="Category:Patrica"/>
+    <tag k="wikipedia" v="it:Patrica"/>
   </node>
-  <node id="72959955" lat="41.6382180" lon="13.1970970" version="2" timestamp="2016-09-07T16:57:06Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72959955" lat="41.6382180" lon="13.1970970" version="3" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5110"/>
     <tag k="name" v="Morolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3090"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q116956"/>
+    <tag k="wikimedia_commons" v="Category:Morolo"/>
+    <tag k="wikipedia" v="it:Morolo"/>
   </node>
   <node id="72959961" lat="41.4983190" lon="13.7523110" version="3" timestamp="2016-09-07T16:57:07Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5117"/>
@@ -21528,12 +21530,15 @@
     <tag k="population" v="1662"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960629" lat="41.6709477" lon="13.1489087" version="3" timestamp="2016-09-07T16:57:09Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72960629" lat="41.6709477" lon="13.1489087" version="4" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5138"/>
     <tag k="name" v="Sgurgola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2556"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q117368"/>
+    <tag k="wikimedia_commons" v="Category:Sgurgola"/>
+    <tag k="wikipedia" v="it:Sgurgola"/>
   </node>
   <node id="72960644" lat="41.8421210" lon="13.0951920" version="4" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5136"/>
@@ -21554,12 +21559,15 @@
     <tag k="wikidata" v="Q117404"/>
     <tag k="wikipedia" v="it:Terelle"/>
   </node>
-  <node id="72960672" lat="41.6102092" lon="13.2247310" version="3" timestamp="2016-09-07T16:57:10Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72960672" lat="41.6102092" lon="13.2247310" version="4" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5141"/>
     <tag k="name" v="Supino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4783"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q117395"/>
+    <tag k="wikimedia_commons" v="Category:Supino"/>
+    <tag k="wikipedia" v="it:Supino (Italia)"/>
   </node>
   <node id="72960679" lat="41.6132723" lon="13.9278768" version="3" timestamp="2019-08-02T19:56:11Z" changeset="72955128" uid="5300343" user="alessandro trekking">
     <tag k="gfoss_id" v="5126"/>
@@ -26227,9 +26235,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="9032"/>
   </node>
-  <node id="613498896" lat="45.3949172" lon="9.6395534" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="613498896" lat="45.3949172" lon="9.6395534" version="3" timestamp="2023-09-19T16:59:12Z" changeset="141478052" uid="1950277" user="Mannivu">
     <tag k="name" v="Cremosano"/>
     <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q30025268"/>
   </node>
   <node id="617102778" lat="44.9274223" lon="9.2760463" version="5" timestamp="2018-12-31T15:47:46Z" changeset="65915939" uid="743479" user="fayor">
     <tag k="name" v="Pometo"/>

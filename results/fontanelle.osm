@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-19T02:18:05Z" areas="2023-09-18T22:57:00Z"/>
+<meta osm_base="2023-09-20T02:16:49Z" areas="2023-09-19T22:42:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -40,7 +40,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q102555"/>
   </node>
-  <node id="62505768" lat="45.4687750" lon="9.6210570" version="7" timestamp="2019-07-31T11:44:08Z" changeset="72852072" uid="1950277" user="Mannivu">
+  <node id="62505768" lat="45.4687750" lon="9.6210570" version="8" timestamp="2023-09-19T16:50:53Z" changeset="141477726" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2058"/>
     <tag k="name" v="Misano di Gera d'Adda"/>
     <tag k="place" v="village"/>
@@ -48,7 +48,7 @@
     <tag k="population:date" v="2016"/>
     <tag k="source:population" v="http://www.comuni-italiani.it/016/135/statistiche/"/>
     <tag k="website" v="http://www.comune.misano.bg.it/"/>
-    <tag k="wikidata" v="Q101239"/>
+    <tag k="wikidata" v="Q30027573"/>
     <tag k="wikipedia" v="it:Misano di Gera d'Adda"/>
   </node>
   <node id="62505854" lat="45.8098870" lon="10.0430600" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -572,12 +572,14 @@
     <tag k="population" v="3622"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511153" lat="45.3283941" lon="9.8151283" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511153" lat="45.3283941" lon="9.8151283" version="5" timestamp="2023-09-19T20:57:54Z" changeset="141485938" uid="18934313" user="Premo19">
     <tag k="gfoss_id" v="2676"/>
     <tag k="name" v="Trigolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1680"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q42849"/>
+    <tag k="wikipedia" v="it:Trigolo"/>
   </node>
   <node id="62511192" lat="45.0603009" lon="10.5133806" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2667"/>
@@ -11133,12 +11135,15 @@
     <tag k="population" v="372"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962692" lat="41.6550170" lon="13.1090950" version="2" timestamp="2016-09-07T18:50:26Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962692" lat="41.6550170" lon="13.1090950" version="3" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4956"/>
     <tag k="name" v="Gorga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="764"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q242698"/>
+    <tag k="wikimedia_commons" v="Category:Gorga"/>
+    <tag k="wikipedia" v="it:Gorga (Italia)"/>
   </node>
   <node id="72962846" lat="42.2100141" lon="12.4811223" version="5" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4993"/>

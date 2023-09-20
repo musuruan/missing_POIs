@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-19T02:16:59Z" areas="2023-09-19T00:34:44Z"/>
+<meta osm_base="2023-09-20T02:14:44Z" areas="2023-09-20T00:29:38Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -343,12 +343,14 @@
     <tag k="ref:ISTAT" v="019006"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511153" lat="45.3283941" lon="9.8151283" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511153" lat="45.3283941" lon="9.8151283" version="5" timestamp="2023-09-19T20:57:54Z" changeset="141485938" uid="18934313" user="Premo19">
     <tag k="gfoss_id" v="2676"/>
     <tag k="name" v="Trigolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1680"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q42849"/>
+    <tag k="wikipedia" v="it:Trigolo"/>
   </node>
   <node id="62511184" lat="45.0731571" lon="10.0892046" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2669"/>
@@ -7316,19 +7318,25 @@
     <tag k="wikidata" v="Q116742"/>
     <tag k="wikipedia" v="it:Colle San Magno"/>
   </node>
-  <node id="72959948" lat="41.5922170" lon="13.2439980" version="2" timestamp="2016-09-07T16:57:07Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72959948" lat="41.5922170" lon="13.2439980" version="3" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5113"/>
     <tag k="name" v="Patrica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2915"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q116967"/>
+    <tag k="wikimedia_commons" v="Category:Patrica"/>
+    <tag k="wikipedia" v="it:Patrica"/>
   </node>
-  <node id="72959955" lat="41.6382180" lon="13.1970970" version="2" timestamp="2016-09-07T16:57:06Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72959955" lat="41.6382180" lon="13.1970970" version="3" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5110"/>
     <tag k="name" v="Morolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3090"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q116956"/>
+    <tag k="wikimedia_commons" v="Category:Morolo"/>
+    <tag k="wikipedia" v="it:Morolo"/>
   </node>
   <node id="72959961" lat="41.4983190" lon="13.7523110" version="3" timestamp="2016-09-07T16:57:07Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5117"/>
@@ -7861,12 +7869,15 @@
     <tag k="wikidata" v="Q242779"/>
     <tag k="wikipedia" v="it:Labico"/>
   </node>
-  <node id="72962692" lat="41.6550170" lon="13.1090950" version="2" timestamp="2016-09-07T18:50:26Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962692" lat="41.6550170" lon="13.1090950" version="3" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4956"/>
     <tag k="name" v="Gorga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="764"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q242698"/>
+    <tag k="wikimedia_commons" v="Category:Gorga"/>
+    <tag k="wikipedia" v="it:Gorga (Italia)"/>
   </node>
   <node id="72962747" lat="42.2548260" lon="12.5976750" version="2" timestamp="2016-09-07T18:50:25Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4948"/>
