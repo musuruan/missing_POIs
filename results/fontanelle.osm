@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-20T02:16:49Z" areas="2023-09-19T22:42:42Z"/>
+<meta osm_base="2023-09-21T02:15:45Z" areas="2023-09-21T00:35:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10710,7 +10710,7 @@
     <tag k="wikidata" v="Q51464"/>
     <tag k="wikipedia" v="it:Sant'Egidio alla Vibrata"/>
   </node>
-  <node id="72959669" lat="41.6419807" lon="13.3469287" version="39" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <node id="72959669" lat="41.6419807" lon="13.3469287" version="40" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
     <tag k="capital" v="6"/>
     <tag k="gfoss_id" v="5103"/>
     <tag k="name" v="Frosinone"/>
@@ -10720,7 +10720,8 @@
     <tag k="population" v="46323"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q13413"/>
-    <tag k="wikipedia" v="fr:Frosinone"/>
+    <tag k="wikimedia_commons" v="Category:Frosinone"/>
+    <tag k="wikipedia" v="en:Frosinone"/>
   </node>
   <node id="72959723" lat="41.3788737" lon="13.7553846" version="3" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5086"/>
@@ -10842,13 +10843,14 @@
     <tag k="population" v="428"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960252" lat="41.5174160" lon="13.3102010" version="4" timestamp="2017-03-11T12:49:43Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960252" lat="41.5174160" lon="13.3102010" version="5" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5155"/>
     <tag k="name" v="Villa Santo Stefano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1763"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q117612"/>
+    <tag k="wikimedia_commons" v="Category:Villa Santo Stefano"/>
     <tag k="wikipedia" v="it:Villa Santo Stefano"/>
   </node>
   <node id="72960276" lat="41.5877162" lon="13.5754288" version="4" timestamp="2022-05-16T22:01:16Z" changeset="121071373" uid="3860151" user="Michele Aquilani">
@@ -10868,13 +10870,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022352"/>
   </node>
-  <node id="72960462" lat="41.5404180" lon="13.5122050" version="4" timestamp="2017-03-11T12:49:44Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960462" lat="41.5404180" lon="13.5122050" version="5" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5090"/>
     <tag k="name" v="Ceprano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8246"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q116716"/>
+    <tag k="wikimedia_commons" v="Category:Ceprano"/>
     <tag k="wikipedia" v="it:Ceprano"/>
   </node>
   <node id="72960537" lat="41.6679656" lon="13.6755758" version="5" timestamp="2018-04-25T18:54:03Z" changeset="58418577" uid="8174022" user="albelTW">
@@ -11182,12 +11185,15 @@
     <tag k="wikimedia_commons" v="Category:Olevano Romano"/>
     <tag k="wikipedia" v="it:Olevano Romano"/>
   </node>
-  <node id="72963034" lat="41.8841220" lon="13.0953910" version="2" timestamp="2016-09-07T18:50:22Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963034" lat="41.8841220" lon="13.0953910" version="3" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4912"/>
     <tag k="name" v="Affile"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1644"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q239180"/>
+    <tag k="wikimedia_commons" v="Category:Affile"/>
+    <tag k="wikipedia" v="it:Affile"/>
   </node>
   <node id="72963163" lat="42.1401497" lon="12.5402010" version="4" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4929"/>
