@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-21T02:15:45Z" areas="2023-09-21T00:35:54Z"/>
+<meta osm_base="2023-09-22T02:17:18Z" areas="2023-09-22T00:45:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -59,12 +59,13 @@
     <tag k="population" v="1385"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505886" lat="45.5863780" lon="9.6399550" version="2" timestamp="2019-04-22T08:28:09Z" changeset="69444235" uid="1950277" user="Mannivu">
+  <node id="62505886" lat="45.5863780" lon="9.6399550" version="3" timestamp="2023-09-21T15:14:51Z" changeset="141564606" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2089"/>
     <tag k="name" v="Pognano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1241"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028964"/>
   </node>
   <node id="62505934" lat="45.6908830" lon="9.9200590" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="created_by" v="JOSM"/>
@@ -545,15 +546,6 @@
     <tag k="name" v="Binago"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4233"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62511105" lat="45.8239770" lon="8.9152340" version="1" timestamp="2007-10-10T06:21:35Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="1628"/>
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
-    <tag k="name" v="Rodero"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1073"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62511112" lat="45.1136700" lon="10.0774730" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
@@ -6384,7 +6376,7 @@
     <tag k="population" v="3245"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275166" lat="39.1222128" lon="16.9641231" version="5" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275166" lat="39.1247805" lon="16.9635545" version="6" timestamp="2023-09-21T10:52:12Z" changeset="141552828" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="7971"/>
     <tag k="name" v="Scandale"/>
     <tag k="place" v="village"/>
@@ -6888,7 +6880,7 @@
     <tag k="population" v="1737"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283817" lat="41.8016615" lon="14.7934189" version="2" timestamp="2023-09-02T11:47:18Z" changeset="140715050" uid="20124152" user="amarie-vinnie">
+  <node id="67283817" lat="41.8018015" lon="14.7933545" version="3" timestamp="2023-09-21T10:10:18Z" changeset="141551189" uid="20124152" user="amarie-vinnie">
     <tag k="ele" v="274"/>
     <tag k="name" v="Guardialfiera"/>
     <tag k="place" v="village"/>
