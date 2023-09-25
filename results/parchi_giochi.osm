@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-24T02:18:21Z" areas="2023-09-24T00:40:54Z"/>
+<meta osm_base="2023-09-25T02:18:44Z" areas="2023-09-24T21:35:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -13194,16 +13194,6 @@
     <tag k="wikidata" v="Q54687"/>
     <tag k="wikipedia" v="it:Varapodio"/>
   </node>
-  <node id="67275336" lat="38.3550541" lon="16.0147781" version="8" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6813"/>
-    <tag k="name" v="Taurianova"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="15636"/>
-    <tag k="postal_code" v="89029"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54682"/>
-    <tag k="wikipedia" v="it:Taurianova"/>
-  </node>
   <node id="67275347" lat="38.3026740" lon="16.2229040" version="2" timestamp="2016-08-28T18:58:08Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6722"/>
     <tag k="name" v="Agnana Calabra"/>
@@ -18217,13 +18207,6 @@
     <tag k="population" v="2516"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582361" lat="40.2659861" lon="15.0154990" version="3" timestamp="2016-08-30T01:07:13Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5640"/>
-    <tag k="name" v="Perdifumo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1866"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68582371" lat="40.2977050" lon="15.1476570" version="2" timestamp="2016-08-30T01:07:13Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5641"/>
     <tag k="name" v="Perito"/>
@@ -21343,12 +21326,15 @@
     <tag k="population" v="1589"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960162" lat="41.6010682" lon="13.4919694" version="5" timestamp="2023-04-05T10:09:17Z" changeset="134531826" uid="3860151" user="Michele Aquilani">
+  <node id="72960162" lat="41.6010682" lon="13.4919694" version="6" timestamp="2023-09-24T15:25:13Z" changeset="141687684" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunedistrangolagalli"/>
+    <tag k="contact:twitter" v="https://twitter.com/strangolcity"/>
     <tag k="gfoss_id" v="5140"/>
     <tag k="name" v="Strangolagalli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2503"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.strangolagalli.fr.it/"/>
     <tag k="wikidata" v="Q117388"/>
     <tag k="wikimedia_commons" v="Category:Strangolagalli"/>
     <tag k="wikipedia" v="it:Strangolagalli"/>

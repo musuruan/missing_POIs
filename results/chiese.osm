@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-24T02:16:18Z" areas="2023-09-24T00:40:54Z"/>
+<meta osm_base="2023-09-25T02:16:34Z" areas="2023-09-24T21:35:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7392,12 +7392,15 @@
     <tag k="population" v="1589"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960162" lat="41.6010682" lon="13.4919694" version="5" timestamp="2023-04-05T10:09:17Z" changeset="134531826" uid="3860151" user="Michele Aquilani">
+  <node id="72960162" lat="41.6010682" lon="13.4919694" version="6" timestamp="2023-09-24T15:25:13Z" changeset="141687684" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunedistrangolagalli"/>
+    <tag k="contact:twitter" v="https://twitter.com/strangolcity"/>
     <tag k="gfoss_id" v="5140"/>
     <tag k="name" v="Strangolagalli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2503"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.strangolagalli.fr.it/"/>
     <tag k="wikidata" v="Q117388"/>
     <tag k="wikimedia_commons" v="Category:Strangolagalli"/>
     <tag k="wikipedia" v="it:Strangolagalli"/>
@@ -7860,14 +7863,17 @@
     <tag k="population" v="783"/>
     <tag k="source" v="istat 2014"/>
   </node>
-  <node id="72962662" lat="41.7895190" lon="12.8808880" version="4" timestamp="2023-03-28T09:59:39Z" changeset="134212848" uid="3860151" user="Michele Aquilani">
+  <node id="72962662" lat="41.7895190" lon="12.8808880" version="6" timestamp="2023-09-24T16:56:24Z" changeset="141691371" uid="3860151" user="Michele Aquilani">
     <tag k="addr:country" v="IT"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/ComuneLabico"/>
     <tag k="gfoss_id" v="4960"/>
     <tag k="name" v="Labico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6379"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.labico.com/home"/>
     <tag k="wikidata" v="Q242779"/>
+    <tag k="wikimedia_commons" v="Category:Labico"/>
     <tag k="wikipedia" v="it:Labico"/>
   </node>
   <node id="72962692" lat="41.6550170" lon="13.1090950" version="3" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
