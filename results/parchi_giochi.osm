@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-25T02:18:44Z" areas="2023-09-24T21:35:45Z"/>
+<meta osm_base="2023-09-26T02:17:55Z" areas="2023-09-26T00:26:48Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -13854,12 +13854,14 @@
     <tag k="population" v="2546"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280656" lat="40.8107190" lon="15.7061630" version="4" timestamp="2016-08-28T18:58:24Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280656" lat="40.8107190" lon="15.7061630" version="5" timestamp="2023-09-25T16:11:42Z" changeset="141738397" uid="69259" user="DnaX">
     <tag k="gfoss_id" v="6386"/>
     <tag k="name" v="Filiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3298"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q52569"/>
+    <tag k="wikipedia" v="it:Filiano"/>
   </node>
   <node id="67280678" lat="40.1239212" lon="15.7666084" version="5" timestamp="2022-08-24T15:45:34Z" changeset="125322256" uid="923271" user="aldoct">
     <tag k="gfoss_id" v="6393"/>
@@ -15183,7 +15185,7 @@
     <tag k="wikidata" v="Q6340"/>
     <tag k="wikipedia" v="it:Castel Giorgio"/>
   </node>
-  <node id="68507858" lat="42.6127014" lon="12.5465047" version="16" timestamp="2023-07-10T17:25:27Z" changeset="138347303" uid="1211510" user="arcanma">
+  <node id="68507858" lat="42.6127014" lon="12.5465047" version="17" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="337"/>
     <tag k="gfoss_id" v="50749"/>
     <tag k="istat_id" v="5502910002"/>
@@ -15197,6 +15199,7 @@
     <tag k="source:population" v="Istat 2011 census"/>
     <tag k="website" v="http://www.comune.sangemini.tr.it/home.php"/>
     <tag k="wikidata" v="Q10895"/>
+    <tag k="wikimedia_commons" v="Category:San Gemini"/>
     <tag k="wikipedia" v="it:San Gemini"/>
   </node>
   <node id="68507862" lat="42.8693370" lon="12.2698590" version="12" timestamp="2019-03-20T10:45:53Z" changeset="68329681" uid="9451067" user="b-jazz-bot">
@@ -20565,12 +20568,15 @@
     <tag k="population" v="314"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992595" lat="41.9543690" lon="13.6934148" version="3" timestamp="2020-04-03T15:05:34Z" changeset="83041204" uid="1876027" user="michele stress">
+  <node id="70992595" lat="41.9543690" lon="13.6934148" version="4" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5753"/>
     <tag k="name" v="Gioia dei Marsi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2284"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q50096"/>
+    <tag k="wikimedia_commons" v="Category:Gioia dei Marsi"/>
+    <tag k="wikipedia" v="it:Gioia dei Marsi"/>
   </node>
   <node id="70992608" lat="42.0262250" lon="13.0676880" version="2" timestamp="2016-09-08T02:39:01Z" changeset="41992756" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5787"/>
@@ -20579,12 +20585,15 @@
     <tag k="population" v="522"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992640" lat="42.0082290" lon="13.6227010" version="2" timestamp="2016-09-08T02:39:01Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992640" lat="42.0082290" lon="13.6227010" version="3" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5792"/>
     <tag k="name" v="San Benedetto dei Marsi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4006"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q50139"/>
+    <tag k="wikimedia_commons" v="Category:San Benedetto dei Marsi"/>
+    <tag k="wikipedia" v="it:San Benedetto dei Marsi"/>
   </node>
   <node id="70992668" lat="42.1022783" lon="13.2047742" version="3" timestamp="2021-04-21T14:08:01Z" changeset="103346154" uid="3151555" user="Dino Michelini">
     <tag k="gfoss_id" v="5796"/>
@@ -20722,12 +20731,15 @@
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993191" lat="41.9550280" lon="13.6458020" version="2" timestamp="2016-09-08T02:38:59Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70993191" lat="41.9550280" lon="13.6458020" version="3" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5771"/>
     <tag k="name" v="Ortucchio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1978"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q50117"/>
+    <tag k="wikimedia_commons" v="Category:Ortucchio"/>
+    <tag k="wikipedia" v="it:Ortucchio"/>
   </node>
   <node id="70993202" lat="41.9745310" lon="13.9587090" version="3" timestamp="2020-07-06T16:10:12Z" changeset="87610282" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5778"/>
@@ -20738,12 +20750,15 @@
     <tag k="wikidata" v="Q50124"/>
     <tag k="wikipedia" v="it:Pettorano sul Gizio"/>
   </node>
-  <node id="70993210" lat="42.0254300" lon="13.6579010" version="2" timestamp="2016-09-08T02:39:00Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70993210" lat="42.0254300" lon="13.6579010" version="3" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5776"/>
     <tag k="name" v="Pescina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4506"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q50122"/>
+    <tag k="wikimedia_commons" v="Category:Pescina"/>
+    <tag k="wikipedia" v="it:Pescina"/>
   </node>
   <node id="70993229" lat="42.1490330" lon="13.7354010" version="3" timestamp="2020-06-14T13:07:21Z" changeset="86624233" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5762"/>
@@ -21139,13 +21154,14 @@
     <tag k="wikidata" v="Q116604"/>
     <tag k="wikipedia" v="it:Castelliri"/>
   </node>
-  <node id="72959871" lat="41.7643220" lon="13.3694990" version="4" timestamp="2020-05-30T17:07:12Z" changeset="85987821" uid="266046" user="karsbehr">
+  <node id="72959871" lat="41.7643220" lon="13.3694990" version="5" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5093"/>
     <tag k="name" v="Collepardo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="928"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q116746"/>
+    <tag k="wikimedia_commons" v="Category:Collepardo"/>
     <tag k="wikipedia" v="it:Collepardo"/>
   </node>
   <node id="72959877" lat="41.4811575" lon="13.9051132" version="4" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
@@ -22075,12 +22091,15 @@
     <tag k="wikimedia_commons" v="Category:Monte Compatri"/>
     <tag k="wikipedia" v="it:Monte Compatri"/>
   </node>
-  <node id="72962262" lat="41.9816240" lon="13.0326880" version="2" timestamp="2016-09-07T18:50:22Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962262" lat="41.9816240" lon="13.0326880" version="3" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4913"/>
     <tag k="name" v="Agosta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1617"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q241659"/>
+    <tag k="wikimedia_commons" v="Category:Agosta"/>
+    <tag k="wikipedia" v="it:Agosta"/>
   </node>
   <node id="72962276" lat="42.2633290" lon="12.8700810" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4907"/>
@@ -22178,19 +22197,25 @@
     <tag k="wikimedia_commons" v="Category:Castel Madama"/>
     <tag k="wikipedia" v="it:Castel Madama"/>
   </node>
-  <node id="72962597" lat="41.9420762" lon="13.0373148" version="3" timestamp="2016-09-07T18:50:24Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962597" lat="41.9420762" lon="13.0373148" version="4" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4928"/>
     <tag k="name" v="Canterano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="372"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q241931"/>
+    <tag k="wikimedia_commons" v="Category:Canterano"/>
+    <tag k="wikipedia" v="it:Canterano"/>
   </node>
-  <node id="72962646" lat="41.9940240" lon="13.0159880" version="3" timestamp="2017-04-14T05:08:12Z" changeset="47765749" uid="554973" user="dgitto">
+  <node id="72962646" lat="41.9940240" lon="13.0159880" version="4" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4966"/>
     <tag k="name" v="Marano Equo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="783"/>
     <tag k="source" v="istat 2014"/>
+    <tag k="wikidata" v="Q242901"/>
+    <tag k="wikimedia_commons" v="Category:Marano Equo"/>
+    <tag k="wikipedia" v="it:Marano Equo"/>
   </node>
   <node id="72962667" lat="41.8888230" lon="13.1695930" version="3" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4959"/>
@@ -22696,12 +22721,15 @@
     <tag k="wikidata" v="Q180314"/>
     <tag k="wikipedia" v="it:Villa San Giovanni in Tuscia"/>
   </node>
-  <node id="72964270" lat="42.2428240" lon="12.3455700" version="2" timestamp="2016-09-07T16:51:13Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72964270" lat="42.2428240" lon="12.3455700" version="3" timestamp="2023-09-25T05:22:50Z" changeset="141712546" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4817"/>
     <tag k="name" v="Nepi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9687"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q176155"/>
+    <tag k="wikimedia_commons" v="Category:Nepi"/>
+    <tag k="wikipedia" v="it:Nepi"/>
   </node>
   <node id="72964280" lat="42.3838260" lon="12.2767660" version="2" timestamp="2016-09-07T16:51:17Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4836"/>
@@ -22710,13 +22738,14 @@
     <tag k="population" v="4705"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72964295" lat="42.3205336" lon="12.0575000" version="5" timestamp="2021-01-23T21:14:02Z" changeset="98036313" uid="3335899" user="GBAB">
+  <node id="72964295" lat="42.3205336" lon="12.0575000" version="6" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4835"/>
     <tag k="name" v="Vetralla"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14037"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q180271"/>
+    <tag k="wikimedia_commons" v="Category:Vetralla"/>
     <tag k="wikipedia" v="it:Vetralla"/>
   </node>
   <node id="72964305" lat="42.2183916" lon="12.1930062" version="5" timestamp="2019-09-02T12:33:56Z" changeset="73999098" uid="3151555" user="Dino Michelini">
@@ -27306,13 +27335,14 @@
     <tag k="population" v="17311"/>
     <tag k="wikidata" v="Q51964"/>
   </node>
-  <node id="4318757045" lat="42.6269800" lon="12.0908718" version="6" timestamp="2017-09-24T21:24:53Z" changeset="52339770" uid="339581" user="nyuriks">
+  <node id="4318757045" lat="42.6269800" lon="12.0908718" version="7" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Bagnoregio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3614"/>
     <tag k="postal_code" v="01022"/>
     <tag k="website" v="http://www.comune.bagnoregio.vt.it/"/>
     <tag k="wikidata" v="Q159498"/>
+    <tag k="wikimedia_commons" v="Category:Bagnoregio"/>
     <tag k="wikipedia" v="it:Bagnoregio"/>
   </node>
   <node id="4365479398" lat="40.2340242" lon="14.9846810" version="1" timestamp="2016-08-24T21:50:39Z" changeset="41674017" uid="743479" user="fayor">

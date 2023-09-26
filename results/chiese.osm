@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-25T02:16:34Z" areas="2023-09-24T21:35:45Z"/>
+<meta osm_base="2023-09-26T02:15:57Z" areas="2023-09-26T00:26:48Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3570,13 +3570,6 @@
     <tag k="population" v="1612"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280519" lat="40.7297180" lon="15.7202640" version="3" timestamp="2016-09-09T00:49:36Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6361"/>
-    <tag k="name" v="Avigliano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11577"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67280528" lat="40.4760140" lon="15.8485700" version="2" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6369"/>
     <tag k="name" v="Calvello"/>
@@ -3659,13 +3652,6 @@
     <tag k="population" v="1839"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026258"/>
-  </node>
-  <node id="67280656" lat="40.8107190" lon="15.7061630" version="4" timestamp="2016-08-28T18:58:24Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6386"/>
-    <tag k="name" v="Filiano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3298"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280683" lat="40.3605130" lon="16.0988770" version="3" timestamp="2021-11-06T23:32:41Z" changeset="113464267" uid="8215303" user="ross-map">
     <tag k="gfoss_id" v="6392"/>
@@ -6973,12 +6959,15 @@
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993210" lat="42.0254300" lon="13.6579010" version="2" timestamp="2016-09-08T02:39:00Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70993210" lat="42.0254300" lon="13.6579010" version="3" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5776"/>
     <tag k="name" v="Pescina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4506"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q50122"/>
+    <tag k="wikimedia_commons" v="Category:Pescina"/>
+    <tag k="wikipedia" v="it:Pescina"/>
   </node>
   <node id="70993229" lat="42.1490330" lon="13.7354010" version="3" timestamp="2020-06-14T13:07:21Z" changeset="86624233" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5762"/>
@@ -7155,15 +7144,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1184"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70993636" lat="42.8230480" lon="13.7772930" version="3" timestamp="2020-06-11T07:08:33Z" changeset="86500592" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5857"/>
-    <tag k="name" v="Torano Nuovo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1684"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51468"/>
-    <tag k="wikipedia" v="it:Torano Nuovo"/>
   </node>
   <node id="70993697" lat="42.2943877" lon="13.9696770" version="6" timestamp="2022-08-07T10:44:42Z" changeset="124591679" uid="1940323" user="SekeRob">
     <tag k="check_date" v="2022-01-01"/>
@@ -7849,19 +7829,25 @@
     <tag k="wikimedia_commons" v="Category:Castelnuovo di Porto"/>
     <tag k="wikipedia" v="it:Castelnuovo di Porto"/>
   </node>
-  <node id="72962597" lat="41.9420762" lon="13.0373148" version="3" timestamp="2016-09-07T18:50:24Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962597" lat="41.9420762" lon="13.0373148" version="4" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4928"/>
     <tag k="name" v="Canterano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="372"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q241931"/>
+    <tag k="wikimedia_commons" v="Category:Canterano"/>
+    <tag k="wikipedia" v="it:Canterano"/>
   </node>
-  <node id="72962646" lat="41.9940240" lon="13.0159880" version="3" timestamp="2017-04-14T05:08:12Z" changeset="47765749" uid="554973" user="dgitto">
+  <node id="72962646" lat="41.9940240" lon="13.0159880" version="4" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4966"/>
     <tag k="name" v="Marano Equo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="783"/>
     <tag k="source" v="istat 2014"/>
+    <tag k="wikidata" v="Q242901"/>
+    <tag k="wikimedia_commons" v="Category:Marano Equo"/>
+    <tag k="wikipedia" v="it:Marano Equo"/>
   </node>
   <node id="72962662" lat="41.7895190" lon="12.8808880" version="6" timestamp="2023-09-24T16:56:24Z" changeset="141691371" uid="3860151" user="Michele Aquilani">
     <tag k="addr:country" v="IT"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-25T02:17:42Z" areas="2023-09-25T00:32:05Z"/>
+<meta osm_base="2023-09-26T02:17:55Z" areas="2023-09-25T21:21:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6738,12 +6738,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026258"/>
   </node>
-  <node id="67280656" lat="40.8107190" lon="15.7061630" version="4" timestamp="2016-08-28T18:58:24Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280656" lat="40.8107190" lon="15.7061630" version="5" timestamp="2023-09-25T16:11:42Z" changeset="141738397" uid="69259" user="DnaX">
     <tag k="gfoss_id" v="6386"/>
     <tag k="name" v="Filiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3298"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q52569"/>
+    <tag k="wikipedia" v="it:Filiano"/>
   </node>
   <node id="67280695" lat="40.9089220" lon="15.8294640" version="4" timestamp="2021-06-06T01:50:57Z" changeset="105901588" uid="1772368" user="pizzaiolo">
     <tag k="gfoss_id" v="6401"/>
@@ -10472,12 +10474,15 @@
     <tag k="population" v="522"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992640" lat="42.0082290" lon="13.6227010" version="2" timestamp="2016-09-08T02:39:01Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992640" lat="42.0082290" lon="13.6227010" version="3" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5792"/>
     <tag k="name" v="San Benedetto dei Marsi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4006"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q50139"/>
+    <tag k="wikimedia_commons" v="Category:San Benedetto dei Marsi"/>
+    <tag k="wikipedia" v="it:San Benedetto dei Marsi"/>
   </node>
   <node id="70992668" lat="42.1022783" lon="13.2047742" version="3" timestamp="2021-04-21T14:08:01Z" changeset="103346154" uid="3151555" user="Dino Michelini">
     <tag k="gfoss_id" v="5796"/>
@@ -10695,18 +10700,14 @@
     <tag k="wikidata" v="Q51464"/>
     <tag k="wikipedia" v="it:Sant'Egidio alla Vibrata"/>
   </node>
-  <node id="72959669" lat="41.6419807" lon="13.3469287" version="40" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
+  <node id="72959669" lat="41.6407760" lon="13.3507562" version="42" timestamp="2023-09-25T22:20:46Z" changeset="141750301" uid="20335028" user="funny_la">
     <tag k="capital" v="6"/>
-    <tag k="gfoss_id" v="5103"/>
     <tag k="name" v="Frosinone"/>
-    <tag k="name:ru" v="Фрозиноне"/>
-    <tag k="name:zh" v="弗罗西诺内"/>
     <tag k="place" v="city"/>
     <tag k="population" v="46323"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q13413"/>
     <tag k="wikimedia_commons" v="Category:Frosinone"/>
-    <tag k="wikipedia" v="en:Frosinone"/>
+    <tag k="wikipedia" v="it:Frosinone"/>
   </node>
   <node id="72959723" lat="41.3788737" lon="13.7553846" version="3" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5086"/>
@@ -11117,12 +11118,15 @@
     <tag k="wikimedia_commons" v="Category:Ciciliano"/>
     <tag k="wikipedia" v="it:Ciciliano"/>
   </node>
-  <node id="72962597" lat="41.9420762" lon="13.0373148" version="3" timestamp="2016-09-07T18:50:24Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962597" lat="41.9420762" lon="13.0373148" version="4" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4928"/>
     <tag k="name" v="Canterano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="372"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q241931"/>
+    <tag k="wikimedia_commons" v="Category:Canterano"/>
+    <tag k="wikipedia" v="it:Canterano"/>
   </node>
   <node id="72962692" lat="41.6550170" lon="13.1090950" version="3" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4956"/>
@@ -14244,10 +14248,13 @@
     <tag k="wikidata" v="Q389292"/>
     <tag k="wikipedia" v="it:Tramatza"/>
   </node>
-  <node id="3072217893" lat="40.7090178" lon="13.9186022" version="3" timestamp="2016-08-31T23:04:12Z" changeset="41838072" uid="743479" user="fayor">
+  <node id="3072217893" lat="40.7088347" lon="13.9191859" version="4" timestamp="2023-09-25T21:54:28Z" changeset="141749736" uid="20334939" user="osouleonapule">
+    <tag k="ele" v="210"/>
     <tag k="name" v="Barano d'Ischia"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10113"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="9980"/>
+    <tag k="wikidata" v="Q30022557"/>
+    <tag k="wikipedia" v="it:Barano d'Ischia"/>
   </node>
   <node id="3094257086" lat="40.2471338" lon="15.8887046" version="3" timestamp="2022-12-13T03:58:50Z" changeset="130019261" uid="923271" user="aldoct">
     <tag k="gfoss_id" v="6435"/>
