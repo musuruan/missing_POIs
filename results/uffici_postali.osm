@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-26T02:14:56Z" areas="2023-09-26T00:26:48Z"/>
+<meta osm_base="2023-09-27T02:14:45Z" areas="2023-09-26T21:01:08Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -850,14 +850,6 @@
     <tag k="name" v="Nembro"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11514"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62507029" lat="45.4760760" lon="9.6892580" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="2064"/>
-    <tag k="name" v="Mozzanica"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3921"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62507034" lat="45.8576650" lon="10.1335450" version="5" timestamp="2021-01-04T13:50:48Z" changeset="96913277" uid="1476146" user="Alecs01">
@@ -14528,10 +14520,13 @@
     <tag k="population" v="4881"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580798" lat="40.9428077" lon="14.2368471" version="5" timestamp="2023-09-25T17:59:44Z" changeset="141742555" uid="20334939" user="osouleonapule">
+  <node id="68580798" lat="40.9457110" lon="14.2314290" version="6" timestamp="2023-09-26T06:23:06Z" changeset="141758078" uid="19497998" user="branco-revert">
+    <tag k="gfoss_id" v="5411"/>
     <tag k="name" v="Sant'Antimo"/>
     <tag k="place" v="town"/>
     <tag k="population" v="33905"/>
+    <tag k="postal_code" v="80029"/>
+    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72592"/>
   </node>
   <node id="68580801" lat="40.9047130" lon="14.5659370" version="2" timestamp="2016-08-31T23:04:14Z" changeset="41838072" uid="743479" user="fayor">
