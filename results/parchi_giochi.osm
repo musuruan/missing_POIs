@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-28T02:17:12Z" areas="2023-09-28T00:17:38Z"/>
+<meta osm_base="2023-09-29T02:17:59Z" areas="2023-09-29T01:11:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1513,12 +1513,13 @@
     <tag k="population" v="1904"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508969" lat="45.3861328" lon="10.1174570" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508969" lat="45.3861328" lon="10.1174570" version="4" timestamp="2023-09-28T17:02:20Z" changeset="141873616" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2292"/>
     <tag k="name" v="Offlaga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3365"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028308"/>
   </node>
   <node id="62509001" lat="45.8621038" lon="9.0989396" version="5" timestamp="2022-09-19T10:43:35Z" changeset="126365721" uid="69717" user="kaitu">
     <tag k="name" v="Borgo"/>
@@ -15371,12 +15372,13 @@
     <tag k="population" v="6566"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528801" lat="40.9173310" lon="17.0211910" version="3" timestamp="2016-09-09T00:49:53Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="68528801" lat="40.9173310" lon="17.0211910" version="4" timestamp="2023-09-28T16:52:25Z" changeset="141873197" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="6207"/>
     <tag k="name" v="Turi"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13046"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031382"/>
   </node>
   <node id="68528833" lat="40.6303856" lon="17.6335762" version="4" timestamp="2016-09-09T00:49:50Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6251"/>
@@ -27343,7 +27345,7 @@
     <tag k="place" v="town"/>
     <tag k="population" v="10203"/>
   </node>
-  <node id="4366962677" lat="45.7494106" lon="12.3193327" version="4" timestamp="2023-08-28T11:15:05Z" changeset="140489433" uid="497537" user="tuxfuzz">
+  <node id="4366962677" lat="45.7494106" lon="12.3193327" version="5" timestamp="2023-09-29T00:09:09Z" changeset="141891033" uid="497537" user="tuxfuzz">
     <tag k="ele" v="31"/>
     <tag k="gfoss_id" v="28800"/>
     <tag k="name" v="Maserada sul Piave"/>
@@ -27351,7 +27353,6 @@
     <tag k="population" v="9380"/>
     <tag k="postal_code" v="31052"/>
     <tag k="source" v="ISTAT"/>
-    <tag k="wikidata" v="Q46555"/>
   </node>
   <node id="4390210696" lat="42.1488565" lon="12.5030127" version="2" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Morlupo"/>
