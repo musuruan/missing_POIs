@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-09-30T02:15:15Z" areas="2023-09-30T00:17:54Z"/>
+<meta osm_base="2023-10-01T02:22:45Z" areas="2023-10-01T00:11:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6452,16 +6452,6 @@
     <tag k="wikidata" v="Q54618"/>
     <tag k="wikipedia" v="it:Laureana di Borrello"/>
   </node>
-  <node id="67275403" lat="38.4337129" lon="16.0604715" version="9" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6769"/>
-    <tag k="name" v="Melicucco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4996"/>
-    <tag k="postal_code" v="89020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54624"/>
-    <tag k="wikipedia" v="it:Melicucco"/>
-  </node>
   <node id="67275451" lat="38.4118780" lon="16.4525070" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6779"/>
     <tag k="name" v="Placanica"/>
@@ -10261,12 +10251,19 @@
     <tag k="population" v="159"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991197" lat="42.2233727" lon="14.2148103" version="4" timestamp="2016-09-07T16:52:27Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70991197" lat="42.2233727" lon="14.2148103" version="5" timestamp="2023-09-30T06:12:32Z" changeset="141937682" uid="1940323" user="SekeRob">
+    <tag k="San" v="Martino"/>
+    <tag k="check_date" v="2023-01-01"/>
+    <tag k="ele" v="480"/>
     <tag k="gfoss_id" v="5990"/>
     <tag k="name" v="San Martino sulla Marrucina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="981"/>
+    <tag k="population" v="832"/>
+    <tag k="postal_code" v="66010"/>
+    <tag k="ref:ISTAT" v="069082"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="sulla" v="Marrucina"/>
+    <tag k="website" v="http://www.sanmartinosm.it/c069082/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20002"/>
   </node>
   <node id="70991247" lat="41.9687447" lon="14.3753527" version="4" timestamp="2020-07-09T14:40:56Z" changeset="87771319" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="6011"/>
