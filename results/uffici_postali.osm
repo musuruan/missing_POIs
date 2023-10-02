@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-01T02:20:14Z" areas="2023-10-01T00:11:44Z"/>
+<meta osm_base="2023-10-02T02:15:39Z" areas="2023-10-01T23:58:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -563,7 +563,7 @@
     <tag k="wikidata" v="Q30025630"/>
     <tag k="wikipedia" v="it:Fara Gera d'Adda"/>
   </node>
-  <node id="62506457" lat="45.6472193" lon="9.6019202" version="4" timestamp="2023-08-25T16:53:38Z" changeset="140381517" uid="9616185" user="LukeDH">
+  <node id="62506457" lat="45.6472193" lon="9.6019202" version="5" timestamp="2023-10-01T14:38:43Z" changeset="141991250" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2015"/>
     <tag k="name" v="Dalmine"/>
     <tag k="place" v="town"/>
@@ -571,7 +571,7 @@
     <tag k="population:date" v="2023-02-28"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
-    <tag k="wikidata" v="Q101028"/>
+    <tag k="wikidata" v="Q30025375"/>
   </node>
   <node id="62506463" lat="45.9907873" lon="9.6018874" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2014"/>
@@ -805,12 +805,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025730"/>
   </node>
-  <node id="62506935" lat="45.6513805" lon="9.6535097" version="4" timestamp="2021-01-14T21:18:59Z" changeset="97516511" uid="616481" user="gigi2037">
+  <node id="62506935" lat="45.6513805" lon="9.6535097" version="5" timestamp="2023-10-01T14:43:18Z" changeset="141991571" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2128"/>
     <tag k="name" v="Stezzano"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13299"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030918"/>
   </node>
   <node id="62506958" lat="45.7817830" lon="9.6240510" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2117"/>
@@ -14064,13 +14065,6 @@
     <tag k="population" v="3226"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579777" lat="41.3702200" lon="14.2427230" version="4" timestamp="2021-07-11T08:20:07Z" changeset="107771890" uid="166489" user="Fintocubano">
-    <tag k="gfoss_id" v="5222"/>
-    <tag k="name" v="Raviscanina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1352"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68579788" lat="41.0551140" lon="14.3040290" version="2" timestamp="2016-09-02T23:58:43Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5223"/>
     <tag k="name" v="Recale"/>
@@ -17450,11 +17444,15 @@
     <tag k="wikidata" v="Q51459"/>
     <tag k="wikipedia" v="it:Penna Sant'Andrea"/>
   </node>
-  <node id="70993903" lat="42.5235400" lon="13.5553920" version="3" timestamp="2016-09-07T17:42:34Z" changeset="41985059" uid="743479" user="fayor">
+  <node id="70993903" lat="42.5235400" lon="13.5553920" version="4" timestamp="2023-10-01T06:05:32Z" changeset="141974625" uid="1940323" user="SekeRob">
+    <tag k="check_date" v="2023-01-01"/>
+    <tag k="ele" v="1005"/>
     <tag k="gfoss_id" v="5849"/>
     <tag k="name" v="Pietracamela"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="312"/>
+    <tag k="population" v="218"/>
+    <tag k="postal_code" v="64047"/>
+    <tag k="ref:ISTAT" v="067034"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72959744" lat="41.5428220" lon="13.9528150" version="3" timestamp="2021-04-29T19:56:40Z" changeset="103867285" uid="1950277" user="Mannivu">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-01T02:23:29Z" areas="2023-10-01T00:41:30Z"/>
+<meta osm_base="2023-10-02T02:18:15Z" areas="2023-10-02T00:24:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -21052,11 +21052,15 @@
     <tag k="wikidata" v="Q51439"/>
     <tag k="wikipedia" v="it:Cermignano"/>
   </node>
-  <node id="70993903" lat="42.5235400" lon="13.5553920" version="3" timestamp="2016-09-07T17:42:34Z" changeset="41985059" uid="743479" user="fayor">
+  <node id="70993903" lat="42.5235400" lon="13.5553920" version="4" timestamp="2023-10-01T06:05:32Z" changeset="141974625" uid="1940323" user="SekeRob">
+    <tag k="check_date" v="2023-01-01"/>
+    <tag k="ele" v="1005"/>
     <tag k="gfoss_id" v="5849"/>
     <tag k="name" v="Pietracamela"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="312"/>
+    <tag k="population" v="218"/>
+    <tag k="postal_code" v="64047"/>
+    <tag k="ref:ISTAT" v="067034"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72959721" lat="41.7027311" lon="13.6378198" version="6" timestamp="2021-07-21T18:06:51Z" changeset="108380514" uid="177389" user="Garmin-User">
