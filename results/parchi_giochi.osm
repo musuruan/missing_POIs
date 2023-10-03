@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-02T02:18:15Z" areas="2023-10-02T00:24:30Z"/>
+<meta osm_base="2023-10-03T02:18:41Z" areas="2023-10-03T00:07:07Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1274,12 +1274,13 @@
     <tag k="population" v="3199"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508286" lat="45.5702840" lon="10.3660710" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508286" lat="45.5702840" lon="10.3660710" version="3" timestamp="2023-10-02T13:18:33Z" changeset="142039309" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2348"/>
     <tag k="name" v="Serle"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2849"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030607"/>
   </node>
   <node id="62508313" lat="45.7396890" lon="10.4390700" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2257"/>
@@ -14790,7 +14791,7 @@
     <tag k="population" v="2395"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284413" lat="41.6067273" lon="14.1394889" version="3" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284413" lat="41.6070292" lon="14.1396262" version="4" timestamp="2023-10-02T11:47:26Z" changeset="142035464" uid="20133984" user="Antonio Petrarca">
     <tag k="gfoss_id" v="7578"/>
     <tag k="name" v="Fornelli"/>
     <tag k="place" v="village"/>
@@ -21772,12 +21773,15 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="uri:filas" v="http://193.178.216.227/ontoir-web/getRDF?fqName=urn:turismoculturale.itdc.filas-1.0.0-RC1%23turismoCulturale_POI_159"/>
   </node>
-  <node id="72961234" lat="42.3349766" lon="12.5529530" version="4" timestamp="2016-09-07T16:51:09Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961234" lat="42.3349766" lon="12.5529530" version="5" timestamp="2023-10-02T20:40:00Z" changeset="142057819" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4859"/>
     <tag k="name" v="Collevecchio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1480"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q224073"/>
+    <tag k="wikimedia_commons" v="Category:Collevecchio"/>
+    <tag k="wikipedia" v="it:Collevecchio"/>
   </node>
   <node id="72961282" lat="42.1896280" lon="12.9968850" version="2" timestamp="2016-09-07T16:51:13Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4886"/>
@@ -21786,12 +21790,15 @@
     <tag k="population" v="180"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961293" lat="42.2459270" lon="12.6920770" version="4" timestamp="2018-01-13T12:04:31Z" changeset="55404886" uid="362065" user="GFS">
+  <node id="72961293" lat="42.2459270" lon="12.6920770" version="5" timestamp="2023-10-02T20:40:00Z" changeset="142057819" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4882"/>
     <tag k="name" v="Montopoli di Sabina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4138"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q224259"/>
+    <tag k="wikimedia_commons" v="Category:Montopoli di Sabina"/>
+    <tag k="wikipedia" v="it:Montopoli di Sabina"/>
   </node>
   <node id="72961308" lat="42.6941410" lon="13.2476830" version="3" timestamp="2016-09-07T16:51:05Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4839"/>
@@ -21844,12 +21851,15 @@
     <tag k="population" v="1603"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961643" lat="42.2965835" lon="12.5953750" version="3" timestamp="2016-09-07T16:51:10Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961643" lat="42.2965835" lon="12.5953750" version="4" timestamp="2023-10-02T20:40:00Z" changeset="142057819" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4867"/>
     <tag k="name" v="Forano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2453"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q224136"/>
+    <tag k="wikimedia_commons" v="Category:Forano"/>
+    <tag k="wikipedia" v="it:Forano"/>
   </node>
   <node id="72961664" lat="42.2731300" lon="12.9673830" version="3" timestamp="2023-09-18T15:09:34Z" changeset="141429604" uid="8748134" user="hindukusc">
     <tag k="gfoss_id" v="4872"/>
@@ -22131,12 +22141,15 @@
     <tag k="wikidata" v="Q224328"/>
     <tag k="wikipedia" v="it:Poggio San Lorenzo"/>
   </node>
-  <node id="72962365" lat="42.2993298" lon="12.5657272" version="3" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72962365" lat="42.2993298" lon="12.5657272" version="4" timestamp="2023-10-02T20:40:00Z" changeset="142057819" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4904"/>
     <tag k="name" v="Stimigliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1744"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q224587"/>
+    <tag k="wikimedia_commons" v="Category:Stimigliano"/>
+    <tag k="wikipedia" v="it:Stimigliano"/>
   </node>
   <node id="72962389" lat="42.0498104" lon="12.9630733" version="5" timestamp="2023-09-18T10:48:39Z" changeset="141418245" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4942"/>
