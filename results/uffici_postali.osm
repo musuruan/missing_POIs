@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-04T02:16:44Z" areas="2023-10-04T00:04:27Z"/>
+<meta osm_base="2023-10-05T02:17:37Z" areas="2023-10-04T23:49:36Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -12697,7 +12697,7 @@
     <tag k="wikidata" v="Q10823"/>
     <tag k="wikipedia" v="it:Lugnano in Teverina"/>
   </node>
-  <node id="68507898" lat="42.4230234" lon="12.4776861" version="13" timestamp="2018-06-15T17:44:54Z" changeset="59880060" uid="1211510" user="arcanma">
+  <node id="68507898" lat="42.4230234" lon="12.4776861" version="14" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="209"/>
     <tag k="gfoss_id" v="50731"/>
     <tag k="istat_id" v="5502410001"/>
@@ -12711,6 +12711,7 @@
     <tag k="source:population" v="Istat 2011 census"/>
     <tag k="website" v="http://www.comune.otricoli.tr.it/"/>
     <tag k="wikidata" v="Q10870"/>
+    <tag k="wikimedia_commons" v="Category:Otricoli"/>
     <tag k="wikipedia" v="it:Otricoli"/>
   </node>
   <node id="68507912" lat="42.6233823" lon="12.2976643" version="12" timestamp="2017-11-11T18:07:36Z" changeset="53697011" uid="1211510" user="arcanma">
@@ -17082,13 +17083,6 @@
     <tag k="population" v="776"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992847" lat="42.1270330" lon="13.8167030" version="2" timestamp="2016-09-08T02:39:04Z" changeset="41992756" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5815"/>
-    <tag k="name" v="Vittorito"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1012"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70992860" lat="42.0631280" lon="13.3391940" version="2" timestamp="2016-09-08T02:39:02Z" changeset="41992756" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5803"/>
     <tag k="name" v="Scurcola Marsicana"/>
@@ -17879,7 +17873,9 @@
     <tag k="population" v="739"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960983" lat="41.5942016" lon="12.6485765" version="29" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
+  <node id="72960983" lat="41.5942016" lon="12.6485765" version="30" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunediaprilia/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/cittadaprilia/"/>
     <tag k="gfoss_id" v="5033"/>
     <tag k="name" v="Aprilia"/>
     <tag k="name:ru" v="Априлия"/>
@@ -17887,6 +17883,7 @@
     <tag k="population" v="73446"/>
     <tag k="postal_code" v="04011"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.aprilia.lt.it/"/>
     <tag k="wikidata" v="Q128052"/>
     <tag k="wikimedia_commons" v="Category:Aprilia (comune, Italy)"/>
     <tag k="wikipedia" v="it:Aprilia (Italia)"/>
@@ -17955,12 +17952,15 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="uri:filas" v="http://193.178.216.227/ontoir-web/getRDF?fqName=urn:turismoculturale.itdc.filas-1.0.0-RC1%23turismoCulturale_POI_154"/>
   </node>
-  <node id="72961587" lat="42.2026270" lon="12.8793820" version="2" timestamp="2016-09-07T16:51:14Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961587" lat="42.2026270" lon="12.8793820" version="3" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4892"/>
     <tag k="name" v="Poggio Moiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2510"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q224320"/>
+    <tag k="wikimedia_commons" v="Category:Poggio Moiano"/>
+    <tag k="wikipedia" v="it:Poggio Moiano"/>
   </node>
   <node id="72961612" lat="42.2154270" lon="12.7965800" version="2" timestamp="2016-09-07T16:51:14Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4893"/>
@@ -18066,12 +18066,15 @@
     <tag k="population" v="1198"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961976" lat="42.1655328" lon="12.8419253" version="5" timestamp="2016-09-07T16:51:15Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961976" lat="42.1655328" lon="12.8419253" version="6" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4902"/>
     <tag k="name" v="Scandriglia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3108"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q224521"/>
+    <tag k="wikimedia_commons" v="Category:Scandriglia"/>
+    <tag k="wikipedia" v="it:Scandriglia"/>
   </node>
   <node id="72961985" lat="42.2812290" lon="12.8135790" version="2" timestamp="2016-09-07T16:51:13Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4880"/>
@@ -18584,13 +18587,16 @@
     <tag k="wikimedia_commons" v="Category:Licenza"/>
     <tag k="wikipedia" v="it:Licenza (Italia)"/>
   </node>
-  <node id="72963608" lat="42.1598932" lon="12.4368996" version="5" timestamp="2021-01-22T10:14:03Z" changeset="97965421" uid="12500793" user="VALENTINO Bx">
+  <node id="72963608" lat="42.1598932" lon="12.4368996" version="6" timestamp="2023-10-04T13:41:44Z" changeset="142146385" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/ComuneMaglianoRomano"/>
     <tag k="gfoss_id" v="4963"/>
     <tag k="name" v="Magliano Romano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1322"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comunedimaglianoromano.it/"/>
     <tag k="wikidata" v="Q242870"/>
+    <tag k="wikimedia_commons" v="Category:Magliano Romano"/>
     <tag k="wikipedia" v="it:Magliano Romano"/>
   </node>
   <node id="72963623" lat="42.0308068" lon="12.9233231" version="4" timestamp="2023-09-18T10:48:39Z" changeset="141418245" uid="3860151" user="Michele Aquilani">

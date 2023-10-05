@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-04T02:15:40Z" areas="2023-10-04T00:08:45Z"/>
+<meta osm_base="2023-10-05T02:16:35Z" areas="2023-10-05T00:10:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7289,13 +7289,6 @@
     <tag k="population" v="776"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992847" lat="42.1270330" lon="13.8167030" version="2" timestamp="2016-09-08T02:39:04Z" changeset="41992756" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5815"/>
-    <tag k="name" v="Vittorito"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1012"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70992982" lat="42.0065260" lon="13.2799930" version="21" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
     <tag k="gfoss_id" v="5730"/>
     <tag k="name" v="Cappadocia"/>
@@ -8173,12 +8166,15 @@
     <tag k="population" v="1326"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961587" lat="42.2026270" lon="12.8793820" version="2" timestamp="2016-09-07T16:51:14Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961587" lat="42.2026270" lon="12.8793820" version="3" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4892"/>
     <tag k="name" v="Poggio Moiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2510"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q224320"/>
+    <tag k="wikimedia_commons" v="Category:Poggio Moiano"/>
+    <tag k="wikipedia" v="it:Poggio Moiano"/>
   </node>
   <node id="72961612" lat="42.2154270" lon="12.7965800" version="2" timestamp="2016-09-07T16:51:14Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4893"/>
@@ -8262,12 +8258,15 @@
     <tag k="population" v="1198"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961976" lat="42.1655328" lon="12.8419253" version="5" timestamp="2016-09-07T16:51:15Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961976" lat="42.1655328" lon="12.8419253" version="6" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4902"/>
     <tag k="name" v="Scandriglia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3108"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q224521"/>
+    <tag k="wikimedia_commons" v="Category:Scandriglia"/>
+    <tag k="wikipedia" v="it:Scandriglia"/>
   </node>
   <node id="72961991" lat="42.5266508" lon="12.8323214" version="4" timestamp="2017-03-11T12:49:47Z" changeset="46761722" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="4883"/>
@@ -8783,7 +8782,7 @@
     <tag k="wikimedia_commons" v="Category:Mandela (Italy)"/>
     <tag k="wikipedia" v="it:Mandela (Italia)"/>
   </node>
-  <node id="72963655" lat="42.1081784" lon="12.8303820" version="5" timestamp="2017-09-24T21:24:49Z" changeset="52339770" uid="339581" user="nyuriks">
+  <node id="72963655" lat="42.1081784" lon="12.8303820" version="6" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4972"/>
     <tag k="name" v="Monteflavio"/>
     <tag k="place" v="village"/>
@@ -8792,6 +8791,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.comune.monteflavio.rm.it"/>
     <tag k="wikidata" v="Q142195"/>
+    <tag k="wikimedia_commons" v="Category:Monteflavio"/>
     <tag k="wikipedia" v="it:Monteflavio"/>
   </node>
   <node id="72963658" lat="41.6511170" lon="13.0398930" version="3" timestamp="2023-07-15T12:44:12Z" changeset="138543619" uid="3860151" user="Michele Aquilani">
@@ -9267,7 +9267,8 @@
     <tag k="wikidata" v="Q52510"/>
     <tag k="wikipedia" v="it:Abriola"/>
   </node>
-  <node id="2673845419" lat="42.1410780" lon="12.3836686" version="4" timestamp="2023-05-30T22:16:51Z" changeset="136765180" uid="19435570" user="samylamiayasmine">
+  <node id="2673845419" lat="42.1410780" lon="12.3836686" version="5" timestamp="2023-10-04T13:41:44Z" changeset="142146385" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/ComuneCampagnanodiRoma/"/>
     <tag k="ele" v="270"/>
     <tag k="name" v="Campagnano di Roma"/>
     <tag k="place" v="town"/>
@@ -9276,6 +9277,8 @@
     <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="https://www.comunecampagnano.it/"/>
     <tag k="wikidata" v="Q241911"/>
+    <tag k="wikimedia_commons" v="Category:Campagnano di Roma"/>
+    <tag k="wikipedia" v="it:Campagnano di Roma"/>
   </node>
   <node id="2673996091" lat="42.4059662" lon="12.6859706" version="1" timestamp="2014-02-16T01:09:33Z" changeset="20587632" uid="69717" user="kaitu">
     <tag k="name" v="Cottanello"/>

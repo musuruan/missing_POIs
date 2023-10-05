@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-04T02:18:45Z" areas="2023-10-04T00:04:27Z"/>
+<meta osm_base="2023-10-05T02:19:45Z" areas="2023-10-05T00:10:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11119,12 +11119,13 @@
     <tag k="wikimedia_commons" v="Category:Gorga"/>
     <tag k="wikipedia" v="it:Gorga (Italia)"/>
   </node>
-  <node id="72962846" lat="42.2100141" lon="12.4811223" version="5" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
+  <node id="72962846" lat="42.2100141" lon="12.4811223" version="6" timestamp="2023-10-04T13:41:44Z" changeset="142146385" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4993"/>
     <tag k="name" v="Rignano Flaminio"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10277"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.rignanoflaminio.rm.it/"/>
     <tag k="wikidata" v="Q243195"/>
     <tag k="wikimedia_commons" v="Category:Rignano Flaminio"/>
     <tag k="wikipedia" v="it:Rignano Flaminio"/>
@@ -11265,12 +11266,15 @@
     <tag k="wikimedia_commons" v="Category:Montelanico"/>
     <tag k="wikipedia" v="it:Montelanico"/>
   </node>
-  <node id="72963662" lat="42.1384107" lon="12.8074769" version="7" timestamp="2016-09-07T18:50:28Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963662" lat="42.1384107" lon="12.8074769" version="8" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4977"/>
     <tag k="name" v="Montorio Romano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1829"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q243008"/>
+    <tag k="wikimedia_commons" v="Category:Montorio Romano"/>
+    <tag k="wikipedia" v="it:Montorio Romano"/>
   </node>
   <node id="72963687" lat="42.1608815" lon="12.7870175" version="5" timestamp="2021-06-29T14:01:12Z" changeset="107152750" uid="12226706" user="MePz">
     <tag k="gfoss_id" v="4982"/>

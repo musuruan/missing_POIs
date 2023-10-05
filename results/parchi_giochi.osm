@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-04T02:19:50Z" areas="2023-10-04T00:04:27Z"/>
+<meta osm_base="2023-10-05T02:20:45Z" areas="2023-10-05T00:10:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6920,14 +6920,6 @@
     <tag k="name" v="Ingria"/>
     <tag k="place" v="village"/>
     <tag k="population" v="61"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63628934" lat="44.8597440" lon="7.9014310" version="5" timestamp="2023-03-19T19:19:47Z" changeset="133870633" uid="417672" user="Guidus">
-    <tag k="gfoss_id" v="203"/>
-    <tag k="name" v="Pralormo"/>
-    <tag k="name:pms" v="Pralorm"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1801"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63628954" lat="45.3527530" lon="7.5960150" version="5" timestamp="2023-01-17T19:53:57Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -16878,13 +16870,6 @@
     <tag k="population" v="5153"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579603" lat="41.2702398" lon="14.3097725" version="3" timestamp="2016-09-02T23:58:40Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5189"/>
-    <tag k="name" v="Dragoni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2108"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68579615" lat="41.1210160" lon="14.3547290" version="2" timestamp="2016-09-02T23:58:39Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5182"/>
     <tag k="name" v="Castel Morrone"/>
@@ -22279,12 +22264,13 @@
     <tag k="population" v="502"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962846" lat="42.2100141" lon="12.4811223" version="5" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
+  <node id="72962846" lat="42.2100141" lon="12.4811223" version="6" timestamp="2023-10-04T13:41:44Z" changeset="142146385" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4993"/>
     <tag k="name" v="Rignano Flaminio"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10277"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.rignanoflaminio.rm.it/"/>
     <tag k="wikidata" v="Q243195"/>
     <tag k="wikimedia_commons" v="Category:Rignano Flaminio"/>
     <tag k="wikipedia" v="it:Rignano Flaminio"/>
@@ -22537,16 +22523,19 @@
     <tag k="wikimedia_commons" v="Category:Licenza"/>
     <tag k="wikipedia" v="it:Licenza (Italia)"/>
   </node>
-  <node id="72963608" lat="42.1598932" lon="12.4368996" version="5" timestamp="2021-01-22T10:14:03Z" changeset="97965421" uid="12500793" user="VALENTINO Bx">
+  <node id="72963608" lat="42.1598932" lon="12.4368996" version="6" timestamp="2023-10-04T13:41:44Z" changeset="142146385" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/ComuneMaglianoRomano"/>
     <tag k="gfoss_id" v="4963"/>
     <tag k="name" v="Magliano Romano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1322"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comunedimaglianoromano.it/"/>
     <tag k="wikidata" v="Q242870"/>
+    <tag k="wikimedia_commons" v="Category:Magliano Romano"/>
     <tag k="wikipedia" v="it:Magliano Romano"/>
   </node>
-  <node id="72963655" lat="42.1081784" lon="12.8303820" version="5" timestamp="2017-09-24T21:24:49Z" changeset="52339770" uid="339581" user="nyuriks">
+  <node id="72963655" lat="42.1081784" lon="12.8303820" version="6" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4972"/>
     <tag k="name" v="Monteflavio"/>
     <tag k="place" v="village"/>
@@ -22555,6 +22544,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.comune.monteflavio.rm.it"/>
     <tag k="wikidata" v="Q142195"/>
+    <tag k="wikimedia_commons" v="Category:Monteflavio"/>
     <tag k="wikipedia" v="it:Monteflavio"/>
   </node>
   <node id="72963658" lat="41.6511170" lon="13.0398930" version="3" timestamp="2023-07-15T12:44:12Z" changeset="138543619" uid="3860151" user="Michele Aquilani">
@@ -22567,12 +22557,15 @@
     <tag k="wikimedia_commons" v="Category:Montelanico"/>
     <tag k="wikipedia" v="it:Montelanico"/>
   </node>
-  <node id="72963662" lat="42.1384107" lon="12.8074769" version="7" timestamp="2016-09-07T18:50:28Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963662" lat="42.1384107" lon="12.8074769" version="8" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4977"/>
     <tag k="name" v="Montorio Romano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1829"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q243008"/>
+    <tag k="wikimedia_commons" v="Category:Montorio Romano"/>
+    <tag k="wikipedia" v="it:Montorio Romano"/>
   </node>
   <node id="72963668" lat="42.2292570" lon="12.5976389" version="3" timestamp="2016-09-07T18:50:28Z" changeset="41986239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4980"/>
@@ -27074,7 +27067,8 @@
     <tag k="place" v="town"/>
     <tag k="population" v="14155"/>
   </node>
-  <node id="2673845419" lat="42.1410780" lon="12.3836686" version="4" timestamp="2023-05-30T22:16:51Z" changeset="136765180" uid="19435570" user="samylamiayasmine">
+  <node id="2673845419" lat="42.1410780" lon="12.3836686" version="5" timestamp="2023-10-04T13:41:44Z" changeset="142146385" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/ComuneCampagnanodiRoma/"/>
     <tag k="ele" v="270"/>
     <tag k="name" v="Campagnano di Roma"/>
     <tag k="place" v="town"/>
@@ -27083,6 +27077,8 @@
     <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="https://www.comunecampagnano.it/"/>
     <tag k="wikidata" v="Q241911"/>
+    <tag k="wikimedia_commons" v="Category:Campagnano di Roma"/>
+    <tag k="wikipedia" v="it:Campagnano di Roma"/>
   </node>
   <node id="2673996091" lat="42.4059662" lon="12.6859706" version="1" timestamp="2014-02-16T01:09:33Z" changeset="20587632" uid="69717" user="kaitu">
     <tag k="name" v="Cottanello"/>
