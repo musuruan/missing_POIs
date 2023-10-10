@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-09T02:15:12Z" areas="2023-10-08T23:14:27Z"/>
+<meta osm_base="2023-10-10T02:15:12Z" areas="2023-10-09T22:59:36Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7709,7 +7709,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="www.comune.montagna.bz.it"/>
   </node>
-  <node id="64777094" lat="46.6565754" lon="11.0414981" version="4" timestamp="2014-09-12T16:12:05Z" changeset="25393968" uid="556498" user="tungstentt">
+  <node id="64777094" lat="46.6565754" lon="11.0414981" version="7" timestamp="2023-10-09T14:12:01Z" changeset="142352143" uid="4238158" user="J-MUC">
     <tag k="gfoss_id" v="2815"/>
     <tag k="is_in" v="Bolzano - Bozen, Trentino-Alto Adige, Italy"/>
     <tag k="name" v="Plaus"/>
@@ -7718,6 +7718,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="547"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.plaus.bz.it/"/>
+    <tag k="wikidata" v="Q474118"/>
+    <tag k="wikimedia_commons" v="Category:Plaus"/>
+    <tag k="wikipedia" v="de:Plaus"/>
   </node>
   <node id="64777120" lat="46.4544136" lon="11.0620153" version="10" timestamp="2020-08-28T16:18:46Z" changeset="90091004" uid="8445331" user="JuaFritz">
     <tag k="gfoss_id" v="2794"/>
@@ -8069,14 +8073,6 @@
     <tag k="name" v="Boara Pisani"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2507"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778403" lat="45.2703747" lon="11.9350857" version="4" timestamp="2016-10-06T18:22:29Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3531"/>
-    <tag k="name" v="Bovolenta"/>
-    <tag k="name:vec" v="Bovołenta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3144"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778420" lat="45.2589890" lon="11.7872090" version="2" timestamp="2016-10-06T18:22:34Z" changeset="42691939" uid="743479" user="fayor">
