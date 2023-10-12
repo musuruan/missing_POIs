@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-11T02:13:59Z" areas="2023-10-10T22:52:17Z"/>
+<meta osm_base="2023-10-12T02:13:16Z" areas="2023-10-11T22:50:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4269,13 +4269,6 @@
     <tag k="population" v="1083"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284293" lat="41.5667230" lon="14.1126180" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7585"/>
-    <tag k="name" v="Montaquila"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2474"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284301" lat="41.5216230" lon="14.2456210" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7581"/>
     <tag k="name" v="Longano"/>
@@ -6936,8 +6929,7 @@
     <tag k="population" v="159"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991197" lat="42.2233727" lon="14.2148103" version="5" timestamp="2023-09-30T06:12:32Z" changeset="141937682" uid="1940323" user="SekeRob">
-    <tag k="San" v="Martino"/>
+  <node id="70991197" lat="42.2233727" lon="14.2148103" version="6" timestamp="2023-10-11T07:38:05Z" changeset="142423613" uid="616774" user="mueschel">
     <tag k="check_date" v="2023-01-01"/>
     <tag k="ele" v="480"/>
     <tag k="gfoss_id" v="5990"/>
@@ -6947,7 +6939,6 @@
     <tag k="postal_code" v="66010"/>
     <tag k="ref:ISTAT" v="069082"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="sulla" v="Marrucina"/>
     <tag k="website" v="http://www.sanmartinosm.it/c069082/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20002"/>
   </node>
   <node id="70991247" lat="41.9687447" lon="14.3753527" version="4" timestamp="2020-07-09T14:40:56Z" changeset="87771319" uid="10124288" user="damianeue">
@@ -7127,13 +7118,6 @@
     <tag k="name" v="Torrebruna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1173"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70992156" lat="42.0245340" lon="14.2591150" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6003"/>
-    <tag k="name" v="Torricella Peligna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1587"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70992186" lat="41.9410059" lon="13.4129688" version="5" timestamp="2020-11-15T22:46:27Z" changeset="94167738" uid="364" user="Edward">
@@ -8806,12 +8790,15 @@
     <tag k="wikidata" v="Q30026182"/>
     <tag k="wikipedia" v="it:Gradoli"/>
   </node>
-  <node id="72963802" lat="42.4144251" lon="12.3464168" version="4" timestamp="2022-05-17T19:36:48Z" changeset="121115352" uid="3151555" user="Dino Michelini">
+  <node id="72963802" lat="42.4144251" lon="12.3464168" version="5" timestamp="2023-10-11T08:01:22Z" changeset="142424527" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4833"/>
     <tag k="name" v="Vasanello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3890"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q180074"/>
+    <tag k="wikimedia_commons" v="Category:Vasanello"/>
+    <tag k="wikipedia" v="it:Vasanello"/>
   </node>
   <node id="72963887" lat="42.4782061" lon="11.7904865" version="3" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4829"/>
@@ -8883,12 +8870,18 @@
     <tag k="population" v="1686"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72964353" lat="42.4654270" lon="12.1724620" version="2" timestamp="2016-09-07T16:51:18Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72964353" lat="42.4654270" lon="12.1724620" version="3" timestamp="2023-10-11T05:25:55Z" changeset="142418888" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunedivitorchiano"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/visit_vitorchiano"/>
     <tag k="gfoss_id" v="4838"/>
     <tag k="name" v="Vitorchiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3214"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.vitorchiano.vt.it/home"/>
+    <tag k="wikidata" v="Q180355"/>
+    <tag k="wikimedia_commons" v="Category:Vitorchiano"/>
+    <tag k="wikipedia" v="it:Vitorchiano"/>
   </node>
   <node id="72964374" lat="42.4628240" lon="11.8206550" version="2" timestamp="2016-09-07T16:51:05Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4780"/>

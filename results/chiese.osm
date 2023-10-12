@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-11T02:14:59Z" areas="2023-10-10T22:52:17Z"/>
+<meta osm_base="2023-10-12T02:14:13Z" areas="2023-10-11T22:50:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1159,16 +1159,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="188"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63627342" lat="44.6287340" lon="7.3473230" version="4" timestamp="2021-08-28T06:04:51Z" changeset="110367151" uid="9006927" user="francians">
-    <tag k="gfoss_id" v="583"/>
-    <tag k="name" v="Gambasca"/>
-    <tag k="name:oc" v="Gambasca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="346"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="wikidata" v="Q30025981"/>
   </node>
   <node id="63627370" lat="44.5599370" lon="7.8821360" version="5" timestamp="2023-01-17T19:45:49Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="596"/>
@@ -4002,13 +3992,6 @@
     <tag k="population" v="1083"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284293" lat="41.5667230" lon="14.1126180" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7585"/>
-    <tag k="name" v="Montaquila"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2474"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284310" lat="41.4951210" lon="14.0068160" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7575"/>
     <tag k="name" v="Conca Casale"/>
@@ -6667,8 +6650,7 @@
     <tag k="population" v="159"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991197" lat="42.2233727" lon="14.2148103" version="5" timestamp="2023-09-30T06:12:32Z" changeset="141937682" uid="1940323" user="SekeRob">
-    <tag k="San" v="Martino"/>
+  <node id="70991197" lat="42.2233727" lon="14.2148103" version="6" timestamp="2023-10-11T07:38:05Z" changeset="142423613" uid="616774" user="mueschel">
     <tag k="check_date" v="2023-01-01"/>
     <tag k="ele" v="480"/>
     <tag k="gfoss_id" v="5990"/>
@@ -6678,7 +6660,6 @@
     <tag k="postal_code" v="66010"/>
     <tag k="ref:ISTAT" v="069082"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="sulla" v="Marrucina"/>
     <tag k="website" v="http://www.sanmartinosm.it/c069082/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20002"/>
   </node>
   <node id="70991298" lat="41.9383330" lon="14.3236170" version="2" timestamp="2016-09-07T16:52:20Z" changeset="41983597" uid="743479" user="fayor">

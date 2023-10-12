@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-11T02:16:53Z" areas="2023-10-10T22:52:17Z"/>
+<meta osm_base="2023-10-12T02:16:25Z" areas="2023-10-11T22:50:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -20203,8 +20203,7 @@
     <tag k="population" v="1202"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991197" lat="42.2233727" lon="14.2148103" version="5" timestamp="2023-09-30T06:12:32Z" changeset="141937682" uid="1940323" user="SekeRob">
-    <tag k="San" v="Martino"/>
+  <node id="70991197" lat="42.2233727" lon="14.2148103" version="6" timestamp="2023-10-11T07:38:05Z" changeset="142423613" uid="616774" user="mueschel">
     <tag k="check_date" v="2023-01-01"/>
     <tag k="ele" v="480"/>
     <tag k="gfoss_id" v="5990"/>
@@ -20214,7 +20213,6 @@
     <tag k="postal_code" v="66010"/>
     <tag k="ref:ISTAT" v="069082"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="sulla" v="Marrucina"/>
     <tag k="website" v="http://www.sanmartinosm.it/c069082/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20002"/>
   </node>
   <node id="70991247" lat="41.9687447" lon="14.3753527" version="4" timestamp="2020-07-09T14:40:56Z" changeset="87771319" uid="10124288" user="damianeue">
@@ -22608,12 +22606,15 @@
     <tag k="wikimedia_commons" v="Category:Rocca di Cave"/>
     <tag k="wikipedia" v="it:Rocca di Cave"/>
   </node>
-  <node id="72963718" lat="42.2902415" lon="12.2138064" version="5" timestamp="2016-09-07T16:51:15Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72963718" lat="42.2902415" lon="12.2138064" version="6" timestamp="2023-10-11T08:01:22Z" changeset="142424527" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4823"/>
     <tag k="name" v="Ronciglione"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8669"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q177695"/>
+    <tag k="wikimedia_commons" v="Category:Ronciglione"/>
+    <tag k="wikipedia" v="it:Ronciglione"/>
   </node>
   <node id="72963747" lat="42.5446546" lon="11.7540140" version="5" timestamp="2019-08-22T09:33:39Z" changeset="73613648" uid="178610" user="Pab09">
     <tag k="gfoss_id" v="4809"/>
@@ -22737,12 +22738,15 @@
     <tag k="wikimedia_commons" v="Category:Nepi"/>
     <tag k="wikipedia" v="it:Nepi"/>
   </node>
-  <node id="72964280" lat="42.3838260" lon="12.2767660" version="2" timestamp="2016-09-07T16:51:17Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72964280" lat="42.3838260" lon="12.2767660" version="3" timestamp="2023-10-11T08:01:22Z" changeset="142424527" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4836"/>
     <tag k="name" v="Vignanello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4705"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q180295"/>
+    <tag k="wikimedia_commons" v="Category:Vignanello"/>
+    <tag k="wikipedia" v="it:Vignanello"/>
   </node>
   <node id="72964295" lat="42.3205336" lon="12.0575000" version="6" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4835"/>
@@ -22761,13 +22765,14 @@
     <tag k="population" v="4277"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72964320" lat="42.4660738" lon="12.3130342" version="6" timestamp="2017-05-11T12:41:14Z" changeset="48591149" uid="3151555" user="Dino Michelini">
+  <node id="72964320" lat="42.4660738" lon="12.3130342" version="7" timestamp="2023-10-11T05:25:55Z" changeset="142418888" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4784"/>
     <tag k="name" v="Bassano in Teverina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1134"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q159529"/>
+    <tag k="wikimedia_commons" v="Category:Bassano in Teverina"/>
     <tag k="wikipedia" v="it:Bassano in Teverina"/>
   </node>
   <node id="72964333" lat="42.5465270" lon="11.9047550" version="2" timestamp="2016-09-07T16:51:07Z" changeset="41983557" uid="743479" user="fayor">
@@ -22777,12 +22782,18 @@
     <tag k="population" v="1686"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72964353" lat="42.4654270" lon="12.1724620" version="2" timestamp="2016-09-07T16:51:18Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72964353" lat="42.4654270" lon="12.1724620" version="3" timestamp="2023-10-11T05:25:55Z" changeset="142418888" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunedivitorchiano"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/visit_vitorchiano"/>
     <tag k="gfoss_id" v="4838"/>
     <tag k="name" v="Vitorchiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3214"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.vitorchiano.vt.it/home"/>
+    <tag k="wikidata" v="Q180355"/>
+    <tag k="wikimedia_commons" v="Category:Vitorchiano"/>
+    <tag k="wikipedia" v="it:Vitorchiano"/>
   </node>
   <node id="72964365" lat="42.7439961" lon="11.8649880" version="3" timestamp="2016-09-07T16:51:05Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4779"/>
@@ -27057,10 +27068,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="5722"/>
   </node>
-  <node id="2670875919" lat="42.4187606" lon="12.2343075" version="3" timestamp="2019-09-03T14:33:19Z" changeset="74045048" uid="3151555" user="Dino Michelini">
+  <node id="2670875919" lat="42.4187606" lon="12.2343075" version="4" timestamp="2023-10-11T08:01:22Z" changeset="142424527" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Soriano nel Cimino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8403"/>
+    <tag k="wikidata" v="Q177728"/>
+    <tag k="wikimedia_commons" v="Category:Soriano nel Cimino"/>
+    <tag k="wikipedia" v="it:Soriano nel Cimino"/>
   </node>
   <node id="2672321412" lat="40.9864545" lon="14.1753318" version="2" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="name" v="San Marcellino"/>
