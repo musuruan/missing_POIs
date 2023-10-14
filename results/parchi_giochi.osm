@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-13T02:21:17Z" areas="2023-10-12T21:23:51Z"/>
+<meta osm_base="2023-10-14T02:15:00Z" areas="2023-10-13T21:08:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3276,13 +3276,6 @@
     <tag k="population" v="6000"/>
     <tag k="wikidata" v="Q41045"/>
   </node>
-  <node id="62515276" lat="45.2479670" lon="9.2950540" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2463"/>
-    <tag k="name" v="Marzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1025"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62515284" lat="45.3119680" lon="9.2600520" version="2" timestamp="2021-08-12T15:22:37Z" changeset="109580649" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2454"/>
     <tag k="name" v="Landriano"/>
@@ -3504,7 +3497,7 @@
     <tag k="ref:ISTAT" v="018154"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515792" lat="45.2829650" lon="9.0354470" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515792" lat="45.2823808" lon="9.0349112" version="3" timestamp="2023-10-13T08:44:09Z" changeset="142512411" uid="20456925" user="pavia212">
     <tag k="gfoss_id" v="2541"/>
     <tag k="name" v="Trovo"/>
     <tag k="place" v="village"/>
@@ -3736,12 +3729,11 @@
     <tag k="population" v="226"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516878" lat="45.2884660" lon="9.0902480" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2503"/>
+  <node id="62516878" lat="45.2877916" lon="9.0898708" version="3" timestamp="2023-10-13T08:44:09Z" changeset="142512411" uid="20456925" user="pavia212">
+    <tag k="ele" v="95"/>
     <tag k="name" v="Rognano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="194"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="347"/>
   </node>
   <node id="62516885" lat="44.9307667" lon="9.0141590" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2498"/>
@@ -19185,7 +19177,7 @@
     <tag k="ref:LOCODE" v="ITTOO"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301675" lat="44.4841580" lon="10.3374900" version="2" timestamp="2016-09-21T13:17:31Z" changeset="42322913" uid="743479" user="fayor">
+  <node id="69301675" lat="44.4843413" lon="10.3414194" version="3" timestamp="2023-10-13T22:12:10Z" changeset="142549524" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="3976"/>
     <tag k="name" v="Vetto"/>
     <tag k="place" v="village"/>
