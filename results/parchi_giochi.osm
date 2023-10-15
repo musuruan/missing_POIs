@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-14T02:15:00Z" areas="2023-10-13T21:08:01Z"/>
+<meta osm_base="2023-10-15T02:21:00Z" areas="2023-10-14T20:53:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -14622,13 +14622,6 @@
     <tag k="population" v="608"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284282" lat="41.6451260" lon="14.2463200" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7584"/>
-    <tag k="name" v="Miranda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1083"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284306" lat="41.5616240" lon="14.1671190" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7582"/>
     <tag k="name" v="Macchia d'Isernia"/>
@@ -15898,20 +15891,6 @@
     <tag k="population" v="11311"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566148" lat="40.9141958" lon="14.7888764" version="31" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
-    <tag k="capital" v="6"/>
-    <tag k="ele" v="348"/>
-    <tag k="gfoss_id" v="5438"/>
-    <tag k="name" v="Avellino"/>
-    <tag k="name:el" v="Αβελλίνο"/>
-    <tag k="name:ru" v="Авеллино"/>
-    <tag k="name:zh" v="阿韋利諾"/>
-    <tag k="place" v="city"/>
-    <tag k="population" v="54847"/>
-    <tag k="postal_code" v="83100"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q13433"/>
-  </node>
   <node id="68566172" lat="40.9603160" lon="14.7772400" version="2" timestamp="2016-09-01T23:10:02Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5448"/>
     <tag k="name" v="Capriglia Irpina"/>
@@ -16591,13 +16570,14 @@
     <tag k="population" v="1065"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68568911" lat="41.2233762" lon="14.4507163" version="4" timestamp="2022-10-17T16:41:51Z" changeset="127682676" uid="10622815" user="Italian Technology">
+  <node id="68568911" lat="41.2233762" lon="14.4507163" version="5" timestamp="2023-10-14T18:44:50Z" changeset="142588653" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5315"/>
     <tag k="is_in" v="Benevento, Campania, Italy"/>
     <tag k="name" v="Puglianello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1411"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="68569099" lat="41.2773665" lon="14.5428321" version="3" timestamp="2020-11-02T15:45:59Z" changeset="93428965" uid="1258547" user="Decan">
     <tag k="gfoss_id" v="5321"/>

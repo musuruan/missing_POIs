@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-14T02:14:00Z" areas="2023-10-13T21:08:01Z"/>
+<meta osm_base="2023-10-15T02:19:59Z" areas="2023-10-14T22:27:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1398,13 +1398,6 @@
     <tag k="wikimedia_commons" v="Category:Baranzate"/>
     <tag k="wikipedia" v="it:Baranzate"/>
   </node>
-  <node id="62514869" lat="45.3563600" lon="9.3497623" version="3" timestamp="2020-03-04T23:07:08Z" changeset="81795128" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="1921"/>
-    <tag k="name" v="Vizzolo Predabissi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4023"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62514970" lat="45.7351441" lon="9.2726297" version="8" timestamp="2015-08-05T13:15:30Z" changeset="33127800" uid="1008491" user="CapovolgimentoOceanico">
     <tag k="gfoss_id" v="1912"/>
     <tag k="name" v="Veduggio"/>
@@ -2789,14 +2782,6 @@
     <tag k="wikidata" v="Q17862"/>
     <tag k="wikipedia" v="it:San Marzano Oliveto"/>
   </node>
-  <node id="63624967" lat="45.5050630" lon="8.2067250" version="4" timestamp="2023-01-17T19:57:59Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="7723"/>
-    <tag k="name" v="Mottalciata"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1416"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63624998" lat="45.6868680" lon="8.2467220" version="6" timestamp="2023-01-17T19:57:08Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="ele" v="377"/>
     <tag k="gfoss_id" v="7708"/>
@@ -3483,14 +3468,6 @@
     <tag k="population" v="418"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029247"/>
-  </node>
-  <node id="63632131" lat="45.3966831" lon="8.3482841" version="7" timestamp="2023-01-17T20:04:38Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="341"/>
-    <tag k="name" v="Collobiano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="114"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q25009"/>
   </node>
   <node id="63632222" lat="45.2814818" lon="8.0821574" version="7" timestamp="2023-01-17T19:56:46Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="capital" v="8"/>
@@ -7108,13 +7085,6 @@
     <tag k="population" v="608"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284282" lat="41.6451260" lon="14.2463200" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7584"/>
-    <tag k="name" v="Miranda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1083"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284310" lat="41.4951210" lon="14.0068160" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7575"/>
     <tag k="name" v="Conca Casale"/>
@@ -8195,13 +8165,14 @@
     <tag k="population" v="1476"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68568911" lat="41.2233762" lon="14.4507163" version="4" timestamp="2022-10-17T16:41:51Z" changeset="127682676" uid="10622815" user="Italian Technology">
+  <node id="68568911" lat="41.2233762" lon="14.4507163" version="5" timestamp="2023-10-14T18:44:50Z" changeset="142588653" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5315"/>
     <tag k="is_in" v="Benevento, Campania, Italy"/>
     <tag k="name" v="Puglianello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1411"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="68569099" lat="41.2773665" lon="14.5428321" version="3" timestamp="2020-11-02T15:45:59Z" changeset="93428965" uid="1258547" user="Decan">
     <tag k="gfoss_id" v="5321"/>
@@ -14072,15 +14043,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2716"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="2306495298" lat="45.4808622" lon="8.2671277" version="5" timestamp="2023-01-17T20:06:02Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="329"/>
-    <tag k="name" v="Buronzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="951"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q24912"/>
   </node>
   <node id="2321700505" lat="45.0665244" lon="11.4509909" version="3" timestamp="2021-05-02T13:30:44Z" changeset="103995272" uid="504502" user="kkklllppp">
     <tag k="name" v="Baruchella"/>
