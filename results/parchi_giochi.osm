@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-15T02:21:00Z" areas="2023-10-14T20:53:00Z"/>
+<meta osm_base="2023-10-16T02:20:30Z" areas="2023-10-15T22:17:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1305,8 +1305,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikipedia" v="it:Vallio Terme"/>
   </node>
-  <node id="62508458" lat="45.7469870" lon="10.2405650" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508458" lat="45.7469870" lon="10.2405650" version="3" timestamp="2023-10-15T13:49:05Z" changeset="142618860" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2353"/>
+    <tag k="loc_name" v="Taérnole"/>
     <tag k="name" v="Tavernole sul Mella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1346"/>
@@ -3283,12 +3284,10 @@
     <tag k="population" v="4171"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515292" lat="45.1786091" lon="8.9940314" version="12" timestamp="2023-06-14T14:16:52Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="2452"/>
+  <node id="62515292" lat="45.1771055" lon="8.9918812" version="13" timestamp="2023-10-15T12:03:22Z" changeset="142614644" uid="20456925" user="pavia212">
     <tag k="name" v="Gropello Cairoli"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="4105"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q39750"/>
   </node>
   <node id="62515300" lat="45.0406600" lon="9.0813530" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
@@ -3356,12 +3355,10 @@
     <tag k="ref:ISTAT" v="018067"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515457" lat="45.3655599" lon="8.8100884" version="11" timestamp="2023-06-14T14:28:48Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="2411"/>
+  <node id="62515457" lat="45.3658449" lon="8.8092037" version="12" timestamp="2023-10-15T12:23:21Z" changeset="142615331" uid="20456925" user="pavia212">
     <tag k="name" v="Cassolnovo"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="5820"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515465" lat="45.1242222" lon="9.2078009" version="11" timestamp="2020-11-29T17:29:53Z" changeset="94992907" uid="1720269" user="IlBano">
     <tag k="ele" v="62"/>
@@ -3742,12 +3739,10 @@
     <tag k="population" v="5336"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516890" lat="45.2899709" lon="8.5932785" version="12" timestamp="2023-06-14T14:15:48Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="2499"/>
+  <node id="62516890" lat="45.2899709" lon="8.5932785" version="13" timestamp="2023-10-15T12:29:50Z" changeset="142615537" uid="20456925" user="pavia212">
     <tag k="name" v="Robbio"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="6159"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q39849"/>
   </node>
   <node id="62516905" lat="45.2470610" lon="8.6444390" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
@@ -7758,10 +7753,11 @@
     <tag k="population" v="257"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63632158" lat="45.3094496" lon="8.0209788" version="7" timestamp="2023-01-17T20:01:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63632158" lat="45.3094496" lon="8.0209788" version="8" timestamp="2023-10-15T16:00:34Z" changeset="142624577" uid="417672" user="Guidus">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="339"/>
     <tag k="name" v="Cigliano"/>
+    <tag k="name:pms" v="Sian"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4523"/>
     <tag k="source" v="geodati.gfoss.it"/>

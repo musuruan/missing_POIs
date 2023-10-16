@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-15T02:19:59Z" areas="2023-10-14T22:27:28Z"/>
+<meta osm_base="2023-10-16T02:19:25Z" areas="2023-10-15T22:17:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1386,13 +1386,13 @@
     <tag k="population" v="17134"/>
     <tag k="wikidata" v="Q43042"/>
   </node>
-  <node id="62514856" lat="45.5278124" lon="9.1169467" version="21" timestamp="2023-06-14T21:53:02Z" changeset="137346399" uid="19497998" user="branco-revert">
+  <node id="62514856" lat="45.5266783" lon="9.1169782" version="22" timestamp="2023-10-15T10:50:29Z" changeset="142611988" uid="20472664" user="user_20472664">
     <tag k="alt_name" v="Baranzate di Bollate"/>
     <tag k="ele" v="144"/>
     <tag k="name" v="Baranzate"/>
     <tag k="name:lmo" v="Baranzaa"/>
     <tag k="name:lmo:pronunciation" v="barãˈtsɑː"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="11700"/>
     <tag k="wikidata" v="Q30022559"/>
     <tag k="wikimedia_commons" v="Category:Baranzate"/>
@@ -1575,12 +1575,10 @@
     <tag k="population" v="969"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515457" lat="45.3655599" lon="8.8100884" version="11" timestamp="2023-06-14T14:28:48Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="2411"/>
+  <node id="62515457" lat="45.3658449" lon="8.8092037" version="12" timestamp="2023-10-15T12:23:21Z" changeset="142615331" uid="20456925" user="pavia212">
     <tag k="name" v="Cassolnovo"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="5820"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515459" lat="45.3123851" lon="9.0179614" version="5" timestamp="2022-07-17T21:34:38Z" changeset="123736155" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Casorate Primo"/>
@@ -2979,14 +2977,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031334"/>
   </node>
-  <node id="63626110" lat="44.7350191" lon="7.9796685" version="6" timestamp="2023-01-17T19:51:24Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="657"/>
-    <tag k="name" v="Piobesi d'Alba"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1027"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30028897"/>
-  </node>
   <node id="63626138" lat="44.5993410" lon="8.2130420" version="4" timestamp="2023-01-17T19:50:20Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="650"/>
     <tag k="name" v="Perletto"/>
@@ -3023,14 +3013,6 @@
     <tag k="population" v="254"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q56709625"/>
-  </node>
-  <node id="63626558" lat="44.7636401" lon="7.9961339" version="6" timestamp="2023-01-17T19:45:26Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="730"/>
-    <tag k="name" v="Vezza d'Alba"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2073"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031674"/>
   </node>
   <node id="63626636" lat="44.7871846" lon="8.0616451" version="8" timestamp="2023-01-17T19:45:08Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="665"/>
