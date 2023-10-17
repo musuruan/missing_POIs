@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-16T02:17:20Z" areas="2023-10-16T01:22:45Z"/>
+<meta osm_base="2023-10-17T02:15:59Z" areas="2023-10-17T01:11:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7354,7 +7354,7 @@
     <tag k="population" v="682"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776637" lat="46.3769434" lon="11.6592663" version="35" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <node id="64776637" lat="46.3769434" lon="11.6592663" version="36" timestamp="2023-10-16T18:53:45Z" changeset="142679937" uid="4238158" user="J-MUC">
     <tag k="name" v="Moena"/>
     <tag k="name:de" v="Moyen"/>
     <tag k="name:it" v="Moena"/>
@@ -7362,6 +7362,9 @@
     <tag k="name:ru" v="Моена"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2602"/>
+    <tag k="wikidata" v="Q30027591"/>
+    <tag k="wikimedia_commons" v="Category:Moena (town)"/>
+    <tag k="wikipedia" v="de:Moena"/>
   </node>
   <node id="64776653" lat="46.4187281" lon="11.1407924" version="9" timestamp="2021-03-28T18:19:00Z" changeset="101884805" uid="8445331" user="JuaFritz">
     <tag k="gfoss_id" v="3034"/>
@@ -21703,19 +21706,16 @@
     <tag k="wikidata" v="Q47661"/>
     <tag k="wikipedia" v="it:Roverchiara"/>
   </node>
-  <node id="1545004822" lat="45.1812743" lon="9.4893475" version="6" timestamp="2020-03-01T00:47:10Z" changeset="81633379" uid="478872" user="mcheck">
+  <node id="1545004822" lat="45.1812743" lon="9.4893475" version="7" timestamp="2023-10-16T10:26:10Z" changeset="142657648" uid="20456925" user="pavia212">
     <tag k="addr:city" v="San Colombano al Lambro"/>
     <tag k="addr:country" v="IT"/>
     <tag k="addr:housenumber" v="47"/>
     <tag k="addr:postcode" v="20078"/>
     <tag k="addr:street" v="Via Giuseppe Monti"/>
     <tag k="amenity" v="townhall"/>
-    <tag k="fax" v="+39 0371 897965"/>
-    <tag k="gfoss_id" v="1882"/>
+    <tag k="fax" v="+390371897965"/>
+    <tag k="name" v="Municipio di San Colombano al Lambro"/>
     <tag k="phone" v="+39 0371 2931"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7258"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.comune.sancolombanoallambro.mi.it/;https://www.comune.sancolombanoallambro.mi.it/"/>
   </node>
   <node id="1604713279" lat="46.6429892" lon="11.3566211" version="8" timestamp="2017-05-08T08:22:55Z" changeset="48494526" uid="115612" user="tyr_asd">
