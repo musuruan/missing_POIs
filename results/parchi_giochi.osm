@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-18T02:18:44Z" areas="2023-10-18T01:00:36Z"/>
+<meta osm_base="2023-10-19T02:18:15Z" areas="2023-10-18T22:12:26Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5272,12 +5272,14 @@
     <tag k="wikidata" v="Q17806"/>
     <tag k="wikipedia" v="it:Costigliole d'Asti"/>
   </node>
-  <node id="63623561" lat="44.8228489" lon="8.3588889" version="5" timestamp="2022-12-25T14:21:39Z" changeset="130484119" uid="2976645" user="Jrachi">
+  <node id="63623561" lat="44.8228489" lon="8.3588889" version="6" timestamp="2023-10-18T11:31:00Z" changeset="142758378" uid="1940323" user="SekeRob">
+    <tag k="check_date" v="2021-12-31"/>
     <tag k="gfoss_id" v="786"/>
     <tag k="name" v="Cortiglione"/>
     <tag k="name:pms" v="Corgèli"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="568"/>
+    <tag k="population" v="536"/>
+    <tag k="postal_code" v="14040"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17804"/>
     <tag k="wikipedia" v="it:Cortiglione"/>
@@ -22638,12 +22640,15 @@
     <tag k="population" v="2151"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72964123" lat="42.6449715" lon="12.2038975" version="4" timestamp="2016-09-07T16:51:08Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72964123" lat="42.6449715" lon="12.2038975" version="5" timestamp="2023-10-18T14:52:17Z" changeset="142767724" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4796"/>
     <tag k="name" v="Castiglione in Teverina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2413"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q160282"/>
+    <tag k="wikimedia_commons" v="Category:Castiglione in Teverina"/>
+    <tag k="wikipedia" v="it:Castiglione in Teverina"/>
   </node>
   <node id="72964185" lat="42.7571602" lon="11.8302614" version="4" timestamp="2022-03-13T17:18:33Z" changeset="118437701" uid="3335899" user="GBAB">
     <tag k="gfoss_id" v="4822"/>
@@ -26482,13 +26487,6 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q3738823"/>
     <tag k="wikipedia" v="it:Falzè"/>
-  </node>
-  <node id="1412962093" lat="45.0419243" lon="10.9282948" version="7" timestamp="2017-08-05T14:23:40Z" changeset="50864217" uid="504502" user="kkklllppp">
-    <tag k="name" v="San Benedetto Po"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7791"/>
-    <tag k="wikidata" v="Q42943"/>
-    <tag k="wikipedia" v="it:San Benedetto Po"/>
   </node>
   <node id="1431755301" lat="37.7831794" lon="14.0410513" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="istat_id" v="2147483647"/>
