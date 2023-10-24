@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-23T02:18:06Z" areas="2023-10-22T21:54:45Z"/>
+<meta osm_base="2023-10-24T02:16:33Z" areas="2023-10-24T00:00:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1332,12 +1332,14 @@
     <tag k="wikidata" v="Q39836"/>
     <tag k="wikipedia" v="it:Camparada"/>
   </node>
-  <node id="62514579" lat="45.0599560" lon="8.6709430" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2532"/>
+  <node id="62514579" lat="45.0610812" lon="8.6719513" version="4" timestamp="2023-10-23T10:23:15Z" changeset="143010450" uid="20456925" user="pavia212">
+    <tag k="alt_name" v="Torreberetti"/>
+    <tag k="ele" v="89"/>
     <tag k="name" v="Torre Beretti"/>
+    <tag k="name:lmo" v="La Tur"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="558"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q49291713"/>
+    <tag k="wikipedia" v="it:Torre Beretti e Castellaro"/>
   </node>
   <node id="62514649" lat="45.0009590" lon="9.1034540" version="3" timestamp="2023-02-27T21:40:26Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2471"/>
@@ -10887,13 +10889,6 @@
     <tag k="population" v="1081"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961877" lat="42.4060330" lon="13.0592830" version="2" timestamp="2016-09-07T16:51:06Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4846"/>
-    <tag k="name" v="Borgo Velino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="922"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72961965" lat="42.3559280" lon="12.5949730" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4905"/>
     <tag k="name" v="Tarano"/>
@@ -11293,7 +11288,7 @@
     <tag k="wikipedia" v="it:Armungia"/>
     <tag k="wikipedia:sc" v="Armùngia"/>
   </node>
-  <node id="72990791" lat="39.2915380" lon="9.0015420" version="49" timestamp="2018-07-16T19:06:14Z" changeset="60773809" uid="2589877" user="kent1D">
+  <node id="72990791" lat="39.2915380" lon="9.0015420" version="50" timestamp="2023-10-23T17:03:03Z" changeset="143027496" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7400"/>
     <tag k="int_name" v="Assemini"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
@@ -11304,7 +11299,7 @@
     <tag k="population" v="23973"/>
     <tag k="postal_code" v="09032"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.assemini.ca.it/"/>
+    <tag k="website" v="https://www.comune.assemini.ca.it/"/>
     <tag k="wikidata" v="Q283609"/>
     <tag k="wikipedia" v="sc:Assèmini"/>
     <tag k="wikipedia:it" v="Assemini"/>
@@ -11692,7 +11687,7 @@
     <tag k="wikipedia" v="it:Villaperuccio"/>
     <tag k="wikipedia:sc" v="Sa Baronia"/>
   </node>
-  <node id="72991201" lat="39.3352380" lon="8.9152400" version="41" timestamp="2017-03-01T21:24:43Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991201" lat="39.3352380" lon="8.9152400" version="42" timestamp="2023-10-23T17:01:42Z" changeset="143027430" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Dèximu Putzu"/>
     <tag k="alt_name_1" v="Deximuputzu"/>
     <tag k="gfoss_id" v="7413"/>
@@ -11704,7 +11699,7 @@
     <tag k="postal_code" v="09010"/>
     <tag k="ref:LOCODE" v="ITDMP"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.decimoputzu.ca.it/"/>
+    <tag k="website" v="https://www.comune.decimoputzu.ca.it/"/>
     <tag k="wikidata" v="Q283857"/>
     <tag k="wikipedia" v="it:Decimoputzu"/>
     <tag k="wikipedia:sc" v="Deximeputzu"/>
@@ -11776,7 +11771,7 @@
     <tag k="wikipedia" v="it:Donori"/>
     <tag k="wikipedia:sc" v="Donori"/>
   </node>
-  <node id="72991358" lat="39.1681654" lon="8.6747138" version="41" timestamp="2017-03-03T19:53:51Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7438"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
     <tag k="name" v="Narcau/Narcao"/>
@@ -11786,7 +11781,7 @@
     <tag k="population" v="3365"/>
     <tag k="postal_code" v="09010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.narcao.ci.it/"/>
+    <tag k="website" v="https://www.comune.narcao.ci.it/"/>
     <tag k="website_1" v="http://www.comunenarcao.it/"/>
     <tag k="wikidata" v="Q286398"/>
     <tag k="wikipedia" v="it:Narcao"/>
@@ -11852,7 +11847,7 @@
     <tag k="wikipedia" v="it:Lunamatrona"/>
     <tag k="wikipedia:sc" v="Lunamatrona"/>
   </node>
-  <node id="72991420" lat="39.1610330" lon="8.6114360" version="39" timestamp="2017-03-03T19:53:52Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72991420" lat="39.1610330" lon="8.6114360" version="40" timestamp="2023-10-23T17:03:29Z" changeset="143027520" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7444"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
     <tag k="name" v="Perdaxius"/>
@@ -11862,7 +11857,7 @@
     <tag k="population" v="1465"/>
     <tag k="postal_code" v="09010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.perdaxius.ci.it/"/>
+    <tag k="website" v="https://www.comune.perdaxius.ci.it/"/>
     <tag k="wikidata" v="Q286601"/>
     <tag k="wikipedia" v="it:Perdaxius"/>
     <tag k="wikipedia:sc" v="Perdaxius"/>
@@ -12087,7 +12082,7 @@
     <tag k="wikipedia" v="it:Villanovaforru"/>
     <tag k="wikipedia:sc" v="Biddanoa de Forru"/>
   </node>
-  <node id="72991715" lat="39.2909789" lon="8.9542602" version="43" timestamp="2017-03-01T21:24:48Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991715" lat="39.2909789" lon="8.9542602" version="44" timestamp="2023-10-23T17:04:20Z" changeset="143027567" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7487"/>
     <tag k="name" v="Uda/Uta"/>
     <tag k="name:it" v="Uta"/>
@@ -12098,7 +12093,7 @@
     <tag k="postal_code" v="09010"/>
     <tag k="ref:LOCODE" v="ITZVV"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.uta.ca.it/"/>
+    <tag k="website" v="https://www.comune.uta.ca.it/"/>
     <tag k="wikidata" v="Q285455"/>
     <tag k="wikipedia" v="it:Uta (Italia)"/>
     <tag k="wikipedia:sc" v="Uda"/>
