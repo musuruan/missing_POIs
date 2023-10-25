@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-24T02:17:36Z" areas="2023-10-24T00:00:34Z"/>
+<meta osm_base="2023-10-25T02:18:06Z" areas="2023-10-24T23:51:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10304,13 +10304,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="11820"/>
     <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67253780" lat="37.2962200" lon="13.7915674" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Naro"/>
-    <tag k="name:scn" v="Naru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7006"/>
-    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67253785" lat="37.7022410" lon="12.9858420" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Montevago"/>
@@ -22838,7 +22831,7 @@
     <tag k="wikipedia" v="it:Barrali"/>
     <tag k="wikipedia:sc" v="Barrali"/>
   </node>
-  <node id="72990841" lat="39.1426981" lon="8.3026639" version="48" timestamp="2017-03-01T21:24:40Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72990841" lat="39.1426981" lon="8.3026639" version="49" timestamp="2023-10-25T00:05:41Z" changeset="143088258" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7410"/>
     <tag k="name" v="U Pàize/Carloforte"/>
     <tag k="name:it" v="Carloforte"/>
@@ -22848,7 +22841,7 @@
     <tag k="population" v="6444"/>
     <tag k="ref:LOCODE" v="ITCLF"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.carloforte.ca.it/"/>
+    <tag k="website" v="https://www.comune.carloforte.ca.it/"/>
     <tag k="wikidata" v="Q120399"/>
     <tag k="wikipedia" v="it:Carloforte"/>
   </node>
@@ -26503,8 +26496,7 @@
     <tag k="name" v="Chambave"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="1680027321" lat="45.4167873" lon="9.3982408" version="3" timestamp="2019-03-24T13:10:46Z" changeset="68470502" uid="9451067" user="b-jazz-bot">
-    <tag k="addr:postcode" v="20067"/>
+  <node id="1680027321" lat="45.4169633" lon="9.3991796" version="4" timestamp="2023-10-24T17:22:44Z" changeset="143075899" uid="20500231" user="fabiotolni">
     <tag k="name" v="Paullo"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11132"/>

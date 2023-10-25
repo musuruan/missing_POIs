@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-24T02:14:19Z" areas="2023-10-23T21:48:15Z"/>
+<meta osm_base="2023-10-25T02:15:02Z" areas="2023-10-24T23:51:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1881,12 +1881,10 @@
     <tag k="population" v="953"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510729" lat="45.1890700" lon="9.7898650" version="10" timestamp="2023-06-14T14:16:57Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="2642"/>
+  <node id="62510729" lat="45.1868847" lon="9.7824836" version="11" timestamp="2023-10-24T18:16:05Z" changeset="143077821" uid="20500231" user="fabiotolni">
     <tag k="name" v="Pizzighettone"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="6785"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62510747" lat="45.2445720" lon="9.8794660" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2569"/>
@@ -2223,12 +2221,11 @@
     <tag k="population" v="1926"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511683" lat="45.4070730" lon="9.5534560" version="11" timestamp="2023-06-14T14:32:23Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="2633"/>
+  <node id="62511683" lat="45.4048829" lon="9.5517179" version="12" timestamp="2023-10-24T18:10:26Z" changeset="143077520" uid="20500231" user="fabiotolni">
+    <tag k="ele" v="85"/>
     <tag k="name" v="Pandino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9005"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="7253"/>
   </node>
   <node id="62511697" lat="45.4021740" lon="9.6947590" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2638"/>
@@ -2251,13 +2248,12 @@
     <tag k="population" v="900"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511768" lat="45.4706593" lon="9.5125510" version="13" timestamp="2023-06-14T14:29:39Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="alt_name" v="Rivolta"/>
-    <tag k="gfoss_id" v="2650"/>
+  <node id="62511768" lat="45.4706593" lon="9.5125510" version="14" timestamp="2023-10-24T18:06:38Z" changeset="143077383" uid="20500231" user="fabiotolni">
+    <tag k="ele" v="101"/>
     <tag k="name" v="Rivolta d'Adda"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="7012"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="short_name" v="Rivolta"/>
     <tag k="wikidata" v="Q30029417"/>
   </node>
   <node id="62511789" lat="45.4056740" lon="9.7239600" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
@@ -2592,7 +2588,7 @@
     <tag k="ref:ISTAT" v="098049"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512937" lat="45.4110598" lon="9.4317571" version="3" timestamp="2020-03-02T00:59:19Z" changeset="81657221" uid="478872" user="mcheck">
+  <node id="62512937" lat="45.4109751" lon="9.4317866" version="4" timestamp="2023-10-24T17:37:50Z" changeset="143076404" uid="20500231" user="fabiotolni">
     <tag k="gfoss_id" v="7920"/>
     <tag k="name" v="Zelo Buon Persico"/>
     <tag k="place" v="village"/>
@@ -18789,7 +18785,7 @@
     <tag k="wikipedia" v="it:Barrali"/>
     <tag k="wikipedia:sc" v="Barrali"/>
   </node>
-  <node id="72990841" lat="39.1426981" lon="8.3026639" version="48" timestamp="2017-03-01T21:24:40Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72990841" lat="39.1426981" lon="8.3026639" version="49" timestamp="2023-10-25T00:05:41Z" changeset="143088258" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7410"/>
     <tag k="name" v="U Pàize/Carloforte"/>
     <tag k="name:it" v="Carloforte"/>
@@ -18799,7 +18795,7 @@
     <tag k="population" v="6444"/>
     <tag k="ref:LOCODE" v="ITCLF"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.carloforte.ca.it/"/>
+    <tag k="website" v="https://www.comune.carloforte.ca.it/"/>
     <tag k="wikidata" v="Q120399"/>
     <tag k="wikipedia" v="it:Carloforte"/>
   </node>
