@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-25T02:17:04Z" areas="2023-10-24T21:45:03Z"/>
+<meta osm_base="2023-10-26T02:15:43Z" areas="2023-10-25T21:45:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1296,7 +1296,7 @@
     <tag k="population" v="4883"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62514461" lat="45.4498179" lon="9.0363223" version="7" timestamp="2022-06-09T19:54:24Z" changeset="122181437" uid="668137" user="Ramying">
+  <node id="62514461" lat="45.4478480" lon="9.0345128" version="8" timestamp="2023-10-25T13:25:35Z" changeset="143115913" uid="20500231" user="fabiotolni">
     <tag k="ele" v="126"/>
     <tag k="name" v="Cusago"/>
     <tag k="name:lmo" v="Cusagh"/>
@@ -10569,14 +10569,18 @@
     <tag k="wikidata" v="Q51464"/>
     <tag k="wikipedia" v="it:Sant'Egidio alla Vibrata"/>
   </node>
-  <node id="72959669" lat="41.6407760" lon="13.3507562" version="42" timestamp="2023-09-25T22:20:46Z" changeset="141750301" uid="20335028" user="funny_la">
+  <node id="72959669" lat="41.6419807" lon="13.3469287" version="43" timestamp="2023-10-25T05:29:24Z" changeset="143094723" uid="461130" user="Fizzie41">
     <tag k="capital" v="6"/>
+    <tag k="gfoss_id" v="5103"/>
     <tag k="name" v="Frosinone"/>
-    <tag k="place" v="city"/>
+    <tag k="name:ru" v="Фрозиноне"/>
+    <tag k="name:zh" v="弗罗西诺内"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="46323"/>
+    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q13413"/>
     <tag k="wikimedia_commons" v="Category:Frosinone"/>
-    <tag k="wikipedia" v="it:Frosinone"/>
+    <tag k="wikipedia" v="en:Frosinone"/>
   </node>
   <node id="72959723" lat="41.3788737" lon="13.7553846" version="3" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5086"/>
