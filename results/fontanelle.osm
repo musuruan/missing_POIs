@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-26T02:15:43Z" areas="2023-10-25T21:45:45Z"/>
+<meta osm_base="2023-10-27T02:16:06Z" areas="2023-10-26T23:29:36Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1241,12 +1241,10 @@
     <tag k="population" v="3506"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513872" lat="45.3729705" lon="9.3606419" version="4" timestamp="2022-03-18T10:06:16Z" changeset="118625993" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="1813"/>
+  <node id="62513872" lat="45.3732447" lon="9.3621761" version="5" timestamp="2023-10-26T08:08:19Z" changeset="143149517" uid="20500231" user="fabiotolni">
     <tag k="name" v="Dresano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2342"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q42417"/>
     <tag k="wikipedia" v="it:Dresano"/>
   </node>
@@ -4901,14 +4899,6 @@
     <tag k="population" v="1383"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254027" lat="37.3560363" lon="13.9272894" version="35" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
-    <tag k="name" v="Delia"/>
-    <tag k="name:ru" v="Делья"/>
-    <tag k="name:scn" v="La Dilia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3845"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
   <node id="67254054" lat="37.4538430" lon="13.8804630" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Serradifalco"/>
     <tag k="name:scn" v="Serradifarcu"/>
@@ -6134,7 +6124,7 @@
     <tag k="population" v="878"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274934" lat="39.5470904" lon="16.3291171" version="4" timestamp="2016-09-05T17:47:36Z" changeset="41936978" uid="354689" user="Francesco Placco">
+  <node id="67274934" lat="39.5470697" lon="16.3291319" version="5" timestamp="2023-10-26T13:45:56Z" changeset="143163457" uid="1208320" user="jury83">
     <tag k="gfoss_id" v="6618"/>
     <tag k="name" v="Santa Sofia d'Epiro"/>
     <tag k="name:aae" v="Shën Sofia"/>
@@ -7225,7 +7215,7 @@
     <tag k="wikidata" v="Q10799"/>
     <tag k="wikipedia" v="it:Giove (Italia)"/>
   </node>
-  <node id="68507841" lat="42.5977353" lon="12.7652595" version="15" timestamp="2023-07-10T17:25:27Z" changeset="138347303" uid="1211510" user="arcanma">
+  <node id="68507841" lat="42.5977353" lon="12.7652595" version="16" timestamp="2023-10-26T23:59:28Z" changeset="143186798" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="375"/>
     <tag k="gfoss_id" v="50605"/>
     <tag k="istat_id" v="5501910002"/>
@@ -7236,7 +7226,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.montefranco.tr.it/"/>
+    <tag k="website" v="https://www.comune.montefranco.tr.it/"/>
     <tag k="wikidata" v="Q10852"/>
     <tag k="wikipedia" v="it:Montefranco"/>
   </node>
@@ -9441,7 +9431,7 @@
     <tag k="wikidata" v="Q100083"/>
     <tag k="wikipedia" v="it:Palagano"/>
   </node>
-  <node id="69300652" lat="44.3528570" lon="10.6255990" version="10" timestamp="2019-04-15T21:25:07Z" changeset="69250125" uid="9451067" user="b-jazz-bot">
+  <node id="69300652" lat="44.3580054" lon="10.6229898" version="11" timestamp="2023-10-26T20:15:52Z" changeset="143179344" uid="1834719" user="LvdT">
     <tag k="ele" v="797"/>
     <tag k="gfoss_id" v="4004"/>
     <tag k="name" v="Montefiorino"/>
