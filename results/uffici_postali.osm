@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-30T02:16:40Z" areas="2023-10-29T21:11:03Z"/>
+<meta osm_base="2023-10-31T02:16:20Z" areas="2023-10-30T22:19:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -8468,13 +8468,6 @@
     <tag k="population" v="1371"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778909" lat="45.5719818" lon="10.8117614" version="3" timestamp="2016-10-09T16:06:43Z" changeset="42757067" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3152"/>
-    <tag k="name" v="Rivoli Veronese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1980"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778929" lat="45.1790124" lon="11.0637333" version="7" timestamp="2017-11-02T08:36:15Z" changeset="53444660" uid="3141745" user="SiMaz96">
     <tag k="gfoss_id" v="3143"/>
     <tag k="name" v="Nogara"/>
@@ -10249,13 +10242,15 @@
     <tag k="population" v="1410"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274323" lat="39.2536724" lon="16.6978044" version="11" timestamp="2022-08-30T18:39:10Z" changeset="125582900" uid="923271" user="aldoct">
+  <node id="67274323" lat="39.2536724" lon="16.6978044" version="12" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="6604"/>
     <tag k="name" v="San Giovanni in Fiore"/>
     <tag k="place" v="town"/>
     <tag k="population" v="17372"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q53969"/>
+    <tag k="wikimedia_commons" v="Category:San Giovanni in Fiore"/>
+    <tag k="wikipedia" v="it:San Giovanni in Fiore"/>
   </node>
   <node id="67274328" lat="39.8892050" lon="16.3302880" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6605"/>
@@ -10654,12 +10649,15 @@
     <tag k="population" v="1383"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274945" lat="39.1583504" lon="16.7735052" version="6" timestamp="2016-08-28T18:58:21Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274945" lat="39.1583504" lon="16.7735052" version="7" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="7956"/>
     <tag k="name" v="Cotronei"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5500"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54503"/>
+    <tag k="wikimedia_commons" v="Category:Cotronei"/>
+    <tag k="wikipedia" v="it:Cotronei"/>
   </node>
   <node id="67274953" lat="39.2440865" lon="16.7883328" version="5" timestamp="2016-08-28T18:58:19Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7953"/>
@@ -15073,7 +15071,7 @@
     <tag k="wikidata" v="Q94948"/>
     <tag k="wikipedia" v="it:Minerbio"/>
   </node>
-  <node id="69300161" lat="44.2758590" lon="10.9994080" version="9" timestamp="2017-05-02T18:11:47Z" changeset="48342986" uid="1834719" user="LvdT">
+  <node id="69300161" lat="44.2758590" lon="10.9994080" version="10" timestamp="2023-10-30T05:46:50Z" changeset="143344571" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="805"/>
     <tag k="gfoss_id" v="4039"/>
     <tag k="name" v="Castel d'Aiano"/>
@@ -15084,7 +15082,7 @@
     <tag k="ref:ISTAT" v="037013"/>
     <tag k="ref:catasto" v="C075"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.casteldaiano.bo.it/"/>
+    <tag k="website" v="https://www.comune.casteldaiano.bo.it/"/>
     <tag k="wikidata" v="Q94684"/>
     <tag k="wikipedia" v="it:Castel d'Aiano"/>
   </node>
@@ -17411,13 +17409,14 @@
     <tag k="wikimedia_commons" v="Category:Anagni"/>
     <tag k="wikipedia" v="it:Anagni"/>
   </node>
-  <node id="72959773" lat="41.7379172" lon="13.6784797" version="5" timestamp="2021-01-18T16:21:35Z" changeset="97710054" uid="1682573" user="AndreaDB">
+  <node id="72959773" lat="41.7379172" lon="13.6784797" version="6" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5081"/>
     <tag k="name" v="Campoli Appennino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1804"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q116564"/>
+    <tag k="wikimedia_commons" v="Category:Campoli Appennino"/>
     <tag k="wikipedia" v="it:Campoli Appennino"/>
   </node>
   <node id="72959783" lat="41.6224124" lon="13.7255588" version="5" timestamp="2017-03-11T12:49:41Z" changeset="46761722" uid="354284" user="sbiribizio">
@@ -17587,13 +17586,14 @@
     <tag k="population" v="2674"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960171" lat="41.6696240" lon="13.8500110" version="4" timestamp="2017-03-11T12:49:43Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960171" lat="41.6696240" lon="13.8500110" version="5" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5137"/>
     <tag k="name" v="Settefrati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="855"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q117362"/>
+    <tag k="wikimedia_commons" v="Category:Settefrati"/>
     <tag k="wikipedia" v="it:Settefrati"/>
   </node>
   <node id="72960243" lat="41.5243210" lon="13.9711150" version="2" timestamp="2016-09-07T16:57:11Z" changeset="41983637" uid="743479" user="fayor">
@@ -17622,13 +17622,14 @@
     <tag k="wikidata" v="Q117602"/>
     <tag k="wikipedia" v="it:Villa Santa Lucia"/>
   </node>
-  <node id="72960339" lat="41.6884643" lon="13.7432643" version="6" timestamp="2017-03-11T12:49:43Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960339" lat="41.6884643" lon="13.7432643" version="7" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5069"/>
     <tag k="name" v="Alvito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3031"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q116390"/>
+    <tag k="wikimedia_commons" v="Category:Alvito (Italy)"/>
     <tag k="wikipedia" v="it:Alvito (Italia)"/>
   </node>
   <node id="72960449" lat="41.5845180" lon="13.3884020" version="3" timestamp="2021-04-29T19:56:41Z" changeset="103867285" uid="1950277" user="Mannivu">
@@ -19758,7 +19759,7 @@
     <tag k="wikipedia" v="it:Orune"/>
     <tag k="wikipedia:sc" v="Orune"/>
   </node>
-  <node id="72992215" lat="40.5238630" lon="9.2193290" version="41" timestamp="2017-03-01T21:24:55Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992215" lat="40.5238630" lon="9.2193290" version="42" timestamp="2023-10-30T16:12:28Z" changeset="143374520" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7364"/>
     <tag k="name" v="Osidde/Osidda"/>
     <tag k="name:it" v="Osidda"/>
@@ -19767,7 +19768,7 @@
     <tag k="population" v="266"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.osidda.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.osidda.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295557"/>
     <tag k="wikipedia" v="it:Osidda"/>
     <tag k="wikipedia:sc" v="Osidde"/>
@@ -20560,7 +20561,7 @@
     <tag k="wikipedia" v="it:Cossoine"/>
     <tag k="wikipedia:sc" v="Cossoine"/>
   </node>
-  <node id="72993867" lat="40.7490640" lon="8.8186180" version="40" timestamp="2017-03-03T19:53:59Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72993867" lat="40.7490640" lon="8.8186180" version="41" timestamp="2023-10-30T17:03:48Z" changeset="143377001" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7232"/>
     <tag k="name" v="Tzaramonte/Chiaramonti"/>
     <tag k="name:it" v="Chiaramonti"/>
@@ -20568,12 +20569,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1915"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.chiaramonti.ss.it/"/>
+    <tag k="website" v="https://www.comune.chiaramonti.ss.it/"/>
     <tag k="wikidata" v="Q390682"/>
     <tag k="wikipedia" v="it:Chiaramonti (Italia)"/>
     <tag k="wikipedia:sc" v="Tzaramonte"/>
   </node>
-  <node id="72993876" lat="40.7786640" lon="8.8081170" version="40" timestamp="2017-03-03T19:53:59Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72993876" lat="40.7786640" lon="8.8081170" version="41" timestamp="2023-10-30T17:03:38Z" changeset="143376994" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7246"/>
     <tag k="name" v="Maltis/Martis"/>
     <tag k="name:co" v="Màlti"/>
@@ -20584,7 +20585,7 @@
     <tag k="population" v="630"/>
     <tag k="postal_code" v="07030"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.martis.ss.it/"/>
+    <tag k="website" v="https://www.comune.martis.ss.it/"/>
     <tag k="wikidata" v="Q390907"/>
     <tag k="wikipedia" v="it:Martis"/>
     <tag k="wikipedia:sc" v="Maltis"/>
@@ -20737,7 +20738,7 @@
     <tag k="wikidata" v="Q390108"/>
     <tag k="wikipedia" v="it:Anela"/>
   </node>
-  <node id="72994245" lat="40.4564610" lon="9.1688290" version="39" timestamp="2017-03-01T21:25:17Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72994245" lat="40.4564610" lon="9.1688290" version="40" timestamp="2023-10-30T16:12:09Z" changeset="143374504" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7215"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
     <tag k="name" v="Benetutti"/>
@@ -20747,7 +20748,7 @@
     <tag k="population" v="2181"/>
     <tag k="postal_code" v="07010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.benetutti.ss.it/"/>
+    <tag k="website" v="https://www.comune.benetutti.ss.it/"/>
     <tag k="wikidata" v="Q390187"/>
     <tag k="wikipedia" v="it:Benetutti"/>
     <tag k="wikipedia:sc" v="Benetutti"/>
@@ -20781,7 +20782,7 @@
     <tag k="wikipedia" v="it:Bonnanaro"/>
     <tag k="wikipedia:sc" v="Bunnànnaru"/>
   </node>
-  <node id="72994274" lat="40.4168302" lon="9.0299928" version="39" timestamp="2016-09-03T15:51:24Z" changeset="41891270" uid="1778799" user="SomeoneElse_Revert">
+  <node id="72994274" lat="40.4168302" lon="9.0299928" version="40" timestamp="2023-10-30T08:25:28Z" changeset="143351193" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7219"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
     <tag k="name" v="Bono"/>
@@ -20791,7 +20792,7 @@
     <tag k="population" v="3800"/>
     <tag k="postal_code" v="07011"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bono.ss.it/"/>
+    <tag k="website" v="https://www.comune.bono.ss.it/"/>
   </node>
   <node id="72994282" lat="40.8913511" lon="9.0430579" version="46" timestamp="2017-03-03T19:54:01Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="alt_name" v="Bultigghjata"/>
@@ -20878,7 +20879,7 @@
     <tag k="wikipedia" v="it:Bultei"/>
     <tag k="wikipedia:sc" v="Urtei"/>
   </node>
-  <node id="72994342" lat="40.3914590" lon="9.0085270" version="39" timestamp="2017-03-01T21:25:18Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72994342" lat="40.3914590" lon="9.0085270" version="40" timestamp="2023-10-30T08:25:22Z" changeset="143351187" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Botidda"/>
     <tag k="gfoss_id" v="7223"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
@@ -20889,7 +20890,7 @@
     <tag k="population" v="804"/>
     <tag k="postal_code" v="07010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bottidda.ss.it/"/>
+    <tag k="website" v="https://www.comune.bottidda.ss.it/"/>
     <tag k="wikidata" v="Q390601"/>
     <tag k="wikipedia" v="it:Bottidda"/>
     <tag k="wikipedia:sc" v="Bottidda"/>
@@ -20951,7 +20952,7 @@
     <tag k="wikipedia" v="it:Ittireddu"/>
     <tag k="wikipedia:sc" v="Itireddu"/>
   </node>
-  <node id="72994380" lat="40.3538580" lon="9.0010270" version="39" timestamp="2017-03-01T21:25:19Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72994380" lat="40.3538580" lon="9.0010270" version="40" timestamp="2023-10-30T08:25:35Z" changeset="143351201" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Illurai"/>
     <tag k="gfoss_id" v="7238"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
@@ -20962,7 +20963,7 @@
     <tag k="population" v="1121"/>
     <tag k="postal_code" v="07010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.illorai.ss.it"/>
+    <tag k="website" v="https://www.comune.illorai.ss.it/"/>
     <tag k="wikidata" v="Q390845"/>
     <tag k="wikipedia" v="it:Illorai"/>
     <tag k="wikipedia:sc" v="Illorai"/>
@@ -21037,7 +21038,7 @@
     <tag k="wikipedia" v="it:Aglientu"/>
     <tag k="wikipedia:sc" v="Aglientu"/>
   </node>
-  <node id="72994495" lat="40.6217610" lon="8.8103190" version="40" timestamp="2017-03-03T19:54:03Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72994495" lat="40.6217610" lon="8.8103190" version="41" timestamp="2023-10-30T17:03:35Z" changeset="143376993" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7212"/>
     <tag k="name" v="Àldara/Ardara"/>
     <tag k="name:it" v="Ardara"/>
@@ -21046,7 +21047,7 @@
     <tag k="population" v="847"/>
     <tag k="postal_code" v="07010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.ardara.ss.it/"/>
+    <tag k="website" v="https://www.comune.ardara.ss.it/"/>
     <tag k="wikidata" v="Q390138"/>
     <tag k="wikipedia" v="it:Ardara"/>
     <tag k="wikipedia:sc" v="Àldara"/>
@@ -21932,7 +21933,7 @@
     <tag k="wikipedia" v="sc:Monteleone"/>
     <tag k="wikipedia:it" v="Monteleone Rocca Doria"/>
   </node>
-  <node id="1990071809" lat="40.3058025" lon="9.1128378" version="49" timestamp="2017-03-01T21:25:47Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="1990071809" lat="40.3058025" lon="9.1128378" version="50" timestamp="2023-10-30T08:25:49Z" changeset="143351218" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7360"/>
     <tag k="name" v="Oroteddi/Orotelli"/>
     <tag k="name:it" v="Orotelli"/>
@@ -21941,7 +21942,7 @@
     <tag k="population" v="2314"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.orotelli.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.orotelli.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295543"/>
     <tag k="wikipedia" v="it:Orotelli"/>
     <tag k="wikipedia:sc" v="Oroteddi"/>

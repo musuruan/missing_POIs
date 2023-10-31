@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-30T02:15:36Z" areas="2023-10-29T21:11:03Z"/>
+<meta osm_base="2023-10-31T02:15:15Z" areas="2023-10-30T22:19:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2761,13 +2761,6 @@
     <tag k="name" v="Terrazzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2385"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778909" lat="45.5719818" lon="10.8117614" version="3" timestamp="2016-10-09T16:06:43Z" changeset="42757067" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3152"/>
-    <tag k="name" v="Rivoli Veronese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1980"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778931" lat="45.2408619" lon="11.3348386" version="3" timestamp="2016-10-09T16:06:41Z" changeset="42757067" uid="743479" user="fayor">
@@ -7599,13 +7592,14 @@
     <tag k="wikidata" v="Q116377"/>
     <tag k="wikipedia" v="it:Acuto (Italia)"/>
   </node>
-  <node id="72959773" lat="41.7379172" lon="13.6784797" version="5" timestamp="2021-01-18T16:21:35Z" changeset="97710054" uid="1682573" user="AndreaDB">
+  <node id="72959773" lat="41.7379172" lon="13.6784797" version="6" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5081"/>
     <tag k="name" v="Campoli Appennino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1804"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q116564"/>
+    <tag k="wikimedia_commons" v="Category:Campoli Appennino"/>
     <tag k="wikipedia" v="it:Campoli Appennino"/>
   </node>
   <node id="72959783" lat="41.6224124" lon="13.7255588" version="5" timestamp="2017-03-11T12:49:41Z" changeset="46761722" uid="354284" user="sbiribizio">
@@ -7750,13 +7744,14 @@
     <tag k="population" v="1589"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960171" lat="41.6696240" lon="13.8500110" version="4" timestamp="2017-03-11T12:49:43Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960171" lat="41.6696240" lon="13.8500110" version="5" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5137"/>
     <tag k="name" v="Settefrati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="855"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q117362"/>
+    <tag k="wikimedia_commons" v="Category:Settefrati"/>
     <tag k="wikipedia" v="it:Settefrati"/>
   </node>
   <node id="72960243" lat="41.5243210" lon="13.9711150" version="2" timestamp="2016-09-07T16:57:11Z" changeset="41983637" uid="743479" user="fayor">
@@ -7776,13 +7771,14 @@
     <tag k="wikimedia_commons" v="Category:Villa Santo Stefano"/>
     <tag k="wikipedia" v="it:Villa Santo Stefano"/>
   </node>
-  <node id="72960339" lat="41.6884643" lon="13.7432643" version="6" timestamp="2017-03-11T12:49:43Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960339" lat="41.6884643" lon="13.7432643" version="7" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5069"/>
     <tag k="name" v="Alvito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3031"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q116390"/>
+    <tag k="wikimedia_commons" v="Category:Alvito (Italy)"/>
     <tag k="wikipedia" v="it:Alvito (Italia)"/>
   </node>
   <node id="72960449" lat="41.5845180" lon="13.3884020" version="3" timestamp="2021-04-29T19:56:41Z" changeset="103867285" uid="1950277" user="Mannivu">

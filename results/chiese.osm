@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-10-30T02:16:40Z" areas="2023-10-29T22:40:05Z"/>
+<meta osm_base="2023-10-31T02:16:20Z" areas="2023-10-30T21:02:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2988,12 +2988,15 @@
     <tag k="population" v="1383"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274945" lat="39.1583504" lon="16.7735052" version="6" timestamp="2016-08-28T18:58:21Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274945" lat="39.1583504" lon="16.7735052" version="7" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="7956"/>
     <tag k="name" v="Cotronei"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5500"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54503"/>
+    <tag k="wikimedia_commons" v="Category:Cotronei"/>
+    <tag k="wikipedia" v="it:Cotronei"/>
   </node>
   <node id="67274953" lat="39.2440865" lon="16.7883328" version="5" timestamp="2016-08-28T18:58:19Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7953"/>
@@ -6769,12 +6772,16 @@
     <tag k="population" v="1752"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992482" lat="41.7808732" lon="13.8295241" version="6" timestamp="2022-05-03T17:20:34Z" changeset="120508960" uid="7022493" user="Fra00">
+  <node id="70992482" lat="41.7808732" lon="13.8295241" version="7" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5768"/>
     <tag k="name" v="Opi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="462"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.opi.aq.it/"/>
+    <tag k="wikidata" v="Q50114"/>
+    <tag k="wikimedia_commons" v="Category:Opi"/>
+    <tag k="wikipedia" v="it:Opi (comune)"/>
   </node>
   <node id="70992495" lat="42.0578148" lon="13.1016250" version="3" timestamp="2020-11-22T06:02:24Z" changeset="94569257" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="5774"/>
@@ -7170,13 +7177,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30021932"/>
   </node>
-  <node id="72959773" lat="41.7379172" lon="13.6784797" version="5" timestamp="2021-01-18T16:21:35Z" changeset="97710054" uid="1682573" user="AndreaDB">
+  <node id="72959773" lat="41.7379172" lon="13.6784797" version="6" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5081"/>
     <tag k="name" v="Campoli Appennino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1804"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q116564"/>
+    <tag k="wikimedia_commons" v="Category:Campoli Appennino"/>
     <tag k="wikipedia" v="it:Campoli Appennino"/>
   </node>
   <node id="72959863" lat="41.6792210" lon="13.5514040" version="4" timestamp="2017-03-11T12:49:41Z" changeset="46761722" uid="354284" user="sbiribizio">
@@ -7310,22 +7318,24 @@
     <tag k="population" v="428"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960276" lat="41.5877162" lon="13.5754288" version="4" timestamp="2022-05-16T22:01:16Z" changeset="121071373" uid="3860151" user="Michele Aquilani">
+  <node id="72960276" lat="41.5877162" lon="13.5754288" version="5" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5073"/>
     <tag k="name" v="Arce"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6029"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q116423"/>
+    <tag k="wikimedia_commons" v="Category:Arce"/>
     <tag k="wikipedia" v="it:Arce (Italia)"/>
   </node>
-  <node id="72960339" lat="41.6884643" lon="13.7432643" version="6" timestamp="2017-03-11T12:49:43Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960339" lat="41.6884643" lon="13.7432643" version="7" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5069"/>
     <tag k="name" v="Alvito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3031"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q116390"/>
+    <tag k="wikimedia_commons" v="Category:Alvito (Italy)"/>
     <tag k="wikipedia" v="it:Alvito (Italia)"/>
   </node>
   <node id="72960449" lat="41.5845180" lon="13.3884020" version="3" timestamp="2021-04-29T19:56:41Z" changeset="103867285" uid="1950277" user="Mannivu">
@@ -7378,13 +7388,14 @@
     <tag k="population" v="365"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960720" lat="41.7081240" lon="13.8126090" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960720" lat="41.7081240" lon="13.8126090" version="5" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5127"/>
     <tag k="name" v="San Donato Val di Comino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2192"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q117226"/>
+    <tag k="wikimedia_commons" v="Category:San Donato Val di Comino"/>
     <tag k="wikipedia" v="it:San Donato Val di Comino"/>
   </node>
   <node id="72960725" lat="41.6767230" lon="13.7064070" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
@@ -8385,13 +8396,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="285"/>
   </node>
-  <node id="1401207805" lat="41.6030659" lon="13.6349603" version="4" timestamp="2018-12-22T23:27:42Z" changeset="65705111" uid="8747314" user="Baines_1004">
+  <node id="1401207805" lat="41.6030659" lon="13.6349603" version="5" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5134"/>
     <tag k="name" v="Santopadre"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1649"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q117342"/>
+    <tag k="wikimedia_commons" v="Category:Santopadre"/>
     <tag k="wikipedia" v="it:Santopadre"/>
   </node>
   <node id="1402414092" lat="45.7434637" lon="12.0924600" version="9" timestamp="2023-03-17T08:45:08Z" changeset="133778688" uid="1801173" user="Pucciotrex30">
@@ -8432,7 +8444,7 @@
     <tag k="population" v="9167"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="1990071809" lat="40.3058025" lon="9.1128378" version="49" timestamp="2017-03-01T21:25:47Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="1990071809" lat="40.3058025" lon="9.1128378" version="50" timestamp="2023-10-30T08:25:49Z" changeset="143351218" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7360"/>
     <tag k="name" v="Oroteddi/Orotelli"/>
     <tag k="name:it" v="Orotelli"/>
@@ -8441,7 +8453,7 @@
     <tag k="population" v="2314"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.orotelli.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.orotelli.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295543"/>
     <tag k="wikipedia" v="it:Orotelli"/>
     <tag k="wikipedia:sc" v="Oroteddi"/>
