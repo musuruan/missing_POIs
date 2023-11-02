@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-01T02:20:29Z" areas="2023-10-31T22:15:30Z"/>
+<meta osm_base="2023-11-02T02:15:59Z" areas="2023-11-01T22:07:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -229,14 +229,6 @@
     <tag k="name" v="Blello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="76"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62507191" lat="45.5522770" lon="9.6198550" version="2" timestamp="2020-02-16T19:34:10Z" changeset="81080013" uid="1950277" user="Mannivu">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="1987"/>
-    <tag k="name" v="Castel Rozzone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2545"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62507336" lat="45.6771433" lon="9.4889369" version="3" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
@@ -4192,7 +4184,7 @@
     <tag k="wikidata" v="Q10862"/>
     <tag k="wikipedia" v="it:Monteleone d'Orvieto"/>
   </node>
-  <node id="68507888" lat="42.6524340" lon="12.4885670" version="10" timestamp="2017-11-11T16:51:52Z" changeset="53695173" uid="1211510" user="arcanma">
+  <node id="68507888" lat="42.6524340" lon="12.4885670" version="11" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="391"/>
     <tag k="gfoss_id" v="50585"/>
     <tag k="istat_id" v="5501710005"/>
@@ -4205,6 +4197,7 @@
     <tag k="source:population" v="Istat 2011 census"/>
     <tag k="website" v="http://www.comune.montecastrilli.tr.it/"/>
     <tag k="wikidata" v="Q10830"/>
+    <tag k="wikimedia_commons" v="Category:Montecastrilli"/>
     <tag k="wikipedia" v="it:Montecastrilli"/>
   </node>
   <node id="68507919" lat="42.5848236" lon="12.8428018" version="14" timestamp="2017-11-11T17:07:54Z" changeset="53695556" uid="1211510" user="arcanma">

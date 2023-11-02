@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-01T02:18:26Z" areas="2023-10-31T22:15:30Z"/>
+<meta osm_base="2023-11-02T02:13:55Z" areas="2023-11-01T22:07:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4395,7 +4395,7 @@
     <tag k="population" v="654"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68507888" lat="42.6524340" lon="12.4885670" version="10" timestamp="2017-11-11T16:51:52Z" changeset="53695173" uid="1211510" user="arcanma">
+  <node id="68507888" lat="42.6524340" lon="12.4885670" version="11" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="391"/>
     <tag k="gfoss_id" v="50585"/>
     <tag k="istat_id" v="5501710005"/>
@@ -4408,6 +4408,7 @@
     <tag k="source:population" v="Istat 2011 census"/>
     <tag k="website" v="http://www.comune.montecastrilli.tr.it/"/>
     <tag k="wikidata" v="Q10830"/>
+    <tag k="wikimedia_commons" v="Category:Montecastrilli"/>
     <tag k="wikipedia" v="it:Montecastrilli"/>
   </node>
   <node id="68528665" lat="41.0135310" lon="16.7084830" version="4" timestamp="2016-09-09T00:49:42Z" changeset="42015514" uid="743479" user="fayor">
@@ -8814,12 +8815,16 @@
     <tag k="wikimedia_commons" v="Category:Bomarzo"/>
     <tag k="wikipedia" v="it:Bomarzo"/>
   </node>
-  <node id="72964078" lat="42.6441069" lon="11.9849554" version="3" timestamp="2016-09-07T16:51:06Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72964078" lat="42.6441069" lon="11.9849554" version="4" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4786"/>
     <tag k="name" v="Bolsena"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4111"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.bolsena.vt.it/"/>
+    <tag k="wikidata" v="Q159685"/>
+    <tag k="wikimedia_commons" v="Category:Bolsena"/>
+    <tag k="wikipedia" v="it:Bolsena"/>
   </node>
   <node id="72964100" lat="42.5597682" lon="12.1257580" version="3" timestamp="2019-09-15T16:28:12Z" changeset="74500639" uid="1211510" user="arcanma">
     <tag k="gfoss_id" v="4797"/>

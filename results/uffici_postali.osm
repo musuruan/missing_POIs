@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-01T02:19:29Z" areas="2023-10-31T22:15:30Z"/>
+<meta osm_base="2023-11-02T02:14:53Z" areas="2023-11-01T22:07:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -926,13 +926,14 @@
     <tag k="place" v="village"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507191" lat="45.5522770" lon="9.6198550" version="2" timestamp="2020-02-16T19:34:10Z" changeset="81080013" uid="1950277" user="Mannivu">
+  <node id="62507191" lat="45.5522770" lon="9.6198550" version="3" timestamp="2023-11-01T18:16:58Z" changeset="143489750" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="1987"/>
     <tag k="name" v="Castel Rozzone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2545"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024132"/>
   </node>
   <node id="62507202" lat="45.9667870" lon="9.6121470" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1985"/>
@@ -12473,7 +12474,7 @@
     <tag k="wikidata" v="Q6067"/>
     <tag k="wikipedia" v="it:Alviano"/>
   </node>
-  <node id="68507825" lat="42.6911725" lon="12.5464506" version="13" timestamp="2017-11-11T15:32:58Z" changeset="53693345" uid="1211510" user="arcanma">
+  <node id="68507825" lat="42.6911725" lon="12.5464506" version="14" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="320"/>
     <tag k="gfoss_id" v="50428"/>
     <tag k="istat_id" v="5500110001"/>
@@ -12487,6 +12488,7 @@
     <tag k="source:population" v="Istat 2011 census"/>
     <tag k="website" v="http://www.comune.acquasparta.tr.it/"/>
     <tag k="wikidata" v="Q6029"/>
+    <tag k="wikimedia_commons" v="Category:Acquasparta"/>
     <tag k="wikipedia" v="it:Acquasparta"/>
   </node>
   <node id="68507829" lat="42.8362745" lon="12.0656093" version="11" timestamp="2017-11-11T16:02:11Z" changeset="53693999" uid="1211510" user="arcanma">
@@ -18720,7 +18722,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026517"/>
   </node>
-  <node id="72990733" lat="39.4569925" lon="8.7367219" version="59" timestamp="2020-09-29T13:07:04Z" changeset="91709986" uid="1096017" user="Fabiano Peddis">
+  <node id="72990733" lat="39.4569925" lon="8.7367219" version="60" timestamp="2023-11-01T05:43:28Z" changeset="143455226" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Bidda de Cidru"/>
     <tag k="alt_name_1" v="Biddexidru"/>
     <tag k="capital" v="8"/>
@@ -18734,7 +18736,7 @@
     <tag k="postal_code" v="09039"/>
     <tag k="ref:LOCODE" v="ITVCD"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.villacidro.vs.it/"/>
+    <tag k="website" v="https://comune.villacidro.vs.it/"/>
     <tag k="wikidata" v="Q13654"/>
     <tag k="wikipedia" v="sc:Biddacidru"/>
   </node>
@@ -19147,7 +19149,7 @@
     <tag k="wikipedia" v="it:Donori"/>
     <tag k="wikipedia:sc" v="Donori"/>
   </node>
-  <node id="72991301" lat="39.4392370" lon="8.4979300" version="41" timestamp="2019-09-16T14:28:53Z" changeset="74536016" uid="478872" user="mcheck">
+  <node id="72991301" lat="39.4392370" lon="8.4979300" version="42" timestamp="2023-11-01T05:43:46Z" changeset="143455238" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7418"/>
     <tag k="name" v="Frùmini Majori/Fluminimaggiore"/>
     <tag k="name:it" v="Fluminimaggiore"/>
@@ -19157,7 +19159,7 @@
     <tag k="postal_code" v="09010"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="url" v="http://www.fluminimaggiore-bilingue.it/"/>
-    <tag k="website" v="http://www.comune.fluminimaggiore.ca.it/"/>
+    <tag k="website" v="https://www.comune.fluminimaggiore.ca.it/"/>
     <tag k="wikidata" v="Q286269"/>
     <tag k="wikipedia" v="it:Fluminimaggiore"/>
     <tag k="wikipedia:sc" v="Frùmini Majori"/>
@@ -19744,7 +19746,7 @@
     <tag k="wikidata" v="Q295550"/>
     <tag k="wikipedia" v="it:Ortueri"/>
   </node>
-  <node id="72992205" lat="40.4075949" lon="9.3697392" version="40" timestamp="2017-03-01T21:24:55Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992205" lat="40.4075949" lon="9.3697392" version="41" timestamp="2023-11-01T19:11:07Z" changeset="143492062" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7363"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
     <tag k="name" v="Orune"/>
@@ -19754,7 +19756,7 @@
     <tag k="population" v="3021"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.orune.nu.it"/>
+    <tag k="website" v="https://www.comune.orune.nu.it/"/>
     <tag k="wikidata" v="Q203978"/>
     <tag k="wikipedia" v="it:Orune"/>
     <tag k="wikipedia:sc" v="Orune"/>
@@ -20074,7 +20076,7 @@
     <tag k="wikipedia" v="it:Sadali"/>
     <tag k="wikipedia:sc" v="Sàdili"/>
   </node>
-  <node id="72992621" lat="40.2719580" lon="9.1703320" version="45" timestamp="2017-03-01T21:25:00Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992621" lat="40.2719580" lon="9.1703320" version="46" timestamp="2023-11-01T19:10:11Z" changeset="143492027" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Oniferi"/>
     <tag k="gfoss_id" v="7356"/>
     <tag k="name" v="Onieri/Oniferi"/>
@@ -20084,7 +20086,7 @@
     <tag k="population" v="959"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.oniferi.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.oniferi.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295399"/>
     <tag k="wikipedia" v="it:Oniferi"/>
   </node>

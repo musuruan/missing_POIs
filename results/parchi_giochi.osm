@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-01T02:22:30Z" areas="2023-10-31T22:15:30Z"/>
+<meta osm_base="2023-11-02T02:17:58Z" areas="2023-11-01T20:52:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -991,13 +991,14 @@
     <tag k="place" v="village"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507191" lat="45.5522770" lon="9.6198550" version="2" timestamp="2020-02-16T19:34:10Z" changeset="81080013" uid="1950277" user="Mannivu">
+  <node id="62507191" lat="45.5522770" lon="9.6198550" version="3" timestamp="2023-11-01T18:16:58Z" changeset="143489750" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="1987"/>
     <tag k="name" v="Castel Rozzone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2545"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024132"/>
   </node>
   <node id="62507202" lat="45.9667870" lon="9.6121470" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1985"/>
@@ -14948,7 +14949,7 @@
     <tag k="wikidata" v="Q6067"/>
     <tag k="wikipedia" v="it:Alviano"/>
   </node>
-  <node id="68507825" lat="42.6911725" lon="12.5464506" version="13" timestamp="2017-11-11T15:32:58Z" changeset="53693345" uid="1211510" user="arcanma">
+  <node id="68507825" lat="42.6911725" lon="12.5464506" version="14" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="320"/>
     <tag k="gfoss_id" v="50428"/>
     <tag k="istat_id" v="5500110001"/>
@@ -14962,6 +14963,7 @@
     <tag k="source:population" v="Istat 2011 census"/>
     <tag k="website" v="http://www.comune.acquasparta.tr.it/"/>
     <tag k="wikidata" v="Q6029"/>
+    <tag k="wikimedia_commons" v="Category:Acquasparta"/>
     <tag k="wikipedia" v="it:Acquasparta"/>
   </node>
   <node id="68507833" lat="42.5094100" lon="12.3247903" version="11" timestamp="2022-02-18T13:46:26Z" changeset="117565985" uid="1211510" user="arcanma">
@@ -15118,7 +15120,7 @@
     <tag k="wikidata" v="Q10877"/>
     <tag k="wikipedia" v="it:Parrano"/>
   </node>
-  <node id="68507888" lat="42.6524340" lon="12.4885670" version="10" timestamp="2017-11-11T16:51:52Z" changeset="53695173" uid="1211510" user="arcanma">
+  <node id="68507888" lat="42.6524340" lon="12.4885670" version="11" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="391"/>
     <tag k="gfoss_id" v="50585"/>
     <tag k="istat_id" v="5501710005"/>
@@ -15131,6 +15133,7 @@
     <tag k="source:population" v="Istat 2011 census"/>
     <tag k="website" v="http://www.comune.montecastrilli.tr.it/"/>
     <tag k="wikidata" v="Q10830"/>
+    <tag k="wikimedia_commons" v="Category:Montecastrilli"/>
     <tag k="wikipedia" v="it:Montecastrilli"/>
   </node>
   <node id="68507906" lat="42.7546738" lon="12.0013028" version="10" timestamp="2017-11-11T15:33:02Z" changeset="53693345" uid="1211510" user="arcanma">
@@ -22717,7 +22720,7 @@
     <tag k="wikipedia" v="it:Sanluri"/>
     <tag k="wikipedia:sc" v="Seddori"/>
   </node>
-  <node id="72990733" lat="39.4569925" lon="8.7367219" version="59" timestamp="2020-09-29T13:07:04Z" changeset="91709986" uid="1096017" user="Fabiano Peddis">
+  <node id="72990733" lat="39.4569925" lon="8.7367219" version="60" timestamp="2023-11-01T05:43:28Z" changeset="143455226" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Bidda de Cidru"/>
     <tag k="alt_name_1" v="Biddexidru"/>
     <tag k="capital" v="8"/>
@@ -22731,7 +22734,7 @@
     <tag k="postal_code" v="09039"/>
     <tag k="ref:LOCODE" v="ITVCD"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.villacidro.vs.it/"/>
+    <tag k="website" v="https://comune.villacidro.vs.it/"/>
     <tag k="wikidata" v="Q13654"/>
     <tag k="wikipedia" v="sc:Biddacidru"/>
   </node>
@@ -24082,7 +24085,7 @@
     <tag k="wikidata" v="Q295550"/>
     <tag k="wikipedia" v="it:Ortueri"/>
   </node>
-  <node id="72992205" lat="40.4075949" lon="9.3697392" version="40" timestamp="2017-03-01T21:24:55Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992205" lat="40.4075949" lon="9.3697392" version="41" timestamp="2023-11-01T19:11:07Z" changeset="143492062" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7363"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
     <tag k="name" v="Orune"/>
@@ -24092,7 +24095,7 @@
     <tag k="population" v="3021"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.orune.nu.it"/>
+    <tag k="website" v="https://www.comune.orune.nu.it/"/>
     <tag k="wikidata" v="Q203978"/>
     <tag k="wikipedia" v="it:Orune"/>
     <tag k="wikipedia:sc" v="Orune"/>
@@ -24456,7 +24459,7 @@
     <tag k="wikipedia" v="it:Teti (Italia)"/>
     <tag k="wikipedia:sc" v="Teti"/>
   </node>
-  <node id="72992621" lat="40.2719580" lon="9.1703320" version="45" timestamp="2017-03-01T21:25:00Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992621" lat="40.2719580" lon="9.1703320" version="46" timestamp="2023-11-01T19:10:11Z" changeset="143492027" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Oniferi"/>
     <tag k="gfoss_id" v="7356"/>
     <tag k="name" v="Onieri/Oniferi"/>
@@ -24466,7 +24469,7 @@
     <tag k="population" v="959"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.oniferi.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.oniferi.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295399"/>
     <tag k="wikipedia" v="it:Oniferi"/>
   </node>
@@ -26631,7 +26634,7 @@
     <tag k="population" v="563"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="1833875995" lat="46.4471112" lon="12.0140253" version="13" timestamp="2023-06-14T15:48:15Z" changeset="137334911" uid="2593404" user="ColleSantaLuciaDolomiti">
+  <node id="1833875995" lat="46.4471112" lon="12.0140253" version="14" timestamp="2023-11-01T18:58:59Z" changeset="143491629" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="1453"/>
     <tag k="gfoss_id" v="3323"/>
     <tag k="name" v="Colle Santa Lucia"/>
@@ -26640,7 +26643,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="360"/>
     <tag k="source" v="geodati.gfoss.it;local knowledge;http://demo.istat.it/bil2016/index04.html"/>
-    <tag k="website" v="http://www.collesantalucia.eu"/>
+    <tag k="website" v="https://www.collesantalucia.eu/"/>
   </node>
   <node id="1852235281" lat="43.7522329" lon="12.9195304" version="3" timestamp="2017-03-06T07:20:16Z" changeset="46614997" uid="3084054" user="agnostico">
     <tag k="ele" v="66"/>
