@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-02T02:15:59Z" areas="2023-11-01T22:07:29Z"/>
+<meta osm_base="2023-11-03T02:17:14Z" areas="2023-11-02T20:47:32Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1211,14 +1211,6 @@
     <tag k="name" v="Mombello di Torino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="395"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778121" lat="46.3305243" lon="12.3228878" version="5" timestamp="2022-04-12T12:23:59Z" changeset="119619955" uid="1257620" user="Luca_34c">
-    <tag k="gfoss_id" v="3344"/>
-    <tag k="loc_name" v="Ospedal"/>
-    <tag k="name" v="Ospitale di Cadore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="365"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778128" lat="46.1030653" lon="12.0255839" version="4" timestamp="2023-08-31T09:14:05Z" changeset="140624838" uid="11631067" user="emandt">
@@ -4230,7 +4222,7 @@
     <tag k="wikidata" v="Q10880"/>
     <tag k="wikipedia" v="it:Penna in Teverina"/>
   </node>
-  <node id="68507931" lat="42.6817096" lon="12.1020615" version="11" timestamp="2017-11-11T17:07:55Z" changeset="53695556" uid="1211510" user="arcanma">
+  <node id="68507931" lat="42.6817096" lon="12.1020615" version="12" timestamp="2023-11-02T08:27:59Z" changeset="143516321" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="444"/>
     <tag k="gfoss_id" v="50744"/>
     <tag k="istat_id" v="5502810001"/>
@@ -4243,6 +4235,7 @@
     <tag k="source:population" v="Istat 2011 census"/>
     <tag k="website" v="http://www.comune.porano.tr.it/"/>
     <tag k="wikidata" v="Q10888"/>
+    <tag k="wikimedia_commons" v="Category:Porano"/>
     <tag k="wikipedia" v="it:Porano"/>
   </node>
   <node id="68528676" lat="41.0575320" lon="16.7007820" version="5" timestamp="2016-10-27T19:07:14Z" changeset="43226186" uid="2511706" user="calfarome">
