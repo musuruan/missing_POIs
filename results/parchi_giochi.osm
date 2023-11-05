@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-04T02:17:15Z" areas="2023-11-03T21:35:00Z"/>
+<meta osm_base="2023-11-05T02:22:07Z" areas="2023-11-05T01:17:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1295,14 +1295,6 @@
     <tag k="population" v="1148"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikipedia" v="it:Vallio Terme"/>
-  </node>
-  <node id="62508458" lat="45.7480408" lon="10.2404202" version="4" timestamp="2023-10-31T09:05:38Z" changeset="143408919" uid="350864" user="demon_box">
-    <tag k="gfoss_id" v="2353"/>
-    <tag k="loc_name" v="Taérnole"/>
-    <tag k="name" v="Tavernole sul Mella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1346"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508478" lat="45.3271760" lon="10.1283700" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2183"/>
@@ -11003,12 +10995,6 @@
     <tag k="population" v="2813"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67256442" lat="37.7799480" lon="13.7138560" version="8" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Alia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3297"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
   <node id="67256456" lat="37.8210665" lon="13.8902244" version="33" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
     <tag k="name" v="Caltavuturo"/>
     <tag k="name:ru" v="Кальтавутуро"/>
@@ -18231,7 +18217,7 @@
     <tag k="wikidata" v="Q94995"/>
     <tag k="wikipedia" v="it:San Pietro in Casale"/>
   </node>
-  <node id="69300263" lat="44.8508830" lon="12.2949270" version="8" timestamp="2017-04-02T21:55:25Z" changeset="47394388" uid="1834719" user="LvdT">
+  <node id="69300263" lat="44.8508830" lon="12.2949270" version="9" timestamp="2023-11-04T06:30:01Z" changeset="143600049" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="1"/>
     <tag k="gfoss_id" v="4111"/>
     <tag k="name" v="Goro"/>
@@ -18242,11 +18228,11 @@
     <tag k="ref:ISTAT" v="038025"/>
     <tag k="ref:catasto" v="E107"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.goro.fe.it/"/>
+    <tag k="website" v="https://www.comune.goro.fe.it/"/>
     <tag k="wikidata" v="Q95104"/>
     <tag k="wikipedia" v="it:Goro"/>
   </node>
-  <node id="69300284" lat="44.8315810" lon="12.1095240" version="10" timestamp="2018-12-11T18:40:05Z" changeset="65385914" uid="1834719" user="LvdT">
+  <node id="69300284" lat="44.8315810" lon="12.1095240" version="11" timestamp="2023-11-04T06:29:59Z" changeset="143600049" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="3"/>
     <tag k="gfoss_id" v="4091"/>
     <tag k="name" v="Codigoro"/>
@@ -18257,7 +18243,7 @@
     <tag k="ref:ISTAT" v="038005"/>
     <tag k="ref:catasto" v="C814"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.codigoro.fe.it/"/>
+    <tag k="website" v="https://www.comune.codigoro.fe.it/"/>
     <tag k="wikidata" v="Q95095"/>
     <tag k="wikipedia" v="it:Codigoro"/>
   </node>
@@ -18306,7 +18292,7 @@
     <tag k="wikidata" v="Q95124"/>
     <tag k="wikipedia" v="it:Migliaro"/>
   </node>
-  <node id="69300305" lat="44.8861770" lon="11.4108070" version="6" timestamp="2017-04-02T18:19:37Z" changeset="47389387" uid="1834719" user="LvdT">
+  <node id="69300305" lat="44.8861770" lon="11.4108070" version="7" timestamp="2023-11-04T23:56:29Z" changeset="143633967" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="13"/>
     <tag k="gfoss_id" v="4089"/>
     <tag k="loc_name" v="Bundén"/>
@@ -18319,7 +18305,7 @@
     <tag k="ref:IT:ISTAT" v="038003"/>
     <tag k="ref:catasto" v="A965"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bondeno.fe.it/"/>
+    <tag k="website" v="https://www.comune.bondeno.fe.it/"/>
     <tag k="wikidata" v="Q95093"/>
     <tag k="wikipedia" v="it:Bondeno"/>
   </node>
@@ -21267,7 +21253,7 @@
     <tag k="population" v="2636"/>
     <tag k="source:population" v="wikipedia:it, 2010-12-31"/>
   </node>
-  <node id="72960414" lat="41.6201990" lon="13.7999785" version="8" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
+  <node id="72960414" lat="41.6201990" lon="13.7999785" version="9" timestamp="2023-11-04T13:21:41Z" changeset="143613596" uid="9451067" user="b-jazz-bot">
     <tag k="addr:postcode" v="03042"/>
     <tag k="ele" v="481"/>
     <tag k="gfoss_id" v="5076"/>
@@ -21275,7 +21261,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4211"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.atina.fr.it/"/>
+    <tag k="website" v="https://www.comune.atina.fr.it/"/>
     <tag k="wikidata" v="Q116531"/>
     <tag k="wikimedia_commons" v="Category:Atina"/>
     <tag k="wikipedia" v="it:Atina"/>
@@ -25324,7 +25310,7 @@
     <tag k="wikipedia" v="it:Giave"/>
     <tag k="wikipedia:sc" v="Giave"/>
   </node>
-  <node id="72993898" lat="40.5483600" lon="8.8312210" version="39" timestamp="2017-03-01T21:25:15Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72993898" lat="40.5483600" lon="8.8312210" version="40" timestamp="2023-11-04T06:05:38Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7249"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
     <tag k="name" v="Mores"/>
@@ -25334,7 +25320,7 @@
     <tag k="population" v="2074"/>
     <tag k="postal_code" v="07013"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.mores.ss.it/"/>
+    <tag k="website" v="https://www.comune.mores.ss.it/"/>
     <tag k="wikidata" v="Q390999"/>
     <tag k="wikipedia" v="it:Mores"/>
     <tag k="wikipedia:sc" v="Mores"/>
@@ -25455,7 +25441,7 @@
     <tag k="wikidata" v="Q391035"/>
     <tag k="wikipedia" v="it:Nughedu San Nicolò; sc:Nughedu Santu Nigola"/>
   </node>
-  <node id="72994224" lat="40.4417600" lon="9.0574270" version="40" timestamp="2017-03-01T21:25:16Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72994224" lat="40.4417600" lon="9.0574270" version="41" timestamp="2023-11-04T06:05:32Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7211"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
     <tag k="name" v="Anela"/>
@@ -25465,7 +25451,7 @@
     <tag k="population" v="817"/>
     <tag k="postal_code" v="07010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.anela.ss.it/index.asp"/>
+    <tag k="website" v="https://www.comune.anela.ss.it/index.asp"/>
     <tag k="wikidata" v="Q390108"/>
     <tag k="wikipedia" v="it:Anela"/>
   </node>
@@ -25553,7 +25539,7 @@
     <tag k="wikipedia" v="it:Burgos (Italia)"/>
     <tag k="wikipedia:sc" v="Su Burgu"/>
   </node>
-  <node id="72994336" lat="40.4562109" lon="9.0644445" version="41" timestamp="2017-03-01T21:25:18Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72994336" lat="40.4562109" lon="9.0644445" version="42" timestamp="2023-11-04T06:05:39Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Burtei"/>
     <tag k="gfoss_id" v="7225"/>
     <tag k="name" v="Urtei/Bultei"/>
@@ -25563,7 +25549,7 @@
     <tag k="population" v="1206"/>
     <tag k="postal_code" v="07010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bultei.ss.it/"/>
+    <tag k="website" v="https://www.comune.bultei.ss.it/"/>
     <tag k="wikidata" v="Q390609"/>
     <tag k="wikipedia" v="it:Bultei"/>
     <tag k="wikipedia:sc" v="Urtei"/>
@@ -26088,7 +26074,7 @@
     <tag k="name:frp" v="'En-Mar'éi"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="506155827" lat="44.7901008" lon="11.1378084" version="9" timestamp="2017-03-07T17:06:03Z" changeset="46657212" uid="354284" user="sbiribizio">
+  <node id="506155827" lat="44.7901008" lon="11.1378084" version="10" timestamp="2023-11-04T08:55:12Z" changeset="143603727" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="21"/>
     <tag k="gfoss_id" v="40007"/>
     <tag k="istat_id" v="3600410001"/>
@@ -26101,7 +26087,7 @@
     <tag k="ref:LOCODE" v="ITECM"/>
     <tag k="ref:catasto" v="B566"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.camposanto.mo.it/"/>
+    <tag k="website" v="https://www.comune.camposanto.mo.it/"/>
     <tag k="wikidata" v="Q100040"/>
     <tag k="wikipedia" v="it:Camposanto"/>
   </node>
