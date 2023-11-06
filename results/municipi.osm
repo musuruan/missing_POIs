@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-05T02:18:15Z" areas="2023-11-04T21:14:30Z"/>
+<meta osm_base="2023-11-06T02:18:11Z" areas="2023-11-06T01:06:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4395,7 +4395,7 @@
     <tag k="population" v="654"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68507888" lat="42.6524340" lon="12.4885670" version="11" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
+  <node id="68507888" lat="42.6524340" lon="12.4885670" version="12" timestamp="2023-11-05T20:34:32Z" changeset="143665361" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="391"/>
     <tag k="gfoss_id" v="50585"/>
     <tag k="istat_id" v="5501710005"/>
@@ -4406,7 +4406,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.montecastrilli.tr.it/"/>
+    <tag k="website" v="https://www.comune.montecastrilli.tr.it/"/>
     <tag k="wikidata" v="Q10830"/>
     <tag k="wikimedia_commons" v="Category:Montecastrilli"/>
     <tag k="wikipedia" v="it:Montecastrilli"/>
@@ -5616,13 +5616,6 @@
     <tag k="postal_code" v="81030"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580317" lat="41.0917140" lon="14.1282240" version="2" timestamp="2016-09-02T23:58:45Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5240"/>
-    <tag k="name" v="Santa Maria la Fossa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2647"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68580334" lat="41.0000120" lon="14.1607260" version="2" timestamp="2016-09-02T23:58:47Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5254"/>
     <tag k="name" v="Villa di Briano"/>
@@ -5651,12 +5644,14 @@
     <tag k="population" v="12573"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580520" lat="41.0894130" lon="14.1003240" version="2" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="68580520" lat="41.0894130" lon="14.1003240" version="3" timestamp="2023-11-05T19:57:53Z" changeset="143664159" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5198"/>
     <tag k="name" v="Grazzanise"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6830"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q58633"/>
+    <tag k="wikipedia" v="it:Grazzanise"/>
   </node>
   <node id="68580527" lat="41.4530220" lon="14.2554220" version="4" timestamp="2017-03-11T12:47:44Z" changeset="46761685" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="5200"/>

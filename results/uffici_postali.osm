@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-05T02:19:14Z" areas="2023-11-05T01:17:45Z"/>
+<meta osm_base="2023-11-06T02:19:26Z" areas="2023-11-06T01:06:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -12466,7 +12466,7 @@
     <tag k="wikidata" v="Q6067"/>
     <tag k="wikipedia" v="it:Alviano"/>
   </node>
-  <node id="68507825" lat="42.6911725" lon="12.5464506" version="14" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
+  <node id="68507825" lat="42.6911725" lon="12.5464506" version="15" timestamp="2023-11-05T20:34:44Z" changeset="143665361" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="320"/>
     <tag k="gfoss_id" v="50428"/>
     <tag k="istat_id" v="5500110001"/>
@@ -12478,7 +12478,7 @@
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="ref:LOCODE" v="ITACS"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.acquasparta.tr.it/"/>
+    <tag k="website" v="https://www.comune.acquasparta.tr.it/"/>
     <tag k="wikidata" v="Q6029"/>
     <tag k="wikimedia_commons" v="Category:Acquasparta"/>
     <tag k="wikipedia" v="it:Acquasparta"/>
@@ -14277,13 +14277,6 @@
     <tag k="postal_code" v="81030"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580317" lat="41.0917140" lon="14.1282240" version="2" timestamp="2016-09-02T23:58:45Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5240"/>
-    <tag k="name" v="Santa Maria la Fossa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2647"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68580334" lat="41.0000120" lon="14.1607260" version="2" timestamp="2016-09-02T23:58:47Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5254"/>
     <tag k="name" v="Villa di Briano"/>
@@ -14355,13 +14348,6 @@
     <tag k="name" v="Cimitile"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6840"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580520" lat="41.0894130" lon="14.1003240" version="2" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5198"/>
-    <tag k="name" v="Grazzanise"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6830"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68580527" lat="41.4530220" lon="14.2554220" version="4" timestamp="2017-03-11T12:47:44Z" changeset="46761685" uid="354284" user="sbiribizio">
@@ -22292,7 +22278,7 @@
     <tag k="population" v="965"/>
     <tag k="population:date" v="2022-12-31"/>
   </node>
-  <node id="5035076874" lat="42.5143337" lon="12.2925076" version="3" timestamp="2017-11-11T15:33:05Z" changeset="53693345" uid="1211510" user="arcanma">
+  <node id="5035076874" lat="42.5143337" lon="12.2925076" version="4" timestamp="2023-11-05T09:55:04Z" changeset="143642562" uid="3860151" user="Michele Aquilani">
     <tag k="ele" v="95"/>
     <tag k="gfoss_id" v="50476"/>
     <tag k="istat_id" v="5500610001"/>
@@ -22305,6 +22291,7 @@
     <tag k="source:population" v="Istat 2011 census"/>
     <tag k="website" v="http://www.comunediattigliano.gov.it/"/>
     <tag k="wikidata" v="Q6265"/>
+    <tag k="wikimedia_commons" v="Category:Attigliano"/>
     <tag k="wikipedia" v="it:Attigliano"/>
   </node>
   <node id="5044815966" lat="41.3039147" lon="15.4792258" version="5" timestamp="2020-04-24T09:16:49Z" changeset="84050595" uid="166489" user="Fintocubano">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-05T02:21:15Z" areas="2023-11-05T01:17:45Z"/>
+<meta osm_base="2023-11-06T02:21:35Z" areas="2023-11-06T01:34:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1380,14 +1380,15 @@
     <tag k="population" v="17134"/>
     <tag k="wikidata" v="Q43042"/>
   </node>
-  <node id="62514856" lat="45.5266783" lon="9.1169782" version="22" timestamp="2023-10-15T10:50:29Z" changeset="142611988" uid="20472664" user="user_20472664">
+  <node id="62514856" lat="45.5266783" lon="9.1169782" version="23" timestamp="2023-11-05T14:40:42Z" changeset="143653024" uid="362065" user="GFS">
     <tag k="alt_name" v="Baranzate di Bollate"/>
     <tag k="ele" v="144"/>
     <tag k="name" v="Baranzate"/>
     <tag k="name:lmo" v="Baranzaa"/>
     <tag k="name:lmo:pronunciation" v="barãˈtsɑː"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="11700"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="11859"/>
+    <tag k="population:date" v="2023-05-31"/>
     <tag k="wikidata" v="Q30022559"/>
     <tag k="wikimedia_commons" v="Category:Baranzate"/>
     <tag k="wikipedia" v="it:Baranzate"/>
@@ -8554,12 +8555,15 @@
     <tag k="postal_code" v="81030"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580317" lat="41.0917140" lon="14.1282240" version="2" timestamp="2016-09-02T23:58:45Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="68580317" lat="41.0919601" lon="14.1284079" version="3" timestamp="2023-11-05T19:57:53Z" changeset="143664159" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5240"/>
     <tag k="name" v="Santa Maria la Fossa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2647"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q58897"/>
+    <tag k="wikipedia" v="it:Santa Maria la Fossa"/>
   </node>
   <node id="68580334" lat="41.0000120" lon="14.1607260" version="2" timestamp="2016-09-02T23:58:47Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5254"/>
@@ -8635,12 +8639,14 @@
     <tag k="population" v="6840"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580520" lat="41.0894130" lon="14.1003240" version="2" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="68580520" lat="41.0894130" lon="14.1003240" version="3" timestamp="2023-11-05T19:57:53Z" changeset="143664159" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5198"/>
     <tag k="name" v="Grazzanise"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6830"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q58633"/>
+    <tag k="wikipedia" v="it:Grazzanise"/>
   </node>
   <node id="68580549" lat="41.0633140" lon="14.2737280" version="2" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5203"/>
@@ -9240,7 +9246,7 @@
     <tag k="wikidata" v="Q95109"/>
     <tag k="wikipedia" v="it:Masi Torello"/>
   </node>
-  <node id="69300292" lat="44.7619800" lon="12.1428250" version="6" timestamp="2017-04-02T21:55:27Z" changeset="47394388" uid="1834719" user="LvdT">
+  <node id="69300292" lat="44.7619800" lon="12.1428250" version="7" timestamp="2023-11-05T19:37:12Z" changeset="143663534" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="0"/>
     <tag k="gfoss_id" v="4097"/>
     <tag k="name" v="Lagosanto"/>
@@ -9251,7 +9257,7 @@
     <tag k="ref:ISTAT" v="038011"/>
     <tag k="ref:catasto" v="E410"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.lagosanto.fe.it/"/>
+    <tag k="website" v="https://www.comune.lagosanto.fe.it/"/>
     <tag k="wikidata" v="Q95107"/>
     <tag k="wikipedia" v="it:Lagosanto"/>
   </node>
