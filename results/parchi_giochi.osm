@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-06T02:22:40Z" areas="2023-11-06T01:34:23Z"/>
+<meta osm_base="2023-11-07T02:21:03Z" areas="2023-11-07T01:13:41Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6953,13 +6953,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://it.wikipedia.org/wiki/Baldissero_Canavese"/>
   </node>
-  <node id="63629311" lat="44.8736400" lon="7.4103200" version="4" timestamp="2023-01-17T20:02:32Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="41"/>
-    <tag k="name" v="Buriasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1304"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63629341" lat="45.1766065" lon="7.8380043" version="5" timestamp="2023-01-17T20:04:50Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="34"/>
     <tag k="name" v="Brandizzo"/>
@@ -9186,7 +9179,7 @@
     <tag k="population" v="1336"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503034" lat="45.8933112" lon="12.5962937" version="11" timestamp="2019-05-16T23:53:27Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503034" lat="45.8932811" lon="12.5960447" version="12" timestamp="2023-11-06T16:25:36Z" changeset="143700957" uid="6407346" user="Marcello Della Mea">
     <tag k="gfoss_id" v="7539"/>
     <tag k="name" v="Prata di Pordenone"/>
     <tag k="name:fur" v="Prate"/>
@@ -10329,13 +10322,6 @@
     <tag k="name" v="Camastra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2005"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
-  <node id="67253860" lat="37.5994420" lon="13.2901500" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Burgio"/>
-    <tag k="name:scn" v="Burgiu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2495"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67253929" lat="37.5790488" lon="13.3065678" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
@@ -14867,7 +14853,7 @@
     <tag k="wikidata" v="Q20461"/>
     <tag k="wikipedia" v="it:Lisciano Niccone"/>
   </node>
-  <node id="68507739" lat="42.8918739" lon="12.6500673" version="15" timestamp="2017-11-11T16:51:50Z" changeset="53695173" uid="1211510" user="arcanma">
+  <node id="68507739" lat="42.8918739" lon="12.6500673" version="16" timestamp="2023-11-06T19:39:09Z" changeset="143707653" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="455"/>
     <tag k="gfoss_id" v="49766"/>
     <tag k="istat_id" v="5403010007"/>
@@ -14879,7 +14865,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.montefalco.pg.it/"/>
+    <tag k="website" v="https://www.comune.montefalco.pg.it/"/>
     <tag k="wikidata" v="Q20478"/>
     <tag k="wikipedia" v="it:Montefalco"/>
   </node>
@@ -15069,7 +15055,7 @@
     <tag k="wikidata" v="Q6052"/>
     <tag k="wikipedia" v="it:Allerona"/>
   </node>
-  <node id="68507874" lat="42.9210065" lon="12.0923641" version="11" timestamp="2017-11-11T16:51:52Z" changeset="53695173" uid="1211510" user="arcanma">
+  <node id="68507874" lat="42.9210065" lon="12.0923641" version="12" timestamp="2023-11-06T20:19:41Z" changeset="143708843" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="594"/>
     <tag k="gfoss_id" v="50612"/>
     <tag k="istat_id" v="5502010003"/>
@@ -15080,7 +15066,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.montegabbione.tr.it/"/>
+    <tag k="website" v="https://comune.montegabbione.tr.it/"/>
     <tag k="wikidata" v="Q10858"/>
     <tag k="wikipedia" v="it:Montegabbione"/>
   </node>
@@ -22690,14 +22676,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026517"/>
   </node>
-  <node id="72990724" lat="39.5626420" lon="8.8986360" version="50" timestamp="2021-08-21T14:03:42Z" changeset="110029802" uid="7022493" user="Fra00">
+  <node id="72990724" lat="39.5626420" lon="8.8986360" version="51" timestamp="2023-11-06T13:03:36Z" changeset="143692751" uid="25132" user="s141739">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="7454"/>
     <tag k="name" v="Seddori/Sanluri"/>
     <tag k="name:it" v="Sanluri"/>
     <tag k="name:sc" v="Seddori"/>
     <tag k="name:zh" v="桑卢里"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="8519"/>
     <tag k="postal_code" v="09025"/>
     <tag k="rank" v="0"/>
@@ -23860,7 +23846,7 @@
     <tag k="wikipedia" v="it:Orani (Italia)"/>
     <tag k="wikipedia:sc" v="Orane"/>
   </node>
-  <node id="72992000" lat="40.4069640" lon="9.6513390" version="45" timestamp="2017-03-01T21:24:51Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992000" lat="40.4069640" lon="9.6513390" version="46" timestamp="2023-11-06T20:40:32Z" changeset="143709535" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7355"/>
     <tag k="name" v="Oniài/Onifai"/>
     <tag k="name:it" v="Onifai"/>
@@ -23869,7 +23855,7 @@
     <tag k="population" v="766"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.onifai.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.onifai.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295383"/>
     <tag k="wikipedia" v="it:Onifai"/>
     <tag k="wikipedia:sc" v="Oniài"/>
@@ -23903,7 +23889,7 @@
     <tag k="wikidata" v="Q339943"/>
     <tag k="wikipedia" v="it:Girasole (Italia)"/>
   </node>
-  <node id="72992029" lat="40.4072775" lon="9.6111604" version="45" timestamp="2017-03-01T21:24:52Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992029" lat="40.4072775" lon="9.6111604" version="46" timestamp="2023-11-06T20:40:27Z" changeset="143709535" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7336"/>
     <tag k="name" v="Lòcula/Loculi"/>
     <tag k="name:it" v="Loculi"/>
@@ -23912,7 +23898,7 @@
     <tag k="population" v="523"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.loculi.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.loculi.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295189"/>
     <tag k="wikipedia" v="it:Loculi"/>
     <tag k="wikipedia:sc" v="Lòcula"/>
@@ -24326,7 +24312,7 @@
     <tag k="wikipedia" v="it:Galtellì"/>
     <tag k="wikipedia:sc" v="Garteddi"/>
   </node>
-  <node id="72992432" lat="40.4088328" lon="9.6301207" version="41" timestamp="2017-03-01T21:24:58Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992432" lat="40.4088328" lon="9.6301207" version="42" timestamp="2023-11-06T20:40:24Z" changeset="143709535" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7329"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
     <tag k="name" v="Irgoli"/>
@@ -24336,7 +24322,7 @@
     <tag k="population" v="2294"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.irgoli.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.irgoli.nu.it/index.asp"/>
     <tag k="wikidata" v="Q294837"/>
     <tag k="wikipedia" v="sc:Irgoli"/>
     <tag k="wikipedia:it" v="Irgoli"/>
@@ -24736,7 +24722,7 @@
     <tag k="wikidata" v="Q389369"/>
     <tag k="wikipedia" v="it:Villa Sant'Antonio"/>
   </node>
-  <node id="72992995" lat="39.9941018" lon="8.5386732" version="42" timestamp="2017-03-01T21:25:05Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992995" lat="39.9941018" lon="8.5386732" version="43" timestamp="2023-11-06T06:20:11Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7652"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
     <tag k="name" v="Arriora/Riola Sardo"/>
@@ -24746,11 +24732,11 @@
     <tag k="population" v="2137"/>
     <tag k="postal_code" v="09070"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.riolasardo.or.it/"/>
+    <tag k="website" v="https://www.comune.riolasardo.or.it/"/>
     <tag k="wikidata" v="Q177161"/>
     <tag k="wikipedia" v="it:Riola Sardo"/>
   </node>
-  <node id="72993033" lat="39.9733936" lon="8.5401647" version="41" timestamp="2017-03-01T21:25:05Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72993033" lat="39.9733936" lon="8.5401647" version="42" timestamp="2023-11-06T06:20:53Z" changeset="143677607" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7644"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
     <tag k="name" v="Nurachi"/>
@@ -24760,7 +24746,7 @@
     <tag k="population" v="1619"/>
     <tag k="postal_code" v="09070"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.nurachi.or.it/index.asp"/>
+    <tag k="website" v="https://www.comune.nurachi.or.it/index.asp"/>
     <tag k="wikidata" v="Q386989"/>
     <tag k="wikipedia" v="it:Nurachi"/>
   </node>
@@ -25016,7 +25002,7 @@
     <tag k="wikidata" v="Q388533"/>
     <tag k="wikipedia" v="it:Siris (Italia)"/>
   </node>
-  <node id="72993378" lat="39.9501470" lon="8.6360250" version="41" timestamp="2017-03-01T21:25:09Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72993378" lat="39.9501470" lon="8.6360250" version="42" timestamp="2023-11-06T06:20:07Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Siimajori"/>
     <tag k="gfoss_id" v="7665"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -25027,7 +25013,7 @@
     <tag k="population" v="996"/>
     <tag k="postal_code" v="09070"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.siamaggiore.or.it/"/>
+    <tag k="website" v="https://www.comune.siamaggiore.or.it/"/>
     <tag k="wikidata" v="Q388325"/>
     <tag k="wikipedia" v="it:Siamaggiore"/>
   </node>
@@ -25041,7 +25027,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.comune.senis.or.it/"/>
   </node>
-  <node id="72993538" lat="39.9207820" lon="8.7610449" version="41" timestamp="2022-02-21T07:09:01Z" changeset="117665865" uid="1096017" user="Fabiano Peddis">
+  <node id="72993538" lat="39.9207820" lon="8.7610449" version="42" timestamp="2023-11-06T06:20:09Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7666"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
     <tag k="name" v="Siamanna"/>
@@ -25051,7 +25037,7 @@
     <tag k="population" v="863"/>
     <tag k="postal_code" v="09080"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.siamanna.or.it/"/>
+    <tag k="website" v="https://www.comune.siamanna.or.it/"/>
     <tag k="wikidata" v="Q388381"/>
     <tag k="wikipedia" v="it:Siamanna"/>
   </node>
@@ -26996,7 +26982,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3398"/>
   </node>
-  <node id="3013247846" lat="40.0037483" lon="8.6495366" version="39" timestamp="2017-03-01T21:25:50Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="3013247846" lat="40.0037483" lon="8.6495366" version="40" timestamp="2023-11-06T06:19:56Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7675"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
     <tag k="name" v="Tramatza"/>
@@ -27006,7 +26992,7 @@
     <tag k="population" v="998"/>
     <tag k="postal_code" v="09070"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.tramatza.or.it/"/>
+    <tag k="website" v="https://www.comune.tramatza.or.it/"/>
     <tag k="wikidata" v="Q389292"/>
     <tag k="wikipedia" v="it:Tramatza"/>
   </node>
@@ -27049,7 +27035,7 @@
     <tag k="population" v="67"/>
     <tag k="wikidata" v="Q18482643"/>
   </node>
-  <node id="3687249567" lat="42.9100282" lon="12.3370419" version="9" timestamp="2017-11-11T16:51:53Z" changeset="53695173" uid="1211510" user="arcanma">
+  <node id="3687249567" lat="42.9100282" lon="12.3370419" version="10" timestamp="2023-11-06T19:39:11Z" changeset="143707653" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="184"/>
     <tag k="gfoss_id" v="49727"/>
     <tag k="istat_id" v="5402710006"/>
@@ -27060,7 +27046,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.marsciano.pg.it/"/>
+    <tag k="website" v="https://www.comune.marsciano.pg.it/"/>
     <tag k="wikidata" v="Q20467"/>
     <tag k="wikipedia" v="it:Marsciano"/>
   </node>
@@ -27252,7 +27238,7 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q27987695"/>
   </node>
-  <node id="4680473788" lat="42.9340752" lon="12.6091209" version="3" timestamp="2017-11-11T15:33:04Z" changeset="53693345" uid="1211510" user="arcanma">
+  <node id="4680473788" lat="42.9340752" lon="12.6091209" version="4" timestamp="2023-11-06T19:38:56Z" changeset="143707653" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="210"/>
     <tag k="gfoss_id" v="49072"/>
     <tag k="istat_id" v="5400410001"/>
@@ -27263,7 +27249,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.bevagna.pg.it/"/>
+    <tag k="website" v="https://www.comune.bevagna.pg.it/"/>
     <tag k="wikidata" v="Q20144"/>
     <tag k="wikipedia" v="it:Bevagna"/>
   </node>
