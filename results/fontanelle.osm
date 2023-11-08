@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-07T02:19:56Z" areas="2023-11-07T00:53:00Z"/>
+<meta osm_base="2023-11-08T02:19:00Z" areas="2023-11-08T00:41:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4743,6 +4743,13 @@
     <tag k="name:ru" v="Ченджо"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3563"/>
+  </node>
+  <node id="66587078" lat="44.3511944" lon="8.2564515" version="6" timestamp="2016-09-24T23:13:26Z" changeset="42413443" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="1238"/>
+    <tag k="name" v="Plodio"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="550"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66587099" lat="44.3618091" lon="8.1919501" version="5" timestamp="2020-01-01T11:10:21Z" changeset="79078207" uid="4347030" user="vbertola">
     <tag k="name" v="Roccavignale"/>
@@ -10665,16 +10672,6 @@
     <tag k="population" v="428"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960252" lat="41.5174160" lon="13.3102010" version="5" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5155"/>
-    <tag k="name" v="Villa Santo Stefano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1763"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q117612"/>
-    <tag k="wikimedia_commons" v="Category:Villa Santo Stefano"/>
-    <tag k="wikipedia" v="it:Villa Santo Stefano"/>
-  </node>
   <node id="72960276" lat="41.5877162" lon="13.5754288" version="5" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5073"/>
     <tag k="name" v="Arce"/>
@@ -11328,7 +11325,7 @@
     <tag k="wikipedia" v="it:Decimomannu"/>
     <tag k="wikipedia:sc" v="Deximumannu"/>
   </node>
-  <node id="72990854" lat="39.5623694" lon="8.9447390" version="41" timestamp="2017-03-01T21:24:40Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72990854" lat="39.5623694" lon="8.9447390" version="42" timestamp="2023-11-07T21:09:11Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7419"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
     <tag k="name" v="Futei/Furtei"/>
@@ -11338,7 +11335,7 @@
     <tag k="population" v="1723"/>
     <tag k="postal_code" v="09040"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.furtei.ca.it/"/>
+    <tag k="website" v="https://www.comune.furtei.ca.it/"/>
     <tag k="wikidata" v="Q287490"/>
     <tag k="wikipedia" v="sc:Futei"/>
     <tag k="wikipedia:it" v="Furtei"/>
@@ -11672,7 +11669,7 @@
     <tag k="wikipedia" v="it:Decimoputzu"/>
     <tag k="wikipedia:sc" v="Deximeputzu"/>
   </node>
-  <node id="72991209" lat="39.6406306" lon="8.8398750" version="43" timestamp="2023-04-01T00:14:41Z" changeset="134365432" uid="14257573" user="toponomastica_comune_arenzano">
+  <node id="72991209" lat="39.6406306" lon="8.8398750" version="44" timestamp="2023-11-07T21:09:06Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7411"/>
     <tag k="name" v="Forru/Collinas"/>
     <tag k="name:it" v="Collinas"/>
@@ -11681,7 +11678,7 @@
     <tag k="population" v="1014"/>
     <tag k="postal_code" v="09020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.collinas.vs.it/"/>
+    <tag k="website" v="https://www.comune.collinas.vs.it/"/>
     <tag k="wikidata" v="Q287416"/>
     <tag k="wikipedia" v="it:Collinas"/>
     <tag k="wikipedia:sc" v="Forru"/>
@@ -11830,7 +11827,7 @@
     <tag k="wikipedia" v="it:Perdaxius"/>
     <tag k="wikipedia:sc" v="Perdaxius"/>
   </node>
-  <node id="72991443" lat="39.5509410" lon="8.7919340" version="42" timestamp="2017-03-01T21:24:45Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991443" lat="39.5509410" lon="8.7919340" version="43" timestamp="2023-11-07T21:08:57Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Santu 'Ainju"/>
     <tag k="gfoss_id" v="7452"/>
     <tag k="name" v="Santu 'Èngiu/San Gavino Monreale"/>
@@ -11840,7 +11837,7 @@
     <tag k="population" v="9460"/>
     <tag k="postal_code" v="09037"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sangavinomonreale.vs.it/"/>
+    <tag k="website" v="https://www.comune.sangavinomonreale.vs.it/"/>
     <tag k="wikidata" v="Q287986"/>
     <tag k="wikipedia" v="it:San Gavino Monreale"/>
     <tag k="wikipedia:sc" v="Santu 'Èngiu"/>
@@ -11902,7 +11899,7 @@
     <tag k="wikidata" v="Q285056"/>
     <tag k="wikipedia" v="it:Serdiana"/>
   </node>
-  <node id="72991508" lat="39.5678440" lon="9.1041400" version="40" timestamp="2017-03-03T19:53:53Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72991508" lat="39.5678440" lon="9.1041400" version="41" timestamp="2023-11-07T21:09:05Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7466"/>
     <tag k="name" v="Sèligas/Selegas"/>
     <tag k="name:it" v="Selegas"/>
@@ -11911,7 +11908,7 @@
     <tag k="population" v="1523"/>
     <tag k="postal_code" v="09040"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.selegas.ca.it/"/>
+    <tag k="website" v="https://www.comune.selegas.ca.it/"/>
     <tag k="wikidata" v="Q285021"/>
     <tag k="wikipedia" v="it:Selegas"/>
     <tag k="wikipedia:sc" v="Sèligas"/>
@@ -11975,7 +11972,7 @@
     <tag k="wikipedia" v="it:San Nicolò Gerrei"/>
     <tag k="wikipedia:sc" v="Pauli Gerrei"/>
   </node>
-  <node id="72991564" lat="39.5644430" lon="8.9816380" version="39" timestamp="2017-03-03T19:53:53Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72991564" lat="39.5644430" lon="8.9816380" version="40" timestamp="2023-11-07T21:09:01Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7464"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
     <tag k="name" v="Segariu"/>
@@ -11985,7 +11982,7 @@
     <tag k="population" v="1358"/>
     <tag k="postal_code" v="09040"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.segariu.ca.it/"/>
+    <tag k="website" v="https://www.comune.segariu.ca.it/"/>
     <tag k="wikidata" v="Q288178"/>
     <tag k="wikipedia" v="it:Segariu"/>
     <tag k="wikipedia:sc" v="Segariu"/>
@@ -12372,7 +12369,7 @@
     <tag k="wikidata" v="Q385722"/>
     <tag k="wikipedia" v="it:Genoni"/>
   </node>
-  <node id="72992449" lat="39.6996460" lon="9.1004380" version="42" timestamp="2017-03-03T19:53:57Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72992449" lat="39.6996460" lon="9.1004380" version="43" timestamp="2023-11-07T21:09:07Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7326"/>
     <tag k="name" v="Gerxei/Gergei"/>
     <tag k="name:it" v="Gergei"/>
@@ -12381,7 +12378,7 @@
     <tag k="population" v="1457"/>
     <tag k="postal_code" v="08030"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.gergei.ca.it/"/>
+    <tag k="website" v="https://www.comune.gergei.ca.it/"/>
     <tag k="wikidata" v="Q283968"/>
     <tag k="wikipedia" v="it:Gergei"/>
     <tag k="wikipedia:sc" v="Gerxei"/>
@@ -13018,7 +13015,7 @@
     <tag k="wikidata" v="Q387576"/>
     <tag k="wikipedia" v="it:Samugheo"/>
   </node>
-  <node id="72993827" lat="40.5063580" lon="8.7253190" version="40" timestamp="2017-03-01T21:25:15Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72993827" lat="40.5063580" lon="8.7253190" version="41" timestamp="2023-11-07T14:20:36Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7231"/>
     <tag k="name" v="Cherèmule/Cheremule"/>
     <tag k="name:it" v="Cheremule"/>
@@ -13027,12 +13024,12 @@
     <tag k="population" v="527"/>
     <tag k="postal_code" v="07040"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.cheremule.ss.it/"/>
+    <tag k="website" v="https://www.comune.cheremule.ss.it/"/>
     <tag k="wikidata" v="Q390674"/>
     <tag k="wikipedia" v="it:Cheremule"/>
     <tag k="wikipedia:sc" v="Cherèmule"/>
   </node>
-  <node id="72993850" lat="40.4309903" lon="8.7150164" version="40" timestamp="2017-03-01T21:25:15Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72993850" lat="40.4309903" lon="8.7150164" version="41" timestamp="2023-11-07T14:20:31Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7234"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
     <tag k="name" v="Cossoine"/>
@@ -13042,7 +13039,7 @@
     <tag k="population" v="982"/>
     <tag k="postal_code" v="07010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.cossoine.ss.it/"/>
+    <tag k="website" v="https://www.comune.cossoine.ss.it/"/>
     <tag k="wikidata" v="Q390692"/>
     <tag k="wikipedia" v="it:Cossoine"/>
     <tag k="wikipedia:sc" v="Cossoine"/>
@@ -13167,7 +13164,7 @@
     <tag k="wikipedia" v="it:Perfugas"/>
     <tag k="wikipedia:sc" v="Pèifugas"/>
   </node>
-  <node id="72994062" lat="39.7245440" lon="8.7954320" version="41" timestamp="2017-03-01T21:25:16Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72994062" lat="39.7245440" lon="8.7954320" version="42" timestamp="2023-11-07T21:09:02Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7651"/>
     <tag k="name" v="Pompu"/>
     <tag k="name:it" v="Pompu"/>
@@ -13176,7 +13173,7 @@
     <tag k="population" v="303"/>
     <tag k="postal_code" v="09095"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.pompu.or.it/"/>
+    <tag k="website" v="https://www.comune.pompu.or.it/"/>
     <tag k="wikidata" v="Q387452"/>
     <tag k="wikipedia" v="it:Pompu"/>
   </node>
@@ -13213,7 +13210,7 @@
     <tag k="wikipedia" v="it:Benetutti"/>
     <tag k="wikipedia:sc" v="Benetutti"/>
   </node>
-  <node id="72994262" lat="40.5538520" lon="8.7299524" version="41" timestamp="2017-12-25T11:24:51Z" changeset="54904819" uid="1240942" user="dan980">
+  <node id="72994262" lat="40.5538520" lon="8.7299524" version="42" timestamp="2023-11-07T14:20:35Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7217"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
     <tag k="name" v="Bessude"/>
@@ -13223,12 +13220,12 @@
     <tag k="population" v="501"/>
     <tag k="postal_code" v="07040"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bessude.ss.it/"/>
+    <tag k="website" v="https://www.comune.bessude.ss.it/"/>
     <tag k="wikidata" v="Q376111"/>
     <tag k="wikipedia" v="sc:Bessude"/>
     <tag k="wikipedia:it" v="Bessude"/>
   </node>
-  <node id="72994268" lat="40.5333590" lon="8.7644200" version="40" timestamp="2017-03-01T21:25:17Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72994268" lat="40.5333590" lon="8.7644200" version="41" timestamp="2023-11-07T14:20:24Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7218"/>
     <tag k="name" v="Bunnànnaru/Bonnanaro"/>
     <tag k="name:it" v="Bonnanaro"/>
@@ -13237,7 +13234,7 @@
     <tag k="population" v="1127"/>
     <tag k="postal_code" v="07043"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bonnanaro.ss.it/"/>
+    <tag k="website" v="https://www.comune.bonnanaro.ss.it/"/>
     <tag k="wikidata" v="Q283144"/>
     <tag k="wikipedia" v="it:Bonnanaro"/>
     <tag k="wikipedia:sc" v="Bunnànnaru"/>
@@ -13285,7 +13282,7 @@
     <tag k="wikipedia" v="it:Bottidda"/>
     <tag k="wikipedia:sc" v="Bottidda"/>
   </node>
-  <node id="72994361" lat="40.5729271" lon="8.6973713" version="41" timestamp="2018-08-06T14:00:06Z" changeset="61405731" uid="461682" user="Griphon">
+  <node id="72994361" lat="40.5729271" lon="8.6973713" version="42" timestamp="2023-11-07T14:20:34Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7214"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
     <tag k="name" v="Bànari/Banari"/>
@@ -13295,7 +13292,7 @@
     <tag k="population" v="677"/>
     <tag k="postal_code" v="07040"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.banari.ss.it/"/>
+    <tag k="website" v="https://www.comune.banari.ss.it/"/>
     <tag k="wikidata" v="Q390160"/>
     <tag k="wikipedia" v="it:Banari"/>
     <tag k="wikipedia:sc" v="Bànari"/>
