@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-08T02:16:59Z" areas="2023-11-08T00:51:59Z"/>
+<meta osm_base="2023-11-09T02:17:38Z" areas="2023-11-09T00:35:40Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1884,12 +1884,6 @@
     <tag k="name:scn" v="Santa Margarita"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6044"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
-  <node id="67253841" lat="37.2522942" lon="13.7935999" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Camastra"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2005"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67253875" lat="37.4028533" lon="13.7006695" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
@@ -4222,7 +4216,7 @@
     <tag k="wikidata" v="Q10880"/>
     <tag k="wikipedia" v="it:Penna in Teverina"/>
   </node>
-  <node id="68507931" lat="42.6817096" lon="12.1020615" version="12" timestamp="2023-11-02T08:27:59Z" changeset="143516321" uid="3860151" user="Michele Aquilani">
+  <node id="68507931" lat="42.6817096" lon="12.1020615" version="13" timestamp="2023-11-08T12:14:57Z" changeset="143777418" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="444"/>
     <tag k="gfoss_id" v="50744"/>
     <tag k="istat_id" v="5502810001"/>
@@ -4233,7 +4227,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.porano.tr.it/"/>
+    <tag k="website" v="https://www.comune.porano.tr.it/"/>
     <tag k="wikidata" v="Q10888"/>
     <tag k="wikimedia_commons" v="Category:Porano"/>
     <tag k="wikipedia" v="it:Porano"/>
@@ -6818,7 +6812,7 @@
     <tag k="population" v="2501"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992910" lat="41.9584409" lon="13.5361021" version="6" timestamp="2023-09-04T13:21:00Z" changeset="140805432" uid="3860151" user="Michele Aquilani">
+  <node id="70992910" lat="41.9578905" lon="13.5382598" version="7" timestamp="2023-11-08T11:36:09Z" changeset="143775904" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5809"/>
     <tag k="name" v="Trasacco"/>
     <tag k="place" v="village"/>
@@ -8147,7 +8141,7 @@
     <tag k="wikipedia" v="it:Elmas"/>
     <tag k="wikipedia:sc" v="Su Masu"/>
   </node>
-  <node id="72992019" lat="39.9517192" lon="9.6619603" version="44" timestamp="2017-03-01T21:24:52Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992019" lat="39.9517192" lon="9.6619603" version="45" timestamp="2023-11-08T03:04:22Z" changeset="143760926" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7327"/>
     <tag k="name" v="Gelisuli/Girasole"/>
     <tag k="name:it" v="Girasole"/>
@@ -8156,7 +8150,7 @@
     <tag k="population" v="946"/>
     <tag k="postal_code" v="08040"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.girasole.og.it/index.asp"/>
+    <tag k="website" v="https://www.comune.girasole.og.it/index.asp"/>
     <tag k="wikidata" v="Q339943"/>
     <tag k="wikipedia" v="it:Girasole (Italia)"/>
   </node>
@@ -8232,7 +8226,7 @@
     <tag k="wikipedia" v="it:Laerru"/>
     <tag k="wikipedia:sc" v="Laerru"/>
   </node>
-  <node id="72994522" lat="40.7657700" lon="9.5202320" version="40" timestamp="2017-03-01T21:25:20Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72994522" lat="40.7657700" lon="9.5202320" version="41" timestamp="2023-11-08T22:33:01Z" changeset="143800258" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7297"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
     <tag k="name" v="Padru"/>
@@ -8242,7 +8236,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2109"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.padru.ss.it/"/>
+    <tag k="website" v="https://www.comune.padru.ss.it/"/>
     <tag k="wikidata" v="Q340971"/>
     <tag k="wikipedia" v="it:Padru"/>
     <tag k="wikipedia:sc" v="Padru"/>
