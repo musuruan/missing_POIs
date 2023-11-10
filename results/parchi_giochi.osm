@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-09T02:19:55Z" areas="2023-11-09T00:35:40Z"/>
+<meta osm_base="2023-11-10T02:20:24Z" areas="2023-11-10T00:38:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -479,12 +479,12 @@
     <tag k="population" v="990"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505794" lat="45.9889712" lon="9.5794792" version="5" timestamp="2021-01-14T11:40:31Z" changeset="97493203" uid="616481" user="gigi2037">
+  <node id="62505794" lat="45.9889712" lon="9.5794792" version="6" timestamp="2023-11-09T06:48:03Z" changeset="143808173" uid="9451067" user="b-jazz-bot">
     <tag k="email" v="info@comune.ornica.bg.it"/>
     <tag k="name" v="Ornica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="147"/>
-    <tag k="website" v="http://www.comune.ornica.bg.it/PortaleNet/portale/CadmoDriver?_token=SEARCHENGINESXOK&amp;codice_comune=ORNICA&amp;_page=pHomePage&amp;_state=initial&amp;_action_do_home_siscotel=1"/>
+    <tag k="website" v="https://www.comune.ornica.bg.it/PortaleNet/portale/CadmoDriver?_token=SEARCHENGINESXOK&amp;codice_comune=ORNICA&amp;_page=pHomePage&amp;_state=initial&amp;_action_do_home_siscotel=1"/>
     <tag k="wikidata" v="Q101312"/>
     <tag k="wikipedia" v="it:Ornica"/>
   </node>
@@ -531,14 +531,14 @@
     <tag k="population" v="1385"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505880" lat="45.9797880" lon="9.6705480" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62505880" lat="45.9797880" lon="9.6705480" version="5" timestamp="2023-11-09T06:48:18Z" changeset="143808173" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="702"/>
     <tag k="gfoss_id" v="2088"/>
     <tag k="name" v="Piazzolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="89"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.piazzolo.bg.it/PortaleNet/portale/CadmoDriver?_token=SEARCHENGINESXOK&amp;codice_comune=PIAZZOLO&amp;_page=pHomePage&amp;_state=initial&amp;_action_do_home_siscotel=1"/>
+    <tag k="website" v="https://www.comune.piazzolo.bg.it/PortaleNet/portale/CadmoDriver?_token=SEARCHENGINESXOK&amp;codice_comune=PIAZZOLO&amp;_page=pHomePage&amp;_state=initial&amp;_action_do_home_siscotel=1"/>
     <tag k="wikidata" v="Q101413"/>
     <tag k="wikipedia" v="it:Piazzolo"/>
   </node>
@@ -5126,9 +5126,11 @@
     <tag k="wikidata" v="Q17845"/>
     <tag k="wikipedia" v="it:Piovà Massaia"/>
   </node>
-  <node id="63623309" lat="44.9837010" lon="8.3235786" version="3" timestamp="2023-01-01T18:42:56Z" changeset="130759781" uid="2976645" user="Jrachi">
+  <node id="63623309" lat="44.9837010" lon="8.3235786" version="4" timestamp="2023-11-09T07:30:34Z" changeset="143809519" uid="1861652" user="pippo67">
+    <tag k="description" v="Il comune ha aggiunto il toponimo Monferrato."/>
+    <tag k="fixme" v="https://montemagno-api.municipiumapp.it/s3/4376/allegati/scelta-sociale/montemagno-monferrato.pdf"/>
     <tag k="gfoss_id" v="815"/>
-    <tag k="name" v="Montemagno"/>
+    <tag k="name" v="Montemagno Monferrato"/>
     <tag k="name:pms" v="Montmagn"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1205"/>
@@ -14740,7 +14742,7 @@
     <tag k="wikidata" v="Q20472"/>
     <tag k="wikipedia" v="it:Massa Martana"/>
   </node>
-  <node id="68507599" lat="43.4422051" lon="12.4371945" version="12" timestamp="2017-11-11T17:07:53Z" changeset="53695556" uid="1211510" user="arcanma">
+  <node id="68507599" lat="43.4422051" lon="12.4371945" version="13" timestamp="2023-11-09T07:39:12Z" changeset="143809795" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="566"/>
     <tag k="gfoss_id" v="50036"/>
     <tag k="istat_id" v="5404110001"/>
@@ -14751,7 +14753,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.pietralunga.it/"/>
+    <tag k="website" v="https://www.pietralunga.it/"/>
     <tag k="wikidata" v="Q20513"/>
     <tag k="wikipedia" v="it:Pietralunga"/>
   </node>
@@ -18232,7 +18234,7 @@
     <tag k="wikidata" v="Q95095"/>
     <tag k="wikipedia" v="it:Codigoro"/>
   </node>
-  <node id="69300288" lat="44.7945780" lon="11.8018170" version="7" timestamp="2017-04-02T21:55:27Z" changeset="47394388" uid="1834719" user="LvdT">
+  <node id="69300288" lat="44.7945780" lon="11.8018170" version="8" timestamp="2023-11-09T18:12:31Z" changeset="143833874" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="3"/>
     <tag k="gfoss_id" v="4098"/>
     <tag k="name" v="Masi Torello"/>
@@ -18243,7 +18245,7 @@
     <tag k="ref:ISTAT" v="038012"/>
     <tag k="ref:catasto" v="F016"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.masitorello.fe.it/"/>
+    <tag k="website" v="https://www.comune.masitorello.fe.it/"/>
     <tag k="wikidata" v="Q95109"/>
     <tag k="wikipedia" v="it:Masi Torello"/>
   </node>
@@ -22674,7 +22676,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026517"/>
   </node>
-  <node id="72990724" lat="39.5626420" lon="8.8986360" version="51" timestamp="2023-11-06T13:03:36Z" changeset="143692751" uid="25132" user="s141739">
+  <node id="72990724" lat="39.5626420" lon="8.8986360" version="53" timestamp="2023-11-09T11:19:43Z" changeset="143817882" uid="25132" user="s141739">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="7454"/>
     <tag k="name" v="Seddori/Sanluri"/>
@@ -23800,7 +23802,7 @@
     <tag k="wikipedia" v="it:Nurri"/>
     <tag k="wikipedia:sc" v="Nurri"/>
   </node>
-  <node id="72991976" lat="40.1828560" lon="9.1483320" version="44" timestamp="2017-03-01T21:24:51Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991976" lat="40.1828560" lon="9.1483320" version="45" timestamp="2023-11-09T05:18:01Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7353"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
     <tag k="name" v="Ortzai/Olzai"/>
@@ -23810,12 +23812,12 @@
     <tag k="population" v="1046"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.olzai.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.olzai.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295351"/>
     <tag k="wikipedia" v="it:Olzai"/>
     <tag k="wikipedia:sc" v="Ortzai"/>
   </node>
-  <node id="72991986" lat="40.1685030" lon="9.1784670" version="48" timestamp="2017-03-01T21:24:51Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991986" lat="40.1685030" lon="9.1784670" version="49" timestamp="2023-11-09T05:18:08Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7352"/>
     <tag k="name" v="Ollollai/Ollolai"/>
     <tag k="name:it" v="Ollolai"/>
@@ -23824,12 +23826,12 @@
     <tag k="population" v="1579"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.ollolai.nu.it/"/>
+    <tag k="website" v="https://www.comune.ollolai.nu.it/"/>
     <tag k="wikidata" v="Q295337"/>
     <tag k="wikipedia" v="it:Ollolai"/>
     <tag k="wikipedia:sc" v="Ollollai"/>
   </node>
-  <node id="72991993" lat="40.2501740" lon="9.1798549" version="52" timestamp="2022-06-20T10:53:11Z" changeset="122616195" uid="10721323" user="Lorenzo Zucca">
+  <node id="72991993" lat="40.2501740" lon="9.1798549" version="53" timestamp="2023-11-09T05:18:06Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7357"/>
     <tag k="name" v="Orane/Orani"/>
     <tag k="name:it" v="Orani"/>
@@ -23839,7 +23841,7 @@
     <tag k="postal_code" v="08026"/>
     <tag k="ref:LOCODE" v="ITONA"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.orani.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.orani.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295414"/>
     <tag k="wikipedia" v="it:Orani (Italia)"/>
     <tag k="wikipedia:sc" v="Orane"/>

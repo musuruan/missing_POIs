@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-09T02:16:39Z" areas="2023-11-09T00:37:42Z"/>
+<meta osm_base="2023-11-10T02:17:18Z" areas="2023-11-10T00:38:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -293,14 +293,14 @@
     <tag k="population" v="1385"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505880" lat="45.9797880" lon="9.6705480" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62505880" lat="45.9797880" lon="9.6705480" version="5" timestamp="2023-11-09T06:48:18Z" changeset="143808173" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="702"/>
     <tag k="gfoss_id" v="2088"/>
     <tag k="name" v="Piazzolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="89"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.piazzolo.bg.it/PortaleNet/portale/CadmoDriver?_token=SEARCHENGINESXOK&amp;codice_comune=PIAZZOLO&amp;_page=pHomePage&amp;_state=initial&amp;_action_do_home_siscotel=1"/>
+    <tag k="website" v="https://www.comune.piazzolo.bg.it/PortaleNet/portale/CadmoDriver?_token=SEARCHENGINESXOK&amp;codice_comune=PIAZZOLO&amp;_page=pHomePage&amp;_state=initial&amp;_action_do_home_siscotel=1"/>
     <tag k="wikidata" v="Q101413"/>
     <tag k="wikipedia" v="it:Piazzolo"/>
   </node>
@@ -15121,7 +15121,7 @@
     <tag k="wikidata" v="Q95104"/>
     <tag k="wikipedia" v="it:Goro"/>
   </node>
-  <node id="69300275" lat="44.7456780" lon="11.9435210" version="6" timestamp="2017-04-02T21:55:26Z" changeset="47394388" uid="1834719" user="LvdT">
+  <node id="69300275" lat="44.7456780" lon="11.9435210" version="7" timestamp="2023-11-09T18:12:24Z" changeset="143833874" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="2"/>
     <tag k="gfoss_id" v="4103"/>
     <tag k="name" v="Ostellato"/>
@@ -15132,7 +15132,7 @@
     <tag k="ref:ISTAT" v="038017"/>
     <tag k="ref:catasto" v="G184"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.ostellato.fe.it/"/>
+    <tag k="website" v="https://www.comune.ostellato.fe.it/"/>
     <tag k="wikidata" v="Q95131"/>
     <tag k="wikipedia" v="it:Ostellato"/>
   </node>
@@ -15151,7 +15151,7 @@
     <tag k="wikidata" v="Q95095"/>
     <tag k="wikipedia" v="it:Codigoro"/>
   </node>
-  <node id="69300288" lat="44.7945780" lon="11.8018170" version="7" timestamp="2017-04-02T21:55:27Z" changeset="47394388" uid="1834719" user="LvdT">
+  <node id="69300288" lat="44.7945780" lon="11.8018170" version="8" timestamp="2023-11-09T18:12:31Z" changeset="143833874" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="3"/>
     <tag k="gfoss_id" v="4098"/>
     <tag k="name" v="Masi Torello"/>
@@ -15162,7 +15162,7 @@
     <tag k="ref:ISTAT" v="038012"/>
     <tag k="ref:catasto" v="F016"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.masitorello.fe.it/"/>
+    <tag k="website" v="https://www.comune.masitorello.fe.it/"/>
     <tag k="wikidata" v="Q95109"/>
     <tag k="wikipedia" v="it:Masi Torello"/>
   </node>
@@ -15230,24 +15230,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="7126"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69300436" lat="44.5950245" lon="11.0529006" version="15" timestamp="2017-09-10T08:19:13Z" changeset="51900579" uid="339581" user="nyuriks">
-    <tag k="ele" v="42"/>
-    <tag k="gfoss_id" v="3985"/>
-    <tag k="name" v="Castelfranco Emilia"/>
-    <tag k="name:egl" v="Castelfrànch"/>
-    <tag k="name:it" v="Castelfranco Emilia"/>
-    <tag k="name:lt" v="Kastelfranko Emilija"/>
-    <tag k="name:uk" v="Кастельфранко-Емілія"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="32677"/>
-    <tag k="postal_code" v="41013"/>
-    <tag k="ref:ISTAT" v="036006"/>
-    <tag k="ref:catasto" v="C107"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.castelfranco-emilia.mo.it/"/>
-    <tag k="wikidata" v="Q100043"/>
-    <tag k="wikipedia" v="it:Castelfranco Emilia"/>
   </node>
   <node id="69300461" lat="44.6776083" lon="11.0436236" version="9" timestamp="2017-09-10T08:19:13Z" changeset="51900579" uid="339581" user="nyuriks">
     <tag k="ele" v="20"/>
@@ -17565,16 +17547,6 @@
     <tag k="population" v="428"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960252" lat="41.5174160" lon="13.3102010" version="5" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5155"/>
-    <tag k="name" v="Villa Santo Stefano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1763"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q117612"/>
-    <tag k="wikimedia_commons" v="Category:Villa Santo Stefano"/>
-    <tag k="wikipedia" v="it:Villa Santo Stefano"/>
-  </node>
   <node id="72960258" lat="41.5124200" lon="13.7700110" version="4" timestamp="2017-03-11T12:49:43Z" changeset="46761722" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="5154"/>
     <tag k="name" v="Villa Santa Lucia"/>
@@ -19510,7 +19482,7 @@
     <tag k="wikipedia" v="it:Nurri"/>
     <tag k="wikipedia:sc" v="Nurri"/>
   </node>
-  <node id="72991976" lat="40.1828560" lon="9.1483320" version="44" timestamp="2017-03-01T21:24:51Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991976" lat="40.1828560" lon="9.1483320" version="45" timestamp="2023-11-09T05:18:01Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7353"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
     <tag k="name" v="Ortzai/Olzai"/>
@@ -19520,12 +19492,12 @@
     <tag k="population" v="1046"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.olzai.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.olzai.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295351"/>
     <tag k="wikipedia" v="it:Olzai"/>
     <tag k="wikipedia:sc" v="Ortzai"/>
   </node>
-  <node id="72991993" lat="40.2501740" lon="9.1798549" version="52" timestamp="2022-06-20T10:53:11Z" changeset="122616195" uid="10721323" user="Lorenzo Zucca">
+  <node id="72991993" lat="40.2501740" lon="9.1798549" version="53" timestamp="2023-11-09T05:18:06Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7357"/>
     <tag k="name" v="Orane/Orani"/>
     <tag k="name:it" v="Orani"/>
@@ -19535,7 +19507,7 @@
     <tag k="postal_code" v="08026"/>
     <tag k="ref:LOCODE" v="ITONA"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.orani.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.orani.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295414"/>
     <tag k="wikipedia" v="it:Orani (Italia)"/>
     <tag k="wikipedia:sc" v="Orane"/>
