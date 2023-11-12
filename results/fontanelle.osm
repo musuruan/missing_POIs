@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-11T02:48:29Z" areas="2023-11-11T00:36:14Z"/>
+<meta osm_base="2023-11-12T02:22:46Z" areas="2023-11-12T00:27:53Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2412,9 +2412,8 @@
     <tag k="wikidata" v="Q17772"/>
     <tag k="wikipedia" v="it:Cassinasco"/>
   </node>
-  <node id="63623045" lat="44.7203956" lon="8.3801058" version="2" timestamp="2017-09-15T21:14:32Z" changeset="52081671" uid="417672" user="Guidus">
+  <node id="63623045" lat="44.7203956" lon="8.3801058" version="3" timestamp="2023-11-12T01:57:41Z" changeset="143919847" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="763"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Castel Boglione"/>
     <tag k="name:pms" v="Castervé"/>
     <tag k="place" v="village"/>
@@ -2725,9 +2724,8 @@
     <tag k="wikidata" v="Q17789"/>
     <tag k="wikipedia" v="it:Cerreto d'Asti"/>
   </node>
-  <node id="63624437" lat="44.7183460" lon="8.4153440" version="2" timestamp="2017-09-15T21:14:32Z" changeset="52081671" uid="417672" user="Guidus">
+  <node id="63624437" lat="44.7183460" lon="8.4153440" version="3" timestamp="2023-11-12T01:57:41Z" changeset="143919847" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="771"/>
-    <tag k="is_in" v="Asti, Piemonte, Italy"/>
     <tag k="name" v="Castel Rocchero"/>
     <tag k="name:pms" v="Castel Roché"/>
     <tag k="place" v="village"/>
@@ -4302,6 +4300,14 @@
     <tag k="name" v="Salizzole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3761"/>
+  </node>
+  <node id="64779059" lat="45.7789522" lon="11.8012715" version="18" timestamp="2016-10-08T21:08:50Z" changeset="42742263" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="3258"/>
+    <tag k="name" v="Mussolente"/>
+    <tag k="name:vec" v="Musołente"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="7658"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64779066" lat="45.4363550" lon="11.6708255" version="3" timestamp="2016-10-08T21:08:50Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3253"/>
@@ -7106,7 +7112,7 @@
     <tag k="population" v="927"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68507581" lat="42.7731370" lon="12.5249660" version="11" timestamp="2023-07-10T17:25:27Z" changeset="138347303" uid="1211510" user="arcanma">
+  <node id="68507581" lat="42.7731370" lon="12.5249660" version="12" timestamp="2023-11-11T13:33:11Z" changeset="143899835" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="351"/>
     <tag k="gfoss_id" v="49738"/>
     <tag k="istat_id" v="5402810003"/>
@@ -7117,11 +7123,11 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.massamartana.pg.it/"/>
+    <tag k="website" v="https://www.comune.massamartana.pg.it/"/>
     <tag k="wikidata" v="Q20472"/>
     <tag k="wikipedia" v="it:Massa Martana"/>
   </node>
-  <node id="68507698" lat="42.8579387" lon="12.3646786" version="11" timestamp="2022-07-08T17:50:05Z" changeset="123376198" uid="1211510" user="arcanma">
+  <node id="68507698" lat="42.8579387" lon="12.3646786" version="12" timestamp="2023-11-11T13:33:17Z" changeset="143899835" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="243"/>
     <tag k="gfoss_id" v="49500"/>
     <tag k="istat_id" v="5402010001"/>
@@ -7132,11 +7138,11 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.frattatodina.pg.it/"/>
+    <tag k="website" v="https://www.comune.frattatodina.pg.it/"/>
     <tag k="wikidata" v="Q20449"/>
     <tag k="wikipedia" v="it:Fratta Todina"/>
   </node>
-  <node id="68507774" lat="43.4377812" lon="12.1625435" version="13" timestamp="2020-10-10T21:37:59Z" changeset="92287578" uid="461682" user="Griphon">
+  <node id="68507774" lat="43.4377812" lon="12.1625435" version="14" timestamp="2023-11-11T09:30:34Z" changeset="143891768" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="688"/>
     <tag k="gfoss_id" v="49801"/>
     <tag k="istat_id" v="5403210004"/>
@@ -7147,7 +7153,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.montesantamariatiberina.org/"/>
+    <tag k="website" v="https://www.montesantamariatiberina.org/"/>
     <tag k="wikidata" v="Q20477"/>
     <tag k="wikipedia" v="it:Monte Santa Maria Tiberina"/>
   </node>

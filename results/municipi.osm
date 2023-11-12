@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-11T02:45:32Z" areas="2023-11-11T00:01:26Z"/>
+<meta osm_base="2023-11-12T02:19:45Z" areas="2023-11-11T23:46:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2948,6 +2948,20 @@
     <tag k="place" v="village"/>
     <tag k="population" v="866"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="66503431" lat="46.5065309" lon="13.3064259" version="13" timestamp="2023-03-19T15:28:40Z" changeset="133862652" uid="129060" user="Klenje">
+    <tag k="gfoss_id" v="3747"/>
+    <tag k="loc_name:fur" v="Ponteibe"/>
+    <tag k="name" v="Pontebba"/>
+    <tag k="name:de" v="Pontafel"/>
+    <tag k="name:fur" v="Pontêbe"/>
+    <tag k="name:it" v="Pontebba"/>
+    <tag k="name:sl" v="Tablja"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1768"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53309"/>
+    <tag k="wikipedia" v="it:Pontebba"/>
   </node>
   <node id="66586375" lat="44.5797477" lon="9.0239649" version="3" timestamp="2016-10-01T18:39:45Z" changeset="42568713" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1277"/>
