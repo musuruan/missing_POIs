@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-20T02:21:51Z" areas="2023-11-19T22:07:42Z"/>
+<meta osm_base="2023-11-21T02:24:11Z" areas="2023-11-20T21:50:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2171,13 +2171,6 @@
     <tag k="population" v="12757"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629659" lat="45.3277550" lon="7.8851210" version="4" timestamp="2023-01-17T19:56:23Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="50"/>
-    <tag k="name" v="Candia Canavese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1302"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63629756" lat="45.3585264" lon="7.6892385" version="3" timestamp="2020-06-20T19:19:17Z" changeset="86919202" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="231"/>
     <tag k="name" v="Salassa"/>
@@ -2243,13 +2236,6 @@
     <tag k="name" v="Marentino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1190"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63630669" lat="45.0489410" lon="7.0285080" version="4" timestamp="2023-01-17T20:04:52Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="281"/>
-    <tag k="name" v="Usseaux"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="204"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63630731" lat="45.0947913" lon="7.8784734" version="5" timestamp="2023-01-17T19:57:05Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -8450,12 +8436,13 @@
     <tag k="wikimedia_commons" v="Category:Ponzano Romano"/>
     <tag k="wikipedia" v="it:Ponzano Romano"/>
   </node>
-  <node id="72962874" lat="41.9060525" lon="12.9588880" version="4" timestamp="2023-05-17T16:00:17Z" changeset="136219725" uid="3860151" user="Michele Aquilani">
+  <node id="72962874" lat="41.9060525" lon="12.9588880" version="5" timestamp="2023-11-20T09:48:01Z" changeset="144239061" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4988"/>
     <tag k="name" v="Pisoniano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="734"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://comune.pisoniano.rm.it/"/>
     <tag k="wikidata" v="Q243152"/>
     <tag k="wikimedia_commons" v="Category:Pisoniano"/>
     <tag k="wikipedia" v="it:Pisoniano"/>
