@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-22T02:23:56Z" areas="2023-11-21T21:36:56Z"/>
+<meta osm_base="2023-11-23T02:20:21Z" areas="2023-11-23T00:07:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2909,13 +2909,14 @@
     <tag k="population" v="3506"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513769" lat="45.5404750" lon="9.4820520" version="5" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62513769" lat="45.5404750" lon="9.4820520" version="6" timestamp="2023-11-22T20:27:27Z" changeset="144342080" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1822"/>
     <tag k="name" v="Inzago"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10948"/>
     <tag k="postal_code" v="20065"/>
     <tag k="source" v="ISTAT (30/11/2015)"/>
+    <tag k="wikidata" v="Q30026356"/>
   </node>
   <node id="62513897" lat="45.5138305" lon="8.8519543" version="8" timestamp="2022-04-02T21:13:11Z" changeset="119247527" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Inveruno"/>
@@ -9325,13 +9326,6 @@
     <tag k="population" v="62"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q266381"/>
-  </node>
-  <node id="66586570" lat="44.5245575" lon="8.6192573" version="4" timestamp="2018-03-23T16:51:27Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
-    <tag k="gfoss_id" v="1318"/>
-    <tag k="name" v="Tiglieto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="546"/>
-    <tag k="wikidata" v="Q266259"/>
   </node>
   <node id="66586673" lat="43.8652210" lon="7.8687480" version="3" timestamp="2022-04-20T07:52:37Z" changeset="119939303" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1135"/>
