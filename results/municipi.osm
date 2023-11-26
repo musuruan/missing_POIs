@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-25T02:14:53Z" areas="2023-11-24T23:54:37Z"/>
+<meta osm_base="2023-11-26T02:21:28Z" areas="2023-11-25T23:40:04Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2928,15 +2928,6 @@
     <tag k="population" v="564"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586463" lat="44.3762485" lon="9.0861613" version="7" timestamp="2023-06-14T14:27:24Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="1300"/>
-    <tag k="name" v="Pieve Ligure"/>
-    <tag k="name:lij" v="Ceive"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2459"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q266620"/>
-  </node>
   <node id="66586673" lat="43.8652210" lon="7.8687480" version="3" timestamp="2022-04-20T07:52:37Z" changeset="119939303" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1135"/>
     <tag k="name" v="Castellaro"/>
@@ -2963,28 +2954,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q269788"/>
     <tag k="wikipedia" v="it:Santo Stefano al Mare"/>
-  </node>
-  <node id="66586890" lat="44.2419616" lon="9.6558727" version="5" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
-    <tag k="alt_name" v="Carrodano Inferiore"/>
-    <tag k="gfoss_id" v="1334"/>
-    <tag k="name" v="Carrodano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="503"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="66586956" lat="44.2238470" lon="9.7215181" version="4" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="1330"/>
-    <tag k="name" v="Borghetto di Vara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1005"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="66586966" lat="44.0998518" lon="10.0169419" version="4" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="1335"/>
-    <tag k="name" v="Castelnuovo Magra"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7935"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66587145" lat="44.2995752" lon="8.0706198" version="3" timestamp="2016-09-26T02:22:01Z" changeset="42435134" uid="743479" user="fayor">
     <tag k="alt_name" v="San Vincenzo"/>
@@ -4517,13 +4486,6 @@
     <tag k="population" v="1765"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529216" lat="40.1977814" lon="18.3408272" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6272"/>
-    <tag k="name" v="Carpignano Salentino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3843"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68529225" lat="41.3631280" lon="15.3123470" version="2" timestamp="2016-08-27T16:24:20Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6154"/>
     <tag k="name" v="Troia"/>
@@ -4538,80 +4500,12 @@
     <tag k="population" v="8107"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529328" lat="40.1738974" lon="18.2970106" version="7" timestamp="2023-06-04T17:40:27Z" changeset="136942302" uid="117497" user="Gnurpsnewoel">
-    <tag k="gfoss_id" v="6275"/>
-    <tag k="name" v="Castrignano de' Greci"/>
-    <tag k="name:el" v="Καστρινιάνο ντέι Γκρέκι"/>
-    <tag k="name:it" v="Castrignano de' Greci"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4107"/>
-    <tag k="reg_name:el-it" v="Kascignàna"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529391" lat="40.3084260" lon="18.1286230" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6328"/>
-    <tag k="name" v="San Pietro in Lama"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3733"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529397" lat="40.2681260" lon="18.1842250" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6326"/>
-    <tag k="name" v="San Donato di Lecce"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5718"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529491" lat="40.0392220" lon="18.3260310" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6311"/>
-    <tag k="name" v="Nociglia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2669"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529548" lat="40.0647220" lon="18.3244300" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6266"/>
-    <tag k="name" v="Botrugno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3046"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68529591" lat="40.0283220" lon="18.3451310" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6339"/>
     <tag k="name" v="Surano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1791"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529738" lat="40.0095220" lon="18.3925320" version="7" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6284"/>
-    <tag k="name" v="Diso"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3298"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529781" lat="39.9835190" lon="18.0868260" version="3" timestamp="2016-09-09T00:49:52Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6342"/>
-    <tag k="name" v="Taviano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12186"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529797" lat="40.1301258" lon="18.1005072" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6331"/>
-    <tag k="name" v="Seclì"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1909"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529917" lat="40.1478250" lon="18.4859330" version="6" timestamp="2023-06-14T22:08:21Z" changeset="137346715" uid="19497998" user="branco-revert">
-    <tag k="gfoss_id" v="6314"/>
-    <tag k="name" v="Otranto"/>
-    <tag k="name:el" v="Οτράντο"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="5282"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q52174"/>
   </node>
   <node id="68529953" lat="40.4440240" lon="17.4151050" version="2" timestamp="2016-08-27T16:24:10Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6226"/>
@@ -8302,13 +8196,13 @@
     <tag k="wikimedia_commons" v="Category:Ponzano Romano"/>
     <tag k="wikipedia" v="it:Ponzano Romano"/>
   </node>
-  <node id="72962874" lat="41.9060525" lon="12.9588880" version="5" timestamp="2023-11-20T09:48:01Z" changeset="144239061" uid="3860151" user="Michele Aquilani">
+  <node id="72962874" lat="41.9060525" lon="12.9588880" version="6" timestamp="2023-11-25T15:59:27Z" changeset="144445542" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="4988"/>
     <tag k="name" v="Pisoniano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="734"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://comune.pisoniano.rm.it/"/>
+    <tag k="website" v="https://comune.pisoniano.rm.it/"/>
     <tag k="wikidata" v="Q243152"/>
     <tag k="wikimedia_commons" v="Category:Pisoniano"/>
     <tag k="wikipedia" v="it:Pisoniano"/>
@@ -8922,11 +8816,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="11542"/>
   </node>
-  <node id="1396037034" lat="44.2728242" lon="9.6074789" version="2" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
-    <tag k="name" v="Carro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="545"/>
-  </node>
   <node id="1398660664" lat="45.4688494" lon="10.6078237" version="5" timestamp="2017-03-11T13:01:39Z" changeset="46761933" uid="354284" user="sbiribizio">
     <tag k="name" v="Sirmione"/>
     <tag k="place" v="town"/>
@@ -9001,15 +8890,6 @@
     <tag k="name" v="Onano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="995"/>
-  </node>
-  <node id="1941889656" lat="44.3036653" lon="9.2093446" version="9" timestamp="2023-06-14T14:30:36Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="1301"/>
-    <tag k="name" v="Portofino"/>
-    <tag k="name:oc" v="Pòrtfin"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="420"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q232782"/>
   </node>
   <node id="2125750635" lat="45.7123863" lon="10.4613673" version="2" timestamp="2014-01-31T22:38:49Z" changeset="20308853" uid="69717" user="kaitu">
     <tag k="name" v="Trebbio"/>
