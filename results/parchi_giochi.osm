@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-11-26T02:24:09Z" areas="2023-11-25T23:40:04Z"/>
+<meta osm_base="2023-11-27T02:24:15Z" areas="2023-11-26T23:24:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -8140,13 +8140,6 @@
     <tag k="name:ru" v="Пьомбино-Дезе"/>
     <tag k="place" v="town"/>
     <tag k="population" v="9534"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778466" lat="45.4031054" lon="11.7475532" version="4" timestamp="2016-10-06T18:22:36Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3588"/>
-    <tag k="name" v="Saccolongo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4477"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778469" lat="45.2454887" lon="12.0251829" version="4" timestamp="2016-10-06T18:22:35Z" changeset="42691939" uid="743479" user="fayor">
@@ -21845,22 +21838,24 @@
     <tag k="wikimedia_commons" v="Category:Arcinazzo Romano"/>
     <tag k="wikipedia" v="it:Arcinazzo Romano"/>
   </node>
-  <node id="72962192" lat="41.8834220" lon="13.0267900" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
+  <node id="72962192" lat="41.8834220" lon="13.0267900" version="4" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4923"/>
     <tag k="name" v="Bellegra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3029"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.bellegra.roma.it/"/>
     <tag k="wikidata" v="Q241780"/>
     <tag k="wikimedia_commons" v="Category:Bellegra"/>
     <tag k="wikipedia" v="it:Bellegra"/>
   </node>
-  <node id="72962206" lat="41.7419154" lon="12.9121745" version="5" timestamp="2023-04-22T15:38:29Z" changeset="135233295" uid="3860151" user="Michele Aquilani">
+  <node id="72962206" lat="41.7419154" lon="12.9121745" version="6" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4922"/>
     <tag k="name" v="Artena"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14276"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.artena.rm.it"/>
     <tag k="wikidata" v="Q241770"/>
     <tag k="wikimedia_commons" v="Category:Artena"/>
     <tag k="wikipedia" v="it:Artena"/>
@@ -21948,22 +21943,24 @@
     <tag k="wikidata" v="Q242539"/>
     <tag k="wikipedia" v="it:Civitella San Paolo"/>
   </node>
-  <node id="72962426" lat="41.7270330" lon="13.0041576" version="9" timestamp="2023-04-22T15:38:29Z" changeset="135233295" uid="3860151" user="Michele Aquilani">
+  <node id="72962426" lat="41.7270330" lon="13.0041576" version="10" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4945"/>
     <tag k="name" v="Colleferro"/>
     <tag k="place" v="town"/>
     <tag k="population" v="21595"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.colleferro.rm.it"/>
     <tag k="wikidata" v="Q242553"/>
     <tag k="wikimedia_commons" v="Category:Colleferro"/>
     <tag k="wikipedia" v="it:Colleferro"/>
   </node>
-  <node id="72962439" lat="41.8179234" lon="12.9283673" version="4" timestamp="2023-04-22T09:20:24Z" changeset="135220825" uid="3860151" user="Michele Aquilani">
+  <node id="72962439" lat="41.8179234" lon="12.9283673" version="5" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4937"/>
     <tag k="name" v="Cave"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11287"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.cave.rm.it/"/>
     <tag k="wikidata" v="Q177726"/>
     <tag k="wikimedia_commons" v="Category:Cave (Italy)"/>
     <tag k="wikipedia" v="it:Cave (Italia)"/>
@@ -22028,12 +22025,13 @@
     <tag k="wikimedia_commons" v="Category:Gerano"/>
     <tag k="wikipedia" v="it:Gerano"/>
   </node>
-  <node id="72962717" lat="41.8296733" lon="12.9722464" version="5" timestamp="2023-05-09T13:42:15Z" changeset="135896733" uid="3860151" user="Michele Aquilani">
+  <node id="72962717" lat="41.8296733" lon="12.9722464" version="6" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4953"/>
     <tag k="name" v="Genazzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6036"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.genazzano.roma.it"/>
     <tag k="wikidata" v="Q242675"/>
     <tag k="wikimedia_commons" v="Category:Genazzano"/>
     <tag k="wikipedia" v="it:Genazzano"/>
@@ -22106,12 +22104,13 @@
     <tag k="wikimedia_commons" v="Category:Pisoniano"/>
     <tag k="wikipedia" v="it:Pisoniano"/>
   </node>
-  <node id="72962927" lat="41.8606210" lon="13.0330900" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
+  <node id="72962927" lat="41.8606210" lon="13.0330900" version="4" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4984"/>
     <tag k="name" v="Olevano Romano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6354"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.olevanoromano.rm.it"/>
     <tag k="wikidata" v="Q243128"/>
     <tag k="wikimedia_commons" v="Category:Olevano Romano"/>
     <tag k="wikipedia" v="it:Olevano Romano"/>
@@ -22143,12 +22142,13 @@
     <tag k="wikimedia_commons" v="Category:Anticoli Corrado"/>
     <tag k="wikipedia" v="it:Anticoli Corrado"/>
   </node>
-  <node id="72963142" lat="41.8629967" lon="12.9518024" version="4" timestamp="2023-06-05T15:58:43Z" changeset="136979272" uid="3860151" user="Michele Aquilani">
+  <node id="72963142" lat="41.8629967" lon="12.9518024" version="5" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4930"/>
     <tag k="name" v="Capranica Prenestina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="334"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comunecapranicaprenestina.it"/>
     <tag k="wikidata" v="Q241990"/>
     <tag k="wikimedia_commons" v="Category:Capranica Prenestina"/>
     <tag k="wikipedia" v="it:Capranica Prenestina"/>
@@ -22392,12 +22392,13 @@
     <tag k="wikimedia_commons" v="Category:Riofreddo"/>
     <tag k="wikipedia" v="it:Riofreddo"/>
   </node>
-  <node id="72963709" lat="41.8464200" lon="12.9454880" version="3" timestamp="2023-05-09T13:42:15Z" changeset="135896733" uid="3860151" user="Michele Aquilani">
+  <node id="72963709" lat="41.8464200" lon="12.9454880" version="4" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4996"/>
     <tag k="name" v="Rocca di Cave"/>
     <tag k="place" v="village"/>
     <tag k="population" v="358"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.roccadicave.rm.it"/>
     <tag k="wikidata" v="Q243220"/>
     <tag k="wikimedia_commons" v="Category:Rocca di Cave"/>
     <tag k="wikipedia" v="it:Rocca di Cave"/>
@@ -26913,12 +26914,13 @@
     <tag k="name" v="Capiago"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="2773689927" lat="41.8060233" lon="13.0580683" version="3" timestamp="2023-05-09T13:42:15Z" changeset="135896733" uid="3860151" user="Michele Aquilani">
+  <node id="2773689927" lat="41.8060233" lon="13.0580683" version="4" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Paliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7933"/>
     <tag k="population:date" v="2022-06-30"/>
     <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.paliano.fr.it"/>
     <tag k="wikidata" v="Q116961"/>
     <tag k="wikimedia_commons" v="Category:Paliano"/>
     <tag k="wikipedia" v="it:Paliano"/>
