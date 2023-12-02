@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-01T02:27:21Z" areas="2023-12-01T00:42:21Z"/>
+<meta osm_base="2023-12-02T02:17:54Z" areas="2023-12-02T00:25:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1851,7 +1851,7 @@
     <tag k="population" v="2186"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253819" lat="37.6920516" lon="13.0201940" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
+  <node id="67253819" lat="37.6920565" lon="13.0201940" version="15" timestamp="2023-12-01T14:39:22Z" changeset="144664935" uid="20588817" user="Giampaolo Dive">
     <tag k="name" v="Santa Margherita di Belice"/>
     <tag k="name:scn" v="Santa Margarita"/>
     <tag k="place" v="village"/>
@@ -2004,12 +2004,6 @@
     <tag k="name" v="Vicari"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2434"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
-  <node id="67257114" lat="37.7713420" lon="12.8776390" version="8" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Santa Ninfa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4767"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67257343" lat="37.8685749" lon="12.8144792" version="29" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
@@ -4767,12 +4761,14 @@
     <tag k="population" v="3096"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566460" lat="41.1032532" lon="15.0520424" version="3" timestamp="2016-09-01T23:10:07Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566460" lat="41.1032532" lon="15.0520424" version="4" timestamp="2023-12-01T13:33:19Z" changeset="144662512" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5478"/>
     <tag k="name" v="Melito Irpino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1996"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q55052"/>
+    <tag k="wikipedia" v="it:Melito Irpino"/>
   </node>
   <node id="68566462" lat="40.9290190" lon="15.2428510" version="2" timestamp="2016-09-01T23:10:09Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5493"/>
