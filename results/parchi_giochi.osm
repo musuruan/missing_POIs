@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-09T02:21:45Z" areas="2023-12-08T22:22:30Z"/>
+<meta osm_base="2023-12-10T02:25:54Z" areas="2023-12-09T22:23:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7331,16 +7331,6 @@
     <tag k="name" v="Bosconero"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2927"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63630488" lat="45.1230132" lon="7.2409317" version="8" timestamp="2023-05-01T08:03:25Z" changeset="135562876" uid="3006500" user="Geofa">
-    <tag k="gfoss_id" v="32"/>
-    <tag k="name" v="Borgone Susa"/>
-    <tag k="name:fr" v="Bourgon"/>
-    <tag k="name:frp" v="Burgùn"/>
-    <tag k="name:pms" v="Borgon"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2227"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63630506" lat="44.8031370" lon="7.2467180" version="4" timestamp="2023-01-17T20:04:51Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -15625,13 +15615,6 @@
     <tag k="population" v="5199"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68530053" lat="40.5637601" lon="17.3393651" version="5" timestamp="2022-02-21T17:16:59Z" changeset="117691898" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="6225"/>
-    <tag k="name" v="Montemesola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4277"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68530104" lat="40.6295240" lon="16.7996890" version="4" timestamp="2016-10-27T18:37:25Z" changeset="43225208" uid="2748195" user="karitotp">
     <tag k="gfoss_id" v="6217"/>
     <tag k="name" v="Laterza"/>
@@ -15971,12 +15954,14 @@
     <tag k="population" v="566"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566634" lat="40.8871935" lon="14.8194483" version="3" timestamp="2016-09-01T23:09:59Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566634" lat="40.8871935" lon="14.8194483" version="4" timestamp="2023-12-09T13:58:44Z" changeset="144935700" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5431"/>
     <tag k="name" v="Aiello del Sabato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3219"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54995"/>
+    <tag k="wikipedia" v="it:Aiello del Sabato"/>
   </node>
   <node id="68566653" lat="40.9208124" lon="14.8334989" version="4" timestamp="2016-09-01T23:10:01Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5436"/>
