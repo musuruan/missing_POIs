@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-10T02:22:59Z" areas="2023-12-09T22:44:06Z"/>
+<meta osm_base="2023-12-11T02:21:31Z" areas="2023-12-10T22:25:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2102,12 +2102,14 @@
     <tag k="population" v="3244"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629341" lat="45.1766065" lon="7.8380043" version="5" timestamp="2023-01-17T20:04:50Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629341" lat="45.1766065" lon="7.8380043" version="6" timestamp="2023-12-10T13:20:42Z" changeset="144964500" uid="417672" user="Guidus">
     <tag k="gfoss_id" v="34"/>
     <tag k="name" v="Brandizzo"/>
+    <tag k="name:pms" v="Brandiss"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7430"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q9076"/>
   </node>
   <node id="63629408" lat="45.0360951" lon="7.0495615" version="4" timestamp="2022-01-02T15:05:42Z" changeset="115673648" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="103"/>
@@ -2164,12 +2166,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024782"/>
   </node>
-  <node id="63629598" lat="45.1521446" lon="7.6579731" version="6" timestamp="2023-01-17T20:03:35Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629598" lat="45.1521446" lon="7.6579731" version="7" timestamp="2023-12-10T13:16:32Z" changeset="144964388" uid="417672" user="Guidus">
     <tag k="gfoss_id" v="28"/>
     <tag k="name" v="Borgaro Torinese"/>
+    <tag k="name:pms" v="Borghi"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12757"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q9057"/>
   </node>
   <node id="63629968" lat="45.1183500" lon="7.8881250" version="3" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="213"/>
@@ -4297,15 +4301,6 @@
     <tag k="population" v="654"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528665" lat="41.0135310" lon="16.7084830" version="4" timestamp="2016-09-09T00:49:42Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="ele" v="181"/>
-    <tag k="gfoss_id" v="6184"/>
-    <tag k="name" v="Grumo Appula"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12961"/>
-    <tag k="postal_code" v="70025"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68528687" lat="40.9171260" lon="16.2547740" version="3" timestamp="2016-09-09T00:49:47Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6194"/>
     <tag k="name" v="Poggiorsini"/>
@@ -4328,13 +4323,6 @@
     <tag k="population" v="15735"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51818"/>
-  </node>
-  <node id="68528735" lat="41.0445320" lon="16.8251850" version="2" timestamp="2016-08-27T16:23:59Z" changeset="41739592" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6172"/>
-    <tag k="name" v="Bitritto"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11278"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68528753" lat="40.9571310" lon="16.9203880" version="4" timestamp="2016-10-27T19:14:51Z" changeset="43226448" uid="2511706" user="calfarome">
     <tag k="gfoss_id" v="6175"/>
@@ -4448,13 +4436,6 @@
     <tag k="population" v="1515"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529132" lat="41.3026320" lon="16.0704650" version="3" timestamp="2016-09-09T00:49:49Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6141"/>
-    <tag k="name" v="San Ferdinando di Puglia"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13987"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68529145" lat="40.1506240" lon="18.3526300" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6265"/>
     <tag k="name" v="Bagnolo del Salento"/>
@@ -4475,14 +4456,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="8107"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68530104" lat="40.6295240" lon="16.7996890" version="4" timestamp="2016-10-27T18:37:25Z" changeset="43225208" uid="2748195" user="karitotp">
-    <tag k="gfoss_id" v="6217"/>
-    <tag k="name" v="Laterza"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="15290"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q52016"/>
   </node>
   <node id="68566172" lat="40.9603160" lon="14.7772400" version="2" timestamp="2016-09-01T23:10:02Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5448"/>
@@ -6031,7 +6004,7 @@
     <tag k="population" v="841"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979694" lat="42.9444133" lon="13.8121404" version="5" timestamp="2023-02-22T14:55:16Z" changeset="132886052" uid="15350382" user="Epus Naples">
+  <node id="70979694" lat="42.9444068" lon="13.8118750" version="6" timestamp="2023-12-10T15:44:21Z" changeset="144969036" uid="15350382" user="Epus Naples">
     <tag k="gfoss_id" v="4335"/>
     <tag k="name" v="Acquaviva Picena"/>
     <tag k="place" v="village"/>
@@ -8672,11 +8645,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="5804"/>
     <tag k="source" v="gfoss.it"/>
-  </node>
-  <node id="539318222" lat="41.0850517" lon="16.0777763" version="4" timestamp="2016-08-27T16:24:10Z" changeset="41739592" uid="743479" user="fayor">
-    <tag k="name" v="Minervino Murge"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9032"/>
   </node>
   <node id="787690553" lat="44.7447549" lon="11.4375138" version="5" timestamp="2018-02-11T16:18:09Z" changeset="56267424" uid="743479" user="fayor">
     <tag k="name" v="San Venanzio"/>

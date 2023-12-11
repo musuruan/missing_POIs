@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-10T02:22:59Z" areas="2023-12-09T22:23:34Z"/>
+<meta osm_base="2023-12-11T02:22:28Z" areas="2023-12-10T22:16:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1685,13 +1685,14 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q13101032"/>
   </node>
-  <node id="62509336" lat="46.1384847" lon="9.2746824" version="3" timestamp="2013-05-30T21:28:48Z" changeset="16357827" uid="1399112" user="Jenseblume">
+  <node id="62509336" lat="46.1384847" lon="9.2746824" version="4" timestamp="2023-12-10T14:04:26Z" changeset="144965742" uid="69717" user="kaitu">
     <tag k="gfoss_id" v="1642"/>
     <tag k="is_in" v="Como, Lombardia, Italy"/>
     <tag k="name" v="Stazzona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="675"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030909"/>
   </node>
   <node id="62509341" lat="45.8575910" lon="9.1162943" version="6" timestamp="2023-03-25T17:59:13Z" changeset="134113159" uid="69717" user="kaitu">
     <tag k="mapillary" v="323403319143186"/>
@@ -6544,12 +6545,14 @@
     <tag k="population" v="1304"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629341" lat="45.1766065" lon="7.8380043" version="5" timestamp="2023-01-17T20:04:50Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629341" lat="45.1766065" lon="7.8380043" version="6" timestamp="2023-12-10T13:20:42Z" changeset="144964500" uid="417672" user="Guidus">
     <tag k="gfoss_id" v="34"/>
     <tag k="name" v="Brandizzo"/>
+    <tag k="name:pms" v="Brandiss"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7430"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q9076"/>
   </node>
   <node id="63629440" lat="44.8372390" lon="7.3744200" version="4" timestamp="2023-01-17T20:04:00Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="111"/>
@@ -15990,7 +15993,7 @@
     <tag k="population" v="1931"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979694" lat="42.9444133" lon="13.8121404" version="5" timestamp="2023-02-22T14:55:16Z" changeset="132886052" uid="15350382" user="Epus Naples">
+  <node id="70979694" lat="42.9444068" lon="13.8118750" version="6" timestamp="2023-12-10T15:44:21Z" changeset="144969036" uid="15350382" user="Epus Naples">
     <tag k="gfoss_id" v="4335"/>
     <tag k="name" v="Acquaviva Picena"/>
     <tag k="place" v="village"/>
@@ -16075,7 +16078,7 @@
     <tag k="population" v="1877"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980499" lat="42.9568523" lon="13.4128721" version="5" timestamp="2020-10-21T09:05:14Z" changeset="92818431" uid="123412" user="totera">
+  <node id="70980499" lat="42.9573484" lon="13.4147454" version="6" timestamp="2023-12-10T15:44:21Z" changeset="144969036" uid="15350382" user="Epus Naples">
     <tag k="gfoss_id" v="4348"/>
     <tag k="name" v="Comunanza"/>
     <tag k="place" v="village"/>
@@ -20943,18 +20946,6 @@
     <tag k="wikidata" v="Q340971"/>
     <tag k="wikipedia" v="it:Padru"/>
     <tag k="wikipedia:sc" v="Padru"/>
-  </node>
-  <node id="72994526" lat="40.6500660" lon="9.3278290" version="46" timestamp="2023-11-06T18:55:36Z" changeset="143706257" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7209"/>
-    <tag k="name" v="Alà/Alà dei Sardi"/>
-    <tag k="name:it" v="Alà dei Sardi"/>
-    <tag k="name:sc" v="Alà"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1949"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.aladeisardi.ot.it/index.asp"/>
-    <tag k="wikidata" v="Q340635"/>
-    <tag k="wikipedia" v="it:Alà dei Sardi"/>
   </node>
   <node id="72994549" lat="40.9042670" lon="8.8686160" version="41" timestamp="2023-10-28T07:19:55Z" changeset="143245706" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Santa Maria Cucina"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-10T02:25:54Z" areas="2023-12-09T22:23:34Z"/>
+<meta osm_base="2023-12-11T02:24:35Z" areas="2023-12-10T22:25:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6137,13 +6137,6 @@
     <tag k="population" v="1105"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274999" lat="39.0801269" lon="16.7895990" version="4" timestamp="2016-08-28T18:58:31Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7962"/>
-    <tag k="name" v="Mesoraca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7125"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275002" lat="39.1094105" lon="16.7886538" version="6" timestamp="2016-09-09T00:49:47Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7964"/>
     <tag k="name" v="Petilia Policastro"/>
@@ -9696,7 +9689,7 @@
     <tag k="population" v="1877"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980482" lat="42.9541727" lon="13.5593592" version="3" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980482" lat="42.9547355" lon="13.5600942" version="4" timestamp="2023-12-10T15:59:51Z" changeset="144969524" uid="15350382" user="Epus Naples">
     <tag k="gfoss_id" v="4398"/>
     <tag k="name" v="Rotella"/>
     <tag k="place" v="village"/>
@@ -9817,12 +9810,14 @@
     <tag k="population" v="412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980976" lat="42.8829470" lon="13.4922850" version="2" timestamp="2016-09-09T17:36:50Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980976" lat="42.8811749" lon="13.4928593" version="4" timestamp="2023-12-10T18:56:33Z" changeset="144974457" uid="15350382" user="Epus Naples">
+    <tag k="amenity" v="townhall"/>
     <tag k="gfoss_id" v="4406"/>
-    <tag k="name" v="Venarotta"/>
+    <tag k="name" v="Municipio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2270"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q34206570"/>
   </node>
   <node id="70981088" lat="43.4111590" lon="13.4383760" version="2" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4305"/>
@@ -11687,21 +11682,6 @@
     <tag k="wikidata" v="Q286398"/>
     <tag k="wikipedia" v="it:Narcao"/>
     <tag k="wikipedia:sc" v="Narcau"/>
-  </node>
-  <node id="72991369" lat="39.4959151" lon="8.6623978" version="46" timestamp="2017-03-01T21:24:45Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7426"/>
-    <tag k="name" v="Gonnos/Gonnosfanadiga"/>
-    <tag k="name:it" v="Gonnosfanadiga"/>
-    <tag k="name:sc" v="Gonnos"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6970"/>
-    <tag k="postal_code" v="09035"/>
-    <tag k="ref:LOCODE" v="ITGON"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.gonnosfanadiga.ca.it/"/>
-    <tag k="wikidata" v="Q287683"/>
-    <tag k="wikipedia" v="it:Gonnosfanadiga"/>
-    <tag k="wikipedia:sc" v="Gonnos"/>
   </node>
   <node id="72991379" lat="39.5686440" lon="9.0740390" version="40" timestamp="2017-03-03T19:53:52Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="alt_name" v="Guamajori"/>

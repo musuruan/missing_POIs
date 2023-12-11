@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-10T02:25:54Z" areas="2023-12-09T22:23:34Z"/>
+<meta osm_base="2023-12-11T02:25:34Z" areas="2023-12-10T22:16:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6933,12 +6933,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://it.wikipedia.org/wiki/Baldissero_Canavese"/>
   </node>
-  <node id="63629341" lat="45.1766065" lon="7.8380043" version="5" timestamp="2023-01-17T20:04:50Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629341" lat="45.1766065" lon="7.8380043" version="6" timestamp="2023-12-10T13:20:42Z" changeset="144964500" uid="417672" user="Guidus">
     <tag k="gfoss_id" v="34"/>
     <tag k="name" v="Brandizzo"/>
+    <tag k="name:pms" v="Brandiss"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7430"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q9076"/>
   </node>
   <node id="63629394" lat="45.0973834" lon="6.9290646" version="28" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
     <tag k="alt_name:oc" v="Isiya"/>
@@ -17644,16 +17646,6 @@
     <tag k="population" v="2476"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581766" lat="40.4552941" lon="15.5509501" version="4" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="5559"/>
-    <tag k="name" v="Atena Lucana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2231"/>
-    <tag k="postal_code" v="84030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q80586"/>
-    <tag k="wikipedia" v="it:Atena Lucana"/>
-  </node>
   <node id="68581830" lat="40.0873040" lon="15.5582690" version="2" timestamp="2016-08-30T01:07:10Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5608"/>
     <tag k="name" v="Ispani"/>
@@ -19272,14 +19264,14 @@
     <tag k="population" v="2132"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980482" lat="42.9541727" lon="13.5593592" version="3" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980482" lat="42.9547355" lon="13.5600942" version="4" timestamp="2023-12-10T15:59:51Z" changeset="144969524" uid="15350382" user="Epus Naples">
     <tag k="gfoss_id" v="4398"/>
     <tag k="name" v="Rotella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="906"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980499" lat="42.9568523" lon="13.4128721" version="5" timestamp="2020-10-21T09:05:14Z" changeset="92818431" uid="123412" user="totera">
+  <node id="70980499" lat="42.9573484" lon="13.4147454" version="6" timestamp="2023-12-10T15:44:21Z" changeset="144969036" uid="15350382" user="Epus Naples">
     <tag k="gfoss_id" v="4348"/>
     <tag k="name" v="Comunanza"/>
     <tag k="place" v="village"/>
@@ -19393,12 +19385,14 @@
     <tag k="population" v="412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980976" lat="42.8829470" lon="13.4922850" version="2" timestamp="2016-09-09T17:36:50Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980976" lat="42.8811749" lon="13.4928593" version="4" timestamp="2023-12-10T18:56:33Z" changeset="144974457" uid="15350382" user="Epus Naples">
+    <tag k="amenity" v="townhall"/>
     <tag k="gfoss_id" v="4406"/>
-    <tag k="name" v="Venarotta"/>
+    <tag k="name" v="Municipio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2270"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q34206570"/>
   </node>
   <node id="70981079" lat="43.0668280" lon="13.3410165" version="3" timestamp="2016-09-09T17:36:35Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4297"/>
@@ -27073,11 +27067,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1243"/>
   </node>
-  <node id="4294775917" lat="41.6874769" lon="15.2929560" version="7" timestamp="2023-06-14T22:22:52Z" changeset="137346986" uid="19497998" user="branco-revert">
+  <node id="4294775917" lat="41.6874769" lon="15.2929560" version="8" timestamp="2023-12-10T11:59:31Z" changeset="144962278" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Torremaggiore"/>
     <tag k="place" v="town"/>
     <tag k="population" v="17311"/>
+    <tag k="website" v="http://www.comune.torremaggiore.fg.it"/>
     <tag k="wikidata" v="Q51964"/>
+    <tag k="wikimedia_commons" v="Category:Torremaggiore"/>
+    <tag k="wikipedia" v="it:Torremaggiore"/>
   </node>
   <node id="4318757045" lat="42.6269800" lon="12.0908718" version="7" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Bagnoregio"/>
