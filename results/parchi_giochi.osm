@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-11T02:25:34Z" areas="2023-12-10T22:16:14Z"/>
+<meta osm_base="2023-12-12T02:25:40Z" areas="2023-12-11T22:10:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -13654,12 +13654,16 @@
     <tag k="population" v="4703"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280745" lat="40.9757230" lon="15.6712600" version="2" timestamp="2016-08-28T18:58:39Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280745" lat="40.9757230" lon="15.6712600" version="3" timestamp="2023-12-11T17:03:03Z" changeset="145007456" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="6418"/>
     <tag k="name" v="Rapolla"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4648"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.rapolla.pz.it/"/>
+    <tag k="wikidata" v="Q52644"/>
+    <tag k="wikimedia_commons" v="Category:Rapolla"/>
+    <tag k="wikipedia" v="it:Rapolla"/>
   </node>
   <node id="67280748" lat="40.9117813" lon="15.7247832" version="5" timestamp="2020-04-02T18:24:28Z" changeset="82995463" uid="69259" user="DnaX">
     <tag k="addr:postcode" v="85020"/>
@@ -19385,10 +19389,9 @@
     <tag k="population" v="412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980976" lat="42.8811749" lon="13.4928593" version="4" timestamp="2023-12-10T18:56:33Z" changeset="144974457" uid="15350382" user="Epus Naples">
+  <node id="70980976" lat="42.8811749" lon="13.4928593" version="5" timestamp="2023-12-11T14:31:44Z" changeset="145002109" uid="15350382" user="Epus Naples">
     <tag k="amenity" v="townhall"/>
     <tag k="gfoss_id" v="4406"/>
-    <tag k="name" v="Municipio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2270"/>
     <tag k="source" v="geodati.gfoss.it"/>
