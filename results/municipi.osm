@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-13T02:21:29Z" areas="2023-12-12T22:11:45Z"/>
+<meta osm_base="2023-12-14T02:20:16Z" areas="2023-12-13T22:01:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2588,14 +2588,6 @@
     <tag k="name" v="Ceregnano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3942"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778566" lat="45.0056850" lon="12.0785200" version="3" timestamp="2017-04-03T08:43:53Z" changeset="47404173" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="3637"/>
-    <tag k="name" v="Corbola"/>
-    <tag k="name:egl" v="Corbla"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2645"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778571" lat="45.6727307" lon="12.1536106" version="7" timestamp="2016-10-26T10:46:40Z" changeset="43189105" uid="3479270" user="nammala">
@@ -7680,12 +7672,16 @@
     <tag k="population" v="913"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961536" lat="42.1321260" lon="12.9396840" version="2" timestamp="2016-09-07T16:51:13Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961536" lat="42.1321260" lon="12.9396840" version="3" timestamp="2023-12-13T08:47:08Z" changeset="145065952" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4885"/>
     <tag k="name" v="Orvinio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="427"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.orvinio.ri.it/"/>
+    <tag k="wikidata" v="Q224272"/>
+    <tag k="wikimedia_commons" v="Category:Orvinio"/>
+    <tag k="wikipedia" v="it:Orvinio"/>
   </node>
   <node id="72961556" lat="42.2954310" lon="13.0682850" version="2" timestamp="2016-09-07T16:51:14Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4888"/>
