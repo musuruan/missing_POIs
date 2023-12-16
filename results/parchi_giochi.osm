@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-15T02:25:39Z" areas="2023-12-14T22:00:30Z"/>
+<meta osm_base="2023-12-16T02:22:01Z" areas="2023-12-15T21:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10080,7 +10080,8 @@
     <tag k="population" v="1948"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587168" lat="44.1931231" lon="8.1324517" version="3" timestamp="2016-09-24T23:13:22Z" changeset="42413443" uid="743479" user="fayor">
+  <node id="66587168" lat="44.1931231" lon="8.1324517" version="4" timestamp="2023-12-15T15:00:43Z" changeset="145154845" uid="17039122" user="dieterdreist-CAI">
+    <tag k="fixme" v="non sembra il centro del paese"/>
     <tag k="gfoss_id" v="1197"/>
     <tag k="name" v="Bardineto"/>
     <tag k="place" v="village"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-15T02:24:21Z" areas="2023-12-14T21:50:17Z"/>
+<meta osm_base="2023-12-16T02:21:00Z" areas="2023-12-15T21:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4660,15 +4660,6 @@
     <tag k="population" v="697"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586628" lat="44.4093233" lon="9.2355333" version="6" timestamp="2022-09-17T18:27:26Z" changeset="126309049" uid="4476592" user="Edoardo Zanotti">
-    <tag k="gfoss_id" v="1273"/>
-    <tag k="name" v="Cicagna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2483"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q267199"/>
-    <tag k="wikipedia" v="it:Cicagna"/>
-  </node>
   <node id="66586670" lat="43.9930250" lon="7.9580470" version="3" timestamp="2022-06-30T16:39:18Z" changeset="123053135" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1133"/>
     <tag k="name" v="Caravonica"/>
@@ -5413,13 +5404,6 @@
     <tag k="name" v="Motta Santa Lucia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="848"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273488" lat="38.7487702" lon="16.5129098" version="3" timestamp="2020-10-26T23:01:46Z" changeset="93083770" uid="95387" user="rugamarcus">
-    <tag k="gfoss_id" v="6683"/>
-    <tag k="name" v="Montauro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1315"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67273493" lat="38.8468043" lon="16.3434539" version="4" timestamp="2018-02-11T23:25:51Z" changeset="56277570" uid="554973" user="dgitto">
@@ -10931,14 +10915,19 @@
     <tag k="wikimedia_commons" v="Category:Capena"/>
     <tag k="wikipedia" v="it:Capena"/>
   </node>
-  <node id="72963196" lat="41.8720696" lon="12.8185343" version="6" timestamp="2016-09-10T00:13:40Z" changeset="42050952" uid="717514" user="ALn_668">
+  <node id="72963196" lat="41.8720696" lon="12.8185343" version="7" timestamp="2023-12-15T10:12:36Z" changeset="145144294" uid="3860151" user="Michele Aquilani">
     <tag k="addr:country" v="IT"/>
+    <tag k="contact:facebook" v="https://www.facebook.com/comunedigallicanonellazio/"/>
     <tag k="gfoss_id" v="4951"/>
     <tag k="name" v="Gallicano nel Lazio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6334"/>
     <tag k="postal_code" v="00010"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.gallicanonellazio.rm.it/"/>
+    <tag k="wikidata" v="Q242661"/>
+    <tag k="wikimedia_commons" v="Category:Gallicano nel Lazio"/>
+    <tag k="wikipedia" v="it:Gallicano nel Lazio"/>
   </node>
   <node id="72963255" lat="41.9861230" lon="12.9379860" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5005"/>
