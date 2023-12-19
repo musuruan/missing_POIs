@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-18T02:25:11Z" areas="2023-12-17T21:17:14Z"/>
+<meta osm_base="2023-12-19T02:24:28Z" areas="2023-12-18T21:04:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -13038,15 +13038,6 @@
     <tag k="wikidata" v="Q54631"/>
     <tag k="wikipedia" v="it:Oppido Mamertina"/>
   </node>
-  <node id="67275508" lat="38.0031650" lon="15.6950960" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6774"/>
-    <tag k="name" v="Motta San Giovanni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6449"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54630"/>
-    <tag k="wikipedia" v="it:Motta San Giovanni"/>
-  </node>
   <node id="67275512" lat="37.9827660" lon="15.7579970" version="3" timestamp="2019-02-07T19:01:16Z" changeset="67004425" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6773"/>
     <tag k="name" v="Montebello Jonico"/>
@@ -13783,13 +13774,6 @@
     <tag k="name" v="Montemurro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1555"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67281138" lat="39.9931029" lon="15.7231240" version="8" timestamp="2022-10-05T17:51:28Z" changeset="127060225" uid="923271" user="aldoct">
-    <tag k="gfoss_id" v="6398"/>
-    <tag k="name" v="Maratea"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5261"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67281182" lat="40.1907152" lon="16.0763475" version="3" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
@@ -20814,12 +20798,13 @@
     <tag k="wikimedia_commons" v="Category:Casalvieri"/>
     <tag k="wikipedia" v="it:Casalvieri"/>
   </node>
-  <node id="72959853" lat="41.5082170" lon="13.4063030" version="5" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
+  <node id="72959853" lat="41.5082170" lon="13.4063030" version="6" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5088"/>
     <tag k="name" v="Castro dei Volsci"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5039"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.castrodeivolsci.fr.it/"/>
     <tag k="wikidata" v="Q116660"/>
     <tag k="wikimedia_commons" v="Category:Castro dei Volsci"/>
     <tag k="wikipedia" v="it:Castro dei Volsci"/>
@@ -20894,12 +20879,13 @@
     <tag k="wikidata" v="Q116948"/>
     <tag k="wikipedia" v="it:Isola del Liri"/>
   </node>
-  <node id="72959948" lat="41.5922170" lon="13.2439980" version="3" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
+  <node id="72959948" lat="41.5922170" lon="13.2439980" version="4" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5113"/>
     <tag k="name" v="Patrica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2915"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.patrica.fr.it/"/>
     <tag k="wikidata" v="Q116967"/>
     <tag k="wikimedia_commons" v="Category:Patrica"/>
     <tag k="wikipedia" v="it:Patrica"/>
@@ -21052,13 +21038,15 @@
     <tag k="wikimedia_commons" v="Category:Settefrati"/>
     <tag k="wikipedia" v="it:Settefrati"/>
   </node>
-  <node id="72960209" lat="41.4446150" lon="13.4052040" version="4" timestamp="2017-03-11T12:49:43Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960209" lat="41.4446150" lon="13.4052040" version="5" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5147"/>
     <tag k="name" v="Vallecorsa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3115"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.vallecorsa.fr.it/"/>
     <tag k="wikidata" v="Q117498"/>
+    <tag k="wikimedia_commons" v="Category:Vallecorsa"/>
     <tag k="wikipedia" v="it:Vallecorsa"/>
   </node>
   <node id="72960243" lat="41.5243210" lon="13.9711150" version="2" timestamp="2016-09-07T16:57:11Z" changeset="41983637" uid="743479" user="fayor">
@@ -21068,12 +21056,13 @@
     <tag k="population" v="428"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960252" lat="41.5174160" lon="13.3102010" version="5" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
+  <node id="72960252" lat="41.5174160" lon="13.3102010" version="6" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5155"/>
     <tag k="name" v="Villa Santo Stefano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1763"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.villasantostefano.fr.it/"/>
     <tag k="wikidata" v="Q117612"/>
     <tag k="wikimedia_commons" v="Category:Villa Santo Stefano"/>
     <tag k="wikipedia" v="it:Villa Santo Stefano"/>
@@ -21096,13 +21085,15 @@
     <tag k="wikidata" v="Q116415"/>
     <tag k="wikipedia" v="it:Aquino"/>
   </node>
-  <node id="72960321" lat="41.4678150" lon="13.3360020" version="4" timestamp="2017-03-11T12:49:43Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960321" lat="41.4678150" lon="13.3360020" version="5" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5070"/>
     <tag k="name" v="Amaseno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4228"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.amaseno.fr.it/it"/>
     <tag k="wikidata" v="Q116399"/>
+    <tag k="wikimedia_commons" v="Category:Amaseno"/>
     <tag k="wikipedia" v="it:Amaseno"/>
   </node>
   <node id="72960378" lat="41.3544611" lon="13.7487479" version="8" timestamp="2019-09-17T08:48:38Z" changeset="74565626" uid="66421" user="jackthebest">
@@ -21198,12 +21189,13 @@
     <tag k="wikidata" v="Q116884"/>
     <tag k="wikipedia" v="it:Fumone"/>
   </node>
-  <node id="72960609" lat="41.5393232" lon="13.2796473" version="4" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
+  <node id="72960609" lat="41.5393232" lon="13.2796473" version="5" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5106"/>
     <tag k="name" v="Giuliano di Roma"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2228"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.giulianodiroma.fr.it/"/>
     <tag k="wikidata" v="Q116937"/>
     <tag k="wikimedia_commons" v="Category:Giuliano di Roma"/>
     <tag k="wikipedia" v="it:Giuliano di Roma"/>
@@ -21244,12 +21236,13 @@
     <tag k="wikidata" v="Q117404"/>
     <tag k="wikipedia" v="it:Terelle"/>
   </node>
-  <node id="72960672" lat="41.6102092" lon="13.2247310" version="4" timestamp="2023-09-19T05:16:15Z" changeset="141449965" uid="3860151" user="Michele Aquilani">
+  <node id="72960672" lat="41.6102092" lon="13.2247310" version="5" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5141"/>
     <tag k="name" v="Supino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4783"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.supino.fr.it/"/>
     <tag k="wikidata" v="Q117395"/>
     <tag k="wikimedia_commons" v="Category:Supino"/>
     <tag k="wikipedia" v="it:Supino (Italia)"/>
@@ -21378,13 +21371,15 @@
     <tag k="population" v="1201"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961029" lat="41.4061150" lon="13.4594060" version="4" timestamp="2017-03-11T12:49:46Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72961029" lat="41.4061150" lon="13.4594060" version="5" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5044"/>
     <tag k="name" v="Lenola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4131"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.lenola.lt.it/"/>
     <tag k="wikidata" v="Q128101"/>
+    <tag k="wikimedia_commons" v="Category:Lenola"/>
     <tag k="wikipedia" v="it:Lenola"/>
   </node>
   <node id="72961059" lat="41.2990160" lon="13.8240150" version="2" timestamp="2016-09-07T16:57:03Z" changeset="41983637" uid="743479" user="fayor">
@@ -21775,12 +21770,13 @@
     <tag k="wikimedia_commons" v="Category:Artena"/>
     <tag k="wikipedia" v="it:Artena"/>
   </node>
-  <node id="72962241" lat="41.8089180" lon="12.7377840" version="7" timestamp="2023-09-18T07:22:06Z" changeset="141409749" uid="3860151" user="Michele Aquilani">
+  <node id="72962241" lat="41.8089180" lon="12.7377840" version="8" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4971"/>
     <tag k="name" v="Monte Compatri"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11978"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.montecompatri.roma.it/"/>
     <tag k="wikidata" v="Q242954"/>
     <tag k="wikimedia_commons" v="Category:Monte Compatri"/>
     <tag k="wikipedia" v="it:Monte Compatri"/>
@@ -22078,12 +22074,13 @@
     <tag k="wikimedia_commons" v="Category:Capena"/>
     <tag k="wikipedia" v="it:Capena"/>
   </node>
-  <node id="72963186" lat="41.6991180" lon="13.0517930" version="4" timestamp="2023-06-13T14:58:35Z" changeset="137290480" uid="3860151" user="Michele Aquilani">
+  <node id="72963186" lat="41.6991180" lon="13.0517930" version="5" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4952"/>
     <tag k="name" v="Gavignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1760"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.gavignano.rm.it/"/>
     <tag k="wikidata" v="Q242668"/>
     <tag k="wikimedia_commons" v="Category:Gavignano"/>
     <tag k="wikipedia" v="it:Gavignano (Italia)"/>
@@ -22192,12 +22189,13 @@
     <tag k="wikimedia_commons" v="Category:Vivaro Romano"/>
     <tag k="wikipedia" v="it:Vivaro Romano"/>
   </node>
-  <node id="72963554" lat="41.8191960" lon="12.8003335" version="6" timestamp="2023-09-16T02:37:34Z" changeset="141325011" uid="3860151" user="Michele Aquilani">
+  <node id="72963554" lat="41.8191960" lon="12.8003335" version="7" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5030"/>
     <tag k="name" v="San Cesareo"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15153"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.sancesareo.rm.it/"/>
     <tag k="wikidata" v="Q243346"/>
     <tag k="wikimedia_commons" v="Category:San Cesareo"/>
     <tag k="wikipedia" v="it:San Cesareo"/>
@@ -22246,12 +22244,13 @@
     <tag k="wikimedia_commons" v="Category:Monteflavio"/>
     <tag k="wikipedia" v="it:Monteflavio"/>
   </node>
-  <node id="72963658" lat="41.6511170" lon="13.0398930" version="3" timestamp="2023-07-15T12:44:12Z" changeset="138543619" uid="3860151" user="Michele Aquilani">
+  <node id="72963658" lat="41.6511170" lon="13.0398930" version="4" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4973"/>
     <tag k="name" v="Montelanico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1920"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.montelanico.roma.it/"/>
     <tag k="wikidata" v="Q242980"/>
     <tag k="wikimedia_commons" v="Category:Montelanico"/>
     <tag k="wikipedia" v="it:Montelanico"/>
