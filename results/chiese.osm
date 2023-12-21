@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-20T02:07:14Z" areas="2023-12-19T20:53:15Z"/>
+<meta osm_base="2023-12-21T02:21:14Z" areas="2023-12-21T01:32:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7279,12 +7279,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022352"/>
   </node>
-  <node id="72960511" lat="41.7985608" lon="13.2204887" version="5" timestamp="2023-09-16T02:37:34Z" changeset="141325011" uid="3860151" user="Michele Aquilani">
+  <node id="72960511" lat="41.7985608" lon="13.2204887" version="6" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5100"/>
     <tag k="name" v="Fiuggi"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10536"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.fiuggi.fr.it/home"/>
     <tag k="wikidata" v="Q116840"/>
     <tag k="wikimedia_commons" v="Category:Fiuggi"/>
     <tag k="wikipedia" v="it:Fiuggi"/>
@@ -7297,19 +7298,24 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022715"/>
   </node>
-  <node id="72960613" lat="41.7990220" lon="13.3133970" version="2" timestamp="2016-09-07T16:57:06Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72960613" lat="41.7990220" lon="13.3133970" version="3" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5107"/>
     <tag k="name" v="Guarcino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1662"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.guarcino.fr.it/"/>
+    <tag k="wikidata" v="Q116943"/>
+    <tag k="wikimedia_commons" v="Category:Guarcino"/>
+    <tag k="wikipedia" v="it:Guarcino"/>
   </node>
-  <node id="72960644" lat="41.8421210" lon="13.0951920" version="4" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
+  <node id="72960644" lat="41.8421210" lon="13.0951920" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5136"/>
     <tag k="name" v="Serrone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2943"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.serrone.fr.it/"/>
     <tag k="wikidata" v="Q117354"/>
     <tag k="wikimedia_commons" v="Category:Serrone"/>
     <tag k="wikipedia" v="it:Serrone"/>
@@ -7354,12 +7360,16 @@
     <tag k="population" v="4356"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960812" lat="41.7877197" lon="13.2672973" version="3" timestamp="2016-09-07T16:57:10Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72960812" lat="41.7877197" lon="13.2672973" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5143"/>
     <tag k="name" v="Torre Cajetani"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1279"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.torrecajetani.fr.it/"/>
+    <tag k="wikidata" v="Q117454"/>
+    <tag k="wikimedia_commons" v="Category:Torre Cajetani"/>
+    <tag k="wikipedia" v="it:Torre Cajetani"/>
   </node>
   <node id="72960832" lat="41.3662391" lon="13.8117480" version="3" timestamp="2016-09-07T16:57:10Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5148"/>
@@ -7597,12 +7607,13 @@
     <tag k="population" v="705"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962158" lat="42.0405250" lon="13.0183870" version="3" timestamp="2023-09-18T10:48:39Z" changeset="141418245" uid="3860151" user="Michele Aquilani">
+  <node id="72962158" lat="42.0405250" lon="13.0183870" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4921"/>
     <tag k="name" v="Arsoli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1537"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.arsoli.rm.it/"/>
     <tag k="wikidata" v="Q241758"/>
     <tag k="wikimedia_commons" v="Category:Arsoli"/>
     <tag k="wikipedia" v="it:Arsoli"/>
@@ -7649,12 +7660,13 @@
     <tag k="wikidata" v="Q242539"/>
     <tag k="wikipedia" v="it:Civitella San Paolo"/>
   </node>
-  <node id="72962495" lat="41.9616174" lon="12.9409322" version="4" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
+  <node id="72962495" lat="41.9616174" lon="12.9409322" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4941"/>
     <tag k="name" v="Ciciliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1133"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.ciciliano.rm.it/"/>
     <tag k="wikidata" v="Q242521"/>
     <tag k="wikimedia_commons" v="Category:Ciciliano"/>
     <tag k="wikipedia" v="it:Ciciliano"/>
@@ -7670,12 +7682,13 @@
     <tag k="wikimedia_commons" v="Category:Casape"/>
     <tag k="wikipedia" v="it:Casape"/>
   </node>
-  <node id="72962543" lat="41.9769358" lon="12.8691904" version="4" timestamp="2023-09-18T10:48:39Z" changeset="141418245" uid="3860151" user="Michele Aquilani">
+  <node id="72962543" lat="41.9769358" lon="12.8691904" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4934"/>
     <tag k="name" v="Castel Madama"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7399"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comunedicastelmadama.it/"/>
     <tag k="wikidata" v="Q242114"/>
     <tag k="wikimedia_commons" v="Category:Castel Madama"/>
     <tag k="wikipedia" v="it:Castel Madama"/>
@@ -7690,22 +7703,24 @@
     <tag k="wikimedia_commons" v="Category:Castelnuovo di Porto"/>
     <tag k="wikipedia" v="it:Castelnuovo di Porto"/>
   </node>
-  <node id="72962597" lat="41.9420762" lon="13.0373148" version="4" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
+  <node id="72962597" lat="41.9420762" lon="13.0373148" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4928"/>
     <tag k="name" v="Canterano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="372"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.canterano.rm.it/"/>
     <tag k="wikidata" v="Q241931"/>
     <tag k="wikimedia_commons" v="Category:Canterano"/>
     <tag k="wikipedia" v="it:Canterano"/>
   </node>
-  <node id="72962646" lat="41.9940240" lon="13.0159880" version="4" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
+  <node id="72962646" lat="41.9940240" lon="13.0159880" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4966"/>
     <tag k="name" v="Marano Equo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="783"/>
     <tag k="source" v="istat 2014"/>
+    <tag k="website" v="https://www.comunemaranoequo.it/"/>
     <tag k="wikidata" v="Q242901"/>
     <tag k="wikimedia_commons" v="Category:Marano Equo"/>
     <tag k="wikipedia" v="it:Marano Equo"/>
@@ -7750,12 +7765,16 @@
     <tag k="wikimedia_commons" v="Category:Roccagiovine"/>
     <tag k="wikipedia" v="it:Roccagiovine"/>
   </node>
-  <node id="72962854" lat="41.9565230" lon="13.0217880" version="2" timestamp="2016-09-07T18:50:29Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72962854" lat="41.9565230" lon="13.0217880" version="3" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4995"/>
     <tag k="name" v="Rocca Canterano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="251"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.roccacanterano.rm.it/"/>
+    <tag k="wikidata" v="Q243207"/>
+    <tag k="wikimedia_commons" v="Category:Rocca Canterano"/>
+    <tag k="wikipedia" v="it:Rocca Canterano"/>
   </node>
   <node id="72962857" lat="42.2577967" lon="12.5716266" version="4" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4991"/>
@@ -7797,12 +7816,13 @@
     <tag k="wikimedia_commons" v="Category:Affile"/>
     <tag k="wikipedia" v="it:Affile"/>
   </node>
-  <node id="72963102" lat="41.9444034" lon="12.9828053" version="4" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
+  <node id="72963102" lat="41.9444034" lon="12.9828053" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4938"/>
     <tag k="name" v="Cerreto Laziale"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1057"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comunecerretolaziale.rm.it/"/>
     <tag k="wikidata" v="Q242139"/>
     <tag k="wikimedia_commons" v="Category:Cerreto Laziale"/>
     <tag k="wikipedia" v="it:Cerreto Laziale"/>
@@ -7828,12 +7848,13 @@
     <tag k="wikimedia_commons" v="Category:Sambuci"/>
     <tag k="wikipedia" v="it:Sambuci"/>
   </node>
-  <node id="72963263" lat="41.9105220" lon="13.0237890" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
+  <node id="72963263" lat="41.9105220" lon="13.0237890" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5000"/>
     <tag k="name" v="Rocca Santo Stefano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1009"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.roccasantostefano.rm.it/"/>
     <tag k="wikidata" v="Q243216"/>
     <tag k="wikimedia_commons" v="Category:Rocca Santo Stefano"/>
     <tag k="wikipedia" v="it:Rocca Santo Stefano"/>
@@ -7852,22 +7873,24 @@
     <tag k="population" v="932"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963479" lat="42.0998260" lon="13.0066860" version="3" timestamp="2023-09-18T10:48:39Z" changeset="141418245" uid="3860151" user="Michele Aquilani">
+  <node id="72963479" lat="42.0998260" lon="13.0066860" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5024"/>
     <tag k="name" v="Vivaro Romano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="223"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comunevivaroromano.it/"/>
     <tag k="wikidata" v="Q243525"/>
     <tag k="wikimedia_commons" v="Category:Vivaro Romano"/>
     <tag k="wikipedia" v="it:Vivaro Romano"/>
   </node>
-  <node id="72963535" lat="41.9962545" lon="12.6236212" version="6" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
+  <node id="72963535" lat="41.9962545" lon="12.6236212" version="7" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5032"/>
     <tag k="name" v="Fonte Nuova"/>
     <tag k="place" v="town"/>
     <tag k="population" v="32562"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.fonte-nuova.it/"/>
     <tag k="wikidata" v="Q242637"/>
     <tag k="wikimedia_commons" v="Category:Fonte Nuova"/>
     <tag k="wikipedia" v="it:Fonte Nuova"/>
@@ -7883,12 +7906,13 @@
     <tag k="wikimedia_commons" v="Category:San Cesareo"/>
     <tag k="wikipedia" v="it:San Cesareo"/>
   </node>
-  <node id="72963572" lat="42.0842815" lon="12.9966119" version="4" timestamp="2023-09-18T10:48:39Z" changeset="141418245" uid="3860151" user="Michele Aquilani">
+  <node id="72963572" lat="42.0842815" lon="12.9966119" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5020"/>
     <tag k="name" v="Vallinfreda"/>
     <tag k="place" v="village"/>
     <tag k="population" v="290"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comunevallinfreda.rm.it/"/>
     <tag k="wikidata" v="Q243509"/>
     <tag k="wikimedia_commons" v="Category:Vallinfreda"/>
     <tag k="wikipedia" v="it:Vallinfreda"/>
@@ -7922,12 +7946,16 @@
     <tag k="population" v="1251"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963697" lat="41.8873266" lon="12.8931264" version="3" timestamp="2016-09-07T18:50:29Z" changeset="41986239" uid="743479" user="fayor">
+  <node id="72963697" lat="41.8873266" lon="12.8931264" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4989"/>
     <tag k="name" v="Poli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2163"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.poli.rm.it/"/>
+    <tag k="wikidata" v="Q243168"/>
+    <tag k="wikimedia_commons" v="Category:Poli"/>
+    <tag k="wikipedia" v="it:Poli (Italia)"/>
   </node>
   <node id="72963709" lat="41.8464200" lon="12.9454880" version="4" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4996"/>
