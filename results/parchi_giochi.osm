@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-24T02:24:16Z" areas="2023-12-24T01:14:43Z"/>
+<meta osm_base="2023-12-25T02:23:43Z" areas="2023-12-24T21:49:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1640,13 +1640,14 @@
     <tag k="population" v="654"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509897" lat="46.1688448" lon="9.3045100" version="3" timestamp="2010-09-24T19:21:02Z" changeset="5865672" uid="110639" user="aighes">
+  <node id="62509897" lat="46.1688448" lon="9.3045100" version="4" timestamp="2023-12-24T17:10:57Z" changeset="145475445" uid="69717" user="kaitu">
+    <tag k="ele" v="650"/>
     <tag k="gfoss_id" v="1587"/>
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
     <tag k="name" v="Livo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="208"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026676"/>
   </node>
   <node id="62509912" lat="45.6997750" lon="9.0125390" version="2" timestamp="2020-04-23T16:32:28Z" changeset="84013228" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1546"/>
@@ -11195,12 +11196,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="10764"/>
     <tag k="source" v="Istat gennaio 2022"/>
-  </node>
-  <node id="67257025" lat="37.7579420" lon="13.0097420" version="9" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Salaparuta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1560"/>
-    <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67257029" lat="37.7620964" lon="13.0343176" version="11" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Poggioreale"/>

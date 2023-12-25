@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-24T02:21:15Z" areas="2023-12-24T01:14:43Z"/>
+<meta osm_base="2023-12-25T02:20:41Z" areas="2023-12-25T00:57:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1725,13 +1725,14 @@
     <tag k="population" v="2260"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509897" lat="46.1688448" lon="9.3045100" version="3" timestamp="2010-09-24T19:21:02Z" changeset="5865672" uid="110639" user="aighes">
+  <node id="62509897" lat="46.1688448" lon="9.3045100" version="4" timestamp="2023-12-24T17:10:57Z" changeset="145475445" uid="69717" user="kaitu">
+    <tag k="ele" v="650"/>
     <tag k="gfoss_id" v="1587"/>
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
     <tag k="name" v="Livo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="208"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026676"/>
   </node>
   <node id="62509926" lat="45.8332290" lon="9.2327030" version="42" timestamp="2023-06-09T17:24:28Z" changeset="137146147" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="1538"/>
