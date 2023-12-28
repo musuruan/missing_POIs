@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-27T02:19:43Z" areas="2023-12-26T21:44:59Z"/>
+<meta osm_base="2023-12-28T02:20:11Z" areas="2023-12-28T00:20:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5335,6 +5335,12 @@
     <tag k="population" v="11241"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
+  <node id="67257281" lat="36.8203141" lon="14.9535979" version="18" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
+    <tag k="name" v="Rosolini"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="20574"/>
+    <tag k="source" v="Istat gennaio 2022"/>
+  </node>
   <node id="67257292" lat="37.1009166" lon="15.1192778" version="17" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Solarino"/>
     <tag k="place" v="village"/>
@@ -5876,21 +5882,6 @@
     <tag k="name" v="Panettieri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="375"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274585" lat="39.4047950" lon="16.1579900" version="4" timestamp="2016-10-27T18:59:36Z" changeset="43225935" uid="2511706" user="calfarome">
-    <tag k="gfoss_id" v="6566"/>
-    <tag k="name" v="Montalto Uffugo"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="19669"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53917"/>
-  </node>
-  <node id="67274592" lat="39.2635962" lon="16.1953516" version="4" timestamp="2016-09-09T00:49:45Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6564"/>
-    <tag k="name" v="Mendicino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9450"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274653" lat="39.1707910" lon="16.3063960" version="2" timestamp="2016-08-28T18:58:31Z" changeset="41762146" uid="743479" user="fayor">
