@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2023-12-28T02:21:10Z" areas="2023-12-27T21:40:45Z"/>
+<meta osm_base="2023-12-29T02:16:54Z" areas="2023-12-29T00:09:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6752,7 +6752,7 @@
     <tag k="population" v="2815"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628722" lat="45.2799520" lon="7.6202170" version="4" timestamp="2023-01-17T20:06:03Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63628722" lat="45.2803899" lon="7.6201312" version="5" timestamp="2023-12-28T16:52:23Z" changeset="145628708" uid="6645382" user="canfe">
     <tag k="gfoss_id" v="290"/>
     <tag k="name" v="Vauda Canavese"/>
     <tag k="place" v="village"/>
@@ -16813,12 +16813,16 @@
     <tag k="population" v="6356"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580078" lat="41.0747150" lon="14.3077290" version="2" timestamp="2016-09-02T23:58:39Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="68580078" lat="41.0747150" lon="14.3077290" version="3" timestamp="2023-12-28T12:55:33Z" changeset="145618510" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5174"/>
     <tag k="name" v="Casagiove"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13651"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.casagiove.ce.it/"/>
+    <tag k="wikidata" v="Q58503"/>
+    <tag k="wikimedia_commons" v="Category:Casagiove"/>
+    <tag k="wikipedia" v="it:Casagiove"/>
   </node>
   <node id="68580089" lat="41.0441395" lon="14.3033370" version="4" timestamp="2022-01-16T18:40:02Z" changeset="116225082" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5169"/>
@@ -16845,7 +16849,7 @@
     <tag k="wikidata" v="Q58567"/>
     <tag k="wikipedia" v="it:Cellole"/>
   </node>
-  <node id="68580142" lat="41.1079984" lon="14.2097176" version="8" timestamp="2023-11-02T14:52:03Z" changeset="143535965" uid="10622815" user="Italian Technology">
+  <node id="68580142" lat="41.1079984" lon="14.2097176" version="9" timestamp="2023-12-28T12:55:33Z" changeset="145618510" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5171"/>
     <tag k="name" v="Capua"/>
     <tag k="name:de" v="Capua"/>
@@ -16857,7 +16861,9 @@
     <tag k="place" v="town"/>
     <tag k="population" v="18820"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.capua.ce.it"/>
     <tag k="wikidata" v="Q58477"/>
+    <tag k="wikimedia_commons" v="Category:Capua"/>
     <tag k="wikipedia" v="it:Capua"/>
   </node>
   <node id="68580149" lat="41.2165380" lon="14.1287306" version="5" timestamp="2019-10-24T20:59:05Z" changeset="76174454" uid="7022493" user="Fra00">
