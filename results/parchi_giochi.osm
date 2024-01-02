@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-01T02:29:15Z" areas="2023-12-31T21:42:57Z"/>
+<meta osm_base="2024-01-02T02:23:39Z" areas="2024-01-01T21:35:48Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1534,9 +1534,8 @@
     <tag k="population" v="253"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509100" lat="45.8342780" lon="8.9427350" version="3" timestamp="2017-06-03T18:20:27Z" changeset="49226257" uid="1476146" user="Alecs01">
+  <node id="62509100" lat="45.8342780" lon="8.9427350" version="4" timestamp="2024-01-01T15:12:33Z" changeset="145765254" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1513"/>
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
     <tag k="name" v="Bizzarone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1495"/>
@@ -1879,10 +1878,8 @@
     <tag k="population" v="4900"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511105" lat="45.8239770" lon="8.9152340" version="1" timestamp="2007-10-10T06:21:35Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62511105" lat="45.8239770" lon="8.9152340" version="2" timestamp="2024-01-01T15:12:33Z" changeset="145765254" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1628"/>
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
     <tag k="name" v="Rodero"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1073"/>
@@ -3854,13 +3851,13 @@
     <tag k="population" v="307"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517343" lat="45.7498658" lon="8.6695719" version="3" timestamp="2014-01-20T11:07:27Z" changeset="20101288" uid="554973" user="dgitto">
+  <node id="62517343" lat="45.7498658" lon="8.6695719" version="4" timestamp="2024-01-01T09:45:49Z" changeset="145755828" uid="69717" user="kaitu">
     <tag k="gfoss_id" v="1457"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Mercallo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1679"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027461"/>
   </node>
   <node id="62517392" lat="45.8000916" lon="8.8781675" version="4" timestamp="2018-05-12T11:42:00Z" changeset="58900363" uid="1476146" user="Alecs01">
     <tag k="gfoss_id" v="1452"/>
@@ -7995,14 +7992,6 @@
     <tag k="name" v="Solesino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7071"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778307" lat="45.4902940" lon="11.7520040" version="3" timestamp="2016-10-06T18:22:29Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3535"/>
-    <tag k="name" v="Campodoro"/>
-    <tag k="old_name" v="Campolongo Minore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2685"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778331" lat="45.2353821" lon="12.0677625" version="4" timestamp="2016-10-06T18:22:31Z" changeset="42691939" uid="743479" user="fayor">
@@ -21157,12 +21146,13 @@
     <tag k="wikidata" v="Q116552"/>
     <tag k="wikipedia" v="it:Boville Ernica"/>
   </node>
-  <node id="72960593" lat="41.4509361" lon="13.5593827" version="6" timestamp="2023-09-20T16:02:15Z" changeset="141520850" uid="177389" user="Garmin-User">
+  <node id="72960593" lat="41.4509361" lon="13.5593827" version="7" timestamp="2024-01-01T18:41:46Z" changeset="145771867" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5116"/>
     <tag k="name" v="Pico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3123"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.pico.fr.it"/>
     <tag k="wikidata" v="Q117032"/>
     <tag k="wikimedia_commons" v="Category:Pico (Italy)"/>
     <tag k="wikipedia" v="it:Pico (Italia)"/>
@@ -23362,20 +23352,6 @@
     <tag k="wikidata" v="Q285021"/>
     <tag k="wikipedia" v="it:Selegas"/>
     <tag k="wikipedia:sc" v="Sèligas"/>
-  </node>
-  <node id="72991518" lat="39.2917400" lon="9.1851450" version="46" timestamp="2019-03-20T04:24:44Z" changeset="68318490" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7472"/>
-    <tag k="name" v="Sètimu/Settimo San Pietro"/>
-    <tag k="name:it" v="Settimo San Pietro"/>
-    <tag k="name:sc" v="Sètimu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5949"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.settimosanpietro.ca.it/"/>
-    <tag k="wikidata" v="Q176443"/>
-    <tag k="wikipedia" v="it:Settimo San Pietro"/>
-    <tag k="wikipedia:sc" v="Sètimu"/>
   </node>
   <node id="72991529" lat="39.2999356" lon="9.0925928" version="42" timestamp="2023-09-08T08:59:46Z" changeset="140976812" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="7471"/>
