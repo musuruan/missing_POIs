@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-08T02:25:55Z" areas="2024-01-07T21:22:45Z"/>
+<meta osm_base="2024-01-09T02:26:34Z" areas="2024-01-08T22:05:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10215,13 +10215,6 @@
     <tag k="population" v="1150"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67253819" lat="37.6920565" lon="13.0201940" version="15" timestamp="2023-12-01T14:39:22Z" changeset="144664935" uid="20588817" user="Giampaolo Dive">
-    <tag k="name" v="Santa Margherita di Belice"/>
-    <tag k="name:scn" v="Santa Margarita"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6044"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
   <node id="67253824" lat="37.6173969" lon="13.4397692" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Bivona"/>
     <tag k="name:scn" v="Vivona"/>
@@ -19162,14 +19155,14 @@
     <tag k="population" v="2132"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980482" lat="42.9547355" lon="13.5600942" version="4" timestamp="2023-12-10T15:59:51Z" changeset="144969524" uid="15350382" user="Epus Naples">
+  <node id="70980482" lat="42.9541727" lon="13.5593592" version="5" timestamp="2024-01-08T23:55:30Z" changeset="146046747" uid="123412" user="totera">
     <tag k="gfoss_id" v="4398"/>
     <tag k="name" v="Rotella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="906"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980499" lat="42.9573484" lon="13.4147454" version="6" timestamp="2023-12-10T15:44:21Z" changeset="144969036" uid="15350382" user="Epus Naples">
+  <node id="70980499" lat="42.9568523" lon="13.4128721" version="7" timestamp="2024-01-08T23:55:30Z" changeset="146046747" uid="123412" user="totera">
     <tag k="gfoss_id" v="4348"/>
     <tag k="name" v="Comunanza"/>
     <tag k="place" v="village"/>
@@ -19283,13 +19276,12 @@
     <tag k="population" v="412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980976" lat="42.8811749" lon="13.4928593" version="5" timestamp="2023-12-11T14:31:44Z" changeset="145002109" uid="15350382" user="Epus Naples">
-    <tag k="amenity" v="townhall"/>
+  <node id="70980976" lat="42.8829470" lon="13.4922850" version="6" timestamp="2024-01-08T23:55:30Z" changeset="146046747" uid="123412" user="totera">
     <tag k="gfoss_id" v="4406"/>
+    <tag k="name" v="Venarotta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2270"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q34206570"/>
   </node>
   <node id="70981079" lat="43.0668280" lon="13.3410165" version="3" timestamp="2016-09-09T17:36:35Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4297"/>
