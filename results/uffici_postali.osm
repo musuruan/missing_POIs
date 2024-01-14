@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-13T02:21:34Z" areas="2024-01-12T21:39:44Z"/>
+<meta osm_base="2024-01-14T02:26:15Z" areas="2024-01-13T21:44:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11232,7 +11232,7 @@
     <tag k="population" v="2007"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280505" lat="40.9463220" lon="15.6726600" version="4" timestamp="2021-07-31T20:27:29Z" changeset="108956500" uid="12638075" user="elucci">
+  <node id="67280505" lat="40.9463220" lon="15.6726600" version="5" timestamp="2024-01-13T09:03:48Z" changeset="146206606" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="6365"/>
     <tag k="name" v="Barile"/>
     <tag k="name:aae" v="Barilli"/>
@@ -11240,6 +11240,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3229"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.barile.pz.it"/>
+    <tag k="wikidata" v="Q52530"/>
+    <tag k="wikimedia_commons" v="Category:Barile"/>
+    <tag k="wikipedia" v="it:Barile (Italia)"/>
   </node>
   <node id="67280514" lat="40.8803210" lon="15.6501610" version="2" timestamp="2016-08-28T18:58:11Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6360"/>
@@ -11526,12 +11530,17 @@
     <tag k="population" v="1759"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67281259" lat="40.9261881" lon="15.6694407" version="4" timestamp="2019-05-04T17:09:31Z" changeset="69884108" uid="9856084" user="Matteo Musto">
+  <node id="67281259" lat="40.9261881" lon="15.6694407" version="5" timestamp="2024-01-13T09:03:48Z" changeset="146206606" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunedirioneroinvulture/"/>
     <tag k="gfoss_id" v="6420"/>
     <tag k="name" v="Rionero in Vulture"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13230"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.rioneroinvulture.pz.it/"/>
+    <tag k="wikidata" v="Q52646"/>
+    <tag k="wikimedia_commons" v="Category:Rionero in Vulture"/>
+    <tag k="wikipedia" v="it:Rionero in Vulture"/>
   </node>
   <node id="67281276" lat="40.8469209" lon="15.5004593" version="5" timestamp="2022-09-26T11:45:28Z" changeset="126652391" uid="3306614" user="gurciln">
     <tag k="gfoss_id" v="6419"/>
@@ -16901,13 +16910,15 @@
     <tag k="wikimedia_commons" v="Category:Ortucchio"/>
     <tag k="wikipedia" v="it:Ortucchio"/>
   </node>
-  <node id="70993202" lat="41.9745310" lon="13.9587090" version="3" timestamp="2020-07-06T16:10:12Z" changeset="87610282" uid="10124288" user="damianeue">
+  <node id="70993202" lat="41.9745310" lon="13.9587090" version="4" timestamp="2024-01-13T09:03:48Z" changeset="146206606" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5778"/>
     <tag k="name" v="Pettorano sul Gizio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1255"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.pettorano.aq.it/"/>
     <tag k="wikidata" v="Q50124"/>
+    <tag k="wikimedia_commons" v="Category:Pettorano sul Gizio"/>
     <tag k="wikipedia" v="it:Pettorano sul Gizio"/>
   </node>
   <node id="70993210" lat="42.0254300" lon="13.6579010" version="3" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
