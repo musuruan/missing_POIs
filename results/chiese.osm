@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-14T02:26:15Z" areas="2024-01-13T21:44:30Z"/>
+<meta osm_base="2024-01-15T02:27:15Z" areas="2024-01-14T21:08:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6641,12 +6641,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18426515"/>
   </node>
-  <node id="70992322" lat="42.1302330" lon="13.7278010" version="2" timestamp="2016-09-08T02:38:56Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992322" lat="42.1302330" lon="13.7278010" version="3" timestamp="2024-01-14T13:20:33Z" changeset="146244664" uid="1940323" user="SekeRob">
+    <tag k="ele" v="495"/>
     <tag k="gfoss_id" v="5738"/>
     <tag k="name" v="Castelvecchio Subequo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1241"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:ele" v="sign"/>
   </node>
   <node id="70992429" lat="41.9377176" lon="13.6841160" version="3" timestamp="2021-01-08T18:06:52Z" changeset="97184607" uid="166489" user="Fintocubano">
     <tag k="gfoss_id" v="5757"/>
