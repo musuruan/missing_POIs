@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-17T02:25:42Z" areas="2024-01-16T21:57:46Z"/>
+<meta osm_base="2024-01-18T02:25:13Z" areas="2024-01-17T21:24:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2827,16 +2827,6 @@
     <tag k="wikidata" v="Q59362068"/>
     <tag k="wikipedia" v="it:Quaregna Cerreto"/>
   </node>
-  <node id="63625290" lat="45.6761963" lon="8.2087139" version="10" timestamp="2023-01-17T19:59:46Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="ele" v="400"/>
-    <tag k="gfoss_id" v="7735"/>
-    <tag k="name" v="Pray"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2439"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18150"/>
-    <tag k="wikipedia" v="it:Pray (Italia)"/>
-  </node>
   <node id="63625395" lat="45.5436675" lon="8.0031311" version="5" timestamp="2023-01-17T19:58:19Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="7697"/>
     <tag k="name" v="Camburzano"/>
@@ -3372,7 +3362,7 @@
     <tag k="population" v="4469"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630731" lat="45.0947913" lon="7.8784734" version="5" timestamp="2023-01-17T19:57:05Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630731" lat="45.0949806" lon="7.8781435" version="6" timestamp="2024-01-17T10:43:19Z" changeset="146358009" uid="9265159" user="grawal">
     <tag k="gfoss_id" v="262"/>
     <tag k="name" v="Sciolze"/>
     <tag k="place" v="village"/>
@@ -5728,14 +5718,6 @@
     <tag k="population" v="611"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274352" lat="39.6609483" lon="16.0282277" version="4" timestamp="2021-11-05T14:59:41Z" changeset="113413148" uid="13318013" user="pizzi81">
-    <tag k="gfoss_id" v="6613"/>
-    <tag k="name" v="San Sosti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2299"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53981"/>
-  </node>
   <node id="67274383" lat="39.1771910" lon="16.2882950" version="2" timestamp="2016-08-28T18:58:12Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6499"/>
     <tag k="name" v="Belsito"/>
@@ -6256,13 +6238,6 @@
     <tag k="name" v="Cardeto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2325"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275644" lat="38.2160690" lon="15.6591920" version="2" timestamp="2011-05-23T09:30:49Z" changeset="8224526" uid="71261" user="David Paleino">
-    <tag k="gfoss_id" v="6738"/>
-    <tag k="name" v="Campo Calabro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4074"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67275650" lat="38.3150434" lon="16.1997834" version="3" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
@@ -7264,13 +7239,6 @@
     <tag k="name" v="Carpignano Salentino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3843"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529225" lat="41.3631280" lon="15.3123470" version="2" timestamp="2016-08-27T16:24:20Z" changeset="41739592" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6154"/>
-    <tag k="name" v="Troia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7495"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529282" lat="40.0613210" lon="18.0582240" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
@@ -8759,13 +8727,6 @@
     <tag k="name" v="Prignano Cilento"/>
     <tag k="place" v="village"/>
     <tag k="population" v="870"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581734" lat="40.6908078" lon="15.2317822" version="3" timestamp="2016-08-30T01:07:12Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5632"/>
-    <tag k="name" v="Oliveto Citra"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4005"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68581757" lat="40.4439090" lon="15.2538570" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">

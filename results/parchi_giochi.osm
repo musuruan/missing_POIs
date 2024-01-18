@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-17T02:26:36Z" areas="2024-01-16T21:13:56Z"/>
+<meta osm_base="2024-01-18T02:26:15Z" areas="2024-01-17T21:24:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7367,7 +7367,7 @@
     <tag k="wikidata" v="Q10334"/>
     <tag k="wikipedia" v="it:Vallo Torinese"/>
   </node>
-  <node id="63630731" lat="45.0947913" lon="7.8784734" version="5" timestamp="2023-01-17T19:57:05Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630731" lat="45.0949806" lon="7.8781435" version="6" timestamp="2024-01-17T10:43:19Z" changeset="146358009" uid="9265159" user="grawal">
     <tag k="gfoss_id" v="262"/>
     <tag k="name" v="Sciolze"/>
     <tag k="place" v="village"/>
@@ -18371,13 +18371,13 @@
     <tag k="population" v="1773"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300724" lat="44.6919621" lon="10.1009854" version="8" timestamp="2020-05-04T02:11:21Z" changeset="84587504" uid="1669056" user="Maurizio Melani (forwalk)">
+  <node id="69300724" lat="44.6919621" lon="10.1009854" version="9" timestamp="2024-01-17T15:30:28Z" changeset="146370110" uid="1865872" user="W0lfenstein">
     <tag k="gfoss_id" v="3904"/>
     <tag k="name" v="Fornovo di Taro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6100"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q100826"/>
+    <tag k="wikidata" v="Q30025833"/>
   </node>
   <node id="69300738" lat="44.8587650" lon="10.1751800" version="4" timestamp="2016-09-21T13:17:19Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3903"/>
@@ -18397,12 +18397,15 @@
     <tag k="wikidata" v="Q100902"/>
     <tag k="wikipedia" v="it:Roccabianca"/>
   </node>
-  <node id="69300769" lat="44.8099007" lon="10.1772596" version="3" timestamp="2017-04-25T19:48:05Z" changeset="48140071" uid="1476146" user="Alecs01">
+  <node id="69300769" lat="44.8099007" lon="10.1772596" version="4" timestamp="2024-01-17T18:37:39Z" changeset="146376842" uid="1865872" user="W0lfenstein">
     <tag k="gfoss_id" v="3912"/>
     <tag k="name" v="Noceto"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13001"/>
+    <tag k="postal_code" v="43015"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028217"/>
+    <tag k="wikipedia" v="it:Noceto"/>
   </node>
   <node id="69300781" lat="44.7331681" lon="9.9275557" version="5" timestamp="2016-09-21T13:17:25Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3915"/>
@@ -21276,13 +21279,16 @@
     <tag k="population" v="1052"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960855" lat="41.7757210" lon="13.2722960" version="3" timestamp="2021-04-29T19:56:42Z" changeset="103867285" uid="1950277" user="Mannivu">
+  <node id="72960855" lat="41.7757210" lon="13.2722960" version="4" timestamp="2024-01-17T16:56:54Z" changeset="146373182" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5146"/>
     <tag k="name" v="Trivigliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1430"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031346"/>
+    <tag k="website" v="https://www.comune.trivigliano.fr.it/"/>
+    <tag k="wikidata" v="Q117492"/>
+    <tag k="wikimedia_commons" v="Category:Trivigliano"/>
+    <tag k="wikipedia" v="it:Trivigliano"/>
   </node>
   <node id="72960887" lat="41.3525130" lon="13.3522040" version="8" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5047"/>
