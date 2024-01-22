@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-21T02:29:25Z" areas="2024-01-20T22:46:24Z"/>
+<meta osm_base="2024-01-22T02:30:35Z" areas="2024-01-21T22:39:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7889,13 +7889,6 @@
     <tag k="population" v="2806"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778186" lat="45.9078030" lon="11.9081948" version="6" timestamp="2023-02-11T11:56:55Z" changeset="132401074" uid="15886906" user="il_Cervo">
-    <tag k="gfoss_id" v="3311"/>
-    <tag k="name" v="Alano di Piave"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="2773"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778193" lat="46.4173559" lon="12.3319828" version="6" timestamp="2022-07-25T18:05:53Z" changeset="124063495" uid="1257620" user="Luca_34c">
     <tag k="gfoss_id" v="3372"/>
     <tag k="loc_name" v="Val"/>
@@ -8023,13 +8016,6 @@
     <tag k="population" v="2423"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778363" lat="45.1770026" lon="11.6255678" version="4" timestamp="2016-10-06T18:22:39Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3613"/>
-    <tag k="name" v="Vighizzolo d'Este"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="928"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778364" lat="45.1345136" lon="11.7084352" version="5" timestamp="2020-06-03T01:52:25Z" changeset="86103135" uid="1669056" user="Maurizio Melani (forwalk)">
     <tag k="gfoss_id" v="3612"/>
     <tag k="name" v="Vescovana"/>
@@ -8045,12 +8031,14 @@
     <tag k="population" v="2235"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778374" lat="45.1950006" lon="11.6208414" version="7" timestamp="2016-10-06T18:22:29Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778374" lat="45.1950006" lon="11.6208414" version="8" timestamp="2024-01-21T23:24:43Z" changeset="146531566" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3539"/>
     <tag k="name" v="Carceri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1524"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q34704"/>
+    <tag k="wikipedia" v="it:Carceri"/>
   </node>
   <node id="64778381" lat="45.1211715" lon="11.4535022" version="4" timestamp="2016-10-06T18:22:30Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3544"/>
@@ -14511,21 +14499,6 @@
     <tag k="website" v="http://www.giano.umbria.it/"/>
     <tag k="wikidata" v="Q20451"/>
     <tag k="wikipedia" v="it:Giano dell'Umbria"/>
-  </node>
-  <node id="68507551" lat="42.8996582" lon="12.4359527" version="13" timestamp="2024-01-18T23:44:16Z" changeset="146424101" uid="381486" user="laxandrea">
-    <tag k="ele" v="469"/>
-    <tag k="gfoss_id" v="49333"/>
-    <tag k="istat_id" v="5401410003"/>
-    <tag k="name" v="Collazzone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="392"/>
-    <tag k="population:date" v="2011-10-09"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.collazzone.pg.it/"/>
-    <tag k="wikidata" v="Q20419"/>
-    <tag k="wikipedia" v="it:Collazzone"/>
   </node>
   <node id="68507577" lat="42.8406941" lon="12.3522863" version="11" timestamp="2023-11-11T13:33:07Z" changeset="143899835" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="423"/>
@@ -26832,7 +26805,7 @@
     <tag k="population" v="67"/>
     <tag k="wikidata" v="Q18482643"/>
   </node>
-  <node id="3687249567" lat="42.9100282" lon="12.3370419" version="10" timestamp="2023-11-06T19:39:11Z" changeset="143707653" uid="9451067" user="b-jazz-bot">
+  <node id="3687249567" lat="42.9105115" lon="12.3377232" version="11" timestamp="2024-01-21T11:04:46Z" changeset="146508048" uid="381486" user="laxandrea">
     <tag k="ele" v="184"/>
     <tag k="gfoss_id" v="49727"/>
     <tag k="istat_id" v="5402710006"/>

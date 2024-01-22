@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-21T02:28:22Z" areas="2024-01-20T22:46:24Z"/>
+<meta osm_base="2024-01-22T02:29:45Z" areas="2024-01-21T22:39:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -469,13 +469,6 @@
     <tag k="name" v="Senna Comasco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2766"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62510512" lat="45.2731740" lon="10.0078690" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2598"/>
-    <tag k="name" v="Corte de' Cortesi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="993"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62510662" lat="45.1764963" lon="9.9148339" version="6" timestamp="2023-02-26T21:58:14Z" changeset="133060902" uid="43207" user="kdkeller">
@@ -3577,13 +3570,6 @@
     <tag k="population" v="2423"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778363" lat="45.1770026" lon="11.6255678" version="4" timestamp="2016-10-06T18:22:39Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3613"/>
-    <tag k="name" v="Vighizzolo d'Este"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="928"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778370" lat="45.6287707" lon="11.6998606" version="4" timestamp="2016-10-06T18:22:30Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3540"/>
     <tag k="name" v="Carmignano di Brenta"/>
@@ -3592,12 +3578,14 @@
     <tag k="population" v="7027"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778374" lat="45.1950006" lon="11.6208414" version="7" timestamp="2016-10-06T18:22:29Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778374" lat="45.1950006" lon="11.6208414" version="8" timestamp="2024-01-21T23:24:43Z" changeset="146531566" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3539"/>
     <tag k="name" v="Carceri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1524"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q34704"/>
+    <tag k="wikipedia" v="it:Carceri"/>
   </node>
   <node id="64778381" lat="45.1211715" lon="11.4535022" version="4" timestamp="2016-10-06T18:22:30Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3544"/>
@@ -4337,13 +4325,6 @@
     <tag k="name" v="Asigliano Veneto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="860"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64779117" lat="45.5888743" lon="11.4400150" version="3" timestamp="2016-10-08T21:08:48Z" changeset="42742263" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3232"/>
-    <tag k="name" v="Gambugliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="789"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64779131" lat="45.5593599" lon="11.2884303" version="5" timestamp="2017-04-23T08:11:38Z" changeset="48053038" uid="1928626" user="Gianfranco2014">
