@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-22T02:26:39Z" areas="2024-01-21T21:19:01Z"/>
+<meta osm_base="2024-01-23T02:24:14Z" areas="2024-01-22T22:43:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7494,12 +7494,13 @@
     <tag k="wikimedia_commons" v="Category:Prossedi"/>
     <tag k="wikipedia" v="it:Prossedi"/>
   </node>
-  <node id="72960915" lat="41.5233613" lon="13.1805494" version="8" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
+  <node id="72960915" lat="41.5233613" lon="13.1805494" version="9" timestamp="2024-01-22T16:21:03Z" changeset="146560636" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5045"/>
     <tag k="name" v="Maenza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3017"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comunedimaenza.it/"/>
     <tag k="wikidata" v="Q128103"/>
     <tag k="wikimedia_commons" v="Category:Maenza"/>
     <tag k="wikipedia" v="it:Maenza"/>
@@ -7914,12 +7915,17 @@
     <tag k="wikimedia_commons" v="Category:Castel Madama"/>
     <tag k="wikipedia" v="it:Castel Madama"/>
   </node>
-  <node id="72962554" lat="42.1253987" lon="12.5007367" version="4" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
+  <node id="72962554" lat="42.1253987" lon="12.5007367" version="5" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunecastelnuovodiporto/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/comune_castelnuovodiporto/"/>
+    <tag k="contact:twitter" v="https://mobile.twitter.com/castelnuovodp"/>
+    <tag k="contact:youtube" v="https://m.youtube.com/channel/UC3u4QqBVTlpvwmYGstnarqg"/>
     <tag k="gfoss_id" v="4935"/>
     <tag k="name" v="Castelnuovo di Porto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8630"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.castelnuovodiporto.rm.it/"/>
     <tag k="wikidata" v="Q242126"/>
     <tag k="wikimedia_commons" v="Category:Castelnuovo di Porto"/>
     <tag k="wikipedia" v="it:Castelnuovo di Porto"/>
@@ -7979,7 +7985,9 @@
     <tag k="wikimedia_commons" v="Category:Gorga"/>
     <tag k="wikipedia" v="it:Gorga (Italia)"/>
   </node>
-  <node id="72962733" lat="42.0825210" lon="12.4002730" version="5" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
+  <node id="72962733" lat="42.0825210" lon="12.4002730" version="6" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comuneformello"/>
+    <tag k="contact:twitter" v="https://twitter.com/comuneformello"/>
     <tag k="ele" v="243"/>
     <tag k="gfoss_id" v="4949"/>
     <tag k="name" v="Formello"/>
@@ -8132,13 +8140,18 @@
     <tag k="population" v="471"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963246" lat="42.1049460" lon="12.4454599" version="6" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
+  <node id="72963246" lat="42.1049460" lon="12.4454599" version="7" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/Sacrofano/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/comune_di_sacrofano/"/>
+    <tag k="contact:twitter" v="https://twitter.com/ComuneSacrofano"/>
+    <tag k="contact:youtube" v="https://www.youtube.com/channel/UCHWdYwg5xtE4s9LE540LPPg/featured"/>
     <tag k="gfoss_id" v="5004"/>
     <tag k="name" v="Sacrofano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7119"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia 2008"/>
+    <tag k="website" v="https://www.comunedisacrofano.it/"/>
     <tag k="wikidata" v="Q243311"/>
     <tag k="wikimedia_commons" v="Category:Sacrofano"/>
     <tag k="wikipedia" v="it:Sacrofano"/>

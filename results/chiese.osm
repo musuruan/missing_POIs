@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-22T02:27:36Z" areas="2024-01-21T21:19:01Z"/>
+<meta osm_base="2024-01-23T02:25:15Z" areas="2024-01-22T21:12:57Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1760,13 +1760,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q46215"/>
     <tag k="wikipedia" v="it:Grisignano di Zocco"/>
-  </node>
-  <node id="64779165" lat="45.5280283" lon="11.4456338" version="4" timestamp="2024-01-21T23:30:50Z" changeset="146531672" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3291"/>
-    <tag k="name" v="Sovizzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8308"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64779176" lat="45.7991169" lon="11.7291016" version="4" timestamp="2016-10-08T21:08:51Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3269"/>
@@ -6721,12 +6714,16 @@
     <tag k="population" v="1012"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992860" lat="42.0631280" lon="13.3391940" version="2" timestamp="2016-09-08T02:39:02Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992860" lat="42.0631280" lon="13.3391940" version="3" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5803"/>
     <tag k="name" v="Scurcola Marsicana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2501"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.scurcolamarsicana.aq.it/"/>
+    <tag k="wikidata" v="Q50155"/>
+    <tag k="wikimedia_commons" v="Category:Scurcola Marsicana"/>
+    <tag k="wikipedia" v="it:Scurcola Marsicana"/>
   </node>
   <node id="70992910" lat="41.9579027" lon="13.5383358" version="8" timestamp="2023-11-12T12:26:14Z" changeset="143931374" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5809"/>
@@ -7202,12 +7199,14 @@
     <tag k="population" v="428"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960276" lat="41.5877162" lon="13.5754288" version="5" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
+  <node id="72960276" lat="41.5877162" lon="13.5754288" version="6" timestamp="2024-01-22T16:21:03Z" changeset="146560636" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://it-it.facebook.com/comunearce/"/>
     <tag k="gfoss_id" v="5073"/>
     <tag k="name" v="Arce"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6029"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.arce.fr.it/"/>
     <tag k="wikidata" v="Q116423"/>
     <tag k="wikimedia_commons" v="Category:Arce"/>
     <tag k="wikipedia" v="it:Arce (Italia)"/>
@@ -7622,12 +7621,17 @@
     <tag k="wikimedia_commons" v="Category:Castel Madama"/>
     <tag k="wikipedia" v="it:Castel Madama"/>
   </node>
-  <node id="72962554" lat="42.1253987" lon="12.5007367" version="4" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
+  <node id="72962554" lat="42.1253987" lon="12.5007367" version="5" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunecastelnuovodiporto/"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/comune_castelnuovodiporto/"/>
+    <tag k="contact:twitter" v="https://mobile.twitter.com/castelnuovodp"/>
+    <tag k="contact:youtube" v="https://m.youtube.com/channel/UC3u4QqBVTlpvwmYGstnarqg"/>
     <tag k="gfoss_id" v="4935"/>
     <tag k="name" v="Castelnuovo di Porto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8630"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.castelnuovodiporto.rm.it/"/>
     <tag k="wikidata" v="Q242126"/>
     <tag k="wikimedia_commons" v="Category:Castelnuovo di Porto"/>
     <tag k="wikipedia" v="it:Castelnuovo di Porto"/>
@@ -7716,12 +7720,16 @@
     <tag k="wikimedia_commons" v="Category:Ponzano Romano"/>
     <tag k="wikipedia" v="it:Ponzano Romano"/>
   </node>
-  <node id="72962862" lat="42.1001220" lon="12.5056750" version="3" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
+  <node id="72962862" lat="42.1001220" lon="12.5056750" version="4" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunediriano"/>
+    <tag k="contact:instagram" v="https://www.instagram.com/comuneriano"/>
+    <tag k="contact:youtube" v="https://www.youtube.com/https://youtube.com/channel/UCfkz9Ekrk4ZnYsdxrfOswog"/>
     <tag k="gfoss_id" v="4992"/>
     <tag k="name" v="Riano"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10466"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.riano.rm.it/"/>
     <tag k="wikidata" v="Q243188"/>
     <tag k="wikimedia_commons" v="Category:Riano"/>
     <tag k="wikipedia" v="it:Riano (Italia)"/>
@@ -8483,13 +8491,6 @@
     <tag k="wikidata" v="Q50080"/>
     <tag k="wikimedia_commons" v="Category:Cerchio (Italy)"/>
     <tag k="wikipedia" v="it:Cerchio (Italia)"/>
-  </node>
-  <node id="4446265118" lat="45.9210025" lon="11.9305542" version="4" timestamp="2023-02-11T11:56:55Z" changeset="132401074" uid="15886906" user="il_Cervo">
-    <tag k="name" v="Quero"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="1807"/>
-    <tag k="wikidata" v="Q40082"/>
-    <tag k="wikipedia" v="it:Quero (Quero Vas)"/>
   </node>
   <node id="4595391507" lat="45.4319046" lon="9.7142090" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2583"/>
