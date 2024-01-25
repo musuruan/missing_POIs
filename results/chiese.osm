@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-01-24T02:24:56Z" areas="2024-01-23T21:16:20Z"/>
+<meta osm_base="2024-01-25T02:26:14Z" areas="2024-01-24T21:25:52Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1937,6 +1937,13 @@
     <tag k="name" v="Capaci"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11342"/>
+    <tag k="source" v="Istat gennaio 2022"/>
+  </node>
+  <node id="67256513" lat="38.0541181" lon="13.5302261" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
+    <tag k="name" v="Casteldaccia"/>
+    <tag k="name:scn" v="Castiɖɖazzu"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="11582"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
   <node id="67256637" lat="38.0000530" lon="13.9414590" version="10" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
