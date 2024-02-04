@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-02-03T02:13:41Z" areas="2024-02-02T22:31:59Z"/>
+<meta osm_base="2024-02-04T02:20:09Z" areas="2024-02-03T22:41:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -94,13 +94,6 @@
     <tag k="name" v="Viadanica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1028"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506197" lat="45.6031356" lon="9.6156095" version="3" timestamp="2020-05-27T05:02:18Z" changeset="85805667" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="2151"/>
-    <tag k="name" v="Verdellino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6697"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506215" lat="45.7195800" lon="9.5501500" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -4774,6 +4767,16 @@
     <tag k="population" v="2186"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
+  <node id="67253832" lat="37.3380858" lon="13.4219962" version="37" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+    <tag k="name" v="Siculiana"/>
+    <tag k="name:ar" v="سيكوليانا"/>
+    <tag k="name:it" v="Siculiana"/>
+    <tag k="name:ru" v="Сикульяна"/>
+    <tag k="name:uk" v="Сікуліана"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4141"/>
+    <tag k="source" v="Istat gennaio 2023"/>
+  </node>
   <node id="67253841" lat="37.2522942" lon="13.7935999" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Camastra"/>
     <tag k="place" v="village"/>
@@ -8472,14 +8475,6 @@
     <tag k="name:ru" v="Монте-ди-Прочида"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12838"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580988" lat="40.7509699" lon="13.8900602" version="24" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
-    <tag k="gfoss_id" v="5376"/>
-    <tag k="name" v="Lacco Ameno"/>
-    <tag k="name:ru" v="Деревня Лаккомена"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4273"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68581011" lat="40.7237090" lon="14.5465380" version="3" timestamp="2016-11-08T17:14:53Z" changeset="43493378" uid="2511706" user="calfarome">
