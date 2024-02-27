@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-02-26T02:18:03Z" areas="2024-02-25T20:58:42Z"/>
+<meta osm_base="2024-02-27T02:13:29Z" areas="2024-02-26T21:07:03Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6621,6 +6621,16 @@
     <tag k="population" v="314"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="70992640" lat="42.0082290" lon="13.6227010" version="3" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
+    <tag k="gfoss_id" v="5792"/>
+    <tag k="name" v="San Benedetto dei Marsi"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4006"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q50139"/>
+    <tag k="wikimedia_commons" v="Category:San Benedetto dei Marsi"/>
+    <tag k="wikipedia" v="it:San Benedetto dei Marsi"/>
+  </node>
   <node id="70992668" lat="42.1022783" lon="13.2047742" version="3" timestamp="2021-04-21T14:08:01Z" changeset="103346154" uid="3151555" user="Dino Michelini">
     <tag k="gfoss_id" v="5796"/>
     <tag k="name" v="Sante Marie"/>
@@ -8206,14 +8216,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="809"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="1216362191" lat="43.2347405" lon="13.6878517" version="10" timestamp="2019-03-05T07:39:10Z" changeset="67793901" uid="123412" user="totera">
-    <tag k="name" v="Sant'Elpidio a Mare"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="17110"/>
-    <tag k="postal_code" v="63811"/>
-    <tag k="wikidata" v="Q59297"/>
-    <tag k="wikipedia" v="it:Sant'Elpidio a Mare"/>
   </node>
   <node id="1313601109" lat="43.8051686" lon="12.3782507" version="2" timestamp="2016-09-11T00:19:05Z" changeset="42069137" uid="743479" user="fayor">
     <tag k="name" v="Mercato Vecchio"/>
