@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-01T02:21:19Z" areas="2024-02-29T21:52:45Z"/>
+<meta osm_base="2024-03-02T02:14:42Z" areas="2024-03-01T22:08:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11847,12 +11847,16 @@
     <tag k="population" v="1432"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274418" lat="39.5606726" lon="16.8011583" version="3" timestamp="2018-11-18T10:32:34Z" changeset="64616302" uid="8331873" user="deizenov">
+  <node id="67274418" lat="39.5606726" lon="16.8011583" version="5" timestamp="2024-03-01T16:17:54Z" changeset="148103010" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="6506"/>
     <tag k="name" v="Calopezzati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1206"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.calopezzati.cs.it/"/>
+    <tag k="wikidata" v="Q53846"/>
+    <tag k="wikimedia_commons" v="Category:Calopezzati"/>
+    <tag k="wikipedia" v="it:Calopezzati"/>
   </node>
   <node id="67274424" lat="39.4197990" lon="16.7490020" version="2" timestamp="2016-08-28T18:58:13Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6503"/>
@@ -12124,13 +12128,6 @@
     <tag k="name" v="San Nicola Arcella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1393"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274734" lat="39.3420944" lon="16.3112472" version="4" timestamp="2020-09-24T17:04:07Z" changeset="91454862" uid="177389" user="Garmin-User">
-    <tag k="gfoss_id" v="6612"/>
-    <tag k="name" v="San Pietro in Guarano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3712"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274738" lat="39.3079940" lon="16.3210940" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
