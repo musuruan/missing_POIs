@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-03T02:18:18Z" areas="2024-03-02T22:47:08Z"/>
+<meta osm_base="2024-03-04T02:57:35Z" areas="2024-03-03T22:06:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7973,13 +7973,6 @@
     <tag k="population" v="1946"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778419" lat="45.2226948" lon="11.6109014" version="5" timestamp="2016-10-06T18:22:34Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3574"/>
-    <tag k="name" v="Ospedaletto Euganeo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5401"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778455" lat="45.2976920" lon="12.0368140" version="3" timestamp="2016-10-26T10:46:16Z" changeset="43189086" uid="3479270" user="nammala">
     <tag k="gfoss_id" v="3580"/>
     <tag k="name" v="Piove di Sacco"/>
@@ -7994,13 +7987,6 @@
     <tag k="name:ru" v="Пьомбино-Дезе"/>
     <tag k="place" v="town"/>
     <tag k="population" v="9534"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778469" lat="45.2454887" lon="12.0251829" version="4" timestamp="2016-10-06T18:22:35Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3583"/>
-    <tag k="name" v="Pontelongo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3759"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778473" lat="45.0007997" lon="11.7665362" version="6" timestamp="2020-11-22T17:15:38Z" changeset="94591291" uid="554973" user="dgitto">
@@ -11474,12 +11460,16 @@
     <tag k="population" v="2540"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273943" lat="39.5676020" lon="16.7728010" version="3" timestamp="2016-09-09T00:49:40Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="67273943" lat="39.5676020" lon="16.7728010" version="4" timestamp="2024-03-03T09:32:02Z" changeset="148158195" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="6532"/>
     <tag k="name" v="Crosia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9762"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comunedicrosia.it"/>
+    <tag k="wikidata" v="Q53872"/>
+    <tag k="wikimedia_commons" v="Category:Crosia"/>
+    <tag k="wikipedia" v="it:Crosia"/>
   </node>
   <node id="67273947" lat="39.2196910" lon="16.2060930" version="2" timestamp="2016-08-28T18:58:23Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6535"/>
@@ -25760,7 +25750,7 @@
     <tag k="wikidata" v="Q18502464"/>
     <tag k="wikipedia" v="it:Santa Maria (Revine Lago)"/>
   </node>
-  <node id="946942749" lat="45.1684360" lon="9.8901470" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="946942749" lat="45.1683868" lon="9.8900934" version="4" timestamp="2024-03-03T11:32:57Z" changeset="148161887" uid="9622178" user="GiovanniC83">
     <tag k="gfoss_id" v="2567"/>
     <tag k="name" v="Acquanegra Cremonese"/>
     <tag k="place" v="village"/>
