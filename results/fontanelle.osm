@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-04T02:56:55Z" areas="2024-03-03T22:06:58Z"/>
+<meta osm_base="2024-03-05T02:15:26Z" areas="2024-03-04T22:17:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3629,13 +3629,14 @@
     <tag k="population" v="13177"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778446" lat="45.4581932" lon="11.8828635" version="8" timestamp="2019-08-27T14:23:25Z" changeset="73801507" uid="9126171" user="azakh-world">
+  <node id="64778446" lat="45.4581932" lon="11.8828635" version="9" timestamp="2024-03-04T13:20:50Z" changeset="148206755" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3614"/>
     <tag k="name" v="Vigodarzere"/>
     <tag k="name:vec" v="Vigodarxare"/>
     <tag k="place" v="town"/>
     <tag k="population" v="6278"/>
     <tag k="source" v="geodati.gfoss.it;ISTAT Censimento 2011"/>
+    <tag k="wikidata" v="Q30031742"/>
   </node>
   <node id="64778455" lat="45.2976920" lon="12.0368140" version="3" timestamp="2016-10-26T10:46:16Z" changeset="43189086" uid="3479270" user="nammala">
     <tag k="gfoss_id" v="3580"/>
@@ -4814,12 +4815,6 @@
     <tag k="population" v="8303"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
-  <node id="67254462" lat="37.3880480" lon="14.6926810" version="12" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Ramacca"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10194"/>
-    <tag k="source" v="Istat gennaio 2022"/>
-  </node>
   <node id="67254525" lat="37.0833929" lon="14.5616741" version="15" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
     <tag k="name" v="Mazzarrone"/>
     <tag k="name:scn" v="Mazzarruni"/>
@@ -5828,13 +5823,17 @@
     <tag k="population" v="878"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274934" lat="39.5470697" lon="16.3291319" version="5" timestamp="2023-10-26T13:45:56Z" changeset="143163457" uid="1208320" user="jury83">
+  <node id="67274934" lat="39.5471388" lon="16.3291429" version="7" timestamp="2024-03-04T11:17:17Z" changeset="148201555" uid="177389" user="Garmin-User">
     <tag k="gfoss_id" v="6618"/>
     <tag k="name" v="Santa Sofia d'Epiro"/>
     <tag k="name:aae" v="Shën Sofia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3131"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.santasofiadepiro.cs.it/"/>
+    <tag k="wikidata" v="Q53992"/>
+    <tag k="wikimedia_commons" v="Category:Santa Sofia d'Epiro"/>
+    <tag k="wikipedia" v="it:Santa Sofia d'Epiro"/>
   </node>
   <node id="67274938" lat="39.6227980" lon="15.9837830" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6616"/>

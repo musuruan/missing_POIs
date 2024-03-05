@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-04T02:57:35Z" areas="2024-03-03T22:06:58Z"/>
+<meta osm_base="2024-03-05T02:15:26Z" areas="2024-03-04T22:17:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -12127,13 +12127,18 @@
     <tag k="population" v="2817"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274740" lat="39.5698990" lon="16.3614920" version="4" timestamp="2021-05-26T01:33:54Z" changeset="105320446" uid="3427222" user="Fastbyte01">
+  <node id="67274740" lat="39.5698990" lon="16.3614920" version="5" timestamp="2024-03-04T09:54:00Z" changeset="148198054" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunesandemetriocorone/"/>
     <tag k="gfoss_id" v="6599"/>
     <tag k="name" v="San Demetrio Corone"/>
     <tag k="name:sq" v="Shën Mitri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3944"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.sandemetriocorone.cs.it/"/>
+    <tag k="wikidata" v="Q53961"/>
+    <tag k="wikimedia_commons" v="Category:San Demetrio Corone"/>
+    <tag k="wikipedia" v="it:San Demetrio Corone"/>
   </node>
   <node id="67274745" lat="39.5818179" lon="16.4541868" version="5" timestamp="2020-02-11T21:18:33Z" changeset="80870633" uid="8269646" user="Giovanni Cerrigone">
     <tag k="gfoss_id" v="6603"/>
