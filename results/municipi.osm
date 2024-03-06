@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-05T02:12:30Z" areas="2024-03-04T22:17:59Z"/>
+<meta osm_base="2024-03-06T02:11:59Z" areas="2024-03-05T23:45:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -793,7 +793,7 @@
     <tag k="population" v="5660"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511407" lat="45.3555434" lon="9.7802426" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511407" lat="45.3555543" lon="9.7802453" version="4" timestamp="2024-03-05T20:34:27Z" changeset="148267176" uid="18934313" user="Premo19">
     <tag k="gfoss_id" v="2653"/>
     <tag k="name" v="Salvirola"/>
     <tag k="place" v="village"/>
@@ -2260,13 +2260,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030398"/>
   </node>
-  <node id="64776567" lat="46.1302020" lon="10.7574700" version="3" timestamp="2016-10-25T21:33:08Z" changeset="43173645" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="2894"/>
-    <tag k="name" v="Caderzone Terme"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="602"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64776574" lat="46.3653890" lon="10.9425799" version="8" timestamp="2021-03-28T18:19:00Z" changeset="101884805" uid="8445331" user="JuaFritz">
     <tag k="gfoss_id" v="2898"/>
     <tag k="loc_name" v="Caudés"/>
@@ -2655,12 +2648,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="11334"/>
   </node>
-  <node id="64778787" lat="45.4173480" lon="12.0331806" version="3" timestamp="2016-10-02T23:39:12Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778787" lat="45.4173480" lon="12.0331806" version="4" timestamp="2024-03-05T14:44:09Z" changeset="148253933" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3487"/>
     <tag k="name" v="Fiesso d'Artico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5779"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025709"/>
   </node>
   <node id="64778817" lat="45.5221126" lon="10.8344426" version="5" timestamp="2016-10-09T16:06:44Z" changeset="42757067" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3167"/>
