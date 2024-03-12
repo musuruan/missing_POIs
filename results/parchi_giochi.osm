@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-11T02:17:59Z" areas="2024-03-11T00:04:50Z"/>
+<meta osm_base="2024-03-12T02:16:29Z" areas="2024-03-12T00:36:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7519,15 +7519,6 @@
     <tag k="wikidata" v="Q25212"/>
     <tag k="wikipedia" v="en:Tricerro"/>
   </node>
-  <node id="63632110" lat="45.4253071" lon="8.3809935" version="7" timestamp="2023-01-17T20:02:59Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="317"/>
-    <tag k="name" v="Albano Vercellese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="339"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022068"/>
-  </node>
   <node id="63632113" lat="45.4552620" lon="8.2801280" version="6" timestamp="2023-01-17T19:56:09Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="322"/>
@@ -11581,12 +11572,14 @@
     <tag k="population" v="896"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274118" lat="39.7175180" lon="15.8493274" version="3" timestamp="2016-08-28T18:58:29Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274118" lat="39.7175180" lon="15.8493274" version="4" timestamp="2024-03-11T12:02:27Z" changeset="148502674" uid="69259" user="DnaX">
     <tag k="gfoss_id" v="6556"/>
     <tag k="name" v="Maierà"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1333"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53902"/>
+    <tag k="wikipedia" v="it:Maierà"/>
   </node>
   <node id="67274126" lat="39.4461050" lon="16.2872550" version="7" timestamp="2016-08-28T18:58:29Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6555"/>
