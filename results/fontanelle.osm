@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-15T02:16:47Z" areas="2024-03-14T21:20:44Z"/>
+<meta osm_base="2024-03-16T02:14:52Z" areas="2024-03-15T20:51:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5390,13 +5390,6 @@
     <tag k="name:ru" v="Гримальди"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1870"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274046" lat="39.2347925" lon="16.0671836" version="4" timestamp="2024-02-09T08:50:35Z" changeset="147246949" uid="8215303" user="ross-map">
-    <tag k="gfoss_id" v="6540"/>
-    <tag k="name" v="Fiumefreddo Bruzio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3363"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274054" lat="39.7214010" lon="16.1701860" version="5" timestamp="2018-05-08T19:46:35Z" changeset="58798710" uid="1293386" user="Sal73x">
@@ -13576,6 +13569,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q50140"/>
     <tag k="wikipedia" v="it:San Benedetto in Perillis"/>
+  </node>
+  <node id="6955913968" lat="39.1622028" lon="16.0825360" version="1" timestamp="2019-11-07T20:37:45Z" changeset="76776505" uid="330007" user="pikappa79">
+    <tag k="name" v="Belmonte Calabro"/>
+    <tag k="place" v="village"/>
   </node>
   <node id="7132841997" lat="40.9469957" lon="14.6382602" version="1" timestamp="2020-01-15T10:25:11Z" changeset="79602283" uid="10639077" user="Felice Noviello">
     <tag k="name" v="Quadrelle"/>
