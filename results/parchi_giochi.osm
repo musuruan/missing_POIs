@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.61.5 4133829e">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-18T02:17:10Z" areas="2024-03-17T22:03:15Z"/>
+<meta osm_base="2024-03-19T02:17:28Z" areas="2024-03-18T22:42:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11585,13 +11585,6 @@
     <tag k="population" v="5892"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274156" lat="39.9009020" lon="15.7792760" version="2" timestamp="2016-08-28T18:58:39Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6586"/>
-    <tag k="name" v="Praia a Mare"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6282"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274177" lat="39.8096030" lon="16.1632850" version="4" timestamp="2020-07-21T14:31:40Z" changeset="88299497" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="6596"/>
     <tag k="name" v="San Basile"/>
@@ -12173,13 +12166,6 @@
     <tag k="name" v="Trebisacce"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9055"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274886" lat="39.9413030" lon="15.8051760" version="2" timestamp="2016-08-28T18:58:51Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6634"/>
-    <tag k="name" v="Tortora"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5823"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274911" lat="39.0902880" lon="16.1274930" version="2" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
@@ -26635,10 +26621,13 @@
     <tag k="population" v="2626"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="4365635924" lat="39.5001974" lon="16.2744614" version="1" timestamp="2016-08-25T02:40:14Z" changeset="41677315" uid="743479" user="fayor">
+  <node id="4365635924" lat="39.5001974" lon="16.2744614" version="2" timestamp="2024-03-18T20:44:12Z" changeset="148834255" uid="16701886" user="Giorgio543143">
+    <tag k="ele" v="350"/>
     <tag k="name" v="Bisignano"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10203"/>
+    <tag k="population" v="9 457"/>
+    <tag k="wikidata" v="Q53840"/>
+    <tag k="wikipedia" v="it:Bisignano"/>
   </node>
   <node id="4366962677" lat="45.7494106" lon="12.3193327" version="5" timestamp="2023-09-29T00:09:09Z" changeset="141891033" uid="497537" user="tuxfuzz">
     <tag k="ele" v="31"/>
