@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-03-30T02:14:12Z" areas="2024-03-30T01:07:37Z"/>
+<meta osm_base="2024-03-31T02:21:04Z" areas="2024-03-31T01:26:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7414,6 +7414,16 @@
     <tag k="population" v="2718"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="63631345" lat="45.3920560" lon="7.7598180" version="7" timestamp="2023-01-17T19:57:09Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+    <tag k="gfoss_id" v="274"/>
+    <tag k="name" v="Torre Canavese"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="628"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.torrecanavese.piemonte.it"/>
+    <tag k="wikidata" v="Q10316"/>
+    <tag k="wikipedia" v="it:Torre Canavese"/>
+  </node>
   <node id="63631448" lat="44.8645410" lon="7.5701230" version="4" timestamp="2023-01-17T19:57:49Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="310"/>
     <tag k="name" v="Virle Piemonte"/>
@@ -11544,13 +11554,6 @@
     <tag k="population" v="4184"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274147" lat="39.1787640" lon="16.3234092" version="3" timestamp="2016-08-28T18:58:40Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6590"/>
-    <tag k="name" v="Rogliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5892"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274177" lat="39.8096030" lon="16.1632850" version="4" timestamp="2020-07-21T14:31:40Z" changeset="88299497" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="6596"/>
     <tag k="name" v="San Basile"/>
@@ -14450,23 +14453,6 @@
     <tag k="website" v="http://www.comune.castelgiorgio.tr.it/"/>
     <tag k="wikidata" v="Q6340"/>
     <tag k="wikipedia" v="it:Castel Giorgio"/>
-  </node>
-  <node id="68507858" lat="42.6127014" lon="12.5465047" version="17" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
-    <tag k="ele" v="337"/>
-    <tag k="gfoss_id" v="50749"/>
-    <tag k="istat_id" v="5502910002"/>
-    <tag k="name" v="San Gemini"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3375"/>
-    <tag k="population:date" v="2011-10-09"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="ref:LOCODE" v="ITGMN"/>
-    <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comune.sangemini.tr.it/home.php"/>
-    <tag k="wikidata" v="Q10895"/>
-    <tag k="wikimedia_commons" v="Category:San Gemini"/>
-    <tag k="wikipedia" v="it:San Gemini"/>
   </node>
   <node id="68507862" lat="42.8693370" lon="12.2698590" version="12" timestamp="2019-03-20T10:45:53Z" changeset="68329681" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="465"/>
@@ -25497,15 +25483,6 @@
     <tag k="population" v="106"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q3646649"/>
-  </node>
-  <node id="677679475" lat="46.0283776" lon="9.1825386" version="1" timestamp="2010-03-29T19:45:23Z" changeset="4270832" uid="68842" user="noperante">
-    <tag k="ele" v="377"/>
-    <tag k="gfoss_id" v="11378"/>
-    <tag k="istat_id" v="1302110001"/>
-    <tag k="name" v="Bene Lario"/>
-    <tag k="place" v="hamlet"/>
-    <tag k="population" v="229"/>
-    <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
   <node id="716484870" lat="40.6942622" lon="14.6398879" version="3" timestamp="2016-08-31T23:04:17Z" changeset="41838072" uid="743479" user="fayor">
     <tag k="name" v="Polvica"/>
