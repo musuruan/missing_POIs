@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-04T02:19:46Z" areas="2024-04-04T00:18:15Z"/>
+<meta osm_base="2024-04-05T02:18:53Z" areas="2024-04-04T23:12:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3784,7 +3784,7 @@
     <tag k="population" v="2607"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517214" lat="46.0889912" lon="8.7339410" version="3" timestamp="2016-08-19T09:29:26Z" changeset="41551332" uid="1476146" user="Alecs01">
+  <node id="62517214" lat="46.0891376" lon="8.7338122" version="4" timestamp="2024-04-04T13:19:33Z" changeset="149570216" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="1485"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Tronzano Lago Maggiore"/>
@@ -3792,12 +3792,15 @@
     <tag k="population" v="257"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517329" lat="45.9500498" lon="8.8322606" version="4" timestamp="2024-04-01T21:27:17Z" changeset="149453838" uid="19971463" user="LeoBorGiov">
+  <node id="62517329" lat="45.9499915" lon="8.8323669" version="5" timestamp="2024-04-04T13:19:33Z" changeset="149570216" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="1453"/>
     <tag k="name" v="Marchirolo"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="3153"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3565"/>
+    <tag k="population:date" v="2023 12 31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="istat"/>
+    <tag k="wikidata" v="Q39848"/>
   </node>
   <node id="62517337" lat="45.9386810" lon="8.8591970" version="4" timestamp="2021-07-02T06:59:10Z" changeset="107293924" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="1455"/>
