@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-05T02:14:56Z" areas="2024-04-05T00:47:58Z"/>
+<meta osm_base="2024-04-06T02:13:41Z" areas="2024-04-05T20:34:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5223,16 +5223,6 @@
     <tag k="wikidata" v="Q17878"/>
     <tag k="wikipedia" v="it:Viale (Italia)"/>
   </node>
-  <node id="63624698" lat="45.0644697" lon="8.0988611" version="3" timestamp="2021-02-03T11:59:32Z" changeset="98643030" uid="6178157" user="Tresho">
-    <tag k="gfoss_id" v="857"/>
-    <tag k="name" v="Montiglio Monferrato"/>
-    <tag k="name:pms" v="Montij Monfrà"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1747"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17837"/>
-    <tag k="wikipedia" v="it:Montiglio Monferrato"/>
-  </node>
   <node id="63624722" lat="45.6897517" lon="8.2162595" version="7" timestamp="2023-01-17T20:02:26Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="ele" v="559"/>
     <tag k="gfoss_id" v="7700"/>
@@ -6926,6 +6916,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="386"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="63630721" lat="45.1373354" lon="7.7710152" version="26" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+    <tag k="gfoss_id" v="265"/>
+    <tag k="name" v="Settimo Torinese"/>
+    <tag k="name:ru" v="Сеттимо-Торинезе"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="46982"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q10304"/>
   </node>
   <node id="63630731" lat="45.0949806" lon="7.8781435" version="6" timestamp="2024-01-17T10:43:19Z" changeset="146358009" uid="9265159" user="grawal">
     <tag k="gfoss_id" v="262"/>
