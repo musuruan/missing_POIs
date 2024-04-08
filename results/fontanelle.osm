@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-07T02:21:00Z" areas="2024-04-06T20:55:48Z"/>
+<meta osm_base="2024-04-08T02:19:33Z" areas="2024-04-08T01:03:37Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -553,15 +553,6 @@
     <tag k="population" v="620"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511197" lat="45.1487508" lon="9.9296724" version="5" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2666"/>
-    <tag k="name" v="Spinadesco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1574"/>
-    <tag k="postal_code" v="26020"/>
-    <tag k="ref:ISTAT" v="019100"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62511213" lat="45.0895700" lon="10.1236750" version="3" timestamp="2021-08-30T16:11:35Z" changeset="110469620" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2640"/>
     <tag k="name" v="Pieve d'Olmi"/>
@@ -672,7 +663,7 @@
     <tag k="population" v="1169"/>
     <tag k="wikidata" v="Q30025998"/>
   </node>
-  <node id="62511626" lat="45.7707810" lon="9.4546470" version="2" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62511626" lat="45.7707810" lon="9.4549465" version="3" timestamp="2024-04-07T16:16:56Z" changeset="149700189" uid="139580" user="morsi">
     <tag k="gfoss_id" v="7821"/>
     <tag k="name" v="Monte Marenzo"/>
     <tag k="place" v="village"/>
@@ -8078,10 +8069,11 @@
     <tag k="wikidata" v="Q58547"/>
     <tag k="wikipedia" v="it:Casapulla"/>
   </node>
-  <node id="68580192" lat="41.0114120" lon="14.1248250" version="22" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <node id="68580192" lat="41.0114120" lon="14.1248250" version="23" timestamp="2024-04-07T16:59:11Z" changeset="149701868" uid="1538111" user="avinet_ua">
     <tag k="gfoss_id" v="5175"/>
     <tag k="name" v="Casal di Principe"/>
     <tag k="name:ru" v="Казаль-ди-Принципе"/>
+    <tag k="name:uk" v="Казаль-ді-Принципі"/>
     <tag k="place" v="town"/>
     <tag k="population" v="21389"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8236,10 +8228,11 @@
     <tag k="population" v="9196"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580695" lat="40.8292962" lon="14.3341677" version="23" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <node id="68580695" lat="40.8292962" lon="14.3341677" version="24" timestamp="2024-04-07T16:59:11Z" changeset="149701868" uid="1538111" user="avinet_ua">
     <tag k="gfoss_id" v="5405"/>
     <tag k="name" v="San Giorgio a Cremano"/>
     <tag k="name:ru" v="Сан-Джорджо-а-Кремано"/>
+    <tag k="name:uk" v="Сан-Джорджо-а-Кремано"/>
     <tag k="place" v="town"/>
     <tag k="population" v="45557"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8291,10 +8284,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72118"/>
   </node>
-  <node id="68580940" lat="40.8009070" lon="14.0518270" version="21" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <node id="68580940" lat="40.8009070" lon="14.0518270" version="22" timestamp="2024-04-07T16:59:11Z" changeset="149701868" uid="1538111" user="avinet_ua">
     <tag k="gfoss_id" v="5385"/>
     <tag k="name" v="Monte di Procida"/>
     <tag k="name:ru" v="Монте-ди-Прочида"/>
+    <tag k="name:uk" v="Монте-ді-Прочіда"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12838"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8307,10 +8301,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72602"/>
   </node>
-  <node id="68581026" lat="40.9056130" lon="14.5050350" version="22" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <node id="68581026" lat="40.9056130" lon="14.5050350" version="23" timestamp="2024-04-07T16:59:11Z" changeset="149701868" uid="1538111" user="avinet_ua">
     <tag k="gfoss_id" v="5414"/>
     <tag k="name" v="Saviano"/>
     <tag k="name:ru" v="Савьяно"/>
+    <tag k="name:uk" v="Сав'яно"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15982"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9954,11 +9949,12 @@
     <tag k="wikidata" v="Q51464"/>
     <tag k="wikipedia" v="it:Sant'Egidio alla Vibrata"/>
   </node>
-  <node id="72959669" lat="41.6419807" lon="13.3469287" version="43" timestamp="2023-10-25T05:29:24Z" changeset="143094723" uid="461130" user="Fizzie41">
+  <node id="72959669" lat="41.6419807" lon="13.3469287" version="44" timestamp="2024-04-07T16:59:11Z" changeset="149701868" uid="1538111" user="avinet_ua">
     <tag k="capital" v="6"/>
     <tag k="gfoss_id" v="5103"/>
     <tag k="name" v="Frosinone"/>
     <tag k="name:ru" v="Фрозиноне"/>
+    <tag k="name:uk" v="Фрозіноне"/>
     <tag k="name:zh" v="弗罗西诺内"/>
     <tag k="place" v="town"/>
     <tag k="population" v="46323"/>
