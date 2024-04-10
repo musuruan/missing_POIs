@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-09T02:18:45Z" areas="2024-04-08T21:35:40Z"/>
+<meta osm_base="2024-04-10T02:19:52Z" areas="2024-04-09T21:33:52Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -166,11 +166,10 @@
     <tag k="population" v="2367"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753555" lat="43.9947210" lon="10.2257715" version="25" timestamp="2024-04-07T16:58:35Z" changeset="149701844" uid="1538111" user="avinet_ua">
+  <node id="61753555" lat="43.9947210" lon="10.2257715" version="26" timestamp="2024-04-09T12:02:30Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="4451"/>
     <tag k="name" v="Seravezza"/>
     <tag k="name:ru" v="Серавецца"/>
-    <tag k="name:uk" v="Серається"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13073"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7929,11 +7928,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q34317"/>
   </node>
-  <node id="64778458" lat="45.6075204" lon="11.9994148" version="25" timestamp="2024-04-07T16:58:35Z" changeset="149701844" uid="1538111" user="avinet_ua">
+  <node id="64778458" lat="45.6075204" lon="11.9994148" version="26" timestamp="2024-04-09T12:02:55Z" changeset="149774377" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="3579"/>
     <tag k="name" v="Piombino Dese"/>
     <tag k="name:ru" v="Пьомбино-Дезе"/>
-    <tag k="name:uk" v="Пьомбіно-Дезе"/>
     <tag k="place" v="town"/>
     <tag k="population" v="9534"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -10619,10 +10617,9 @@
     <tag k="population" v="11342"/>
     <tag k="source" v="Istat gennaio 2022"/>
   </node>
-  <node id="67256521" lat="38.1549428" lon="13.1098412" version="30" timestamp="2024-04-07T16:59:11Z" changeset="149701868" uid="1538111" user="avinet_ua">
+  <node id="67256521" lat="38.1549428" lon="13.1098412" version="31" timestamp="2024-04-09T12:02:41Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
     <tag k="name" v="Cinisi"/>
     <tag k="name:ru" v="Чинизи"/>
-    <tag k="name:uk" v="Чинізі"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11945"/>
     <tag k="source" v="Istat gennaio 2022"/>
@@ -16705,11 +16702,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72503"/>
   </node>
-  <node id="68580695" lat="40.8292962" lon="14.3341677" version="24" timestamp="2024-04-07T16:59:11Z" changeset="149701868" uid="1538111" user="avinet_ua">
+  <node id="68580695" lat="40.8292962" lon="14.3341677" version="25" timestamp="2024-04-09T12:03:25Z" changeset="149774401" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="5405"/>
     <tag k="name" v="San Giorgio a Cremano"/>
     <tag k="name:ru" v="Сан-Джорджо-а-Кремано"/>
-    <tag k="name:uk" v="Сан-Джорджо-а-Кремано"/>
     <tag k="place" v="town"/>
     <tag k="population" v="45557"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -16820,11 +16816,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72602"/>
   </node>
-  <node id="68581026" lat="40.9056130" lon="14.5050350" version="23" timestamp="2024-04-07T16:59:11Z" changeset="149701868" uid="1538111" user="avinet_ua">
+  <node id="68581026" lat="40.9056130" lon="14.5050350" version="24" timestamp="2024-04-09T12:02:50Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="5414"/>
     <tag k="name" v="Saviano"/>
     <tag k="name:ru" v="Савьяно"/>
-    <tag k="name:uk" v="Сав'яно"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15982"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -22999,23 +22994,6 @@
     <tag k="wikidata" v="Q286625"/>
     <tag k="wikipedia" v="it:Piscinas"/>
     <tag k="wikipedia:sc" v="Piscinas"/>
-  </node>
-  <node id="72991806" lat="39.2541390" lon="9.1788460" version="48" timestamp="2023-04-22T19:38:45Z" changeset="135241189" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Cuartuciu"/>
-    <tag k="gfoss_id" v="7502"/>
-    <tag k="int_name" v="Quartucciu"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Cuartùciu/Quartucciu"/>
-    <tag k="name:it" v="Quartucciu"/>
-    <tag k="name:sc" v="Cuartùciu"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10766"/>
-    <tag k="postal_code" v="09044"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.quartucciu.ca.it/"/>
-    <tag k="wikidata" v="Q284501"/>
-    <tag k="wikipedia" v="it:Quartucciu"/>
-    <tag k="wikipedia:sc" v="Quartùcciu"/>
   </node>
   <node id="72991824" lat="40.2674520" lon="8.5402190" version="42" timestamp="2017-03-01T21:24:49Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7319"/>
