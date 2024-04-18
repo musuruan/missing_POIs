@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-17T02:19:54Z" areas="2024-04-17T01:10:36Z"/>
+<meta osm_base="2024-04-18T02:20:35Z" areas="2024-04-17T21:57:12Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1294,12 +1294,13 @@
     <tag k="population" v="5262"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508642" lat="45.5125048" lon="9.9778550" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508642" lat="45.5125048" lon="9.9778550" version="5" timestamp="2024-04-17T08:06:58Z" changeset="150115330" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2215"/>
     <tag k="name" v="Castrezzato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5800"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024391"/>
   </node>
   <node id="62508657" lat="45.3646065" lon="10.4293846" version="7" timestamp="2019-05-17T11:24:36Z" changeset="70352703" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2209"/>
@@ -8965,14 +8966,6 @@
     <tag k="name:fur" v="Reane dal Roiâl"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4726"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="66503187" lat="46.1735947" lon="13.1879335" version="8" timestamp="2019-05-16T23:53:41Z" changeset="70338353" uid="97922" user="damjang">
-    <tag k="gfoss_id" v="3690"/>
-    <tag k="name" v="Cassacco"/>
-    <tag k="name:fur" v="Cjassà"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2849"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66503188" lat="46.0104210" lon="13.3338310" version="4" timestamp="2019-05-16T23:53:42Z" changeset="70338353" uid="97922" user="damjang">
@@ -26347,14 +26340,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2626"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="4365635924" lat="39.5001974" lon="16.2744614" version="2" timestamp="2024-03-18T20:44:12Z" changeset="148834255" uid="16701886" user="Giorgio543143">
-    <tag k="ele" v="350"/>
-    <tag k="name" v="Bisignano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="9 457"/>
-    <tag k="wikidata" v="Q53840"/>
-    <tag k="wikipedia" v="it:Bisignano"/>
   </node>
   <node id="4366962677" lat="45.7494106" lon="12.3193327" version="5" timestamp="2023-09-29T00:09:09Z" changeset="141891033" uid="497537" user="tuxfuzz">
     <tag k="ele" v="31"/>
