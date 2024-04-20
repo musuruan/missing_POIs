@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-19T02:21:25Z" areas="2024-04-18T22:45:16Z"/>
+<meta osm_base="2024-04-20T02:17:40Z" areas="2024-04-19T21:35:37Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2183,16 +2183,6 @@
     <tag k="population" v="932"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622490" lat="45.0980265" lon="8.5556585" version="6" timestamp="2023-01-17T19:59:21Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="ele" v="102"/>
-    <tag k="gfoss_id" v="1030"/>
-    <tag k="name" v="Ticineto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1412"/>
-    <tag k="postal_code" v="15040"/>
-    <tag k="ref:ISTAT" v="006173"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63622497" lat="44.6704450" lon="8.4216450" version="5" timestamp="2023-01-17T19:54:30Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="1029"/>
     <tag k="name" v="Terzo"/>
@@ -2369,18 +2359,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17775"/>
     <tag k="wikipedia" v="it:Castel Boglione"/>
-  </node>
-  <node id="63623093" lat="44.9449657" lon="8.4873857" version="7" timestamp="2023-01-17T19:57:50Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="998"/>
-    <tag k="name" v="Quargnento"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1338"/>
-    <tag k="ref:ISTAT" v="006141"/>
-    <tag k="source" v="https://demo.istat.it/"/>
-    <tag k="source:population" v="ISTAT 2022"/>
-    <tag k="wikidata" v="Q17649"/>
-    <tag k="wikimedia_commons" v="Category:Quargnento"/>
-    <tag k="wikipedia" v="it:Quargnento"/>
   </node>
   <node id="63623097" lat="44.7932480" lon="8.4405430" version="5" timestamp="2023-01-17T20:04:57Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="749"/>
@@ -2580,17 +2558,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17791"/>
     <tag k="wikipedia" v="it:Cerro Tanaro"/>
-  </node>
-  <node id="63623579" lat="44.9983510" lon="8.2994360" version="7" timestamp="2023-03-22T11:26:48Z" changeset="133974124" uid="1967477" user="bubix">
-    <tag k="description" v="Il paese ha cambiato denominazione. https://www.agenziaentrate.gov.it/portale/documents/20143/4988606/Risoluzione+4+del+6+febbraio+2023.pdf/d8493c76-94ce-f2d0-531b-c63c093c582f"/>
-    <tag k="gfoss_id" v="794"/>
-    <tag k="name" v="Grana Monferrato"/>
-    <tag k="name:pms" v="Gran-a"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="611"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17813"/>
-    <tag k="wikipedia" v="it:Grana Monferrato"/>
   </node>
   <node id="63623603" lat="44.5695562" lon="8.3301861" version="4" timestamp="2020-01-25T10:47:10Z" changeset="80066617" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="802"/>
@@ -3421,12 +3388,13 @@
     <tag k="population" v="7071"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778301" lat="45.3702210" lon="11.9840665" version="5" timestamp="2018-02-20T11:02:43Z" changeset="56517043" uid="362065" user="GFS">
+  <node id="64778301" lat="45.3702210" lon="11.9840665" version="6" timestamp="2024-04-19T22:55:00Z" changeset="150243236" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3600"/>
     <tag k="name" v="Saonara"/>
     <tag k="place" v="village"/>
     <tag k="population" v="10311"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030403"/>
   </node>
   <node id="64778307" lat="45.4902940" lon="11.7520040" version="3" timestamp="2016-10-06T18:22:29Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3535"/>
@@ -4384,14 +4352,6 @@
     <tag k="wikidata" v="Q1520816"/>
     <tag k="wikipedia" v="it:Campolongo al Torre"/>
   </node>
-  <node id="66503099" lat="45.9270801" lon="13.4021946" version="5" timestamp="2019-05-16T23:53:32Z" changeset="70338353" uid="97922" user="damjang">
-    <tag k="gfoss_id" v="3695"/>
-    <tag k="name" v="Chiopris"/>
-    <tag k="name:fur" v="Cjopris"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="659"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66503159" lat="45.8835902" lon="13.2849613" version="6" timestamp="2023-01-25T13:57:07Z" changeset="131696894" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3679"/>
     <tag k="name" v="Bagnaria Arsa"/>
@@ -5223,13 +5183,6 @@
     <tag k="name" v="Chiaravalle Centrale"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7120"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273552" lat="39.0188240" lon="16.7427491" version="3" timestamp="2016-08-28T18:58:19Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6656"/>
-    <tag k="name" v="Cerva"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1342"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67273566" lat="38.6473830" lon="16.4862050" version="2" timestamp="2016-08-28T18:58:22Z" changeset="41762146" uid="743479" user="fayor">
