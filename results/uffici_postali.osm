@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-20T02:15:43Z" areas="2024-04-19T23:42:46Z"/>
+<meta osm_base="2024-04-21T02:19:35Z" areas="2024-04-20T22:06:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4159,6 +4159,14 @@
     <tag k="population" v="432"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="62517364" lat="45.8393069" lon="8.7690932" version="3" timestamp="2019-01-12T12:25:22Z" changeset="66249550" uid="1476146" user="Alecs01">
+    <tag k="gfoss_id" v="1449"/>
+    <tag k="is_in" v="Varese, Lombardia, Italy"/>
+    <tag k="name" v="Luvinate"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1386"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="62517469" lat="45.9613696" lon="8.6818093" version="5" timestamp="2022-08-12T18:41:11Z" changeset="124830049" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1470"/>
     <tag k="name" v="Porto Valtravaglia"/>
@@ -7117,15 +7125,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="22"/>
   </node>
-  <node id="64776554" lat="46.2969050" lon="10.6913650" version="3" timestamp="2020-01-22T16:22:30Z" changeset="79928227" uid="8445331" user="JuaFritz">
-    <tag k="gfoss_id" v="3077"/>
-    <tag k="name" v="Vermiglio"/>
-    <tag k="name:it" v="Vermiglio"/>
-    <tag k="name:lld" v="Verméi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1856"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64776555" lat="46.1449060" lon="11.1934790" version="4" timestamp="2016-10-25T21:33:06Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="2869"/>
     <tag k="name" v="Albiano"/>
@@ -7489,16 +7488,6 @@
     <tag k="name" v="Novaledo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="882"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64776986" lat="46.3098240" lon="10.7604512" version="5" timestamp="2020-01-22T16:22:30Z" changeset="79928227" uid="8445331" user="JuaFritz">
-    <tag k="gfoss_id" v="3001"/>
-    <tag k="name" v="Pellizzano"/>
-    <tag k="name:it" v="Pellizzano"/>
-    <tag k="name:lld" v="Pliciàn"/>
-    <tag k="name:lmo" v="Plicià"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="795"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64777011" lat="46.7203520" lon="12.1328839" version="8" timestamp="2022-05-29T12:45:26Z" changeset="121655710" uid="1213571" user="mcliquid">
@@ -8880,18 +8869,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1036"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="66503140" lat="45.7920090" lon="13.4116585" version="14" timestamp="2021-05-31T09:03:27Z" changeset="105610317" uid="684800" user="fabiotofy">
-    <tag k="addr:city" v="Fiumicello Villa Vicentina"/>
-    <tag k="description" v="Sede comunale"/>
-    <tag k="gfoss_id" v="3709"/>
-    <tag k="name" v="Fiumicello"/>
-    <tag k="name:fur" v="Flumisel"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3277"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53259"/>
-    <tag k="wikipedia" v="it:Fiumicello"/>
   </node>
   <node id="66503147" lat="46.4109017" lon="12.8787158" version="7" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="3706"/>
