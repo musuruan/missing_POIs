@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-23T02:21:13Z" areas="2024-04-22T20:52:33Z"/>
+<meta osm_base="2024-04-24T02:19:49Z" areas="2024-04-23T21:42:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3823,6 +3823,14 @@
     <tag k="name" v="San Fior"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6153"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="64778641" lat="45.6848725" lon="12.3773466" version="7" timestamp="2023-08-31T08:25:50Z" changeset="140622878" uid="11631067" user="emandt">
+    <tag k="gfoss_id" v="3449"/>
+    <tag k="name" v="San Biagio di Callalta"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="12676"/>
+    <tag k="population:date" v="2023-05-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778653" lat="45.6017010" lon="12.1652120" version="6" timestamp="2023-08-31T12:46:11Z" changeset="140633985" uid="11631067" user="emandt">
@@ -12873,18 +12881,6 @@
     <tag k="population" v="3165"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="175730569" lat="46.2455017" lon="13.5791754" version="20" timestamp="2024-01-02T01:01:56Z" changeset="145780485" uid="130956" user="celicni">
-    <tag k="name" v="Kobarid"/>
-    <tag k="name:de" v="Karfreit"/>
-    <tag k="name:it" v="Caporetto"/>
-    <tag k="name:ru" v="Кобарид"/>
-    <tag k="name:sl" v="Kobarid"/>
-    <tag k="name:sr" v="Кобарид"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1121"/>
-    <tag k="wikidata" v="Q3618115"/>
-    <tag k="wikipedia" v="sl:Kobarid"/>
-  </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>
     <tag k="place" v="village"/>
@@ -13146,14 +13142,6 @@
     <tag k="population" v="823"/>
     <tag k="source" v="Istat 2010"/>
   </node>
-  <node id="2209950022" lat="37.6522747" lon="14.6409744" version="13" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Regalbuto"/>
-    <tag k="name:scn" v="Regarbutu"/>
-    <tag k="old_name" v="Rahal Abbud"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6647"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
   <node id="2246343232" lat="39.0648291" lon="8.4562962" version="48" timestamp="2022-07-16T18:30:01Z" changeset="123698814" uid="7494825" user="dafadllyn">
     <tag k="name" v="Santu Antiogu/Sant'Antioco"/>
     <tag k="name:it" v="Sant'Antioco"/>
@@ -13299,7 +13287,8 @@
     <tag k="name" v="Altomonte"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="4210527718" lat="40.8771936" lon="14.1401591" version="3" timestamp="2016-10-27T16:57:06Z" changeset="43222834" uid="3877019" user="piligab">
+  <node id="4210527718" lat="40.8771936" lon="14.1401591" version="4" timestamp="2024-04-23T20:07:42Z" changeset="150414085" uid="16710504" user="Peppe Fiore">
+    <tag k="addr:postcode" v="80010"/>
     <tag k="name" v="Quarto"/>
     <tag k="place" v="town"/>
     <tag k="population" v="40930"/>
