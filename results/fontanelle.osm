@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-04-26T02:20:55Z" areas="2024-04-26T00:51:15Z"/>
+<meta osm_base="2024-04-27T02:19:54Z" areas="2024-04-27T00:00:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -133,14 +133,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2747"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506591" lat="45.5941934" lon="9.7539140" version="3" timestamp="2022-12-29T15:12:15Z" changeset="130650624" uid="1950277" user="Mannivu">
-    <tag k="gfoss_id" v="2036"/>
-    <tag k="name" v="Ghisalba"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4626"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026069"/>
   </node>
   <node id="62506705" lat="45.7402530" lon="9.4790281" version="3" timestamp="2023-12-05T11:43:59Z" changeset="144788880" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="1998"/>
@@ -5076,6 +5068,13 @@
     <tag k="name" v="Stalettì"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2264"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="67273392" lat="39.0249900" lon="16.5964040" version="2" timestamp="2016-08-28T18:58:09Z" changeset="41762146" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6641"/>
+    <tag k="name" v="Albi"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1105"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67273410" lat="38.6807830" lon="16.4354040" version="2" timestamp="2016-08-28T18:58:10Z" changeset="41762146" uid="743479" user="fayor">
