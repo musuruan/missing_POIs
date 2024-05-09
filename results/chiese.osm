@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-08T02:10:35Z" areas="2024-05-08T00:34:15Z"/>
+<meta osm_base="2024-05-09T02:23:29Z" areas="2024-05-09T01:03:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1157,6 +1157,18 @@
     <tag k="place" v="village"/>
     <tag k="population" v="395"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="64776705" lat="45.9171787" lon="11.0608033" version="13" timestamp="2020-01-22T22:43:49Z" changeset="79940660" uid="8445331" user="JuaFritz">
+    <tag k="gfoss_id" v="3087"/>
+    <tag k="loc_name" v="'Olam"/>
+    <tag k="name" v="Volano"/>
+    <tag k="name:uk" v="Волано"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2801"/>
+    <tag k="reg_name" v="Volàn"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q328098"/>
+    <tag k="wikipedia" v="it:Volano (Italia)"/>
   </node>
   <node id="64778128" lat="46.1030653" lon="12.0255839" version="4" timestamp="2023-08-31T09:14:05Z" changeset="140624838" uid="11631067" user="emandt">
     <tag k="gfoss_id" v="3354"/>

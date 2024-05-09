@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-08T02:12:40Z" areas="2024-05-08T00:34:15Z"/>
+<meta osm_base="2024-05-09T02:25:34Z" areas="2024-05-08T22:14:20Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -697,12 +697,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="5250"/>
   </node>
-  <node id="62506389" lat="45.6619810" lon="9.7939570" version="2" timestamp="2020-05-20T05:34:20Z" changeset="85475674" uid="478872" user="mcheck">
+  <node id="62506389" lat="45.6619810" lon="9.7939570" version="3" timestamp="2024-05-08T07:08:19Z" changeset="151040005" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2008"/>
     <tag k="name" v="Costa di Mezzate"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2747"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025216"/>
   </node>
   <node id="62506408" lat="45.9742920" lon="10.0827570" version="4" timestamp="2021-01-14T21:18:59Z" changeset="97516511" uid="616481" user="gigi2037">
     <tag k="gfoss_id" v="2002"/>
@@ -17888,9 +17889,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022802"/>
   </node>
-  <node id="69301052" lat="44.4852510" lon="9.6252740" version="4" timestamp="2016-09-21T13:17:30Z" changeset="42322913" uid="743479" user="fayor">
+  <node id="69301052" lat="44.4852510" lon="9.6252740" version="5" timestamp="2024-05-08T21:47:44Z" changeset="151076705" uid="9548407" user="Emanuele Maz">
     <tag k="gfoss_id" v="3927"/>
-    <tag k="name" v="Tornolo"/>
+    <tag k="name" v="faggio tr"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1291"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -19762,15 +19763,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2119"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70993388" lat="42.4647420" lon="14.1019767" version="10" timestamp="2020-06-13T14:29:47Z" changeset="86600989" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5868"/>
-    <tag k="name" v="Cappelle sul Tavo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3714"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51349"/>
-    <tag k="wikipedia" v="it:Cappelle sul Tavo"/>
   </node>
   <node id="70993401" lat="42.2181002" lon="13.9608869" version="4" timestamp="2020-04-18T16:23:59Z" changeset="83748734" uid="11047985" user="ViviOrta">
     <tag k="gfoss_id" v="5865"/>
