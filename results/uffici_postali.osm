@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-13T02:23:42Z" areas="2024-05-13T00:15:45Z"/>
+<meta osm_base="2024-05-14T02:21:01Z" areas="2024-05-13T21:30:26Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3086,11 +3086,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4576"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515076" lat="45.7025382" lon="9.2895415" version="10" timestamp="2021-12-21T17:16:39Z" changeset="115219019" uid="447242" user="Rita Pampaloni">
-    <tag k="name" v="Besana in Brianza"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="15582"/>
   </node>
   <node id="62515090" lat="45.3272660" lon="9.0145460" version="3" timestamp="2021-07-12T13:01:10Z" changeset="107841275" uid="11220113" user="ivanbranco">
     <tag k="alt_name:lmo" v="Bubbian"/>
@@ -7330,6 +7325,14 @@
     <tag k="name" v="Ronchi Valsugana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="385"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="64776752" lat="45.7337930" lon="10.9371810" version="3" timestamp="2020-01-22T18:04:38Z" changeset="79932802" uid="8445331" user="JuaFritz">
+    <tag k="gfoss_id" v="2874"/>
+    <tag k="loc_name" v="Avi"/>
+    <tag k="name" v="Avio"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3918"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64776781" lat="46.0703249" lon="11.4933434" version="7" timestamp="2020-01-20T20:57:05Z" changeset="79817386" uid="8445331" user="JuaFritz">
