@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-16T02:22:39Z" areas="2024-05-15T22:38:35Z"/>
+<meta osm_base="2024-05-17T02:22:05Z" areas="2024-05-16T23:35:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -134,12 +134,13 @@
     <tag k="population" v="1028"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506289" lat="45.4749770" lon="9.7773600" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506289" lat="45.4749770" lon="9.7773600" version="5" timestamp="2024-05-16T17:09:18Z" changeset="151418721" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1945"/>
     <tag k="name" v="Barbata"/>
     <tag k="place" v="village"/>
     <tag k="population" v="607"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022574"/>
   </node>
   <node id="62506322" lat="45.8127326" lon="9.8847039" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1991"/>
@@ -5766,21 +5767,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="9068"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69300486" lat="44.2299738" lon="10.6515646" version="10" timestamp="2023-11-10T12:50:44Z" changeset="143862083" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="716"/>
-    <tag k="gfoss_id" v="4014"/>
-    <tag k="name" v="Riolunato"/>
-    <tag k="name:egl" v="Ardundlà"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="759"/>
-    <tag k="postal_code" v="41020"/>
-    <tag k="ref:ISTAT" v="036035"/>
-    <tag k="ref:catasto" v="H303"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.riolunato.mo.it/"/>
-    <tag k="wikidata" v="Q100091"/>
-    <tag k="wikipedia" v="it:Riolunato"/>
   </node>
   <node id="69300668" lat="44.4805382" lon="11.0351093" version="13" timestamp="2020-05-05T09:26:32Z" changeset="84681471" uid="11022312" user="Joe Wannie">
     <tag k="ele" v="102"/>
