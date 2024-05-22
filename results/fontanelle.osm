@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-21T02:24:02Z" areas="2024-05-21T00:53:13Z"/>
+<meta osm_base="2024-05-22T02:25:30Z" areas="2024-05-22T01:33:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1043,14 +1043,6 @@
     <tag k="population" v="1717"/>
     <tag k="postal_code" v="46030"/>
     <tag k="ref:ISTAT" v="020043"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62513298" lat="44.9755577" lon="11.1146492" version="2" timestamp="2012-05-01T16:44:43Z" changeset="11471749" uid="504502" user="kkklllppp">
-    <tag k="gfoss_id" v="2723"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
-    <tag k="name" v="Poggio Rusco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6297"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513306" lat="45.0703901" lon="11.1364100" version="6" timestamp="2020-09-08T08:32:42Z" changeset="90572621" uid="6894102" user="BelluClau">
@@ -8810,13 +8802,6 @@
     <tag k="population" v="2131"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301466" lat="44.3603680" lon="11.8445250" version="2" timestamp="2016-09-16T15:55:12Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4130"/>
-    <tag k="name" v="Solarolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4216"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69301760" lat="43.9639933" lon="12.7441515" version="5" timestamp="2016-10-27T18:56:35Z" changeset="43225837" uid="2748195" user="karitotp">
     <tag k="gfoss_id" v="7922"/>
     <tag k="name" v="Cattolica"/>
@@ -12830,6 +12815,13 @@
     <tag k="website" v="http://www.comune.calasetta.ci.it/"/>
     <tag k="wikidata" v="Q286187"/>
     <tag k="wikipedia" v="it:Calasetta"/>
+  </node>
+  <node id="1412962093" lat="45.0419243" lon="10.9282948" version="7" timestamp="2017-08-05T14:23:40Z" changeset="50864217" uid="504502" user="kkklllppp">
+    <tag k="name" v="San Benedetto Po"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="7791"/>
+    <tag k="wikidata" v="Q42943"/>
+    <tag k="wikipedia" v="it:San Benedetto Po"/>
   </node>
   <node id="1520890976" lat="45.2723159" lon="11.2477997" version="5" timestamp="2021-03-27T22:55:59Z" changeset="101856814" uid="504502" user="kkklllppp">
     <tag k="name" v="Roverchiara"/>
