@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-22T02:22:26Z" areas="2024-05-21T20:36:29Z"/>
+<meta osm_base="2024-05-23T02:22:27Z" areas="2024-05-22T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -630,12 +630,13 @@
     <tag k="population" v="5606"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506644" lat="45.8701870" lon="9.8746550" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506644" lat="45.8701870" lon="9.8746550" version="6" timestamp="2024-05-22T16:59:10Z" changeset="151686694" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2097"/>
     <tag k="name" v="Premolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1102"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029172"/>
   </node>
   <node id="62506664" lat="45.8740752" lon="9.6530220" version="7" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2109"/>
@@ -2691,16 +2692,6 @@
     <tag k="postal_code" v="20081"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q42777"/>
-  </node>
-  <node id="62513200" lat="45.0692724" lon="11.0196043" version="3" timestamp="2015-07-04T12:07:03Z" changeset="32408263" uid="504502" user="kkklllppp">
-    <tag k="contact:website" v="http://www.comune.sustinente.mn.it/"/>
-    <tag k="gfoss_id" v="2745"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
-    <tag k="name" v="Sustinente"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2266"/>
-    <tag k="postal_code" v="46030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513208" lat="44.9918730" lon="10.7430900" version="4" timestamp="2016-10-26T10:23:51Z" changeset="43188168" uid="3479270" user="nammala">
     <tag k="contact:email" v="info@comune.suzzara.mn.it"/>
@@ -6439,7 +6430,7 @@
     <tag k="population" v="3244"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629311" lat="44.8736400" lon="7.4103200" version="4" timestamp="2023-01-17T20:02:32Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629311" lat="44.8738576" lon="7.4121922" version="5" timestamp="2024-05-22T10:36:22Z" changeset="151668765" uid="348712" user="lukasbrunner">
     <tag k="gfoss_id" v="41"/>
     <tag k="name" v="Buriasco"/>
     <tag k="place" v="village"/>
@@ -6888,7 +6879,7 @@
     <tag k="population" v="4641"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630630" lat="44.9483900" lon="7.6339287" version="5" timestamp="2023-01-17T19:52:16Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630630" lat="44.9482927" lon="7.6338469" version="6" timestamp="2024-05-22T13:47:33Z" changeset="151677635" uid="348712" user="lukasbrunner">
     <tag k="gfoss_id" v="309"/>
     <tag k="name" v="Vinovo"/>
     <tag k="place" v="town"/>
