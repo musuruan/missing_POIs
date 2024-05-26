@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-25T02:24:10Z" areas="2024-05-24T23:29:12Z"/>
+<meta osm_base="2024-05-26T02:28:11Z" areas="2024-05-26T00:00:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1541,13 +1541,6 @@
     <tag k="name" v="Pinarolo Po"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1568"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515528" lat="45.2826019" lon="8.7508446" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2485"/>
-    <tag k="name" v="Parona"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1698"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515568" lat="45.1866257" lon="9.2750400" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
@@ -7196,13 +7189,6 @@
     <tag k="wikidata" v="Q54995"/>
     <tag k="wikipedia" v="it:Aiello del Sabato"/>
   </node>
-  <node id="68566653" lat="40.9208124" lon="14.8334989" version="4" timestamp="2016-09-01T23:10:01Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5436"/>
-    <tag k="name" v="Atripalda"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68566668" lat="41.1208220" lon="15.1587470" version="1" timestamp="2007-10-13T13:40:43Z" changeset="142947" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="5547"/>
@@ -10070,18 +10056,6 @@
     <tag k="wikimedia_commons" v="Category:Colleferro"/>
     <tag k="wikipedia" v="it:Colleferro"/>
   </node>
-  <node id="72962495" lat="41.9616174" lon="12.9409322" version="6" timestamp="2024-05-19T15:59:38Z" changeset="151540958" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100064675309871"/>
-    <tag k="gfoss_id" v="4941"/>
-    <tag k="name" v="Ciciliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1133"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.ciciliano.rm.it/"/>
-    <tag k="wikidata" v="Q242521"/>
-    <tag k="wikimedia_commons" v="Category:Ciciliano"/>
-    <tag k="wikipedia" v="it:Ciciliano"/>
-  </node>
   <node id="72962597" lat="41.9420762" lon="13.0373148" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4928"/>
     <tag k="name" v="Canterano"/>
@@ -10216,17 +10190,6 @@
     <tag k="wikidata" v="Q243243"/>
     <tag k="wikimedia_commons" v="Category:Roiate"/>
     <tag k="wikipedia" v="it:Roiate"/>
-  </node>
-  <node id="72963421" lat="41.9177118" lon="12.8720735" version="6" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5006"/>
-    <tag k="name" v="San Gregorio da Sassola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1444"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.sangregoriodasassola.rm.it/"/>
-    <tag k="wikidata" v="Q243364"/>
-    <tag k="wikimedia_commons" v="Category:San Gregorio da Sassola"/>
-    <tag k="wikipedia" v="it:San Gregorio da Sassola"/>
   </node>
   <node id="72963572" lat="42.0842815" lon="12.9966119" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5020"/>
@@ -12984,11 +12947,6 @@
     <tag k="name" v="Maleo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3261"/>
-  </node>
-  <node id="2658276656" lat="45.5222551" lon="11.8320170" version="2" timestamp="2016-10-06T18:22:31Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="name" v="Curtarolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7325"/>
   </node>
   <node id="2672321412" lat="40.9864545" lon="14.1753318" version="2" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="name" v="San Marcellino"/>
