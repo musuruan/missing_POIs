@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-26T02:29:09Z" areas="2024-05-26T01:00:44Z"/>
+<meta osm_base="2024-05-27T02:27:32Z" areas="2024-05-27T00:51:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -9456,8 +9456,9 @@
     <tag k="wikidata" v="Q268548"/>
     <tag k="wikipedia" v="it:Chiusavecchia"/>
   </node>
-  <node id="66586821" lat="43.8807025" lon="7.7745643" version="6" timestamp="2022-06-18T12:33:37Z" changeset="122545205" uid="11220113" user="ivanbranco">
+  <node id="66586821" lat="43.8807025" lon="7.7745643" version="7" timestamp="2024-05-26T19:32:43Z" changeset="151867190" uid="129060" user="Klenje">
     <tag k="name" v="Ceriana"/>
+    <tag k="name:lij" v="Seriana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1305"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -10194,13 +10195,6 @@
     <tag k="name" v="Motta Camastra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="792"/>
-    <tag k="source" v="Istat gennaio 2023"/>
-  </node>
-  <node id="67255538" lat="38.0213177" lon="14.7013957" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
-    <tag k="name" v="Alcara li Fusi"/>
-    <tag k="name:scn" v="l'Arcara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1695"/>
     <tag k="source" v="Istat gennaio 2023"/>
   </node>
   <node id="67255614" lat="38.0301033" lon="14.8241901" version="14" timestamp="2023-04-19T16:15:26Z" changeset="135110533" uid="743479" user="fayor">
@@ -15095,13 +15089,6 @@
     <tag k="name" v="Guardia Lombardi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2029"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566443" lat="40.9201621" lon="14.7386053" version="4" timestamp="2016-09-01T23:10:07Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5479"/>
-    <tag k="name" v="Mercogliano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12267"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68566453" lat="41.1956230" lon="15.0334430" version="2" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
