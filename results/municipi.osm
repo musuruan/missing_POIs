@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-28T02:23:33Z" areas="2024-05-27T20:52:16Z"/>
+<meta osm_base="2024-05-29T02:25:58Z" areas="2024-05-28T21:54:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1149,13 +1149,6 @@
     <tag k="population" v="243"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621775" lat="44.8068928" lon="8.9001791" version="5" timestamp="2023-01-17T19:54:34Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="889"/>
-    <tag k="name" v="Carezzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="449"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63621785" lat="44.8128540" lon="9.0402560" version="5" timestamp="2023-01-17T19:53:09Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="881"/>
     <tag k="name" v="Brignano del Curone"/>
@@ -1183,13 +1176,6 @@
     <tag k="name" v="Montegioco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="306"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63621950" lat="44.7181520" lon="9.0449580" version="4" timestamp="2023-01-17T19:55:36Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="885"/>
-    <tag k="name" v="Cantalupo Ligure"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="555"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63621958" lat="44.6500331" lon="8.7923887" version="6" timestamp="2023-01-17T19:57:52Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -1409,13 +1395,6 @@
     <tag k="name" v="Cabella Ligure"/>
     <tag k="place" v="village"/>
     <tag k="population" v="641"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63622745" lat="44.8494005" lon="8.8696537" version="5" timestamp="2023-01-17T19:55:49Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="887"/>
-    <tag k="name" v="Carbonara Scrivia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="966"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63622762" lat="44.7668717" lon="9.0507598" version="5" timestamp="2023-01-17T19:58:33Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -2756,7 +2735,7 @@
     <tag k="population" v="113"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253724" lat="38.0173961" lon="12.5160225" version="49" timestamp="2024-01-15T21:56:20Z" changeset="146299680" uid="6710042" user="dpolovinkin">
+  <node id="67253724" lat="38.0173961" lon="12.5160225" version="50" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="capital" v="6"/>
     <tag k="name" v="Trapani"/>
     <tag k="name:an" v="Tràpani"/>
@@ -2780,8 +2759,8 @@
     <tag k="name:uk" v="Трапані"/>
     <tag k="name:zh" v="特拉帕尼"/>
     <tag k="place" v="city"/>
-    <tag k="population" v="55524"/>
-    <tag k="source" v="Istat gennaio 2023"/>
+    <tag k="population" v="55219"/>
+    <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67273444" lat="38.9962900" lon="16.5796040" version="2" timestamp="2016-08-28T18:58:24Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6667"/>
