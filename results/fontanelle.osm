@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-29T02:29:00Z" areas="2024-05-29T00:01:58Z"/>
+<meta osm_base="2024-05-30T02:27:02Z" areas="2024-05-30T01:14:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1689,12 +1689,11 @@
     <tag k="ref:ISTAT" v="018038"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515978" lat="45.0944235" lon="9.2449549" version="6" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515978" lat="45.0944235" lon="9.2449549" version="7" timestamp="2024-05-29T15:24:24Z" changeset="151994635" uid="743479" user="fayor">
     <tag k="gfoss_id" v="2402"/>
     <tag k="name" v="Campospinoso"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1011"/>
-    <tag k="postal_code" v="27040"/>
     <tag k="ref:ISTAT" v="018026"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -3463,12 +3462,13 @@
     <tag k="population" v="3778"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778445" lat="45.6486593" lon="11.8569804" version="4" timestamp="2017-07-07T16:27:03Z" changeset="50112957" uid="504502" user="kkklllppp">
+  <node id="64778445" lat="45.6486593" lon="11.8569804" version="5" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3592"/>
     <tag k="name" v="San Martino di Lupari"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13177"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030023"/>
   </node>
   <node id="64778446" lat="45.4581932" lon="11.8828635" version="9" timestamp="2024-03-04T13:20:50Z" changeset="148206755" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3614"/>
@@ -3687,12 +3687,13 @@
     <tag k="population" v="1153"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778559" lat="45.0832589" lon="11.6041641" version="3" timestamp="2016-10-02T23:39:14Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778559" lat="45.0832589" lon="11.6041641" version="4" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3648"/>
     <tag k="name" v="Lendinara"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11873"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026562"/>
   </node>
   <node id="64778562" lat="45.0136954" lon="11.3691561" version="9" timestamp="2021-01-02T13:46:30Z" changeset="96808230" uid="10530906" user="Pannocchia18">
     <tag k="gfoss_id" v="3635"/>
@@ -3804,12 +3805,13 @@
     <tag k="population" v="2627"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778702" lat="45.8548790" lon="11.8815695" version="8" timestamp="2020-08-14T19:03:14Z" changeset="89426460" uid="9517742" user="xDeamon">
+  <node id="64778702" lat="45.8548790" lon="11.8815695" version="9" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3439"/>
     <tag k="name" v="Possagno"/>
     <tag k="place" v="town"/>
     <tag k="population" v="2029"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029103"/>
   </node>
   <node id="64778721" lat="45.7850527" lon="12.2194084" version="6" timestamp="2020-12-22T20:23:35Z" changeset="96279479" uid="504502" user="kkklllppp">
     <tag k="gfoss_id" v="3380"/>
@@ -3848,13 +3850,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q46973"/>
   </node>
-  <node id="64778757" lat="45.1360987" lon="12.0812854" version="4" timestamp="2019-07-24T20:40:24Z" changeset="72618603" uid="8331873" user="deizenov">
+  <node id="64778757" lat="45.1360987" lon="12.0812854" version="5" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3479"/>
     <tag k="name" v="Cavarzere"/>
     <tag k="name:vec" v="Cavarxare"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14193"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024444"/>
   </node>
   <node id="64778772" lat="45.7955100" lon="12.6842200" version="5" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="3761"/>
@@ -3889,13 +3892,14 @@
     <tag k="population" v="10550"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778795" lat="45.4560955" lon="12.0301727" version="12" timestamp="2023-01-12T09:56:17Z" changeset="131179653" uid="1717503" user="osm19">
+  <node id="64778795" lat="45.4560955" lon="12.0301727" version="13" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="350t1"/>
     <tag k="name" v="Pianiga"/>
     <tag k="note" v="12280 (Comune) 3400 (Capoluogo comunale)"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12280"/>
     <tag k="source" v="ISTAT"/>
+    <tag k="wikidata" v="Q30028799"/>
   </node>
   <node id="64778803" lat="45.7917474" lon="12.9090234" version="5" timestamp="2023-11-28T17:19:44Z" changeset="144557895" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3489"/>

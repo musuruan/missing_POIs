@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-29T02:26:56Z" areas="2024-05-28T21:54:13Z"/>
+<meta osm_base="2024-05-30T02:25:57Z" areas="2024-05-30T01:14:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -602,13 +602,13 @@
     <tag k="population" v="4543"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513613" lat="45.2211195" lon="10.4130654" version="3" timestamp="2019-07-05T15:38:06Z" changeset="71937191" uid="8331873" user="deizenov">
+  <node id="62513613" lat="45.2211195" lon="10.4130654" version="4" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="2683"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
     <tag k="name" v="Asola"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10059"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022399"/>
   </node>
   <node id="62513692" lat="45.0064835" lon="11.2988715" version="10" timestamp="2017-03-11T12:59:45Z" changeset="46761933" uid="354284" user="sbiribizio">
     <tag k="contact:website" v="www.comune.sermide.mn.it"/>
@@ -1172,13 +1172,14 @@
     <tag k="population" v="552"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778173" lat="46.2821471" lon="12.0349810" version="16" timestamp="2022-07-25T11:07:35Z" changeset="124046970" uid="1257620" user="Luca_34c">
+  <node id="64778173" lat="46.2821471" lon="12.0349810" version="17" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3310"/>
     <tag k="name" v="Agordo"/>
     <tag k="old_name:de" v="Augarten"/>
     <tag k="place" v="town"/>
     <tag k="population" v="4124"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022013"/>
   </node>
   <node id="64778195" lat="46.2035747" lon="12.3030549" version="5" timestamp="2020-02-13T12:37:50Z" changeset="80957612" uid="8109808" user="diegomodolo">
     <tag k="gfoss_id" v="3366"/>
@@ -1336,7 +1337,7 @@
     <tag k="population" v="1743"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778523" lat="44.9212498" lon="11.5813996" version="6" timestamp="2017-04-02T21:55:23Z" changeset="47394388" uid="1834719" user="LvdT">
+  <node id="64778523" lat="44.9212498" lon="11.5813996" version="7" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3652"/>
     <tag k="name" v="Occhiobello"/>
     <tag k="name:egl" v="Uǧbèl"/>
@@ -1345,6 +1346,7 @@
     <tag k="postal_code" v="45030"/>
     <tag k="ref:ISTAT" v="029033"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028298"/>
   </node>
   <node id="64778526" lat="45.0631847" lon="11.1984576" version="6" timestamp="2017-04-02T21:55:23Z" changeset="47394388" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="3651"/>
@@ -1440,13 +1442,14 @@
     <tag k="wikidata" v="Q3882791"/>
     <tag k="wikipedia" v="it:Onè di Fonte"/>
   </node>
-  <node id="64778649" lat="45.7803913" lon="12.2593456" version="7" timestamp="2016-10-02T23:39:20Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778649" lat="45.7803913" lon="12.2593456" version="8" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3460"/>
     <tag k="name" v="Spresiano"/>
     <tag k="name:vec" v="Sprexian"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12176"/>
     <tag k="source" v="ISTAT"/>
+    <tag k="wikidata" v="Q30030898"/>
   </node>
   <node id="64778653" lat="45.6017010" lon="12.1652120" version="6" timestamp="2023-08-31T12:46:11Z" changeset="140633985" uid="11631067" user="emandt">
     <tag k="gfoss_id" v="3473"/>
@@ -1504,12 +1507,13 @@
     <tag k="population" v="4109"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778702" lat="45.8548790" lon="11.8815695" version="8" timestamp="2020-08-14T19:03:14Z" changeset="89426460" uid="9517742" user="xDeamon">
+  <node id="64778702" lat="45.8548790" lon="11.8815695" version="9" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3439"/>
     <tag k="name" v="Possagno"/>
     <tag k="place" v="town"/>
     <tag k="population" v="2029"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029103"/>
   </node>
   <node id="64778705" lat="45.7901075" lon="12.3947754" version="4" timestamp="2016-10-02T23:39:20Z" changeset="42593464" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3452"/>

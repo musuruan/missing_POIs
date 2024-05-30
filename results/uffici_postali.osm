@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-05-29T02:25:58Z" areas="2024-05-29T00:01:58Z"/>
+<meta osm_base="2024-05-30T02:24:59Z" areas="2024-05-29T22:50:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1397,13 +1397,15 @@
     <tag k="population" v="1161"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508529" lat="45.4610389" lon="10.4845346" version="5" timestamp="2022-04-21T20:31:04Z" changeset="120018530" uid="350864" user="demon_box">
+  <node id="62508529" lat="45.4610389" lon="10.4845346" version="6" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="2262"/>
     <tag k="loc_name" v="Lunà"/>
     <tag k="name" v="Lonato del Garda"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12212"/>
+    <tag k="short_name" v="Lonato"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026713"/>
   </node>
   <node id="62508533" lat="45.4769983" lon="10.0427148" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2267"/>
@@ -3626,12 +3628,11 @@
     <tag k="population" v="1023"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515978" lat="45.0944235" lon="9.2449549" version="6" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515978" lat="45.0944235" lon="9.2449549" version="7" timestamp="2024-05-29T15:24:24Z" changeset="151994635" uid="743479" user="fayor">
     <tag k="gfoss_id" v="2402"/>
     <tag k="name" v="Campospinoso"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1011"/>
-    <tag k="postal_code" v="27040"/>
     <tag k="ref:ISTAT" v="018026"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -7895,12 +7896,13 @@
     <tag k="population" v="7146"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778445" lat="45.6486593" lon="11.8569804" version="4" timestamp="2017-07-07T16:27:03Z" changeset="50112957" uid="504502" user="kkklllppp">
+  <node id="64778445" lat="45.6486593" lon="11.8569804" version="5" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3592"/>
     <tag k="name" v="San Martino di Lupari"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13177"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030023"/>
   </node>
   <node id="64778466" lat="45.4031054" lon="11.7475532" version="4" timestamp="2016-10-06T18:22:36Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3588"/>
@@ -8092,12 +8094,13 @@
     <tag k="population" v="4318"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778638" lat="45.9166776" lon="11.9538948" version="6" timestamp="2023-02-11T11:56:55Z" changeset="132401074" uid="15886906" user="il_Cervo">
+  <node id="64778638" lat="45.9166776" lon="11.9538948" version="7" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3457"/>
     <tag k="name" v="Segusino"/>
     <tag k="place" v="town"/>
     <tag k="population" v="1980"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030554"/>
   </node>
   <node id="64778646" lat="45.9735216" lon="12.2316099" version="4" timestamp="2020-12-23T13:52:50Z" changeset="96330663" uid="504502" user="kkklllppp">
     <tag k="gfoss_id" v="3462"/>
@@ -8127,12 +8130,13 @@
     <tag k="population" v="4536"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778728" lat="45.5977665" lon="12.3257335" version="7" timestamp="2020-12-24T19:47:07Z" changeset="96401015" uid="504502" user="kkklllppp">
+  <node id="64778728" lat="45.5977665" lon="12.3257335" version="8" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3387"/>
     <tag k="name" v="Casale sul Sile"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13018"/>
     <tag k="source" v="ISTAT"/>
+    <tag k="wikidata" v="Q30023913"/>
   </node>
   <node id="64778731" lat="45.8333237" lon="11.8839691" version="5" timestamp="2016-10-02T23:39:10Z" changeset="42593464" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3389"/>
@@ -8164,13 +8168,14 @@
     <tag k="population" v="3168"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778770" lat="45.3850683" lon="12.0721215" version="7" timestamp="2023-01-10T17:43:10Z" changeset="131116444" uid="1717503" user="osm19">
+  <node id="64778770" lat="45.3850683" lon="12.0721215" version="8" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3477"/>
     <tag k="name" v="Camponogara"/>
     <tag k="note" v="13154 (Comune) 3900 (Capoluogo comunale)"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13154"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023535"/>
   </node>
   <node id="64778789" lat="45.8334955" lon="12.8437093" version="4" timestamp="2016-10-02T23:39:13Z" changeset="42593464" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3491"/>
@@ -8203,12 +8208,13 @@
     <tag k="population" v="2986"/>
     <tag k="source" v="Regione Veneto, License IODL-2.0"/>
   </node>
-  <node id="64778852" lat="45.6173586" lon="12.5618873" version="6" timestamp="2016-10-02T23:39:16Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778852" lat="45.6173586" lon="12.5618873" version="7" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3498"/>
     <tag k="name" v="Musile di Piave"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11522"/>
     <tag k="source" v="ISTAT"/>
+    <tag k="wikidata" v="Q30028127"/>
   </node>
   <node id="64778859" lat="45.3558840" lon="10.9529880" version="2" timestamp="2016-10-09T16:06:38Z" changeset="42757067" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3111"/>
@@ -8583,13 +8589,14 @@
     <tag k="population" v="5389"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779229" lat="45.5220266" lon="11.7134998" version="10" timestamp="2021-08-13T13:34:54Z" changeset="109631988" uid="852319" user="vrmap">
+  <node id="64779229" lat="45.5220266" lon="11.7134998" version="11" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3209"/>
     <tag k="name" v="Camisano Vicentino"/>
     <tag k="name:vec" v="Camixan"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11115"/>
     <tag k="source" v="ISTAT"/>
+    <tag k="wikidata" v="Q30023460"/>
   </node>
   <node id="64779232" lat="45.4721218" lon="11.4469703" version="4" timestamp="2016-10-08T21:08:46Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3203"/>
@@ -21129,13 +21136,14 @@
     <tag k="population" v="2118"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="1612250684" lat="45.2337438" lon="11.8740131" version="4" timestamp="2023-07-28T14:33:21Z" changeset="139138700" uid="19886676" user="PandaYoung">
+  <node id="1612250684" lat="45.2337438" lon="11.8740131" version="5" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="addr:postcode" v="35026"/>
     <tag k="gfoss_id" v="3549"/>
     <tag k="name" v="Conselve"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10302"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025050"/>
   </node>
   <node id="1643330566" lat="46.4923081" lon="11.1302066" version="9" timestamp="2017-07-16T21:31:16Z" changeset="50335662" uid="1834719" user="LvdT">
     <tag k="name" v="St. Felix - San Felice"/>
