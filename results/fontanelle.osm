@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-03T02:28:30Z" areas="2024-06-03T01:26:35Z"/>
+<meta osm_base="2024-06-04T02:28:00Z" areas="2024-06-04T01:10:50Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6508,13 +6508,6 @@
     <tag k="population" v="353"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284398" lat="41.6110680" lon="14.2819506" version="4" timestamp="2017-05-13T15:56:39Z" changeset="48653096" uid="1928626" user="Gianfranco2014">
-    <tag k="gfoss_id" v="7588"/>
-    <tag k="name" v="Pesche"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1312"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284409" lat="41.5598260" lon="14.4078240" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7583"/>
     <tag k="name" v="Macchiagodena"/>
@@ -8734,13 +8727,16 @@
     <tag k="population" v="957"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301436" lat="44.4675026" lon="11.9601925" version="9" timestamp="2015-02-11T14:35:23Z" changeset="28774798" uid="659084" user="CyberPenguin">
+  <node id="69301436" lat="44.4674429" lon="11.9601262" version="10" timestamp="2024-06-03T13:16:17Z" changeset="152200685" uid="4022573" user="Lola Fox">
     <tag k="gfoss_id" v="4123"/>
     <tag k="is_in" v="Ravenna, Emilia Romagna, Italy"/>
     <tag k="name" v="Fusignano"/>
     <tag k="old_name" v="Fuscinianus"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="7516"/>
+    <tag k="population" v="8088"/>
+    <tag k="population:date" v="2023-05-23"/>
+    <tag k="wikidata" v="Q52982"/>
+    <tag k="wikipedia" v="it:Fusignano"/>
   </node>
   <node id="69301460" lat="44.4421700" lon="11.8601240" version="2" timestamp="2016-09-16T15:55:11Z" changeset="42205884" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4129"/>
