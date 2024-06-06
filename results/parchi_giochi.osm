@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-05T02:27:57Z" areas="2024-06-04T21:26:45Z"/>
+<meta osm_base="2024-06-06T02:28:25Z" areas="2024-06-05T23:10:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -17037,6 +17037,13 @@
     <tag k="name" v="Castelcivita"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2152"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68582150" lat="40.7837120" lon="14.6988410" version="2" timestamp="2016-08-30T01:07:08Z" changeset="41791239" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="5583"/>
+    <tag k="name" v="Castel San Giorgio"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="13702"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68582174" lat="40.2157502" lon="15.6815866" version="4" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
