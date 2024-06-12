@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-11T02:30:00Z" areas="2024-06-10T21:48:29Z"/>
+<meta osm_base="2024-06-12T02:31:23Z" areas="2024-06-11T22:49:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1495,6 +1495,13 @@
     <tag k="name" v="Azzano Mella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1859"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62509187" lat="45.6224015" lon="9.9613760" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+    <tag k="gfoss_id" v="2172"/>
+    <tag k="name" v="Adro"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="6421"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62509236" lat="45.3183780" lon="10.3723760" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -3700,13 +3707,17 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024991"/>
   </node>
-  <node id="62517190" lat="45.8778934" lon="8.6519892" version="3" timestamp="2024-05-10T16:19:27Z" changeset="151154346" uid="19971463" user="LeoBorGiov">
+  <node id="62517190" lat="45.8778934" lon="8.6519892" version="4" timestamp="2024-06-11T10:08:23Z" changeset="152535493" uid="17347996" user="vanishing_point">
     <tag k="gfoss_id" v="1387"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
-    <tag k="name" v="Caravate Pozzei"/>
+    <tag k="name" v="Caravate"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2607"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="2.541"/>
+    <tag k="population:date" v="2022"/>
+    <tag k="source" v="local knowledge;aerial imagery"/>
+    <tag k="source:population" v="https://esploradati.censimentopopolazione.istat.it/"/>
+    <tag k="wikidata" v="Q39842"/>
+    <tag k="wikipedia" v="it:Caravate"/>
   </node>
   <node id="62517214" lat="46.0891376" lon="8.7338122" version="4" timestamp="2024-04-04T13:19:33Z" changeset="149570216" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="1485"/>
@@ -17729,9 +17740,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022802"/>
   </node>
-  <node id="69301052" lat="44.4852510" lon="9.6252740" version="5" timestamp="2024-05-08T21:47:44Z" changeset="151076705" uid="9548407" user="Emanuele Maz">
+  <node id="69301052" lat="44.4852510" lon="9.6252740" version="6" timestamp="2024-06-11T19:25:22Z" changeset="152558657" uid="14453781" user="Silvia Grazia">
     <tag k="gfoss_id" v="3927"/>
-    <tag k="name" v="faggio tr"/>
+    <tag k="name" v="Tornolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1291"/>
     <tag k="source" v="geodati.gfoss.it"/>
