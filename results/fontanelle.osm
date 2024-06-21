@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-20T02:27:25Z" areas="2024-06-13T01:59:49Z"/>
+<meta osm_base="2024-06-21T02:28:51Z" areas="2024-06-21T00:48:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3362,6 +3362,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="10217"/>
     <tag k="source" v="ISTAT"/>
+  </node>
+  <node id="64778369" lat="45.1941310" lon="11.4453492" version="5" timestamp="2016-10-06T18:22:39Z" changeset="42691939" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="3610"/>
+    <tag k="name" v="Urbana"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2235"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778370" lat="45.6287707" lon="11.6998606" version="4" timestamp="2016-10-06T18:22:30Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3540"/>
@@ -12464,22 +12471,6 @@
     <tag k="website" v="https://www.comune.stintino.ss.it/"/>
     <tag k="wikidata" v="Q391409"/>
     <tag k="wikipedia" v="sc:Istintinu"/>
-  </node>
-  <node id="72994690" lat="40.4615610" lon="9.1898290" version="41" timestamp="2023-10-30T16:12:32Z" changeset="143374526" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Nue"/>
-    <tag k="gfoss_id" v="7252"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Nule"/>
-    <tag k="name:it" v="Nule"/>
-    <tag k="name:sc" v="Nule"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1573"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.nule.ss.it/"/>
-    <tag k="wikidata" v="Q391111"/>
-    <tag k="wikipedia" v="it:Nule"/>
-    <tag k="wikipedia:sc" v="Nule"/>
   </node>
   <node id="72994711" lat="40.7837640" lon="8.7437160" version="41" timestamp="2023-10-28T07:23:05Z" changeset="143245838" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Nuivi"/>
