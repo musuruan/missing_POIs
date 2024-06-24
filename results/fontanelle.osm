@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-23T02:29:50Z" areas="2024-06-13T01:59:49Z"/>
+<meta osm_base="2024-06-24T02:30:14Z" areas="2024-06-13T01:59:49Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -831,10 +831,8 @@
     <tag k="population" v="1630"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512762" lat="45.0390770" lon="11.0457960" version="1" timestamp="2007-10-10T06:22:51Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62512762" lat="45.0390770" lon="11.0457960" version="2" timestamp="2024-06-23T14:08:20Z" changeset="153069747" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="2727"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
     <tag k="name" v="Quingentole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1235"/>
@@ -2969,14 +2967,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18377"/>
     <tag k="wikipedia" v="it:Bosia"/>
-  </node>
-  <node id="63627638" lat="44.7822410" lon="7.7394290" version="5" timestamp="2023-01-17T19:43:49Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="530"/>
-    <tag k="name" v="Caramagna Piemonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2670"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023707"/>
   </node>
   <node id="63627777" lat="45.4380640" lon="8.4665320" version="5" timestamp="2023-01-17T20:07:27Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="420"/>
@@ -7020,13 +7010,6 @@
     <tag k="wikidata" v="Q55052"/>
     <tag k="wikipedia" v="it:Melito Irpino"/>
   </node>
-  <node id="68566470" lat="40.9623951" lon="14.8109591" version="3" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5485"/>
-    <tag k="name" v="Montefredane"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2305"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68566484" lat="40.9309405" lon="14.8817697" version="3" timestamp="2016-09-01T23:10:09Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5499"/>
     <tag k="name" v="Parolise"/>
@@ -7235,13 +7218,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q55086"/>
     <tag k="wikipedia" v="it:Roccabascerana"/>
-  </node>
-  <node id="68567131" lat="40.9870170" lon="14.8526420" version="2" timestamp="2016-09-01T23:10:11Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5505"/>
-    <tag k="name" v="Pratola Serra"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3242"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68567179" lat="40.8972130" lon="14.6076380" version="2" timestamp="2016-08-31T23:04:16Z" changeset="41838072" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5498"/>
@@ -7519,17 +7495,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1360"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68579501" lat="41.1994210" lon="14.8441390" version="5" timestamp="2023-08-02T15:06:28Z" changeset="139352386" uid="10622815" user="Italian Technology">
-    <tag k="gfoss_id" v="5312"/>
-    <tag k="name" v="Pietrelcina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3076"/>
-    <tag k="population:date" v="2023-01"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia"/>
-    <tag k="wikidata" v="Q55949"/>
-    <tag k="wikipedia" v="it:Pietrelcina"/>
   </node>
   <node id="68579511" lat="41.0662180" lon="14.8358400" version="2" timestamp="2016-09-01T23:10:12Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5325"/>
