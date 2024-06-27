@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-26T02:26:16Z" areas="2024-06-25T23:33:30Z"/>
+<meta osm_base="2024-06-27T02:26:11Z" areas="2024-06-27T00:24:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -808,7 +808,7 @@
     <tag k="population" v="2020"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507010" lat="45.7680066" lon="9.5612978" version="6" timestamp="2023-07-31T13:51:01Z" changeset="139255467" uid="506470" user="LuSirto">
+  <node id="62507010" lat="45.7680066" lon="9.5612978" version="7" timestamp="2024-06-26T16:31:09Z" changeset="153211715" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="2106"/>
     <tag k="name" v="Roncola"/>
     <tag k="official_name" v="Roncola San Bernardo"/>
@@ -816,7 +816,7 @@
     <tag k="population" v="846"/>
     <tag k="postal_code" v="24030"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.roncola.bg.it/"/>
+    <tag k="website" v="https://www.comune.roncola.bg.it/"/>
     <tag k="wikipedia" v="it:Roncola (Italia)"/>
   </node>
   <node id="62507018" lat="45.7439737" lon="9.7592752" version="7" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -2171,11 +2171,12 @@
     <tag k="population" v="1926"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511683" lat="45.4048829" lon="9.5517179" version="12" timestamp="2023-10-24T18:10:26Z" changeset="143077520" uid="20500231" user="fabiotolni">
+  <node id="62511683" lat="45.4048829" lon="9.5517179" version="14" timestamp="2024-06-26T07:17:51Z" changeset="153187619" uid="11979968" user="Francesco Zanaboni">
     <tag k="ele" v="85"/>
     <tag k="name" v="Pandino"/>
     <tag k="place" v="town"/>
     <tag k="population" v="7253"/>
+    <tag k="wikidata" v="Q30028590"/>
   </node>
   <node id="62511697" lat="45.4021740" lon="9.6947590" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2638"/>
@@ -14636,7 +14637,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030389"/>
   </node>
-  <node id="69300081" lat="44.1629560" lon="11.0358110" version="8" timestamp="2017-05-02T18:11:46Z" changeset="48342986" uid="1834719" user="LvdT">
+  <node id="69300081" lat="44.1629560" lon="11.0358110" version="9" timestamp="2024-06-26T09:31:54Z" changeset="153193905" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="533"/>
     <tag k="gfoss_id" v="3526"/>
     <tag k="name" v="Castel di Casio"/>
@@ -14647,7 +14648,7 @@
     <tag k="ref:ISTAT" v="037015"/>
     <tag k="ref:catasto" v="B969"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.casteldicasio.bo.it/"/>
+    <tag k="website" v="https://www.comune.casteldicasio.bo.it/"/>
     <tag k="wikidata" v="Q94745"/>
     <tag k="wikipedia" v="it:Castel di Casio"/>
   </node>
@@ -14954,7 +14955,7 @@
     <tag k="wikidata" v="Q100056"/>
     <tag k="wikipedia" v="it:Frassinoro"/>
   </node>
-  <node id="69300532" lat="44.5034615" lon="10.9432999" version="12" timestamp="2017-09-10T08:19:16Z" changeset="51900579" uid="339581" user="nyuriks">
+  <node id="69300532" lat="44.5034615" lon="10.9432999" version="13" timestamp="2024-06-26T09:33:17Z" changeset="153193991" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="152"/>
     <tag k="gfoss_id" v="3987"/>
     <tag k="name" v="Castelvetro di Modena"/>
@@ -14966,7 +14967,7 @@
     <tag k="ref:LOCODE" v="ITCOM"/>
     <tag k="ref:catasto" v="C287"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.castelvetro-di-modena.mo.it/"/>
+    <tag k="website" v="https://www.comune.castelvetro-di-modena.mo.it/"/>
     <tag k="wikidata" v="Q100045"/>
     <tag k="wikipedia" v="it:Castelvetro di Modena"/>
   </node>
@@ -14986,7 +14987,7 @@
     <tag k="wikidata" v="Q100064"/>
     <tag k="wikipedia" v="it:Medolla"/>
   </node>
-  <node id="69300554" lat="44.7896710" lon="11.0221000" version="10" timestamp="2022-11-22T20:55:21Z" changeset="129254489" uid="16146608" user="McCio">
+  <node id="69300554" lat="44.7896710" lon="11.0221000" version="11" timestamp="2024-06-26T09:31:53Z" changeset="153193905" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="22"/>
     <tag k="gfoss_id" v="4018"/>
     <tag k="name" v="San Prospero"/>
@@ -14997,7 +14998,7 @@
     <tag k="ref:ISTAT" v="036039"/>
     <tag k="ref:catasto" v="I133"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sanprospero.mo.it/"/>
+    <tag k="website" v="https://www.comune.sanprospero.mo.it/"/>
     <tag k="wikidata" v="Q100100"/>
     <tag k="wikipedia" v="it:San Prospero (comune)"/>
   </node>

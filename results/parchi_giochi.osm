@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-26T02:29:22Z" areas="2024-06-25T23:33:30Z"/>
+<meta osm_base="2024-06-27T02:30:15Z" areas="2024-06-27T00:24:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3088,13 +3088,6 @@
     <tag k="name" v="Buscate"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4228"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515098" lat="45.5966599" lon="9.3777061" version="4" timestamp="2019-01-13T12:09:42Z" changeset="66271819" uid="1476146" user="Alecs01">
-    <tag k="gfoss_id" v="1768"/>
-    <tag k="name" v="Burago di Molgora"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4141"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515136" lat="45.5062108" lon="8.9012659" version="6" timestamp="2018-03-18T12:31:17Z" changeset="57289610" uid="1476146" user="Alecs01">
@@ -7692,6 +7685,13 @@
     <tag k="name" v="Correzzola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5310"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="64778339" lat="45.2100105" lon="11.8321423" version="3" timestamp="2016-10-06T18:22:39Z" changeset="42691939" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="3609"/>
+    <tag k="name" v="Tribano"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3992"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778344" lat="45.1965968" lon="11.7926503" version="3" timestamp="2016-10-06T18:22:35Z" changeset="42691939" uid="743479" user="fayor">
@@ -17430,7 +17430,7 @@
     <tag k="ref:catasto" v="D617"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300510" lat="44.2459550" lon="10.7176020" version="8" timestamp="2017-09-10T08:19:15Z" changeset="51900579" uid="339581" user="nyuriks">
+  <node id="69300510" lat="44.2459550" lon="10.7176020" version="9" timestamp="2024-06-26T09:33:11Z" changeset="153193991" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="864"/>
     <tag k="gfoss_id" v="4003"/>
     <tag k="name" v="Montecreto"/>
@@ -17441,7 +17441,7 @@
     <tag k="ref:ISTAT" v="036024"/>
     <tag k="ref:catasto" v="F484"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.montecreto.mo.it/"/>
+    <tag k="website" v="https://www.comune.montecreto.mo.it/"/>
     <tag k="wikidata" v="Q100069"/>
     <tag k="wikipedia" v="it:Montecreto"/>
   </node>
@@ -17461,7 +17461,7 @@
     <tag k="wikidata" v="Q100064"/>
     <tag k="wikipedia" v="it:Medolla"/>
   </node>
-  <node id="69300554" lat="44.7896710" lon="11.0221000" version="10" timestamp="2022-11-22T20:55:21Z" changeset="129254489" uid="16146608" user="McCio">
+  <node id="69300554" lat="44.7896710" lon="11.0221000" version="11" timestamp="2024-06-26T09:31:53Z" changeset="153193905" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="22"/>
     <tag k="gfoss_id" v="4018"/>
     <tag k="name" v="San Prospero"/>
@@ -17472,7 +17472,7 @@
     <tag k="ref:ISTAT" v="036039"/>
     <tag k="ref:catasto" v="I133"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sanprospero.mo.it/"/>
+    <tag k="website" v="https://www.comune.sanprospero.mo.it/"/>
     <tag k="wikidata" v="Q100100"/>
     <tag k="wikipedia" v="it:San Prospero (comune)"/>
   </node>
@@ -18571,7 +18571,7 @@
     <tag k="population" v="3375"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981676" lat="43.1774304" lon="13.1897524" version="4" timestamp="2016-09-09T17:36:48Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70981676" lat="43.1759634" lon="13.1890711" version="5" timestamp="2024-06-26T13:16:50Z" changeset="153202488" uid="3335899" user="GBAB">
     <tag k="ele" v="474"/>
     <tag k="gfoss_id" v="4327"/>
     <tag k="name" v="Serrapetrona"/>

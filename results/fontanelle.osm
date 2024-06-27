@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-26T02:28:21Z" areas="2024-06-25T23:33:30Z"/>
+<meta osm_base="2024-06-27T02:28:14Z" areas="2024-06-13T01:59:49Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1350,13 +1350,6 @@
     <tag k="name:lmo" v="Busnagh"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4576"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515098" lat="45.5966599" lon="9.3777061" version="4" timestamp="2019-01-13T12:09:42Z" changeset="66271819" uid="1476146" user="Alecs01">
-    <tag k="gfoss_id" v="1768"/>
-    <tag k="name" v="Burago di Molgora"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4141"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515136" lat="45.5062108" lon="8.9012659" version="6" timestamp="2018-03-18T12:31:17Z" changeset="57289610" uid="1476146" user="Alecs01">
@@ -8520,7 +8513,7 @@
     <tag k="wikidata" v="Q100050"/>
     <tag k="wikipedia" v="it:Finale Emilia"/>
   </node>
-  <node id="69300535" lat="44.9131740" lon="10.9832970" version="9" timestamp="2017-09-10T08:19:16Z" changeset="51900579" uid="339581" user="nyuriks">
+  <node id="69300535" lat="44.9131740" lon="10.9832970" version="10" timestamp="2024-06-26T09:31:13Z" changeset="153193905" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="22"/>
     <tag k="gfoss_id" v="3989"/>
     <tag k="name" v="Concordia sulla Secchia"/>
@@ -8532,11 +8525,11 @@
     <tag k="ref:LOCODE" v="ITIUL"/>
     <tag k="ref:catasto" v="C951"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.concordia.mo.it/"/>
+    <tag k="website" v="https://www.comune.concordia.mo.it/"/>
     <tag k="wikidata" v="Q100048"/>
     <tag k="wikipedia" v="it:Concordia sulla Secchia"/>
   </node>
-  <node id="69300554" lat="44.7896710" lon="11.0221000" version="10" timestamp="2022-11-22T20:55:21Z" changeset="129254489" uid="16146608" user="McCio">
+  <node id="69300554" lat="44.7896710" lon="11.0221000" version="11" timestamp="2024-06-26T09:31:53Z" changeset="153193905" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="22"/>
     <tag k="gfoss_id" v="4018"/>
     <tag k="name" v="San Prospero"/>
@@ -8547,7 +8540,7 @@
     <tag k="ref:ISTAT" v="036039"/>
     <tag k="ref:catasto" v="I133"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sanprospero.mo.it/"/>
+    <tag k="website" v="https://www.comune.sanprospero.mo.it/"/>
     <tag k="wikidata" v="Q100100"/>
     <tag k="wikipedia" v="it:San Prospero (comune)"/>
   </node>

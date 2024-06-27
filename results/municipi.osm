@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-26T02:25:12Z" areas="2024-06-13T01:59:49Z"/>
+<meta osm_base="2024-06-27T02:26:11Z" areas="2024-06-27T00:24:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1127,13 +1127,6 @@
     <tag k="population" v="909"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621696" lat="44.8283471" lon="9.0058111" version="5" timestamp="2023-01-17T20:04:29Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="898"/>
-    <tag k="name" v="Casasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="149"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63621766" lat="44.8207134" lon="8.8916301" version="5" timestamp="2023-01-17T20:03:31Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="981"/>
     <tag k="name" v="Paderna"/>
@@ -1146,13 +1139,6 @@
     <tag k="name" v="Brignano del Curone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="500"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63621811" lat="44.6015440" lon="8.5634490" version="4" timestamp="2023-01-17T20:05:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="901"/>
-    <tag k="name" v="Cassinelle"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="864"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63621838" lat="45.0716520" lon="8.2060330" version="5" timestamp="2023-01-17T20:00:40Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -1323,20 +1309,6 @@
     <tag k="ref:ISTAT" v="006013"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622692" lat="44.7661658" lon="8.8631749" version="3" timestamp="2018-01-01T18:33:35Z" changeset="55083143" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="899"/>
-    <tag k="name" v="Cassano Spinola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1858"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63622703" lat="44.9057264" lon="8.9482890" version="6" timestamp="2023-01-17T20:00:32Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="903"/>
-    <tag k="name" v="Castellar Guidobono"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="402"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63622716" lat="44.8362500" lon="8.5385450" version="5" timestamp="2023-01-17T20:00:50Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="876"/>
     <tag k="name" v="Borgoratto Alessandrino"/>
@@ -1365,14 +1337,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="249"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63622820" lat="44.6845480" lon="8.7039510" version="5" timestamp="2023-01-17T19:58:37Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="906"/>
-    <tag k="name" v="Castelletto d'Orba"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1891"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024220"/>
   </node>
   <node id="63622915" lat="44.9494522" lon="8.6857406" version="6" timestamp="2023-01-17T20:00:26Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="962"/>
@@ -5423,7 +5387,7 @@
     <tag k="population" v="1232"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300081" lat="44.1629560" lon="11.0358110" version="8" timestamp="2017-05-02T18:11:46Z" changeset="48342986" uid="1834719" user="LvdT">
+  <node id="69300081" lat="44.1629560" lon="11.0358110" version="9" timestamp="2024-06-26T09:31:54Z" changeset="153193905" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="533"/>
     <tag k="gfoss_id" v="3526"/>
     <tag k="name" v="Castel di Casio"/>
@@ -5434,7 +5398,7 @@
     <tag k="ref:ISTAT" v="037015"/>
     <tag k="ref:catasto" v="B969"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.casteldicasio.bo.it/"/>
+    <tag k="website" v="https://www.comune.casteldicasio.bo.it/"/>
     <tag k="wikidata" v="Q94745"/>
     <tag k="wikipedia" v="it:Castel di Casio"/>
   </node>
