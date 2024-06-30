@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-29T02:25:45Z" areas="2024-06-28T21:34:25Z"/>
+<meta osm_base="2024-06-30T02:31:02Z" areas="2024-06-29T22:24:10Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2254,7 +2254,8 @@
     <tag k="population" v="3096"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274027" lat="39.4661627" lon="15.9992591" version="3" timestamp="2017-07-31T18:06:01Z" changeset="50729553" uid="2183311" user="Papirollo">
+  <node id="67274027" lat="39.4661627" lon="15.9992591" version="4" timestamp="2024-06-29T13:36:09Z" changeset="153332694" uid="13986573" user="dombul">
+    <tag k="alt_name" v="La Gàrdia"/>
     <tag k="gfoss_id" v="6546"/>
     <tag k="name" v="Guardia Piemontese"/>
     <tag k="place" v="village"/>
@@ -2552,11 +2553,12 @@
     <tag k="population" v="2446"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274476" lat="39.4936950" lon="15.9520840" version="2" timestamp="2016-08-28T18:58:08Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274476" lat="39.4936950" lon="15.9520840" version="3" timestamp="2024-06-29T20:55:43Z" changeset="153347629" uid="13986573" user="dombul">
     <tag k="gfoss_id" v="6487"/>
     <tag k="name" v="Acquappesa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2068"/>
+    <tag k="population" v="1741"/>
+    <tag k="population:date" v="2023-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274483" lat="39.6777304" lon="15.8211279" version="5" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
@@ -7890,7 +7892,7 @@
     <tag k="wikidata" v="Q382651"/>
     <tag k="wikipedia" v="it:Baressa"/>
   </node>
-  <node id="72993285" lat="39.7461450" lon="8.8306320" version="41" timestamp="2017-03-01T21:25:08Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72993285" lat="39.7461450" lon="8.8306320" version="42" timestamp="2024-06-30T00:03:38Z" changeset="153351299" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7686"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
     <tag k="name" v="Crucuris/Curcuris"/>
@@ -7900,7 +7902,7 @@
     <tag k="population" v="317"/>
     <tag k="postal_code" v="09090"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.curcuris.or.it/indixi.php"/>
+    <tag k="website" v="https://comune.curcuris.or.it/indixi.php"/>
     <tag k="wikidata" v="Q385660"/>
     <tag k="wikipedia" v="it:Curcuris"/>
   </node>

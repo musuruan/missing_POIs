@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-06-29T02:25:00Z" areas="2024-06-13T01:59:49Z"/>
+<meta osm_base="2024-06-30T02:30:01Z" areas="2024-06-13T01:59:49Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7978,6 +7978,17 @@
     <tag k="place" v="village"/>
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="294778417" lat="44.9311709" lon="6.7217996" version="24" timestamp="2024-05-26T08:59:45Z" changeset="151841475" uid="662440" user="JFK73">
+    <tag k="addr:postcode" v="05100"/>
+    <tag k="name" v="Montgenèvre"/>
+    <tag k="name:it" v="Monginevro"/>
+    <tag k="name:oc" v="Montginebre"/>
+    <tag k="place" v="village"/>
+    <tag k="ref:FR:SIREN" v="210500856"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="wikidata" v="Q933254"/>
+    <tag k="wikipedia" v="en:Montgenèvre"/>
   </node>
   <node id="321859985" lat="46.0766465" lon="10.3500680" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2217"/>
