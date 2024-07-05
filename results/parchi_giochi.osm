@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-04T02:31:28Z" areas="2024-07-04T01:13:02Z"/>
+<meta osm_base="2024-07-05T02:29:35Z" areas="2024-07-04T21:23:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -9730,10 +9730,12 @@
     <tag k="population" v="822"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253728" lat="35.5035259" lon="12.6066887" version="16" timestamp="2023-02-21T19:34:04Z" changeset="132850536" uid="743479" user="fayor">
+  <node id="67253728" lat="35.5035259" lon="12.6066887" version="17" timestamp="2024-07-04T22:24:50Z" changeset="153567235" uid="10255266" user="BodhidharmaI">
     <tag k="alt_name:ar" v="لامبيدوسا"/>
     <tag k="name" v="Lampedusa"/>
     <tag k="name:ar" v="لنبذوشة"/>
+    <tag k="name:it" v="Lampedusa"/>
+    <tag k="name:ru" v="Лампедуза"/>
     <tag k="note" v="popolazione ottenuta sommando anche gli abitanti di Terranova e Grecale"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4839"/>
@@ -11565,13 +11567,17 @@
     <tag k="population" v="1125"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274517" lat="39.8364040" lon="16.2619870" version="3" timestamp="2016-09-05T17:39:01Z" changeset="41936799" uid="354689" user="Francesco Placco">
+  <node id="67274517" lat="39.8364040" lon="16.2619870" version="4" timestamp="2024-07-04T13:44:37Z" changeset="153549047" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="6542"/>
     <tag k="name" v="Frascineto"/>
     <tag k="name:aae" v="Frasnita"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2503"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.frascineto.cs.it"/>
+    <tag k="wikidata" v="Q53883"/>
+    <tag k="wikimedia_commons" v="Category:Frascineto"/>
+    <tag k="wikipedia" v="it:Frascineto"/>
   </node>
   <node id="67274523" lat="39.4142940" lon="16.0297870" version="2" timestamp="2016-08-28T18:58:25Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6543"/>
