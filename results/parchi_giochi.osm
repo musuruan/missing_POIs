@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-19T02:32:23Z" areas="2024-07-18T21:37:11Z"/>
+<meta osm_base="2024-07-20T02:29:11Z" areas="2024-07-20T00:16:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10881,13 +10881,6 @@
     <tag k="population" v="3612"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273621" lat="39.0024870" lon="16.1706950" version="4" timestamp="2022-01-06T18:33:26Z" changeset="115849106" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="6665"/>
-    <tag k="name" v="Falerna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3602"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67273654" lat="39.0277920" lon="16.8363090" version="3" timestamp="2016-09-05T17:29:11Z" changeset="41936589" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6678"/>
     <tag k="name" v="Marcedusa"/>
@@ -17148,7 +17141,7 @@
     <tag k="wikidata" v="Q94973"/>
     <tag k="wikipedia" v="it:Mordano"/>
   </node>
-  <node id="69300237" lat="44.8824077" lon="11.9793488" version="9" timestamp="2017-04-02T21:55:25Z" changeset="47394388" uid="1834719" user="LvdT">
+  <node id="69300237" lat="44.8824077" lon="11.9793488" version="10" timestamp="2024-07-19T07:25:37Z" changeset="154130468" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="-1"/>
     <tag k="gfoss_id" v="4096"/>
     <tag k="name" v="Jolanda di Savoia"/>
@@ -17159,7 +17152,7 @@
     <tag k="ref:ISTAT" v="038010"/>
     <tag k="ref:catasto" v="E320"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.jolandadisavoia.fe.it/"/>
+    <tag k="website" v="https://www.comune.jolandadisavoia.fe.it/"/>
     <tag k="wikidata" v="Q95106"/>
     <tag k="wikipedia" v="it:Jolanda di Savoia (Italia)"/>
   </node>
@@ -25133,10 +25126,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="358"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
-  <node id="1735580727" lat="45.7454373" lon="7.0705652" version="2" timestamp="2012-06-24T13:55:27Z" changeset="12000513" uid="38641" user="Max_ao">
-    <tag k="name" v="La Salle"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="1735725784" lat="45.7094813" lon="7.2291423" version="11" timestamp="2023-06-25T21:31:26Z" changeset="137767583" uid="18892689" user="ComitéNosAccents">
     <tag k="name" v="Saint-Pierre"/>
