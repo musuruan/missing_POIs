@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-20T02:24:52Z" areas="2024-07-20T00:16:43Z"/>
+<meta osm_base="2024-07-21T02:30:15Z" areas="2024-07-21T00:57:03Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1980,15 +1980,18 @@
     <tag k="population" v="300"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776865" lat="46.1793313" lon="11.0689304" version="5" timestamp="2021-03-28T18:19:00Z" changeset="101884805" uid="8445331" user="JuaFritz">
+  <node id="64776865" lat="46.1793313" lon="11.0689304" version="6" timestamp="2024-07-20T17:33:27Z" changeset="154189438" uid="531886" user="drlellinger">
     <tag k="gfoss_id" v="2945"/>
     <tag k="loc_name" v="Fai"/>
     <tag k="name" v="Fai della Paganella"/>
+    <tag k="name:de" v="Oberpfeidt"/>
     <tag k="name:it" v="Fai della Paganella"/>
     <tag k="name:lld" v="Fai"/>
     <tag k="place" v="village"/>
     <tag k="population" v="900"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q286597"/>
+    <tag k="wikipedia" v="it:Fai della Paganella"/>
   </node>
   <node id="64777047" lat="46.3134726" lon="11.2235011" version="16" timestamp="2020-12-14T17:42:19Z" changeset="95821197" uid="1669056" user="Maurizio Melani (forwalk)">
     <tag k="gfoss_id" v="2775"/>
@@ -3107,7 +3110,7 @@
     <tag k="population" v="987"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280603" lat="40.1138090" lon="16.1697820" version="10" timestamp="2017-03-03T14:13:18Z" changeset="46549824" uid="3084054" user="agnostico">
+  <node id="67280603" lat="40.1138090" lon="16.1697820" version="11" timestamp="2024-07-20T06:55:33Z" changeset="154167245" uid="9451067" user="b-jazz-bot">
     <tag k="fax" v="+39 0973 572003"/>
     <tag k="gfoss_id" v="6385"/>
     <tag k="name" v="Fardella"/>
@@ -3116,7 +3119,7 @@
     <tag k="population" v="765"/>
     <tag k="postal_code" v="85030"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="www.comune.fardella.pz.it"/>
+    <tag k="website" v="https://www.comune.fardella.pz.it/"/>
     <tag k="wikidata" v="Q52568"/>
     <tag k="wikipedia" v="it:Fardella"/>
   </node>
