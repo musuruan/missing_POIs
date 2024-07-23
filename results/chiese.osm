@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-22T02:32:29Z" areas="2024-07-22T00:29:13Z"/>
+<meta osm_base="2024-07-23T02:29:10Z" areas="2024-07-22T20:40:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2001,19 +2001,23 @@
     <tag k="population" v="848"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273488" lat="38.7487702" lon="16.5129098" version="3" timestamp="2020-10-26T23:01:46Z" changeset="93083770" uid="95387" user="rugamarcus">
+  <node id="67273488" lat="38.7487702" lon="16.5129098" version="4" timestamp="2024-07-22T16:54:11Z" changeset="154272306" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6683"/>
     <tag k="name" v="Montauro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1315"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53656"/>
+    <tag k="wikipedia" v="it:Montauro"/>
   </node>
-  <node id="67273497" lat="38.6378282" lon="16.4871289" version="3" timestamp="2022-12-12T00:34:09Z" changeset="129980350" uid="95387" user="rugamarcus">
+  <node id="67273497" lat="38.6378282" lon="16.4871289" version="4" timestamp="2024-07-22T16:01:09Z" changeset="154270130" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6698"/>
     <tag k="name" v="San Sostene"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1134"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53691"/>
+    <tag k="wikipedia" v="it:San Sostene (Italia)"/>
   </node>
   <node id="67273499" lat="38.8379860" lon="16.5187040" version="2" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6694"/>
@@ -2087,11 +2091,13 @@
     <tag k="population" v="2436"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273609" lat="38.6769784" lon="16.4626464" version="4" timestamp="2019-12-31T16:34:34Z" changeset="79063093" uid="1321694" user="Astrinus">
+  <node id="67273609" lat="38.6769784" lon="16.4626464" version="5" timestamp="2024-07-22T16:01:09Z" changeset="154270130" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6668"/>
     <tag k="name" v="Gagliato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="563"/>
+    <tag k="wikidata" v="Q53524"/>
+    <tag k="wikipedia" v="it:Gagliato"/>
   </node>
   <node id="67273621" lat="39.0024870" lon="16.1706950" version="4" timestamp="2022-01-06T18:33:26Z" changeset="115849106" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="6665"/>
@@ -2135,12 +2141,14 @@
     <tag k="population" v="1925"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273763" lat="38.6668830" lon="16.4812050" version="2" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273763" lat="38.6668830" lon="16.4812050" version="3" timestamp="2024-07-22T16:01:09Z" changeset="154270130" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6702"/>
     <tag k="name" v="Satriano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3102"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53694"/>
+    <tag k="wikipedia" v="it:Satriano"/>
   </node>
   <node id="67273779" lat="38.9822836" lon="16.6296843" version="3" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6703"/>
@@ -2871,21 +2879,24 @@
     <tag k="wikidata" v="Q54568"/>
     <tag k="wikipedia" v="it:Bianco (Italia)"/>
   </node>
-  <node id="67275027" lat="38.1853720" lon="16.1370030" version="2" timestamp="2016-08-28T18:58:12Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275027" lat="38.1853720" lon="16.1370030" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6728"/>
     <tag k="name" v="Benestare"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2426"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54567"/>
+    <tag k="wikipedia" v="it:Benestare"/>
   </node>
-  <node id="67275034" lat="38.1765710" lon="16.1178030" version="1" timestamp="2007-10-12T22:41:16Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="67275034" lat="38.1765710" lon="16.1178030" version="2" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6743"/>
     <tag k="is_in" v="Reggio Calabria, Calabria, Italy"/>
     <tag k="name" v="Careri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2443"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54594"/>
+    <tag k="wikipedia" v="it:Careri"/>
   </node>
   <node id="67275050" lat="37.9306249" lon="15.9174518" version="6" timestamp="2023-06-04T15:49:06Z" changeset="136938349" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6733"/>
@@ -2984,19 +2995,23 @@
     <tag k="population" v="1442"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275266" lat="38.0109670" lon="15.8343980" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275266" lat="38.0109670" lon="15.8343980" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6793"/>
     <tag k="name" v="San Lorenzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3357"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54649"/>
+    <tag k="wikipedia" v="it:San Lorenzo (Italia)"/>
   </node>
-  <node id="67275291" lat="38.0000680" lon="16.0328030" version="2" timestamp="2016-08-28T18:58:50Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275291" lat="38.0000680" lon="16.0328030" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6810"/>
     <tag k="name" v="Staiti"/>
     <tag k="place" v="village"/>
     <tag k="population" v="395"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54676"/>
+    <tag k="wikipedia" v="it:Staiti"/>
   </node>
   <node id="67275313" lat="38.4160780" lon="16.4703080" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6811"/>
@@ -3039,19 +3054,23 @@
     <tag k="population" v="802"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275493" lat="37.9666670" lon="15.9867020" version="2" timestamp="2016-08-28T18:58:35Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275493" lat="37.9666670" lon="15.9867020" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6776"/>
     <tag k="name" v="Palizzi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2709"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54632"/>
+    <tag k="wikipedia" v="it:Palizzi"/>
   </node>
-  <node id="67275512" lat="37.9827660" lon="15.7579970" version="3" timestamp="2019-02-07T19:01:16Z" changeset="67004425" uid="743479" user="fayor">
+  <node id="67275512" lat="37.9827660" lon="15.7579970" version="4" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6773"/>
     <tag k="name" v="Montebello Jonico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6922"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54629"/>
+    <tag k="wikipedia" v="it:Montebello Jonico"/>
   </node>
   <node id="67275518" lat="38.3539760" lon="16.2883040" version="2" timestamp="2016-08-28T18:58:30Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6767"/>
@@ -3067,12 +3086,14 @@
     <tag k="population" v="617"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275616" lat="38.2276730" lon="16.2022040" version="2" timestamp="2016-08-28T18:58:38Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275616" lat="38.2276730" lon="16.2022040" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6782"/>
     <tag k="name" v="Portigliola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1343"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54638"/>
+    <tag k="wikipedia" v="it:Portigliola"/>
   </node>
   <node id="67275635" lat="38.0926700" lon="16.0864030" version="2" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6741"/>
@@ -3081,12 +3102,14 @@
     <tag k="population" v="622"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275644" lat="38.2160690" lon="15.6591920" version="2" timestamp="2011-05-23T09:30:49Z" changeset="8224526" uid="71261" user="David Paleino">
+  <node id="67275644" lat="38.2160690" lon="15.6591920" version="3" timestamp="2024-07-22T20:32:41Z" changeset="154279978" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6738"/>
     <tag k="name" v="Campo Calabro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4074"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54587"/>
+    <tag k="wikipedia" v="it:Campo Calabro"/>
   </node>
   <node id="67275660" lat="38.1836690" lon="15.7230940" version="2" timestamp="2016-08-28T18:58:14Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6736"/>
@@ -3194,14 +3217,15 @@
     <tag k="wikidata" v="Q54685"/>
     <tag k="wikipedia" v="it:Terranova Sappo Minulio"/>
   </node>
-  <node id="67275866" lat="38.2553720" lon="15.9704990" version="1" timestamp="2007-10-12T22:41:47Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="67275866" lat="38.2553720" lon="15.9704990" version="2" timestamp="2024-07-22T20:32:41Z" changeset="154279978" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6798"/>
     <tag k="is_in" v="Reggio Calabria, Calabria, Italy"/>
     <tag k="name" v="Santa Cristina d'Aspromonte"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1095"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54662"/>
+    <tag k="wikipedia" v="it:Santa Cristina d'Aspromonte"/>
   </node>
   <node id="67275890" lat="38.1725690" lon="15.7577950" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6800"/>
@@ -3210,12 +3234,14 @@
     <tag k="population" v="436"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275899" lat="38.2187730" lon="16.1956040" version="2" timestamp="2016-08-28T18:58:46Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275899" lat="38.2187730" lon="16.1956040" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6802"/>
     <tag k="name" v="Sant'Ilario dello Ionio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1389"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54660"/>
+    <tag k="wikipedia" v="it:Sant'Ilario dello Ionio"/>
   </node>
   <node id="67275924" lat="38.7838211" lon="16.2912123" version="6" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="7985"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-22T02:31:27Z" areas="2024-07-22T00:29:13Z"/>
+<meta osm_base="2024-07-23T02:28:01Z" areas="2024-07-22T20:40:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2608,12 +2608,14 @@
     <tag k="population" v="1342"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273566" lat="38.6473830" lon="16.4862050" version="2" timestamp="2016-08-28T18:58:22Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273566" lat="38.6473830" lon="16.4862050" version="3" timestamp="2024-07-22T16:01:09Z" changeset="154270130" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6663"/>
     <tag k="name" v="Davoli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5238"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53517"/>
+    <tag k="wikipedia" v="it:Davoli"/>
   </node>
   <node id="67273594" lat="38.9799870" lon="16.2032960" version="3" timestamp="2016-09-05T17:28:10Z" changeset="41936571" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6672"/>
@@ -2667,12 +2669,14 @@
     <tag k="wikidata" v="Q53670"/>
     <tag k="wikipedia" v="it:Pentone"/>
   </node>
-  <node id="67273763" lat="38.6668830" lon="16.4812050" version="2" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273763" lat="38.6668830" lon="16.4812050" version="3" timestamp="2024-07-22T16:01:09Z" changeset="154270130" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6702"/>
     <tag k="name" v="Satriano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3102"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53694"/>
+    <tag k="wikipedia" v="it:Satriano"/>
   </node>
   <node id="67273915" lat="39.2843940" lon="16.3364950" version="3" timestamp="2017-05-10T15:47:07Z" changeset="48565526" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6513"/>
