@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-23T02:28:01Z" areas="2024-07-22T20:40:59Z"/>
+<meta osm_base="2024-07-24T02:29:07Z" areas="2024-07-23T22:50:12Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -15568,7 +15568,7 @@
     <tag k="population" v="3409"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979747" lat="43.1092251" lon="13.7998781" version="3" timestamp="2016-09-09T17:36:27Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979747" lat="43.1076351" lon="13.7956684" version="4" timestamp="2024-07-23T14:27:44Z" changeset="154310342" uid="178610" user="Pab09">
     <tag k="gfoss_id" v="4336"/>
     <tag k="name" v="Altidona"/>
     <tag k="place" v="village"/>
@@ -20961,6 +20961,16 @@
     <tag k="population" v="196"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
+  <node id="1253990588" lat="45.8089943" lon="7.6186097" version="5" timestamp="2024-07-23T15:03:25Z" changeset="154311773" uid="9616185" user="LukeDH">
+    <tag k="name" v="Brengon"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="wikidata" v="Q18495221"/>
+  </node>
+  <node id="1255599015" lat="45.8387097" lon="7.6203596" version="6" timestamp="2024-07-23T15:03:25Z" changeset="154311773" uid="9616185" user="LukeDH">
+    <tag k="name" v="Corgnolaz"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="68"/>
+  </node>
   <node id="1274631717" lat="42.4093586" lon="12.7665388" version="6" timestamp="2018-05-15T09:20:45Z" changeset="58976905" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="4863"/>
     <tag k="name" v="Contigliano"/>
@@ -21117,17 +21127,6 @@
     <tag k="postal_code" v="08019"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.modolo.or.it/"/>
-  </node>
-  <node id="1804092783" lat="45.8381584" lon="7.6196917" version="3" timestamp="2023-04-15T23:34:43Z" changeset="134958487" uid="18892689" user="ComitéNosAccents">
-    <tag k="name" v="Chamois"/>
-    <tag k="name:frp" v="Tsamoé;Tsamoué"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q34924"/>
-    <tag k="wikipedia" v="it:Chamois"/>
-  </node>
-  <node id="1805104641" lat="45.8112542" lon="7.6180912" version="2" timestamp="2014-02-02T01:39:52Z" changeset="20327222" uid="893327" user="mcheckimport">
-    <tag k="name" v="Clos"/>
-    <tag k="place" v="hamlet"/>
   </node>
   <node id="1805561779" lat="39.6811693" lon="8.8338449" version="40" timestamp="2017-03-01T21:25:43Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7633"/>

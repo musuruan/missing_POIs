@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-23T02:32:16Z" areas="2024-07-22T21:39:30Z"/>
+<meta osm_base="2024-07-24T02:32:14Z" areas="2024-07-23T22:50:12Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1000,13 +1000,6 @@
     <tag k="population" v="1409"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507659" lat="45.6727860" lon="10.3388690" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2189"/>
-    <tag k="name" v="Bione"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1386"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62507678" lat="45.2669750" lon="10.1481720" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2174"/>
     <tag k="name" v="Alfianello"/>
@@ -1293,15 +1286,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1239"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508795" lat="45.3108750" lon="10.0085680" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2329"/>
-    <tag k="name" v="Quinzano d'Oglio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5851"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q111589"/>
-    <tag k="wikipedia" v="it:Quinzano d'Oglio"/>
   </node>
   <node id="62508836" lat="45.4915723" lon="10.2170575" version="4" timestamp="2021-04-14T16:25:35Z" changeset="102941952" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2343"/>
@@ -24995,6 +24979,11 @@
     <tag k="wikidata" v="Q94782"/>
     <tag k="wikipedia" v="it:Castello d'Argile"/>
   </node>
+  <node id="1253990588" lat="45.8089943" lon="7.6186097" version="5" timestamp="2024-07-23T15:03:25Z" changeset="154311773" uid="9616185" user="LukeDH">
+    <tag k="name" v="Brengon"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="wikidata" v="Q18495221"/>
+  </node>
   <node id="1274631717" lat="42.4093586" lon="12.7665388" version="6" timestamp="2018-05-15T09:20:45Z" changeset="58976905" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="4863"/>
     <tag k="name" v="Contigliano"/>
@@ -25182,10 +25171,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.modolo.or.it/"/>
   </node>
-  <node id="1805104641" lat="45.8112542" lon="7.6180912" version="2" timestamp="2014-02-02T01:39:52Z" changeset="20327222" uid="893327" user="mcheckimport">
-    <tag k="name" v="Clos"/>
-    <tag k="place" v="hamlet"/>
-  </node>
   <node id="1805561779" lat="39.6811693" lon="8.8338449" version="40" timestamp="2017-03-01T21:25:43Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7633"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -25228,7 +25213,7 @@
     <tag k="wikidata" v="Q385821"/>
     <tag k="wikipedia" v="it:Gonnoscodina"/>
   </node>
-  <node id="1812802076" lat="41.0546565" lon="9.2040900" version="43" timestamp="2017-03-03T19:54:10Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="1812802076" lat="41.0545638" lon="9.2046754" version="44" timestamp="2024-07-23T22:30:25Z" changeset="154326362" uid="1096017" user="Fabiano Peddis">
     <tag k="gfoss_id" v="7243"/>
     <tag k="name" v="Locusantu/Luogosanto"/>
     <tag k="name:co" v="Locusantu"/>
