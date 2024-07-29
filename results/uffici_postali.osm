@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-28T02:32:29Z" areas="2024-07-27T21:02:02Z"/>
+<meta osm_base="2024-07-29T02:31:18Z" areas="2024-07-28T22:06:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5723,8 +5723,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029192"/>
   </node>
-  <node id="63626649" lat="44.2455751" lon="8.0224224" version="6" timestamp="2023-01-17T19:46:17Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63626649" lat="44.2455751" lon="8.0224224" version="7" timestamp="2024-07-28T21:47:49Z" changeset="154539604" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="666"/>
+    <tag k="lij" v="Prióra"/>
     <tag k="name" v="Priola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="804"/>
@@ -5840,9 +5841,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025200"/>
   </node>
-  <node id="63626996" lat="44.1972330" lon="8.0298256" version="26" timestamp="2024-06-10T09:53:07Z" changeset="152489235" uid="1801173" user="Pucciotrex30">
+  <node id="63626996" lat="44.1972330" lon="8.0298256" version="27" timestamp="2024-07-28T21:47:49Z" changeset="154539604" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="584"/>
     <tag k="name" v="Garessio"/>
+    <tag k="name:lij" v="Garesce"/>
     <tag k="name:ru" v="Гарессио"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3498"/>
@@ -9179,9 +9181,10 @@
     <tag k="population" v="1034"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587021" lat="44.1375290" lon="8.1031480" version="2" timestamp="2016-09-24T23:13:24Z" changeset="42413443" uid="743479" user="fayor">
+  <node id="66587021" lat="44.1375290" lon="8.1031480" version="3" timestamp="2024-07-28T10:42:58Z" changeset="154514595" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1216"/>
     <tag k="name" v="Erli"/>
+    <tag k="name:lij" v="Èrli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="244"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9208,9 +9211,10 @@
     <tag k="population" v="550"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587082" lat="44.2258176" lon="8.2631084" version="5" timestamp="2016-09-26T02:22:02Z" changeset="42435134" uid="743479" user="fayor">
+  <node id="66587082" lat="44.2258176" lon="8.2631084" version="6" timestamp="2024-07-28T10:26:16Z" changeset="154514013" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1241"/>
     <tag k="name" v="Rialto"/>
+    <tag k="name:lij" v="Riôtu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="564"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9241,9 +9245,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="61"/>
   </node>
-  <node id="66587134" lat="44.1725509" lon="8.2471878" version="4" timestamp="2016-09-26T02:22:01Z" changeset="42435134" uid="743479" user="fayor">
+  <node id="66587134" lat="44.1725509" lon="8.2471878" version="5" timestamp="2024-07-28T11:05:44Z" changeset="154515356" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1219"/>
     <tag k="name" v="Giustenice"/>
+    <tag k="name:lij" v="Giüstexine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="977"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9263,24 +9268,27 @@
     <tag k="population" v="113"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587160" lat="44.1298290" lon="8.1166480" version="2" timestamp="2016-09-24T23:13:23Z" changeset="42413443" uid="743479" user="fayor">
+  <node id="66587160" lat="44.1298290" lon="8.1166480" version="3" timestamp="2024-07-28T10:44:00Z" changeset="154514641" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1209"/>
     <tag k="name" v="Castelvecchio di Rocca Barbena"/>
+    <tag k="name:lij" v="Castrevegliu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="145"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587168" lat="44.1931231" lon="8.1324517" version="4" timestamp="2023-12-15T15:00:43Z" changeset="145154845" uid="17039122" user="dieterdreist-CAI">
+  <node id="66587168" lat="44.1931231" lon="8.1324517" version="5" timestamp="2024-07-28T10:41:11Z" changeset="154514534" uid="21794763" user="N Longo">
     <tag k="fixme" v="non sembra il centro del paese"/>
     <tag k="gfoss_id" v="1197"/>
     <tag k="name" v="Bardineto"/>
+    <tag k="name:lij" v="Bardenèi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="634"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587176" lat="44.1251300" lon="8.1715202" version="3" timestamp="2016-09-24T23:13:22Z" changeset="42413443" uid="743479" user="fayor">
+  <node id="66587176" lat="44.1251300" lon="8.1715202" version="4" timestamp="2024-07-28T09:57:24Z" changeset="154512996" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1196"/>
     <tag k="name" v="Balestrino"/>
+    <tag k="name:lij" v="Barestin"/>
     <tag k="place" v="village"/>
     <tag k="population" v="535"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -20699,9 +20707,10 @@
     <tag k="wikidata" v="Q94717"/>
     <tag k="wikipedia" v="it:Castel del Rio"/>
   </node>
-  <node id="410831525" lat="44.0864021" lon="8.1474179" version="2" timestamp="2016-09-24T23:13:24Z" changeset="42413443" uid="743479" user="fayor">
+  <node id="410831525" lat="44.0864021" lon="8.1474179" version="3" timestamp="2024-07-28T10:49:50Z" changeset="154514839" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1213"/>
     <tag k="name" v="Cisano sul Neva"/>
+    <tag k="name:lij" v="Cixan"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1568"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -21456,9 +21465,10 @@
     <tag k="wikidata" v="Q18487574"/>
     <tag k="wikipedia" v="it:Gaggino"/>
   </node>
-  <node id="3791033198" lat="44.1160352" lon="7.9549457" version="5" timestamp="2023-10-06T10:35:52Z" changeset="142226405" uid="2976645" user="Jrachi">
+  <node id="3791033198" lat="44.1160352" lon="7.9549457" version="6" timestamp="2024-07-28T22:01:10Z" changeset="154539872" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="528"/>
     <tag k="name" v="Caprauna"/>
+    <tag k="name:lij" v="Cravaüna"/>
     <tag k="place" v="hamlet"/>
     <tag k="population" v="133"/>
     <tag k="source" v="geodati.gfoss.it"/>
