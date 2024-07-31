@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-07-30T02:32:59Z" areas="2024-07-29T23:14:14Z"/>
+<meta osm_base="2024-07-31T02:13:14Z" areas="2024-07-30T23:03:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3647,13 +3647,13 @@
     <tag k="source:population" v="istat"/>
     <tag k="wikidata" v="Q39848"/>
   </node>
-  <node id="62517337" lat="45.9386810" lon="8.8591970" version="4" timestamp="2021-07-02T06:59:10Z" changeset="107293924" uid="9616185" user="LukeDH">
+  <node id="62517337" lat="45.9386810" lon="8.8591970" version="5" timestamp="2024-07-30T18:11:39Z" changeset="154618233" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="1455"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Marzio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="307"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q39772"/>
   </node>
   <node id="62517343" lat="45.7498658" lon="8.6695719" version="4" timestamp="2024-01-01T09:45:49Z" changeset="145755828" uid="69717" user="kaitu">
     <tag k="gfoss_id" v="1457"/>
@@ -5827,10 +5827,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029192"/>
   </node>
-  <node id="63626649" lat="44.2455751" lon="8.0224224" version="7" timestamp="2024-07-28T21:47:49Z" changeset="154539604" uid="21794763" user="N Longo">
+  <node id="63626649" lat="44.2455751" lon="8.0224224" version="8" timestamp="2024-07-30T15:16:41Z" changeset="154611104" uid="616774" user="mueschel">
     <tag k="gfoss_id" v="666"/>
-    <tag k="lij" v="Prióra"/>
     <tag k="name" v="Priola"/>
+    <tag k="name:lij" v="Prióra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="804"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -6467,13 +6467,6 @@
     <tag k="name" v="Coassolo Torinese"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1470"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63628833" lat="45.7980814" lon="8.4069510" version="5" timestamp="2023-01-17T20:05:27Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="462"/>
-    <tag k="name" v="Orta San Giulio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1119"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63628870" lat="45.4603640" lon="8.4357310" version="4" timestamp="2023-01-17T20:03:04Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -9511,10 +9504,11 @@
     <tag k="population" v="788"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587128" lat="44.1131956" lon="8.0741452" version="6" timestamp="2017-10-16T12:09:34Z" changeset="52980365" uid="195228" user="vancori">
+  <node id="66587128" lat="44.1131956" lon="8.0741452" version="7" timestamp="2024-07-30T10:35:03Z" changeset="154599347" uid="21800793" user="Arbenganese">
     <tag k="gfoss_id" v="1208"/>
     <tag k="is_in" v="Castelbianco"/>
     <tag k="name" v="Veravo"/>
+    <tag k="name:lij" v="Ve(r)avu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="61"/>
   </node>
