@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-01T02:36:32Z" areas="2024-08-01T01:18:36Z"/>
+<meta osm_base="2024-08-02T02:31:23Z" areas="2024-08-02T00:21:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1845,9 +1845,8 @@
     <tag k="population" v="5849"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62518128" lat="45.8642056" lon="8.9293287" version="2" timestamp="2014-04-18T19:22:38Z" changeset="21774583" uid="323641" user="GeofixFe">
+  <node id="62518128" lat="45.8642056" lon="8.9293287" version="3" timestamp="2024-08-01T14:10:16Z" changeset="154696235" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="1408"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Clivio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1963"/>
@@ -4234,18 +4233,20 @@
     <tag k="wikimedia_commons" v="Category:Terzorio"/>
     <tag k="wikipedia" v="it:Terzorio"/>
   </node>
-  <node id="66586778" lat="44.0596270" lon="8.0149470" version="3" timestamp="2022-07-02T16:42:47Z" changeset="123126520" uid="15596130" user="NJH_osm">
+  <node id="66586778" lat="44.0596270" lon="8.0149470" version="4" timestamp="2024-08-01T22:38:38Z" changeset="154713117" uid="21800793" user="Arbenganese">
     <tag k="gfoss_id" v="1169"/>
     <tag k="name" v="Ranzo"/>
+    <tag k="name:lij" v="Ransu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="532"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q269695"/>
     <tag k="wikipedia" v="it:Ranzo"/>
   </node>
-  <node id="66586795" lat="44.0459373" lon="7.9608530" version="4" timestamp="2022-04-24T08:12:51Z" changeset="120114434" uid="15596130" user="NJH_osm">
+  <node id="66586795" lat="44.0459373" lon="7.9608530" version="5" timestamp="2024-08-01T22:38:38Z" changeset="154713117" uid="21800793" user="Arbenganese">
     <tag k="gfoss_id" v="1187"/>
     <tag k="name" v="Vessalico"/>
+    <tag k="name:lij" v="Vesargu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="297"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -4288,9 +4289,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="547"/>
   </node>
-  <node id="66587113" lat="44.0702888" lon="8.0500191" version="4" timestamp="2018-12-31T14:22:18Z" changeset="65913885" uid="195228" user="vancori">
+  <node id="66587113" lat="44.0702888" lon="8.0500191" version="5" timestamp="2024-08-01T22:07:03Z" changeset="154712550" uid="21800793" user="Arbenganese">
     <tag k="gfoss_id" v="1231"/>
     <tag k="name" v="Onzo"/>
+    <tag k="name:lij" v="Unsu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="219"/>
     <tag k="source" v="geodati.gfoss.it"/>
