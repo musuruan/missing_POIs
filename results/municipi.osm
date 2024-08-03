@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-02T02:28:24Z" areas="2024-08-02T00:21:34Z"/>
+<meta osm_base="2024-08-03T02:27:23Z" areas="2024-08-03T01:16:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -319,6 +319,13 @@
     <tag k="name" v="Berlingo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1861"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62507725" lat="45.7377454" lon="10.4783256" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+    <tag k="gfoss_id" v="2252"/>
+    <tag k="name" v="Idro"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1695"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62507734" lat="45.7196870" lon="10.2776670" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -2847,20 +2854,26 @@
     <tag k="wikimedia_commons" v="Category:Frascineto"/>
     <tag k="wikipedia" v="it:Frascineto"/>
   </node>
-  <node id="67274523" lat="39.4142940" lon="16.0297870" version="2" timestamp="2016-08-28T18:58:25Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274523" lat="39.4142940" lon="16.0297870" version="3" timestamp="2024-08-02T10:10:09Z" changeset="154728440" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6543"/>
     <tag k="name" v="Fuscaldo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8323"/>
+    <tag k="postal_code" v="87024"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53884"/>
+    <tag k="wikipedia" v="it:Fuscaldo"/>
   </node>
-  <node id="67274527" lat="39.2758920" lon="16.0917900" version="3" timestamp="2016-09-05T17:36:50Z" changeset="41936747" uid="354689" user="Francesco Placco">
+  <node id="67274527" lat="39.2758920" lon="16.0917900" version="4" timestamp="2024-08-02T10:10:09Z" changeset="154728440" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6537"/>
     <tag k="name" v="Falconara Albanese"/>
     <tag k="name:aae" v="Falkunara Arbëreshë"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1416"/>
+    <tag k="postal_code" v="87030"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53878"/>
+    <tag k="wikipedia" v="it:Falconara Albanese"/>
   </node>
   <node id="67274545" lat="39.1474910" lon="16.3032960" version="2" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6512"/>
@@ -2928,12 +2941,15 @@
     <tag k="population" v="4351"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274697" lat="39.2070900" lon="16.0764900" version="2" timestamp="2016-08-28T18:58:29Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274697" lat="39.2070900" lon="16.0764900" version="3" timestamp="2024-08-02T10:10:09Z" changeset="154728440" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6552"/>
     <tag k="name" v="Longobardi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2340"/>
+    <tag k="postal_code" v="87030"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q130900"/>
+    <tag k="wikipedia" v="it:Longobardi"/>
   </node>
   <node id="67274911" lat="39.0902880" lon="16.1274930" version="2" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6625"/>
@@ -5237,13 +5253,6 @@
     <tag k="name" v="Pertosa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="727"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68582302" lat="40.3448080" lon="15.3786610" version="2" timestamp="2016-08-30T01:07:13Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5644"/>
-    <tag k="name" v="Piaggine"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1775"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68582421" lat="40.2997040" lon="15.0727550" version="3" timestamp="2016-08-30T01:07:15Z" changeset="41791239" uid="743479" user="fayor">

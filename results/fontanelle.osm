@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-02T02:31:23Z" areas="2024-08-02T00:21:34Z"/>
+<meta osm_base="2024-08-03T02:30:22Z" areas="2024-08-03T01:16:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5191,12 +5191,15 @@
     <tag k="population" v="904"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274343" lat="39.1363890" lon="16.1115920" version="3" timestamp="2018-05-08T10:57:43Z" changeset="58784550" uid="1462614" user="_Andrea_">
+  <node id="67274343" lat="39.1363890" lon="16.1115920" version="4" timestamp="2024-08-02T10:10:09Z" changeset="154728440" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6611"/>
     <tag k="name" v="San Pietro in Amantea"/>
     <tag k="place" v="village"/>
     <tag k="population" v="611"/>
+    <tag k="postal_code" v="87030"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53978"/>
+    <tag k="wikipedia" v="it:San Pietro in Amantea"/>
   </node>
   <node id="67274383" lat="39.1771910" lon="16.2882950" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6499"/>
@@ -5261,13 +5264,16 @@
     <tag k="population" v="2446"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274527" lat="39.2758920" lon="16.0917900" version="3" timestamp="2016-09-05T17:36:50Z" changeset="41936747" uid="354689" user="Francesco Placco">
+  <node id="67274527" lat="39.2758920" lon="16.0917900" version="4" timestamp="2024-08-02T10:10:09Z" changeset="154728440" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6537"/>
     <tag k="name" v="Falconara Albanese"/>
     <tag k="name:aae" v="Falkunara Arbëreshë"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1416"/>
+    <tag k="postal_code" v="87030"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53878"/>
+    <tag k="wikipedia" v="it:Falconara Albanese"/>
   </node>
   <node id="67274535" lat="39.3080930" lon="16.1943920" version="4" timestamp="2016-09-09T00:49:39Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6516"/>
@@ -5519,12 +5525,15 @@
     <tag k="wikidata" v="Q54575"/>
     <tag k="wikipedia" v="it:Bovalino"/>
   </node>
-  <node id="67275084" lat="38.1018700" lon="16.0899030" version="2" timestamp="2016-08-28T18:58:17Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275084" lat="38.1018700" lon="16.0899030" version="3" timestamp="2024-08-02T17:00:10Z" changeset="154745494" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6744"/>
     <tag k="name" v="Casignana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="775"/>
+    <tag k="postal_code" v="89030"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54596"/>
+    <tag k="wikipedia" v="it:Casignana"/>
   </node>
   <node id="67275090" lat="38.4597403" lon="16.1107772" version="4" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6755"/>
@@ -8411,13 +8420,6 @@
     <tag k="website" v="https://www.comune.sanprospero.mo.it/"/>
     <tag k="wikidata" v="Q100100"/>
     <tag k="wikipedia" v="it:San Prospero (comune)"/>
-  </node>
-  <node id="69300605" lat="44.7186580" lon="9.7920740" version="6" timestamp="2016-09-21T13:17:14Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3892"/>
-    <tag k="name" v="Bore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="904"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69300640" lat="44.7240342" lon="11.0998110" version="10" timestamp="2022-02-19T22:34:47Z" changeset="117621453" uid="1834719" user="LvdT">
     <tag k="ele" v="23"/>
@@ -12775,9 +12777,12 @@
     <tag k="population" v="1758"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="6955913968" lat="39.1622028" lon="16.0825360" version="1" timestamp="2019-11-07T20:37:45Z" changeset="76776505" uid="330007" user="pikappa79">
+  <node id="6955913968" lat="39.1622028" lon="16.0825360" version="2" timestamp="2024-08-02T10:10:09Z" changeset="154728440" uid="18063623" user="DomeF">
     <tag k="name" v="Belmonte Calabro"/>
     <tag k="place" v="village"/>
+    <tag k="postal_code" v="87033"/>
+    <tag k="wikidata" v="Q53835"/>
+    <tag k="wikipedia" v="it:Belmonte Calabro"/>
   </node>
   <node id="7132841997" lat="40.9469957" lon="14.6382602" version="1" timestamp="2020-01-15T10:25:11Z" changeset="79602283" uid="10639077" user="Felice Noviello">
     <tag k="name" v="Quadrelle"/>
