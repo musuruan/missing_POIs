@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-04T02:36:00Z" areas="2024-08-03T23:14:55Z"/>
+<meta osm_base="2024-08-05T02:24:04Z" areas="2024-08-04T21:28:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1604,14 +1604,6 @@
     <tag k="population" v="845"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18488363"/>
-  </node>
-  <node id="62510559" lat="45.3032710" lon="9.6560600" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2600"/>
-    <tag k="name" v="Credera"/>
-    <tag k="place" v="village"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q3696842"/>
-    <tag k="wikipedia" v="it:Credera"/>
   </node>
   <node id="62510565" lat="45.3324720" lon="9.6926610" version="4" timestamp="2023-02-26T21:58:12Z" changeset="133060902" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2647"/>
@@ -3723,16 +3715,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1901"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62517873" lat="45.9177780" lon="8.7811300" version="2" timestamp="2022-05-29T13:51:37Z" changeset="121659317" uid="1213571" user="mcliquid">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="1456"/>
-    <tag k="is_in" v="Varese, Lombardia, Italy"/>
-    <tag k="name" v="Masciago Primo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="272"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027329"/>
   </node>
   <node id="62517893" lat="45.6293850" lon="8.9013903" version="4" timestamp="2024-03-20T11:38:17Z" changeset="148907667" uid="2498239" user="maurizioa">
     <tag k="gfoss_id" v="1454"/>
@@ -9240,9 +9222,10 @@
     <tag k="wikidata" v="Q269910"/>
     <tag k="wikipedia" v="it:Vessalico"/>
   </node>
-  <node id="66586799" lat="43.9684250" lon="8.0896510" version="5" timestamp="2019-03-12T16:11:48Z" changeset="68068383" uid="195228" user="vancori">
+  <node id="66586799" lat="43.9684250" lon="8.0896510" version="6" timestamp="2024-08-04T09:43:03Z" changeset="154803326" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1188"/>
     <tag k="name" v="Villa Faraldi"/>
+    <tag k="name:lij" v="A Villa"/>
     <tag k="place" v="hamlet"/>
     <tag k="population" v="435"/>
     <tag k="source" v="geodati.gfoss.it"/>
