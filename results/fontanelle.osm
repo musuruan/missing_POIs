@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-05T02:24:04Z" areas="2024-08-04T21:28:19Z"/>
+<meta osm_base="2024-08-06T02:32:36Z" areas="2024-08-05T22:00:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -669,13 +669,6 @@
     <tag k="name" v="Vidardo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1633"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62512212" lat="45.3272700" lon="9.4063540" version="3" timestamp="2020-03-04T23:51:20Z" changeset="81795737" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="7915"/>
-    <tag k="name" v="Tavazzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5183"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62512294" lat="45.6911341" lon="9.4413225" version="5" timestamp="2023-06-15T07:46:12Z" changeset="137357878" uid="19497998" user="branco-revert">
@@ -12477,20 +12470,6 @@
     <tag k="website" v="http://www.comune.gonnostramatza.or.gov.it/portale/"/>
     <tag k="wikidata" v="Q385865"/>
     <tag k="wikipedia" v="it:Gonnostramatza"/>
-  </node>
-  <node id="1819550867" lat="39.9626011" lon="9.1851848" version="46" timestamp="2023-11-08T07:24:16Z" changeset="143766427" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7304"/>
-    <tag k="name" v="Brebì/Belvì"/>
-    <tag k="name:it" v="Belvì"/>
-    <tag k="name:sc" v="Brebì"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="741"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.belvi.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q294707"/>
-    <tag k="wikipedia" v="it:Belvì"/>
-    <tag k="wikipedia:sc" v="Brebì"/>
   </node>
   <node id="1845214775" lat="42.6928561" lon="11.8163999" version="3" timestamp="2016-09-07T16:51:13Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="name" v="Onano"/>
