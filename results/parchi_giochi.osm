@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-07T02:35:57Z" areas="2024-08-06T21:33:30Z"/>
+<meta osm_base="2024-08-08T02:33:54Z" areas="2024-08-07T22:45:39Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -9378,10 +9378,11 @@
     <tag k="population" v="453"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587051" lat="44.0782280" lon="8.1074490" version="3" timestamp="2016-09-26T02:22:00Z" changeset="42435134" uid="743479" user="fayor">
+  <node id="66587051" lat="44.0782280" lon="8.1074490" version="4" timestamp="2024-08-07T13:08:26Z" changeset="154935837" uid="21800793" user="Arbenganese">
     <tag k="alt_name" v="Chiesa"/>
     <tag k="gfoss_id" v="1195"/>
     <tag k="name" v="Arnasco"/>
+    <tag k="name:lij" v="Arnascu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="645"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -13861,22 +13862,6 @@
     <tag k="website" v="https://www.pietralunga.it/"/>
     <tag k="wikidata" v="Q20513"/>
     <tag k="wikipedia" v="it:Pietralunga"/>
-  </node>
-  <node id="68507612" lat="42.7337577" lon="12.8355862" version="14" timestamp="2022-01-13T21:35:52Z" changeset="116125511" uid="5328797" user="LorenzoPesci">
-    <tag k="ele" v="328"/>
-    <tag k="gfoss_id" v="50085"/>
-    <tag k="istat_id" v="5404510003"/>
-    <tag k="name" v="Sant'Anatolia di Narco"/>
-    <tag k="note" v="http://www.iluoghidelsilenzio.it/?p=17757"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="268"/>
-    <tag k="population:date" v="2011-10-09"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
-    <tag k="website" v="http://www.comunesantanatolia.it/"/>
-    <tag k="wikidata" v="Q20521"/>
-    <tag k="wikipedia" v="it:Sant'Anatolia di Narco"/>
   </node>
   <node id="68507618" lat="42.7112390" lon="12.9338760" version="12" timestamp="2017-11-11T17:07:53Z" changeset="53695556" uid="1211510" user="arcanma">
     <tag k="ele" v="974"/>
@@ -19184,12 +19169,16 @@
     <tag k="wikimedia_commons" v="Category:Gioia dei Marsi"/>
     <tag k="wikipedia" v="it:Gioia dei Marsi"/>
   </node>
-  <node id="70992608" lat="42.0262250" lon="13.0676880" version="2" timestamp="2016-09-08T02:39:01Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992608" lat="42.0262250" lon="13.0676880" version="3" timestamp="2024-08-07T16:00:06Z" changeset="154943168" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5787"/>
     <tag k="name" v="Rocca di Botte"/>
     <tag k="place" v="village"/>
     <tag k="population" v="522"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="http://www.comune.roccadibotte.aq.it"/>
+    <tag k="wikidata" v="Q50134"/>
+    <tag k="wikimedia_commons" v="Category:Rocca di Botte"/>
+    <tag k="wikipedia" v="it:Rocca di Botte"/>
   </node>
   <node id="70992640" lat="42.0082290" lon="13.6227010" version="3" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5792"/>
