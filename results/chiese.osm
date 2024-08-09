@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-08T02:30:55Z" areas="2024-08-07T22:45:39Z"/>
+<meta osm_base="2024-08-09T02:33:16Z" areas="2024-08-08T23:49:03Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6361,13 +6361,6 @@
     <tag k="population" v="1096"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991719" lat="42.1971390" lon="14.3552140" version="2" timestamp="2016-09-07T16:52:18Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5926"/>
-    <tag k="name" v="Castel Frentano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3913"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70991744" lat="42.2490311" lon="14.1861364" version="8" timestamp="2024-01-13T21:00:58Z" changeset="146227083" uid="10124288" user="damianeue">
     <tag k="ele" v="227"/>
     <tag k="gfoss_id" v="5938"/>
@@ -7421,7 +7414,8 @@
     <tag k="wikimedia_commons" v="Category:Casape"/>
     <tag k="wikipedia" v="it:Casape"/>
   </node>
-  <node id="72962543" lat="41.9769358" lon="12.8691904" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
+  <node id="72962543" lat="41.9769358" lon="12.8691904" version="6" timestamp="2024-08-08T10:43:47Z" changeset="154972361" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/Comune-Castel-Madama-386771514839637/"/>
     <tag k="gfoss_id" v="4934"/>
     <tag k="name" v="Castel Madama"/>
     <tag k="place" v="village"/>
@@ -8084,15 +8078,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="358"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
-  <node id="1934352312" lat="46.2518872" lon="12.0236077" version="8" timestamp="2022-07-25T10:56:13Z" changeset="124046435" uid="1257620" user="Luca_34c">
-    <tag k="gfoss_id" v="3352"/>
-    <tag k="name" v="Rivamonte Agordino"/>
-    <tag k="name:it" v="Rivamonte Agordino"/>
-    <tag k="name:lld" v="Riva"/>
-    <tag k="old_name" v="Riva"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="634"/>
   </node>
   <node id="1944059493" lat="44.9563630" lon="9.6849670" version="10" timestamp="2023-06-14T14:27:59Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="3874"/>

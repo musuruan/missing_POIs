@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-08T02:30:55Z" areas="2024-08-07T23:17:15Z"/>
+<meta osm_base="2024-08-09T02:32:09Z" areas="2024-08-08T23:49:03Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10190,15 +10190,6 @@
     <tag k="population" v="3428"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274771" lat="40.1097110" lon="16.5801910" version="5" timestamp="2017-03-05T13:46:19Z" changeset="46596366" uid="354284" user="sbiribizio">
-    <tag k="gfoss_id" v="6588"/>
-    <tag k="name" v="Rocca Imperiale"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3352"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53947"/>
-    <tag k="wikipedia" v="it:Rocca Imperiale"/>
-  </node>
   <node id="67274790" lat="39.3984950" lon="16.2871930" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6591"/>
     <tag k="name" v="Rose"/>
@@ -10255,12 +10246,15 @@
     <tag k="population" v="2470"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274877" lat="39.8701066" lon="16.5306670" version="4" timestamp="2016-09-09T00:49:53Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="67274877" lat="39.8701066" lon="16.5306670" version="5" timestamp="2024-08-08T18:10:19Z" changeset="154991752" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6635"/>
     <tag k="name" v="Trebisacce"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9055"/>
+    <tag k="postal_code" v="87075"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54032"/>
+    <tag k="wikipedia" v="it:Trebisacce"/>
   </node>
   <node id="67274911" lat="39.0902880" lon="16.1274930" version="2" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6625"/>
@@ -17566,7 +17560,8 @@
     <tag k="wikimedia_commons" v="Category:Ciciliano"/>
     <tag k="wikipedia" v="it:Ciciliano"/>
   </node>
-  <node id="72962543" lat="41.9769358" lon="12.8691904" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
+  <node id="72962543" lat="41.9769358" lon="12.8691904" version="6" timestamp="2024-08-08T10:43:47Z" changeset="154972361" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/Comune-Castel-Madama-386771514839637/"/>
     <tag k="gfoss_id" v="4934"/>
     <tag k="name" v="Castel Madama"/>
     <tag k="place" v="village"/>
