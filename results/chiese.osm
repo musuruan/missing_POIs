@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-09T02:33:16Z" areas="2024-08-08T23:49:03Z"/>
+<meta osm_base="2024-08-10T02:30:44Z" areas="2024-08-10T01:00:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2142,7 +2142,7 @@
     <tag k="population" v="2319"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273830" lat="39.7231000" lon="16.0898850" version="2" timestamp="2016-09-05T17:31:30Z" changeset="41936631" uid="354689" user="Francesco Placco">
+  <node id="67273830" lat="39.7231000" lon="16.0898850" version="3" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6486"/>
     <tag k="is_in" v="Cosenza, Calabria, Italy"/>
     <tag k="name" v="Acquaformosa"/>
@@ -2150,6 +2150,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1295"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53816"/>
+    <tag k="wikipedia" v="it:Acquaformosa"/>
   </node>
   <node id="67273838" lat="39.1286884" lon="16.3082134" version="3" timestamp="2016-08-29T01:35:01Z" changeset="41767201" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6624"/>
@@ -2269,12 +2271,14 @@
     <tag k="population" v="2460"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274065" lat="39.5656970" lon="16.0536725" version="3" timestamp="2017-08-28T11:11:53Z" changeset="51505283" uid="616103" user="Max Tenerelli">
+  <node id="67274065" lat="39.5656970" lon="16.0536725" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6536"/>
     <tag k="name" v="Fagnano Castello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4198"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53877"/>
+    <tag k="wikipedia" v="it:Fagnano Castello"/>
   </node>
   <node id="67274080" lat="39.2055920" lon="16.3319960" version="2" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6560"/>
@@ -2304,7 +2308,7 @@
     <tag k="wikidata" v="Q53903"/>
     <tag k="wikipedia" v="it:Malito"/>
   </node>
-  <node id="67274134" lat="39.7422654" lon="16.1228246" version="7" timestamp="2018-07-06T08:54:38Z" changeset="60459950" uid="8202947" user="KaTaverna">
+  <node id="67274134" lat="39.7422654" lon="16.1228246" version="8" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="ele" v="580"/>
     <tag k="gfoss_id" v="6554"/>
     <tag k="is_in" v="Cosenza, Calabria, Italy"/>
@@ -2313,6 +2317,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3145"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53897"/>
+    <tag k="wikipedia" v="it:Lungro"/>
   </node>
   <node id="67274140" lat="39.4633777" lon="16.1378293" version="3" timestamp="2016-08-28T18:58:28Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6551"/>
@@ -2321,12 +2327,15 @@
     <tag k="population" v="4184"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274173" lat="39.9870090" lon="16.6016930" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274173" lat="39.9870090" lon="16.6016930" version="3" timestamp="2024-08-09T09:38:39Z" changeset="155013726" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6592"/>
     <tag k="name" v="Roseto Capo Spulico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1759"/>
+    <tag k="postal_code" v="87070"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53951"/>
+    <tag k="wikipedia" v="it:Roseto Capo Spulico"/>
   </node>
   <node id="67274177" lat="39.8096030" lon="16.1632850" version="4" timestamp="2020-07-21T14:31:40Z" changeset="88299497" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="6596"/>
@@ -2408,12 +2417,14 @@
     <tag k="population" v="1314"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274244" lat="39.7768368" lon="16.1564716" version="4" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274244" lat="39.7768368" lon="16.1564716" version="5" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6621"/>
     <tag k="name" v="Saracena"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4309"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53995"/>
+    <tag k="wikipedia" v="it:Saracena"/>
   </node>
   <node id="67274256" lat="39.4498010" lon="16.8854050" version="2" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6622"/>
@@ -2422,12 +2433,14 @@
     <tag k="population" v="1393"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274282" lat="39.6183382" lon="16.2731177" version="4" timestamp="2023-07-25T15:40:06Z" changeset="138995827" uid="19662073" user="Azienda Agricola Rende">
+  <node id="67274282" lat="39.6183382" lon="16.2731177" version="5" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6630"/>
     <tag k="name" v="Tarsia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2383"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54020"/>
+    <tag k="wikipedia" v="it:Tarsia (Italia)"/>
   </node>
   <node id="67274293" lat="39.7116002" lon="16.0484912" version="4" timestamp="2023-06-05T14:50:33Z" changeset="136976616" uid="69259" user="DnaX">
     <tag k="gfoss_id" v="6600"/>
@@ -2518,12 +2531,14 @@
     <tag k="population" v="1135"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274451" lat="39.6569010" lon="16.3394910" version="2" timestamp="2016-08-28T18:58:50Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274451" lat="39.6569010" lon="16.3394910" version="3" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6631"/>
     <tag k="name" v="Terranova da Sibari"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5216"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54024"/>
+    <tag k="wikipedia" v="it:Terranova da Sibari"/>
   </node>
   <node id="67274457" lat="39.9581070" lon="16.3794880" version="2" timestamp="2016-08-28T18:58:09Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6492"/>
@@ -2708,12 +2723,15 @@
     <tag k="population" v="1294"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274730" lat="39.8481737" lon="15.7949706" version="3" timestamp="2020-07-17T16:44:12Z" changeset="88153060" uid="10127559" user="Aldeyde">
+  <node id="67274730" lat="39.8481737" lon="15.7949706" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6610"/>
     <tag k="name" v="San Nicola Arcella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1393"/>
+    <tag k="postal_code" v="87020"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53977"/>
+    <tag k="wikipedia" v="it:San Nicola Arcella"/>
   </node>
   <node id="67274745" lat="39.5818179" lon="16.4541868" version="5" timestamp="2020-02-11T21:18:33Z" changeset="80870633" uid="8269646" user="Giovanni Cerrigone">
     <tag k="gfoss_id" v="6603"/>
@@ -2723,13 +2741,15 @@
     <tag k="population" v="1709"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274754" lat="39.6682010" lon="16.2973900" version="3" timestamp="2016-09-05T17:49:59Z" changeset="41937022" uid="354689" user="Francesco Placco">
+  <node id="67274754" lat="39.6682010" lon="16.2973900" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6606"/>
     <tag k="name" v="San Lorenzo del Vallo"/>
     <tag k="name:aae" v="Shëllorenxi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3428"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53971"/>
+    <tag k="wikipedia" v="it:San Lorenzo del Vallo"/>
   </node>
   <node id="67274771" lat="40.1097110" lon="16.5801910" version="5" timestamp="2017-03-05T13:46:19Z" changeset="46596366" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="6588"/>
@@ -2740,12 +2760,14 @@
     <tag k="wikidata" v="Q53947"/>
     <tag k="wikipedia" v="it:Rocca Imperiale"/>
   </node>
-  <node id="67274778" lat="39.6149201" lon="16.1583495" version="3" timestamp="2023-02-25T10:45:59Z" changeset="132999892" uid="18546446" user="Bazooka_">
+  <node id="67274778" lat="39.6149201" lon="16.1583495" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6589"/>
     <tag k="name" v="Roggiano Gravina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7739"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53948"/>
+    <tag k="wikipedia" v="it:Roggiano Gravina"/>
   </node>
   <node id="67274809" lat="39.1094900" lon="16.3028960" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6581"/>
@@ -2814,13 +2836,15 @@
     <tag k="population" v="2223"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274941" lat="39.5861189" lon="16.0704791" version="5" timestamp="2018-09-16T22:38:15Z" changeset="62648107" uid="616103" user="Max Tenerelli">
+  <node id="67274941" lat="39.5861437" lon="16.0705997" version="6" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6614"/>
     <tag k="name" v="Santa Caterina Albanese"/>
     <tag k="name:aae" v="Picilìa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1383"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53987"/>
+    <tag k="wikipedia" v="it:Santa Caterina Albanese"/>
   </node>
   <node id="67274945" lat="39.1583504" lon="16.7735052" version="7" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="7956"/>

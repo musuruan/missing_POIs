@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-09T02:31:14Z" areas="2024-08-09T00:08:43Z"/>
+<meta osm_base="2024-08-10T02:29:45Z" areas="2024-08-10T01:00:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2453,7 +2453,7 @@
     <tag k="population" v="995"/>
     <tag k="source" v="Regione Veneto, License IODL-2.0"/>
   </node>
-  <node id="64779139" lat="45.9151010" lon="11.2738860" version="2" timestamp="2016-10-08T21:08:48Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779139" lat="45.9148346" lon="11.2739093" version="3" timestamp="2024-08-09T07:33:24Z" changeset="155008707" uid="1801173" user="Pucciotrex30">
     <tag k="gfoss_id" v="3238"/>
     <tag k="name" v="Lastebasse"/>
     <tag k="place" v="village"/>
@@ -2732,12 +2732,14 @@
     <tag k="population" v="1026"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274065" lat="39.5656970" lon="16.0536725" version="3" timestamp="2017-08-28T11:11:53Z" changeset="51505283" uid="616103" user="Max Tenerelli">
+  <node id="67274065" lat="39.5656970" lon="16.0536725" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6536"/>
     <tag k="name" v="Fagnano Castello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4198"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53877"/>
+    <tag k="wikipedia" v="it:Fagnano Castello"/>
   </node>
   <node id="67274080" lat="39.2055920" lon="16.3319960" version="2" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6560"/>
@@ -2776,7 +2778,7 @@
     <tag k="wikidata" v="Q53902"/>
     <tag k="wikipedia" v="it:Maierà"/>
   </node>
-  <node id="67274134" lat="39.7422654" lon="16.1228246" version="7" timestamp="2018-07-06T08:54:38Z" changeset="60459950" uid="8202947" user="KaTaverna">
+  <node id="67274134" lat="39.7422654" lon="16.1228246" version="8" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="ele" v="580"/>
     <tag k="gfoss_id" v="6554"/>
     <tag k="is_in" v="Cosenza, Calabria, Italy"/>
@@ -2785,6 +2787,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3145"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53897"/>
+    <tag k="wikipedia" v="it:Lungro"/>
   </node>
   <node id="67274140" lat="39.4633777" lon="16.1378293" version="3" timestamp="2016-08-28T18:58:28Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6551"/>
@@ -2793,12 +2797,14 @@
     <tag k="population" v="4184"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274193" lat="39.8439407" lon="16.1356130" version="3" timestamp="2016-08-28T18:58:33Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274193" lat="39.8439407" lon="16.1356130" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6568"/>
     <tag k="name" v="Morano Calabro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4966"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53919"/>
+    <tag k="wikipedia" v="it:Morano Calabro"/>
   </node>
   <node id="67274211" lat="39.9004060" lon="16.4319900" version="3" timestamp="2016-09-05T17:42:47Z" changeset="41936878" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6585"/>
@@ -6804,12 +6810,15 @@
     <tag k="wikimedia_commons" v="Category:Serrone"/>
     <tag k="wikipedia" v="it:Serrone"/>
   </node>
-  <node id="72960660" lat="41.5521210" lon="13.7784110" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960660" lat="41.5521210" lon="13.7784110" version="5" timestamp="2024-08-09T13:26:42Z" changeset="155023512" uid="21792105" user="96wanderer">
     <tag k="gfoss_id" v="5142"/>
     <tag k="name" v="Terelle"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="603"/>
+    <tag k="population" v="287"/>
+    <tag k="population:date" v="2024-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="http://dati.istat.it/"/>
+    <tag k="website" v="https://comune.terelle.fr.it/"/>
     <tag k="wikidata" v="Q117404"/>
     <tag k="wikipedia" v="it:Terelle"/>
   </node>

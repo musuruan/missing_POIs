@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-09T02:32:09Z" areas="2024-08-08T23:49:03Z"/>
+<meta osm_base="2024-08-10T02:30:44Z" areas="2024-08-10T01:00:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -8434,7 +8434,7 @@
     <tag k="wikidata" v="Q46933"/>
     <tag k="wikipedia" v="it:Laghi (Italia)"/>
   </node>
-  <node id="64779139" lat="45.9151010" lon="11.2738860" version="2" timestamp="2016-10-08T21:08:48Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779139" lat="45.9148346" lon="11.2739093" version="3" timestamp="2024-08-09T07:33:24Z" changeset="155008707" uid="1801173" user="Pucciotrex30">
     <tag k="gfoss_id" v="3238"/>
     <tag k="name" v="Lastebasse"/>
     <tag k="place" v="village"/>
@@ -9729,12 +9729,14 @@
     <tag k="population" v="1026"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274065" lat="39.5656970" lon="16.0536725" version="3" timestamp="2017-08-28T11:11:53Z" changeset="51505283" uid="616103" user="Max Tenerelli">
+  <node id="67274065" lat="39.5656970" lon="16.0536725" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6536"/>
     <tag k="name" v="Fagnano Castello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4198"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53877"/>
+    <tag k="wikipedia" v="it:Fagnano Castello"/>
   </node>
   <node id="67274070" lat="39.5268970" lon="16.1105870" version="3" timestamp="2016-09-05T17:39:45Z" changeset="41936816" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6565"/>
@@ -9788,12 +9790,15 @@
     <tag k="population" v="4184"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274173" lat="39.9870090" lon="16.6016930" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274173" lat="39.9870090" lon="16.6016930" version="3" timestamp="2024-08-09T09:38:39Z" changeset="155013726" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6592"/>
     <tag k="name" v="Roseto Capo Spulico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1759"/>
+    <tag k="postal_code" v="87070"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53951"/>
+    <tag k="wikipedia" v="it:Roseto Capo Spulico"/>
   </node>
   <node id="67274180" lat="39.4684960" lon="16.1125880" version="3" timestamp="2016-09-05T17:51:55Z" changeset="41937071" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6594"/>
@@ -9826,12 +9831,14 @@
     <tag k="population" v="556"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274193" lat="39.8439407" lon="16.1356130" version="3" timestamp="2016-08-28T18:58:33Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274193" lat="39.8439407" lon="16.1356130" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6568"/>
     <tag k="name" v="Morano Calabro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4966"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53919"/>
+    <tag k="wikipedia" v="it:Morano Calabro"/>
   </node>
   <node id="67274201" lat="40.0538090" lon="16.4460880" version="2" timestamp="2016-08-28T18:58:34Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6572"/>
@@ -9869,12 +9876,14 @@
     <tag k="population" v="1412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274244" lat="39.7768368" lon="16.1564716" version="4" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274244" lat="39.7768368" lon="16.1564716" version="5" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6621"/>
     <tag k="name" v="Saracena"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4309"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53995"/>
+    <tag k="wikipedia" v="it:Saracena"/>
   </node>
   <node id="67274256" lat="39.4498010" lon="16.8854050" version="2" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6622"/>
@@ -9883,12 +9892,14 @@
     <tag k="population" v="1393"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274282" lat="39.6183382" lon="16.2731177" version="4" timestamp="2023-07-25T15:40:06Z" changeset="138995827" uid="19662073" user="Azienda Agricola Rende">
+  <node id="67274282" lat="39.6183382" lon="16.2731177" version="5" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6630"/>
     <tag k="name" v="Tarsia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2383"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54020"/>
+    <tag k="wikipedia" v="it:Tarsia (Italia)"/>
   </node>
   <node id="67274309" lat="39.6047970" lon="15.9148820" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6602"/>
@@ -9987,12 +9998,14 @@
     <tag k="population" v="1135"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274451" lat="39.6569010" lon="16.3394910" version="2" timestamp="2016-08-28T18:58:50Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274451" lat="39.6569010" lon="16.3394910" version="3" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6631"/>
     <tag k="name" v="Terranova da Sibari"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5216"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54024"/>
+    <tag k="wikipedia" v="it:Terranova da Sibari"/>
   </node>
   <node id="67274457" lat="39.9581070" lon="16.3794880" version="2" timestamp="2016-08-28T18:58:09Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6492"/>
@@ -10160,12 +10173,15 @@
     <tag k="population" v="1294"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274730" lat="39.8481737" lon="15.7949706" version="3" timestamp="2020-07-17T16:44:12Z" changeset="88153060" uid="10127559" user="Aldeyde">
+  <node id="67274730" lat="39.8481737" lon="15.7949706" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6610"/>
     <tag k="name" v="San Nicola Arcella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1393"/>
+    <tag k="postal_code" v="87020"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53977"/>
+    <tag k="wikipedia" v="it:San Nicola Arcella"/>
   </node>
   <node id="67274734" lat="39.3420944" lon="16.3112472" version="4" timestamp="2020-09-24T17:04:07Z" changeset="91454862" uid="177389" user="Garmin-User">
     <tag k="gfoss_id" v="6612"/>
@@ -10182,13 +10198,15 @@
     <tag k="population" v="1709"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274754" lat="39.6682010" lon="16.2973900" version="3" timestamp="2016-09-05T17:49:59Z" changeset="41937022" uid="354689" user="Francesco Placco">
+  <node id="67274754" lat="39.6682010" lon="16.2973900" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6606"/>
     <tag k="name" v="San Lorenzo del Vallo"/>
     <tag k="name:aae" v="Shëllorenxi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3428"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53971"/>
+    <tag k="wikipedia" v="it:San Lorenzo del Vallo"/>
   </node>
   <node id="67274790" lat="39.3984950" lon="16.2871930" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6591"/>
@@ -10277,13 +10295,15 @@
     <tag k="population" v="2223"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274941" lat="39.5861189" lon="16.0704791" version="5" timestamp="2018-09-16T22:38:15Z" changeset="62648107" uid="616103" user="Max Tenerelli">
+  <node id="67274941" lat="39.5861437" lon="16.0705997" version="6" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6614"/>
     <tag k="name" v="Santa Caterina Albanese"/>
     <tag k="name:aae" v="Picilìa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1383"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53987"/>
+    <tag k="wikipedia" v="it:Santa Caterina Albanese"/>
   </node>
   <node id="67274945" lat="39.1583504" lon="16.7735052" version="7" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="7956"/>
@@ -17070,12 +17090,15 @@
     <tag k="wikimedia_commons" v="Category:Serrone"/>
     <tag k="wikipedia" v="it:Serrone"/>
   </node>
-  <node id="72960660" lat="41.5521210" lon="13.7784110" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960660" lat="41.5521210" lon="13.7784110" version="5" timestamp="2024-08-09T13:26:42Z" changeset="155023512" uid="21792105" user="96wanderer">
     <tag k="gfoss_id" v="5142"/>
     <tag k="name" v="Terelle"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="603"/>
+    <tag k="population" v="287"/>
+    <tag k="population:date" v="2024-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="http://dati.istat.it/"/>
+    <tag k="website" v="https://comune.terelle.fr.it/"/>
     <tag k="wikidata" v="Q117404"/>
     <tag k="wikipedia" v="it:Terelle"/>
   </node>
