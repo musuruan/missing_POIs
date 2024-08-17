@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-16T02:33:34Z" areas="2024-08-16T00:58:12Z"/>
+<meta osm_base="2024-08-17T02:31:19Z" areas="2024-08-16T23:26:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -13300,12 +13300,14 @@
     <tag k="population" v="2279"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284013" lat="41.4080240" lon="14.6183310" version="2" timestamp="2016-09-03T02:35:28Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284013" lat="41.4080240" lon="14.6183310" version="3" timestamp="2024-08-16T22:23:25Z" changeset="155349180" uid="12638075" user="elucci">
     <tag k="gfoss_id" v="6087"/>
     <tag k="name" v="Sepino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2177"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q278225"/>
+    <tag k="wikipedia" v="it:Sepino"/>
   </node>
   <node id="67284025" lat="41.4826448" lon="14.4723134" version="12" timestamp="2023-09-02T11:58:59Z" changeset="140715428" uid="20124152" user="amarie-vinnie">
     <tag k="ele" v="482"/>
@@ -13886,17 +13888,17 @@
     <tag k="wikidata" v="Q20449"/>
     <tag k="wikipedia" v="it:Fratta Todina"/>
   </node>
-  <node id="68507718" lat="42.8210425" lon="12.9176291" version="12" timestamp="2019-03-20T11:03:58Z" changeset="68330629" uid="9451067" user="b-jazz-bot">
+  <node id="68507718" lat="42.8210425" lon="12.9176291" version="13" timestamp="2024-08-16T08:45:10Z" changeset="155316158" uid="1211510" user="arcanma">
     <tag k="ele" v="557"/>
     <tag k="gfoss_id" v="49208"/>
     <tag k="istat_id" v="5401010003"/>
     <tag k="name" v="Cerreto di Spoleto"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="366"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="306"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://comune.cerretodispoleto.pg.it/"/>
     <tag k="wikidata" v="Q20396"/>
     <tag k="wikipedia" v="it:Cerreto di Spoleto"/>
@@ -19756,12 +19758,15 @@
     <tag k="wikimedia_commons" v="Category:Falvaterra"/>
     <tag k="wikipedia" v="it:Falvaterra"/>
   </node>
-  <node id="72959932" lat="41.6406200" lon="13.5137040" version="5" timestamp="2017-03-11T12:49:42Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72959932" lat="41.6406200" lon="13.5137040" version="6" timestamp="2024-08-16T13:06:26Z" changeset="155326947" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunemsgc/"/>
     <tag k="gfoss_id" v="5109"/>
     <tag k="name" v="Monte San Giovanni Campano"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12929"/>
+    <tag k="website" v="https://www.comune.montesangiovannicampano.fr.it"/>
     <tag k="wikidata" v="Q116952"/>
+    <tag k="wikimedia_commons" v="Category:Monte San Giovanni Campano"/>
     <tag k="wikipedia" v="it:Monte San Giovanni Campano"/>
   </node>
   <node id="72959938" lat="41.6792485" lon="13.5730766" version="6" timestamp="2023-11-10T16:50:18Z" changeset="143871827" uid="9451067" user="b-jazz-bot">

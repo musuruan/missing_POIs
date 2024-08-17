@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-16T02:30:46Z" areas="2024-08-16T00:58:12Z"/>
+<meta osm_base="2024-08-17T02:28:13Z" areas="2024-08-16T20:59:09Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11572,13 +11572,6 @@
     <tag k="population" v="2279"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284013" lat="41.4080240" lon="14.6183310" version="2" timestamp="2016-09-03T02:35:28Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6087"/>
-    <tag k="name" v="Sepino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2177"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284023" lat="41.7045330" lon="14.9333340" version="2" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6016"/>
     <tag k="name" v="Bonefro"/>
@@ -16876,12 +16869,15 @@
     <tag k="wikidata" v="Q116902"/>
     <tag k="wikipedia" v="it:Gallinaro"/>
   </node>
-  <node id="72959932" lat="41.6406200" lon="13.5137040" version="5" timestamp="2017-03-11T12:49:42Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72959932" lat="41.6406200" lon="13.5137040" version="6" timestamp="2024-08-16T13:06:26Z" changeset="155326947" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/comunemsgc/"/>
     <tag k="gfoss_id" v="5109"/>
     <tag k="name" v="Monte San Giovanni Campano"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12929"/>
+    <tag k="website" v="https://www.comune.montesangiovannicampano.fr.it"/>
     <tag k="wikidata" v="Q116952"/>
+    <tag k="wikimedia_commons" v="Category:Monte San Giovanni Campano"/>
     <tag k="wikipedia" v="it:Monte San Giovanni Campano"/>
   </node>
   <node id="72959948" lat="41.5922170" lon="13.2439980" version="4" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
