@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-18T02:32:32Z" areas="2024-08-17T21:45:14Z"/>
+<meta osm_base="2024-08-19T02:33:02Z" areas="2024-08-19T00:21:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1038,13 +1038,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q104007"/>
     <tag k="wikipedia" v="it:Cigole"/>
-  </node>
-  <node id="62507580" lat="45.4828867" lon="10.1750082" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2242"/>
-    <tag k="name" v="Flero"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7495"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62507597" lat="45.5984995" lon="9.9722164" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2239"/>
@@ -11903,17 +11896,17 @@
     <tag k="population" v="654"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68507518" lat="42.8334672" lon="12.5777111" version="11" timestamp="2017-11-11T16:11:22Z" changeset="53694246" uid="1211510" user="arcanma">
+  <node id="68507518" lat="42.8334672" lon="12.5777111" version="12" timestamp="2024-08-18T10:20:53Z" changeset="155406793" uid="1211510" user="arcanma">
     <tag k="ele" v="546"/>
     <tag k="gfoss_id" v="49523"/>
     <tag k="istat_id" v="5402110004"/>
     <tag k="name" v="Giano dell'Umbria"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="192"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="159"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="http://www.giano.umbria.it/"/>
     <tag k="wikidata" v="Q20451"/>
     <tag k="wikipedia" v="it:Giano dell'Umbria"/>
@@ -17505,18 +17498,6 @@
     <tag k="wikidata" v="Q241780"/>
     <tag k="wikimedia_commons" v="Category:Bellegra"/>
     <tag k="wikipedia" v="it:Bellegra"/>
-  </node>
-  <node id="72962241" lat="41.8089180" lon="12.7377840" version="9" timestamp="2024-01-26T12:02:28Z" changeset="146707353" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/comunemontecompatri"/>
-    <tag k="gfoss_id" v="4971"/>
-    <tag k="name" v="Monte Compatri"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11978"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.montecompatri.roma.it/"/>
-    <tag k="wikidata" v="Q242954"/>
-    <tag k="wikimedia_commons" v="Category:Monte Compatri"/>
-    <tag k="wikipedia" v="it:Monte Compatri"/>
   </node>
   <node id="72962276" lat="42.2633290" lon="12.8700810" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4907"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-18T02:35:44Z" areas="2024-08-17T23:59:07Z"/>
+<meta osm_base="2024-08-19T02:36:14Z" areas="2024-08-19T00:21:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6526,21 +6526,6 @@
     <tag k="population" v="7430"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q9076"/>
-  </node>
-  <node id="63629394" lat="45.0973834" lon="6.9290646" version="28" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
-    <tag k="alt_name:oc" v="Isiya"/>
-    <tag k="gfoss_id" v="100"/>
-    <tag k="name" v="Exilles"/>
-    <tag k="name:ca" v="Ensilha"/>
-    <tag k="name:fr" v="Exilles"/>
-    <tag k="name:it" v="Exilles"/>
-    <tag k="name:oc" v="Ensilha"/>
-    <tag k="name:pms" v="Isìles"/>
-    <tag k="name:ru" v="Эксиллес"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="284"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
   </node>
   <node id="63629440" lat="44.8372390" lon="7.3744200" version="4" timestamp="2023-01-17T20:04:00Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="111"/>
@@ -13783,17 +13768,17 @@
     <tag k="population" v="927"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68507518" lat="42.8334672" lon="12.5777111" version="11" timestamp="2017-11-11T16:11:22Z" changeset="53694246" uid="1211510" user="arcanma">
+  <node id="68507518" lat="42.8334672" lon="12.5777111" version="12" timestamp="2024-08-18T10:20:53Z" changeset="155406793" uid="1211510" user="arcanma">
     <tag k="ele" v="546"/>
     <tag k="gfoss_id" v="49523"/>
     <tag k="istat_id" v="5402110004"/>
     <tag k="name" v="Giano dell'Umbria"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="192"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="159"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="http://www.giano.umbria.it/"/>
     <tag k="wikidata" v="Q20451"/>
     <tag k="wikipedia" v="it:Giano dell'Umbria"/>
@@ -13874,17 +13859,17 @@
     <tag k="wikidata" v="Q20143"/>
     <tag k="wikipedia" v="it:Bettona"/>
   </node>
-  <node id="68507698" lat="42.8579387" lon="12.3646786" version="12" timestamp="2023-11-11T13:33:17Z" changeset="143899835" uid="9451067" user="b-jazz-bot">
+  <node id="68507698" lat="42.8579387" lon="12.3646786" version="13" timestamp="2024-08-18T10:14:08Z" changeset="155406490" uid="1211510" user="arcanma">
     <tag k="ele" v="243"/>
     <tag k="gfoss_id" v="49500"/>
     <tag k="istat_id" v="5402010001"/>
     <tag k="name" v="Fratta Todina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="686"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="669"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.frattatodina.pg.it/"/>
     <tag k="wikidata" v="Q20449"/>
     <tag k="wikipedia" v="it:Fratta Todina"/>
@@ -20668,18 +20653,6 @@
     <tag k="wikidata" v="Q241770"/>
     <tag k="wikimedia_commons" v="Category:Artena"/>
     <tag k="wikipedia" v="it:Artena"/>
-  </node>
-  <node id="72962241" lat="41.8089180" lon="12.7377840" version="9" timestamp="2024-01-26T12:02:28Z" changeset="146707353" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/comunemontecompatri"/>
-    <tag k="gfoss_id" v="4971"/>
-    <tag k="name" v="Monte Compatri"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11978"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.montecompatri.roma.it/"/>
-    <tag k="wikidata" v="Q242954"/>
-    <tag k="wikimedia_commons" v="Category:Monte Compatri"/>
-    <tag k="wikipedia" v="it:Monte Compatri"/>
   </node>
   <node id="72962262" lat="41.9816240" lon="13.0326880" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4913"/>
