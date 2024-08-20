@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-19T02:33:02Z" areas="2024-08-19T00:21:05Z"/>
+<meta osm_base="2024-08-20T02:30:15Z" areas="2024-08-20T01:08:12Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6429,17 +6429,6 @@
     <tag k="population" v="5480"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629534" lat="45.1195420" lon="6.9853060" version="5" timestamp="2023-04-03T15:51:01Z" changeset="134460873" uid="10617233" user="Farot">
-    <tag k="gfoss_id" v="80"/>
-    <tag k="name" v="Chiomonte"/>
-    <tag k="name:fr" v="Chaumont"/>
-    <tag k="name:oc" v="Chaumont"/>
-    <tag k="name:pms" v="Cimon"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1011"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-  </node>
   <node id="63629554" lat="45.4285560" lon="7.6881150" version="4" timestamp="2023-01-17T20:06:34Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="84"/>
     <tag k="name" v="Cintano"/>
@@ -11475,12 +11464,13 @@
     <tag k="population" v="757"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283914" lat="41.6917557" lon="14.6954495" version="3" timestamp="2016-09-03T02:35:24Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283914" lat="41.6917557" lon="14.6954495" version="4" timestamp="2024-08-19T08:29:09Z" changeset="155448226" uid="12638075" user="elucci">
     <tag k="gfoss_id" v="6064"/>
     <tag k="name" v="Petrella Tifernina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1305"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q277869"/>
   </node>
   <node id="67283917" lat="42.0114390" lon="14.8609280" version="2" timestamp="2016-09-03T02:35:24Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6063"/>
@@ -12755,13 +12745,6 @@
     <tag k="name" v="Scorrano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6755"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529574" lat="40.0178220" lon="18.3656320" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6335"/>
-    <tag k="name" v="Spongano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3814"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529584" lat="40.1017240" lon="18.4493330" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-19T02:36:14Z" areas="2024-08-19T00:21:05Z"/>
+<meta osm_base="2024-08-20T02:33:13Z" areas="2024-08-19T22:58:48Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -403,13 +403,6 @@
     <tag k="website" v="https://www.comune.misano.bg.it/"/>
     <tag k="wikidata" v="Q30027573"/>
     <tag k="wikipedia" v="it:Misano di Gera d'Adda"/>
-  </node>
-  <node id="62505771" lat="45.8894870" lon="9.7692520" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2068"/>
-    <tag k="name" v="Oltre il Colle"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="990"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62505794" lat="45.9889712" lon="9.5794792" version="6" timestamp="2023-11-09T06:48:03Z" changeset="143808173" uid="9451067" user="b-jazz-bot">
     <tag k="email" v="info@comune.ornica.bg.it"/>
@@ -13889,13 +13882,13 @@
     <tag k="wikidata" v="Q20396"/>
     <tag k="wikipedia" v="it:Cerreto di Spoleto"/>
   </node>
-  <node id="68507727" lat="43.2468440" lon="12.1430500" version="11" timestamp="2023-11-03T23:04:12Z" changeset="143594349" uid="9451067" user="b-jazz-bot">
+  <node id="68507727" lat="43.2468440" lon="12.1430500" version="12" timestamp="2024-08-19T14:09:01Z" changeset="155462980" uid="1211510" user="arcanma">
     <tag k="ele" v="314"/>
     <tag k="gfoss_id" v="49675"/>
     <tag k="istat_id" v="5402510001"/>
     <tag k="name" v="Lisciano Niccone"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="317"/>
+    <tag k="population" v="294"/>
     <tag k="population:date" v="2011-10-09"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
@@ -17217,21 +17210,6 @@
     <tag k="population" v="10660"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025986"/>
-  </node>
-  <node id="69300478" lat="44.2047540" lon="10.6166010" version="8" timestamp="2023-11-10T12:50:43Z" changeset="143862083" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="781"/>
-    <tag k="gfoss_id" v="4010"/>
-    <tag k="name" v="Pievepelago"/>
-    <tag k="name:egl" v="Pivpélegh"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2304"/>
-    <tag k="postal_code" v="41027"/>
-    <tag k="ref:ISTAT" v="036031"/>
-    <tag k="ref:catasto" v="G649"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.pievepelago.mo.it/"/>
-    <tag k="wikidata" v="Q100086"/>
-    <tag k="wikipedia" v="it:Pievepelago"/>
   </node>
   <node id="69300486" lat="44.2299738" lon="10.6515646" version="10" timestamp="2023-11-10T12:50:44Z" changeset="143862083" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="716"/>
@@ -25622,17 +25600,17 @@
     <tag k="population" v="67"/>
     <tag k="wikidata" v="Q18482643"/>
   </node>
-  <node id="3687249567" lat="42.9105115" lon="12.3377232" version="11" timestamp="2024-01-21T11:04:46Z" changeset="146508048" uid="381486" user="laxandrea">
+  <node id="3687249567" lat="42.9105115" lon="12.3377232" version="12" timestamp="2024-08-19T15:16:42Z" changeset="155466179" uid="1211510" user="arcanma">
     <tag k="ele" v="184"/>
     <tag k="gfoss_id" v="49727"/>
     <tag k="istat_id" v="5402710006"/>
     <tag k="name" v="Marsciano"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="9631"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="9528"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.marsciano.pg.it/"/>
     <tag k="wikidata" v="Q20467"/>
     <tag k="wikipedia" v="it:Marsciano"/>
@@ -25986,13 +25964,15 @@
     <tag k="wikidata" v="Q103832"/>
     <tag k="wikipedia" v="it:Castelcovati"/>
   </node>
-  <node id="5960566531" lat="42.5021621" lon="13.7828321" version="2" timestamp="2023-03-13T14:27:57Z" changeset="133628100" uid="1940323" user="SekeRob">
+  <node id="5960566531" lat="42.5021621" lon="13.7828321" version="3" timestamp="2024-08-19T10:34:19Z" changeset="155453469" uid="12638075" user="elucci">
     <tag k="ele" v="470"/>
     <tag k="gfoss_id" v="5818"/>
     <tag k="name" v="Arsita"/>
+    <tag k="old_name" v="Bacucco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="969"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q51419"/>
   </node>
   <node id="6163598535" lat="41.7339376" lon="14.0343937" version="2" timestamp="2021-03-28T07:37:35Z" changeset="101863025" uid="1737330" user="harada83">
     <tag k="name" v="Alfedena"/>
