@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-20T02:33:13Z" areas="2024-08-19T22:58:48Z"/>
+<meta osm_base="2024-08-21T02:32:46Z" areas="2024-08-20T20:59:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5648,15 +5648,6 @@
     <tag k="population" v="617"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275570" lat="38.3869584" lon="16.1081645" version="5" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6791"/>
-    <tag k="name" v="San Giorgio Morgeto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3384"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54647"/>
-    <tag k="wikipedia" v="it:San Giorgio Morgeto"/>
-  </node>
   <node id="67275616" lat="38.2276730" lon="16.2022040" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6782"/>
     <tag k="name" v="Portigliola"/>
@@ -6372,17 +6363,17 @@
     <tag k="population" v="927"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68507581" lat="42.7731370" lon="12.5249660" version="13" timestamp="2024-02-23T16:56:23Z" changeset="147826408" uid="1950277" user="Mannivu">
+  <node id="68507581" lat="42.7731370" lon="12.5249660" version="14" timestamp="2024-08-20T07:58:00Z" changeset="155494979" uid="1211510" user="arcanma">
     <tag k="ele" v="351"/>
     <tag k="gfoss_id" v="49738"/>
     <tag k="istat_id" v="5402810003"/>
     <tag k="name" v="Massa Martana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1221"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1242"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.massamartana.pg.it/"/>
     <tag k="wikidata" v="Q30027350"/>
     <tag k="wikipedia" v="it:Massa Martana"/>
@@ -8217,21 +8208,6 @@
     <tag k="population" v="580"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030389"/>
-  </node>
-  <node id="69300203" lat="44.3974264" lon="11.8108566" version="7" timestamp="2017-05-02T18:37:11Z" changeset="48343640" uid="1834719" user="LvdT">
-    <tag k="ele" v="21"/>
-    <tag k="gfoss_id" v="4071"/>
-    <tag k="name" v="Mordano"/>
-    <tag k="name:rgn" v="Murdèn"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4725"/>
-    <tag k="postal_code" v="40027"/>
-    <tag k="ref:ISTAT" v="037045"/>
-    <tag k="ref:catasto" v="F718"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://mordano.provincia.bologna.it/"/>
-    <tag k="wikidata" v="Q94973"/>
-    <tag k="wikipedia" v="it:Mordano"/>
   </node>
   <node id="69300237" lat="44.8824077" lon="11.9793488" version="10" timestamp="2024-07-19T07:25:37Z" changeset="154130468" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="-1"/>

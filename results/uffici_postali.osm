@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-20T02:30:15Z" areas="2024-08-20T01:08:12Z"/>
+<meta osm_base="2024-08-21T02:30:44Z" areas="2024-08-20T20:59:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10649,15 +10649,6 @@
     <tag k="population" v="617"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275570" lat="38.3869584" lon="16.1081645" version="5" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6791"/>
-    <tag k="name" v="San Giorgio Morgeto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3384"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54647"/>
-    <tag k="wikipedia" v="it:San Giorgio Morgeto"/>
-  </node>
   <node id="67275580" lat="38.0737690" lon="16.0583020" version="3" timestamp="2024-08-02T17:00:10Z" changeset="154745494" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6790"/>
     <tag k="name" v="Samo"/>
@@ -11930,32 +11921,32 @@
     <tag k="wikidata" v="Q20386"/>
     <tag k="wikipedia" v="it:Castel Ritaldi"/>
   </node>
-  <node id="68507577" lat="42.8406290" lon="12.3522723" version="12" timestamp="2024-03-13T23:17:25Z" changeset="148616531" uid="21070803" user="Multinomen">
+  <node id="68507577" lat="42.8406290" lon="12.3522723" version="13" timestamp="2024-08-20T09:10:40Z" changeset="155497998" uid="1211510" user="arcanma">
     <tag k="ele" v="423"/>
     <tag k="gfoss_id" v="49756"/>
     <tag k="istat_id" v="5402910003"/>
     <tag k="name" v="Monte Castello di Vibio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="538"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="495"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.montecastellodivibio.pg.it/"/>
     <tag k="wikidata" v="Q20476"/>
     <tag k="wikipedia" v="it:Monte Castello di Vibio"/>
   </node>
-  <node id="68507581" lat="42.7731370" lon="12.5249660" version="13" timestamp="2024-02-23T16:56:23Z" changeset="147826408" uid="1950277" user="Mannivu">
+  <node id="68507581" lat="42.7731370" lon="12.5249660" version="14" timestamp="2024-08-20T07:58:00Z" changeset="155494979" uid="1211510" user="arcanma">
     <tag k="ele" v="351"/>
     <tag k="gfoss_id" v="49738"/>
     <tag k="istat_id" v="5402810003"/>
     <tag k="name" v="Massa Martana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1221"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1242"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.massamartana.pg.it/"/>
     <tag k="wikidata" v="Q30027350"/>
     <tag k="wikipedia" v="it:Massa Martana"/>
@@ -18280,21 +18271,6 @@
     <tag k="wikipedia" v="it:San Vito (Italia)"/>
     <tag k="wikipedia:sc" v="Santu Idu"/>
   </node>
-  <node id="72991030" lat="39.0918320" lon="8.7164390" version="40" timestamp="2017-03-03T19:53:48Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7457"/>
-    <tag k="name" v="Santadi"/>
-    <tag k="name:it" v="Santadi"/>
-    <tag k="name:sc" v="Santadi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3767"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="ref:LOCODE" v="ITZTH"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.santadi.ci.it"/>
-    <tag k="wikidata" v="Q286671"/>
-    <tag k="wikipedia" v="it:Santadi"/>
-    <tag k="wikipedia:sc" v="Santadi"/>
-  </node>
   <node id="72991035" lat="39.4778583" lon="9.1702544" version="42" timestamp="2023-11-08T15:07:14Z" changeset="143785150" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7458"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
@@ -19886,19 +19862,6 @@
     <tag k="wikipedia" v="it:Cossoine"/>
     <tag k="wikipedia:sc" v="Cossoine"/>
   </node>
-  <node id="72993867" lat="40.7490640" lon="8.8186180" version="41" timestamp="2023-10-30T17:03:48Z" changeset="143377001" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7232"/>
-    <tag k="name" v="Tzaramonte/Chiaramonti"/>
-    <tag k="name:it" v="Chiaramonti"/>
-    <tag k="name:sc" v="Tzaramonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1915"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.chiaramonti.ss.it/"/>
-    <tag k="wikidata" v="Q390682"/>
-    <tag k="wikipedia" v="it:Chiaramonti (Italia)"/>
-    <tag k="wikipedia:sc" v="Tzaramonte"/>
-  </node>
   <node id="72993876" lat="40.7786640" lon="8.8081170" version="41" timestamp="2023-10-30T17:03:38Z" changeset="143376994" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7246"/>
     <tag k="name" v="Maltis/Martis"/>
@@ -19973,22 +19936,6 @@
     <tag k="wikidata" v="Q391142"/>
     <tag k="wikipedia" v="it:Ossi"/>
     <tag k="wikipedia:sc" v="Ossi"/>
-  </node>
-  <node id="72993982" lat="40.8333660" lon="8.8828180" version="41" timestamp="2024-06-30T04:14:59Z" changeset="153354119" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7263"/>
-    <tag k="name" v="Pèifugas/Perfugas"/>
-    <tag k="name:co" v="Pèlfica"/>
-    <tag k="name:it" v="Perfugas"/>
-    <tag k="name:sc" v="Pèifugas"/>
-    <tag k="name:sdc" v="Pèifigga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2488"/>
-    <tag k="postal_code" v="07034"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.perfugas.ss.it/"/>
-    <tag k="wikidata" v="Q391241"/>
-    <tag k="wikipedia" v="it:Perfugas"/>
-    <tag k="wikipedia:sc" v="Pèifugas"/>
   </node>
   <node id="72994022" lat="40.6642620" lon="8.7418170" version="40" timestamp="2017-03-03T19:54:00Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7264"/>
@@ -20478,21 +20425,6 @@
     <tag k="wikidata" v="Q341033"/>
     <tag k="wikipedia" v="it:Telti"/>
     <tag k="wikipedia:sc" v="Telti"/>
-  </node>
-  <node id="72994711" lat="40.7837640" lon="8.7437160" version="41" timestamp="2023-10-28T07:23:05Z" changeset="143245838" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Nuivi"/>
-    <tag k="gfoss_id" v="7253"/>
-    <tag k="name" v="Nujvi/Nulvi"/>
-    <tag k="name:it" v="Nulvi"/>
-    <tag k="name:sc" v="Nujvi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3007"/>
-    <tag k="postal_code" v="07032"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.nulvi.ss.it/"/>
-    <tag k="wikidata" v="Q391122"/>
-    <tag k="wikipedia" v="it:Nulvi"/>
-    <tag k="wikipedia:sc" v="Nujvi"/>
   </node>
   <node id="72994725" lat="40.6515580" lon="8.3802100" version="44" timestamp="2023-10-28T16:38:14Z" changeset="143271604" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7255"/>
