@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-08-27T02:32:29Z" areas="2024-08-26T23:05:52Z"/>
+<meta osm_base="2024-08-28T02:33:59Z" areas="2024-08-27T23:46:48Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -8682,14 +8682,6 @@
     <tag k="wikidata" v="Q1520816"/>
     <tag k="wikipedia" v="it:Campolongo al Torre"/>
   </node>
-  <node id="66503099" lat="45.9270801" lon="13.4021946" version="5" timestamp="2019-05-16T23:53:32Z" changeset="70338353" uid="97922" user="damjang">
-    <tag k="gfoss_id" v="3695"/>
-    <tag k="name" v="Chiopris"/>
-    <tag k="name:fur" v="Cjopris"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="659"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66503104" lat="45.7360238" lon="13.7482449" version="10" timestamp="2021-12-15T23:40:34Z" changeset="114982653" uid="97922" user="damjang">
     <tag k="ele" v="278"/>
     <tag k="name" v="Sgonico / Zgonik"/>
@@ -8700,14 +8692,6 @@
     <tag k="population" v="193"/>
     <tag k="wikidata" v="Q16939"/>
     <tag k="wikipedia" v="sl:Zgonik"/>
-  </node>
-  <node id="66503108" lat="46.0163190" lon="13.1071260" version="6" timestamp="2019-05-16T23:53:32Z" changeset="70338353" uid="97922" user="damjang">
-    <tag k="gfoss_id" v="3680"/>
-    <tag k="name" v="Basiliano"/>
-    <tag k="name:fur" v="Basilian"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4894"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66503121" lat="46.5070351" lon="13.4391249" version="14" timestamp="2019-05-16T23:53:33Z" changeset="70338353" uid="97922" user="damjang">
     <tag k="gfoss_id" v="3725"/>
@@ -8738,14 +8722,6 @@
     <tag k="wikidata" v="Q30022496"/>
     <tag k="wikipedia" v="en:Bagnaria Arsa"/>
   </node>
-  <node id="66503187" lat="46.1735947" lon="13.1879335" version="8" timestamp="2019-05-16T23:53:41Z" changeset="70338353" uid="97922" user="damjang">
-    <tag k="gfoss_id" v="3690"/>
-    <tag k="name" v="Cassacco"/>
-    <tag k="name:fur" v="Cjassà"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2849"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66503191" lat="45.9270160" lon="12.9451240" version="8" timestamp="2023-07-01T14:30:39Z" changeset="137994649" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3686"/>
     <tag k="loc_name:fur" v="Cjamin"/>
@@ -8763,14 +8739,6 @@
     <tag k="name:it" v="Dignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2326"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="66503212" lat="46.5272704" lon="12.9892339" version="5" timestamp="2019-05-16T23:53:48Z" changeset="70338353" uid="97922" user="damjang">
-    <tag k="gfoss_id" v="3693"/>
-    <tag k="name" v="Cercivento"/>
-    <tag k="name:fur" v="Çurçuvint"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="771"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66503253" lat="45.8957977" lon="13.3705873" version="6" timestamp="2019-05-16T23:53:55Z" changeset="70338353" uid="97922" user="damjang">
@@ -12014,7 +11982,7 @@
     <tag k="wikidata" v="Q20529"/>
     <tag k="wikipedia" v="it:Sellano"/>
   </node>
-  <node id="68507796" lat="42.8792351" lon="13.0387461" version="17" timestamp="2023-10-27T00:01:31Z" changeset="143186891" uid="9451067" user="b-jazz-bot">
+  <node id="68507796" lat="42.8792351" lon="13.0387461" version="18" timestamp="2024-08-27T15:02:59Z" changeset="155836612" uid="1211510" user="arcanma">
     <tag k="ele" v="596"/>
     <tag k="gfoss_id" v="50046"/>
     <tag k="istat_id" v="5404315710"/>
@@ -12023,11 +11991,11 @@
     <tag k="name:it" v="Preci"/>
     <tag k="name:uk" v="Пречі"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="292"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="279"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.preci.pg.it/"/>
     <tag k="wikidata" v="Q20516"/>
     <tag k="wikipedia" v="it:Preci"/>
@@ -16728,7 +16696,9 @@
     <tag k="wikimedia_commons" v="Category:Acuto"/>
     <tag k="wikipedia" v="it:Acuto (Italia)"/>
   </node>
-  <node id="72959765" lat="41.7447200" lon="13.1526940" version="6" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
+  <node id="72959765" lat="41.7447200" lon="13.1526940" version="7" timestamp="2024-08-27T11:18:48Z" changeset="155826268" uid="3860151" user="Michele Aquilani">
+    <tag k="contact:facebook" v="https://www.facebook.com/anagni.comunedi"/>
+    <tag k="contact:youtube" v="https://www.youtube.com/channel/UCWGiK1yyWn9BVGX7_QDFtow"/>
     <tag k="gfoss_id" v="5071"/>
     <tag k="name" v="Anagni"/>
     <tag k="place" v="town"/>
