@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-01T02:46:14Z" areas="2024-08-31T22:08:14Z"/>
+<meta osm_base="2024-09-02T02:38:27Z" areas="2024-09-01T22:09:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1119,12 +1119,12 @@
     <tag k="population" v="243"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621785" lat="44.8128540" lon="9.0402560" version="5" timestamp="2023-01-17T19:53:09Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63621785" lat="44.8128540" lon="9.0402560" version="6" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="881"/>
-    <tag k="name" v="Brignano del Curone"/>
+    <tag k="name" v="Brignano-Frascata"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="500"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="423"/>
+    <tag k="wikidata" v="Q17290"/>
   </node>
   <node id="63621838" lat="45.0716520" lon="8.2060330" version="5" timestamp="2023-01-17T20:00:40Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="974"/>
@@ -1163,12 +1163,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026237"/>
   </node>
-  <node id="63622091" lat="44.8384452" lon="9.0353171" version="6" timestamp="2023-01-17T20:05:14Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63622091" lat="44.8384452" lon="9.0353171" version="7" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="955"/>
     <tag k="name" v="Momperone"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="232"/>
+    <tag k="population" v="201"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q17388"/>
   </node>
   <node id="63622144" lat="44.7608500" lon="8.7895510" version="27" timestamp="2024-04-09T12:02:52Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="971"/>
@@ -1218,12 +1219,13 @@
     <tag k="population" v="5820"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622370" lat="44.7858161" lon="9.0646537" version="5" timestamp="2023-01-17T19:58:46Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63622370" lat="44.7858161" lon="9.0646537" version="6" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="1012"/>
     <tag k="name" v="San Sebastiano Curone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="543"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q17664"/>
   </node>
   <node id="63622406" lat="44.5431410" lon="8.3339460" version="5" timestamp="2023-01-17T19:55:26Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="1022"/>

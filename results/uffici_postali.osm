@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-01T02:47:09Z" areas="2024-08-31T22:08:14Z"/>
+<meta osm_base="2024-09-02T02:38:27Z" areas="2024-09-01T22:09:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4197,12 +4197,12 @@
     <tag k="population" v="449"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621785" lat="44.8128540" lon="9.0402560" version="5" timestamp="2023-01-17T19:53:09Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63621785" lat="44.8128540" lon="9.0402560" version="6" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="881"/>
-    <tag k="name" v="Brignano del Curone"/>
+    <tag k="name" v="Brignano-Frascata"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="500"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="423"/>
+    <tag k="wikidata" v="Q17290"/>
   </node>
   <node id="63621838" lat="45.0716520" lon="8.2060330" version="5" timestamp="2023-01-17T20:00:40Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="974"/>
@@ -4220,12 +4220,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029121"/>
   </node>
-  <node id="63621886" lat="44.7849540" lon="9.1475590" version="4" timestamp="2023-01-17T20:00:10Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="924"/>
+  <node id="63621886" lat="44.7849540" lon="9.1475590" version="5" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="Nokse22">
     <tag k="name" v="Fabbrica Curone"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="838"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="570"/>
+    <tag k="wikidata" v="Q17354"/>
   </node>
   <node id="63621890" lat="44.8417760" lon="8.9630083" version="5" timestamp="2023-01-17T19:52:54Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="964"/>
@@ -4358,12 +4357,13 @@
     <tag k="population" v="738"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622091" lat="44.8384452" lon="9.0353171" version="6" timestamp="2023-01-17T20:05:14Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63622091" lat="44.8384452" lon="9.0353171" version="7" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="955"/>
     <tag k="name" v="Momperone"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="232"/>
+    <tag k="population" v="201"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q17388"/>
   </node>
   <node id="63622097" lat="45.1547598" lon="8.1614216" version="5" timestamp="2023-01-17T20:00:07Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="956"/>
@@ -4732,13 +4732,12 @@
     <tag k="population" v="249"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622772" lat="44.7962540" lon="9.1068580" version="5" timestamp="2023-01-17T19:54:55Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63622772" lat="44.7962540" lon="9.1068580" version="7" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="940"/>
     <tag k="name" v="Gremiasco"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="361"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026217"/>
+    <tag k="population" v="280"/>
+    <tag k="wikidata" v="Q17371"/>
   </node>
   <node id="63622805" lat="44.9808509" lon="8.8811063" version="6" timestamp="2024-07-22T10:11:34Z" changeset="154254909" uid="21773986" user="R4ndomUser">
     <tag k="gfoss_id" v="910"/>
