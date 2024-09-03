@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-02T02:41:30Z" areas="2024-09-01T22:09:30Z"/>
+<meta osm_base="2024-09-03T02:37:36Z" areas="2024-09-02T22:46:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1468,7 +1468,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="960"/>
   </node>
-  <node id="62515745" lat="45.0773563" lon="9.2950171" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515745" lat="45.0773563" lon="9.2950171" version="5" timestamp="2024-09-02T11:21:58Z" changeset="156093387" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="2529"/>
     <tag k="name" v="Stradella"/>
     <tag k="place" v="town"/>
@@ -1476,6 +1476,7 @@
     <tag k="postal_code" v="27049"/>
     <tag k="ref:ISTAT" v="018153"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q41036"/>
   </node>
   <node id="62515779" lat="45.0346560" lon="8.7429450" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="ele" v="84"/>
@@ -4014,15 +4015,6 @@
     <tag k="population" v="1412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502794" lat="45.8199807" lon="13.4466863" version="6" timestamp="2016-10-16T13:42:37Z" changeset="42935220" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3832"/>
-    <tag k="name" v="Turriaco"/>
-    <tag k="name:fur" v="Turiac"/>
-    <tag k="name:sl" v="Turjak"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2437"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66502868" lat="45.9881831" lon="12.7067897" version="9" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
     <tag k="gfoss_id" v="7523"/>
     <tag k="name" v="Cordenons"/>
@@ -4699,13 +4691,6 @@
     <tag k="name" v="Ustica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1303"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67256993" lat="37.7474480" lon="13.8278590" version="10" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Valledolmo"/>
-    <tag k="name:scn" v="Vaɖɖilurmu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3168"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67257015" lat="37.9812974" lon="12.5573091" version="32" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
@@ -6384,17 +6369,17 @@
     <tag k="wikidata" v="Q20477"/>
     <tag k="wikipedia" v="it:Monte Santa Maria Tiberina"/>
   </node>
-  <node id="68507824" lat="42.5882078" lon="12.2959357" version="11" timestamp="2017-11-11T15:32:57Z" changeset="53693345" uid="1211510" user="arcanma">
+  <node id="68507824" lat="42.5882078" lon="12.2959357" version="12" timestamp="2024-09-02T10:57:44Z" changeset="156092370" uid="1211510" user="arcanma">
     <tag k="ele" v="251"/>
     <tag k="gfoss_id" v="50439"/>
     <tag k="istat_id" v="5500310001"/>
     <tag k="name" v="Alviano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="388"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="367"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="http://www.comunedialviano.it/"/>
     <tag k="wikidata" v="Q6067"/>
     <tag k="wikipedia" v="it:Alviano"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-02T02:38:27Z" areas="2024-09-01T22:09:30Z"/>
+<meta osm_base="2024-09-03T02:35:25Z" areas="2024-09-03T00:04:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3443,7 +3443,7 @@
     <tag k="ref:ISTAT" v="018145"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515745" lat="45.0773563" lon="9.2950171" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515745" lat="45.0773563" lon="9.2950171" version="5" timestamp="2024-09-02T11:21:58Z" changeset="156093387" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="2529"/>
     <tag k="name" v="Stradella"/>
     <tag k="place" v="town"/>
@@ -3451,6 +3451,7 @@
     <tag k="postal_code" v="27049"/>
     <tag k="ref:ISTAT" v="018153"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q41036"/>
   </node>
   <node id="62515775" lat="45.1496650" lon="9.3345560" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2534"/>
@@ -3805,12 +3806,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2251"/>
   </node>
-  <node id="62516789" lat="44.8235397" lon="9.1969039" version="12" timestamp="2023-06-14T14:27:35Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+  <node id="62516789" lat="44.8235397" lon="9.1969039" version="13" timestamp="2024-09-02T11:21:58Z" changeset="156093387" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="2547"/>
     <tag k="name" v="Varzi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3539"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40474"/>
   </node>
   <node id="62516800" lat="45.1530580" lon="8.6685420" version="10" timestamp="2023-06-14T14:22:39Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="2544"/>
@@ -4161,12 +4163,13 @@
     <tag k="population" v="204"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621689" lat="44.9131769" lon="8.9811563" version="5" timestamp="2023-01-17T19:58:31Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63621689" lat="44.9131769" lon="8.9811563" version="6" timestamp="2024-09-02T11:07:50Z" changeset="156092747" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="897"/>
     <tag k="name" v="Casalnoceto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="877"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q17316"/>
   </node>
   <node id="63621696" lat="44.8283471" lon="9.0058111" version="5" timestamp="2023-01-17T20:04:29Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="898"/>
@@ -4634,12 +4637,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031868"/>
   </node>
-  <node id="63622653" lat="44.8903753" lon="8.9823003" version="6" timestamp="2023-01-17T20:01:33Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="1045"/>
+  <node id="63622653" lat="44.8903753" lon="8.9823003" version="7" timestamp="2024-09-02T11:07:50Z" changeset="156092747" uid="13857163" user="Nokse22">
     <tag k="name" v="Volpedo"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1191"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="1150"/>
+    <tag k="wikidata" v="Q17701"/>
   </node>
   <node id="63622667" lat="44.8287390" lon="8.4712989" version="6" timestamp="2023-01-17T20:02:29Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="888"/>
@@ -4668,12 +4670,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="92"/>
   </node>
-  <node id="63622703" lat="44.9057264" lon="8.9482890" version="6" timestamp="2023-01-17T20:00:32Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63622703" lat="44.9057264" lon="8.9482890" version="7" timestamp="2024-09-02T11:07:50Z" changeset="156092747" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="903"/>
     <tag k="name" v="Castellar Guidobono"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="402"/>
+    <tag k="population" v="401"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q17326"/>
   </node>
   <node id="63622710" lat="44.6615176" lon="8.3695254" version="5" timestamp="2023-01-17T19:53:42Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="874"/>
@@ -4801,12 +4804,11 @@
     <tag k="ref:ISTAT" v="006086"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63623011" lat="44.8870659" lon="8.9802506" version="5" timestamp="2023-01-17T19:56:39Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="958"/>
+  <node id="63623011" lat="44.8870659" lon="8.9802506" version="6" timestamp="2024-09-02T11:07:50Z" changeset="156092747" uid="13857163" user="Nokse22">
     <tag k="name" v="Monleale"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="634"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="562"/>
+    <tag k="wikidata" v="Q17392"/>
   </node>
   <node id="63623016" lat="44.5187975" lon="8.2980764" version="5" timestamp="2023-01-17T20:06:47Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="950"/>
@@ -11873,17 +11875,17 @@
     <tag k="wikidata" v="Q30027350"/>
     <tag k="wikipedia" v="it:Massa Martana"/>
   </node>
-  <node id="68507634" lat="43.2068477" lon="12.0746146" version="13" timestamp="2023-11-11T00:22:59Z" changeset="143883710" uid="9451067" user="b-jazz-bot">
+  <node id="68507634" lat="43.2068477" lon="12.0746146" version="14" timestamp="2024-09-02T09:22:21Z" changeset="156088249" uid="1211510" user="arcanma">
     <tag k="ele" v="309"/>
     <tag k="gfoss_id" v="50352"/>
     <tag k="istat_id" v="5405510002"/>
     <tag k="name" v="Tuoro sul Trasimeno"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2306"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="2223"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.tuoro-sul-trasimeno.pg.it/"/>
     <tag k="wikidata" v="Q20623"/>
     <tag k="wikipedia" v="it:Tuoro sul Trasimeno"/>
@@ -11904,17 +11906,17 @@
     <tag k="wikidata" v="Q20143"/>
     <tag k="wikipedia" v="it:Bettona"/>
   </node>
-  <node id="68507671" lat="43.0582825" lon="12.7546565" version="12" timestamp="2023-10-26T23:56:14Z" changeset="143186696" uid="9451067" user="b-jazz-bot">
+  <node id="68507671" lat="43.0582825" lon="12.7546565" version="13" timestamp="2024-09-02T10:24:42Z" changeset="156090942" uid="1211510" user="arcanma">
     <tag k="ele" v="360"/>
     <tag k="gfoss_id" v="50410"/>
     <tag k="istat_id" v="5405910003"/>
     <tag k="name" v="Valtopina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="714"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="611"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.valtopina.pg.it/"/>
     <tag k="wikidata" v="Q20708"/>
     <tag k="wikipedia" v="it:Valtopina"/>
@@ -11983,64 +11985,64 @@
     <tag k="wikidata" v="Q20516"/>
     <tag k="wikipedia" v="it:Preci"/>
   </node>
-  <node id="68507802" lat="42.7546212" lon="12.8637598" version="15" timestamp="2023-10-27T00:08:38Z" changeset="143187111" uid="9451067" user="b-jazz-bot">
+  <node id="68507802" lat="42.7546212" lon="12.8637598" version="16" timestamp="2024-09-02T10:05:31Z" changeset="156090057" uid="1211510" user="arcanma">
     <tag k="ele" v="470"/>
     <tag k="gfoss_id" v="50398"/>
     <tag k="istat_id" v="5405810003"/>
     <tag k="name" v="Vallo di Nera"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="81"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="113"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://comune.vallodinera.pg.it/"/>
     <tag k="wikidata" v="Q20705"/>
     <tag k="wikipedia" v="it:Vallo di Nera"/>
   </node>
-  <node id="68507816" lat="42.5834330" lon="12.7698649" version="15" timestamp="2023-10-27T00:00:42Z" changeset="143186862" uid="9451067" user="b-jazz-bot">
+  <node id="68507816" lat="42.5834330" lon="12.7698649" version="16" timestamp="2024-09-02T14:33:25Z" changeset="156102082" uid="1211510" user="arcanma">
     <tag k="ele" v="243"/>
     <tag k="gfoss_id" v="50464"/>
     <tag k="istat_id" v="5500510001"/>
     <tag k="name" v="Arrone"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1520"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1349"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="ref:LOCODE" v="ITZCM"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.arrone.terni.it/"/>
     <tag k="wikidata" v="Q6248"/>
     <tag k="wikipedia" v="it:Arrone"/>
   </node>
-  <node id="68507824" lat="42.5882078" lon="12.2959357" version="11" timestamp="2017-11-11T15:32:57Z" changeset="53693345" uid="1211510" user="arcanma">
+  <node id="68507824" lat="42.5882078" lon="12.2959357" version="12" timestamp="2024-09-02T10:57:44Z" changeset="156092370" uid="1211510" user="arcanma">
     <tag k="ele" v="251"/>
     <tag k="gfoss_id" v="50439"/>
     <tag k="istat_id" v="5500310001"/>
     <tag k="name" v="Alviano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="388"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="367"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="http://www.comunedialviano.it/"/>
     <tag k="wikidata" v="Q6067"/>
     <tag k="wikipedia" v="it:Alviano"/>
   </node>
-  <node id="68507825" lat="42.6911725" lon="12.5464506" version="15" timestamp="2023-11-05T20:34:44Z" changeset="143665361" uid="9451067" user="b-jazz-bot">
+  <node id="68507825" lat="42.6911725" lon="12.5464506" version="16" timestamp="2024-09-02T10:40:16Z" changeset="156091690" uid="1211510" user="arcanma">
     <tag k="ele" v="320"/>
     <tag k="gfoss_id" v="50428"/>
     <tag k="istat_id" v="5500110001"/>
     <tag k="name" v="Acquasparta"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3161"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="2907"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="ref:LOCODE" v="ITACS"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.acquasparta.tr.it/"/>
     <tag k="wikidata" v="Q6029"/>
     <tag k="wikimedia_commons" v="Category:Acquasparta"/>
@@ -12092,32 +12094,32 @@
     <tag k="wikidata" v="Q10852"/>
     <tag k="wikipedia" v="it:Montefranco"/>
   </node>
-  <node id="68507849" lat="42.4031242" lon="12.5674320" version="11" timestamp="2023-11-03T04:36:50Z" changeset="143557148" uid="9451067" user="b-jazz-bot">
+  <node id="68507849" lat="42.4031242" lon="12.5674320" version="13" timestamp="2024-09-02T15:14:36Z" changeset="156103792" uid="1211510" user="arcanma">
     <tag k="ele" v="401"/>
     <tag k="gfoss_id" v="50505"/>
     <tag k="istat_id" v="5500810001"/>
     <tag k="name" v="Calvi dell'Umbria"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="548"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="472"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.calvidellumbria.tr.it/"/>
     <tag k="wikidata" v="Q6321"/>
     <tag k="wikipedia" v="it:Calvi dell'Umbria"/>
   </node>
-  <node id="68507850" lat="42.7078943" lon="11.9793909" version="12" timestamp="2024-06-23T05:30:10Z" changeset="153053293" uid="9451067" user="b-jazz-bot">
+  <node id="68507850" lat="42.7078943" lon="11.9793909" version="13" timestamp="2024-09-02T15:12:58Z" changeset="156103737" uid="1211510" user="arcanma">
     <tag k="ele" v="559"/>
     <tag k="gfoss_id" v="50515"/>
     <tag k="istat_id" v="5500910003"/>
     <tag k="name" v="Castel Giorgio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1652"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1534"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.castelgiorgio.tr.it/"/>
     <tag k="wikidata" v="Q6340"/>
     <tag k="wikipedia" v="it:Castel Giorgio"/>
@@ -12139,17 +12141,17 @@
     <tag k="wikimedia_commons" v="Category:San Gemini"/>
     <tag k="wikipedia" v="it:San Gemini"/>
   </node>
-  <node id="68507870" lat="42.8120330" lon="11.9730530" version="11" timestamp="2023-11-08T10:34:47Z" changeset="143773413" uid="9451067" user="b-jazz-bot">
+  <node id="68507870" lat="42.8120330" lon="11.9730530" version="12" timestamp="2024-09-02T10:47:03Z" changeset="156091957" uid="1211510" user="arcanma">
     <tag k="ele" v="472"/>
     <tag k="gfoss_id" v="50435"/>
     <tag k="istat_id" v="5500210001"/>
     <tag k="name" v="Allerona"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="388"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="309"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.allerona.tr.it/"/>
     <tag k="wikidata" v="Q6052"/>
     <tag k="wikipedia" v="it:Allerona"/>
@@ -17558,6 +17560,17 @@
     <tag k="wikimedia_commons" v="Category:Pisoniano"/>
     <tag k="wikipedia" v="it:Pisoniano"/>
   </node>
+  <node id="72962907" lat="42.0947174" lon="12.9093645" version="7" timestamp="2024-02-01T09:23:07Z" changeset="146937492" uid="3860151" user="Michele Aquilani">
+    <tag k="gfoss_id" v="4987"/>
+    <tag k="name" v="Percile"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="216"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.percilecomune.it/"/>
+    <tag k="wikidata" v="Q243148"/>
+    <tag k="wikimedia_commons" v="Category:Percile"/>
+    <tag k="wikipedia" v="it:Percile"/>
+  </node>
   <node id="72962927" lat="41.8606210" lon="13.0330900" version="4" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4984"/>
     <tag k="name" v="Olevano Romano"/>
@@ -21409,17 +21422,17 @@
     <tag k="population" v="965"/>
     <tag k="population:date" v="2022-12-31"/>
   </node>
-  <node id="5035076874" lat="42.5143337" lon="12.2925076" version="4" timestamp="2023-11-05T09:55:04Z" changeset="143642562" uid="3860151" user="Michele Aquilani">
+  <node id="5035076874" lat="42.5143337" lon="12.2925076" version="5" timestamp="2024-09-02T14:37:54Z" changeset="156102252" uid="1211510" user="arcanma">
     <tag k="ele" v="95"/>
     <tag k="gfoss_id" v="50476"/>
     <tag k="istat_id" v="5500610001"/>
     <tag k="name" v="Attigliano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1754"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1844"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="http://www.comunediattigliano.gov.it/"/>
     <tag k="wikidata" v="Q6265"/>
     <tag k="wikimedia_commons" v="Category:Attigliano"/>

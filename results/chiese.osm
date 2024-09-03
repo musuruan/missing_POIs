@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-02T02:39:28Z" areas="2024-09-01T22:09:30Z"/>
+<meta osm_base="2024-09-03T02:35:25Z" areas="2024-09-02T22:46:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -852,12 +852,13 @@
     <tag k="population" v="1858"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622703" lat="44.9057264" lon="8.9482890" version="6" timestamp="2023-01-17T20:00:32Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63622703" lat="44.9057264" lon="8.9482890" version="7" timestamp="2024-09-02T11:07:50Z" changeset="156092747" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="903"/>
     <tag k="name" v="Castellar Guidobono"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="402"/>
+    <tag k="population" v="401"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q17326"/>
   </node>
   <node id="63622772" lat="44.7962540" lon="9.1068580" version="7" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="Nokse22">
     <tag k="gfoss_id" v="940"/>
@@ -3983,32 +3984,32 @@
     <tag k="wikidata" v="Q10852"/>
     <tag k="wikipedia" v="it:Montefranco"/>
   </node>
-  <node id="68507849" lat="42.4031242" lon="12.5674320" version="11" timestamp="2023-11-03T04:36:50Z" changeset="143557148" uid="9451067" user="b-jazz-bot">
+  <node id="68507849" lat="42.4031242" lon="12.5674320" version="13" timestamp="2024-09-02T15:14:36Z" changeset="156103792" uid="1211510" user="arcanma">
     <tag k="ele" v="401"/>
     <tag k="gfoss_id" v="50505"/>
     <tag k="istat_id" v="5500810001"/>
     <tag k="name" v="Calvi dell'Umbria"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="548"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="472"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.calvidellumbria.tr.it/"/>
     <tag k="wikidata" v="Q6321"/>
     <tag k="wikipedia" v="it:Calvi dell'Umbria"/>
   </node>
-  <node id="68507850" lat="42.7078943" lon="11.9793909" version="12" timestamp="2024-06-23T05:30:10Z" changeset="153053293" uid="9451067" user="b-jazz-bot">
+  <node id="68507850" lat="42.7078943" lon="11.9793909" version="13" timestamp="2024-09-02T15:12:58Z" changeset="156103737" uid="1211510" user="arcanma">
     <tag k="ele" v="559"/>
     <tag k="gfoss_id" v="50515"/>
     <tag k="istat_id" v="5500910003"/>
     <tag k="name" v="Castel Giorgio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1652"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1534"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.castelgiorgio.tr.it/"/>
     <tag k="wikidata" v="Q6340"/>
     <tag k="wikipedia" v="it:Castel Giorgio"/>
@@ -8281,17 +8282,17 @@
     <tag k="reg_name:el-it" v="Richùdi"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="5035076874" lat="42.5143337" lon="12.2925076" version="4" timestamp="2023-11-05T09:55:04Z" changeset="143642562" uid="3860151" user="Michele Aquilani">
+  <node id="5035076874" lat="42.5143337" lon="12.2925076" version="5" timestamp="2024-09-02T14:37:54Z" changeset="156102252" uid="1211510" user="arcanma">
     <tag k="ele" v="95"/>
     <tag k="gfoss_id" v="50476"/>
     <tag k="istat_id" v="5500610001"/>
     <tag k="name" v="Attigliano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1754"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1844"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="http://www.comunediattigliano.gov.it/"/>
     <tag k="wikidata" v="Q6265"/>
     <tag k="wikimedia_commons" v="Category:Attigliano"/>
