@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-03T02:37:36Z" areas="2024-09-02T22:46:44Z"/>
+<meta osm_base="2024-09-04T02:39:00Z" areas="2024-09-03T23:25:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -5632,13 +5632,6 @@
     <tag k="population" v="2325"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275650" lat="38.3150434" lon="16.1997834" version="3" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6740"/>
-    <tag k="name" v="Canolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="957"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275660" lat="38.1836690" lon="15.7230940" version="2" timestamp="2016-08-28T18:58:14Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6736"/>
     <tag k="name" v="Calanna"/>
@@ -5697,16 +5690,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="964"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275856" lat="38.4831702" lon="15.9162707" version="5" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6817"/>
-    <tag k="name" v="San Ferdinando"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4339"/>
-    <tag k="postal_code" v="89026"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54646"/>
-    <tag k="wikipedia" v="it:San Ferdinando (Italia)"/>
   </node>
   <node id="67275890" lat="38.1725690" lon="15.7577950" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6800"/>
@@ -6384,48 +6367,48 @@
     <tag k="wikidata" v="Q6067"/>
     <tag k="wikipedia" v="it:Alviano"/>
   </node>
-  <node id="68507833" lat="42.5094100" lon="12.3247903" version="13" timestamp="2023-12-06T12:21:50Z" changeset="144826642" uid="3860151" user="Michele Aquilani">
+  <node id="68507833" lat="42.5094100" lon="12.3247903" version="14" timestamp="2024-09-03T14:10:57Z" changeset="156144683" uid="1211510" user="arcanma">
     <tag k="ele" v="292"/>
     <tag k="gfoss_id" v="50563"/>
     <tag k="istat_id" v="5501410001"/>
     <tag k="name" v="Giove"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1238"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1148"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.giove.tr.it/"/>
     <tag k="wikidata" v="Q10799"/>
     <tag k="wikimedia_commons" v="Category:Giove (Italy)"/>
     <tag k="wikipedia" v="it:Giove (Italia)"/>
   </node>
-  <node id="68507841" lat="42.5977353" lon="12.7652595" version="16" timestamp="2023-10-26T23:59:28Z" changeset="143186798" uid="9451067" user="b-jazz-bot">
+  <node id="68507841" lat="42.5977353" lon="12.7652595" version="17" timestamp="2024-09-03T15:52:04Z" changeset="156148763" uid="1211510" user="arcanma">
     <tag k="ele" v="375"/>
     <tag k="gfoss_id" v="50605"/>
     <tag k="istat_id" v="5501910002"/>
     <tag k="name" v="Montefranco"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="573"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="467"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.montefranco.tr.it/"/>
     <tag k="wikidata" v="Q10852"/>
     <tag k="wikipedia" v="it:Montefranco"/>
   </node>
-  <node id="68507874" lat="42.9210065" lon="12.0923641" version="12" timestamp="2023-11-06T20:19:41Z" changeset="143708843" uid="9451067" user="b-jazz-bot">
+  <node id="68507874" lat="42.9210065" lon="12.0923641" version="13" timestamp="2024-09-03T15:54:43Z" changeset="156148868" uid="1211510" user="arcanma">
     <tag k="ele" v="594"/>
     <tag k="gfoss_id" v="50612"/>
     <tag k="istat_id" v="5502010003"/>
     <tag k="name" v="Montegabbione"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="628"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="579"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://comune.montegabbione.tr.it/"/>
     <tag k="wikidata" v="Q10858"/>
     <tag k="wikipedia" v="it:Montegabbione"/>
