@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-04T02:35:51Z" areas="2024-09-03T23:25:13Z"/>
+<meta osm_base="2024-09-05T02:37:28Z" areas="2024-09-05T00:29:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -10691,12 +10691,13 @@
     <tag k="population" v="2354"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275784" lat="38.5932800" lon="16.2319010" version="2" timestamp="2016-08-28T18:58:49Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275784" lat="38.5923811" lon="16.2314375" version="3" timestamp="2024-09-04T15:18:34Z" changeset="156192319" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="8013"/>
     <tag k="name" v="Sorianello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1589"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030822"/>
   </node>
   <node id="67275786" lat="38.6120751" lon="16.3351311" version="4" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="8012"/>
@@ -10811,14 +10812,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54723"/>
     <tag k="wikipedia" v="it:Nardodipace"/>
-  </node>
-  <node id="67276083" lat="38.6017640" lon="16.3415060" version="3" timestamp="2024-08-24T10:18:46Z" changeset="155688126" uid="18785499" user="DaveMzp">
-    <tag k="gfoss_id" v="7978"/>
-    <tag k="name" v="Brognaturo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="766"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023170"/>
   </node>
   <node id="67276147" lat="38.4870780" lon="16.3010030" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="7984"/>
@@ -12114,18 +12107,18 @@
     <tag k="wikidata" v="Q6340"/>
     <tag k="wikipedia" v="it:Castel Giorgio"/>
   </node>
-  <node id="68507858" lat="42.6127014" lon="12.5465047" version="18" timestamp="2024-06-23T05:29:39Z" changeset="153053280" uid="9451067" user="b-jazz-bot">
+  <node id="68507858" lat="42.6127014" lon="12.5465047" version="19" timestamp="2024-09-04T15:40:10Z" changeset="156193278" uid="1211510" user="arcanma">
     <tag k="ele" v="337"/>
     <tag k="gfoss_id" v="50749"/>
     <tag k="istat_id" v="5502910002"/>
     <tag k="name" v="San Gemini"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3375"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="3239"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="ref:LOCODE" v="ITGMN"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://comune.sangemini.tr.it/home.php"/>
     <tag k="wikidata" v="Q10895"/>
     <tag k="wikimedia_commons" v="Category:San Gemini"/>
@@ -12176,17 +12169,17 @@
     <tag k="wikidata" v="Q10862"/>
     <tag k="wikipedia" v="it:Monteleone d'Orvieto"/>
   </node>
-  <node id="68507883" lat="42.8640128" lon="12.1067372" version="15" timestamp="2023-11-08T10:34:50Z" changeset="143773413" uid="9451067" user="b-jazz-bot">
+  <node id="68507883" lat="42.8640128" lon="12.1067372" version="16" timestamp="2024-09-04T15:22:44Z" changeset="156192501" uid="1211510" user="arcanma">
     <tag k="ele" v="441"/>
     <tag k="gfoss_id" v="50735"/>
     <tag k="istat_id" v="5502510002"/>
     <tag k="name" v="Parrano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="334"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="268"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.parrano.tr.it/"/>
     <tag k="wikidata" v="Q10877"/>
     <tag k="wikipedia" v="it:Parrano"/>
@@ -12207,18 +12200,18 @@
     <tag k="wikimedia_commons" v="Category:Lugnano in Teverina"/>
     <tag k="wikipedia" v="it:Lugnano in Teverina"/>
   </node>
-  <node id="68507898" lat="42.4230234" lon="12.4776861" version="15" timestamp="2023-11-03T04:36:44Z" changeset="143557148" uid="9451067" user="b-jazz-bot">
+  <node id="68507898" lat="42.4230234" lon="12.4776861" version="16" timestamp="2024-09-04T15:21:10Z" changeset="156192452" uid="1211510" user="arcanma">
     <tag k="ele" v="209"/>
     <tag k="gfoss_id" v="50731"/>
     <tag k="istat_id" v="5502410001"/>
     <tag k="name" v="Otricoli"/>
     <tag k="name:la" v="Ocriculum"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="962"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="884"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.otricoli.tr.it/"/>
     <tag k="wikidata" v="Q10870"/>
     <tag k="wikimedia_commons" v="Category:Otricoli"/>
@@ -12239,17 +12232,17 @@
     <tag k="wikidata" v="Q10814"/>
     <tag k="wikipedia" v="it:Guardea"/>
   </node>
-  <node id="68507931" lat="42.6817096" lon="12.1020615" version="13" timestamp="2023-11-08T12:14:57Z" changeset="143777418" uid="9451067" user="b-jazz-bot">
+  <node id="68507931" lat="42.6817096" lon="12.1020615" version="14" timestamp="2024-09-04T15:36:56Z" changeset="156193122" uid="1211510" user="arcanma">
     <tag k="ele" v="444"/>
     <tag k="gfoss_id" v="50744"/>
     <tag k="istat_id" v="5502810001"/>
     <tag k="name" v="Porano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1624"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1570"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.porano.tr.it/"/>
     <tag k="wikidata" v="Q10888"/>
     <tag k="wikimedia_commons" v="Category:Porano"/>

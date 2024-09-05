@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-04T02:39:00Z" areas="2024-09-03T23:25:13Z"/>
+<meta osm_base="2024-09-05T02:39:28Z" areas="2024-09-05T00:29:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3565,14 +3565,6 @@
     <tag k="population" v="6153"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778641" lat="45.6848725" lon="12.3773466" version="7" timestamp="2023-08-31T08:25:50Z" changeset="140622878" uid="11631067" user="emandt">
-    <tag k="gfoss_id" v="3449"/>
-    <tag k="name" v="San Biagio di Callalta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="12676"/>
-    <tag k="population:date" v="2023-05-31"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778653" lat="45.6017010" lon="12.1652120" version="6" timestamp="2023-08-31T12:46:11Z" changeset="140633985" uid="11631067" user="emandt">
     <tag k="gfoss_id" v="3473"/>
     <tag k="name" v="Zero Branco"/>
@@ -5657,12 +5649,13 @@
     <tag k="wikidata" v="Q54613"/>
     <tag k="wikipedia" v="it:Giffone"/>
   </node>
-  <node id="67275784" lat="38.5932800" lon="16.2319010" version="2" timestamp="2016-08-28T18:58:49Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275784" lat="38.5923811" lon="16.2314375" version="3" timestamp="2024-09-04T15:18:34Z" changeset="156192319" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="8013"/>
     <tag k="name" v="Sorianello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1589"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030822"/>
   </node>
   <node id="67275786" lat="38.6120751" lon="16.3351311" version="4" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="8012"/>
@@ -6413,17 +6406,17 @@
     <tag k="wikidata" v="Q10858"/>
     <tag k="wikipedia" v="it:Montegabbione"/>
   </node>
-  <node id="68507919" lat="42.5848236" lon="12.8428018" version="14" timestamp="2017-11-11T17:07:54Z" changeset="53695556" uid="1211510" user="arcanma">
+  <node id="68507919" lat="42.5848236" lon="12.8428018" version="15" timestamp="2024-09-04T15:27:51Z" changeset="156192721" uid="1211510" user="arcanma">
     <tag k="ele" v="836"/>
     <tag k="gfoss_id" v="50741"/>
     <tag k="istat_id" v="5502710001"/>
     <tag k="name" v="Polino"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="207"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="159"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="http://www.comune.polino.tr.it/"/>
     <tag k="wikidata" v="Q10882"/>
     <tag k="wikipedia" v="it:Polino"/>

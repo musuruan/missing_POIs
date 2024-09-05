@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-04T02:40:01Z" areas="2024-09-03T23:25:13Z"/>
+<meta osm_base="2024-09-05T02:40:30Z" areas="2024-09-05T00:29:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -12390,12 +12390,13 @@
     <tag k="wikidata" v="Q54713"/>
     <tag k="wikipedia" v="it:Gerocarne"/>
   </node>
-  <node id="67275784" lat="38.5932800" lon="16.2319010" version="2" timestamp="2016-08-28T18:58:49Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275784" lat="38.5923811" lon="16.2314375" version="3" timestamp="2024-09-04T15:18:34Z" changeset="156192319" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="8013"/>
     <tag k="name" v="Sorianello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1589"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030822"/>
   </node>
   <node id="67275786" lat="38.6120751" lon="16.3351311" version="4" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="8012"/>
@@ -13986,18 +13987,18 @@
     <tag k="wikidata" v="Q6340"/>
     <tag k="wikipedia" v="it:Castel Giorgio"/>
   </node>
-  <node id="68507862" lat="42.8693370" lon="12.2698590" version="12" timestamp="2019-03-20T10:45:53Z" changeset="68329681" uid="9451067" user="b-jazz-bot">
+  <node id="68507862" lat="42.8693370" lon="12.2698590" version="13" timestamp="2024-09-04T15:44:40Z" changeset="156193465" uid="1211510" user="arcanma">
     <tag k="ele" v="465"/>
     <tag k="gfoss_id" v="50760"/>
     <tag k="istat_id" v="5503010007"/>
     <tag k="name" v="San Venanzo"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="980"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="892"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="ref:LOCODE" v="ITNNZ"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.sanvenanzo.tr.it/"/>
     <tag k="wikidata" v="Q10901"/>
     <tag k="wikipedia" v="it:San Venanzo"/>
@@ -14032,17 +14033,17 @@
     <tag k="wikidata" v="Q10858"/>
     <tag k="wikipedia" v="it:Montegabbione"/>
   </node>
-  <node id="68507883" lat="42.8640128" lon="12.1067372" version="15" timestamp="2023-11-08T10:34:50Z" changeset="143773413" uid="9451067" user="b-jazz-bot">
+  <node id="68507883" lat="42.8640128" lon="12.1067372" version="16" timestamp="2024-09-04T15:22:44Z" changeset="156192501" uid="1211510" user="arcanma">
     <tag k="ele" v="441"/>
     <tag k="gfoss_id" v="50735"/>
     <tag k="istat_id" v="5502510002"/>
     <tag k="name" v="Parrano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="334"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="268"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.parrano.tr.it/"/>
     <tag k="wikidata" v="Q10877"/>
     <tag k="wikipedia" v="it:Parrano"/>
@@ -14079,17 +14080,17 @@
     <tag k="wikimedia_commons" v="Category:Castel Viscardo"/>
     <tag k="wikipedia" v="it:Castel Viscardo"/>
   </node>
-  <node id="68507919" lat="42.5848236" lon="12.8428018" version="14" timestamp="2017-11-11T17:07:54Z" changeset="53695556" uid="1211510" user="arcanma">
+  <node id="68507919" lat="42.5848236" lon="12.8428018" version="15" timestamp="2024-09-04T15:27:51Z" changeset="156192721" uid="1211510" user="arcanma">
     <tag k="ele" v="836"/>
     <tag k="gfoss_id" v="50741"/>
     <tag k="istat_id" v="5502710001"/>
     <tag k="name" v="Polino"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="207"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="159"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="http://www.comune.polino.tr.it/"/>
     <tag k="wikidata" v="Q10882"/>
     <tag k="wikipedia" v="it:Polino"/>
@@ -14109,17 +14110,17 @@
     <tag k="wikidata" v="Q6291"/>
     <tag k="wikipedia" v="it:Avigliano Umbro"/>
   </node>
-  <node id="68507931" lat="42.6817096" lon="12.1020615" version="13" timestamp="2023-11-08T12:14:57Z" changeset="143777418" uid="9451067" user="b-jazz-bot">
+  <node id="68507931" lat="42.6817096" lon="12.1020615" version="14" timestamp="2024-09-04T15:36:56Z" changeset="156193122" uid="1211510" user="arcanma">
     <tag k="ele" v="444"/>
     <tag k="gfoss_id" v="50744"/>
     <tag k="istat_id" v="5502810001"/>
     <tag k="name" v="Porano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1624"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1570"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.porano.tr.it/"/>
     <tag k="wikidata" v="Q10888"/>
     <tag k="wikimedia_commons" v="Category:Porano"/>
@@ -24736,16 +24737,6 @@
     <tag k="name:frp" v="Rèizàn"/>
     <tag k="place" v="village"/>
     <tag k="population" v="563"/>
-    <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
-  <node id="963946611" lat="45.8507653" lon="7.3828659" version="5" timestamp="2023-04-15T23:34:43Z" changeset="134958487" uid="18892689" user="ComitéNosAccents">
-    <tag k="ele" v="1377"/>
-    <tag k="gfoss_id" v="10177"/>
-    <tag k="istat_id" v="704710001"/>
-    <tag k="name" v="Oyace"/>
-    <tag k="name:frp" v="Asse;Iasse;Oyasse"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="81"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
   <node id="987652640" lat="45.3796233" lon="11.2089761" version="7" timestamp="2016-10-09T16:06:37Z" changeset="42757067" uid="743479" user="fayor">
