@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-05T02:40:30Z" areas="2024-09-05T00:29:34Z"/>
+<meta osm_base="2024-09-06T02:40:37Z" areas="2024-09-05T22:56:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -14095,17 +14095,17 @@
     <tag k="wikidata" v="Q10882"/>
     <tag k="wikipedia" v="it:Polino"/>
   </node>
-  <node id="68507926" lat="42.6548340" lon="12.4261650" version="10" timestamp="2017-11-11T15:33:03Z" changeset="53693345" uid="1211510" user="arcanma">
+  <node id="68507926" lat="42.6548340" lon="12.4261650" version="11" timestamp="2024-09-05T11:08:55Z" changeset="156225584" uid="1211510" user="arcanma">
     <tag k="ele" v="441"/>
     <tag k="gfoss_id" v="50866"/>
     <tag k="istat_id" v="5503310001"/>
     <tag k="name" v="Avigliano Umbro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1506"/>
-    <tag k="population:date" v="2011-10-09"/>
+    <tag k="population" v="1407"/>
+    <tag k="population:date" v="2021-12-31"/>
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2011 census"/>
+    <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="http://www.comune.aviglianoumbro.tr.it/"/>
     <tag k="wikidata" v="Q6291"/>
     <tag k="wikipedia" v="it:Avigliano Umbro"/>
@@ -18486,6 +18486,13 @@
     <tag k="name" v="Sassofeltrio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1229"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="70990345" lat="42.2619400" lon="14.3075120" version="2" timestamp="2016-09-07T16:52:16Z" changeset="41983597" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="5912"/>
+    <tag k="name" v="Arielli"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1250"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70990359" lat="41.9189320" lon="14.3044170" version="2" timestamp="2016-09-07T16:52:16Z" changeset="41983597" uid="743479" user="fayor">
