@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-06T02:36:37Z" areas="2024-09-06T01:27:00Z"/>
+<meta osm_base="2024-09-07T02:34:39Z" areas="2024-09-07T00:27:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -502,13 +502,6 @@
     <tag k="population" v="697"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506434" lat="45.7998409" lon="9.8422937" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2023"/>
-    <tag k="name" v="Fiorano al Serio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2996"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62506441" lat="45.6375780" lon="9.5563520" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="2021"/>
@@ -570,13 +563,6 @@
     <tag k="name" v="Fuipiano Valle Imagna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="207"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506570" lat="45.7966425" lon="9.8349553" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2034"/>
-    <tag k="name" v="Gazzaniga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5006"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506577" lat="45.7557840" lon="9.8866570" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -686,13 +672,6 @@
     <tag k="name" v="Barzana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2001"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506776" lat="45.7836703" lon="9.8254604" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="1994"/>
-    <tag k="name" v="Cene"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4166"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506785" lat="45.6250970" lon="9.7616399" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -2383,7 +2362,7 @@
     <tag k="population" v="3540"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512582" lat="46.0178860" lon="9.3449400" version="2" timestamp="2019-12-31T18:21:16Z" changeset="79065815" uid="743479" user="fayor">
+  <node id="62512582" lat="46.0182213" lon="9.3445725" version="3" timestamp="2024-09-06T14:48:51Z" changeset="156279039" uid="2165334" user="Cortix">
     <tag k="gfoss_id" v="7833"/>
     <tag k="name" v="Parlasco"/>
     <tag k="place" v="village"/>
@@ -10684,12 +10663,14 @@
     <tag k="wikidata" v="Q54721"/>
     <tag k="wikipedia" v="it:Mongiana"/>
   </node>
-  <node id="67275760" lat="38.7799264" lon="16.2728427" version="3" timestamp="2023-08-30T11:49:12Z" changeset="140584452" uid="18785499" user="DaveMzp">
+  <node id="67275760" lat="38.7799264" lon="16.2728427" version="4" timestamp="2024-09-06T13:47:52Z" changeset="156276203" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="7988"/>
     <tag k="name" v="Francavilla Angitola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2354"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54710"/>
+    <tag k="wikipedia" v="it:Francavilla Angitola"/>
   </node>
   <node id="67275784" lat="38.5923811" lon="16.2314375" version="3" timestamp="2024-09-04T15:18:34Z" changeset="156192319" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="8013"/>
@@ -10762,14 +10743,14 @@
     <tag k="wikidata" v="Q54660"/>
     <tag k="wikipedia" v="it:Sant'Ilario dello Ionio"/>
   </node>
-  <node id="67275944" lat="38.6274446" lon="16.0559118" version="7" timestamp="2024-07-22T19:37:11Z" changeset="154278376" uid="18063623" user="DomeF">
+  <node id="67275944" lat="38.6274446" lon="16.0559118" version="8" timestamp="2024-09-06T13:47:52Z" changeset="156276203" uid="18785499" user="DaveMzp">
     <tag k="alt_name" v="Ionadi"/>
     <tag k="gfoss_id" v="7991"/>
     <tag k="name" v="Jonadi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2662"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54714"/>
+    <tag k="wikidata" v="Q30026431"/>
     <tag k="wikipedia" v="it:Jonadi"/>
   </node>
   <node id="67275963" lat="38.6922820" lon="16.2896010" version="3" timestamp="2023-09-21T19:40:52Z" changeset="141575181" uid="18785499" user="DaveMzp">
@@ -16718,13 +16699,6 @@
     <tag k="wikidata" v="Q116746"/>
     <tag k="wikimedia_commons" v="Category:Collepardo"/>
     <tag k="wikipedia" v="it:Collepardo"/>
-  </node>
-  <node id="72959877" lat="41.4811575" lon="13.9051132" version="4" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5091"/>
-    <tag k="name" v="Cervaro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7022"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72959911" lat="41.5051180" lon="13.5238060" version="5" timestamp="2023-09-22T08:51:40Z" changeset="141594022" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5097"/>

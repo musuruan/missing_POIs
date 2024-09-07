@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-06T02:40:37Z" areas="2024-09-05T22:56:18Z"/>
+<meta osm_base="2024-09-07T02:38:42Z" areas="2024-09-06T21:23:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2309,13 +2309,6 @@
     <tag k="name" v="Pescate"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1983"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62512582" lat="46.0178860" lon="9.3449400" version="2" timestamp="2019-12-31T18:21:16Z" changeset="79065815" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7833"/>
-    <tag k="name" v="Parlasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="146"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62512589" lat="45.9517834" lon="9.4421694" version="3" timestamp="2020-04-23T01:17:44Z" changeset="83967115" uid="478872" user="mcheck">
@@ -5361,16 +5354,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="320"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63625550" lat="44.3666330" lon="7.9679410" version="4" timestamp="2023-01-17T19:44:22Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="614"/>
-    <tag k="is_in" v="Cuneo, Piemonte, Italy"/>
-    <tag k="name" v="Mombasiglio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="630"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027631"/>
   </node>
   <node id="63625555" lat="44.6263254" lon="7.3652799" version="6" timestamp="2023-11-28T19:35:15Z" changeset="144562482" uid="2153674" user="achim becker">
     <tag k="gfoss_id" v="610"/>
@@ -12373,12 +12356,14 @@
     <tag k="wikidata" v="Q54721"/>
     <tag k="wikipedia" v="it:Mongiana"/>
   </node>
-  <node id="67275760" lat="38.7799264" lon="16.2728427" version="3" timestamp="2023-08-30T11:49:12Z" changeset="140584452" uid="18785499" user="DaveMzp">
+  <node id="67275760" lat="38.7799264" lon="16.2728427" version="4" timestamp="2024-09-06T13:47:52Z" changeset="156276203" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="7988"/>
     <tag k="name" v="Francavilla Angitola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2354"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54710"/>
+    <tag k="wikipedia" v="it:Francavilla Angitola"/>
   </node>
   <node id="67275769" lat="38.5874778" lon="16.2198133" version="4" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="7990"/>
