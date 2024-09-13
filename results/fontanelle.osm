@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-12T02:40:40Z" areas="2024-09-12T00:39:40Z"/>
+<meta osm_base="2024-09-13T02:41:06Z" areas="2024-09-12T20:59:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -11,13 +11,14 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="48" timestamp="2023-08-21T19:33:26Z" changeset="140197976" uid="19233464" user="secondaryhighway">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="49" timestamp="2024-09-12T21:59:16Z" changeset="156547715" uid="4346095" user="jerome92370">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
     <tag k="name" v="Chamonix-Mont-Blanc"/>
     <tag k="name:frp" v="Shamouni"/>
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
+    <tag k="name:ko" v="샤모니-몽-블렁"/>
     <tag k="name:ru" v="Шамони-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
@@ -4716,12 +4717,6 @@
     <tag k="population" v="3105"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67256974" lat="37.7514745" lon="14.0748265" version="11" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Blufi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="857"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
   <node id="67256988" lat="38.7104559" lon="13.1912999" version="12" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Ustica"/>
     <tag k="place" v="village"/>
@@ -9224,13 +9219,6 @@
     <tag k="name" v="Basciano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2381"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70993746" lat="42.7418470" lon="13.8101950" version="3" timestamp="2016-09-07T17:42:32Z" changeset="41985059" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5821"/>
-    <tag k="name" v="Bellante"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7152"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70993781" lat="42.5291282" lon="13.8012826" version="4" timestamp="2020-07-24T11:18:04Z" changeset="88454453" uid="10124288" user="damianeue">
