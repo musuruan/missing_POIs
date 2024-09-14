@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-13T02:39:56Z" areas="2024-09-12T20:59:44Z"/>
+<meta osm_base="2024-09-14T02:37:22Z" areas="2024-09-13T22:45:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1681,6 +1681,13 @@
     <tag k="name" v="Sanguinetto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3998"/>
+  </node>
+  <node id="64779060" lat="45.7256753" lon="11.6800583" version="3" timestamp="2016-10-08T21:08:50Z" changeset="42742263" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="3261"/>
+    <tag k="name" v="Nove"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4865"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64779142" lat="45.4753396" lon="11.6989495" version="6" timestamp="2017-03-12T14:07:50Z" changeset="46785792" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="3234"/>
@@ -5496,13 +5503,6 @@
     <tag k="name" v="Cuccaro Vetere"/>
     <tag k="place" v="village"/>
     <tag k="population" v="622"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68582095" lat="40.3735070" lon="15.2430580" version="2" timestamp="2016-08-30T01:07:09Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5600"/>
-    <tag k="name" v="Felitto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1393"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68582107" lat="40.7255110" lon="14.8484450" version="2" timestamp="2016-08-30T01:07:08Z" changeset="41791239" uid="743479" user="fayor">
