@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-17T02:16:53Z" areas="2024-09-17T01:06:28Z"/>
+<meta osm_base="2024-09-18T02:37:14Z" areas="2024-09-16T09:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3849,6 +3849,23 @@
     <tag k="place" v="village"/>
     <tag k="population" v="654"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68507585" lat="42.7924117" lon="13.0929279" version="45" timestamp="2024-08-23T15:27:16Z" changeset="155659176" uid="1211510" user="arcanma">
+    <tag k="ele" v="604"/>
+    <tag k="gfoss_id" v="49866"/>
+    <tag k="istat_id" v="5403510010"/>
+    <tag k="name" v="Norcia"/>
+    <tag k="name:it" v="Norcia"/>
+    <tag k="name:ru" v="Норча"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="2728"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
+    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
+    <tag k="source:population" v="Istat 2021 census"/>
+    <tag k="website" v="https://www.comune.norcia.pg.it/"/>
+    <tag k="wikidata" v="Q20494"/>
+    <tag k="wikipedia" v="it:Norcia"/>
   </node>
   <node id="68528687" lat="40.9171260" lon="16.2547740" version="3" timestamp="2016-09-09T00:49:47Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6194"/>
@@ -7920,6 +7937,17 @@
     <tag k="name:it" v="Fontanazzo di sotto"/>
     <tag k="name:lld" v="Fontanac' de Sot"/>
     <tag k="place" v="neighbourhood"/>
+  </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="11" timestamp="2016-10-25T21:33:26Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3048"/>
