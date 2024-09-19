@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-18T02:41:29Z" areas="2024-09-18T01:45:55Z"/>
+<meta osm_base="2024-09-19T02:44:01Z" areas="2024-09-16T09:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7377,13 +7377,6 @@
     <tag k="population" v="936"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778180" lat="45.9835021" lon="11.7577705" version="5" timestamp="2021-08-07T12:59:04Z" changeset="109309736" uid="504502" user="kkklllppp">
-    <tag k="gfoss_id" v="3313"/>
-    <tag k="name" v="Arsiè"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2806"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778195" lat="46.2035747" lon="12.3030549" version="5" timestamp="2020-02-13T12:37:50Z" changeset="80957612" uid="8109808" user="diegomodolo">
     <tag k="gfoss_id" v="3366"/>
     <tag k="name" v="Soverzene"/>
@@ -11662,13 +11655,6 @@
     <tag k="population" v="2470"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274839" lat="39.3108940" lon="16.2920940" version="2" timestamp="2016-08-28T18:58:53Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6640"/>
-    <tag k="name" v="Zumpano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1860"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274856" lat="39.5854000" lon="16.4328940" version="3" timestamp="2018-04-11T23:17:29Z" changeset="58020175" uid="3427222" user="Fastbyte01">
     <tag k="gfoss_id" v="6637"/>
     <tag k="is_in" v="Cosenza, Calabria, Italy"/>
@@ -11782,12 +11768,14 @@
     <tag k="population" v="1583"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274999" lat="39.0801269" lon="16.7895990" version="4" timestamp="2016-08-28T18:58:31Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274999" lat="39.0801269" lon="16.7895990" version="5" timestamp="2024-09-18T11:41:35Z" changeset="156768578" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="7962"/>
     <tag k="name" v="Mesoraca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7125"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54511"/>
+    <tag k="wikipedia" v="it:Mesoraca"/>
   </node>
   <node id="67275002" lat="39.1094105" lon="16.7886538" version="6" timestamp="2016-09-09T00:49:47Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7964"/>
@@ -12501,16 +12489,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54685"/>
     <tag k="wikipedia" v="it:Terranova Sappo Minulio"/>
-  </node>
-  <node id="67275856" lat="38.4833306" lon="15.9163162" version="6" timestamp="2024-09-03T18:05:49Z" changeset="156154046" uid="18785499" user="DaveMzp">
-    <tag k="gfoss_id" v="6817"/>
-    <tag k="name" v="San Ferdinando"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4339"/>
-    <tag k="postal_code" v="89026"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54646"/>
-    <tag k="wikipedia" v="it:San Ferdinando (Italia)"/>
   </node>
   <node id="67275866" lat="38.2553720" lon="15.9704990" version="2" timestamp="2024-07-22T20:32:41Z" changeset="154279978" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6798"/>
@@ -24511,6 +24489,17 @@
     <tag k="population" v="557"/>
     <tag k="wikidata" v="Q1523719"/>
     <tag k="wikipedia" v="it:Giglio Castello"/>
+  </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="283889021" lat="37.6161157" lon="15.0792308" version="19" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Trecastagni"/>

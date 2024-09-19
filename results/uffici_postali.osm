@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-18T02:38:16Z" areas="2024-09-17T20:46:11Z"/>
+<meta osm_base="2024-09-19T02:40:01Z" areas="2024-09-16T09:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -7658,13 +7658,6 @@
     <tag k="population" v="1772"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778180" lat="45.9835021" lon="11.7577705" version="5" timestamp="2021-08-07T12:59:04Z" changeset="109309736" uid="504502" user="kkklllppp">
-    <tag k="gfoss_id" v="3313"/>
-    <tag k="name" v="Arsiè"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2806"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778183" lat="46.0838843" lon="12.0432384" version="4" timestamp="2016-10-13T15:57:13Z" changeset="42872569" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3357"/>
     <tag k="name" v="Santa Giustina"/>
@@ -10864,18 +10857,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54744"/>
     <tag k="wikipedia" v="it:Spadola"/>
-  </node>
-  <node id="67276023" lat="38.4722780" lon="16.3425040" version="6" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="7998"/>
-    <tag k="name" v="Nardodipace"/>
-    <tag k="name:uk" v="Нардодіпаче"/>
-    <tag k="old_postal_code" v="88020"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1477"/>
-    <tag k="postal_code" v="89824"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54723"/>
-    <tag k="wikipedia" v="it:Nardodipace"/>
   </node>
   <node id="67276147" lat="38.4870780" lon="16.3010030" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="7984"/>
@@ -20468,6 +20449,17 @@
     <tag k="name:it" v="Fontanazzo di sotto"/>
     <tag k="name:lld" v="Fontanac' de Sot"/>
     <tag k="place" v="neighbourhood"/>
+  </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="11" timestamp="2016-10-25T21:33:26Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3048"/>
