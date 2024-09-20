@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-19T02:41:59Z" areas="2024-09-18T21:36:54Z"/>
+<meta osm_base="2024-09-20T02:42:24Z" areas="2024-09-16T09:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -9887,27 +9887,6 @@
     <tag k="wikipedia" v="it:Sanluri"/>
     <tag k="wikipedia:sc" v="Seddori"/>
   </node>
-  <node id="72990741" lat="39.8792127" lon="9.5411469" version="77" timestamp="2023-11-09T11:19:43Z" changeset="143817882" uid="25132" user="s141739">
-    <tag k="alt_name" v="Lanusè"/>
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="7333"/>
-    <tag k="int_name" v="Lanusei"/>
-    <tag k="name" v="Lanusè/Lanusei"/>
-    <tag k="name:en" v="Lanusei"/>
-    <tag k="name:it" v="Lanusei"/>
-    <tag k="name:ru" v="Ланузеи"/>
-    <tag k="name:sc" v="Lanusè"/>
-    <tag k="name:zh" v="拉努塞伊"/>
-    <tag k="note" v="ha meno di 10000 abitanti (requisito formale per place=town in Italia), ma è un il centro più importante nella regione geografica (Ogliastra) insieme a Tortolì"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5841"/>
-    <tag k="postal_code" v="08045"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunedilanusei.it/"/>
-    <tag k="wikidata" v="Q13657"/>
-    <tag k="wikipedia" v="it:Lanusei"/>
-    <tag k="wikipedia:sc" v="Lanusèi"/>
-  </node>
   <node id="72990786" lat="39.5217450" lon="9.3818460" version="41" timestamp="2019-03-20T06:23:02Z" changeset="68320549" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Armùnja"/>
     <tag k="gfoss_id" v="7399"/>
@@ -12124,6 +12103,17 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3165"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>
