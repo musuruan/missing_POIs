@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-21T02:38:12Z" areas="2024-09-20T23:31:39Z"/>
+<meta osm_base="2024-09-22T02:46:11Z" areas="2024-09-22T00:02:53Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -9985,13 +9985,6 @@
     <tag k="wikimedia_commons" v="Category:Frascineto"/>
     <tag k="wikipedia" v="it:Frascineto"/>
   </node>
-  <node id="67274535" lat="39.3080930" lon="16.1943920" version="4" timestamp="2016-09-09T00:49:39Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6516"/>
-    <tag k="name" v="Castrolibero"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9894"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274539" lat="39.9924080" lon="16.4775900" version="3" timestamp="2016-09-05T17:33:16Z" changeset="41936675" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6517"/>
     <tag k="name" v="Castroregio"/>
@@ -12515,12 +12508,16 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51940"/>
   </node>
-  <node id="68529089" lat="41.9043440" lon="15.8994530" version="4" timestamp="2023-06-14T22:17:18Z" changeset="137346887" uid="19497998" user="branco-revert">
+  <node id="68529089" lat="41.9043440" lon="15.8994530" version="5" timestamp="2024-09-21T11:26:10Z" changeset="156907626" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6121"/>
     <tag k="name" v="Ischitella"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4562"/>
+    <tag k="population" v="4139"/>
+    <tag k="population:date" v="2022"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51929"/>
+    <tag k="wikipedia" v="it:Ischitella"/>
   </node>
   <node id="68529096" lat="41.3254260" lon="15.1598440" version="2" timestamp="2016-08-27T16:24:05Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6119"/>
@@ -15216,7 +15213,7 @@
     <tag k="population" v="2003"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301283" lat="44.3838426" lon="11.9402173" version="6" timestamp="2016-09-16T15:55:08Z" changeset="42205884" uid="743479" user="fayor">
+  <node id="69301283" lat="44.3846325" lon="11.9423791" version="7" timestamp="2024-09-21T12:42:15Z" changeset="156910403" uid="4022573" user="Lola Fox">
     <tag k="gfoss_id" v="4121"/>
     <tag k="name" v="Cotignola"/>
     <tag k="place" v="village"/>

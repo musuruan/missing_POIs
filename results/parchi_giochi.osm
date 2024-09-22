@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-21T02:41:25Z" areas="2024-09-20T23:31:39Z"/>
+<meta osm_base="2024-09-22T02:50:29Z" areas="2024-09-16T09:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -25,6 +25,21 @@
     <tag k="place" v="town"/>
     <tag k="population" v="8611"/>
     <tag k="postal_code" v="74400"/>
+  </node>
+  <node id="44826837" lat="46.3385847" lon="13.5524190" version="23" timestamp="2023-11-03T16:24:42Z" changeset="143582416" uid="130956" user="celicni">
+    <tag k="alt_name:de" v="Pletz"/>
+    <tag k="name" v="Bovec"/>
+    <tag k="name:de" v="Flitsch"/>
+    <tag k="name:fur" v="Pleç"/>
+    <tag k="name:it" v="Plezzo"/>
+    <tag k="name:ru" v="Бовец"/>
+    <tag k="name:sl" v="Bovec"/>
+    <tag k="name:sr" v="Бовец"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="1600"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="wikidata" v="Q15855"/>
+    <tag k="wikipedia" v="sl:Bovec"/>
   </node>
   <node id="56040271" lat="44.3204868" lon="11.7992579" version="3" timestamp="2016-09-16T15:55:07Z" changeset="42205884" uid="743479" user="fayor">
     <tag k="name" v="Castel Bolognese"/>
@@ -11370,13 +11385,6 @@
     <tag k="wikidata" v="Q53884"/>
     <tag k="wikipedia" v="it:Fuscaldo"/>
   </node>
-  <node id="67274535" lat="39.3080930" lon="16.1943920" version="4" timestamp="2016-09-09T00:49:39Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6516"/>
-    <tag k="name" v="Castrolibero"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9894"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274539" lat="39.9924080" lon="16.4775900" version="3" timestamp="2016-09-05T17:33:16Z" changeset="41936675" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6517"/>
     <tag k="name" v="Castroregio"/>
@@ -14394,12 +14402,16 @@
     <tag k="population" v="11974"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529089" lat="41.9043440" lon="15.8994530" version="4" timestamp="2023-06-14T22:17:18Z" changeset="137346887" uid="19497998" user="branco-revert">
+  <node id="68529089" lat="41.9043440" lon="15.8994530" version="5" timestamp="2024-09-21T11:26:10Z" changeset="156907626" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6121"/>
     <tag k="name" v="Ischitella"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4562"/>
+    <tag k="population" v="4139"/>
+    <tag k="population:date" v="2022"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51929"/>
+    <tag k="wikipedia" v="it:Ischitella"/>
   </node>
   <node id="68529096" lat="41.3254260" lon="15.1598440" version="2" timestamp="2016-08-27T16:24:05Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6119"/>
@@ -24489,6 +24501,17 @@
     <tag k="population" v="557"/>
     <tag k="wikidata" v="Q1523719"/>
     <tag k="wikipedia" v="it:Giglio Castello"/>
+  </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="283889021" lat="37.6161157" lon="15.0792308" version="19" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Trecastagni"/>
