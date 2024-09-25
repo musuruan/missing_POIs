@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-24T02:46:22Z" areas="2024-09-16T09:46:45Z"/>
+<meta osm_base="2024-09-25T02:47:53Z" areas="2024-09-16T09:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -14371,12 +14371,17 @@
     <tag k="population" v="2167"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529053" lat="41.8235505" lon="15.7790862" version="7" timestamp="2023-06-14T22:39:22Z" changeset="137347286" uid="19497998" user="branco-revert">
+  <node id="68529053" lat="41.8284115" lon="15.7735741" version="8" timestamp="2024-09-24T07:59:33Z" changeset="157026559" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6104"/>
     <tag k="name" v="Cagnano Varano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="8617"/>
+    <tag k="population" v="6612"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comunecagnanovarano.fg.it/Home.aspx"/>
+    <tag k="wikidata" v="Q51896"/>
+    <tag k="wikipedia" v="it:Cagnano Varano"/>
   </node>
   <node id="68529058" lat="41.1379250" lon="15.5146540" version="2" timestamp="2016-08-27T16:24:00Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6105"/>
@@ -19623,12 +19628,14 @@
     <tag k="wikimedia_commons" v="Category:Collepardo"/>
     <tag k="wikipedia" v="it:Collepardo"/>
   </node>
-  <node id="72959877" lat="41.4811575" lon="13.9051132" version="4" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72959877" lat="41.4811575" lon="13.9051132" version="5" timestamp="2024-09-24T16:11:15Z" changeset="157047085" uid="21792105" user="96wanderer">
     <tag k="gfoss_id" v="5091"/>
     <tag k="name" v="Cervaro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7022"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q116724"/>
+    <tag k="wikipedia" v="it:Cervaro (comune)"/>
   </node>
   <node id="72959880" lat="41.3463206" lon="13.7796720" version="3" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5095"/>
