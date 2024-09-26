@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-25T02:47:53Z" areas="2024-09-16T09:46:45Z"/>
+<meta osm_base="2024-09-26T02:46:03Z" areas="2024-09-16T09:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -982,15 +982,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q104007"/>
     <tag k="wikipedia" v="it:Cigole"/>
-  </node>
-  <node id="62507553" lat="45.5815203" lon="9.9411725" version="7" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2229"/>
-    <tag k="name" v="Cologne"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7657"/>
-    <tag k="website" v="https://www.tuttitalia.it/lombardia/26-cologne/statistiche/indici-demografici-struttura-popolazione/"/>
-    <tag k="wikidata" v="Q104064"/>
-    <tag k="wikipedia" v="it:Cologne (Italia)"/>
   </node>
   <node id="62507646" lat="45.3073780" lon="10.4146770" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2171"/>
@@ -8041,13 +8032,16 @@
     <tag k="population" v="4846"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778753" lat="45.8258929" lon="12.7855716" version="6" timestamp="2021-03-16T12:00:01Z" changeset="101119399" uid="504502" user="kkklllppp">
+  <node id="64778753" lat="45.8258929" lon="12.7855716" version="7" timestamp="2024-09-25T12:12:53Z" changeset="157079191" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3482"/>
     <tag k="name" v="Cinto Caomaggiore"/>
     <tag k="name:fur" v="Cint"/>
+    <tag k="name:vec" v="Sinto"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3168"/>
+    <tag k="population" v="3179"/>
+    <tag k="population:date" v="2024-04-30"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="64778770" lat="45.3850683" lon="12.0721215" version="8" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3477"/>
