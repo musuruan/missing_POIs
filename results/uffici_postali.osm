@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-09-27T02:43:18Z" areas="2024-09-16T09:46:45Z"/>
+<meta osm_base="2024-09-28T02:40:55Z" areas="2024-09-16T09:46:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -21188,12 +21188,16 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1214"/>
   </node>
-  <node id="2456838345" lat="41.9474300" lon="16.0138829" version="4" timestamp="2023-06-14T22:19:22Z" changeset="137346922" uid="19497998" user="branco-revert">
+  <node id="2456838345" lat="41.9469256" lon="16.0147884" version="5" timestamp="2024-09-27T09:18:46Z" changeset="157161551" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="name" v="Peschici"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4411"/>
+    <tag k="population" v="4277"/>
+    <tag k="population:date" v="2023-01-31"/>
     <tag k="postal_code" v="71010"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="http://www.comune.peschici.fg.it/"/>
+    <tag k="wikidata" v="Q51944"/>
+    <tag k="wikipedia" v="it:Peschici"/>
   </node>
   <node id="2510133545" lat="43.9759077" lon="11.7775267" version="3" timestamp="2021-03-13T14:09:50Z" changeset="100954868" uid="4022573" user="Lola Fox">
     <tag k="name" v="Premilcuore"/>
