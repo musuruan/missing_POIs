@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-05T02:41:24Z" areas="2024-10-04T22:21:59Z"/>
+<meta osm_base="2024-10-06T02:48:37Z" areas="2024-10-05T22:57:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2129,14 +2129,6 @@
     <tag k="name" v="Monticello Brianza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4182"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62511591" lat="45.8981840" lon="9.4234440" version="3" timestamp="2019-10-17T19:13:00Z" changeset="75859145" uid="177389" user="Garmin-User">
-    <tag k="gfoss_id" v="7773"/>
-    <tag k="is_in" v="Lecco, Lombardia, Italy"/>
-    <tag k="name" v="Ballabio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3330"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62511594" lat="45.8462820" lon="9.3582440" version="4" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
@@ -21518,6 +21510,14 @@
     <tag k="name" v="Pizzoni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="974"/>
+  </node>
+  <node id="12224173792" lat="45.8935664" lon="9.4227250" version="2" timestamp="2024-10-05T10:06:29Z" changeset="157493032" uid="69717" user="kaitu">
+    <tag k="alt_name" v="Ballabio Sotto"/>
+    <tag k="name" v="Ballabio Inferiore"/>
+    <tag k="place" v="quarter"/>
+    <tag k="wikidata" v="Q17622199"/>
+    <tag k="wikimedia_commons" v="Category:Ballabio Inferiore"/>
+    <tag k="wikipedia" v="it:Ballabio Inferiore"/>
   </node>
 
 </osm>
