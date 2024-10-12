@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-11T02:46:28Z" areas="2024-10-09T00:21:11Z"/>
+<meta osm_base="2024-10-12T02:43:42Z" areas="2024-10-08T10:29:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -4220,13 +4220,6 @@
     <tag k="population" v="1038"/>
     <tag k="postal_code" v="15040"/>
     <tag k="ref:ISTAT" v="006178"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63622402" lat="45.1290540" lon="8.2832340" version="4" timestamp="2023-01-17T19:55:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="1021"/>
-    <tag k="name" v="Solonghello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="245"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63622406" lat="44.5431410" lon="8.3339460" version="5" timestamp="2023-01-17T19:55:26Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -11688,16 +11681,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1371"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274956" lat="39.3690917" lon="17.1328568" version="8" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="7955"/>
-    <tag k="name" v="Cirò Marina"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14902"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54502"/>
-    <tag k="wikimedia_commons" v="Category:Cirò Marina"/>
-    <tag k="wikipedia" v="it:Cirò Marina"/>
   </node>
   <node id="67274962" lat="39.3063599" lon="16.9737915" version="6" timestamp="2016-09-05T17:23:48Z" changeset="41936483" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="7950"/>
@@ -24427,6 +24410,14 @@
     <tag k="population" v="557"/>
     <tag k="wikidata" v="Q1523719"/>
     <tag k="wikipedia" v="it:Giglio Castello"/>
+  </node>
+  <node id="280982054" lat="43.9464246" lon="12.4191909" version="9" timestamp="2022-02-01T22:30:39Z" changeset="116888121" uid="51179" user="Samuele Battarra">
+    <tag k="name" v="Acquaviva"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2104"/>
+    <tag k="postal_code" v="47892"/>
+    <tag k="wikidata" v="Q206363"/>
+    <tag k="wikipedia" v="it:Acquaviva (San Marino)"/>
   </node>
   <node id="283889021" lat="37.6161157" lon="15.0792308" version="19" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Trecastagni"/>
