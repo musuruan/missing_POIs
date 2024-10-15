@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-14T02:46:30Z" areas="2024-10-09T00:21:11Z"/>
+<meta osm_base="2024-10-15T02:44:11Z" areas="2024-10-08T10:29:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3891,12 +3891,16 @@
     <tag k="population" v="5775"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528891" lat="41.3961280" lon="15.1944440" version="2" timestamp="2016-08-27T16:23:59Z" changeset="41739592" uid="743479" user="fayor">
+  <node id="68528891" lat="41.3961004" lon="15.1944383" version="3" timestamp="2024-10-14T11:00:06Z" changeset="157871055" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6102"/>
     <tag k="name" v="Biccari"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3070"/>
+    <tag k="population" v="2620"/>
+    <tag k="population:date" v="2024-04-30"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51893"/>
+    <tag k="wikipedia" v="it:Biccari"/>
   </node>
   <node id="68528901" lat="41.8442420" lon="15.8561530" version="2" timestamp="2016-08-27T16:24:01Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6108"/>
@@ -5325,19 +5329,6 @@
     <tag k="website" v="https://www.comune.casteldicasio.bo.it/"/>
     <tag k="wikidata" v="Q94745"/>
     <tag k="wikipedia" v="it:Castel di Casio"/>
-  </node>
-  <node id="69300216" lat="44.1591596" lon="10.9723006" version="10" timestamp="2017-05-02T18:11:48Z" changeset="48342986" uid="1834719" user="LvdT">
-    <tag k="ele" v="349"/>
-    <tag k="gfoss_id" v="4778"/>
-    <tag k="name" v="Porretta Terme"/>
-    <tag k="name:egl" v="Puràtta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3632"/>
-    <tag k="postal_code" v="40046"/>
-    <tag k="ref:ISTAT" v="037049"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q94983"/>
-    <tag k="wikipedia" v="it:Porretta Terme"/>
   </node>
   <node id="69300288" lat="44.7945780" lon="11.8018170" version="8" timestamp="2023-11-09T18:12:31Z" changeset="143833874" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="3"/>
