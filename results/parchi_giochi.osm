@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-15T02:49:12Z" areas="2024-10-08T10:29:11Z"/>
+<meta osm_base="2024-10-16T02:50:26Z" areas="2024-10-09T00:21:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -3013,6 +3013,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q42287"/>
     <tag k="wikipedia" v="it:San Zenone al Lambro"/>
+  </node>
+  <node id="62514970" lat="45.7351441" lon="9.2726297" version="8" timestamp="2015-08-05T13:15:30Z" changeset="33127800" uid="1008491" user="CapovolgimentoOceanico">
+    <tag k="gfoss_id" v="1912"/>
+    <tag k="name" v="Veduggio"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4249"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515014" lat="45.5449159" lon="8.8129426" version="6" timestamp="2017-04-16T12:55:31Z" changeset="47837657" uid="1476146" user="Alecs01">
     <tag k="gfoss_id" v="1769"/>
@@ -13269,10 +13276,10 @@
     <tag k="population" v="651"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284067" lat="41.7319310" lon="14.6872280" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284067" lat="41.7319310" lon="14.6872280" version="3" timestamp="2024-10-15T22:18:04Z" changeset="157940553" uid="21859044" user="Data 7">
     <tag k="gfoss_id" v="6045"/>
     <tag k="name" v="Lucito"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="hamlet"/>
     <tag k="population" v="959"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
