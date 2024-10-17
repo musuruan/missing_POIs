@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-16T02:46:10Z" areas="2024-10-08T10:29:11Z"/>
+<meta osm_base="2024-10-17T02:43:30Z" areas="2024-10-09T00:21:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -8669,11 +8669,10 @@
     <tag k="population" v="1372"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503054" lat="45.7170889" lon="13.8110685" version="19" timestamp="2021-11-13T17:17:58Z" changeset="113738737" uid="1553347" user="MitjaJez">
+  <node id="66503054" lat="45.7170889" lon="13.8110685" version="20" timestamp="2024-10-16T15:33:21Z" changeset="157970807" uid="97922" user="damjang">
     <tag k="ele" v="418"/>
     <tag k="name" v="Col"/>
-    <tag k="name:it" v="Zolla"/>
-    <tag k="name:sl" v="Col"/>
+    <tag k="old_name:it" v="Zolla"/>
     <tag k="place" v="hamlet"/>
     <tag k="population" v="101"/>
     <tag k="website" v="http://www.monrupino-repentabor.it"/>
@@ -20545,6 +20544,14 @@
     <tag k="name" v="Castelnuovo Cilento"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2732"/>
+  </node>
+  <node id="426694486" lat="45.9974150" lon="13.5273675" version="7" timestamp="2024-01-02T11:33:27Z" changeset="145794172" uid="130956" user="celicni">
+    <tag k="name" v="Dobrovo"/>
+    <tag k="name:it" v="Castel Dobra"/>
+    <tag k="name:sr" v="Доброво"/>
+    <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q2610065"/>
+    <tag k="wikipedia" v="it:Castel Dobra"/>
   </node>
   <node id="437246141" lat="45.5696499" lon="7.1183340" version="6" timestamp="2020-10-19T09:29:50Z" changeset="92695920" uid="1550808" user="marcogino">
     <tag k="ele" v="1722"/>
