@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-20T02:49:40Z" areas="2024-10-08T10:29:11Z"/>
+<meta osm_base="2024-10-21T02:46:56Z" areas="2024-10-09T00:21:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2042,13 +2042,6 @@
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778167" lat="46.2987816" lon="12.0126535" version="7" timestamp="2022-07-25T10:49:59Z" changeset="124046136" uid="1257620" user="Luca_34c">
-    <tag k="gfoss_id" v="3368"/>
-    <tag k="name" v="Taibon Agordino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1772"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778197" lat="46.1427254" lon="12.0749943" version="4" timestamp="2023-06-23T20:52:10Z" changeset="137702934" uid="18984705" user="Giovanni23932393">
     <tag k="gfoss_id" v="3365"/>
     <tag k="name" v="Sospirolo"/>
@@ -3963,13 +3956,16 @@
     <tag k="population" v="2972"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529049" lat="41.5953634" lon="15.1116996" version="4" timestamp="2024-09-26T13:56:33Z" changeset="157130326" uid="69259" user="DnaX">
+  <node id="68529049" lat="41.5953731" lon="15.1117330" version="6" timestamp="2024-10-20T08:47:49Z" changeset="158118491" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6110"/>
     <tag k="name" v="Casalvecchio di Puglia"/>
     <tag k="name:aae" v="Kazallveqi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2167"/>
+    <tag k="population" v="1677"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.casalvecchiodipuglia.fg.it/"/>
     <tag k="wikidata" v="Q51904"/>
     <tag k="wikipedia" v="it:Casalvecchio di Puglia"/>
   </node>

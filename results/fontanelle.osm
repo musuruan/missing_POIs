@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-20T02:53:37Z" areas="2024-10-09T00:21:11Z"/>
+<meta osm_base="2024-10-21T02:49:52Z" areas="2024-10-08T10:29:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -6460,13 +6460,16 @@
     <tag k="population:source" v="https://demo.istat.it/bilmens/index.php?anno=2021&amp;lingua=ita"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529049" lat="41.5953634" lon="15.1116996" version="4" timestamp="2024-09-26T13:56:33Z" changeset="157130326" uid="69259" user="DnaX">
+  <node id="68529049" lat="41.5953731" lon="15.1117330" version="6" timestamp="2024-10-20T08:47:49Z" changeset="158118491" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6110"/>
     <tag k="name" v="Casalvecchio di Puglia"/>
     <tag k="name:aae" v="Kazallveqi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2167"/>
+    <tag k="population" v="1677"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.casalvecchiodipuglia.fg.it/"/>
     <tag k="wikidata" v="Q51904"/>
     <tag k="wikipedia" v="it:Casalvecchio di Puglia"/>
   </node>
@@ -6939,13 +6942,6 @@
     <tag k="name:aae" v="Katundi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="946"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566943" lat="40.9152160" lon="14.9976460" version="2" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5488"/>
-    <tag k="name" v="Montemarano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3043"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68566973" lat="40.9027195" lon="14.5840934" version="3" timestamp="2016-08-31T23:04:15Z" changeset="41838072" uid="743479" user="fayor">
