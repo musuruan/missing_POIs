@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-30T02:43:44Z" areas="2024-10-28T01:00:14Z"/>
+<meta osm_base="2024-10-31T02:46:17Z" areas="2024-10-30T23:04:04Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1004,9 +1004,8 @@
     <tag k="postal_code" v="46037"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513298" lat="44.9755577" lon="11.1146492" version="2" timestamp="2012-05-01T16:44:43Z" changeset="11471749" uid="504502" user="kkklllppp">
+  <node id="62513298" lat="44.9755577" lon="11.1146492" version="3" timestamp="2024-10-30T14:36:04Z" changeset="158544733" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2723"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
     <tag k="name" v="Poggio Rusco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6297"/>
@@ -3916,12 +3915,16 @@
     <tag k="population" v="6333"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528941" lat="41.5617300" lon="14.9788370" version="2" timestamp="2016-08-27T16:24:04Z" changeset="41739592" uid="743479" user="fayor">
+  <node id="68528941" lat="41.5606328" lon="14.9802914" version="3" timestamp="2024-10-30T09:16:53Z" changeset="158531674" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6114"/>
     <tag k="name" v="Celenza Valfortore"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1990"/>
+    <tag k="population" v="1376"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51922"/>
+    <tag k="wikipedia" v="it:Celenza Valfortore"/>
   </node>
   <node id="68528948" lat="41.5082727" lon="15.3376465" version="7" timestamp="2016-10-27T19:20:21Z" changeset="43226654" uid="2511706" user="calfarome">
     <tag k="gfoss_id" v="6124"/>
@@ -3978,12 +3981,16 @@
     <tag k="population" v="758"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529121" lat="41.5248290" lon="15.0059380" version="4" timestamp="2022-01-06T20:05:29Z" changeset="115851819" uid="11220113" user="ivanbranco">
+  <node id="68529121" lat="41.5258065" lon="15.0051913" version="5" timestamp="2024-10-30T08:30:42Z" changeset="158529986" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6144"/>
     <tag k="name" v="San Marco la Catola"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1515"/>
+    <tag k="population" v="876"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51954"/>
+    <tag k="wikipedia" v="it:San Marco la Catola"/>
   </node>
   <node id="68529145" lat="40.1506240" lon="18.3526300" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6265"/>

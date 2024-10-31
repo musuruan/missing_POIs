@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-30T02:51:00Z" areas="2024-10-28T01:00:14Z"/>
+<meta osm_base="2024-10-31T02:50:19Z" areas="2024-10-30T23:04:04Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -2721,9 +2721,8 @@
     <tag k="postal_code" v="46037"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513298" lat="44.9755577" lon="11.1146492" version="2" timestamp="2012-05-01T16:44:43Z" changeset="11471749" uid="504502" user="kkklllppp">
+  <node id="62513298" lat="44.9755577" lon="11.1146492" version="3" timestamp="2024-10-30T14:36:04Z" changeset="158544733" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2723"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
     <tag k="name" v="Poggio Rusco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6297"/>
@@ -14173,12 +14172,16 @@
     <tag k="population" v="1413"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528941" lat="41.5617300" lon="14.9788370" version="2" timestamp="2016-08-27T16:24:04Z" changeset="41739592" uid="743479" user="fayor">
+  <node id="68528941" lat="41.5606328" lon="14.9802914" version="3" timestamp="2024-10-30T09:16:53Z" changeset="158531674" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6114"/>
     <tag k="name" v="Celenza Valfortore"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1990"/>
+    <tag k="population" v="1376"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51922"/>
+    <tag k="wikipedia" v="it:Celenza Valfortore"/>
   </node>
   <node id="68528952" lat="41.8446370" lon="15.1659370" version="4" timestamp="2019-04-26T14:55:12Z" changeset="69604196" uid="8996695" user="Bardhazizi">
     <tag k="gfoss_id" v="6117"/>

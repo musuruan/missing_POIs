@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-30T02:48:58Z" areas="2024-10-28T01:00:14Z"/>
+<meta osm_base="2024-10-31T02:49:15Z" areas="2024-10-28T01:00:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -1045,9 +1045,8 @@
     <tag k="population" v="2049"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513671" lat="45.1447470" lon="11.0302320" version="5" timestamp="2019-10-13T18:23:19Z" changeset="75631406" uid="24126" user="dforsi">
+  <node id="62513671" lat="45.1447470" lon="11.0302320" version="6" timestamp="2024-10-30T08:22:55Z" changeset="158526279" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2749"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
     <tag k="name" v="Villimpenta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2105"/>
@@ -6385,12 +6384,16 @@
     <tag k="population" v="6333"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528941" lat="41.5617300" lon="14.9788370" version="2" timestamp="2016-08-27T16:24:04Z" changeset="41739592" uid="743479" user="fayor">
+  <node id="68528941" lat="41.5606328" lon="14.9802914" version="3" timestamp="2024-10-30T09:16:53Z" changeset="158531674" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6114"/>
     <tag k="name" v="Celenza Valfortore"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1990"/>
+    <tag k="population" v="1376"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51922"/>
+    <tag k="wikipedia" v="it:Celenza Valfortore"/>
   </node>
   <node id="68528955" lat="41.3724270" lon="15.0961420" version="2" timestamp="2016-08-27T16:24:14Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6140"/>
@@ -6472,12 +6475,16 @@
     <tag k="population" v="4117"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529121" lat="41.5248290" lon="15.0059380" version="4" timestamp="2022-01-06T20:05:29Z" changeset="115851819" uid="11220113" user="ivanbranco">
+  <node id="68529121" lat="41.5258065" lon="15.0051913" version="5" timestamp="2024-10-30T08:30:42Z" changeset="158529986" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6144"/>
     <tag k="name" v="San Marco la Catola"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1515"/>
+    <tag k="population" v="876"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51954"/>
+    <tag k="wikipedia" v="it:San Marco la Catola"/>
   </node>
   <node id="68529140" lat="41.1035240" lon="15.4617540" version="2" timestamp="2016-08-27T16:24:14Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6138"/>
@@ -11942,6 +11949,16 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3165"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="275682756" lat="44.0618551" lon="7.6158933" version="13" timestamp="2020-04-28T11:21:42Z" changeset="84262430" uid="4224320" user="oc-OpenStreetMap">
+    <tag k="addr:postcode" v="06430"/>
+    <tag k="name" v="La Brigue"/>
+    <tag k="name:it" v="Briga Marittima"/>
+    <tag k="name:oc" v="La Briga"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="700"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2013"/>
   </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>
