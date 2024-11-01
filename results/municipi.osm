@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-10-31T02:46:17Z" areas="2024-10-30T23:04:04Z"/>
+<meta osm_base="2024-11-01T02:52:59Z" areas="2024-10-28T01:00:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -404,9 +404,8 @@
     <tag k="population" v="3006"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508071" lat="45.6848636" lon="10.4366014" version="3" timestamp="2009-05-20T08:31:49Z" changeset="1259111" uid="121335" user="Cade">
+  <node id="62508071" lat="45.6848636" lon="10.4366014" version="4" timestamp="2024-10-31T06:32:58Z" changeset="158567829" uid="9925732" user="Flight777">
     <tag k="created_by" v="Potlatch 0.7b"/>
-    <tag k="is_in" v="Brescia, Lombardia"/>
     <tag k="name" v="Provaglio Val Sabbia"/>
     <tag k="place" v="village"/>
   </node>
@@ -7922,6 +7921,16 @@
     <tag k="name:it" v="Fontanazzo di sotto"/>
     <tag k="name:lld" v="Fontanac' de Sot"/>
     <tag k="place" v="neighbourhood"/>
+  </node>
+  <node id="275682756" lat="44.0618551" lon="7.6158933" version="13" timestamp="2020-04-28T11:21:42Z" changeset="84262430" uid="4224320" user="oc-OpenStreetMap">
+    <tag k="addr:postcode" v="06430"/>
+    <tag k="name" v="La Brigue"/>
+    <tag k="name:it" v="Briga Marittima"/>
+    <tag k="name:oc" v="La Briga"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="700"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2013"/>
   </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="11" timestamp="2016-10-25T21:33:26Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3048"/>
