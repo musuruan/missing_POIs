@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-05T02:40:21Z" areas="2024-11-04T23:21:44Z"/>
+<meta osm_base="2024-11-06T02:39:38Z" areas="2024-11-06T00:55:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -926,10 +926,9 @@
     <tag k="population" v="1235"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512809" lat="44.9725750" lon="11.0330970" version="1" timestamp="2007-10-10T06:22:52Z" changeset="85182" uid="864" user="Niccolo">
+  <node id="62512809" lat="44.9725750" lon="11.0330970" version="2" timestamp="2024-11-05T16:17:39Z" changeset="158785529" uid="9925732" user="Flight777">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="2737"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
     <tag k="name" v="San Giacomo delle Segnate"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1704"/>
@@ -1433,9 +1432,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030732"/>
   </node>
-  <node id="63625860" lat="44.0833358" lon="7.7491191" version="38" timestamp="2023-06-14T14:27:14Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+  <node id="63625860" lat="44.0833358" lon="7.7491191" version="39" timestamp="2024-11-05T11:13:45Z" changeset="158774660" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="520"/>
     <tag k="name" v="Piaggia"/>
+    <tag k="name:lij" v="A Ciàgia"/>
     <tag k="place" v="hamlet"/>
     <tag k="population" v="62"/>
     <tag k="source" v="geodati.gfoss.it"/>
