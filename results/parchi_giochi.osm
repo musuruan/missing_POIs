@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-06T02:43:49Z" areas="2024-11-06T00:55:33Z"/>
+<meta osm_base="2024-11-07T02:45:26Z" areas="2024-10-28T01:00:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
     <tag k="addr:postcode" v="74170"/>
@@ -14203,12 +14203,17 @@
     <tag k="population" v="976"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529006" lat="41.4772290" lon="15.1242410" version="2" timestamp="2016-08-27T16:24:21Z" changeset="41739592" uid="743479" user="fayor">
+  <node id="68529006" lat="41.4771501" lon="15.1243282" version="3" timestamp="2024-11-06T08:41:44Z" changeset="158807924" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6158"/>
     <tag k="name" v="Volturino"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1992"/>
+    <tag k="population" v="1555"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.volturino.fg.it/volturino/hh/index.php"/>
+    <tag k="wikidata" v="Q51969"/>
+    <tag k="wikipedia" v="it:Volturino"/>
   </node>
   <node id="68529015" lat="41.3588527" lon="16.0874365" version="4" timestamp="2016-09-09T00:49:53Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6153"/>
@@ -14217,12 +14222,17 @@
     <tag k="population" v="14733"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529019" lat="41.4960290" lon="15.0522390" version="2" timestamp="2016-08-27T16:24:21Z" changeset="41739592" uid="743479" user="fayor">
+  <node id="68529019" lat="41.4957884" lon="15.0520334" version="3" timestamp="2024-11-06T09:15:51Z" changeset="158809003" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6157"/>
     <tag k="name" v="Volturara Appula"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="595"/>
+    <tag k="population" v="370"/>
+    <tag k="population:date" v="2023-10-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.volturaraappula.fg.it/"/>
+    <tag k="wikidata" v="Q51968"/>
+    <tag k="wikipedia" v="it:Volturara Appula"/>
   </node>
   <node id="68529024" lat="41.1518240" lon="15.3802510" version="2" timestamp="2016-08-27T16:24:17Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6148"/>
@@ -17492,9 +17502,8 @@
     <tag k="population" v="2645"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301436" lat="44.4675720" lon="11.9602140" version="11" timestamp="2024-07-05T08:05:36Z" changeset="153576452" uid="4022573" user="Lola Fox">
+  <node id="69301436" lat="44.4675720" lon="11.9602140" version="12" timestamp="2024-11-06T06:34:14Z" changeset="158804588" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="4123"/>
-    <tag k="is_in" v="Ravenna, Emilia Romagna, Italy"/>
     <tag k="name" v="Fusignano"/>
     <tag k="old_name" v="Fuscinianus"/>
     <tag k="place" v="village"/>
@@ -24346,6 +24355,16 @@
     <tag k="population" v="557"/>
     <tag k="wikidata" v="Q1523719"/>
     <tag k="wikipedia" v="it:Giglio Castello"/>
+  </node>
+  <node id="275682756" lat="44.0618551" lon="7.6158933" version="13" timestamp="2020-04-28T11:21:42Z" changeset="84262430" uid="4224320" user="oc-OpenStreetMap">
+    <tag k="addr:postcode" v="06430"/>
+    <tag k="name" v="La Brigue"/>
+    <tag k="name:it" v="Briga Marittima"/>
+    <tag k="name:oc" v="La Briga"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="700"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2013"/>
   </node>
   <node id="283889021" lat="37.6161157" lon="15.0792308" version="19" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Trecastagni"/>
