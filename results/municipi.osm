@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-08T02:40:51Z" areas="2024-11-06T10:48:48Z"/>
+<meta osm_base="2024-11-09T02:36:44Z" areas="2024-11-06T10:48:48Z"/>
 
-  <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
+  <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
     <tag k="name" v="Saint-Gervais-les-Bains"/>
     <tag k="name:zh" v="圣热尔韦莱班"/>
     <tag k="place" v="village"/>
+    <tag k="population" v="5602"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="49" timestamp="2024-09-12T21:59:16Z" changeset="156547715" uid="4346095" user="jerome92370">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="50" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -23,8 +26,10 @@
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="8611"/>
+    <tag k="population" v="8642"/>
+    <tag k="population:date" v="2021"/>
     <tag k="postal_code" v="74400"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="61753467" lat="43.9960778" lon="11.3550688" version="5" timestamp="2017-03-11T12:52:26Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="4518"/>
@@ -1953,9 +1958,8 @@
     <tag k="wikidata" v="Q286597"/>
     <tag k="wikipedia" v="it:Fai della Paganella"/>
   </node>
-  <node id="64777047" lat="46.3134726" lon="11.2235011" version="16" timestamp="2020-12-14T17:42:19Z" changeset="95821197" uid="1669056" user="Maurizio Melani (forwalk)">
+  <node id="64777047" lat="46.3134726" lon="11.2235011" version="17" timestamp="2024-11-08T07:21:42Z" changeset="158882826" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2775"/>
-    <tag k="is_in" v="Bolzano - Bozen, Trentino-Südtirol/Alto Adige, Italy"/>
     <tag k="name" v="Kurtatsch an der Weinstraße - Cortaccia sulla Strada del Vino"/>
     <tag k="name:de" v="Kurtatsch an der Weinstraße"/>
     <tag k="name:it" v="Cortaccia sulla Strada del Vino"/>

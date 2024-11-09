@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-08T02:45:59Z" areas="2024-11-06T10:48:48Z"/>
+<meta osm_base="2024-11-09T02:40:43Z" areas="2024-11-06T10:48:48Z"/>
 
-  <node id="26695130" lat="45.8928549" lon="6.7113338" version="14" timestamp="2023-04-24T20:55:25Z" changeset="135318738" uid="4346095" user="jerome92370">
+  <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
     <tag k="name" v="Saint-Gervais-les-Bains"/>
     <tag k="name:zh" v="圣热尔韦莱班"/>
     <tag k="place" v="village"/>
+    <tag k="population" v="5602"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="49" timestamp="2024-09-12T21:59:16Z" changeset="156547715" uid="4346095" user="jerome92370">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="50" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -23,8 +26,10 @@
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="8611"/>
+    <tag k="population" v="8642"/>
+    <tag k="population:date" v="2021"/>
     <tag k="postal_code" v="74400"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="56040271" lat="44.3204868" lon="11.7992579" version="3" timestamp="2016-09-16T15:55:07Z" changeset="42205884" uid="743479" user="fayor">
     <tag k="name" v="Castel Bolognese"/>
@@ -1528,12 +1533,12 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q13100877"/>
   </node>
-  <node id="62510124" lat="46.1711426" lon="9.3514943" version="4" timestamp="2022-03-22T15:14:31Z" changeset="118782907" uid="10901495" user="Martino Scaglione">
+  <node id="62510124" lat="46.1711426" lon="9.3514943" version="5" timestamp="2024-11-08T09:41:32Z" changeset="158888038" uid="9616185" user="LukeDH">
     <tag k="ele" v="430"/>
     <tag k="loc_name" v="Trezzon"/>
     <tag k="loc_name:pronunciation" v="treˈtsõː"/>
     <tag k="name" v="Trezzone"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="hamlet"/>
     <tag k="population" v="100"/>
     <tag k="url" v="http://italia.indettaglio.it/ita/lombardia/trezzone.html"/>
   </node>
@@ -7245,9 +7250,8 @@
     <tag k="population" v="892"/>
     <tag k="wikidata" v="Q30025836"/>
   </node>
-  <node id="64777182" lat="46.4774258" lon="11.0224369" version="6" timestamp="2020-08-28T16:18:46Z" changeset="90091004" uid="8445331" user="JuaFritz">
+  <node id="64777182" lat="46.4774258" lon="11.0224369" version="7" timestamp="2024-11-08T06:56:05Z" changeset="158882826" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2820"/>
-    <tag k="is_in" v="Bolzano - Bozen, Trentino-Alto Adige, Italy"/>
     <tag k="name" v="Proveis - Proves"/>
     <tag k="name:de" v="Proveis"/>
     <tag k="name:it" v="Proves"/>
@@ -24606,13 +24610,13 @@
     <tag k="source" v="Istat 2013 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026010"/>
   </node>
-  <node id="994006757" lat="46.1781812" lon="9.3744846" version="5" timestamp="2019-05-15T08:52:57Z" changeset="70265818" uid="4254454" user="Fabio Tremari">
-    <tag k="ele" v="522"/>
-    <tag k="gfoss_id" v="11840"/>
-    <tag k="istat_id" v="1315510001"/>
-    <tag k="name" v="Montemezzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="98"/>
+  <node id="994006779" lat="46.1784322" lon="9.3757470" version="3" timestamp="2024-11-08T09:41:32Z" changeset="158888038" uid="9616185" user="LukeDH">
+    <tag k="ele" v="467"/>
+    <tag k="gfoss_id" v="11843"/>
+    <tag k="istat_id" v="1315520005"/>
+    <tag k="name" v="Selva"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="104"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
   <node id="1091320722" lat="46.3950450" lon="12.6702260" version="8" timestamp="2022-04-14T10:21:25Z" changeset="119706051" uid="1950277" user="Mannivu">
