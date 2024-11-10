@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-09T02:36:44Z" areas="2024-11-06T10:48:48Z"/>
+<meta osm_base="2024-11-10T02:42:30Z" areas="2024-11-06T10:48:48Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -4474,7 +4474,7 @@
     <tag k="population" v="1515"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68568784" lat="41.2973373" lon="15.0855225" version="3" timestamp="2017-10-23T09:38:42Z" changeset="53173059" uid="1258547" user="Decan">
+  <node id="68568784" lat="41.2971923" lon="15.0858356" version="4" timestamp="2024-11-09T18:16:32Z" changeset="158944664" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="5276"/>
     <tag k="name" v="Castelfranco in Miscano"/>
     <tag k="place" v="village"/>
@@ -8163,12 +8163,17 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1778"/>
   </node>
-  <node id="4026651935" lat="41.3259364" lon="15.1809980" version="2" timestamp="2016-08-27T16:24:04Z" changeset="41739592" uid="743479" user="fayor">
+  <node id="4026651935" lat="41.3259364" lon="15.1809980" version="3" timestamp="2024-11-09T19:32:04Z" changeset="158946584" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6115"/>
     <tag k="name" v="Celle di San Vito"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="186"/>
+    <tag k="population" v="144"/>
+    <tag k="population:date" v="2022-08-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.amministrazionicomunali.it/puglia/celle-di-san-vito"/>
+    <tag k="wikidata" v="Q51923"/>
+    <tag k="wikipedia" v="it:Celle di San Vito"/>
   </node>
   <node id="4391227795" lat="42.0637848" lon="13.6001354" version="3" timestamp="2023-09-04T13:21:00Z" changeset="140805432" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Cerchio"/>
