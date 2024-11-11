@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-10T02:44:21Z" areas="2024-11-06T10:48:48Z"/>
+<meta osm_base="2024-11-11T02:43:38Z" areas="2024-10-28T01:00:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -7963,6 +7963,17 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2176"/>
     <tag k="postal_code" v="60036"/>
+  </node>
+  <node id="275682756" lat="44.0618551" lon="7.6158933" version="14" timestamp="2024-11-08T03:20:27Z" changeset="158879501" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="06430"/>
+    <tag k="name" v="La Brigue"/>
+    <tag k="name:it" v="Briga Marittima"/>
+    <tag k="name:oc" v="La Briga"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="719"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="287896814" lat="45.9216649" lon="11.3242901" version="11" timestamp="2021-12-21T07:41:10Z" changeset="115194688" uid="61042" user="Agh">
     <tag k="name" v="Lusérn - Luserna"/>
