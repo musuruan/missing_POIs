@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-11T02:42:37Z" areas="2024-11-06T10:48:48Z"/>
+<meta osm_base="2024-11-12T02:39:30Z" areas="2024-10-28T01:00:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -2561,9 +2561,8 @@
     <tag k="population" v="1596"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512976" lat="45.3119118" lon="9.5942124" version="2" timestamp="2010-05-13T21:19:37Z" changeset="4690856" uid="194280" user="merto">
+  <node id="62512976" lat="45.3119118" lon="9.5942124" version="3" timestamp="2024-11-11T15:28:19Z" changeset="159008183" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="7860"/>
-    <tag k="is_in" v="Lodi, Lombardia, Italy"/>
     <tag k="name" v="Abbadia Cerreto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="276"/>
@@ -2995,10 +2994,9 @@
     <tag k="population" v="6000"/>
     <tag k="url" v="https://www.giorgioweb.com/"/>
   </node>
-  <node id="62514701" lat="45.4133710" lon="9.3789520" version="1" timestamp="2007-10-10T06:24:13Z" changeset="85182" uid="864" user="Niccolo">
+  <node id="62514701" lat="45.4133710" lon="9.3789520" version="2" timestamp="2024-11-11T15:36:37Z" changeset="159008183" uid="9925732" user="Flight777">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="1903"/>
-    <tag k="is_in" v="Milano, Lombardia, Italy"/>
     <tag k="name" v="Tribiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2234"/>
@@ -3688,9 +3686,8 @@
     <tag k="population" v="700"/>
     <tag k="wikidata" v="Q30031195"/>
   </node>
-  <node id="62516394" lat="46.2245349" lon="10.2040968" version="4" timestamp="2023-06-14T22:15:27Z" changeset="137346854" uid="19497998" user="branco-revert">
+  <node id="62516394" lat="46.2245349" lon="10.2040968" version="5" timestamp="2024-11-11T14:56:49Z" changeset="159008183" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="1718"/>
-    <tag k="is_in" v="Sondrio, Lombardia, Italy"/>
     <tag k="name" v="Sernio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="445"/>
@@ -3747,9 +3744,8 @@
     <tag k="population" v="956"/>
     <tag k="wikidata" v="Q30023319"/>
   </node>
-  <node id="62516721" lat="46.2528354" lon="10.2402255" version="2" timestamp="2014-04-30T22:05:16Z" changeset="22053150" uid="330007" user="pikappa79">
+  <node id="62516721" lat="46.2528354" lon="10.2402255" version="3" timestamp="2024-11-11T14:18:22Z" changeset="159008183" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="1735"/>
-    <tag k="is_in" v="Sondrio, Lombardia, Italy"/>
     <tag k="name" v="Vervio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="239"/>
@@ -4243,7 +4239,7 @@
     <tag k="population" v="449"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621785" lat="44.8128540" lon="9.0402560" version="6" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="Nokse22">
+  <node id="63621785" lat="44.8119711" lon="9.0477233" version="7" timestamp="2024-11-11T20:32:22Z" changeset="159025375" uid="13986573" user="dombul">
     <tag k="gfoss_id" v="881"/>
     <tag k="name" v="Brignano-Frascata"/>
     <tag k="place" v="village"/>
@@ -20374,6 +20370,17 @@
     <tag k="name:lld" v="Fontanac' de Sot"/>
     <tag k="place" v="neighbourhood"/>
   </node>
+  <node id="275682756" lat="44.0618551" lon="7.6158933" version="14" timestamp="2024-11-08T03:20:27Z" changeset="158879501" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="06430"/>
+    <tag k="name" v="La Brigue"/>
+    <tag k="name:it" v="Briga Marittima"/>
+    <tag k="name:oc" v="La Briga"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="719"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
+  </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="11" timestamp="2016-10-25T21:33:26Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3048"/>
     <tag k="name" v="Strembo"/>
@@ -20699,6 +20706,20 @@
     <tag k="name" v="Montecorvino Pugliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1039"/>
+  </node>
+  <node id="1147409484" lat="45.9303401" lon="13.6398587" version="22" timestamp="2024-09-21T17:19:32Z" changeset="156921895" uid="792910" user="Bojan📷">
+    <tag k="ele" v="72"/>
+    <tag k="name" v="Šempeter pri Gorici"/>
+    <tag k="name:de" v="Sankt Peter"/>
+    <tag k="name:it" v="San Pietro di Gorizia"/>
+    <tag k="name:sl" v="Šempeter pri Gorici"/>
+    <tag k="name:sr" v="Шемпетер при Горици"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="3694"/>
+    <tag k="postal_code" v="5290"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="wikidata" v="Q15853"/>
+    <tag k="wikipedia" v="sl:Šempeter pri Gorici"/>
   </node>
   <node id="1177429070" lat="45.1983201" lon="9.6771207" version="4" timestamp="2022-01-04T16:22:33Z" changeset="115762214" uid="11220113" user="ivanbranco">
     <tag k="name" v="Terranova dei Passerini"/>

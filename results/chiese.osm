@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-11T02:43:38Z" areas="2024-10-28T01:00:14Z"/>
+<meta osm_base="2024-11-12T02:40:24Z" areas="2024-10-28T01:00:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -8054,6 +8054,20 @@
     <tag k="place" v="village"/>
     <tag k="population" v="809"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="1147409484" lat="45.9303401" lon="13.6398587" version="22" timestamp="2024-09-21T17:19:32Z" changeset="156921895" uid="792910" user="Bojan📷">
+    <tag k="ele" v="72"/>
+    <tag k="name" v="Šempeter pri Gorici"/>
+    <tag k="name:de" v="Sankt Peter"/>
+    <tag k="name:it" v="San Pietro di Gorizia"/>
+    <tag k="name:sl" v="Šempeter pri Gorici"/>
+    <tag k="name:sr" v="Шемпетер при Горици"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="3694"/>
+    <tag k="postal_code" v="5290"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="wikidata" v="Q15853"/>
+    <tag k="wikipedia" v="sl:Šempeter pri Gorici"/>
   </node>
   <node id="1313601109" lat="43.8051686" lon="12.3782507" version="2" timestamp="2016-09-11T00:19:05Z" changeset="42069137" uid="743479" user="fayor">
     <tag k="name" v="Mercato Vecchio"/>
