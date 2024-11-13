@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-12T02:38:26Z" areas="2024-10-28T01:00:14Z"/>
+<meta osm_base="2024-11-13T02:40:43Z" areas="2024-11-12T21:02:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -135,9 +135,8 @@
     <tag k="population" v="897"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506408" lat="45.9742920" lon="10.0827570" version="4" timestamp="2021-01-14T21:18:59Z" changeset="97516511" uid="616481" user="gigi2037">
+  <node id="62506408" lat="45.9742920" lon="10.0827570" version="5" timestamp="2024-11-12T06:54:26Z" changeset="159037158" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2002"/>
-    <tag k="is_in" v="Val di scalve, Bergamo, Lombardia, Italy"/>
     <tag k="name" v="Colere"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1122"/>
@@ -231,9 +230,8 @@
     <tag k="population" v="2510"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506966" lat="46.0089271" lon="10.1565735" version="4" timestamp="2022-05-15T12:18:04Z" changeset="121010181" uid="2653653" user="astraspera">
+  <node id="62506966" lat="46.0089271" lon="10.1565735" version="5" timestamp="2024-11-12T06:47:55Z" changeset="159037158" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2116"/>
-    <tag k="is_in" v="Val di scalve, Bergamo, Lombardia, Italy"/>
     <tag k="name" v="Schilpario"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1153"/>
@@ -7899,17 +7897,6 @@
     <tag k="name:lld" v="Fontanac' de Sot"/>
     <tag k="place" v="neighbourhood"/>
   </node>
-  <node id="275682756" lat="44.0618551" lon="7.6158933" version="14" timestamp="2024-11-08T03:20:27Z" changeset="158879501" uid="587556" user="Cyrille37Bot">
-    <tag k="addr:postcode" v="06430"/>
-    <tag k="name" v="La Brigue"/>
-    <tag k="name:it" v="Briga Marittima"/>
-    <tag k="name:oc" v="La Briga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="719"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2024"/>
-  </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="11" timestamp="2016-10-25T21:33:26Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3048"/>
     <tag k="name" v="Strembo"/>
@@ -7977,20 +7964,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1226"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="1147409484" lat="45.9303401" lon="13.6398587" version="22" timestamp="2024-09-21T17:19:32Z" changeset="156921895" uid="792910" user="Bojan📷">
-    <tag k="ele" v="72"/>
-    <tag k="name" v="Šempeter pri Gorici"/>
-    <tag k="name:de" v="Sankt Peter"/>
-    <tag k="name:it" v="San Pietro di Gorizia"/>
-    <tag k="name:sl" v="Šempeter pri Gorici"/>
-    <tag k="name:sr" v="Шемпетер при Горици"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="3694"/>
-    <tag k="postal_code" v="5290"/>
-    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
-    <tag k="wikidata" v="Q15853"/>
-    <tag k="wikipedia" v="sl:Šempeter pri Gorici"/>
   </node>
   <node id="1212265354" lat="46.6994802" lon="11.1694866" version="5" timestamp="2015-01-19T08:05:47Z" changeset="28247005" uid="2302962" user="Pathumthani">
     <tag k="ele" v="592"/>
