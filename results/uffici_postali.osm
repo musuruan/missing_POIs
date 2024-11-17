@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-16T02:48:30Z" areas="2024-11-16T01:15:25Z"/>
+<meta osm_base="2024-11-17T02:55:18Z" areas="2024-11-17T00:41:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -1558,7 +1558,7 @@
     <tag k="population" v="1904"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508951" lat="45.5321830" lon="10.3691720" version="3" timestamp="2024-09-09T17:58:57Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62508951" lat="45.5330482" lon="10.3706043" version="4" timestamp="2024-11-16T15:11:59Z" changeset="159211794" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2290"/>
     <tag k="name" v="Nuvolera"/>
     <tag k="place" v="village"/>
@@ -4150,6 +4150,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="805"/>
     <tag k="postal_code" v="21020"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62517817" lat="45.7802220" lon="8.7937693" version="4" timestamp="2020-04-23T15:43:22Z" changeset="84011060" uid="478872" user="mcheck">
+    <tag k="gfoss_id" v="1362"/>
+    <tag k="name" v="Azzate"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3820"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62517873" lat="45.9177780" lon="8.7811300" version="2" timestamp="2022-05-29T13:51:37Z" changeset="121659317" uid="1213571" user="mcliquid">
@@ -11580,13 +11587,6 @@
     <tag k="name" v="Belmonte del Sannio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="921"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67284275" lat="41.7168260" lon="14.0694150" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7586"/>
-    <tag k="name" v="Montenero Val Cocchiara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="608"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67284282" lat="41.6451260" lon="14.2463200" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
