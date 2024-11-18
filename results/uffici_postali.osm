@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-17T02:55:18Z" areas="2024-11-17T00:41:44Z"/>
+<meta osm_base="2024-11-18T02:54:03Z" areas="2024-11-18T01:14:57Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -1170,7 +1170,7 @@
     <tag k="population" v="139"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507966" lat="45.5188040" lon="10.3541615" version="7" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507966" lat="45.5043840" lon="10.3576099" version="8" timestamp="2024-11-17T07:50:50Z" changeset="159232014" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2277"/>
     <tag k="name" v="Mazzano"/>
     <tag k="place" v="town"/>
@@ -7036,13 +7036,14 @@
     <tag k="population" v="906"/>
     <tag k="reg_name" v="Sant'Orsola"/>
   </node>
-  <node id="64776551" lat="46.0444545" lon="11.2776917" version="7" timestamp="2020-06-03T10:59:25Z" changeset="86131578" uid="8445331" user="JuaFritz">
+  <node id="64776551" lat="46.0444545" lon="11.2776917" version="8" timestamp="2024-11-17T22:41:35Z" changeset="159262069" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3080"/>
     <tag k="loc_name" v="Vignola"/>
     <tag k="name" v="Vignola"/>
     <tag k="old_name:de" v="Walzburg"/>
     <tag k="place" v="village"/>
     <tag k="population" v="22"/>
+    <tag k="wikidata" v="Q48808425"/>
   </node>
   <node id="64776555" lat="46.1449060" lon="11.1934790" version="4" timestamp="2016-10-25T21:33:06Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="2869"/>
@@ -7184,7 +7185,7 @@
     <tag k="reg_name" v="Torzén"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776690" lat="46.0157030" lon="11.2642830" version="4" timestamp="2020-10-05T20:05:40Z" changeset="92005790" uid="8445331" user="JuaFritz">
+  <node id="64776690" lat="46.0157030" lon="11.2642830" version="5" timestamp="2024-11-17T22:37:21Z" changeset="159261978" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3054"/>
     <tag k="loc_name" v="Tena"/>
     <tag k="name" v="Tenna"/>
@@ -7193,6 +7194,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="850"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031045"/>
   </node>
   <node id="64776693" lat="46.3616048" lon="10.9260882" version="4" timestamp="2021-06-26T07:25:17Z" changeset="106992937" uid="1462614" user="_Andrea_">
     <tag k="gfoss_id" v="3059"/>
@@ -7395,12 +7397,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.pievetesino.tn.it/"/>
   </node>
-  <node id="64776984" lat="46.0228177" lon="11.3664341" version="4" timestamp="2016-10-25T21:33:19Z" changeset="43173645" uid="743479" user="fayor">
+  <node id="64776984" lat="46.0228177" lon="11.3664341" version="5" timestamp="2024-11-17T22:44:14Z" changeset="159262133" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2993"/>
     <tag k="name" v="Novaledo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="882"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028254"/>
   </node>
   <node id="64777011" lat="46.7203520" lon="12.1328839" version="8" timestamp="2022-05-29T12:45:26Z" changeset="121655710" uid="1213571" user="mcliquid">
     <tag k="gfoss_id" v="2760"/>
