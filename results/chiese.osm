@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-18T02:55:11Z" areas="2024-11-17T22:18:14Z"/>
+<meta osm_base="2024-11-19T02:51:48Z" areas="2024-11-18T21:18:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -1700,33 +1700,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="113"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67253724" lat="38.0173961" lon="12.5160225" version="50" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="capital" v="6"/>
-    <tag k="name" v="Trapani"/>
-    <tag k="name:an" v="Tràpani"/>
-    <tag k="name:ar" v="تراباني"/>
-    <tag k="name:bg" v="Трапани"/>
-    <tag k="name:el" v="Δρέπανον"/>
-    <tag k="name:en" v="Trapani"/>
-    <tag k="name:fa" v="تراپانی"/>
-    <tag k="name:he" v="טרפאני"/>
-    <tag k="name:it" v="Trapani"/>
-    <tag k="name:ja" v="トラーパニ"/>
-    <tag k="name:la" v="Drepanum"/>
-    <tag k="name:language" v="Drepanum"/>
-    <tag k="name:oc" v="Drapena"/>
-    <tag k="name:pms" v="Tràpani"/>
-    <tag k="name:pt" v="Trápani"/>
-    <tag k="name:roa-tara" v="Trapane"/>
-    <tag k="name:ru" v="Трапани"/>
-    <tag k="name:scn" v="Tràpani"/>
-    <tag k="name:sr" v="Трапани"/>
-    <tag k="name:uk" v="Трапані"/>
-    <tag k="name:zh" v="特拉帕尼"/>
-    <tag k="place" v="city"/>
-    <tag k="population" v="55219"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67253732" lat="37.5700419" lon="13.4546092" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Alessandria della Rocca"/>
@@ -4597,12 +4570,13 @@
     <tag k="population" v="2299"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566398" lat="40.8665266" lon="14.7760307" version="3" timestamp="2016-09-01T23:10:04Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566398" lat="40.8665266" lon="14.7760307" version="4" timestamp="2024-11-18T19:05:24Z" changeset="159296211" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5459"/>
     <tag k="name" v="Contrada"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2874"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025056"/>
   </node>
   <node id="68566409" lat="41.0778210" lon="15.1477470" version="1" timestamp="2007-10-13T13:40:31Z" changeset="142947" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
@@ -8075,6 +8049,11 @@
     <tag k="wikidata" v="Q295543"/>
     <tag k="wikipedia" v="it:Orotelli"/>
     <tag k="wikipedia:sc" v="Oroteddi"/>
+  </node>
+  <node id="2068581838" lat="37.9605701" lon="12.5118631" version="3" timestamp="2019-08-05T00:17:52Z" changeset="73000961" uid="743479" user="fayor">
+    <tag k="name" v="Salinagrande"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="935"/>
   </node>
   <node id="2079322088" lat="43.7165530" lon="12.3760477" version="3" timestamp="2016-09-09T17:36:29Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="ele" v="343"/>

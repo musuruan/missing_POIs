@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-18T02:58:11Z" areas="2024-11-18T01:14:57Z"/>
+<meta osm_base="2024-11-19T02:54:55Z" areas="2024-11-18T23:21:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -5505,10 +5505,8 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029707"/>
   </node>
-  <node id="63625914" lat="44.5780370" lon="7.7918330" version="2" timestamp="2021-08-28T06:04:04Z" changeset="110367151" uid="9006927" user="francians">
-    <tag k="created_by" v="JOSM"/>
+  <node id="63625914" lat="44.5780370" lon="7.7918330" version="3" timestamp="2024-11-18T23:24:27Z" changeset="159304367" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="691"/>
-    <tag k="is_in" v="Cuneo, Piemonte, Italy"/>
     <tag k="name" v="Salmour"/>
     <tag k="place" v="village"/>
     <tag k="population" v="704"/>
@@ -9732,14 +9730,6 @@
     <tag k="population" v="685"/>
     <tag k="short_name" v="Moio"/>
     <tag k="short_name:scn" v="Moju"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67255280" lat="38.1221178" lon="14.7889805" version="15" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="ele" v="480"/>
-    <tag k="name" v="Naso"/>
-    <tag k="name:scn" v="Nasu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3410"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67255300" lat="37.8956251" lon="15.1723466" version="15" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
@@ -14609,12 +14599,13 @@
     <tag k="population" v="2299"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566398" lat="40.8665266" lon="14.7760307" version="3" timestamp="2016-09-01T23:10:04Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566398" lat="40.8665266" lon="14.7760307" version="4" timestamp="2024-11-18T19:05:24Z" changeset="159296211" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5459"/>
     <tag k="name" v="Contrada"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2874"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025056"/>
   </node>
   <node id="68566409" lat="41.0778210" lon="15.1477470" version="1" timestamp="2007-10-13T13:40:31Z" changeset="142947" uid="864" user="Niccolo">
     <tag k="created_by" v="JOSM"/>
