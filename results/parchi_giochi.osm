@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.1 084b4234">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-20T02:53:48Z" areas="2024-11-19T22:14:31Z"/>
+<meta osm_base="2024-11-21T02:55:10Z" areas="2024-11-20T23:07:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="74170"/>
@@ -8083,6 +8083,15 @@
     <tag k="name" v="Erbè"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1629"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="64778980" lat="45.5660855" lon="11.1523929" version="4" timestamp="2016-10-09T16:06:36Z" changeset="42757067" uid="743479" user="fayor">
+    <tag k="alt_name:de" v="Kalfein"/>
+    <tag k="gfoss_id" v="3095"/>
+    <tag k="name" v="Badia Calavena"/>
+    <tag k="name:de" v="Kalwein"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2373"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778990" lat="45.1706690" lon="11.1993652" version="3" timestamp="2016-10-09T16:06:38Z" changeset="42757067" uid="743479" user="fayor">
