@@ -1,19 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-24T02:55:58Z" areas="2024-11-23T21:43:45Z"/>
+<meta osm_base="2024-11-25T02:55:01Z" areas="2024-11-24T22:22:43Z"/>
 
-  <node id="26695130" lat="45.8928549" lon="6.7113338" version="15" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
-    <tag k="addr:postcode" v="74170"/>
-    <tag k="name" v="Saint-Gervais-les-Bains"/>
-    <tag k="name:zh" v="圣热尔韦莱班"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5602"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="source:population" v="INSEE 2024"/>
-    <tag k="wikidata" v="Q534206"/>
-    <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
-  </node>
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="50" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
@@ -30,6 +19,20 @@
     <tag k="population:date" v="2021"/>
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
+  </node>
+  <node id="30162721" lat="46.4851320" lon="13.7843957" version="28" timestamp="2024-01-02T00:32:29Z" changeset="145780042" uid="130956" user="celicni">
+    <tag k="name" v="Kranjska Gora"/>
+    <tag k="name:de" v="Kronau"/>
+    <tag k="name:ru" v="Краньска-Гора"/>
+    <tag k="name:sl" v="Kranjska Gora"/>
+    <tag k="name:sr" v="Крањска Гора"/>
+    <tag k="old_name" v="Borovška vas"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1428"/>
+    <tag k="source" v="landsat"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="wikidata" v="Q2139428"/>
+    <tag k="wikipedia" v="sl:Kranjska Gora"/>
   </node>
   <node id="60280175" lat="45.6354430" lon="12.2513451" version="5" timestamp="2017-03-12T14:07:47Z" changeset="46785792" uid="354284" user="sbiribizio">
     <tag k="name" v="Dosson"/>
@@ -151,13 +154,6 @@
     <tag k="name" v="Cividate al Piano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4869"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506615" lat="45.4815134" lon="9.5616783" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="1939"/>
-    <tag k="name" v="Arzago d'Adda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2285"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506720" lat="45.6605820" lon="9.9310600" version="3" timestamp="2024-09-09T17:58:41Z" changeset="156407408" uid="30587" user="IknowJoseph">
