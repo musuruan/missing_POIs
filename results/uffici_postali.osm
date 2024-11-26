@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-25T02:54:01Z" areas="2024-11-24T22:22:43Z"/>
+<meta osm_base="2024-11-26T02:53:15Z" areas="2024-11-25T23:13:30Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="50" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="alt_name" v="Chamonix"/>
@@ -19,20 +19,6 @@
     <tag k="population:date" v="2021"/>
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
-  </node>
-  <node id="30162721" lat="46.4851320" lon="13.7843957" version="28" timestamp="2024-01-02T00:32:29Z" changeset="145780042" uid="130956" user="celicni">
-    <tag k="name" v="Kranjska Gora"/>
-    <tag k="name:de" v="Kronau"/>
-    <tag k="name:ru" v="Краньска-Гора"/>
-    <tag k="name:sl" v="Kranjska Gora"/>
-    <tag k="name:sr" v="Крањска Гора"/>
-    <tag k="old_name" v="Borovška vas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1428"/>
-    <tag k="source" v="landsat"/>
-    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
-    <tag k="wikidata" v="Q2139428"/>
-    <tag k="wikipedia" v="sl:Kranjska Gora"/>
   </node>
   <node id="61753389" lat="43.6405741" lon="11.9874471" version="3" timestamp="2024-11-07T10:26:07Z" changeset="158847503" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="4590"/>
@@ -2775,10 +2761,9 @@
     <tag k="population" v="2462"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513535" lat="45.2006750" lon="10.3693780" version="1" timestamp="2007-10-10T06:23:27Z" changeset="85182" uid="864" user="Niccolo">
+  <node id="62513535" lat="45.2006750" lon="10.3693780" version="2" timestamp="2024-11-25T06:36:10Z" changeset="159558889" uid="9925732" user="Flight777">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="2693"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
     <tag k="name" v="Casalromano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1468"/>
@@ -2792,9 +2777,8 @@
     <tag k="population" v="2049"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513580" lat="45.1494046" lon="10.3797364" version="2" timestamp="2011-07-07T08:07:46Z" changeset="8654945" uid="66295" user="emmexx">
+  <node id="62513580" lat="45.1494046" lon="10.3797364" version="3" timestamp="2024-11-25T06:36:10Z" changeset="159558889" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2689"/>
-    <tag k="is_in" v="Mantova, Lombardia, Italy"/>
     <tag k="name" v="Canneto sull'Oglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4543"/>
@@ -20608,7 +20592,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="355"/>
   </node>
-  <node id="859912579" lat="45.4244657" lon="11.5932007" version="2" timestamp="2016-10-08T21:08:51Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="859912579" lat="45.4244657" lon="11.5932007" version="3" timestamp="2024-11-25T21:55:15Z" changeset="159591311" uid="305001" user="voschix">
+    <tag k="fixme" v="most of the buildings in Ponte di Nanto are misaligned (shifted by by 2 m to 8 m) and some are alos misshaped. To be redone except for buildings with more recent source tags"/>
     <tag k="name" v="Ponte di Nanto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1395"/>
