@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-28T02:55:38Z" areas="2024-11-27T21:07:11Z"/>
+<meta osm_base="2024-11-29T02:54:16Z" areas="2024-11-28T22:14:46Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="50" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
     <tag k="alt_name" v="Chamonix"/>
@@ -6593,13 +6593,6 @@
     <tag k="population" v="4734"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629940" lat="45.3342771" lon="7.6245311" version="5" timestamp="2023-08-01T02:56:19Z" changeset="139278200" uid="4795149" user="Fedurli">
-    <tag k="gfoss_id" v="216"/>
-    <tag k="name" v="Rivara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2687"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63629948" lat="45.5245287" lon="7.8331324" version="5" timestamp="2023-01-17T20:05:12Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="209"/>
     <tag k="name" v="Quassolo"/>
@@ -7063,12 +7056,13 @@
     <tag k="population" v="1436"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776596" lat="45.9143950" lon="10.6027700" version="2" timestamp="2016-10-25T21:33:10Z" changeset="43173645" uid="743479" user="fayor">
+  <node id="64776596" lat="45.9143950" lon="10.6027700" version="3" timestamp="2024-11-28T20:37:39Z" changeset="159718878" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2909"/>
     <tag k="name" v="Castel Condino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="233"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024091"/>
   </node>
   <node id="64776608" lat="46.4084120" lon="11.1380730" version="4" timestamp="2016-10-25T21:33:11Z" changeset="43173645" uid="743479" user="fayor">
     <tag k="gfoss_id" v="2915"/>
@@ -12220,9 +12214,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51837"/>
   </node>
-  <node id="68528719" lat="40.8285595" lon="16.5527314" version="30" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+  <node id="68528719" lat="40.8285595" lon="16.5527314" version="31" timestamp="2024-11-28T17:44:04Z" changeset="159713206" uid="10504312" user="Jobigutenburg">
     <tag k="gfoss_id" v="6164"/>
     <tag k="name" v="Altamura"/>
+    <tag k="name:ml" v="അൽറ്റമൂറ"/>
     <tag k="name:ru" v="Альтамура"/>
     <tag k="place" v="town"/>
     <tag k="population" v="70396"/>
