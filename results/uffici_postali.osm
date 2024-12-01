@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-11-30T02:48:40Z" areas="2024-11-30T00:33:58Z"/>
+<meta osm_base="2024-12-01T03:09:28Z" areas="2024-12-01T02:07:15Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -8540,13 +8540,15 @@
     <tag k="population" v="1730"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502897" lat="45.8457769" lon="12.8806648" version="10" timestamp="2019-05-16T23:53:15Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66502897" lat="45.8457769" lon="12.8806648" version="11" timestamp="2024-11-30T16:42:46Z" changeset="159780454" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="7524"/>
     <tag k="name" v="Cordovado"/>
     <tag k="name:fur" v="Cordovât"/>
+    <tag k="note" v="Il numero si riferisce alla popolazione dell'intero comune, non a quella del centro abitato o del solo centro storico."/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2518"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="2705"/>
+    <tag k="population:date" v="31-8-2024"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="66502904" lat="46.1871178" lon="12.7530826" version="7" timestamp="2023-03-06T22:20:40Z" changeset="133381702" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7526"/>
@@ -15557,7 +15559,7 @@
     <tag k="wikidata" v="Q56085"/>
     <tag k="wikipedia" v="it:Palmiano"/>
   </node>
-  <node id="70980829" lat="43.0300520" lon="13.6059860" version="2" timestamp="2016-09-09T17:36:42Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980829" lat="43.0319617" lon="13.6076168" version="3" timestamp="2024-11-30T13:51:42Z" changeset="159774642" uid="5328797" user="LorenzoPesci">
     <tag k="gfoss_id" v="4388"/>
     <tag k="name" v="Ortezzano"/>
     <tag k="place" v="village"/>
