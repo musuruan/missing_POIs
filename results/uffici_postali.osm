@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-01T03:09:28Z" areas="2024-12-01T02:07:15Z"/>
+<meta osm_base="2024-12-02T02:58:45Z" areas="2024-12-01T22:01:00Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -1526,8 +1526,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029053"/>
   </node>
-  <node id="62508930" lat="45.5457840" lon="10.3867720" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508930" lat="45.5457840" lon="10.3867720" version="3" timestamp="2024-12-01T09:35:59Z" changeset="159799043" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2289"/>
+    <tag k="loc_name" v="Nigolènt"/>
     <tag k="name" v="Nuvolento"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3523"/>
@@ -1548,8 +1549,9 @@
     <tag k="population" v="1904"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508951" lat="45.5330482" lon="10.3706043" version="4" timestamp="2024-11-16T15:11:59Z" changeset="159211794" uid="350864" user="demon_box">
+  <node id="62508951" lat="45.5330482" lon="10.3706043" version="5" timestamp="2024-12-01T09:36:39Z" changeset="159799064" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2290"/>
+    <tag k="loc_name" v="Nuuléra"/>
     <tag k="name" v="Nuvolera"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3679"/>
@@ -17380,17 +17382,6 @@
     <tag k="wikidata" v="Q242901"/>
     <tag k="wikimedia_commons" v="Category:Marano Equo"/>
     <tag k="wikipedia" v="it:Marano Equo"/>
-  </node>
-  <node id="72962667" lat="41.8888230" lon="13.1695930" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4959"/>
-    <tag k="name" v="Jenne"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="497"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.jenne.rm.it/"/>
-    <tag k="wikidata" v="Q242720"/>
-    <tag k="wikimedia_commons" v="Category:Jenne"/>
-    <tag k="wikipedia" v="it:Jenne"/>
   </node>
   <node id="72962692" lat="41.6550170" lon="13.1090950" version="4" timestamp="2024-01-15T11:26:06Z" changeset="146277318" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4956"/>
