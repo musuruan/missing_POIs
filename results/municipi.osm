@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-03T02:58:00Z" areas="2024-12-02T21:26:12Z"/>
+<meta osm_base="2024-12-04T02:56:10Z" areas="2024-12-04T01:23:55Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -1846,6 +1846,15 @@
     <tag k="name" v="Sciolze"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1437"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="63631374" lat="45.0762363" lon="7.3408936" version="4" timestamp="2022-12-15T19:18:17Z" changeset="130128078" uid="177389" user="Garmin-User">
+    <tag k="gfoss_id" v="285"/>
+    <tag k="name" v="Valgioie"/>
+    <tag k="name:frp" v="Voudjiň"/>
+    <tag k="name:pms" v="Valgiòje"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="728"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64776518" lat="46.1442060" lon="11.2195800" version="6" timestamp="2019-03-02T20:07:38Z" changeset="67722704" uid="364" user="Edward">
