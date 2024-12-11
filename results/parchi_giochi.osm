@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-10T03:03:00Z" areas="2024-12-10T01:52:31Z"/>
+<meta osm_base="2024-12-11T03:00:14Z" areas="2024-12-10T22:47:32Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -3813,13 +3813,6 @@
     <tag k="name" v="Avolasca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="280"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63621944" lat="44.6245869" lon="8.6622018" version="4" timestamp="2023-01-17T20:07:26Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="871"/>
-    <tag k="name" v="Belforte Monferrato"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="448"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63621946" lat="45.0701919" lon="8.6064884" version="5" timestamp="2023-01-17T19:59:56Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -24233,6 +24226,28 @@
     <tag k="wikidata" v="Q382223"/>
     <tag k="wikipedia" v="it:Romana"/>
     <tag k="wikipedia:sc" v="Rumana"/>
+  </node>
+  <node id="240042171" lat="46.7472874" lon="12.4180291" version="7" timestamp="2018-06-08T05:53:52Z" changeset="59656007" uid="2641694" user="JM82">
+    <tag k="ele" v="1103"/>
+    <tag k="name" v="Sillian"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="2086"/>
+    <tag k="wikidata" v="Q687344"/>
+    <tag k="wikipedia" v="en:Sillian"/>
+  </node>
+  <node id="240094782" lat="46.7253647" lon="12.4974701" version="6" timestamp="2018-07-20T19:07:09Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Kartitsch"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="813"/>
+  </node>
+  <node id="240109909" lat="46.9158079" lon="12.3333515" version="12" timestamp="2023-08-21T19:59:21Z" changeset="140198878" uid="3249777" user="opendcc">
+    <tag k="alt_name" v="St. Jakob in Defereggen"/>
+    <tag k="full_name" v="Sankt Jakob in Defereggen"/>
+    <tag k="name" v="St. Jakob"/>
+    <tag k="name:ru" v="кушали"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1002"/>
+    <tag k="ref:at:gkz" v="70724"/>
   </node>
   <node id="259742893" lat="42.3665063" lon="10.9002704" version="8" timestamp="2017-03-11T12:52:38Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="name" v="Giglio Castello"/>
