@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-24T02:45:36Z" areas="2024-12-23T23:05:45Z"/>
+<meta osm_base="2024-12-25T02:44:28Z" areas="2024-12-24T23:55:29Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -12258,9 +12258,8 @@
     <tag k="wikidata" v="Q54685"/>
     <tag k="wikipedia" v="it:Terranova Sappo Minulio"/>
   </node>
-  <node id="67275866" lat="38.2553720" lon="15.9704990" version="2" timestamp="2024-07-22T20:32:41Z" changeset="154279978" uid="18063623" user="DomeF">
+  <node id="67275866" lat="38.2553720" lon="15.9704990" version="3" timestamp="2024-12-24T15:06:20Z" changeset="160579160" uid="20944241" user="SekeRob repair">
     <tag k="gfoss_id" v="6798"/>
-    <tag k="is_in" v="Reggio Calabria, Calabria, Italy"/>
     <tag k="name" v="Santa Cristina d'Aspromonte"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1095"/>
@@ -14581,6 +14580,13 @@
     <tag k="name" v="Guardia Lombardi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2029"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68566443" lat="40.9201621" lon="14.7386053" version="4" timestamp="2016-09-01T23:10:07Z" changeset="41859282" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="5479"/>
+    <tag k="name" v="Mercogliano"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="12267"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68566453" lat="41.1956230" lon="15.0334430" version="2" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
@@ -17136,14 +17142,6 @@
     <tag k="name" v="Felino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8790"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69300827" lat="44.6130645" lon="10.2661136" version="7" timestamp="2016-09-21T13:17:21Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="ele" v="265"/>
-    <tag k="gfoss_id" v="3905"/>
-    <tag k="name" v="Langhirano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10315"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69300856" lat="44.6621570" lon="9.8466760" version="7" timestamp="2016-09-21T13:17:31Z" changeset="42322913" uid="743479" user="fayor">
@@ -24206,11 +24204,6 @@
     <tag k="wikidata" v="Q382223"/>
     <tag k="wikipedia" v="it:Romana"/>
     <tag k="wikipedia:sc" v="Rumana"/>
-  </node>
-  <node id="240094782" lat="46.7253647" lon="12.4974701" version="6" timestamp="2018-07-20T19:07:09Z" changeset="60916719" uid="2641694" user="JM82">
-    <tag k="name" v="Kartitsch"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="813"/>
   </node>
   <node id="259742893" lat="42.3665063" lon="10.9002704" version="8" timestamp="2017-03-11T12:52:38Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="name" v="Giglio Castello"/>
