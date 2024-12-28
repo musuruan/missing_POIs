@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-27T02:42:17Z" areas="2024-12-27T01:31:03Z"/>
+<meta osm_base="2024-12-28T02:39:45Z" areas="2024-12-28T01:14:32Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -1448,10 +1448,10 @@
     <tag k="population" v="4109"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778702" lat="45.8548790" lon="11.8815695" version="9" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
+  <node id="64778702" lat="45.8548790" lon="11.8815695" version="10" timestamp="2024-12-27T15:40:59Z" changeset="160681740" uid="22297104" user="Mattia8">
     <tag k="gfoss_id" v="3439"/>
     <tag k="name" v="Possagno"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="2029"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029103"/>
@@ -1596,11 +1596,11 @@
     <tag k="population" v="5929"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779011" lat="45.7962374" lon="11.7583907" version="10" timestamp="2023-09-04T08:33:56Z" changeset="140792532" uid="11631067" user="emandt">
+  <node id="64779011" lat="45.7962374" lon="11.7583907" version="11" timestamp="2024-12-27T15:40:59Z" changeset="160681740" uid="22297104" user="Mattia8">
     <tag k="gfoss_id" v="3274"/>
     <tag k="name" v="Romano d'Ezzelino"/>
     <tag k="name:vec" v="Roman"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="14478"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -7877,6 +7877,203 @@
     <tag k="wikidata" v="Q390699"/>
     <tag k="wikipedia" v="sc:Èrula"/>
   </node>
+  <node id="240031635" lat="47.0448991" lon="11.3521185" version="5" timestamp="2018-09-06T16:48:17Z" changeset="62349681" uid="1732100" user="Road–Runner">
+    <tag k="name" v="Gschnitz"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="437"/>
+    <tag k="wikidata" v="Q681709"/>
+    <tag k="wikipedia" v="de:Gschnitz"/>
+  </node>
+  <node id="240039472" lat="47.0169030" lon="12.3836760" version="6" timestamp="2018-06-08T05:53:49Z" changeset="59656007" uid="2641694" user="JM82">
+    <tag k="full_name" v="Prägraten am Großvenediger"/>
+    <tag k="name" v="Prägraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1261"/>
+    <tag k="ref:at:gkz" v="70723"/>
+  </node>
+  <node id="240041152" lat="46.9675345" lon="10.5361885" version="7" timestamp="2021-02-11T11:33:50Z" changeset="99103631" uid="11672415" user="aw_LT">
+    <tag k="ele" v="970"/>
+    <tag k="name" v="Pfunds"/>
+    <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+    <tag k="openGeoDB:community_identification_number" v="70617"/>
+    <tag k="openGeoDB:is_in" v="Landeck,Tirol,Österreich,Europe"/>
+    <tag k="openGeoDB:is_in_loc_id" v="77791"/>
+    <tag k="openGeoDB:layer" v="6"/>
+    <tag k="openGeoDB:loc_id" v="77823"/>
+    <tag k="openGeoDB:location" v="political_structure"/>
+    <tag k="openGeoDB:name" v="Pfunds"/>
+    <tag k="openGeoDB:population" v="2523"/>
+    <tag k="openGeoDB:postal_codes" v="6542"/>
+    <tag k="openGeoDB:sort_name" v="PFUNDS"/>
+    <tag k="openGeoDB:type" v="Gemeinde"/>
+    <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2523"/>
+  </node>
+  <node id="240042171" lat="46.7472874" lon="12.4180291" version="7" timestamp="2018-06-08T05:53:52Z" changeset="59656007" uid="2641694" user="JM82">
+    <tag k="ele" v="1103"/>
+    <tag k="name" v="Sillian"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="2086"/>
+    <tag k="wikidata" v="Q687344"/>
+    <tag k="wikipedia" v="en:Sillian"/>
+  </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
+  <node id="240073341" lat="47.1524246" lon="11.8213394" version="6" timestamp="2018-07-21T19:11:48Z" changeset="60937467" uid="2641694" user="JM82">
+    <tag k="name" v="Finkenberg"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1515"/>
+    <tag k="wikidata" v="Q679897"/>
+    <tag k="wikipedia" v="de:Finkenberg"/>
+  </node>
+  <node id="240077102" lat="46.9673961" lon="11.0070193" version="16" timestamp="2024-04-09T12:03:11Z" changeset="149774377" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="ele" v="1368"/>
+    <tag k="name" v="Sölden"/>
+    <tag k="name:ru" v="Зёльден"/>
+    <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+    <tag k="openGeoDB:community_identification_number" v="70220"/>
+    <tag k="openGeoDB:is_in" v="Imst,Tirol,Österreich,Europe"/>
+    <tag k="openGeoDB:is_in_loc_id" v="77427"/>
+    <tag k="openGeoDB:layer" v="6"/>
+    <tag k="openGeoDB:loc_id" v="77476"/>
+    <tag k="openGeoDB:location" v="political_structure"/>
+    <tag k="openGeoDB:name" v="Sölden"/>
+    <tag k="openGeoDB:population" v="3488"/>
+    <tag k="openGeoDB:postal_codes" v="6450,6456,6458"/>
+    <tag k="openGeoDB:sort_name" v="SOELDEN"/>
+    <tag k="openGeoDB:type" v="Gemeinde"/>
+    <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="3488"/>
+    <tag k="website" v="https://www.soelden.tirol.gv.at/"/>
+    <tag k="wikidata" v="Q570486"/>
+  </node>
+  <node id="240085436" lat="46.7037966" lon="12.6775325" version="4" timestamp="2018-07-20T19:07:06Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Untertilliach"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="268"/>
+  </node>
+  <node id="240087857" lat="47.1672188" lon="11.8638664" version="22" timestamp="2024-04-09T12:02:40Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="ele" v="633"/>
+    <tag k="name" v="Mayrhofen"/>
+    <tag k="name:ru" v="Майрхофен"/>
+    <tag k="name:zh" v="迈尔霍芬"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="3883"/>
+    <tag k="website" v="https://www.mayrhofen.tirol.gv.at/"/>
+    <tag k="wikidata" v="Q668214"/>
+    <tag k="wikipedia" v="de:Mayrhofen"/>
+  </node>
+  <node id="240090371" lat="47.0380876" lon="11.4798884" version="7" timestamp="2021-09-02T19:18:01Z" changeset="110636989" uid="13854800" user="Osmonaut">
+    <tag k="ele" v="1165"/>
+    <tag k="name" v="Gries am Brenner"/>
+    <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+    <tag k="openGeoDB:community_identification_number" v="7031301"/>
+    <tag k="openGeoDB:is_in" v="Gries am Brenner,Innsbruck-Land,Tirol,Österreich,Europe"/>
+    <tag k="openGeoDB:is_in_loc_id" v="77515"/>
+    <tag k="openGeoDB:layer" v="7"/>
+    <tag k="openGeoDB:loc_id" v="29390"/>
+    <tag k="openGeoDB:location" v="locality"/>
+    <tag k="openGeoDB:name" v="Gries am Brenner"/>
+    <tag k="openGeoDB:population" v="1260"/>
+    <tag k="openGeoDB:postal_codes" v="6156"/>
+    <tag k="openGeoDB:sort_name" v="GRIES"/>
+    <tag k="openGeoDB:type" v="Ort"/>
+    <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1260"/>
+    <tag k="short_name" v="Gries"/>
+    <tag k="wikidata" v="Q669493"/>
+    <tag k="wikipedia" v="de:Gries am Brenner"/>
+  </node>
+  <node id="240094782" lat="46.7253647" lon="12.4974701" version="6" timestamp="2018-07-20T19:07:09Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Kartitsch"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="813"/>
+  </node>
+  <node id="240095121" lat="47.1668896" lon="11.9000281" version="3" timestamp="2018-07-21T19:11:50Z" changeset="60937467" uid="2641694" user="JM82">
+    <tag k="name" v="Brandberg"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="349"/>
+  </node>
+  <node id="240098043" lat="46.7100276" lon="12.6147258" version="5" timestamp="2018-07-20T19:07:11Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Obertilliach"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="522"/>
+  </node>
+  <node id="240098138" lat="46.8917562" lon="10.5026037" version="4" timestamp="2019-09-26T19:51:03Z" changeset="74979338" uid="7581226" user="beautifulplaces">
+    <tag k="ele" v="1394"/>
+    <tag k="name" v="Nauders"/>
+    <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+    <tag k="openGeoDB:community_identification_number" v="7061501"/>
+    <tag k="openGeoDB:is_in" v="Nauders,Landeck,Tirol,Österreich,Europe"/>
+    <tag k="openGeoDB:is_in_loc_id" v="77819"/>
+    <tag k="openGeoDB:layer" v="7"/>
+    <tag k="openGeoDB:loc_id" v="29832"/>
+    <tag k="openGeoDB:location" v="locality"/>
+    <tag k="openGeoDB:name" v="Nauders"/>
+    <tag k="openGeoDB:population" v="1536"/>
+    <tag k="openGeoDB:postal_codes" v="6543"/>
+    <tag k="openGeoDB:sort_name" v="NAUDERS"/>
+    <tag k="openGeoDB:type" v="Ort"/>
+    <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1536"/>
+  </node>
+  <node id="240109909" lat="46.9158079" lon="12.3333515" version="12" timestamp="2023-08-21T19:59:21Z" changeset="140198878" uid="3249777" user="opendcc">
+    <tag k="alt_name" v="St. Jakob in Defereggen"/>
+    <tag k="full_name" v="Sankt Jakob in Defereggen"/>
+    <tag k="name" v="St. Jakob"/>
+    <tag k="name:ru" v="кушали"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1002"/>
+    <tag k="ref:at:gkz" v="70724"/>
+  </node>
+  <node id="240110573" lat="47.1106408" lon="11.3075790" version="16" timestamp="2024-04-09T12:03:00Z" changeset="149774377" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="ele" v="994"/>
+    <tag k="name" v="Neustift im Stubaital"/>
+    <tag k="name:ru" v="Нойштифт-им-Штубайталь"/>
+    <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+    <tag k="openGeoDB:community_identification_number" v="70334"/>
+    <tag k="openGeoDB:is_in" v="Innsbruck-Land,Tirol,Österreich,Europe"/>
+    <tag k="openGeoDB:is_in_loc_id" v="77494"/>
+    <tag k="openGeoDB:layer" v="6"/>
+    <tag k="openGeoDB:loc_id" v="77557"/>
+    <tag k="openGeoDB:location" v="political_structure"/>
+    <tag k="openGeoDB:name" v="Neustift im Stubaital"/>
+    <tag k="openGeoDB:population" v="4504"/>
+    <tag k="openGeoDB:postal_codes" v="6167"/>
+    <tag k="openGeoDB:sort_name" v="NEUSTIFT"/>
+    <tag k="openGeoDB:type" v="Gemeinde"/>
+    <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="4600"/>
+    <tag k="wikidata" v="Q526569"/>
+    <tag k="wikipedia" v="de:Neustift im Stubaital"/>
+  </node>
+  <node id="240127608" lat="47.0351419" lon="10.7466146" version="6" timestamp="2019-09-26T19:51:03Z" changeset="74979338" uid="7581226" user="beautifulplaces">
+    <tag k="ele" v="1287"/>
+    <tag k="name" v="Kaunertal"/>
+    <tag k="openGeoDB:auto_update" v="population,place,name,is_in"/>
+    <tag k="openGeoDB:community_identification_number" v="70611"/>
+    <tag k="openGeoDB:is_in" v="Kaunertal,Landeck,Tirol,Österreich,Europe"/>
+    <tag k="openGeoDB:is_in_loc_id" v="77791"/>
+    <tag k="openGeoDB:layer" v="6"/>
+    <tag k="openGeoDB:loc_id" v="77811"/>
+    <tag k="openGeoDB:location" v="locality"/>
+    <tag k="openGeoDB:name" v="Kaunertal"/>
+    <tag k="openGeoDB:population" v="593"/>
+    <tag k="openGeoDB:postal_codes" v="6524"/>
+    <tag k="openGeoDB:sort_name" v="KAUNERTAL"/>
+    <tag k="openGeoDB:type" v="Gemeinde"/>
+    <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="593"/>
+  </node>
   <node id="268788418" lat="43.5263107" lon="13.0630099" version="13" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="name" v="Montecarotto"/>
     <tag k="place" v="village"/>
@@ -7980,6 +8177,26 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2973"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="1639183834" lat="47.0165487" lon="11.4196364" version="3" timestamp="2019-07-05T11:11:20Z" changeset="71927922" uid="1732100" user="Road–Runner">
+    <tag k="ele" v="1380"/>
+    <tag k="name" v="Obernberg am Brenner"/>
+    <tag k="openGeoDB:community_identification_number" v="7033601"/>
+    <tag k="openGeoDB:name" v="Obernberg am Brenner"/>
+    <tag k="openGeoDB:population" v="364"/>
+    <tag k="openGeoDB:postal_codes" v="6156"/>
+    <tag k="openGeoDB:version" v="0.2.6.11 / 2007-12-04 / http://fa-technik.adfc.de/code/opengeodb/dump/"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="364"/>
+    <tag k="wikidata" v="Q681752"/>
+    <tag k="wikipedia" v="de:Obernberg am Brenner"/>
+  </node>
+  <node id="1639184167" lat="47.0625511" lon="11.4995661" version="5" timestamp="2021-09-05T20:07:16Z" changeset="110764039" uid="1885585" user="Hungerburg">
+    <tag k="name" v="St. Jodok am Brenner"/>
+    <tag k="place" v="village"/>
+    <tag k="short_name" v="St. Jodok"/>
+    <tag k="wikidata" v="Q16294770"/>
+    <tag k="wikipedia" v="de:St. Jodok am Brenner"/>
   </node>
   <node id="1727509731" lat="41.2733301" lon="14.2230652" version="4" timestamp="2024-10-27T21:33:49Z" changeset="158432530" uid="1109359" user="makakko">
     <tag k="ele" v="180"/>
