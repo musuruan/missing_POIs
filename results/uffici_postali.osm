@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2024-12-30T02:44:45Z" areas="2024-12-29T22:45:56Z"/>
+<meta osm_base="2024-12-31T02:41:06Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -1677,10 +1677,11 @@
     <tag k="population" v="261"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510087" lat="45.8591679" lon="9.1592920" version="4" timestamp="2023-02-26T12:49:02Z" changeset="133041112" uid="43207" user="kdkeller">
+  <node id="62510087" lat="45.8591679" lon="9.1592920" version="5" timestamp="2024-12-30T19:57:04Z" changeset="160807727" uid="69717" user="kaitu">
     <tag k="name" v="Lemna"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q13100877"/>
+    <tag k="wikimedia_commons" v="Category:Lemna, Italy"/>
   </node>
   <node id="62510124" lat="46.1711426" lon="9.3514943" version="5" timestamp="2024-11-08T09:41:32Z" changeset="158888038" uid="9616185" user="LukeDH">
     <tag k="ele" v="430"/>
@@ -11771,6 +11772,21 @@
     <tag k="website" v="http://www.comune.bettona.pg.it/"/>
     <tag k="wikidata" v="Q20143"/>
     <tag k="wikipedia" v="it:Bettona"/>
+  </node>
+  <node id="68507667" lat="42.7170082" lon="13.0135022" version="14" timestamp="2024-08-15T15:47:36Z" changeset="155289577" uid="1211510" user="arcanma">
+    <tag k="ele" v="653"/>
+    <tag k="gfoss_id" v="49115"/>
+    <tag k="istat_id" v="5400710002"/>
+    <tag k="name" v="Cascia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1424"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
+    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
+    <tag k="source:population" v="Istat 2021 census"/>
+    <tag k="website" v="https://www.comune.cascia.pg.it/"/>
+    <tag k="wikidata" v="Q20384"/>
+    <tag k="wikipedia" v="it:Cascia"/>
   </node>
   <node id="68507671" lat="43.0582825" lon="12.7546565" version="13" timestamp="2024-09-02T10:24:42Z" changeset="156090942" uid="1211510" user="arcanma">
     <tag k="ele" v="360"/>
