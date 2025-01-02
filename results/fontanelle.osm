@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-01T02:53:28Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-02T02:44:05Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -538,14 +538,6 @@
     <tag k="population" v="850"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511511" lat="45.7547028" lon="9.2910470" version="10" timestamp="2024-09-16T20:56:39Z" changeset="156705978" uid="69717" user="kaitu">
-    <tag k="gfoss_id" v="7780"/>
-    <tag k="name" v="Bulciago"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2733"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023233"/>
-  </node>
   <node id="62511531" lat="45.7334743" lon="9.3128130" version="9" timestamp="2024-09-16T20:56:39Z" changeset="156705978" uid="69717" user="kaitu">
     <tag k="gfoss_id" v="7775"/>
     <tag k="name" v="Barzanò"/>
@@ -690,13 +682,6 @@
     <tag k="population" v="2103"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025456"/>
-  </node>
-  <node id="62512468" lat="45.7402429" lon="9.3032006" version="8" timestamp="2024-12-01T22:29:34Z" changeset="159822232" uid="69717" user="kaitu">
-    <tag k="gfoss_id" v="7797"/>
-    <tag k="name" v="Cremella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1530"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62512510" lat="45.8167810" lon="9.2995430" version="3" timestamp="2024-09-09T17:58:36Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="7790"/>
@@ -9507,17 +9492,6 @@
     <tag k="wikidata" v="Q243509"/>
     <tag k="wikimedia_commons" v="Category:Vallinfreda"/>
     <tag k="wikipedia" v="it:Vallinfreda"/>
-  </node>
-  <node id="72963587" lat="41.6745277" lon="12.6972435" version="5" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4961"/>
-    <tag k="name" v="Lanuvio"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13632"/>
-    <tag k="source" v="ISTAT"/>
-    <tag k="website" v="http://www.comune.lanuvio.rm.it/"/>
-    <tag k="wikidata" v="Q242793"/>
-    <tag k="wikimedia_commons" v="Category:Lanuvio"/>
-    <tag k="wikipedia" v="it:Lanuvio"/>
   </node>
   <node id="72963651" lat="42.0350216" lon="12.6422717" version="5" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4970"/>
