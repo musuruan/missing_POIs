@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-05T02:50:14Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-06T02:50:41Z" areas="2025-01-05T22:23:52Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -4709,13 +4709,6 @@
     <tag k="wikidata" v="Q53517"/>
     <tag k="wikipedia" v="it:Davoli"/>
   </node>
-  <node id="67273579" lat="38.8400860" lon="16.4096020" version="2" timestamp="2016-08-28T18:58:21Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6660"/>
-    <tag k="name" v="Cortale"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2436"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67273586" lat="39.0221900" lon="16.4861010" version="3" timestamp="2024-07-22T19:37:11Z" changeset="154278376" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6658"/>
     <tag k="name" v="Cicala"/>
@@ -4907,7 +4900,7 @@
     <tag k="population" v="1479"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274209" lat="39.1621920" lon="16.4104980" version="3" timestamp="2023-08-27T20:07:21Z" changeset="140466766" uid="18063623" user="DomeF">
+  <node id="67274209" lat="39.1622272" lon="16.4105721" version="4" timestamp="2025-01-05T04:21:14Z" changeset="161009044" uid="21490170" user="evilworld">
     <tag k="gfoss_id" v="6578"/>
     <tag k="name" v="Parenti"/>
     <tag k="place" v="village"/>
@@ -10389,21 +10382,6 @@
     <tag k="wikidata" v="Q283906"/>
     <tag k="wikipedia" v="it:Elmas"/>
     <tag k="wikipedia:sc" v="Su Masu"/>
-  </node>
-  <node id="72991791" lat="39.0744310" lon="8.6659380" version="41" timestamp="2023-04-22T19:41:00Z" changeset="135241274" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7504"/>
-    <tag k="name" v="Piscinas"/>
-    <tag k="name:it" v="Piscinas"/>
-    <tag k="name:sc" v="Piscinas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="886"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="ref:LOCODE" v="ITZQW"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.piscinas.ci.it/"/>
-    <tag k="wikidata" v="Q286625"/>
-    <tag k="wikipedia" v="it:Piscinas"/>
-    <tag k="wikipedia:sc" v="Piscinas"/>
   </node>
   <node id="72991806" lat="39.2541390" lon="9.1788460" version="48" timestamp="2023-04-22T19:38:45Z" changeset="135241189" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Cuartuciu"/>
