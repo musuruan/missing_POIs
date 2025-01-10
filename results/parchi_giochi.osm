@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-09T03:11:34Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-10T02:49:36Z" areas="2025-01-09T21:16:45Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -83,12 +83,13 @@
     <tag k="population" v="1454"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753429" lat="43.6853454" lon="11.2546637" version="3" timestamp="2016-09-13T21:24:53Z" changeset="42136022" uid="743479" user="fayor">
+  <node id="61753429" lat="43.6853454" lon="11.2546637" version="4" timestamp="2025-01-09T20:17:01Z" changeset="161183304" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="4500"/>
     <tag k="name" v="Impruneta"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14615"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026341"/>
   </node>
   <node id="61753449" lat="43.8912911" lon="11.5237068" version="6" timestamp="2024-04-03T10:39:00Z" changeset="149517505" uid="178610" user="Pab09">
     <tag k="gfoss_id" v="4491"/>
@@ -152,13 +153,14 @@
     <tag k="population" v="2367"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753555" lat="43.9947210" lon="10.2257715" version="26" timestamp="2024-04-09T12:02:30Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+  <node id="61753555" lat="43.9947210" lon="10.2257715" version="27" timestamp="2025-01-09T20:17:01Z" changeset="161183304" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="4451"/>
     <tag k="name" v="Seravezza"/>
     <tag k="name:ru" v="Серавецца"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13073"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030597"/>
   </node>
   <node id="61753562" lat="44.1199490" lon="10.3253960" version="2" timestamp="2016-09-13T21:24:50Z" changeset="42136022" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4431"/>
@@ -19898,15 +19900,6 @@
     <tag k="wikimedia_commons" v="Category:Bassiano"/>
     <tag k="wikipedia" v="it:Bassiano"/>
   </node>
-  <node id="72961101" lat="42.4447959" lon="12.7518078" version="5" timestamp="2017-03-11T12:49:47Z" changeset="46761722" uid="354284" user="sbiribizio">
-    <tag k="gfoss_id" v="4869"/>
-    <tag k="name" v="Greccio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1529"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q224144"/>
-    <tag k="wikipedia" v="it:Greccio"/>
-  </node>
   <node id="72961155" lat="41.3001731" lon="13.8139274" version="4" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5058"/>
     <tag k="name" v="Santi Cosma e Damiano"/>
@@ -24159,11 +24152,6 @@
     <tag k="wikidata" v="Q382223"/>
     <tag k="wikipedia" v="it:Romana"/>
     <tag k="wikipedia:sc" v="Rumana"/>
-  </node>
-  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
-    <tag k="name" v="Innervillgraten"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="984"/>
   </node>
   <node id="259742893" lat="42.3665063" lon="10.9002704" version="8" timestamp="2017-03-11T12:52:38Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="name" v="Giglio Castello"/>

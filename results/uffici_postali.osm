@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-09T03:07:29Z" areas="2025-01-09T00:15:20Z"/>
+<meta osm_base="2025-01-10T02:46:35Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -51,12 +51,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q52077"/>
   </node>
-  <node id="61753420" lat="43.5512080" lon="11.5858271" version="5" timestamp="2019-09-01T19:31:44Z" changeset="73980910" uid="478872" user="mcheck">
+  <node id="61753420" lat="43.5512080" lon="11.5858271" version="6" timestamp="2025-01-09T20:17:01Z" changeset="161183304" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="4622"/>
     <tag k="name" v="Terranuova Bracciolini"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12346"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031077"/>
   </node>
   <node id="61753432" lat="44.1190791" lon="11.3792271" version="3" timestamp="2016-09-13T21:24:52Z" changeset="42136022" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4496"/>
@@ -19599,20 +19600,6 @@
     <tag k="wikipedia" v="it:Bulzi"/>
     <tag k="wikipedia:sc" v="Bultzi"/>
   </node>
-  <node id="72993850" lat="40.4309503" lon="8.7149195" version="43" timestamp="2025-01-03T20:37:14Z" changeset="160965696" uid="1096017" user="Fabiano Peddis">
-    <tag k="gfoss_id" v="7234"/>
-    <tag k="name" v="Cossoine"/>
-    <tag k="name:it" v="Cossoine"/>
-    <tag k="name:sc" v="Cossoine"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="982"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.cossoine.ss.it/"/>
-    <tag k="wikidata" v="Q390692"/>
-    <tag k="wikipedia" v="it:Cossoine"/>
-    <tag k="wikipedia:sc" v="Cossoine"/>
-  </node>
   <node id="72993876" lat="40.7786640" lon="8.8081170" version="41" timestamp="2023-10-30T17:03:38Z" changeset="143376994" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7246"/>
     <tag k="name" v="Maltis/Martis"/>
@@ -20232,6 +20219,11 @@
     <tag k="wikidata" v="Q382223"/>
     <tag k="wikipedia" v="it:Romana"/>
     <tag k="wikipedia:sc" v="Rumana"/>
+  </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
   </node>
   <node id="259445128" lat="40.8763052" lon="9.6294901" version="45" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="name" v="Poltu San Pàulu/Porto San Paolo"/>
