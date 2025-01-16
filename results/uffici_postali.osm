@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-15T02:39:12Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-16T02:37:35Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -394,15 +394,6 @@
     <tag k="population" v="4181"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022912"/>
-  </node>
-  <node id="62506278" lat="45.6667845" lon="9.5613879" version="4" timestamp="2022-01-24T06:37:38Z" changeset="116526039" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="1957"/>
-    <tag k="name" v="Bonate Sotto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5429"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q99978"/>
-    <tag k="wikipedia" v="it:Bonate Sotto"/>
   </node>
   <node id="62506289" lat="45.4749770" lon="9.7773600" version="5" timestamp="2024-05-16T17:09:18Z" changeset="151418721" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1945"/>
@@ -7938,6 +7929,15 @@
     <tag k="population" v="4536"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="64778706" lat="45.6025304" lon="12.2353136" version="7" timestamp="2023-08-31T08:37:16Z" changeset="140623332" uid="11631067" user="emandt">
+    <tag k="gfoss_id" v="3441"/>
+    <tag k="name" v="Preganziol"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="16704"/>
+    <tag k="population:date" v="2023-05-31"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q46440"/>
+  </node>
   <node id="64778728" lat="45.5977665" lon="12.3257335" version="8" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3387"/>
     <tag k="name" v="Casale sul Sile"/>
@@ -12590,12 +12590,14 @@
     <tag k="source" v="http://www.tuttitalia.it/puglia/38-surbo/"/>
     <tag k="wikidata" v="Q52204"/>
   </node>
-  <node id="68529781" lat="39.9835190" lon="18.0868260" version="3" timestamp="2016-09-09T00:49:52Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="68529781" lat="39.9835190" lon="18.0868260" version="4" timestamp="2025-01-15T20:18:10Z" changeset="161394465" uid="22387533" user="captaincam">
     <tag k="gfoss_id" v="6342"/>
     <tag k="name" v="Taviano"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="12186"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="11376"/>
+    <tag k="population:date" v="2024-10-31"/>
+    <tag k="reg_name" v="Tajanu"/>
+    <tag k="source" v="geodati.gfoss.it;https://demo.istat.it/app/?l=it&amp;a=2024&amp;i=D7B"/>
   </node>
   <node id="68529797" lat="40.1301258" lon="18.1005072" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6331"/>
@@ -15354,10 +15356,10 @@
     <tag k="population" v="608"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980302" lat="43.1322530" lon="13.5363830" version="5" timestamp="2020-10-16T17:10:14Z" changeset="92596495" uid="7022493" user="Fra00">
+  <node id="70980302" lat="43.1322530" lon="13.5363830" version="6" timestamp="2025-01-16T00:37:15Z" changeset="161399928" uid="21490170" user="evilworld">
     <tag k="gfoss_id" v="4373"/>
     <tag k="name" v="Montegiorgio"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="6851"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>

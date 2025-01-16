@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-15T02:43:15Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-16T02:41:37Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -14369,12 +14369,14 @@
     <tag k="reg_name:el-it" v="Martàna"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529781" lat="39.9835190" lon="18.0868260" version="3" timestamp="2016-09-09T00:49:52Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="68529781" lat="39.9835190" lon="18.0868260" version="4" timestamp="2025-01-15T20:18:10Z" changeset="161394465" uid="22387533" user="captaincam">
     <tag k="gfoss_id" v="6342"/>
     <tag k="name" v="Taviano"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="12186"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="11376"/>
+    <tag k="population:date" v="2024-10-31"/>
+    <tag k="reg_name" v="Tajanu"/>
+    <tag k="source" v="geodati.gfoss.it;https://demo.istat.it/app/?l=it&amp;a=2024&amp;i=D7B"/>
   </node>
   <node id="68529797" lat="40.1301258" lon="18.1005072" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6331"/>
@@ -25275,10 +25277,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="278"/>
     <tag k="source" v="ISTAT (30/11/2015)"/>
-  </node>
-  <node id="4120580281" lat="44.0837560" lon="10.0373678" version="2" timestamp="2016-09-24T23:13:23Z" changeset="42413443" uid="743479" user="fayor">
-    <tag k="name" v="Casano"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="4148403034" lat="44.0810425" lon="11.7442078" version="2" timestamp="2016-09-16T15:55:12Z" changeset="42205884" uid="743479" user="fayor">
     <tag k="name" v="Tredozio"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-15T02:42:02Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-01-16T02:40:37Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -4333,15 +4333,6 @@
     <tag k="population" v="1238"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67255244" lat="37.9301966" lon="15.2680955" version="15" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="ele" v="723"/>
-    <tag k="istat_id" v="083071"/>
-    <tag k="name" v="Roccafiorita"/>
-    <tag k="name:scn" v="Roccaciurita"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="177"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
   <node id="67255727" lat="38.1731765" lon="15.3269434" version="16" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="ele" v="66"/>
     <tag k="name" v="Condrò"/>
@@ -8285,10 +8276,10 @@
     <tag k="population" v="1968"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980302" lat="43.1322530" lon="13.5363830" version="5" timestamp="2020-10-16T17:10:14Z" changeset="92596495" uid="7022493" user="Fra00">
+  <node id="70980302" lat="43.1322530" lon="13.5363830" version="6" timestamp="2025-01-16T00:37:15Z" changeset="161399928" uid="21490170" user="evilworld">
     <tag k="gfoss_id" v="4373"/>
     <tag k="name" v="Montegiorgio"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="6851"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
