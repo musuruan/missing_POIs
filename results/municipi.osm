@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-16T02:36:29Z" areas="2025-01-15T23:22:34Z"/>
+<meta osm_base="2025-01-17T02:36:26Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -7774,6 +7774,11 @@
     <tag k="wikipedia" v="it:Sant'Antonio di Gallura"/>
     <tag k="wikipedia:sc" v="Sant'Antoni de Calanzanus"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
     <tag k="name:it" v="Fontanazzo di sotto"/>
@@ -7881,6 +7886,21 @@
     <tag k="name" v="Mercato Vecchio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="285"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1395445928" lat="42.8039836" lon="13.9124050" version="4" timestamp="2018-08-06T12:32:38Z" changeset="61402909" uid="742629" user="247">
     <tag k="name" v="Tortoreto"/>
