@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-22T02:44:19Z" areas="2025-01-21T23:54:44Z"/>
+<meta osm_base="2025-01-23T02:42:43Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -1705,15 +1705,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="620"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62511153" lat="45.3283941" lon="9.8151283" version="5" timestamp="2023-09-19T20:57:54Z" changeset="141485938" uid="18934313" user="Premo19">
-    <tag k="gfoss_id" v="2676"/>
-    <tag k="name" v="Trigolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1680"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q42849"/>
-    <tag k="wikipedia" v="it:Trigolo"/>
   </node>
   <node id="62511173" lat="45.1043730" lon="10.4307810" version="4" timestamp="2024-09-09T17:59:13Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2672"/>
@@ -24137,6 +24128,11 @@
     <tag k="wikipedia" v="it:Romana"/>
     <tag k="wikipedia:sc" v="Rumana"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="259742893" lat="42.3665063" lon="10.9002704" version="8" timestamp="2017-03-11T12:52:38Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="name" v="Giglio Castello"/>
     <tag k="place" v="village"/>
@@ -24488,6 +24484,21 @@
     <tag k="loc_name" v="Plan de Veyne"/>
     <tag k="name" v="Plan-de-Veyne"/>
     <tag k="place" v="hamlet"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1396037034" lat="44.2728242" lon="9.6074789" version="2" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
     <tag k="name" v="Carro"/>
