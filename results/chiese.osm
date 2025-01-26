@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-25T02:36:01Z" areas="2025-01-25T00:54:25Z"/>
+<meta osm_base="2025-01-26T02:41:53Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -5809,12 +5809,13 @@
     <tag k="population" v="4163"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979431" lat="43.5111580" lon="13.0736670" version="2" timestamp="2016-09-09T17:36:44Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979431" lat="43.5111580" lon="13.0736670" version="3" timestamp="2025-01-26T00:26:24Z" changeset="161765546" uid="123412" user="totera">
     <tag k="gfoss_id" v="4264"/>
     <tag k="name" v="Poggio San Marcello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="737"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028955"/>
   </node>
   <node id="70979444" lat="43.5255610" lon="13.3920730" version="2" timestamp="2016-09-09T17:36:44Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4265"/>
@@ -5823,28 +5824,12 @@
     <tag k="population" v="3015"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979496" lat="43.4545580" lon="13.1727700" version="2" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4269"/>
-    <tag k="name" v="San Paolo di Jesi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="841"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70979747" lat="43.1076351" lon="13.7956684" version="4" timestamp="2024-07-23T14:27:44Z" changeset="154310342" uid="178610" user="Pab09">
     <tag k="gfoss_id" v="4336"/>
     <tag k="name" v="Altidona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2292"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70979832" lat="42.8599470" lon="13.4767850" version="4" timestamp="2020-01-17T00:07:23Z" changeset="79670178" uid="123412" user="totera">
-    <tag k="alt_name" v="Marsia"/>
-    <tag k="gfoss_id" v="4397"/>
-    <tag k="name" v="Roccafluvione"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2195"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18496544"/>
   </node>
   <node id="70979994" lat="43.1364530" lon="13.4684810" version="2" timestamp="2016-09-09T17:36:38Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4366"/>
@@ -7866,6 +7851,11 @@
     <tag k="wikidata" v="Q390699"/>
     <tag k="wikipedia" v="sc:Èrula"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="268788418" lat="43.5263107" lon="13.0630099" version="13" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="name" v="Montecarotto"/>
     <tag k="place" v="village"/>
@@ -7956,6 +7946,21 @@
     <tag k="name" v="Mercato Vecchio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="285"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1402414092" lat="45.7434637" lon="12.0924600" version="9" timestamp="2023-03-17T08:45:08Z" changeset="133778688" uid="1801173" user="Pucciotrex30">
     <tag k="name" v="Falzè"/>

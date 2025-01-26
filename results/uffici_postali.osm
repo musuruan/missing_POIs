@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-25T02:35:02Z" areas="2025-01-25T00:54:25Z"/>
+<meta osm_base="2025-01-26T02:40:48Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -14378,21 +14378,6 @@
     <tag k="wikidata" v="Q94745"/>
     <tag k="wikipedia" v="it:Castel di Casio"/>
   </node>
-  <node id="69300118" lat="44.6241987" lon="11.4906968" version="10" timestamp="2017-05-02T17:39:40Z" changeset="48342192" uid="1834719" user="LvdT">
-    <tag k="ele" v="16"/>
-    <tag k="gfoss_id" v="4064"/>
-    <tag k="name" v="Minerbio"/>
-    <tag k="name:egl" v="Mnérbi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8793"/>
-    <tag k="postal_code" v="40061"/>
-    <tag k="ref:ISTAT" v="037038"/>
-    <tag k="ref:catasto" v="F219"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.minerbio.bo.it/"/>
-    <tag k="wikidata" v="Q94948"/>
-    <tag k="wikipedia" v="it:Minerbio"/>
-  </node>
   <node id="69300161" lat="44.2758590" lon="10.9994080" version="10" timestamp="2023-10-30T05:46:50Z" changeset="143344571" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="805"/>
     <tag k="gfoss_id" v="4039"/>
@@ -15270,12 +15255,13 @@
     <tag k="population" v="2446"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979431" lat="43.5111580" lon="13.0736670" version="2" timestamp="2016-09-09T17:36:44Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979431" lat="43.5111580" lon="13.0736670" version="3" timestamp="2025-01-26T00:26:24Z" changeset="161765546" uid="123412" user="totera">
     <tag k="gfoss_id" v="4264"/>
     <tag k="name" v="Poggio San Marcello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="737"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028955"/>
   </node>
   <node id="70979444" lat="43.5255610" lon="13.3920730" version="2" timestamp="2016-09-09T17:36:44Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4265"/>
@@ -15284,12 +15270,13 @@
     <tag k="population" v="3015"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979496" lat="43.4545580" lon="13.1727700" version="2" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979496" lat="43.4545580" lon="13.1727700" version="3" timestamp="2025-01-26T00:26:25Z" changeset="161765546" uid="123412" user="totera">
     <tag k="gfoss_id" v="4269"/>
     <tag k="name" v="San Paolo di Jesi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="841"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030085"/>
   </node>
   <node id="70979523" lat="43.5760610" lon="13.2060680" version="2" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4268"/>
@@ -20197,6 +20184,11 @@
     <tag k="wikipedia" v="it:Romana"/>
     <tag k="wikipedia:sc" v="Rumana"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="259445128" lat="40.8763052" lon="9.6294901" version="45" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="name" v="Poltu San Pàulu/Porto San Paolo"/>
     <tag k="name:co" v="Poltu San Pàulu"/>
@@ -20594,6 +20586,21 @@
     <tag k="loc_name" v="Plan de Veyne"/>
     <tag k="name" v="Plan-de-Veyne"/>
     <tag k="place" v="hamlet"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1402807545" lat="45.8737061" lon="9.4830221" version="5" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="Martino Scaglione">
     <tag k="ele" v="1070"/>
