@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-31T02:38:33Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-01T02:40:27Z" areas="2025-02-01T00:35:02Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -8470,14 +8470,15 @@
     <tag k="population" v="1730"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502897" lat="45.8457769" lon="12.8806648" version="11" timestamp="2024-11-30T16:42:46Z" changeset="159780454" uid="20552772" user="user_8y978a">
+  <node id="66502897" lat="45.8457769" lon="12.8806648" version="12" timestamp="2025-01-31T15:41:09Z" changeset="161981828" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="7524"/>
     <tag k="name" v="Cordovado"/>
     <tag k="name:fur" v="Cordovât"/>
-    <tag k="note" v="Il numero si riferisce alla popolazione dell'intero comune, non a quella del centro abitato o del solo centro storico."/>
+    <tag k="name:vec" v="Cordovado"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2705"/>
     <tag k="population:date" v="31-8-2024"/>
+    <tag k="source:name" v="wikipedia"/>
     <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="66502904" lat="46.1871178" lon="12.7530826" version="7" timestamp="2023-03-06T22:20:40Z" changeset="133381702" uid="129060" user="Klenje">
@@ -9547,12 +9548,13 @@
     <tag k="wikidata" v="Q53909"/>
     <tag k="wikipedia" v="it:Mangone"/>
   </node>
-  <node id="67274096" lat="39.5996980" lon="16.0532850" version="2" timestamp="2016-08-28T18:58:29Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274096" lat="39.5996980" lon="16.0532850" version="3" timestamp="2025-01-31T15:08:35Z" changeset="161980560" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="6558"/>
     <tag k="name" v="Malvito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2078"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027159"/>
   </node>
   <node id="67274103" lat="39.1549900" lon="16.2485950" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6557"/>
@@ -16028,12 +16030,13 @@
     <tag k="population" v="1049"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992394" lat="42.4551678" lon="13.2321888" version="4" timestamp="2017-11-29T22:11:55Z" changeset="54190499" uid="4780829" user="Pedisa">
+  <node id="70992394" lat="42.4551678" lon="13.2321888" version="5" timestamp="2025-01-31T11:00:31Z" changeset="161972648" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5720"/>
     <tag k="name" v="Cagnano Amiterno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1509"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023308"/>
   </node>
   <node id="70992419" lat="41.9570270" lon="13.4735980" version="4" timestamp="2024-07-01T06:08:22Z" changeset="153395041" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5758"/>
@@ -20162,11 +20165,6 @@
     <tag k="wikipedia" v="it:Romana"/>
     <tag k="wikipedia:sc" v="Rumana"/>
   </node>
-  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
-    <tag k="name" v="Innervillgraten"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="984"/>
-  </node>
   <node id="259445128" lat="40.8763052" lon="9.6294901" version="45" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="name" v="Poltu San Pàulu/Porto San Paolo"/>
     <tag k="name:co" v="Poltu San Pàulu"/>
@@ -20564,21 +20562,6 @@
     <tag k="loc_name" v="Plan de Veyne"/>
     <tag k="name" v="Plan-de-Veyne"/>
     <tag k="place" v="hamlet"/>
-  </node>
-  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="capital" v="6"/>
-    <tag k="ele" v="273"/>
-    <tag k="name" v="Lugano"/>
-    <tag k="name:lt" v="Luganas"/>
-    <tag k="name:ru" v="Лугано"/>
-    <tag k="old_name:de" v="Lauis"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="67000"/>
-    <tag k="population:date" v="2020"/>
-    <tag k="website" v="https://www.lugano.ch/"/>
-    <tag k="wikidata" v="Q7024"/>
-    <tag k="wikimedia_commons" v="Category:Lugano"/>
-    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1402807545" lat="45.8737061" lon="9.4830221" version="5" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="Martino Scaglione">
     <tag k="ele" v="1070"/>

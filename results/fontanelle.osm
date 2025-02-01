@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-31T02:41:19Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-01T02:44:29Z" areas="2025-02-01T00:35:02Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -4821,12 +4821,13 @@
     <tag k="wikidata" v="Q53909"/>
     <tag k="wikipedia" v="it:Mangone"/>
   </node>
-  <node id="67274096" lat="39.5996980" lon="16.0532850" version="2" timestamp="2016-08-28T18:58:29Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274096" lat="39.5996980" lon="16.0532850" version="3" timestamp="2025-01-31T15:08:35Z" changeset="161980560" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="6558"/>
     <tag k="name" v="Malvito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2078"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027159"/>
   </node>
   <node id="67274103" lat="39.1549900" lon="16.2485950" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6557"/>
@@ -11677,11 +11678,6 @@
     <tag k="population" v="3165"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
-    <tag k="name" v="Innervillgraten"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="984"/>
-  </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>
     <tag k="place" v="village"/>
@@ -11795,21 +11791,6 @@
     <tag k="website" v="https://comune.calasetta.ci.it/"/>
     <tag k="wikidata" v="Q286187"/>
     <tag k="wikipedia" v="it:Calasetta"/>
-  </node>
-  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="capital" v="6"/>
-    <tag k="ele" v="273"/>
-    <tag k="name" v="Lugano"/>
-    <tag k="name:lt" v="Luganas"/>
-    <tag k="name:ru" v="Лугано"/>
-    <tag k="old_name:de" v="Lauis"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="67000"/>
-    <tag k="population:date" v="2020"/>
-    <tag k="website" v="https://www.lugano.ch/"/>
-    <tag k="wikidata" v="Q7024"/>
-    <tag k="wikimedia_commons" v="Category:Lugano"/>
-    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1520890976" lat="45.2723159" lon="11.2477997" version="5" timestamp="2021-03-27T22:55:59Z" changeset="101856814" uid="504502" user="kkklllppp">
     <tag k="name" v="Roverchiara"/>

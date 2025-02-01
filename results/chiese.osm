@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-01-31T02:39:32Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-01T02:41:44Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -2231,12 +2231,13 @@
     <tag k="wikidata" v="Q53909"/>
     <tag k="wikipedia" v="it:Mangone"/>
   </node>
-  <node id="67274096" lat="39.5996980" lon="16.0532850" version="2" timestamp="2016-08-28T18:58:29Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274096" lat="39.5996980" lon="16.0532850" version="3" timestamp="2025-01-31T15:08:35Z" changeset="161980560" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="6558"/>
     <tag k="name" v="Malvito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2078"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027159"/>
   </node>
   <node id="67274103" lat="39.1549900" lon="16.2485950" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6557"/>
@@ -8087,6 +8088,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1812"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
+    <tag k="ele" v="196"/>
+    <tag k="name" v="Gambarogno"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5073"/>
+    <tag k="website" v="http://www.gambarogno.ch/"/>
+    <tag k="wikidata" v="Q70234"/>
+    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3914315265" lat="45.8603334" lon="11.8952132" version="3" timestamp="2022-12-17T16:50:08Z" changeset="130191481" uid="16027838" user="aLbRc">
     <tag k="ele" v="265"/>
