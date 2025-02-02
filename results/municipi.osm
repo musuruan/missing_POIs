@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-01T02:40:27Z" areas="2025-02-01T00:35:02Z"/>
+<meta osm_base="2025-02-02T02:38:54Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -6377,11 +6377,12 @@
     <tag k="population" v="539"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993848" lat="42.6780416" lon="13.8215888" version="4" timestamp="2021-10-30T08:29:54Z" changeset="113151827" uid="9475258" user="Aranc">
+  <node id="70993848" lat="42.6780416" lon="13.8215888" version="5" timestamp="2025-02-01T14:22:45Z" changeset="162012711" uid="1940323" user="SekeRob">
     <tag k="gfoss_id" v="5826"/>
     <tag k="name" v="Castellalto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7513"/>
+    <tag k="postal_code" v="64020"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51430"/>
     <tag k="wikipedia" v="it:Castellalto"/>
@@ -7778,6 +7779,11 @@
     <tag k="wikipedia" v="it:Sant'Antonio di Gallura"/>
     <tag k="wikipedia:sc" v="Sant'Antoni de Calanzanus"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
     <tag k="name:it" v="Fontanazzo di sotto"/>
@@ -7886,6 +7892,21 @@
     <tag k="place" v="village"/>
     <tag k="population" v="285"/>
   </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
+  </node>
   <node id="1412962093" lat="45.0419243" lon="10.9282948" version="7" timestamp="2017-08-05T14:23:40Z" changeset="50864217" uid="504502" user="kkklllppp">
     <tag k="name" v="San Benedetto Po"/>
     <tag k="place" v="village"/>
@@ -7899,12 +7920,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="688"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="1460046457" lat="45.5945240" lon="11.9446117" version="3" timestamp="2016-10-06T18:22:32Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="name" v="Loreggia"/>
-    <tag k="name:vec" v="Loreja"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7598"/>
   </node>
   <node id="1487570666" lat="45.7176620" lon="12.2068345" version="5" timestamp="2019-03-18T17:59:28Z" changeset="68267461" uid="554973" user="dgitto">
     <tag k="name" v="Paderno"/>
@@ -7927,6 +7942,55 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2118"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
+  </node>
+  <node id="1640456909" lat="45.5479864" lon="13.7304781" version="28" timestamp="2024-08-27T16:21:39Z" changeset="155840415" uid="10504312" user="Jobigutenburg">
+    <tag k="alt_name:hy" v="Կապոդիստրիա"/>
+    <tag k="alt_name:la" v="Caput Histriae;Capris;Capraria;Caprea"/>
+    <tag k="alt_name:sr" v="Копер"/>
+    <tag k="alt_name:th" v="กาโปดิสเตรีย"/>
+    <tag k="int_name" v="Koper"/>
+    <tag k="name" v="Koper / Capodistria"/>
+    <tag k="name:ar" v="كوبر"/>
+    <tag k="name:ba" v="Копер"/>
+    <tag k="name:be" v="Копер"/>
+    <tag k="name:bg" v="Копер"/>
+    <tag k="name:da" v="Koper"/>
+    <tag k="name:el" v="Κόπερ"/>
+    <tag k="name:fa" v="کوپر"/>
+    <tag k="name:fur" v="Cjaudistrie"/>
+    <tag k="name:he" v="קופר"/>
+    <tag k="name:hr" v="Kopar"/>
+    <tag k="name:hy" v="Կոպեր"/>
+    <tag k="name:it" v="Capodistria"/>
+    <tag k="name:ja" v="コペル"/>
+    <tag k="name:ka" v="კოპერი"/>
+    <tag k="name:ko" v="코페르"/>
+    <tag k="name:la" v="Iustinopolis"/>
+    <tag k="name:lt" v="Koperis"/>
+    <tag k="name:lv" v="Kopera"/>
+    <tag k="name:mk" v="Копер"/>
+    <tag k="name:ml" v="കോപ്പർ"/>
+    <tag k="name:pnb" v="کوپر"/>
+    <tag k="name:ps" v="کپر"/>
+    <tag k="name:ru" v="Копер"/>
+    <tag k="name:sl" v="Koper"/>
+    <tag k="name:sr" v="Копар"/>
+    <tag k="name:th" v="โคเปอร์"/>
+    <tag k="name:uk" v="Копер"/>
+    <tag k="name:ur" v="کوپر"/>
+    <tag k="name:vec" v="Capodistria"/>
+    <tag k="name:wuu" v="科佩尔"/>
+    <tag k="name:zh-Hans" v="科佩尔"/>
+    <tag k="name:zh-Hant" v="科佩爾"/>
+    <tag k="old_name" v="Capodistria"/>
+    <tag k="old_name:de" v="Gafers"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="24900"/>
+    <tag k="postal_code" v="6000"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="website" v="https://www.koper.si/"/>
+    <tag k="wikidata" v="Q1015"/>
+    <tag k="wikipedia" v="sl:Koper"/>
   </node>
   <node id="1653249151" lat="45.7445264" lon="7.5498540" version="2" timestamp="2023-07-26T14:54:23Z" changeset="139042066" uid="18892689" user="ComitéNosAccents">
     <tag k="name" v="Chambave"/>
@@ -8022,6 +8086,15 @@
     <tag k="name" v="Barano d'Ischia"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10113"/>
+  </node>
+  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
+    <tag k="ele" v="196"/>
+    <tag k="name" v="Gambarogno"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5073"/>
+    <tag k="website" v="http://www.gambarogno.ch/"/>
+    <tag k="wikidata" v="Q70234"/>
+    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3791033198" lat="44.1160352" lon="7.9549457" version="6" timestamp="2024-07-28T22:01:10Z" changeset="154539872" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="528"/>
