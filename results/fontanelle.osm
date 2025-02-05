@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-04T02:41:20Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-05T02:43:15Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
@@ -2552,12 +2552,6 @@
     <tag k="population" v="307"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63625676" lat="45.6205660" lon="8.2796240" version="4" timestamp="2023-01-17T19:51:58Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="7763"/>
-    <tag k="name" v="Villa del Bosco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="375"/>
-  </node>
   <node id="63625802" lat="44.3770350" lon="8.1411440" version="4" timestamp="2023-01-17T19:44:41Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="630"/>
@@ -4278,12 +4272,13 @@
     <tag k="population" v="5182"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67254449" lat="37.5688530" lon="15.0228860" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67254449" lat="37.5688530" lon="15.0228860" version="15" timestamp="2025-02-04T12:58:32Z" changeset="162124547" uid="43207" user="kdkeller">
     <tag k="name" v="San Pietro Clarenza"/>
     <tag k="name:scn" v="San Petru Clarenza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8331"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
+    <tag k="wikidata" v="Q30030099"/>
   </node>
   <node id="67254525" lat="37.0833929" lon="14.5616741" version="16" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Mazzarrone"/>
@@ -4585,12 +4580,13 @@
     <tag k="population" v="568"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273444" lat="38.9962900" lon="16.5796040" version="2" timestamp="2016-08-28T18:58:24Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273444" lat="38.9962900" lon="16.5796040" version="3" timestamp="2025-02-04T12:39:23Z" changeset="162123816" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="6667"/>
     <tag k="name" v="Fossato Serralta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="660"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025850"/>
   </node>
   <node id="67273454" lat="38.7396499" lon="16.5073811" version="5" timestamp="2024-07-22T16:54:11Z" changeset="154272306" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6669"/>
@@ -4601,12 +4597,13 @@
     <tag k="wikidata" v="Q53525"/>
     <tag k="wikipedia" v="it:Gasperina"/>
   </node>
-  <node id="67273465" lat="39.0133900" lon="16.6279040" version="2" timestamp="2016-08-28T18:58:29Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273465" lat="39.0133900" lon="16.6279040" version="3" timestamp="2025-02-04T12:39:24Z" changeset="162123816" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="6676"/>
     <tag k="name" v="Magisano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1318"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026844"/>
   </node>
   <node id="67273472" lat="38.9489860" lon="16.4719316" version="4" timestamp="2016-08-28T18:58:31Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6682"/>
@@ -4632,12 +4629,13 @@
     <tag k="population" v="4282"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273499" lat="38.8379860" lon="16.5187040" version="2" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273499" lat="38.8379860" lon="16.5187040" version="3" timestamp="2025-02-04T12:39:25Z" changeset="162123816" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="6694"/>
     <tag k="name" v="San Floro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="594"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029891"/>
   </node>
   <node id="67273505" lat="39.0591104" lon="16.1901244" version="5" timestamp="2022-07-24T16:27:46Z" changeset="124016423" uid="923271" user="aldoct">
     <tag k="gfoss_id" v="6695"/>
@@ -4653,12 +4651,13 @@
     <tag k="population" v="5764"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273520" lat="39.0193900" lon="16.5691030" version="2" timestamp="2016-08-28T18:58:49Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273520" lat="39.0193900" lon="16.5691030" version="3" timestamp="2025-02-04T12:39:25Z" changeset="162123816" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="6709"/>
     <tag k="name" v="Sorbo San Basile"/>
     <tag k="place" v="village"/>
     <tag k="population" v="932"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030812"/>
   </node>
   <node id="67273536" lat="38.8812870" lon="16.4856030" version="3" timestamp="2016-09-05T17:27:22Z" changeset="41936559" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6650"/>
@@ -5977,12 +5976,13 @@
     <tag k="population" v="921"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284275" lat="41.7168260" lon="14.0694150" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284275" lat="41.7168260" lon="14.0694150" version="3" timestamp="2025-02-04T08:02:50Z" changeset="162114048" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="7586"/>
     <tag k="name" v="Montenero Val Cocchiara"/>
     <tag k="place" v="village"/>
     <tag k="population" v="608"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027914"/>
   </node>
   <node id="67284310" lat="41.4951210" lon="14.0068160" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7575"/>
@@ -8736,13 +8736,13 @@
     <tag k="wikimedia_commons" v="Category:Rocca di Botte"/>
     <tag k="wikipedia" v="it:Rocca di Botte"/>
   </node>
-  <node id="70992640" lat="42.0082290" lon="13.6227010" version="3" timestamp="2023-09-25T14:16:08Z" changeset="141733703" uid="3860151" user="Michele Aquilani">
+  <node id="70992640" lat="42.0082290" lon="13.6227010" version="4" timestamp="2025-02-04T08:38:06Z" changeset="162115161" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5792"/>
     <tag k="name" v="San Benedetto dei Marsi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4006"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q50139"/>
+    <tag k="wikidata" v="Q30029771"/>
     <tag k="wikimedia_commons" v="Category:San Benedetto dei Marsi"/>
     <tag k="wikipedia" v="it:San Benedetto dei Marsi"/>
   </node>
@@ -8768,12 +8768,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18427125"/>
   </node>
-  <node id="70992847" lat="42.1270330" lon="13.8167030" version="2" timestamp="2016-09-08T02:39:04Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992847" lat="42.1270330" lon="13.8167030" version="3" timestamp="2025-02-04T07:41:09Z" changeset="162113443" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5815"/>
     <tag k="name" v="Vittorito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1012"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031918"/>
   </node>
   <node id="70992962" lat="42.3106488" lon="13.6886152" version="5" timestamp="2025-02-03T16:38:41Z" changeset="162094032" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5737"/>
@@ -8784,28 +8785,30 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024329"/>
   </node>
-  <node id="70992994" lat="42.1152320" lon="13.7426020" version="2" timestamp="2016-09-08T02:38:56Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992994" lat="42.1152320" lon="13.7426020" version="3" timestamp="2025-02-04T10:06:04Z" changeset="162118327" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5734"/>
     <tag k="name" v="Castel di Ieri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="405"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024105"/>
   </node>
-  <node id="70993018" lat="42.1241749" lon="13.8424893" version="3" timestamp="2020-12-19T09:47:40Z" changeset="96101964" uid="7022493" user="Fra00">
+  <node id="70993018" lat="42.1241749" lon="13.8424893" version="4" timestamp="2025-02-04T07:41:11Z" changeset="162113443" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5748"/>
     <tag k="name" v="Corfinio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="997"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025098"/>
   </node>
-  <node id="70993229" lat="42.1490330" lon="13.7354010" version="4" timestamp="2024-07-17T07:59:17Z" changeset="154045404" uid="9451067" user="b-jazz-bot">
+  <node id="70993229" lat="42.1490330" lon="13.7354010" version="5" timestamp="2025-02-04T10:06:03Z" changeset="162118327" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5762"/>
     <tag k="name" v="Molina Aterno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="463"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://comune.molinaaterno.aq.it/"/>
-    <tag k="wikidata" v="Q50108"/>
+    <tag k="wikidata" v="Q30027613"/>
     <tag k="wikipedia" v="it:Molina Aterno"/>
   </node>
   <node id="70993330" lat="42.3334621" lon="13.7774355" version="3" timestamp="2020-12-21T23:09:12Z" changeset="96220475" uid="7022493" user="Fra00">
@@ -12129,11 +12132,11 @@
     <tag k="place" v="village"/>
     <tag k="population" v="331"/>
   </node>
-  <node id="4391227795" lat="42.0637848" lon="13.6001354" version="3" timestamp="2023-09-04T13:21:00Z" changeset="140805432" uid="3860151" user="Michele Aquilani">
+  <node id="4391227795" lat="42.0637848" lon="13.6001354" version="4" timestamp="2025-02-04T08:44:05Z" changeset="162115400" uid="79364" user="klaus e werner">
     <tag k="name" v="Cerchio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1635"/>
-    <tag k="wikidata" v="Q50080"/>
+    <tag k="wikidata" v="Q30024546"/>
     <tag k="wikimedia_commons" v="Category:Cerchio (Italy)"/>
     <tag k="wikipedia" v="it:Cerchio (Italia)"/>
   </node>
