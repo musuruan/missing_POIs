@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-05T02:39:09Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-06T02:40:17Z" areas="2025-02-05T20:56:15Z"/>
 
+  <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
+    <tag k="addr:postcode" v="74170"/>
+    <tag k="name" v="Saint-Gervais-les-Bains"/>
+    <tag k="name:frp" v="San-Zharvé"/>
+    <tag k="name:zh" v="圣热尔韦莱班"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5602"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikidata" v="Q534206"/>
+    <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
+  </node>
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
@@ -6036,20 +6048,21 @@
     <tag k="population" v="2536"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992331" lat="41.9891260" lon="13.3343950" version="2" timestamp="2016-09-08T02:38:56Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992331" lat="41.9891260" lon="13.3343950" version="3" timestamp="2025-02-05T09:03:57Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5736"/>
     <tag k="name" v="Castellafiume"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1049"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q18426594"/>
   </node>
-  <node id="70992371" lat="42.0989270" lon="13.0848880" version="8" timestamp="2023-09-18T10:48:39Z" changeset="141418245" uid="3860151" user="Michele Aquilani">
+  <node id="70992371" lat="42.0989270" lon="13.0848880" version="9" timestamp="2025-02-05T09:04:06Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5732"/>
     <tag k="name" v="Carsoli"/>
     <tag k="place" v="town"/>
     <tag k="population" v="5086"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q50070"/>
+    <tag k="wikidata" v="Q30023852"/>
     <tag k="wikimedia_commons" v="Category:Carsoli"/>
     <tag k="wikipedia" v="it:Carsoli"/>
   </node>
@@ -6093,12 +6106,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024835"/>
   </node>
-  <node id="70992554" lat="41.9160260" lon="13.4268980" version="2" timestamp="2016-09-08T02:38:56Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992554" lat="41.9160260" lon="13.4268980" version="3" timestamp="2025-02-05T09:16:38Z" changeset="162156829" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5743"/>
     <tag k="name" v="Civitella Roveto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3330"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024854"/>
   </node>
   <node id="70992570" lat="42.1265320" lon="13.7000010" version="2" timestamp="2016-09-08T02:38:57Z" changeset="41992756" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5752"/>
@@ -6128,13 +6142,13 @@
     <tag k="wikimedia_commons" v="Category:San Benedetto dei Marsi"/>
     <tag k="wikipedia" v="it:San Benedetto dei Marsi"/>
   </node>
-  <node id="70992789" lat="41.8669965" lon="13.6245098" version="4" timestamp="2023-09-04T13:21:00Z" changeset="140805432" uid="3860151" user="Michele Aquilani">
+  <node id="70992789" lat="41.8669965" lon="13.6245098" version="5" timestamp="2025-02-05T08:52:40Z" changeset="162156002" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5813"/>
     <tag k="name" v="Villavallelonga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1004"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q50170"/>
+    <tag k="wikidata" v="Q30031880"/>
     <tag k="wikimedia_commons" v="Category:Villavallelonga"/>
     <tag k="wikipedia" v="it:Villavallelonga"/>
   </node>
@@ -6190,14 +6204,15 @@
     <tag k="population" v="686"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993170" lat="41.9334300" lon="13.9770100" version="3" timestamp="2016-09-08T02:39:01Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70993170" lat="41.9334300" lon="13.9770100" version="4" timestamp="2025-02-05T08:43:29Z" changeset="162155700" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5790"/>
     <tag k="name" v="Rocca Pia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029449"/>
   </node>
-  <node id="70993202" lat="41.9745310" lon="13.9587090" version="6" timestamp="2024-02-09T11:37:26Z" changeset="147252581" uid="1940323" user="SekeRob">
+  <node id="70993202" lat="41.9745310" lon="13.9587090" version="7" timestamp="2025-02-05T08:43:27Z" changeset="162155700" uid="79364" user="klaus e werner">
     <tag k="ele" v="656"/>
     <tag k="gfoss_id" v="5778"/>
     <tag k="name" v="Pettorano sul Gizio"/>
@@ -6205,18 +6220,18 @@
     <tag k="population" v="1255"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://comune.pettorano.aq.it/"/>
-    <tag k="wikidata" v="Q50124"/>
+    <tag k="wikidata" v="Q30028773"/>
     <tag k="wikimedia_commons" v="Category:Pettorano sul Gizio"/>
     <tag k="wikipedia" v="it:Pettorano sul Gizio"/>
   </node>
-  <node id="70993237" lat="42.0492250" lon="13.0393870" version="4" timestamp="2024-02-01T09:23:07Z" changeset="146937492" uid="3860151" user="Michele Aquilani">
+  <node id="70993237" lat="42.0492250" lon="13.0393870" version="5" timestamp="2025-02-05T09:04:07Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5769"/>
     <tag k="name" v="Oricola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="950"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.oricola.aq.it/"/>
-    <tag k="wikidata" v="Q50115"/>
+    <tag k="wikidata" v="Q33704120"/>
     <tag k="wikimedia_commons" v="Category:Oricola"/>
     <tag k="wikipedia" v="it:Oricola"/>
   </node>
@@ -6747,13 +6762,13 @@
     <tag k="wikimedia_commons" v="Category:Roccasecca"/>
     <tag k="wikipedia" v="it:Roccasecca"/>
   </node>
-  <node id="72960725" lat="41.6767230" lon="13.7064070" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960725" lat="41.6767230" lon="13.7064070" version="5" timestamp="2025-02-05T10:38:14Z" changeset="162159580" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5151"/>
     <tag k="name" v="Vicalvi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="801"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q117579"/>
+    <tag k="wikidata" v="Q30031692"/>
     <tag k="wikipedia" v="it:Vicalvi"/>
   </node>
   <node id="72960740" lat="41.5496912" lon="13.9145849" version="3" timestamp="2016-09-07T16:57:10Z" changeset="41983637" uid="743479" user="fayor">
@@ -7099,14 +7114,14 @@
     <tag k="population" v="705"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962158" lat="42.0405250" lon="13.0183870" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
+  <node id="72962158" lat="42.0405250" lon="13.0183870" version="5" timestamp="2025-02-05T09:04:08Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="4921"/>
     <tag k="name" v="Arsoli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1537"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.arsoli.rm.it/"/>
-    <tag k="wikidata" v="Q241758"/>
+    <tag k="wikidata" v="Q30022373"/>
     <tag k="wikimedia_commons" v="Category:Arsoli"/>
     <tag k="wikipedia" v="it:Arsoli"/>
   </node>
@@ -7792,11 +7807,6 @@
     <tag k="wikipedia" v="it:Sant'Antonio di Gallura"/>
     <tag k="wikipedia:sc" v="Sant'Antoni de Calanzanus"/>
   </node>
-  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
-    <tag k="name" v="Innervillgraten"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="984"/>
-  </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
     <tag k="name:it" v="Fontanazzo di sotto"/>
@@ -7905,21 +7915,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="285"/>
   </node>
-  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="capital" v="6"/>
-    <tag k="ele" v="273"/>
-    <tag k="name" v="Lugano"/>
-    <tag k="name:lt" v="Luganas"/>
-    <tag k="name:ru" v="Лугано"/>
-    <tag k="old_name:de" v="Lauis"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="67000"/>
-    <tag k="population:date" v="2020"/>
-    <tag k="website" v="https://www.lugano.ch/"/>
-    <tag k="wikidata" v="Q7024"/>
-    <tag k="wikimedia_commons" v="Category:Lugano"/>
-    <tag k="wikipedia" v="it:Lugano"/>
-  </node>
   <node id="1412962093" lat="45.0419243" lon="10.9282948" version="7" timestamp="2017-08-05T14:23:40Z" changeset="50864217" uid="504502" user="kkklllppp">
     <tag k="name" v="San Benedetto Po"/>
     <tag k="place" v="village"/>
@@ -7956,55 +7951,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2118"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
-  <node id="1640456909" lat="45.5479864" lon="13.7304781" version="28" timestamp="2024-08-27T16:21:39Z" changeset="155840415" uid="10504312" user="Jobigutenburg">
-    <tag k="alt_name:hy" v="Կապոդիստրիա"/>
-    <tag k="alt_name:la" v="Caput Histriae;Capris;Capraria;Caprea"/>
-    <tag k="alt_name:sr" v="Копер"/>
-    <tag k="alt_name:th" v="กาโปดิสเตรีย"/>
-    <tag k="int_name" v="Koper"/>
-    <tag k="name" v="Koper / Capodistria"/>
-    <tag k="name:ar" v="كوبر"/>
-    <tag k="name:ba" v="Копер"/>
-    <tag k="name:be" v="Копер"/>
-    <tag k="name:bg" v="Копер"/>
-    <tag k="name:da" v="Koper"/>
-    <tag k="name:el" v="Κόπερ"/>
-    <tag k="name:fa" v="کوپر"/>
-    <tag k="name:fur" v="Cjaudistrie"/>
-    <tag k="name:he" v="קופר"/>
-    <tag k="name:hr" v="Kopar"/>
-    <tag k="name:hy" v="Կոպեր"/>
-    <tag k="name:it" v="Capodistria"/>
-    <tag k="name:ja" v="コペル"/>
-    <tag k="name:ka" v="კოპერი"/>
-    <tag k="name:ko" v="코페르"/>
-    <tag k="name:la" v="Iustinopolis"/>
-    <tag k="name:lt" v="Koperis"/>
-    <tag k="name:lv" v="Kopera"/>
-    <tag k="name:mk" v="Копер"/>
-    <tag k="name:ml" v="കോപ്പർ"/>
-    <tag k="name:pnb" v="کوپر"/>
-    <tag k="name:ps" v="کپر"/>
-    <tag k="name:ru" v="Копер"/>
-    <tag k="name:sl" v="Koper"/>
-    <tag k="name:sr" v="Копар"/>
-    <tag k="name:th" v="โคเปอร์"/>
-    <tag k="name:uk" v="Копер"/>
-    <tag k="name:ur" v="کوپر"/>
-    <tag k="name:vec" v="Capodistria"/>
-    <tag k="name:wuu" v="科佩尔"/>
-    <tag k="name:zh-Hans" v="科佩尔"/>
-    <tag k="name:zh-Hant" v="科佩爾"/>
-    <tag k="old_name" v="Capodistria"/>
-    <tag k="old_name:de" v="Gafers"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="24900"/>
-    <tag k="postal_code" v="6000"/>
-    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
-    <tag k="website" v="https://www.koper.si/"/>
-    <tag k="wikidata" v="Q1015"/>
-    <tag k="wikipedia" v="sl:Koper"/>
   </node>
   <node id="1653249151" lat="45.7445264" lon="7.5498540" version="2" timestamp="2023-07-26T14:54:23Z" changeset="139042066" uid="18892689" user="ComitéNosAccents">
     <tag k="name" v="Chambave"/>
@@ -8100,15 +8046,6 @@
     <tag k="name" v="Barano d'Ischia"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10113"/>
-  </node>
-  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
-    <tag k="ele" v="196"/>
-    <tag k="name" v="Gambarogno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5073"/>
-    <tag k="website" v="http://www.gambarogno.ch/"/>
-    <tag k="wikidata" v="Q70234"/>
-    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3791033198" lat="44.1160352" lon="7.9549457" version="6" timestamp="2024-07-28T22:01:10Z" changeset="154539872" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="528"/>

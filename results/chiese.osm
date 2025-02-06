@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-05T02:41:05Z" areas="2025-02-04T23:55:06Z"/>
+<meta osm_base="2025-02-06T02:41:19Z" areas="2025-02-05T20:56:15Z"/>
 
+  <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
+    <tag k="addr:postcode" v="74170"/>
+    <tag k="name" v="Saint-Gervais-les-Bains"/>
+    <tag k="name:frp" v="San-Zharvé"/>
+    <tag k="name:zh" v="圣热尔韦莱班"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5602"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikidata" v="Q534206"/>
+    <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
+  </node>
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
@@ -6431,12 +6443,13 @@
     <tag k="wikimedia_commons" v="Category:San Benedetto dei Marsi"/>
     <tag k="wikipedia" v="it:San Benedetto dei Marsi"/>
   </node>
-  <node id="70992668" lat="42.1022783" lon="13.2047742" version="3" timestamp="2021-04-21T14:08:01Z" changeset="103346154" uid="3151555" user="Dino Michelini">
+  <node id="70992668" lat="42.1022783" lon="13.2047742" version="4" timestamp="2025-02-05T09:04:01Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5796"/>
     <tag k="name" v="Sante Marie"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1342"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q18427013"/>
   </node>
   <node id="70992765" lat="42.1229340" lon="13.8881050" version="4" timestamp="2016-10-09T01:55:49Z" changeset="42745481" uid="2502790" user="geotracer">
     <tag k="gfoss_id" v="5786"/>
@@ -6507,12 +6520,13 @@
     <tag k="population" v="686"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993170" lat="41.9334300" lon="13.9770100" version="3" timestamp="2016-09-08T02:39:01Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70993170" lat="41.9334300" lon="13.9770100" version="4" timestamp="2025-02-05T08:43:29Z" changeset="162155700" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5790"/>
     <tag k="name" v="Rocca Pia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029449"/>
   </node>
   <node id="70993210" lat="42.0254300" lon="13.6579010" version="4" timestamp="2025-02-04T08:46:37Z" changeset="162115497" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5776"/>
@@ -6534,14 +6548,14 @@
     <tag k="wikidata" v="Q30027613"/>
     <tag k="wikipedia" v="it:Molina Aterno"/>
   </node>
-  <node id="70993237" lat="42.0492250" lon="13.0393870" version="4" timestamp="2024-02-01T09:23:07Z" changeset="146937492" uid="3860151" user="Michele Aquilani">
+  <node id="70993237" lat="42.0492250" lon="13.0393870" version="5" timestamp="2025-02-05T09:04:07Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5769"/>
     <tag k="name" v="Oricola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="950"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.oricola.aq.it/"/>
-    <tag k="wikidata" v="Q50115"/>
+    <tag k="wikidata" v="Q33704120"/>
     <tag k="wikimedia_commons" v="Category:Oricola"/>
     <tag k="wikipedia" v="it:Oricola"/>
   </node>
@@ -6991,13 +7005,13 @@
     <tag k="wikimedia_commons" v="Category:San Donato Val di Comino"/>
     <tag k="wikipedia" v="it:San Donato Val di Comino"/>
   </node>
-  <node id="72960725" lat="41.6767230" lon="13.7064070" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960725" lat="41.6767230" lon="13.7064070" version="5" timestamp="2025-02-05T10:38:14Z" changeset="162159580" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5151"/>
     <tag k="name" v="Vicalvi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="801"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q117579"/>
+    <tag k="wikidata" v="Q30031692"/>
     <tag k="wikipedia" v="it:Vicalvi"/>
   </node>
   <node id="72960740" lat="41.5496912" lon="13.9145849" version="3" timestamp="2016-09-07T16:57:10Z" changeset="41983637" uid="743479" user="fayor">
@@ -7234,14 +7248,14 @@
     <tag k="population" v="383"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962158" lat="42.0405250" lon="13.0183870" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
+  <node id="72962158" lat="42.0405250" lon="13.0183870" version="5" timestamp="2025-02-05T09:04:08Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="4921"/>
     <tag k="name" v="Arsoli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1537"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.arsoli.rm.it/"/>
-    <tag k="wikidata" v="Q241758"/>
+    <tag k="wikidata" v="Q30022373"/>
     <tag k="wikimedia_commons" v="Category:Arsoli"/>
     <tag k="wikipedia" v="it:Arsoli"/>
   </node>
@@ -7997,10 +8011,11 @@
     <tag k="wikipedia" v="it:Orotelli"/>
     <tag k="wikipedia:sc" v="Oroteddi"/>
   </node>
-  <node id="2068581838" lat="37.9605701" lon="12.5118631" version="3" timestamp="2019-08-05T00:17:52Z" changeset="73000961" uid="743479" user="fayor">
+  <node id="2068581838" lat="37.9605701" lon="12.5118631" version="4" timestamp="2025-02-05T16:22:38Z" changeset="162172399" uid="43207" user="kdkeller">
     <tag k="name" v="Salinagrande"/>
     <tag k="place" v="village"/>
     <tag k="population" v="935"/>
+    <tag k="wikidata" v="Q18472950"/>
   </node>
   <node id="2079322088" lat="43.7165530" lon="12.3760477" version="3" timestamp="2016-09-09T17:36:29Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="ele" v="343"/>

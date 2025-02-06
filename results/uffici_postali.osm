@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-05T02:40:02Z" areas="2025-02-04T23:55:06Z"/>
+<meta osm_base="2025-02-06T02:40:17Z" areas="2025-02-05T20:56:15Z"/>
 
+  <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
+    <tag k="addr:postcode" v="74170"/>
+    <tag k="name" v="Saint-Gervais-les-Bains"/>
+    <tag k="name:frp" v="San-Zharvé"/>
+    <tag k="name:zh" v="圣热尔韦莱班"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5602"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikidata" v="Q534206"/>
+    <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
+  </node>
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
@@ -8793,14 +8805,6 @@
     <tag k="wikidata" v="Q53402"/>
     <tag k="wikipedia" v="it:Zuglio"/>
   </node>
-  <node id="66503536" lat="46.1906240" lon="13.1581240" version="6" timestamp="2019-05-16T23:54:31Z" changeset="70338353" uid="97922" user="damjang">
-    <tag k="gfoss_id" v="3797"/>
-    <tag k="name" v="Treppo Grande"/>
-    <tag k="name:fur" v="Trep Grant"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1754"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66503566" lat="46.5332320" lon="13.0429150" version="5" timestamp="2019-09-27T08:39:54Z" changeset="74996389" uid="66421" user="jackthebest">
     <tag k="gfoss_id" v="3796"/>
     <tag k="name" v="Treppo Carnico"/>
@@ -16034,12 +16038,13 @@
     <tag k="population" v="2536"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992331" lat="41.9891260" lon="13.3343950" version="2" timestamp="2016-09-08T02:38:56Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70992331" lat="41.9891260" lon="13.3343950" version="3" timestamp="2025-02-05T09:03:57Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5736"/>
     <tag k="name" v="Castellafiume"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1049"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q18426594"/>
   </node>
   <node id="70992394" lat="42.4551678" lon="13.2321888" version="5" timestamp="2025-01-31T11:00:31Z" changeset="161972648" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5720"/>
@@ -16112,12 +16117,13 @@
     <tag k="wikimedia_commons" v="Category:San Benedetto dei Marsi"/>
     <tag k="wikipedia" v="it:San Benedetto dei Marsi"/>
   </node>
-  <node id="70992668" lat="42.1022783" lon="13.2047742" version="3" timestamp="2021-04-21T14:08:01Z" changeset="103346154" uid="3151555" user="Dino Michelini">
+  <node id="70992668" lat="42.1022783" lon="13.2047742" version="4" timestamp="2025-02-05T09:04:01Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5796"/>
     <tag k="name" v="Sante Marie"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1342"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q18427013"/>
   </node>
   <node id="70992705" lat="42.4360751" lon="13.3012715" version="8" timestamp="2020-05-03T23:23:39Z" changeset="84584412" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="5779"/>
@@ -16192,14 +16198,15 @@
     <tag k="population" v="686"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993170" lat="41.9334300" lon="13.9770100" version="3" timestamp="2016-09-08T02:39:01Z" changeset="41992756" uid="743479" user="fayor">
+  <node id="70993170" lat="41.9334300" lon="13.9770100" version="4" timestamp="2025-02-05T08:43:29Z" changeset="162155700" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5790"/>
     <tag k="name" v="Rocca Pia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029449"/>
   </node>
-  <node id="70993202" lat="41.9745310" lon="13.9587090" version="6" timestamp="2024-02-09T11:37:26Z" changeset="147252581" uid="1940323" user="SekeRob">
+  <node id="70993202" lat="41.9745310" lon="13.9587090" version="7" timestamp="2025-02-05T08:43:27Z" changeset="162155700" uid="79364" user="klaus e werner">
     <tag k="ele" v="656"/>
     <tag k="gfoss_id" v="5778"/>
     <tag k="name" v="Pettorano sul Gizio"/>
@@ -16207,7 +16214,7 @@
     <tag k="population" v="1255"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://comune.pettorano.aq.it/"/>
-    <tag k="wikidata" v="Q50124"/>
+    <tag k="wikidata" v="Q30028773"/>
     <tag k="wikimedia_commons" v="Category:Pettorano sul Gizio"/>
     <tag k="wikipedia" v="it:Pettorano sul Gizio"/>
   </node>
@@ -16231,14 +16238,14 @@
     <tag k="wikidata" v="Q30027613"/>
     <tag k="wikipedia" v="it:Molina Aterno"/>
   </node>
-  <node id="70993237" lat="42.0492250" lon="13.0393870" version="4" timestamp="2024-02-01T09:23:07Z" changeset="146937492" uid="3860151" user="Michele Aquilani">
+  <node id="70993237" lat="42.0492250" lon="13.0393870" version="5" timestamp="2025-02-05T09:04:07Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5769"/>
     <tag k="name" v="Oricola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="950"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.oricola.aq.it/"/>
-    <tag k="wikidata" v="Q50115"/>
+    <tag k="wikidata" v="Q33704120"/>
     <tag k="wikimedia_commons" v="Category:Oricola"/>
     <tag k="wikipedia" v="it:Oricola"/>
   </node>
@@ -16819,13 +16826,13 @@
     <tag k="wikimedia_commons" v="Category:Roccasecca"/>
     <tag k="wikipedia" v="it:Roccasecca"/>
   </node>
-  <node id="72960725" lat="41.6767230" lon="13.7064070" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960725" lat="41.6767230" lon="13.7064070" version="5" timestamp="2025-02-05T10:38:14Z" changeset="162159580" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5151"/>
     <tag k="name" v="Vicalvi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="801"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q117579"/>
+    <tag k="wikidata" v="Q30031692"/>
     <tag k="wikipedia" v="it:Vicalvi"/>
   </node>
   <node id="72960740" lat="41.5496912" lon="13.9145849" version="3" timestamp="2016-09-07T16:57:10Z" changeset="41983637" uid="743479" user="fayor">
@@ -17176,14 +17183,14 @@
     <tag k="population" v="705"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962158" lat="42.0405250" lon="13.0183870" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
+  <node id="72962158" lat="42.0405250" lon="13.0183870" version="5" timestamp="2025-02-05T09:04:08Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="4921"/>
     <tag k="name" v="Arsoli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1537"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.arsoli.rm.it/"/>
-    <tag k="wikidata" v="Q241758"/>
+    <tag k="wikidata" v="Q30022373"/>
     <tag k="wikimedia_commons" v="Category:Arsoli"/>
     <tag k="wikipedia" v="it:Arsoli"/>
   </node>
