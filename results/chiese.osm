@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-06T02:41:19Z" areas="2025-02-05T20:56:15Z"/>
+<meta osm_base="2025-02-07T02:42:39Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4255,12 +4255,13 @@
     <tag k="population" v="2584"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529313" lat="40.3058260" lon="18.1402230" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529313" lat="40.3058260" lon="18.1402230" version="6" timestamp="2025-02-06T17:21:14Z" changeset="162216637" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="6293"/>
     <tag k="name" v="Lequile"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8685"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026587"/>
   </node>
   <node id="68529324" lat="40.2738260" lon="18.2633270" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6274"/>
@@ -6631,13 +6632,13 @@
     <tag k="population" v="858"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993444" lat="42.2764113" lon="13.9108363" version="5" timestamp="2022-08-22T06:56:05Z" changeset="125210804" uid="1940323" user="SekeRob">
+  <node id="70993444" lat="42.2764113" lon="13.9108363" version="6" timestamp="2025-02-06T12:35:58Z" changeset="162206799" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5894"/>
     <tag k="name" v="Pietranico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="605"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51383"/>
+    <tag k="wikidata" v="Q30028844"/>
     <tag k="wikipedia" v="it:Pietranico"/>
   </node>
   <node id="70993468" lat="42.4179444" lon="13.8719008" version="4" timestamp="2016-09-07T16:52:22Z" changeset="41983597" uid="743479" user="fayor">
@@ -6662,7 +6663,7 @@
     <tag k="population" v="312"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993504" lat="42.1261350" lon="14.0265080" version="5" timestamp="2024-06-15T09:04:25Z" changeset="152712071" uid="1940323" user="SekeRob">
+  <node id="70993504" lat="42.1261350" lon="14.0265080" version="6" timestamp="2025-02-06T11:33:48Z" changeset="162204588" uid="79364" user="klaus e werner">
     <tag k="check_date" v="2022-12-31"/>
     <tag k="ele" v="878"/>
     <tag k="gfoss_id" v="5899"/>
@@ -6670,6 +6671,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030359"/>
     <tag k="wikipedia" v="it:Sant'Eufemia a Maiella"/>
   </node>
   <node id="70993512" lat="42.3206925" lon="14.0429310" version="4" timestamp="2020-07-24T11:18:04Z" changeset="88454453" uid="10124288" user="damianeue">

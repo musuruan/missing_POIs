@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-06T02:40:17Z" areas="2025-02-05T20:56:15Z"/>
+<meta osm_base="2025-02-07T02:41:36Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8205,13 +8205,6 @@
     <tag k="population" v="3774"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779021" lat="45.9092348" lon="11.3068776" version="5" timestamp="2022-11-07T11:04:09Z" changeset="128592138" uid="2815652" user="gion274">
-    <tag k="gfoss_id" v="3264"/>
-    <tag k="name" v="Pedemonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="830"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64779034" lat="45.5734672" lon="11.2277218" version="4" timestamp="2016-10-08T21:08:54Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3183"/>
     <tag k="name" v="Vestenanova"/>
@@ -8325,13 +8318,6 @@
     <tag k="population" v="133"/>
     <tag k="wikidata" v="Q46933"/>
     <tag k="wikipedia" v="it:Laghi (Italia)"/>
-  </node>
-  <node id="64779139" lat="45.9148346" lon="11.2739093" version="3" timestamp="2024-08-09T07:33:24Z" changeset="155008707" uid="1801173" user="Pucciotrex30">
-    <tag k="gfoss_id" v="3238"/>
-    <tag k="name" v="Lastebasse"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="243"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64779142" lat="45.4753396" lon="11.6989495" version="6" timestamp="2017-03-12T14:07:50Z" changeset="46785792" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="3234"/>
@@ -12442,12 +12428,13 @@
     <tag k="population" v="5084"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529313" lat="40.3058260" lon="18.1402230" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529313" lat="40.3058260" lon="18.1402230" version="6" timestamp="2025-02-06T17:21:14Z" changeset="162216637" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="6293"/>
     <tag k="name" v="Lequile"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8685"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026587"/>
   </node>
   <node id="68529322" lat="40.2374250" lon="18.2552270" version="5" timestamp="2023-06-04T17:19:52Z" changeset="136941709" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6298"/>
@@ -15927,12 +15914,13 @@
     <tag k="population" v="520"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991794" lat="42.0415340" lon="14.1862130" version="2" timestamp="2016-09-07T16:52:21Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70991794" lat="42.0415340" lon="14.1862130" version="3" timestamp="2025-02-06T11:14:35Z" changeset="162203857" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5953"/>
     <tag k="name" v="Lama dei Peligni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1486"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026477"/>
   </node>
   <node id="70991831" lat="41.9060310" lon="14.2073150" version="2" timestamp="2016-09-07T16:52:21Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5947"/>
@@ -16183,12 +16171,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023229"/>
   </node>
-  <node id="70993120" lat="42.2503166" lon="13.6735362" version="3" timestamp="2020-05-10T14:18:47Z" changeset="84973457" uid="7022493" user="Fra00">
+  <node id="70993120" lat="42.2503166" lon="13.6735362" version="4" timestamp="2025-02-06T12:39:22Z" changeset="162206947" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5729"/>
     <tag k="name" v="Caporciano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="265"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023657"/>
   </node>
   <node id="70993149" lat="41.8708957" lon="14.0674295" version="4" timestamp="2024-02-12T17:33:06Z" changeset="147377555" uid="1940323" user="SekeRob">
     <tag k="ele" v="1320"/>
@@ -16291,13 +16280,14 @@
     <tag k="wikidata" v="Q51347"/>
     <tag k="wikipedia" v="it:Brittoli"/>
   </node>
-  <node id="70993354" lat="42.2883771" lon="13.5586410" version="5" timestamp="2020-05-03T23:23:39Z" changeset="84584412" uid="7022493" user="Fra00">
+  <node id="70993354" lat="42.2883771" lon="13.5586410" version="6" timestamp="2025-02-06T12:36:07Z" changeset="162206799" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5794"/>
     <tag k="name" v="San Demetrio ne' Vestini"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1605"/>
     <tag k="short_name" v="San Demetrio"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q49289039"/>
   </node>
   <node id="70993360" lat="42.2882175" lon="13.5244165" version="4" timestamp="2025-02-03T14:38:24Z" changeset="162089800" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5797"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-06T02:44:21Z" areas="2025-02-05T20:56:15Z"/>
+<meta osm_base="2025-02-07T02:45:41Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14329,12 +14329,13 @@
     <tag k="population" v="6755"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529574" lat="40.0178220" lon="18.3656320" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529574" lat="40.0178220" lon="18.3656320" version="5" timestamp="2025-02-06T17:21:15Z" changeset="162216637" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="6335"/>
     <tag k="name" v="Spongano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3814"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030894"/>
   </node>
   <node id="68529584" lat="40.1017240" lon="18.4493330" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6348"/>
@@ -18887,12 +18888,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023229"/>
   </node>
-  <node id="70993130" lat="42.2675788" lon="13.7686558" version="6" timestamp="2020-12-27T14:20:19Z" changeset="96485943" uid="7022493" user="Fra00">
+  <node id="70993130" lat="42.2675788" lon="13.7686558" version="7" timestamp="2025-02-06T12:36:02Z" changeset="162206799" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5726"/>
     <tag k="name" v="Capestrano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="960"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023640"/>
   </node>
   <node id="70993140" lat="41.9727270" lon="13.3990960" version="4" timestamp="2025-02-05T09:03:55Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5727"/>
@@ -19012,7 +19014,7 @@
     <tag k="population" v="420"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993435" lat="42.1713106" lon="13.8328170" version="9" timestamp="2023-11-10T15:10:17Z" changeset="143868087" uid="743479" user="fayor">
+  <node id="70993435" lat="42.1713106" lon="13.8328170" version="10" timestamp="2025-02-06T12:28:29Z" changeset="162206548" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5895"/>
     <tag k="name" v="Popoli Terme"/>
     <tag k="old_name" v="Popoli"/>
@@ -19020,6 +19022,7 @@
     <tag k="population" v="5566"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:name" v="Legge Regionale Abruzzo n. 32 del 10/7/2023"/>
+    <tag k="wikidata" v="Q30029064"/>
   </node>
   <node id="70993461" lat="42.3330413" lon="13.9841020" version="5" timestamp="2020-06-10T07:55:24Z" changeset="86447455" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5888"/>
@@ -25150,9 +25153,10 @@
     <tag k="wikidata" v="Q20467"/>
     <tag k="wikipedia" v="it:Marsciano"/>
   </node>
-  <node id="3691158883" lat="42.0898152" lon="14.2053326" version="2" timestamp="2020-10-12T15:02:34Z" changeset="92362754" uid="554973" user="dgitto">
+  <node id="3691158883" lat="42.0898152" lon="14.2053326" version="3" timestamp="2025-02-06T11:23:20Z" changeset="162204200" uid="79364" user="klaus e werner">
     <tag k="name" v="Fara San Martino"/>
     <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q30025634"/>
   </node>
   <node id="3699885852" lat="46.3680131" lon="11.9310414" version="6" timestamp="2022-07-25T10:49:59Z" changeset="124046136" uid="1257620" user="Luca_34c">
     <tag k="name" v="Sachet"/>
