@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-07T02:44:43Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-02-08T02:40:14Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5258,16 +5258,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1105"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275040" lat="38.5054770" lon="16.0862980" version="3" timestamp="2023-08-29T14:27:49Z" changeset="140544932" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6739"/>
-    <tag k="name" v="Candidoni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="410"/>
-    <tag k="postal_code" v="89020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54588"/>
-    <tag k="wikipedia" v="it:Candidoni"/>
   </node>
   <node id="67275058" lat="38.1489710" lon="16.1740040" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6732"/>
@@ -12003,20 +11993,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3398"/>
   </node>
-  <node id="3013247846" lat="40.0037483" lon="8.6495366" version="40" timestamp="2023-11-06T06:19:56Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7675"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Tramatza"/>
-    <tag k="name:it" v="Tramatza"/>
-    <tag k="name:sc" v="Tramatza"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="998"/>
-    <tag k="postal_code" v="09070"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.tramatza.or.it/"/>
-    <tag k="wikidata" v="Q389292"/>
-    <tag k="wikipedia" v="it:Tramatza"/>
-  </node>
   <node id="3094257086" lat="40.2471338" lon="15.8887046" version="3" timestamp="2022-12-13T03:58:50Z" changeset="130019261" uid="923271" user="aldoct">
     <tag k="gfoss_id" v="6435"/>
     <tag k="name" v="Sarconi"/>
@@ -12030,10 +12006,11 @@
     <tag k="wikidata" v="Q18487574"/>
     <tag k="wikipedia" v="it:Gaggino"/>
   </node>
-  <node id="3930345705" lat="42.5202031" lon="13.3009480" version="7" timestamp="2020-11-04T12:10:19Z" changeset="93542198" uid="7022493" user="Fra00">
+  <node id="3930345705" lat="42.5202031" lon="13.3009480" version="8" timestamp="2025-02-07T14:53:43Z" changeset="162248495" uid="79364" user="klaus e werner">
     <tag k="name" v="Capitignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="665"/>
+    <tag k="wikidata" v="Q30023644"/>
   </node>
   <node id="4087948103" lat="39.6978818" lon="16.1271277" version="3" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="name" v="Altomonte"/>
