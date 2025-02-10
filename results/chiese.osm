@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-09T02:43:27Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-10T02:43:04Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8061,6 +8061,19 @@
     <tag k="place" v="village"/>
     <tag k="population" v="358"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
+  </node>
+  <node id="1744277791" lat="45.8915080" lon="6.7991380" version="33" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="74310"/>
+    <tag k="alt_name:frp" v="Les Ôches"/>
+    <tag k="name" v="Les Houches"/>
+    <tag k="name:frp" v="Léz Eûshe"/>
+    <tag k="name:ko" v="레 우슈"/>
+    <tag k="name:ru" v="лез Уш"/>
+    <tag k="name:zh" v="莱苏什"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3353"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="1944059493" lat="44.9563630" lon="9.6849670" version="10" timestamp="2023-06-14T14:27:59Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="3874"/>

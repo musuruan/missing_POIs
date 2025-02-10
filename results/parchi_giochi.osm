@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-09T02:46:36Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-10T02:46:10Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -19305,17 +19305,6 @@
     <tag k="wikimedia_commons" v="Category:Casalvieri"/>
     <tag k="wikipedia" v="it:Casalvieri"/>
   </node>
-  <node id="72959853" lat="41.5082170" lon="13.4063030" version="6" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5088"/>
-    <tag k="name" v="Castro dei Volsci"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5039"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.castrodeivolsci.fr.it/"/>
-    <tag k="wikidata" v="Q116660"/>
-    <tag k="wikimedia_commons" v="Category:Castro dei Volsci"/>
-    <tag k="wikipedia" v="it:Castro dei Volsci"/>
-  </node>
   <node id="72959863" lat="41.6792210" lon="13.5514040" version="4" timestamp="2017-03-11T12:49:41Z" changeset="46761722" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="5085"/>
     <tag k="name" v="Castelliri"/>
@@ -24679,6 +24668,19 @@
     <tag k="name" v="Jovençan"/>
     <tag k="name:frp" v="Dzonsàn;Dzoénsàn"/>
     <tag k="place" v="village"/>
+  </node>
+  <node id="1744277791" lat="45.8915080" lon="6.7991380" version="33" timestamp="2024-11-08T04:05:33Z" changeset="158880217" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="74310"/>
+    <tag k="alt_name:frp" v="Les Ôches"/>
+    <tag k="name" v="Les Houches"/>
+    <tag k="name:frp" v="Léz Eûshe"/>
+    <tag k="name:ko" v="레 우슈"/>
+    <tag k="name:ru" v="лез Уш"/>
+    <tag k="name:zh" v="莱苏什"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3353"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="1763679242" lat="45.7525526" lon="7.5553260" version="32" timestamp="2023-06-14T14:23:10Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="alt_name" v="Chef-Lieu"/>
