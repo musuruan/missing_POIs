@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.4 2390de5a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-10T02:40:56Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-02-11T02:41:00Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -32,6 +32,15 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="41645001" lat="45.3716864" lon="7.0467945" version="17" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="73480"/>
+    <tag k="name" v="Bonneval-sur-Arc"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="266"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikipedia" v="fr:Bonneval-sur-Arc"/>
   </node>
   <node id="61753467" lat="43.9960778" lon="11.3550688" version="5" timestamp="2017-03-11T12:52:26Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="4518"/>
@@ -5488,13 +5497,6 @@
     <tag k="name" v="Smerillo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="411"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70980391" lat="43.1828550" lon="13.6127840" version="2" timestamp="2016-09-09T17:36:49Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4405"/>
-    <tag k="name" v="Torre San Patrizio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2132"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70980432" lat="43.1612526" lon="13.5929049" version="3" timestamp="2016-09-09T17:36:45Z" changeset="42039680" uid="743479" user="fayor">
