@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-02-16T02:49:27Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-02-17T02:46:50Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -32,6 +32,20 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="30162721" lat="46.4851320" lon="13.7843957" version="28" timestamp="2024-01-02T00:32:29Z" changeset="145780042" uid="130956" user="celicni">
+    <tag k="name" v="Kranjska Gora"/>
+    <tag k="name:de" v="Kronau"/>
+    <tag k="name:ru" v="Краньска-Гора"/>
+    <tag k="name:sl" v="Kranjska Gora"/>
+    <tag k="name:sr" v="Крањска Гора"/>
+    <tag k="old_name" v="Borovška vas"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1428"/>
+    <tag k="source" v="landsat"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="wikidata" v="Q2139428"/>
+    <tag k="wikipedia" v="sl:Kranjska Gora"/>
   </node>
   <node id="41645001" lat="45.3716864" lon="7.0467945" version="17" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="73480"/>
@@ -11662,10 +11676,31 @@
     <tag k="population" v="3165"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
-    <tag k="name" v="Innervillgraten"/>
+  <node id="175730569" lat="46.2455462" lon="13.5791700" version="21" timestamp="2024-04-28T07:15:24Z" changeset="150605983" uid="2146151" user="Joško Horvat">
+    <tag k="name" v="Kobarid"/>
+    <tag k="name:de" v="Karfreit"/>
+    <tag k="name:it" v="Caporetto"/>
+    <tag k="name:ru" v="Кобарид"/>
+    <tag k="name:sl" v="Kobarid"/>
+    <tag k="name:sr" v="Кобарид"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="984"/>
+    <tag k="population" v="1121"/>
+    <tag k="wikidata" v="Q3618115"/>
+    <tag k="wikipedia" v="sl:Kobarid"/>
+  </node>
+  <node id="286571767" lat="45.8167138" lon="13.7450363" version="32" timestamp="2024-05-17T13:19:55Z" changeset="151454360" uid="12422736" user="DavidKarlas">
+    <tag k="capital" v="8"/>
+    <tag k="name" v="Komen"/>
+    <tag k="name:de" v="Komein"/>
+    <tag k="name:it" v="Comeno"/>
+    <tag k="name:ru" v="Комен"/>
+    <tag k="name:sr" v="Комен"/>
+    <tag k="note" v="Don't use old_name=* without relative name=*. If you don't use a name in a language, it doesn't mean it is no more used. Moreover also Latin is no more used, but it's not correct to define it with old_name:la, it's simply name:la."/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="630"/>
+    <tag k="source:name:it" v="Atlante Zanichelli 2009, Zanichelli, Torino e Bologna, 2009, p. 25. Cfr. il toponimo &quot;Comeno&quot; a p. 66 sull'Atlante geografico Treccani, vol I, Istituto dell'Enciclopedia Italiana, 2008."/>
+    <tag k="wikidata" v="Q556210"/>
+    <tag k="wikipedia" v="sl:Komen"/>
   </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>
@@ -11682,6 +11717,14 @@
     <tag k="name" v="Castelnuovo Cilento"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2732"/>
+  </node>
+  <node id="426694486" lat="45.9974150" lon="13.5273675" version="7" timestamp="2024-01-02T11:33:27Z" changeset="145794172" uid="130956" user="celicni">
+    <tag k="name" v="Dobrovo"/>
+    <tag k="name:it" v="Castel Dobra"/>
+    <tag k="name:sr" v="Доброво"/>
+    <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q2610065"/>
+    <tag k="wikipedia" v="it:Castel Dobra"/>
   </node>
   <node id="461666872" lat="45.9892108" lon="12.5473156" version="5" timestamp="2023-03-06T22:20:40Z" changeset="133381702" uid="129060" user="Klenje">
     <tag k="loc_name:fur" v="Vinouf"/>
@@ -11781,21 +11824,6 @@
     <tag k="wikidata" v="Q286187"/>
     <tag k="wikipedia" v="it:Calasetta"/>
   </node>
-  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="capital" v="6"/>
-    <tag k="ele" v="273"/>
-    <tag k="name" v="Lugano"/>
-    <tag k="name:lt" v="Luganas"/>
-    <tag k="name:ru" v="Лугано"/>
-    <tag k="old_name:de" v="Lauis"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="67000"/>
-    <tag k="population:date" v="2020"/>
-    <tag k="website" v="https://www.lugano.ch/"/>
-    <tag k="wikidata" v="Q7024"/>
-    <tag k="wikimedia_commons" v="Category:Lugano"/>
-    <tag k="wikipedia" v="it:Lugano"/>
-  </node>
   <node id="1520890976" lat="45.2723159" lon="11.2477997" version="5" timestamp="2021-03-27T22:55:59Z" changeset="101856814" uid="504502" user="kkklllppp">
     <tag k="name" v="Roverchiara"/>
     <tag k="place" v="village"/>
@@ -11807,6 +11835,31 @@
     <tag k="name" v="Roncanova"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1904"/>
+  </node>
+  <node id="1632690418" lat="45.5789629" lon="13.7364985" version="16" timestamp="2023-08-22T04:01:02Z" changeset="140207857" uid="15215305" user="NorthCrab">
+    <tag k="alt_name:la" v="Ancharanum"/>
+    <tag k="int_name" v="Ankaran"/>
+    <tag k="name" v="Ankaran / Ancarano"/>
+    <tag k="name:it" v="Ancarano"/>
+    <tag k="name:ja" v="アンカラン"/>
+    <tag k="name:ko" v="안카란"/>
+    <tag k="name:la" v="Ancaria"/>
+    <tag k="name:mk" v="Анкаран"/>
+    <tag k="name:ru" v="Анкаран"/>
+    <tag k="name:sl" v="Ankaran"/>
+    <tag k="name:sr" v="Анкаран"/>
+    <tag k="name:sr-Latn" v="Ankaran"/>
+    <tag k="name:th" v="อังการาน"/>
+    <tag k="name:ur" v="انکاران"/>
+    <tag k="name:vec" v="Ancarano"/>
+    <tag k="name:zh-Hans" v="安卡兰"/>
+    <tag k="name:zh-Hant" v="安卡蘭"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3200"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="website" v="https://obcina-ankaran.si/sl"/>
+    <tag k="wikidata" v="Q387789"/>
+    <tag k="wikipedia" v="sl:Ankaran"/>
   </node>
   <node id="1640456909" lat="45.5479864" lon="13.7304781" version="28" timestamp="2024-08-27T16:21:39Z" changeset="155840415" uid="10504312" user="Jobigutenburg">
     <tag k="alt_name:hy" v="Կապոդիստրիա"/>
@@ -12055,15 +12108,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1351"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
-    <tag k="ele" v="196"/>
-    <tag k="name" v="Gambarogno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5073"/>
-    <tag k="website" v="http://www.gambarogno.ch/"/>
-    <tag k="wikidata" v="Q70234"/>
-    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3749265443" lat="45.8107679" lon="8.9656027" version="3" timestamp="2020-09-13T21:15:29Z" changeset="90831532" uid="1227619" user="Marco_T">
     <tag k="name" v="Gaggino"/>
