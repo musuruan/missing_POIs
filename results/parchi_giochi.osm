@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-01T02:56:00Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-03-02T02:54:13Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1942,13 +1942,6 @@
     <tag k="ref:ISTAT" v="019061"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511432" lat="45.2388720" lon="9.9302680" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2631"/>
-    <tag k="name" v="Paderno Ponchielli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1499"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62511447" lat="45.1762691" lon="10.3129568" version="5" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="2619"/>
     <tag k="name" v="Isola Dovarese"/>
@@ -2024,13 +2017,6 @@
     <tag k="name" v="Molteno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3094"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62511626" lat="45.7707810" lon="9.4549465" version="3" timestamp="2024-04-07T16:16:56Z" changeset="149700189" uid="139580" user="morsi">
-    <tag k="gfoss_id" v="7821"/>
-    <tag k="name" v="Monte Marenzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1958"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62511641" lat="45.8280810" lon="9.3429440" version="4" timestamp="2024-09-09T17:58:39Z" changeset="156407408" uid="30587" user="IknowJoseph">
@@ -8857,16 +8843,6 @@
     <tag k="population" v="280"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586724" lat="43.8537210" lon="7.8898480" version="4" timestamp="2022-04-25T17:42:59Z" changeset="120177112" uid="15596130" user="NJH_osm">
-    <tag k="gfoss_id" v="1165"/>
-    <tag k="name" v="Pompeiana"/>
-    <tag k="name:lij" v="Pumpiàna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="831"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q269534"/>
-    <tag k="wikipedia" v="it:Pompeiana"/>
-  </node>
   <node id="66586731" lat="43.8795375" lon="7.5148239" version="7" timestamp="2022-04-19T16:53:04Z" changeset="119916320" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1159"/>
     <tag k="name" v="Olivetta"/>
@@ -14411,13 +14387,16 @@
     <tag k="population" v="1756"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68530165" lat="40.4544250" lon="17.5056070" version="4" timestamp="2016-09-09T00:49:50Z" changeset="42015514" uid="743479" user="fayor">
+  <node id="68530165" lat="40.4544250" lon="17.5056070" version="5" timestamp="2025-03-01T13:26:49Z" changeset="163088127" uid="22295304" user="Onyxbob">
     <tag k="gfoss_id" v="6233"/>
     <tag k="name" v="San Marzano di San Giuseppe"/>
     <tag k="name:aae" v="Shën Marcani"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9282"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.sanmarzano.ta.it/"/>
+    <tag k="wikidata" v="Q52036"/>
+    <tag k="wikipedia" v="it:San Marzano di San Giuseppe"/>
   </node>
   <node id="68530177" lat="40.3846927" lon="17.3556699" version="4" timestamp="2016-09-09T00:49:48Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6230"/>
@@ -24110,6 +24089,11 @@
     <tag k="wikidata" v="Q3618115"/>
     <tag k="wikipedia" v="sl:Kobarid"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="259742893" lat="42.3665063" lon="10.9002704" version="8" timestamp="2017-03-11T12:52:38Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="name" v="Giglio Castello"/>
     <tag k="place" v="village"/>
@@ -24484,6 +24468,21 @@
     <tag k="name" v="Plan-de-Veyne"/>
     <tag k="place" v="hamlet"/>
   </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
+  </node>
   <node id="1396037034" lat="44.2728242" lon="9.6074789" version="2" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
     <tag k="name" v="Carro"/>
     <tag k="place" v="village"/>
@@ -24638,10 +24637,6 @@
     <tag k="website" v="https://www.koper.si/"/>
     <tag k="wikidata" v="Q1015"/>
     <tag k="wikipedia" v="sl:Koper"/>
-  </node>
-  <node id="1653249151" lat="45.7445264" lon="7.5498540" version="2" timestamp="2023-07-26T14:54:23Z" changeset="139042066" uid="18892689" user="ComitéNosAccents">
-    <tag k="name" v="Chambave"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="1727509731" lat="41.2733301" lon="14.2230652" version="4" timestamp="2024-10-27T21:33:49Z" changeset="158432530" uid="1109359" user="makakko">
     <tag k="ele" v="180"/>
@@ -25212,6 +25207,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="67"/>
     <tag k="wikidata" v="Q18482643"/>
+  </node>
+  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
+    <tag k="ele" v="196"/>
+    <tag k="name" v="Gambarogno"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5073"/>
+    <tag k="website" v="http://www.gambarogno.ch/"/>
+    <tag k="wikidata" v="Q70234"/>
+    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3687249567" lat="42.9105115" lon="12.3377232" version="12" timestamp="2024-08-19T15:16:42Z" changeset="155466179" uid="1211510" user="arcanma">
     <tag k="ele" v="184"/>
