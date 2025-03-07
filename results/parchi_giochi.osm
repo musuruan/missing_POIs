@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-06T02:54:03Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-03-07T02:55:07Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1342,9 +1342,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028308"/>
   </node>
-  <node id="62509001" lat="45.8621038" lon="9.0989396" version="5" timestamp="2022-09-19T10:43:35Z" changeset="126365721" uid="69717" user="kaitu">
+  <node id="62509001" lat="45.8621038" lon="9.0989396" version="6" timestamp="2025-03-06T22:16:15Z" changeset="163304175" uid="4254454" user="Fabio Tremari">
     <tag k="name" v="Borgo"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="quarter"/>
     <tag k="wikidata" v="Q30027625"/>
     <tag k="wikimedia_commons" v="Category:Borgo (Moltrasio)"/>
   </node>
@@ -5718,14 +5718,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="81"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63627004" lat="44.5889360" lon="7.6645300" version="3" timestamp="2021-08-28T06:04:38Z" changeset="110367151" uid="9006927" user="francians">
-    <tag k="gfoss_id" v="585"/>
-    <tag k="name" v="Genola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2323"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026035"/>
   </node>
   <node id="63627025" lat="44.6863380" lon="7.6195280" version="3" timestamp="2021-08-28T06:04:39Z" changeset="110367151" uid="9006927" user="francians">
     <tag k="gfoss_id" v="617"/>
@@ -15619,15 +15611,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="6629"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580118" lat="41.2048140" lon="13.8543170" version="5" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="5258"/>
-    <tag k="name" v="Cellole"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7149"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q58567"/>
-    <tag k="wikipedia" v="it:Cellole"/>
   </node>
   <node id="68580142" lat="41.1079984" lon="14.2097176" version="9" timestamp="2023-12-28T12:55:33Z" changeset="145618510" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5171"/>
