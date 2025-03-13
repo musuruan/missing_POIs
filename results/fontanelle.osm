@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-12T02:52:32Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-03-13T02:54:09Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -33,9 +33,10 @@
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
   </node>
-  <node id="30162721" lat="46.4851320" lon="13.7843957" version="28" timestamp="2024-01-02T00:32:29Z" changeset="145780042" uid="130956" user="celicni">
+  <node id="30162721" lat="46.4851320" lon="13.7843957" version="29" timestamp="2025-03-12T23:50:18Z" changeset="163549393" uid="13494667" user="apravakocka">
     <tag k="name" v="Kranjska Gora"/>
     <tag k="name:de" v="Kronau"/>
+    <tag k="name:fur" v="Cranzagore"/>
     <tag k="name:ru" v="Краньска-Гора"/>
     <tag k="name:sl" v="Kranjska Gora"/>
     <tag k="name:sr" v="Крањска Гора"/>
@@ -12079,12 +12080,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1351"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="3749265443" lat="45.8107679" lon="8.9656027" version="3" timestamp="2020-09-13T21:15:29Z" changeset="90831532" uid="1227619" user="Marco_T">
-    <tag k="name" v="Gaggino"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q18487574"/>
-    <tag k="wikipedia" v="it:Gaggino"/>
   </node>
   <node id="3930345705" lat="42.5202031" lon="13.3009480" version="8" timestamp="2025-02-07T14:53:43Z" changeset="162248495" uid="79364" user="klaus e werner">
     <tag k="name" v="Capitignano"/>
