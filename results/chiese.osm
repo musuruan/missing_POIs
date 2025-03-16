@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-15T02:46:23Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-03-16T02:56:01Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1020,14 +1020,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="328"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63626300" lat="44.3333330" lon="7.9864420" version="5" timestamp="2023-01-17T19:46:57Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="705"/>
-    <tag k="name" v="Scagnello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="209"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030468"/>
   </node>
   <node id="63626354" lat="44.3536350" lon="8.1289450" version="5" timestamp="2023-01-17T19:44:03Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="543"/>
@@ -4070,12 +4062,14 @@
     <tag k="population" v="11611"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528821" lat="40.4722280" lon="17.9663180" version="7" timestamp="2019-09-01T08:57:26Z" changeset="73967858" uid="1960233" user="corfede">
+  <node id="68528821" lat="40.4720311" lon="17.9661516" version="8" timestamp="2025-03-15T15:47:53Z" changeset="163656715" uid="22552063" user="evillz">
     <tag k="gfoss_id" v="6241"/>
     <tag k="name" v="Cellino San Marco"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6655"/>
+    <tag k="population" v="5973"/>
+    <tag k="population:date" v="2024-11-30"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="68528852" lat="40.4656270" lon="17.7356120" version="3" timestamp="2016-09-09T00:49:52Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6256"/>
