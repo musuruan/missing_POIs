@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-22T02:52:18Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-03-23T03:00:16Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -171,12 +171,14 @@
     <tag k="population" v="2001"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506804" lat="45.6350810" lon="9.8128580" version="2" timestamp="2020-05-20T05:34:20Z" changeset="85475674" uid="478872" user="mcheck">
+  <node id="62506804" lat="45.6350810" lon="9.8128580" version="4" timestamp="2025-03-22T22:48:09Z" changeset="163966618" uid="22582138" user="Luca Foglieni">
+    <tag k="ele" v="199"/>
     <tag k="gfoss_id" v="1954"/>
     <tag k="name" v="Bolgare"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4200"/>
+    <tag k="population" v="6692"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikipedia" v="it:Bolgare"/>
   </node>
   <node id="62506811" lat="45.5656770" lon="9.6401550" version="4" timestamp="2022-06-28T12:42:15Z" changeset="122956045" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2052"/>

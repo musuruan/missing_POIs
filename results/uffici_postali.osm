@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-22T02:48:14Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-03-23T02:57:13Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -201,14 +201,16 @@
     <tag k="population" v="3447"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505706" lat="45.6651820" lon="9.8291580" version="3" timestamp="2024-09-09T17:58:30Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62505706" lat="45.6651820" lon="9.8291580" version="4" timestamp="2025-03-22T23:02:35Z" changeset="163966889" uid="22582138" user="Luca Foglieni">
     <tag k="created_by" v="JOSM"/>
+    <tag k="ele" v="232"/>
     <tag k="gfoss_id" v="1979"/>
     <tag k="name" v="Carobbio degli Angeli"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3317"/>
+    <tag k="population" v="4886"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023793"/>
+    <tag k="wikidata" v="Q100149"/>
+    <tag k="wikipedia" v="it:Carobbio degli Angeli"/>
   </node>
   <node id="62505713" lat="45.7460253" lon="9.4821556" version="3" timestamp="2023-12-05T11:43:59Z" changeset="144788880" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="1977"/>
@@ -348,13 +350,16 @@
     <tag k="population" v="1068"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506062" lat="45.6288810" lon="9.8516590" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506062" lat="45.6288810" lon="9.8516590" version="3" timestamp="2025-03-22T22:51:53Z" changeset="163966693" uid="22582138" user="Luca Foglieni">
     <tag k="created_by" v="JOSM"/>
+    <tag k="ele" v="191"/>
     <tag k="gfoss_id" v="2133"/>
     <tag k="name" v="Telgate"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4190"/>
+    <tag k="population" v="5052"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q101648"/>
+    <tag k="wikipedia" v="it:Telgate"/>
   </node>
   <node id="62506092" lat="45.7008221" lon="9.7735143" version="5" timestamp="2020-05-20T05:34:20Z" changeset="85475674" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="2136"/>
@@ -904,13 +909,15 @@
     <tag k="population" v="599"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507245" lat="45.6197210" lon="9.7988771" version="4" timestamp="2023-07-13T13:01:29Z" changeset="138463724" uid="1950277" user="Mannivu">
+  <node id="62507245" lat="45.6197210" lon="9.7988771" version="5" timestamp="2025-03-22T22:50:18Z" changeset="163966663" uid="22582138" user="Luca Foglieni">
+    <tag k="ele" v="186"/>
     <tag k="gfoss_id" v="1969"/>
     <tag k="name" v="Calcinate"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4665"/>
+    <tag k="population" v="6219"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023349"/>
+    <tag k="wikidata" v="Q100123"/>
+    <tag k="wikipedia" v="it:Calcinate"/>
   </node>
   <node id="62507278" lat="45.6039279" lon="9.5555981" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1963"/>
@@ -20122,6 +20129,11 @@
     <tag k="wikidata" v="Q3618115"/>
     <tag k="wikipedia" v="sl:Kobarid"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="259445128" lat="40.8763052" lon="9.6294901" version="45" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="name" v="Poltu San Pàulu/Porto San Paolo"/>
     <tag k="name:co" v="Poltu San Pàulu"/>
@@ -20534,6 +20546,21 @@
     <tag k="loc_name" v="Plan de Veyne"/>
     <tag k="name" v="Plan-de-Veyne"/>
     <tag k="place" v="hamlet"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1402807545" lat="45.8737061" lon="9.4830221" version="5" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="Martino Scaglione">
     <tag k="ele" v="1070"/>
@@ -21066,6 +21093,15 @@
     <tag k="place" v="town"/>
     <tag k="population" v="29196"/>
     <tag k="wikidata" v="Q91350"/>
+  </node>
+  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
+    <tag k="ele" v="196"/>
+    <tag k="name" v="Gambarogno"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5073"/>
+    <tag k="website" v="http://www.gambarogno.ch/"/>
+    <tag k="wikidata" v="Q70234"/>
+    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3699885852" lat="46.3680131" lon="11.9310414" version="6" timestamp="2022-07-25T10:49:59Z" changeset="124046136" uid="1257620" user="Luca_34c">
     <tag k="name" v="Sachet"/>

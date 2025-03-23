@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-22T02:53:15Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-03-23T03:01:22Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -396,14 +396,16 @@
     <tag k="population" v="1210"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505706" lat="45.6651820" lon="9.8291580" version="3" timestamp="2024-09-09T17:58:30Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62505706" lat="45.6651820" lon="9.8291580" version="4" timestamp="2025-03-22T23:02:35Z" changeset="163966889" uid="22582138" user="Luca Foglieni">
     <tag k="created_by" v="JOSM"/>
+    <tag k="ele" v="232"/>
     <tag k="gfoss_id" v="1979"/>
     <tag k="name" v="Carobbio degli Angeli"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3317"/>
+    <tag k="population" v="4886"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023793"/>
+    <tag k="wikidata" v="Q100149"/>
+    <tag k="wikipedia" v="it:Carobbio degli Angeli"/>
   </node>
   <node id="62505713" lat="45.7460253" lon="9.4821556" version="3" timestamp="2023-12-05T11:43:59Z" changeset="144788880" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="1977"/>
@@ -550,13 +552,16 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18470725"/>
   </node>
-  <node id="62506062" lat="45.6288810" lon="9.8516590" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506062" lat="45.6288810" lon="9.8516590" version="3" timestamp="2025-03-22T22:51:53Z" changeset="163966693" uid="22582138" user="Luca Foglieni">
     <tag k="created_by" v="JOSM"/>
+    <tag k="ele" v="191"/>
     <tag k="gfoss_id" v="2133"/>
     <tag k="name" v="Telgate"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4190"/>
+    <tag k="population" v="5052"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q101648"/>
+    <tag k="wikipedia" v="it:Telgate"/>
   </node>
   <node id="62506092" lat="45.7008221" lon="9.7735143" version="5" timestamp="2020-05-20T05:34:20Z" changeset="85475674" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="2136"/>
@@ -736,12 +741,15 @@
     <tag k="source" v="ISTAT (30/11/2015)"/>
     <tag k="wikidata" v="Q30024975"/>
   </node>
-  <node id="62506711" lat="45.6508189" lon="9.8480158" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506711" lat="45.6508189" lon="9.8480158" version="4" timestamp="2025-03-22T23:01:38Z" changeset="163966871" uid="22582138" user="Luca Foglieni">
+    <tag k="ele" v="218"/>
     <tag k="gfoss_id" v="1997"/>
     <tag k="name" v="Chiuduno"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5051"/>
+    <tag k="population" v="6202"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q100365"/>
+    <tag k="wikipedia" v="it:Chiuduno"/>
   </node>
   <node id="62506720" lat="45.6605820" lon="9.9310600" version="3" timestamp="2024-09-09T17:58:41Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="created_by" v="JOSM"/>
