@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-03-26T02:57:12Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-03-27T02:58:17Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -18684,16 +18684,6 @@
     <tag k="wikimedia_commons" v="Category:Villavallelonga"/>
     <tag k="wikipedia" v="it:Villavallelonga"/>
   </node>
-  <node id="70992809" lat="41.9347290" lon="13.8420070" version="4" timestamp="2025-02-04T07:56:33Z" changeset="162113890" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5810"/>
-    <tag k="name" v="Villalago"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="636"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031819"/>
-    <tag k="wikimedia_commons" v="Category:Villalago"/>
-    <tag k="wikipedia" v="it:Villalago"/>
-  </node>
   <node id="70992821" lat="41.7584905" lon="13.9907295" version="5" timestamp="2025-02-04T08:02:47Z" changeset="162114048" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5717"/>
     <tag k="name" v="Barrea"/>
@@ -24033,6 +24023,11 @@
     <tag k="wikidata" v="Q3618115"/>
     <tag k="wikipedia" v="sl:Kobarid"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="259742893" lat="42.3665063" lon="10.9002704" version="8" timestamp="2017-03-11T12:52:38Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="name" v="Giglio Castello"/>
     <tag k="place" v="village"/>
@@ -24406,6 +24401,21 @@
     <tag k="loc_name" v="Plan de Veyne"/>
     <tag k="name" v="Plan-de-Veyne"/>
     <tag k="place" v="hamlet"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1396037034" lat="44.2728242" lon="9.6074789" version="2" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
     <tag k="name" v="Carro"/>
@@ -25126,6 +25136,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="67"/>
     <tag k="wikidata" v="Q18482643"/>
+  </node>
+  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
+    <tag k="ele" v="196"/>
+    <tag k="name" v="Gambarogno"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5073"/>
+    <tag k="website" v="http://www.gambarogno.ch/"/>
+    <tag k="wikidata" v="Q70234"/>
+    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3687249567" lat="42.9105115" lon="12.3377232" version="12" timestamp="2024-08-19T15:16:42Z" changeset="155466179" uid="1211510" user="arcanma">
     <tag k="ele" v="184"/>
