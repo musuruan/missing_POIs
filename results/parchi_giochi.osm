@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-01T03:10:38Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-02T03:00:22Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -795,12 +795,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028041"/>
   </node>
-  <node id="62506849" lat="45.4698770" lon="9.8019610" version="2" timestamp="2020-02-08T08:55:59Z" changeset="80717089" uid="1950277" user="Mannivu">
+  <node id="62506849" lat="45.4698770" lon="9.8019610" version="3" timestamp="2025-04-01T16:09:27Z" changeset="164382610" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2024"/>
     <tag k="name" v="Fontanella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3628"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025782"/>
   </node>
   <node id="62506875" lat="45.8802860" lon="9.6967510" version="4" timestamp="2024-09-09T17:58:42Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2016"/>
@@ -834,13 +835,14 @@
     <tag k="population" v="710"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507029" lat="45.4760760" lon="9.6892580" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62507029" lat="45.4760760" lon="9.6892580" version="3" timestamp="2025-04-01T16:06:29Z" changeset="164382491" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="2064"/>
     <tag k="name" v="Mozzanica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3921"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028093"/>
   </node>
   <node id="62507042" lat="45.7892293" lon="9.9357249" version="6" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2101"/>
@@ -887,11 +889,12 @@
     <tag k="population" v="3308"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507177" lat="45.4463770" lon="9.8770630" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62507177" lat="45.4463770" lon="9.8770630" version="4" timestamp="2025-04-01T16:13:58Z" changeset="164382826" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2137"/>
     <tag k="name" v="Torre"/>
     <tag k="place" v="village"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q18509446"/>
   </node>
   <node id="62507202" lat="45.9667870" lon="9.6121470" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1985"/>
@@ -1977,12 +1980,13 @@
     <tag k="population" v="569"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511491" lat="45.4682760" lon="9.7164590" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511491" lat="45.4682760" lon="9.7164590" version="3" timestamp="2025-04-01T16:06:31Z" changeset="164382491" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2590"/>
     <tag k="name" v="Castel Gabbiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="392"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024116"/>
   </node>
   <node id="62511495" lat="45.0952710" lon="10.2214770" version="2" timestamp="2020-01-02T15:18:56Z" changeset="79118735" uid="647382" user="Benny4L">
     <tag k="gfoss_id" v="2594"/>
@@ -2458,13 +2462,6 @@
     <tag k="name" v="Valera Fratta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1208"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62512966" lat="45.3411434" lon="9.3656930" version="3" timestamp="2020-03-04T23:07:08Z" changeset="81795128" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="7914"/>
-    <tag k="name" v="Sordio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2327"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62512967" lat="45.2052690" lon="9.7274640" version="4" timestamp="2021-11-05T20:58:05Z" changeset="113427087" uid="10901495" user="Martino Scaglione">
@@ -3552,13 +3549,6 @@
     <tag k="population" v="307"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q39772"/>
-  </node>
-  <node id="62517503" lat="45.9345252" lon="8.7858239" version="3" timestamp="2023-05-21T18:15:30Z" changeset="136382734" uid="67550" user="Aiman">
-    <tag k="gfoss_id" v="1425"/>
-    <tag k="name" v="Ferrera di Varese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="564"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62517523" lat="45.7845815" lon="8.7708941" version="3" timestamp="2020-04-23T15:43:22Z" changeset="84011060" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1427"/>
@@ -9497,7 +9487,7 @@
     <tag k="population" v="6299"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67254999" lat="37.7655191" lon="14.3516256" version="12" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67254999" lat="37.7652422" lon="14.3527011" version="13" timestamp="2025-04-01T15:18:51Z" changeset="164380252" uid="923271" user="aldoct">
     <tag k="alt_name:scn" v="Spillinga"/>
     <tag k="name" v="Sperlinga"/>
     <tag k="name:scn" v="Sperrënga"/>
@@ -12030,16 +12020,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3611"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275715" lat="38.2753720" lon="15.9279970" version="3" timestamp="2023-08-29T14:27:49Z" changeset="140544932" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6750"/>
-    <tag k="name" v="Cosoleto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="976"/>
-    <tag k="postal_code" v="89050"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54606"/>
-    <tag k="wikipedia" v="it:Cosoleto"/>
   </node>
   <node id="67275743" lat="38.7169990" lon="16.2910587" version="3" timestamp="2020-11-07T15:01:50Z" changeset="93709151" uid="95387" user="rugamarcus">
     <tag k="gfoss_id" v="7997"/>
