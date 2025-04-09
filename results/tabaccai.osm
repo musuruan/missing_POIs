@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-08T03:00:45Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-09T03:02:01Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -12801,14 +12801,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028114"/>
   </node>
-  <node id="63626229" lat="44.4239320" lon="7.7133350" version="5" timestamp="2023-01-17T19:43:40Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="633"/>
-    <tag k="name" v="Morozzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1979"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30028044"/>
-  </node>
   <node id="63626232" lat="44.7638390" lon="7.5371250" version="5" timestamp="2023-01-17T19:48:27Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="632"/>
     <tag k="name" v="Moretta"/>
@@ -14195,7 +14187,8 @@
     <tag k="wikidata" v="Q22226"/>
     <tag k="wikipedia" v="it:Fara Novarese"/>
   </node>
-  <node id="63628309" lat="45.5774670" lon="8.4373290" version="4" timestamp="2023-01-17T20:02:37Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63628309" lat="45.5774670" lon="8.4373290" version="5" timestamp="2025-04-08T10:39:04Z" changeset="164672861" uid="22723825" user="agPAT">
+    <tag k="fixme" v="change Computed Postcode: 28970 in 28070"/>
     <tag k="gfoss_id" v="477"/>
     <tag k="name" v="Sizzano"/>
     <tag k="place" v="village"/>
@@ -26950,13 +26943,6 @@
     <tag k="population" v="1201"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275217" lat="38.0506690" lon="16.1332040" version="3" timestamp="2021-12-31T10:39:19Z" changeset="115602820" uid="668137" user="Ramying">
-    <tag k="gfoss_id" v="6721"/>
-    <tag k="name" v="Africo Nuovo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3465"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275229" lat="38.4361921" lon="16.0806328" version="5" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6723"/>
     <tag k="name" v="Anoia Inferiore"/>
@@ -36011,13 +35997,6 @@
     <tag k="name" v="Castelleone di Suasa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1689"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70979353" lat="43.4723570" lon="13.0367660" version="2" timestamp="2016-09-09T17:36:37Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4251"/>
-    <tag k="name" v="Mergo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="970"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70979368" lat="43.6010966" lon="13.2138462" version="3" timestamp="2016-09-09T17:36:42Z" changeset="42039680" uid="743479" user="fayor">

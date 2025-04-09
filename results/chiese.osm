@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-08T02:56:31Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-09T02:56:58Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2009,14 +2009,6 @@
     <tag k="population" v="1787"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273579" lat="38.8400860" lon="16.4096020" version="3" timestamp="2025-02-04T12:39:23Z" changeset="162123816" uid="43207" user="kdkeller">
-    <tag k="gfoss_id" v="6660"/>
-    <tag k="name" v="Cortale"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2436"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30025160"/>
-  </node>
   <node id="67273609" lat="38.6769784" lon="16.4626464" version="5" timestamp="2024-07-22T16:01:09Z" changeset="154270130" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6668"/>
     <tag k="name" v="Gagliato"/>
@@ -2076,14 +2068,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="596"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273798" lat="38.9113880" lon="16.5139030" version="3" timestamp="2025-02-04T12:39:25Z" changeset="162123816" uid="43207" user="kdkeller">
-    <tag k="gfoss_id" v="6707"/>
-    <tag k="name" v="Settingiano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2319"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030683"/>
   </node>
   <node id="67273830" lat="39.7231000" lon="16.0898850" version="3" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6486"/>
@@ -2756,16 +2740,6 @@
     <tag k="population" v="1780"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275023" lat="38.0906700" lon="16.1493040" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6729"/>
-    <tag k="name" v="Bianco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4047"/>
-    <tag k="postal_code" v="89032"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54568"/>
-    <tag k="wikipedia" v="it:Bianco (Italia)"/>
-  </node>
   <node id="67275027" lat="38.1853720" lon="16.1370030" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6728"/>
     <tag k="name" v="Benestare"/>
@@ -2818,13 +2792,6 @@
     <tag k="wikidata" v="Q54596"/>
     <tag k="wikipedia" v="it:Casignana"/>
   </node>
-  <node id="67275098" lat="38.0355167" lon="16.0912647" version="4" timestamp="2022-04-24T12:30:53Z" changeset="120122379" uid="1404750" user="Yiyi (itwikipedia)">
-    <tag k="gfoss_id" v="6753"/>
-    <tag k="name" v="Ferruzzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="852"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275127" lat="39.1854706" lon="17.0096170" version="10" timestamp="2022-01-06T18:30:23Z" changeset="115849022" uid="11220113" user="ivanbranco">
     <tag k="alt_name" v="Rocca Ferdinandea"/>
     <tag k="gfoss_id" v="7966"/>
@@ -2857,13 +2824,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54578"/>
     <tag k="wikipedia" v="it:Brancaleone (Italia)"/>
-  </node>
-  <node id="67275217" lat="38.0506690" lon="16.1332040" version="3" timestamp="2021-12-31T10:39:19Z" changeset="115602820" uid="668137" user="Ramying">
-    <tag k="gfoss_id" v="6721"/>
-    <tag k="name" v="Africo Nuovo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3465"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67275259" lat="38.2722730" lon="16.1484020" version="2" timestamp="2016-08-28T18:58:10Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6724"/>
@@ -2974,13 +2934,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54638"/>
     <tag k="wikipedia" v="it:Portigliola"/>
-  </node>
-  <node id="67275635" lat="38.0926700" lon="16.0864030" version="2" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6741"/>
-    <tag k="name" v="Caraffa del Bianco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="622"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67275644" lat="38.2160690" lon="15.6591920" version="3" timestamp="2024-07-22T20:32:41Z" changeset="154279978" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6738"/>
