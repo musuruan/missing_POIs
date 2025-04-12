@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-11T03:01:52Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-12T02:58:35Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -20190,12 +20190,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q46761"/>
   </node>
-  <node id="64778776" lat="45.4100182" lon="12.0050219" version="8" timestamp="2025-02-13T11:50:39Z" changeset="162463699" uid="1717503" user="osm19">
-    <tag k="gfoss_id" v="3512"/>
+  <node id="64778776" lat="45.4100182" lon="12.0050219" version="9" timestamp="2025-04-11T14:53:16Z" changeset="164820156" uid="1717503" user="osm19">
     <tag k="name" v="Stra"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="7031"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="7470"/>
+    <tag k="population:date" v="2025-04-11"/>
+    <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
     <tag k="wikidata" v="Q30030932"/>
   </node>
   <node id="64778785" lat="45.8145654" lon="12.7388127" version="6" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
@@ -20207,12 +20207,12 @@
     <tag k="population" v="3985"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778787" lat="45.4167857" lon="12.0306479" version="5" timestamp="2025-04-06T14:04:49Z" changeset="164593043" uid="1717503" user="osm19">
-    <tag k="gfoss_id" v="3487"/>
+  <node id="64778787" lat="45.4167857" lon="12.0306479" version="6" timestamp="2025-04-11T14:42:31Z" changeset="164819706" uid="1717503" user="osm19">
     <tag k="name" v="Fiesso d'Artico"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5779"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="8588"/>
+    <tag k="population:date" v="2025-04-11"/>
+    <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
     <tag k="wikidata" v="Q30025709"/>
   </node>
   <node id="64778789" lat="45.8306021" lon="12.8397314" version="5" timestamp="2025-03-31T14:01:32Z" changeset="164332200" uid="20552772" user="user_8y978a">
@@ -20223,12 +20223,12 @@
     <tag k="population" v="2690"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778793" lat="45.3305355" lon="12.0483135" version="7" timestamp="2018-02-20T11:13:41Z" changeset="56517288" uid="362065" user="GFS">
-    <tag k="gfoss_id" v="3476"/>
+  <node id="64778793" lat="45.3305355" lon="12.0483135" version="8" timestamp="2025-04-11T15:00:33Z" changeset="164820458" uid="1717503" user="osm19">
     <tag k="name" v="Campolongo Maggiore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="10550"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="10716"/>
+    <tag k="population:date" v="2025-04-11"/>
+    <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
   </node>
   <node id="64778803" lat="45.7917474" lon="12.9090234" version="6" timestamp="2025-03-16T14:34:10Z" changeset="163691672" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3489"/>
@@ -20240,12 +20240,12 @@
     <tag k="population" v="5843"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778804" lat="45.3857109" lon="12.0482781" version="7" timestamp="2025-03-13T15:14:09Z" changeset="163574861" uid="1717503" user="osm19">
-    <tag k="gfoss_id" v="3490"/>
+  <node id="64778804" lat="45.3857109" lon="12.0482781" version="8" timestamp="2025-04-11T14:54:58Z" changeset="164820222" uid="1717503" user="osm19">
     <tag k="name" v="Fossò"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5922"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="7131"/>
+    <tag k="population:date" v="2025-04-11"/>
+    <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
   </node>
   <node id="64778809" lat="45.6457471" lon="12.5132561" version="4" timestamp="2024-06-02T15:33:26Z" changeset="152165405" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3488"/>
@@ -23145,11 +23145,11 @@
     <tag k="wikidata" v="Q269910"/>
     <tag k="wikipedia" v="it:Vessalico"/>
   </node>
-  <node id="66586799" lat="43.9684250" lon="8.0896510" version="6" timestamp="2024-08-04T09:43:03Z" changeset="154803326" uid="21794763" user="N Longo">
+  <node id="66586799" lat="43.9684250" lon="8.0896510" version="7" timestamp="2025-04-11T08:04:51Z" changeset="164802995" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1188"/>
     <tag k="name" v="Villa Faraldi"/>
     <tag k="name:lij" v="A Villa"/>
-    <tag k="place" v="hamlet"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="435"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -24088,7 +24088,7 @@
     <tag k="population" v="3196"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67254848" lat="37.8106540" lon="14.5072730" version="11" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67254848" lat="37.8101947" lon="14.5089893" version="12" timestamp="2025-04-11T13:29:10Z" changeset="164816429" uid="923271" user="aldoct">
     <tag k="name" v="Cerami"/>
     <tag k="name:scn" v="Cirami"/>
     <tag k="place" v="village"/>
@@ -45193,11 +45193,6 @@
     <tag k="wikidata" v="Q3618115"/>
     <tag k="wikipedia" v="sl:Kobarid"/>
   </node>
-  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
-    <tag k="name" v="Innervillgraten"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="984"/>
-  </node>
   <node id="245922467" lat="46.5403897" lon="11.4570266" version="11" timestamp="2023-09-04T09:56:17Z" changeset="140796230" uid="11631067" user="emandt">
     <tag k="name" v="Klobenstein - Collalbo"/>
     <tag k="name:de" v="Klobenstein"/>
@@ -46588,21 +46583,6 @@
     <tag k="website" v="https://comune.calasetta.ci.it/"/>
     <tag k="wikidata" v="Q286187"/>
     <tag k="wikipedia" v="it:Calasetta"/>
-  </node>
-  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="capital" v="6"/>
-    <tag k="ele" v="273"/>
-    <tag k="name" v="Lugano"/>
-    <tag k="name:lt" v="Luganas"/>
-    <tag k="name:ru" v="Лугано"/>
-    <tag k="old_name:de" v="Lauis"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="67000"/>
-    <tag k="population:date" v="2020"/>
-    <tag k="website" v="https://www.lugano.ch/"/>
-    <tag k="wikidata" v="Q7024"/>
-    <tag k="wikimedia_commons" v="Category:Lugano"/>
-    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1390205098" lat="45.9342109" lon="11.0943149" version="11" timestamp="2024-03-29T20:04:59Z" changeset="149328674" uid="10882995" user="Necessarycoot72">
     <tag k="loc_name" v="Caliàm"/>
@@ -48237,15 +48217,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1000"/>
     <tag k="wikidata" v="Q18494651"/>
-  </node>
-  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
-    <tag k="ele" v="196"/>
-    <tag k="name" v="Gambarogno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5073"/>
-    <tag k="website" v="http://www.gambarogno.ch/"/>
-    <tag k="wikidata" v="Q70234"/>
-    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3647147348" lat="44.1037967" lon="10.9997146" version="3" timestamp="2020-11-21T17:21:13Z" changeset="94553938" uid="364" user="Edward">
     <tag k="name" v="Taviano"/>
