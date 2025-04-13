@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-12T02:51:41Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-13T04:02:58Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -975,6 +975,15 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q42251"/>
     <tag k="wikipedia" v="it:Villanova del Sillaro"/>
+  </node>
+  <node id="62513013" lat="45.1372460" lon="9.6849166" version="6" timestamp="2025-04-13T01:09:37Z" changeset="164876602" uid="9578458" user="Danidero96">
+    <tag k="gfoss_id" v="7885"/>
+    <tag k="name" v="Fombio"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2300"/>
+    <tag k="postal_code" v="26861"/>
+    <tag k="ref:ISTAT" v="098026"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513149" lat="45.1516670" lon="9.5938620" version="3" timestamp="2020-02-25T20:41:50Z" changeset="81472192" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="7912"/>
