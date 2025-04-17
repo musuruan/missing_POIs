@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-16T03:04:45Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-04-17T03:03:12Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -36381,6 +36381,13 @@
     <tag k="name" v="Ortezzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="832"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="70980840" lat="42.9348208" lon="13.6910435" version="7" timestamp="2024-01-08T23:55:30Z" changeset="146046747" uid="123412" user="totera">
+    <tag k="gfoss_id" v="4387"/>
+    <tag k="name" v="Offida"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5327"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70980859" lat="43.1206530" lon="13.4875820" version="2" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
