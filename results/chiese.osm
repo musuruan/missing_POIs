@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-04-29T03:01:52Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-04-30T03:02:17Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -149,14 +149,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1028"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506289" lat="45.4749770" lon="9.7773600" version="5" timestamp="2024-05-16T17:09:18Z" changeset="151418721" uid="1950277" user="Mannivu">
-    <tag k="gfoss_id" v="1945"/>
-    <tag k="name" v="Barbata"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="607"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022574"/>
   </node>
   <node id="62506322" lat="45.8127326" lon="9.8847039" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1991"/>
@@ -2787,6 +2779,15 @@
     <tag k="wikidata" v="Q54578"/>
     <tag k="wikipedia" v="it:Brancaleone (Italia)"/>
   </node>
+  <node id="67275244" lat="38.0266670" lon="15.8213980" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
+    <tag k="gfoss_id" v="6726"/>
+    <tag k="name" v="Bagaladi"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1286"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54563"/>
+    <tag k="wikipedia" v="it:Bagaladi"/>
+  </node>
   <node id="67275259" lat="38.2722730" lon="16.1484020" version="2" timestamp="2016-08-28T18:58:10Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6724"/>
     <tag k="name" v="Antonimina"/>
@@ -3029,17 +3030,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54700"/>
     <tag k="wikipedia" v="it:Capistrano (Italia)"/>
-  </node>
-  <node id="67276009" lat="38.5969341" lon="16.2303554" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="8014"/>
-    <tag k="is_in" v="Vibo Valentia, Calabria, Italy"/>
-    <tag k="name" v="Soriano Calabro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3068"/>
-    <tag k="postal_code" v="89831"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54742"/>
-    <tag k="wikipedia" v="it:Soriano Calabro"/>
   </node>
   <node id="67280367" lat="40.1119100" lon="16.3879860" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6479"/>
