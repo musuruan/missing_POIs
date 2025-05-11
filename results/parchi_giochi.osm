@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-10T03:02:33Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-05-11T03:12:56Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -47,6 +47,21 @@
     <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
     <tag k="wikidata" v="Q2139428"/>
     <tag k="wikipedia" v="sl:Kranjska Gora"/>
+  </node>
+  <node id="36266381" lat="44.2564013" lon="6.9249179" version="20" timestamp="2024-11-08T03:20:27Z" changeset="158879501" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Saint-Étienne-de-Tinée"/>
+    <tag k="name:it" v="Santo Stefano di Tinea"/>
+    <tag k="name:oc" v="Sant Estève de Tiniá"/>
+    <tag k="old_name:it" v="Santo Stefano Montagna"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1341"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="06660"/>
+    <tag k="ref:FR:SIREN" v="210601209"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikidata" v="Q993780"/>
+    <tag k="wikipedia" v="fr:Saint-Étienne-de-Tinée"/>
   </node>
   <node id="41645001" lat="45.3716864" lon="7.0467945" version="17" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="73480"/>
@@ -9574,14 +9589,6 @@
     <tag k="population" v="559"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67255704" lat="37.8600912" lon="15.2214123" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="alt_name:scn" v="Kaggi"/>
-    <tag k="name" v="Gaggi"/>
-    <tag k="name:scn" v="Caggi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3085"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
   <node id="67255713" lat="38.1732691" lon="14.8951639" version="15" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Giujusa Marea"/>
     <tag k="ele" v="25"/>
@@ -18252,6 +18259,16 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2345"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="70991888" lat="42.3592392" lon="14.2920741" version="8" timestamp="2024-08-25T12:08:03Z" changeset="155734011" uid="1940323" user="SekeRob">
+    <tag k="gfoss_id" v="5958"/>
+    <tag k="name" v="Miglianico"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4700"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="twin_town" v="Sant Esteves Sesrovires (ES)"/>
+    <tag k="wikidata" v="Q51248"/>
+    <tag k="wikipedia" v="it:Miglianico"/>
   </node>
   <node id="70991979" lat="41.9249320" lon="14.2882170" version="3" timestamp="2020-07-10T09:19:31Z" changeset="87807734" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5978"/>

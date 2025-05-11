@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-10T03:03:36Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-05-11T03:13:54Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -47,6 +47,21 @@
     <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
     <tag k="wikidata" v="Q2139428"/>
     <tag k="wikipedia" v="sl:Kranjska Gora"/>
+  </node>
+  <node id="36266381" lat="44.2564013" lon="6.9249179" version="20" timestamp="2024-11-08T03:20:27Z" changeset="158879501" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Saint-Étienne-de-Tinée"/>
+    <tag k="name:it" v="Santo Stefano di Tinea"/>
+    <tag k="name:oc" v="Sant Estève de Tiniá"/>
+    <tag k="old_name:it" v="Santo Stefano Montagna"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1341"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="06660"/>
+    <tag k="ref:FR:SIREN" v="210601209"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikidata" v="Q993780"/>
+    <tag k="wikipedia" v="fr:Saint-Étienne-de-Tinée"/>
   </node>
   <node id="41645001" lat="45.3716864" lon="7.0467945" version="17" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
     <tag k="addr:postcode" v="73480"/>
@@ -35267,13 +35282,6 @@
     <tag k="population" v="3187"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022802"/>
-  </node>
-  <node id="69301039" lat="44.9281878" lon="10.1235973" version="5" timestamp="2021-05-02T05:43:02Z" changeset="103980116" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="3923"/>
-    <tag k="name" v="Soragna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4358"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301069" lat="44.7994378" lon="9.8306675" version="5" timestamp="2016-09-21T13:17:31Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3883"/>
