@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-11T03:12:56Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-05-12T03:11:59Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7828,14 +7828,6 @@
     <tag k="population" v="5274"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778885" lat="45.6113899" lon="11.1386034" version="4" timestamp="2016-10-08T21:08:53Z" changeset="42742263" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3170"/>
-    <tag k="name" v="Selva di Progno"/>
-    <tag k="name:de" v="Prugne"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1001"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778890" lat="45.4788919" lon="11.2889177" version="4" timestamp="2016-10-08T21:08:52Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3153"/>
     <tag k="name" v="Roncà"/>
@@ -7918,15 +7910,6 @@
     <tag k="name" v="Erbè"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1629"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778980" lat="45.5660855" lon="11.1523929" version="4" timestamp="2016-10-09T16:06:36Z" changeset="42757067" uid="743479" user="fayor">
-    <tag k="alt_name:de" v="Kalfein"/>
-    <tag k="gfoss_id" v="3095"/>
-    <tag k="name" v="Badia Calavena"/>
-    <tag k="name:de" v="Kalwein"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2373"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778990" lat="45.1706690" lon="11.1993652" version="3" timestamp="2016-10-09T16:06:38Z" changeset="42757067" uid="743479" user="fayor">
@@ -23841,6 +23824,11 @@
     <tag k="wikidata" v="Q3618115"/>
     <tag k="wikipedia" v="sl:Kobarid"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="259742893" lat="42.3665063" lon="10.9002704" version="8" timestamp="2017-03-11T12:52:38Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="name" v="Giglio Castello"/>
     <tag k="place" v="village"/>
@@ -24214,6 +24202,21 @@
     <tag k="loc_name" v="Plan de Veyne"/>
     <tag k="name" v="Plan-de-Veyne"/>
     <tag k="place" v="hamlet"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1396037034" lat="44.2728242" lon="9.6074789" version="2" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
     <tag k="name" v="Carro"/>
@@ -24926,6 +24929,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="67"/>
     <tag k="wikidata" v="Q18482643"/>
+  </node>
+  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
+    <tag k="ele" v="196"/>
+    <tag k="name" v="Gambarogno"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5073"/>
+    <tag k="website" v="http://www.gambarogno.ch/"/>
+    <tag k="wikidata" v="Q70234"/>
+    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3687249567" lat="42.9105115" lon="12.3377232" version="12" timestamp="2024-08-19T15:16:42Z" changeset="155466179" uid="1211510" user="arcanma">
     <tag k="ele" v="184"/>
