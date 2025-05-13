@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-12T03:08:57Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-05-13T03:07:12Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1530,12 +1530,13 @@
     <tag k="population" v="5843"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778804" lat="45.3857109" lon="12.0482781" version="8" timestamp="2025-04-11T14:54:58Z" changeset="164820222" uid="1717503" user="osm19">
+  <node id="64778804" lat="45.3857109" lon="12.0482781" version="9" timestamp="2025-05-12T20:17:59Z" changeset="166171816" uid="14316347" user="Gicorada">
     <tag k="name" v="Fossò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7131"/>
     <tag k="population:date" v="2025-04-11"/>
     <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
+    <tag k="wikidata" v="Q30025851"/>
   </node>
   <node id="64778816" lat="45.2189097" lon="11.3583281" version="5" timestamp="2021-03-27T21:02:08Z" changeset="101854267" uid="504502" user="kkklllppp">
     <tag k="gfoss_id" v="3100"/>

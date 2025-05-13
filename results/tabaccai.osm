@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-12T03:12:46Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-05-13T03:11:15Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -19148,12 +19148,13 @@
     <tag k="population" v="5310"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778335" lat="45.2673516" lon="12.1013012" version="4" timestamp="2016-10-06T18:22:31Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778335" lat="45.2673516" lon="12.1013012" version="5" timestamp="2025-05-12T20:45:26Z" changeset="166172730" uid="14316347" user="Gicorada">
     <tag k="gfoss_id" v="3548"/>
     <tag k="name" v="Codevigo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5617"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024880"/>
   </node>
   <node id="64778337" lat="45.5443960" lon="11.8104040" version="3" timestamp="2016-10-06T18:22:29Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3537"/>
@@ -19295,12 +19296,13 @@
     <tag k="population" v="2507"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778397" lat="45.2728605" lon="12.0539440" version="4" timestamp="2016-10-06T18:22:28Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778397" lat="45.2728605" lon="12.0539440" version="5" timestamp="2025-05-12T20:45:31Z" changeset="166172730" uid="14316347" user="Gicorada">
     <tag k="gfoss_id" v="3524"/>
     <tag k="name" v="Arzergrande"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4113"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022389"/>
   </node>
   <node id="64778399" lat="45.5717600" lon="11.9319294" version="7" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3536"/>
@@ -20221,12 +20223,13 @@
     <tag k="population" v="5843"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778804" lat="45.3857109" lon="12.0482781" version="8" timestamp="2025-04-11T14:54:58Z" changeset="164820222" uid="1717503" user="osm19">
+  <node id="64778804" lat="45.3857109" lon="12.0482781" version="9" timestamp="2025-05-12T20:17:59Z" changeset="166171816" uid="14316347" user="Gicorada">
     <tag k="name" v="Fossò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7131"/>
     <tag k="population:date" v="2025-04-11"/>
     <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
+    <tag k="wikidata" v="Q30025851"/>
   </node>
   <node id="64778809" lat="45.6457471" lon="12.5132561" version="4" timestamp="2024-06-02T15:33:26Z" changeset="152165405" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3488"/>
