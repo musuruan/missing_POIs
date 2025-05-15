@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-14T03:09:54Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-05-15T03:09:31Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8182,12 +8182,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="295"/>
   </node>
-  <node id="62516005" lat="46.1768904" lon="9.9824000" version="4" timestamp="2025-02-22T19:40:30Z" changeset="162829400" uid="465052" user="hecktor">
+  <node id="62516005" lat="46.1768904" lon="9.9824000" version="5" timestamp="2025-05-14T10:45:06Z" changeset="166248790" uid="20601540" user="IlCreeper08">
     <tag k="ele" v="486"/>
     <tag k="loc_name" v="Pùnt"/>
     <tag k="name" v="Ponte in Valtellina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2000"/>
+    <tag k="population" v="2192"/>
+    <tag k="population:date" v="31/01/2025"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q30029022"/>
     <tag k="wikimedia_commons" v="File:Ponte_-_panoramio_(9).jpg"/>
     <tag k="wikipedia" v="it:Ponte in Valtellina"/>
@@ -45330,12 +45332,13 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q35411"/>
   </node>
-  <node id="345150792" lat="45.3456480" lon="11.9639350" version="5" timestamp="2020-12-11T13:44:27Z" changeset="95684808" uid="504502" user="kkklllppp">
+  <node id="345150792" lat="45.3456480" lon="11.9639350" version="6" timestamp="2025-05-14T07:02:14Z" changeset="166238440" uid="14316347" user="Gicorada">
     <tag k="gfoss_id" v="3559"/>
     <tag k="name" v="Legnaro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8351"/>
     <tag k="source" v="ISTAT"/>
+    <tag k="wikidata" v="Q30026558"/>
   </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>
@@ -46344,9 +46347,9 @@
     <tag k="wikidata" v="Q94779"/>
     <tag k="wikipedia" v="it:Castel San Pietro Terme"/>
   </node>
-  <node id="1258081254" lat="45.7615649" lon="7.5321619" version="35" timestamp="2023-06-14T14:32:47Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+  <node id="1258081254" lat="45.7615649" lon="7.5321619" version="36" timestamp="2025-05-14T15:23:07Z" changeset="166262751" uid="10124288" user="damianeue">
     <tag k="ele" v="1017"/>
-    <tag k="name" v="Verrayes capoluogo"/>
+    <tag k="name" v="Verrayes"/>
     <tag k="name:frp" v="Vèèi"/>
     <tag k="place" v="village"/>
   </node>
