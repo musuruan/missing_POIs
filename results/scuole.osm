@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-15T03:10:34Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-05-16T03:13:34Z" areas="2025-02-06T02:17:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -13650,6 +13650,13 @@
     <tag k="population" v="1201"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="67275217" lat="38.0506690" lon="16.1332040" version="3" timestamp="2021-12-31T10:39:19Z" changeset="115602820" uid="668137" user="Ramying">
+    <tag k="gfoss_id" v="6721"/>
+    <tag k="name" v="Africo Nuovo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3465"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="67275244" lat="38.0266670" lon="15.8213980" version="3" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6726"/>
     <tag k="name" v="Bagaladi"/>
@@ -13936,6 +13943,16 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3611"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="67275715" lat="38.2753720" lon="15.9279970" version="3" timestamp="2023-08-29T14:27:49Z" changeset="140544932" uid="18063623" user="DomeF">
+    <tag k="gfoss_id" v="6750"/>
+    <tag k="name" v="Cosoleto"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="976"/>
+    <tag k="postal_code" v="89050"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54606"/>
+    <tag k="wikipedia" v="it:Cosoleto"/>
   </node>
   <node id="67275721" lat="38.2729597" lon="16.2187558" version="5" timestamp="2024-02-07T19:57:36Z" changeset="147190658" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="6756"/>
@@ -16480,6 +16497,13 @@
     <tag k="name" v="Capriglia Irpina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2281"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68566204" lat="40.8567145" lon="14.8705656" version="6" timestamp="2018-10-15T20:48:00Z" changeset="63555898" uid="362065" user="GFS">
+    <tag k="gfoss_id" v="5528"/>
+    <tag k="name" v="Serino"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="7041"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68566215" lat="41.0463567" lon="14.9131426" version="6" timestamp="2023-06-25T11:16:29Z" changeset="137748690" uid="10622815" user="Italian Technology">
@@ -20561,6 +20585,14 @@
     <tag k="population" v="1049"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18426594"/>
+  </node>
+  <node id="70992354" lat="42.3649949" lon="13.7265718" version="10" timestamp="2025-02-03T16:38:43Z" changeset="162094032" uid="79364" user="klaus e werner">
+    <tag k="gfoss_id" v="5733"/>
+    <tag k="name" v="Castel del Monte"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="527"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024097"/>
   </node>
   <node id="70992371" lat="42.0989270" lon="13.0848880" version="9" timestamp="2025-02-05T09:04:06Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5732"/>

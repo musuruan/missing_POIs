@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-15T03:03:23Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-05-16T03:05:30Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3935,6 +3935,13 @@
     <tag k="population" v="2281"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="68566204" lat="40.8567145" lon="14.8705656" version="6" timestamp="2018-10-15T20:48:00Z" changeset="63555898" uid="362065" user="GFS">
+    <tag k="gfoss_id" v="5528"/>
+    <tag k="name" v="Serino"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="7041"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="68566215" lat="41.0463567" lon="14.9131426" version="6" timestamp="2023-06-25T11:16:29Z" changeset="137748690" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5545"/>
     <tag k="name" v="Venticano"/>
@@ -7651,6 +7658,23 @@
     <tag k="wikidata" v="Q286824"/>
     <tag k="wikipedia" v="it:Villaperuccio"/>
     <tag k="wikipedia:sc" v="Sa Baronia"/>
+  </node>
+  <node id="72991677" lat="39.2758994" lon="8.6404754" version="44" timestamp="2023-04-22T19:34:33Z" changeset="135241013" uid="9451067" user="b-jazz-bot">
+    <tag k="alt_name" v="Bidda Matzràxa"/>
+    <tag k="alt_name_1" v="Biddamassàrgia"/>
+    <tag k="gfoss_id" v="7491"/>
+    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
+    <tag k="name" v="Bidda Matzràxia/Villamassargia"/>
+    <tag k="name:it" v="Villamassargia"/>
+    <tag k="name:sc" v="Bidda Matzràxia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3713"/>
+    <tag k="postal_code" v="09010"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.villamassargia.ca.it/"/>
+    <tag k="wikidata" v="Q286768"/>
+    <tag k="wikipedia" v="it:Villamassargia"/>
+    <tag k="wikipedia:sc" v="Bidda Matzràxia"/>
   </node>
   <node id="72994328" lat="40.9197741" lon="9.1948191" version="47" timestamp="2023-10-28T07:25:12Z" changeset="143245924" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7228"/>
