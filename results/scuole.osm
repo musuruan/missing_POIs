@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-16T03:13:34Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-05-17T03:08:35Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9736,7 +9736,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q25009"/>
   </node>
-  <node id="63632143" lat="45.8081897" lon="8.2941165" version="5" timestamp="2023-01-17T19:54:38Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63632143" lat="45.8081863" lon="8.2941177" version="6" timestamp="2025-05-16T10:05:13Z" changeset="166341621" uid="4982687" user="Francoerbi41">
     <tag k="gfoss_id" v="340"/>
     <tag k="name" v="Civiasco"/>
     <tag k="place" v="village"/>
@@ -10333,12 +10333,13 @@
     <tag k="population" v="422"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778388" lat="45.1701644" lon="11.9607309" version="4" timestamp="2020-12-11T22:11:42Z" changeset="95705645" uid="504502" user="kkklllppp">
+  <node id="64778388" lat="45.1701644" lon="11.9607309" version="5" timestamp="2025-05-16T14:10:49Z" changeset="166353501" uid="14316347" user="Gicorada">
     <tag k="gfoss_id" v="3519"/>
     <tag k="name" v="Agna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3158"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022006"/>
   </node>
   <node id="64778393" lat="45.1393548" lon="11.8877456" version="4" timestamp="2016-10-06T18:22:28Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3521"/>
@@ -25497,6 +25498,11 @@
     <tag k="wikidata" v="Q3618115"/>
     <tag k="wikipedia" v="sl:Kobarid"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="249581031" lat="44.7712392" lon="9.2410693" version="6" timestamp="2023-02-27T21:38:44Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="name" v="Casanova di Destra"/>
     <tag k="official_name" v="Casanova Staffora"/>
@@ -26065,6 +26071,21 @@
     <tag k="website" v="https://comune.calasetta.ci.it/"/>
     <tag k="wikidata" v="Q286187"/>
     <tag k="wikipedia" v="it:Calasetta"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1393763096" lat="45.7400916" lon="7.4167988" version="6" timestamp="2020-02-09T11:16:44Z" changeset="80748122" uid="2376938" user="Davide Lasagna">
     <tag k="name" v="Villefranche"/>
@@ -26792,6 +26813,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1402"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
+    <tag k="ele" v="196"/>
+    <tag k="name" v="Gambarogno"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5073"/>
+    <tag k="website" v="http://www.gambarogno.ch/"/>
+    <tag k="wikidata" v="Q70234"/>
+    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3791033198" lat="44.1160352" lon="7.9549457" version="6" timestamp="2024-07-28T22:01:10Z" changeset="154539872" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="528"/>

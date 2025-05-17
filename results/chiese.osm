@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-16T03:07:30Z" areas="2025-02-06T02:17:44Z"/>
+<meta osm_base="2025-05-17T03:02:13Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1208,12 +1208,13 @@
     <tag k="population" v="4725"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778388" lat="45.1701644" lon="11.9607309" version="4" timestamp="2020-12-11T22:11:42Z" changeset="95705645" uid="504502" user="kkklllppp">
+  <node id="64778388" lat="45.1701644" lon="11.9607309" version="5" timestamp="2025-05-16T14:10:49Z" changeset="166353501" uid="14316347" user="Gicorada">
     <tag k="gfoss_id" v="3519"/>
     <tag k="name" v="Agna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3158"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022006"/>
   </node>
   <node id="64778393" lat="45.1393548" lon="11.8877456" version="4" timestamp="2016-10-06T18:22:28Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3521"/>
@@ -1237,12 +1238,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q34751"/>
   </node>
-  <node id="64778469" lat="45.2454887" lon="12.0251829" version="4" timestamp="2016-10-06T18:22:35Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778469" lat="45.2454887" lon="12.0251829" version="5" timestamp="2025-05-16T14:10:42Z" changeset="166353501" uid="14316347" user="Gicorada">
     <tag k="gfoss_id" v="3583"/>
     <tag k="name" v="Pontelongo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3759"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029041"/>
   </node>
   <node id="64778475" lat="44.9914983" lon="11.3564707" version="7" timestamp="2017-04-02T21:55:22Z" changeset="47394388" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="3629"/>
@@ -3366,14 +3368,16 @@
     <tag k="population" v="969"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283760" lat="41.8675905" lon="14.7467926" version="9" timestamp="2023-11-11T14:21:43Z" changeset="143901585" uid="393359" user="Robot8A">
+  <node id="67283760" lat="41.8675905" lon="14.7467926" version="10" timestamp="2025-05-16T09:54:11Z" changeset="166341118" uid="12638075" user="elucci">
     <tag k="gfoss_id" v="6013"/>
-    <tag k="name" v="Acquaviva Collecroce"/>
+    <tag k="name" v="Acquaviva Collecroce - Živavoda Kruč"/>
     <tag k="name:hr" v="Živavoda Kruč"/>
     <tag k="name:it" v="Acquaviva Collecroce"/>
+    <tag k="name:svm" v="Živavoda Kruč"/>
     <tag k="place" v="village"/>
     <tag k="population" v="800"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q277362"/>
   </node>
   <node id="67283798" lat="41.4601250" lon="14.6654310" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6030"/>
@@ -7570,6 +7574,11 @@
     <tag k="wikidata" v="Q3618115"/>
     <tag k="wikipedia" v="sl:Kobarid"/>
   </node>
+  <node id="240065870" lat="46.8078411" lon="12.3720904" version="5" timestamp="2018-07-20T19:06:55Z" changeset="60916719" uid="2641694" user="JM82">
+    <tag k="name" v="Innervillgraten"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="984"/>
+  </node>
   <node id="268788418" lat="43.5263107" lon="13.0630099" version="13" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="name" v="Montecarotto"/>
     <tag k="place" v="village"/>
@@ -7676,6 +7685,21 @@
     <tag k="name" v="Mercato Vecchio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="285"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="27" timestamp="2024-04-09T12:02:26Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1402414092" lat="45.7434637" lon="12.0924600" version="9" timestamp="2023-03-17T08:45:08Z" changeset="133778688" uid="1801173" user="Pucciotrex30">
     <tag k="name" v="Falzè"/>
@@ -7885,6 +7909,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1812"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
+    <tag k="ele" v="196"/>
+    <tag k="name" v="Gambarogno"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5073"/>
+    <tag k="website" v="http://www.gambarogno.ch/"/>
+    <tag k="wikidata" v="Q70234"/>
+    <tag k="wikipedia" v="it:Gambarogno"/>
   </node>
   <node id="3914315265" lat="45.8603334" lon="11.8952132" version="3" timestamp="2022-12-17T16:50:08Z" changeset="130191481" uid="16027838" user="aLbRc">
     <tag k="ele" v="265"/>
