@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-17T03:05:27Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-05-18T03:16:02Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -269,12 +269,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024132"/>
   </node>
-  <node id="62507219" lat="45.4941243" lon="9.5678078" version="4" timestamp="2021-11-16T13:39:01Z" changeset="113852666" uid="1950277" user="Mannivu">
+  <node id="62507219" lat="45.4941243" lon="9.5678078" version="5" timestamp="2025-05-17T15:42:54Z" changeset="166397692" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1983"/>
     <tag k="name" v="Casirate d'Adda"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4011"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024016"/>
   </node>
   <node id="62507336" lat="45.6771433" lon="9.4889369" version="3" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
     <tag k="gfoss_id" v="2170"/>
@@ -9198,16 +9199,6 @@
     <tag k="wikidata" v="Q243509"/>
     <tag k="wikimedia_commons" v="Category:Vallinfreda"/>
     <tag k="wikipedia" v="it:Vallinfreda"/>
-  </node>
-  <node id="72963651" lat="42.0350216" lon="12.6422717" version="5" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4970"/>
-    <tag k="name" v="Mentana"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="22921"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q242942"/>
-    <tag k="wikimedia_commons" v="Category:Mentana"/>
-    <tag k="wikipedia" v="it:Mentana"/>
   </node>
   <node id="72963658" lat="41.6511170" lon="13.0398930" version="4" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4973"/>
