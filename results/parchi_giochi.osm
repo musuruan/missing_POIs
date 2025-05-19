@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-18T03:17:56Z" areas="2024-12-31T00:49:33Z"/>
+<meta osm_base="2025-05-19T03:16:00Z" areas="2024-12-31T00:49:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6475,13 +6475,6 @@
     <tag k="population" v="607"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630020" lat="45.3549275" lon="7.6416464" version="6" timestamp="2024-01-07T02:33:01Z" changeset="145977162" uid="4795149" user="Fedurli">
-    <tag k="gfoss_id" v="187"/>
-    <tag k="name" v="Pertusio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="699"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63630055" lat="45.3970570" lon="7.8308190" version="7" timestamp="2023-01-17T19:52:38Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="185"/>
     <tag k="name" v="Perosa Canavese"/>
@@ -6974,12 +6967,13 @@
     <tag k="population" v="906"/>
     <tag k="reg_name" v="Sant'Orsola"/>
   </node>
-  <node id="64776622" lat="46.1417556" lon="10.7731340" version="4" timestamp="2016-10-25T21:33:17Z" changeset="43173645" uid="743479" user="fayor">
+  <node id="64776622" lat="46.1417556" lon="10.7731340" version="5" timestamp="2025-05-18T21:42:32Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2976"/>
     <tag k="name" v="Massimeno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="105"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027362"/>
   </node>
   <node id="64776634" lat="46.2856525" lon="11.5425874" version="9" timestamp="2019-01-18T01:07:05Z" changeset="66412017" uid="2224062" user="besgeo">
     <tag k="gfoss_id" v="2998"/>
@@ -7029,12 +7023,13 @@
     <tag k="population" v="300"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776848" lat="46.1484401" lon="10.7694794" version="4" timestamp="2016-10-25T21:33:15Z" changeset="43173645" uid="743479" user="fayor">
+  <node id="64776848" lat="46.1484401" lon="10.7694794" version="5" timestamp="2025-05-18T21:49:49Z" changeset="166450094" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2957"/>
     <tag k="name" v="Giustino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="694"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026128"/>
   </node>
   <node id="64777024" lat="46.5176161" lon="11.2313730" version="25" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
     <tag k="gfoss_id" v="2753"/>
