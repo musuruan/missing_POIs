@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-20T03:12:43Z" areas="2025-05-20T00:49:01Z"/>
+<meta osm_base="2025-05-21T03:12:23Z" areas="2025-05-20T21:57:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8794,13 +8794,6 @@
     <tag k="population" v="3072"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630358" lat="44.8714420" lon="7.6080240" version="4" timestamp="2023-01-17T20:01:20Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="174"/>
-    <tag k="name" v="Osasio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="738"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63630370" lat="45.0724657" lon="7.8346706" version="4" timestamp="2023-01-17T19:57:43Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="180"/>
     <tag k="name" v="Pavarolo"/>
@@ -9893,7 +9886,7 @@
     <tag k="population" v="832"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776634" lat="46.2856525" lon="11.5425874" version="9" timestamp="2019-01-18T01:07:05Z" changeset="66412017" uid="2224062" user="besgeo">
+  <node id="64776634" lat="46.2856525" lon="11.5425874" version="10" timestamp="2025-05-20T20:27:24Z" changeset="166541577" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2998"/>
     <tag k="name" v="Panchià"/>
     <tag k="name:de" v="Weißbach"/>
@@ -9901,6 +9894,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="682"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028588"/>
   </node>
   <node id="64776653" lat="46.4187281" lon="11.1407924" version="9" timestamp="2021-03-28T18:19:00Z" changeset="101884805" uid="8445331" user="JuaFritz">
     <tag k="gfoss_id" v="3034"/>
@@ -19506,10 +19500,10 @@
     <tag k="population" v="1036"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980552" lat="42.9799650" lon="13.3560847" version="7" timestamp="2025-01-16T00:35:30Z" changeset="161399908" uid="21490170" user="evilworld">
+  <node id="70980552" lat="42.9799650" lon="13.3560847" version="8" timestamp="2025-05-20T13:10:24Z" changeset="166524368" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="4337"/>
     <tag k="name" v="Amandola"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="3969"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022187"/>

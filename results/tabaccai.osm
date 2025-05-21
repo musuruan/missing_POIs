@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-20T03:11:45Z" areas="2025-05-20T00:38:59Z"/>
+<meta osm_base="2025-05-21T03:11:23Z" areas="2025-05-20T21:57:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -17126,7 +17126,7 @@
     <tag k="population" v="765"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776634" lat="46.2856525" lon="11.5425874" version="9" timestamp="2019-01-18T01:07:05Z" changeset="66412017" uid="2224062" user="besgeo">
+  <node id="64776634" lat="46.2856525" lon="11.5425874" version="10" timestamp="2025-05-20T20:27:24Z" changeset="166541577" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2998"/>
     <tag k="name" v="Panchià"/>
     <tag k="name:de" v="Weißbach"/>
@@ -17134,6 +17134,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="682"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028588"/>
   </node>
   <node id="64776635" lat="46.2120936" lon="11.0935086" version="15" timestamp="2020-08-29T11:46:47Z" changeset="90117198" uid="8445331" user="JuaFritz">
     <tag k="gfoss_id" v="2981"/>
@@ -17328,7 +17329,7 @@
     <tag k="population" v="1735"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776698" lat="46.2865173" lon="11.5659762" version="9" timestamp="2019-01-18T01:11:22Z" changeset="66412087" uid="2224062" user="besgeo">
+  <node id="64776698" lat="46.2865173" lon="11.5659762" version="10" timestamp="2025-05-20T20:27:22Z" changeset="166541577" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3089"/>
     <tag k="name" v="Ziano di Fiemme"/>
     <tag k="name:de" v="Zanonberg)"/>
@@ -17336,6 +17337,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1550"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031990"/>
   </node>
   <node id="64776700" lat="46.0346974" lon="10.7511452" version="8" timestamp="2023-01-23T19:14:33Z" changeset="131621563" uid="1896251" user="simoleo89">
     <tag k="name" v="Zuclo"/>
@@ -17804,12 +17806,13 @@
     <tag k="wikidata" v="Q328049"/>
     <tag k="wikipedia" v="it:Villa Rendena"/>
   </node>
-  <node id="64776950" lat="46.0170354" lon="11.6359415" version="6" timestamp="2016-10-25T21:33:15Z" changeset="43173645" uid="743479" user="fayor">
+  <node id="64776950" lat="46.0170354" lon="11.6359415" version="7" timestamp="2025-05-20T19:58:38Z" changeset="166540624" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2959"/>
     <tag k="name" v="Grigno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2340"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026227"/>
   </node>
   <node id="64776973" lat="46.0693085" lon="11.6080910" version="8" timestamp="2023-11-02T12:12:46Z" changeset="143527432" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="843"/>
@@ -24054,7 +24057,7 @@
     <tag k="population" v="2821"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67254900" lat="37.6229520" lon="14.7390790" version="33" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67254900" lat="37.6206871" lon="14.7418808" version="34" timestamp="2025-05-20T16:53:20Z" changeset="166533877" uid="923271" user="aldoct">
     <tag k="name" v="Centuripe"/>
     <tag k="name:en" v="Centuripe"/>
     <tag k="name:ru" v="Чентурипе"/>
@@ -36193,10 +36196,10 @@
     <tag k="population" v="1036"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980552" lat="42.9799650" lon="13.3560847" version="7" timestamp="2025-01-16T00:35:30Z" changeset="161399908" uid="21490170" user="evilworld">
+  <node id="70980552" lat="42.9799650" lon="13.3560847" version="8" timestamp="2025-05-20T13:10:24Z" changeset="166524368" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="4337"/>
     <tag k="name" v="Amandola"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="3969"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022187"/>
