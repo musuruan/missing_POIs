@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-21T03:10:10Z" areas="2025-05-20T05:45:31Z"/>
+<meta osm_base="2025-05-22T03:11:02Z" areas="2025-05-20T05:45:31Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1261,14 +1261,6 @@
     <tag k="name" v="Villachiara"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1239"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508836" lat="45.4915723" lon="10.2170575" version="4" timestamp="2021-04-14T16:25:35Z" changeset="102941952" uid="350864" user="demon_box">
-    <tag k="gfoss_id" v="2343"/>
-    <tag k="loc_name" v="San Zé Naéle"/>
-    <tag k="name" v="San Zeno Naviglio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3447"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508847" lat="46.0559889" lon="10.3439901" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -2667,14 +2659,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027251"/>
   </node>
-  <node id="62513360" lat="45.3896766" lon="10.4888745" version="5" timestamp="2024-11-07T06:33:41Z" changeset="158842042" uid="9925732" user="Flight777">
-    <tag k="gfoss_id" v="2698"/>
-    <tag k="name" v="Castiglione delle Stiviere"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="18428"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q42890"/>
-  </node>
   <node id="62513368" lat="45.0691748" lon="10.5831131" version="3" timestamp="2024-11-07T07:30:26Z" changeset="158842042" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2706"/>
     <tag k="name" v="Gazzuolo"/>
@@ -3202,12 +3186,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024077"/>
   </node>
-  <node id="62515969" lat="45.2349690" lon="8.9133606" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515969" lat="45.2349690" lon="8.9133606" version="4" timestamp="2025-05-21T21:11:32Z" changeset="166586884" uid="8305310" user="Martin Ligabue">
     <tag k="gfoss_id" v="2394"/>
     <tag k="name" v="Borgo San Siro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1023"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022991"/>
   </node>
   <node id="62516077" lat="46.2586000" lon="10.2566560" version="3" timestamp="2021-11-05T00:44:09Z" changeset="113390293" uid="10901495" user="Martino Scaglione">
     <tag k="ele" v="552"/>
@@ -13798,13 +13783,6 @@
     <tag k="wikidata" v="Q51969"/>
     <tag k="wikipedia" v="it:Volturino"/>
   </node>
-  <node id="68529015" lat="41.3588527" lon="16.0874365" version="4" timestamp="2016-09-09T00:49:53Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6153"/>
-    <tag k="name" v="Trinitapoli"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14733"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68529019" lat="41.4957884" lon="15.0520334" version="3" timestamp="2024-11-06T09:15:51Z" changeset="158809003" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6157"/>
     <tag k="name" v="Volturara Appula"/>
@@ -13888,13 +13866,6 @@
     <tag k="name" v="San Marco in Lamis"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13381"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529132" lat="41.3026320" lon="16.0704650" version="3" timestamp="2016-09-09T00:49:49Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6141"/>
-    <tag k="name" v="San Ferdinando di Puglia"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13987"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529136" lat="41.9287450" lon="15.8810520" version="5" timestamp="2023-06-14T22:17:18Z" changeset="137346887" uid="19497998" user="branco-revert">
