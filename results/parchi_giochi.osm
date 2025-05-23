@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-22T03:11:02Z" areas="2025-05-20T05:45:31Z"/>
+<meta osm_base="2025-05-23T03:10:03Z" areas="2025-05-20T05:45:31Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -11086,12 +11086,13 @@
     <tag k="population" v="1294"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274738" lat="39.3079940" lon="16.3210940" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274738" lat="39.3079940" lon="16.3210940" version="3" timestamp="2025-05-22T16:36:04Z" changeset="166621364" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="6595"/>
     <tag k="name" v="Rovito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2817"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53954"/>
   </node>
   <node id="67274740" lat="39.5698990" lon="16.3614920" version="5" timestamp="2024-03-04T09:54:00Z" changeset="148198054" uid="3860151" user="Michele Aquilani">
     <tag k="contact:facebook" v="https://www.facebook.com/comunesandemetriocorone/"/>
@@ -16084,13 +16085,6 @@
     <tag k="name" v="Castel San Lorenzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3034"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581941" lat="40.6715477" lon="14.7286002" version="8" timestamp="2016-08-30T01:07:19Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5706"/>
-    <tag k="name" v="Vietri sul Mare"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8543"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68581963" lat="40.1333040" lon="15.4732660" version="2" timestamp="2016-08-30T01:07:18Z" changeset="41791239" uid="743479" user="fayor">
