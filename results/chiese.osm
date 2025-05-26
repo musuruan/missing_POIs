@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-25T03:14:29Z" areas="2025-05-20T05:45:31Z"/>
+<meta osm_base="2025-05-26T03:11:42Z" areas="2025-05-20T05:45:31Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3829,12 +3829,16 @@
     <tag k="population" v="10595"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528901" lat="41.8442420" lon="15.8561530" version="2" timestamp="2016-08-27T16:24:01Z" changeset="41739592" uid="743479" user="fayor">
+  <node id="68528901" lat="41.8436851" lon="15.8574635" version="3" timestamp="2025-05-25T10:21:57Z" changeset="166727997" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6108"/>
     <tag k="name" v="Carpino"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4704"/>
+    <tag k="population" v="3729"/>
+    <tag k="population:date" v="2025-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51901"/>
+    <tag k="wikipedia" v="it:Carpino (Italia)"/>
   </node>
   <node id="68528916" lat="41.4327280" lon="15.1230420" version="2" timestamp="2016-08-27T16:23:57Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6098"/>

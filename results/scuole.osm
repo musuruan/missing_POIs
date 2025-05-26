@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-25T03:20:45Z" areas="2025-05-25T01:55:35Z"/>
+<meta osm_base="2025-05-26T03:16:54Z" areas="2025-05-20T05:45:31Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15946,12 +15946,16 @@
     <tag k="wikidata" v="Q51900"/>
     <tag k="wikipedia" v="it:Carlantino"/>
   </node>
-  <node id="68528901" lat="41.8442420" lon="15.8561530" version="2" timestamp="2016-08-27T16:24:01Z" changeset="41739592" uid="743479" user="fayor">
+  <node id="68528901" lat="41.8436851" lon="15.8574635" version="3" timestamp="2025-05-25T10:21:57Z" changeset="166727997" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6108"/>
     <tag k="name" v="Carpino"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4704"/>
+    <tag k="population" v="3729"/>
+    <tag k="population:date" v="2025-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q51901"/>
+    <tag k="wikipedia" v="it:Carpino (Italia)"/>
   </node>
   <node id="68528916" lat="41.4327280" lon="15.1230420" version="2" timestamp="2016-08-27T16:23:57Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6098"/>
@@ -18886,8 +18890,9 @@
     <tag k="wikidata" v="Q100775"/>
     <tag k="wikipedia" v="it:Calestano"/>
   </node>
-  <node id="69300847" lat="44.4960492" lon="9.6620789" version="5" timestamp="2016-09-21T13:17:18Z" changeset="42322913" uid="743479" user="fayor">
+  <node id="69300847" lat="44.4960492" lon="9.6620789" version="6" timestamp="2025-05-25T18:26:14Z" changeset="166746619" uid="9548407" user="Zio Pen">
     <tag k="gfoss_id" v="3898"/>
+    <tag k="local_name" v="Cumpiàn"/>
     <tag k="name" v="Compiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1097"/>
@@ -21391,7 +21396,7 @@
     <tag k="wikidata" v="Q116573"/>
     <tag k="wikipedia" v="it:Casalattico"/>
   </node>
-  <node id="72959853" lat="41.5082170" lon="13.4063030" version="6" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
+  <node id="72959853" lat="41.5090635" lon="13.4065751" version="7" timestamp="2025-05-25T13:58:18Z" changeset="166735865" uid="21792105" user="96wanderer">
     <tag k="gfoss_id" v="5088"/>
     <tag k="name" v="Castro dei Volsci"/>
     <tag k="place" v="village"/>
@@ -25439,6 +25444,19 @@
     <tag k="wikidata" v="Q55284"/>
     <tag k="wikipedia" v="it:Sedini"/>
     <tag k="wikipedia:sc" v="Séddini"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="13" timestamp="2022-08-10T17:04:16Z" changeset="124741067" uid="10901495" user="Martino Scaglione">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="249581031" lat="44.7712392" lon="9.2410693" version="6" timestamp="2023-02-27T21:38:44Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="name" v="Casanova di Destra"/>
