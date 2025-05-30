@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-29T03:13:50Z" areas="2025-05-25T01:55:35Z"/>
+<meta osm_base="2025-05-30T03:11:43Z" areas="2025-05-20T05:45:31Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -13094,15 +13094,6 @@
     <tag k="population" v="480"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274542" lat="39.2562920" lon="16.2200930" version="1" timestamp="2007-10-12T22:40:54Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="6511"/>
-    <tag k="is_in" v="Cosenza, Calabria, Italy"/>
-    <tag k="name" v="Carolei"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3543"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274545" lat="39.1474910" lon="16.3032960" version="2" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6512"/>
     <tag k="name" v="Carpanzano"/>
@@ -19645,6 +19636,13 @@
     <tag k="population" v="412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="70981079" lat="43.0668280" lon="13.3410165" version="3" timestamp="2016-09-09T17:36:35Z" changeset="42039680" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="4297"/>
+    <tag k="name" v="Gualdo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="920"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="70981132" lat="43.0569146" lon="13.4254525" version="4" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4311"/>
     <tag k="name" v="Penna San Giovanni"/>
@@ -25437,6 +25435,19 @@
     <tag k="wikidata" v="Q55284"/>
     <tag k="wikipedia" v="it:Sedini"/>
     <tag k="wikipedia:sc" v="Séddini"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="13" timestamp="2022-08-10T17:04:16Z" changeset="124741067" uid="10901495" user="Martino Scaglione">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="249581031" lat="44.7712392" lon="9.2410693" version="6" timestamp="2023-02-27T21:38:44Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="name" v="Casanova di Destra"/>
