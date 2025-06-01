@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-05-31T03:04:24Z" areas="2025-05-25T01:55:35Z"/>
+<meta osm_base="2025-06-01T03:25:37Z" areas="2025-05-20T05:45:31Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1210,13 +1210,6 @@
     <tag k="population" v="711"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508135" lat="45.3073760" lon="10.1486710" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2342"/>
-    <tag k="name" v="San Gervasio Bresciano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2485"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62508158" lat="45.6585870" lon="10.4205710" version="2" timestamp="2022-01-10T17:12:53Z" changeset="115990688" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2338"/>
     <tag k="name" v="Sabbio Chiese"/>
@@ -1309,13 +1302,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026713"/>
   </node>
-  <node id="62508533" lat="45.4769983" lon="10.0427148" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2267"/>
-    <tag k="name" v="Maclodio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1232"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62508537" lat="45.8645299" lon="10.1836526" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2249"/>
     <tag k="name" v="Gianico"/>
@@ -1329,13 +1315,6 @@
     <tag k="name" v="Monno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="586"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508591" lat="45.4438105" lon="10.0079911" version="2" timestamp="2022-01-07T20:45:43Z" changeset="115891774" uid="465052" user="hecktor">
-    <tag k="gfoss_id" v="2234"/>
-    <tag k="name" v="Corzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="980"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508594" lat="46.0240960" lon="10.3656630" version="3" timestamp="2024-09-09T17:58:38Z" changeset="156407408" uid="30587" user="IknowJoseph">
@@ -2093,14 +2072,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="7253"/>
     <tag k="wikidata" v="Q30028590"/>
-  </node>
-  <node id="62511697" lat="45.4021740" lon="9.6947590" version="3" timestamp="2024-09-09T17:59:01Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="2638"/>
-    <tag k="name" v="Pianengo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2370"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30028794"/>
   </node>
   <node id="62511721" lat="45.4204740" lon="9.6185570" version="3" timestamp="2024-09-09T17:59:05Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2644"/>
@@ -10513,14 +10484,6 @@
     <tag k="name" v="Valsinni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1797"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280380" lat="40.2502425" lon="16.6909586" version="5" timestamp="2022-09-24T11:25:13Z" changeset="126577789" uid="923271" user="aldoct">
-    <tag k="alt_name" v="Scanzano Ionico"/>
-    <tag k="gfoss_id" v="6485"/>
-    <tag k="name" v="Scanzano Jonico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6711"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280426" lat="40.1713120" lon="16.5255890" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
@@ -19839,6 +19802,19 @@
     <tag k="wikidata" v="Q382223"/>
     <tag k="wikipedia" v="it:Romana"/>
     <tag k="wikipedia:sc" v="Rumana"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="13" timestamp="2022-08-10T17:04:16Z" changeset="124741067" uid="10901495" user="Martino Scaglione">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="259445128" lat="40.8763052" lon="9.6294901" version="45" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="name" v="Poltu San Pàulu/Porto San Paolo"/>
