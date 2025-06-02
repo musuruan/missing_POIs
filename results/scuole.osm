@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-01T03:31:58Z" areas="2025-05-20T05:45:31Z"/>
+<meta osm_base="2025-06-02T03:20:41Z" areas="2025-05-25T01:55:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2333,12 +2333,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023470"/>
   </node>
-  <node id="62511372" lat="45.4432750" lon="9.7457600" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511372" lat="45.4432750" lon="9.7457600" version="3" timestamp="2025-06-01T08:43:31Z" changeset="167039956" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2576"/>
     <tag k="name" v="Camisano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1225"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023458"/>
   </node>
   <node id="62511376" lat="45.0788720" lon="10.3751800" version="3" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="2656"/>
@@ -16887,13 +16888,6 @@
     <tag k="population" v="577"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68567018" lat="41.0449190" lon="14.9987440" version="4" timestamp="2016-09-01T23:10:07Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5480"/>
-    <tag k="name" v="Mirabella Eclano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8272"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68567092" lat="40.9917410" lon="14.7292448" version="4" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="5503"/>
     <tag k="name" v="Pietrastornina"/>
@@ -25435,19 +25429,6 @@
     <tag k="wikidata" v="Q55284"/>
     <tag k="wikipedia" v="it:Sedini"/>
     <tag k="wikipedia:sc" v="Séddini"/>
-  </node>
-  <node id="240033339" lat="46.3388659" lon="9.5573117" version="13" timestamp="2022-08-10T17:04:16Z" changeset="124741067" uid="10901495" user="Martino Scaglione">
-    <tag k="ele" v="832"/>
-    <tag k="name" v="Promontogno"/>
-    <tag k="old_name" v="Primentonia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="104"/>
-    <tag k="population:date" v="2008"/>
-    <tag k="postal_code" v="7606"/>
-    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
-    <tag k="wikidata" v="Q7249857"/>
-    <tag k="wikimedia_commons" v="Category:Promontogno"/>
-    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="249581031" lat="44.7712392" lon="9.2410693" version="6" timestamp="2023-02-27T21:38:44Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="name" v="Casanova di Destra"/>
