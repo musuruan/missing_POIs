@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.5 1bd436f1">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-02T03:20:41Z" areas="2025-05-25T01:55:35Z"/>
+<meta osm_base="2025-06-03T03:15:57Z" areas="2025-05-25T01:55:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1218,14 +1218,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1861"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62507734" lat="45.7196870" lon="10.2776670" version="3" timestamp="2024-09-09T17:58:48Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="2260"/>
-    <tag k="name" v="Lodrino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1717"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026698"/>
   </node>
   <node id="62507776" lat="45.5285230" lon="10.5375734" version="5" timestamp="2022-05-10T11:55:39Z" changeset="120790137" uid="1624486" user="thetornado76">
     <tag k="gfoss_id" v="2279"/>
@@ -20928,11 +20920,11 @@
     <tag k="wikimedia_commons" v="Category:Ortucchio"/>
     <tag k="wikipedia" v="it:Ortucchio"/>
   </node>
-  <node id="70993202" lat="41.9732679" lon="13.9600565" version="9" timestamp="2025-05-24T10:45:31Z" changeset="166690667" uid="22915179" user="tabacus">
+  <node id="70993202" lat="41.9732586" lon="13.9600517" version="10" timestamp="2025-06-02T14:06:30Z" changeset="167094113" uid="1940323" user="SekeRob">
     <tag k="ele" v="656"/>
     <tag k="gfoss_id" v="5778"/>
     <tag k="name" v="Pettorano sul Gizio"/>
-    <tag k="place" v="yes"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="1255"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://comune.pettorano.aq.it/"/>
