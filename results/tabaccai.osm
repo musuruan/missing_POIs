@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-09T03:21:14Z" areas="2025-06-08T22:55:10Z"/>
+<meta osm_base="2025-06-10T03:18:05Z" areas="2025-06-10T01:01:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2639,8 +2639,9 @@
     <tag k="population" v="405"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507459" lat="45.5634485" lon="9.9782721" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507459" lat="45.5634485" lon="9.9782721" version="4" timestamp="2025-06-09T13:46:13Z" changeset="167399188" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2226"/>
+    <tag k="loc_name" v="Cucài"/>
     <tag k="name" v="Coccaglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7049"/>
@@ -19145,12 +19146,13 @@
     <tag k="source" v="ISTAT"/>
     <tag k="wikidata" v="Q34603"/>
   </node>
-  <node id="64778357" lat="45.4948512" lon="11.7975235" version="8" timestamp="2018-02-20T11:02:44Z" changeset="56517043" uid="362065" user="GFS">
+  <node id="64778357" lat="45.4948512" lon="11.7975235" version="9" timestamp="2025-06-09T20:16:57Z" changeset="167416780" uid="14316347" user="Gicorada">
     <tag k="gfoss_id" v="3618"/>
     <tag k="name" v="Villafranca Padovana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="10217"/>
     <tag k="source" v="ISTAT"/>
+    <tag k="wikidata" v="Q30031811"/>
   </node>
   <node id="64778364" lat="45.1345136" lon="11.7084352" version="5" timestamp="2020-06-03T01:52:25Z" changeset="86103135" uid="1669056" user="Maurizio Melani (forwalk)">
     <tag k="gfoss_id" v="3612"/>
@@ -25900,7 +25902,7 @@
     <tag k="wikidata" v="Q53962"/>
     <tag k="wikipedia" v="it:San Donato di Ninea"/>
   </node>
-  <node id="67274303" lat="39.3388930" lon="16.1434900" version="2" timestamp="2016-08-28T18:58:42Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274303" lat="39.3386323" lon="16.1433436" version="3" timestamp="2025-06-09T13:57:59Z" changeset="167399792" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="6601"/>
     <tag k="name" v="San Fili"/>
     <tag k="place" v="village"/>

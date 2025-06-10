@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-09T03:15:58Z" areas="2025-06-08T22:55:10Z"/>
+<meta osm_base="2025-06-10T03:12:57Z" areas="2025-06-10T01:01:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -978,8 +978,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024640"/>
   </node>
-  <node id="62507459" lat="45.5634485" lon="9.9782721" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507459" lat="45.5634485" lon="9.9782721" version="4" timestamp="2025-06-09T13:46:13Z" changeset="167399188" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2226"/>
+    <tag k="loc_name" v="Cucài"/>
     <tag k="name" v="Coccaglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7049"/>
@@ -15947,15 +15948,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="312"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70993611" lat="42.6637438" lon="13.9194967" version="4" timestamp="2020-06-11T07:08:33Z" changeset="86500592" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5844"/>
-    <tag k="name" v="Morro d'Oro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3317"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51455"/>
-    <tag k="wikipedia" v="it:Morro d'Oro"/>
   </node>
   <node id="70993636" lat="42.8230480" lon="13.7772930" version="3" timestamp="2020-06-11T07:08:33Z" changeset="86500592" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5857"/>
