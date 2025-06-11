@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-10T03:18:05Z" areas="2025-06-10T01:01:13Z"/>
+<meta osm_base="2025-06-11T03:16:45Z" areas="2025-06-10T22:03:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -24269,6 +24269,19 @@
     <tag k="old_name" v="Alì Superiore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="621"/>
+    <tag k="source:population" v="Istat febbraio 2024"/>
+  </node>
+  <node id="67255598" lat="37.8512218" lon="15.2830191" version="47" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+    <tag k="name" v="Taormina"/>
+    <tag k="name:el" v="Ταορμίνα"/>
+    <tag k="name:fr" v="Taormine"/>
+    <tag k="name:it" v="Taormina"/>
+    <tag k="name:la" v="Tauromenium"/>
+    <tag k="name:ru" v="Таормина"/>
+    <tag k="name:scn" v="Taurmina"/>
+    <tag k="old_name:el" v="Ταυρομένιον"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="10493"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67255614" lat="38.0301033" lon="14.8241901" version="15" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
