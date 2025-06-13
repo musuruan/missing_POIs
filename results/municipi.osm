@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-12T03:09:12Z" areas="2025-06-12T00:33:23Z"/>
+<meta osm_base="2025-06-13T03:10:46Z" areas="2025-06-12T21:43:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3781,13 +3781,6 @@
     <tag k="population" v="7495"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529254" lat="41.8983440" lon="15.9575540" version="4" timestamp="2023-06-14T22:24:23Z" changeset="137347016" uid="19497998" user="branco-revert">
-    <tag k="gfoss_id" v="6155"/>
-    <tag k="name" v="Vico del Gargano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8107"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68566172" lat="40.9603160" lon="14.7772400" version="2" timestamp="2016-09-01T23:10:02Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5448"/>
     <tag k="name" v="Capriglia Irpina"/>
@@ -7372,13 +7365,6 @@
     <tag k="population" v="420"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72963930" lat="42.6867300" lon="11.9066530" version="2" timestamp="2016-09-07T16:51:15Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4825"/>
-    <tag k="name" v="San Lorenzo Nuovo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2067"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72963944" lat="42.4639626" lon="11.7495088" version="5" timestamp="2019-09-04T19:46:27Z" changeset="74102910" uid="8331873" user="deizenov">
     <tag k="gfoss_id" v="4790"/>
     <tag k="name" v="Canino"/>
@@ -7430,17 +7416,6 @@
     <tag k="wikidata" v="Q160282"/>
     <tag k="wikimedia_commons" v="Category:Castiglione in Teverina"/>
     <tag k="wikipedia" v="it:Castiglione in Teverina"/>
-  </node>
-  <node id="72964305" lat="42.2183916" lon="12.1930062" version="6" timestamp="2023-11-08T11:36:09Z" changeset="143775904" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4783"/>
-    <tag k="name" v="Bassano Romano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4277"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.bassanoromano.vt.it/"/>
-    <tag k="wikidata" v="Q159520"/>
-    <tag k="wikimedia_commons" v="Category:Bassano Romano"/>
-    <tag k="wikipedia" v="it:Bassano Romano"/>
   </node>
   <node id="72964333" lat="42.5465270" lon="11.9047550" version="2" timestamp="2016-09-07T16:51:07Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4791"/>

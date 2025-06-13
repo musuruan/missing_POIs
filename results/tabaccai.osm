@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-12T03:16:33Z" areas="2025-06-12T00:33:23Z"/>
+<meta osm_base="2025-06-13T03:16:55Z" areas="2025-06-12T21:04:36Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -256,10 +256,10 @@
     <tag k="population" v="1301"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753437" lat="43.6436718" lon="11.0752521" version="8" timestamp="2025-01-09T20:17:01Z" changeset="161183304" uid="10875409" user="Friendly_Ghost">
+  <node id="61753437" lat="43.6436718" lon="11.0752521" version="9" timestamp="2025-06-12T17:02:19Z" changeset="167542541" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4507"/>
     <tag k="name" v="Montespertoli"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="13537"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027949"/>
@@ -15941,13 +15941,13 @@
     <tag k="wikimedia_commons" v="Category:Crodo"/>
     <tag k="wikipedia" v="it:Crodo"/>
   </node>
-  <node id="63630878" lat="46.2608820" lon="8.3202130" version="7" timestamp="2023-12-13T18:48:08Z" changeset="145085900" uid="19497998" user="branco-revert">
+  <node id="63630878" lat="46.2608820" lon="8.3202130" version="8" timestamp="2025-06-12T06:41:08Z" changeset="167518879" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="8030"/>
     <tag k="name" v="Baceno"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="918"/>
+    <tag k="population" v="420"/>
     <tag k="population:date" v="2016-01-01"/>
-    <tag k="source:population" v="https://italia.indettaglio.it/eng/piemonte/baceno.html"/>
+    <tag k="source:population" v="GeoNames"/>
   </node>
   <node id="63630889" lat="45.9610803" lon="8.5813615" version="5" timestamp="2023-01-19T10:02:16Z" changeset="131457530" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="8033"/>
@@ -40755,17 +40755,6 @@
     <tag k="wikidata" v="Q180271"/>
     <tag k="wikimedia_commons" v="Category:Vetralla"/>
     <tag k="wikipedia" v="it:Vetralla"/>
-  </node>
-  <node id="72964305" lat="42.2183916" lon="12.1930062" version="6" timestamp="2023-11-08T11:36:09Z" changeset="143775904" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4783"/>
-    <tag k="name" v="Bassano Romano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4277"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.bassanoromano.vt.it/"/>
-    <tag k="wikidata" v="Q159520"/>
-    <tag k="wikimedia_commons" v="Category:Bassano Romano"/>
-    <tag k="wikipedia" v="it:Bassano Romano"/>
   </node>
   <node id="72964320" lat="42.4660738" lon="12.3130342" version="7" timestamp="2023-10-11T05:25:55Z" changeset="142418888" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4784"/>
