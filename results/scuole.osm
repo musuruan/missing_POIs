@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-18T03:17:14Z" areas="2025-06-18T00:55:27Z"/>
+<meta osm_base="2025-06-19T03:18:39Z" areas="2025-06-18T21:51:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1265,6 +1265,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3388"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62507937" lat="46.2203000" lon="10.3587590" version="3" timestamp="2024-09-09T17:58:46Z" changeset="156407408" uid="30587" user="IknowJoseph">
+    <tag k="gfoss_id" v="2253"/>
+    <tag k="name" v="Incudine"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="451"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026344"/>
   </node>
   <node id="62507946" lat="45.7713171" lon="10.2841681" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2254"/>
@@ -19338,6 +19346,13 @@
     <tag k="name" v="Montefalcone Appennino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="527"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="70980017" lat="43.0911639" lon="13.6306019" version="3" timestamp="2024-11-07T20:05:52Z" changeset="158870292" uid="5328797" user="LorenzoPesci">
+    <tag k="gfoss_id" v="4372"/>
+    <tag k="name" v="Monte Giberto"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="863"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70980047" lat="43.1873550" lon="13.5406820" version="2" timestamp="2016-09-09T17:36:35Z" changeset="42039680" uid="743479" user="fayor">
