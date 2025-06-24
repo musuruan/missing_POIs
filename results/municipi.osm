@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-23T03:19:12Z" areas="2025-06-23T01:02:55Z"/>
+<meta osm_base="2025-06-24T03:11:32Z" areas="2025-06-23T23:34:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -817,13 +817,6 @@
     <tag k="population" v="3255"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512189" lat="45.2145680" lon="9.5714600" version="2" timestamp="2020-02-28T20:04:26Z" changeset="81605566" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="7865"/>
-    <tag k="name" v="Brembio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2364"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62512762" lat="45.0390770" lon="11.0457960" version="2" timestamp="2024-06-23T14:08:20Z" changeset="153069747" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="2727"/>
     <tag k="name" v="Quingentole"/>
@@ -837,15 +830,6 @@
     <tag k="name" v="San Giacomo delle Segnate"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1704"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62513013" lat="45.1372460" lon="9.6849166" version="6" timestamp="2025-04-13T01:09:37Z" changeset="164876602" uid="9578458" user="Danidero96">
-    <tag k="gfoss_id" v="7885"/>
-    <tag k="name" v="Fombio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2300"/>
-    <tag k="postal_code" v="26861"/>
-    <tag k="ref:ISTAT" v="098026"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513200" lat="45.0692724" lon="11.0196043" version="4" timestamp="2024-06-23T14:08:20Z" changeset="153069747" uid="14257573" user="toponomastica_comune_arenzano">
@@ -4135,13 +4119,6 @@
     <tag k="population" v="2750"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68568038" lat="41.0441908" lon="14.8834072" version="6" timestamp="2016-09-01T23:10:10Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5502"/>
-    <tag k="name" v="Pietradefusi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2551"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68568395" lat="41.3518250" lon="14.9773400" version="2" timestamp="2016-09-01T23:10:05Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5291"/>
     <tag k="name" v="Foiano di Val Fortore"/>
@@ -5139,13 +5116,6 @@
     <tag k="name" v="Castignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3011"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70979983" lat="42.9898510" lon="13.6091860" version="4" timestamp="2024-01-08T23:55:30Z" changeset="146046747" uid="123412" user="totera">
-    <tag k="gfoss_id" v="4365"/>
-    <tag k="name" v="Montalto delle Marche"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2345"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70980047" lat="43.1873550" lon="13.5406820" version="2" timestamp="2016-09-09T17:36:35Z" changeset="42039680" uid="743479" user="fayor">
@@ -7410,21 +7380,6 @@
     <tag k="wikidata" v="Q340721"/>
     <tag k="wikipedia" v="it:Calangianus"/>
     <tag k="wikipedia:sc" v="Calanzanos"/>
-  </node>
-  <node id="72994583" lat="40.9916247" lon="9.3011094" version="44" timestamp="2023-10-28T07:18:39Z" changeset="143245655" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Sant'Antoni de Calanzanus"/>
-    <tag k="gfoss_id" v="7292"/>
-    <tag k="name" v="Sant'Antoni di Gaddura/Sant'Antonio di Gallura"/>
-    <tag k="name:co" v="Sant'Antoni di Gaddura"/>
-    <tag k="name:it" v="Sant'Antonio di Gallura"/>
-    <tag k="name:sc" v="Sant'Antòni de Calanzànos"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1625"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.santantoniodigallura.ot.it/"/>
-    <tag k="wikidata" v="Q341014"/>
-    <tag k="wikipedia" v="it:Sant'Antonio di Gallura"/>
-    <tag k="wikipedia:sc" v="Sant'Antoni de Calanzanus"/>
   </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
