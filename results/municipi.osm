@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-24T03:11:32Z" areas="2025-06-23T23:34:44Z"/>
+<meta osm_base="2025-06-25T03:12:50Z" areas="2025-06-25T00:32:40Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -41,6 +41,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q82846"/>
     <tag k="wikipedia" v="it:Scarperia"/>
+  </node>
+  <node id="61753493" lat="42.5872822" lon="11.5157197" version="4" timestamp="2024-01-12T15:36:23Z" changeset="146185896" uid="923271" user="aldoct">
+    <tag k="gfoss_id" v="4672"/>
+    <tag k="name" v="Manciano"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="6871"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62505706" lat="45.6651820" lon="9.8291580" version="4" timestamp="2025-03-22T23:02:35Z" changeset="163966889" uid="22582138" user="Luca Foglieni">
     <tag k="created_by" v="JOSM"/>
@@ -656,13 +663,6 @@
     <tag k="name" v="Casalmorano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1653"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62511333" lat="45.3180710" lon="9.6175590" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2584"/>
-    <tag k="name" v="Casaletto Ceredano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1097"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62511376" lat="45.0788720" lon="10.3751800" version="3" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
@@ -7366,20 +7366,6 @@
     <tag k="wikidata" v="Q286768"/>
     <tag k="wikipedia" v="it:Villamassargia"/>
     <tag k="wikipedia:sc" v="Bidda Matzràxia"/>
-  </node>
-  <node id="72994328" lat="40.9197741" lon="9.1948191" version="47" timestamp="2023-10-28T07:25:12Z" changeset="143245924" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7228"/>
-    <tag k="name" v="Caragnani/Calangianus"/>
-    <tag k="name:co" v="Caragnani"/>
-    <tag k="name:it" v="Calangianus"/>
-    <tag k="name:sc" v="Calanzanos"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4642"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.calangianus.ot.it/"/>
-    <tag k="wikidata" v="Q340721"/>
-    <tag k="wikipedia" v="it:Calangianus"/>
-    <tag k="wikipedia:sc" v="Calanzanos"/>
   </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
