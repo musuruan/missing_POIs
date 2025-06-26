@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-25T03:12:50Z" areas="2025-06-25T00:32:40Z"/>
+<meta osm_base="2025-06-25T21:31:54Z" areas="2025-06-25T21:31:54Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -145,14 +145,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1122"/>
     <tag k="postal_code" v="24020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506414" lat="45.5548790" lon="9.8309600" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="2000"/>
-    <tag k="name" v="Cividate al Piano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4869"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506492" lat="45.6767028" lon="9.8270544" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -389,14 +381,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026836"/>
   </node>
-  <node id="62508017" lat="46.0790576" lon="10.2925497" version="5" timestamp="2023-01-11T21:35:51Z" changeset="131162920" uid="43207" user="kdkeller">
-    <tag k="gfoss_id" v="2301"/>
-    <tag k="name" v="Paisco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="257"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18475581"/>
-  </node>
   <node id="62508062" lat="45.2785132" lon="10.3722097" version="5" timestamp="2019-10-20T21:00:56Z" changeset="75964892" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2330"/>
     <tag k="name" v="Remedello Sopra"/>
@@ -501,15 +485,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1030"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508761" lat="46.1654990" lon="10.3528600" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2351"/>
-    <tag k="name" v="Sonico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1208"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q112028"/>
-    <tag k="wikipedia" v="it:Sonico (Italia)"/>
   </node>
   <node id="62508775" lat="45.4772790" lon="10.0106650" version="3" timestamp="2024-09-09T17:59:14Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2360"/>
@@ -696,13 +671,6 @@
     <tag k="name:egl" v="San Martén"/>
     <tag k="place" v="village"/>
     <tag k="population" v="476"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62511389" lat="45.3060082" lon="9.7051398" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2648"/>
-    <tag k="name" v="Ripalta Guerina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5660"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62511407" lat="45.3555543" lon="9.7802453" version="4" timestamp="2024-03-05T20:34:27Z" changeset="148267176" uid="18934313" user="Premo19">
@@ -7335,37 +7303,6 @@
     <tag k="population" v="1023"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026517"/>
-  </node>
-  <node id="72991196" lat="39.1118320" lon="8.6700380" version="41" timestamp="2019-09-16T14:28:53Z" changeset="74536016" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="7501"/>
-    <tag k="name" v="Sa Baronia/Villaperuccio"/>
-    <tag k="name:it" v="Villaperuccio"/>
-    <tag k="name:sc" v="Sa Baronia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1117"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.villaperuccio.ci.it"/>
-    <tag k="wikidata" v="Q286824"/>
-    <tag k="wikipedia" v="it:Villaperuccio"/>
-    <tag k="wikipedia:sc" v="Sa Baronia"/>
-  </node>
-  <node id="72991677" lat="39.2758994" lon="8.6404754" version="44" timestamp="2023-04-22T19:34:33Z" changeset="135241013" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Bidda Matzràxa"/>
-    <tag k="alt_name_1" v="Biddamassàrgia"/>
-    <tag k="gfoss_id" v="7491"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Bidda Matzràxia/Villamassargia"/>
-    <tag k="name:it" v="Villamassargia"/>
-    <tag k="name:sc" v="Bidda Matzràxia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3713"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.villamassargia.ca.it/"/>
-    <tag k="wikidata" v="Q286768"/>
-    <tag k="wikipedia" v="it:Villamassargia"/>
-    <tag k="wikipedia:sc" v="Bidda Matzràxia"/>
   </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
