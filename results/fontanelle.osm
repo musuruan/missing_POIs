@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-29T03:26:09Z" areas="2025-06-29T00:52:37Z"/>
+<meta osm_base="2025-06-30T03:22:08Z" areas="2025-06-29T21:53:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3621,14 +3621,18 @@
     <tag k="population" v="4623"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779097" lat="45.7327961" lon="11.7984223" version="13" timestamp="2024-12-27T15:40:59Z" changeset="160681740" uid="22297104" user="Mattia8">
+  <node id="64779097" lat="45.7327961" lon="11.7984223" version="14" timestamp="2025-06-29T07:26:07Z" changeset="168253244" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3214"/>
     <tag k="name" v="Cassola"/>
     <tag k="name:vec" v="Casoła"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15127"/>
+    <tag k="postal_code" v="36022"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.cassola.vi.it/home"/>
+    <tag k="wikidata" v="Q46727"/>
+    <tag k="wikipedia" v="it:Cassola"/>
   </node>
   <node id="64779099" lat="45.6459759" lon="11.6329987" version="6" timestamp="2020-12-06T13:36:32Z" changeset="95366066" uid="504502" user="kkklllppp">
     <tag k="gfoss_id" v="3204"/>
@@ -6035,13 +6039,6 @@
     <tag k="name" v="Cannole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1765"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529201" lat="40.2581260" lon="18.2490260" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6270"/>
-    <tag k="name" v="Caprarica di Lecce"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2813"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529216" lat="40.1977814" lon="18.3408272" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
@@ -9432,21 +9429,6 @@
     <tag k="wikidata" v="Q288201"/>
     <tag k="wikipedia" v="it:Serramanna"/>
     <tag k="wikipedia:sc" v="Serramanna"/>
-  </node>
-  <node id="72991053" lat="39.0655592" lon="9.0108295" version="47" timestamp="2023-08-23T09:22:36Z" changeset="140265913" uid="10721323" user="Lorenzo Zucca">
-    <tag k="gfoss_id" v="7463"/>
-    <tag k="name" v="Sarrocu/Sarroch"/>
-    <tag k="name:it" v="Sarroch"/>
-    <tag k="name:sc" v="Sarrocu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5243"/>
-    <tag k="postal_code" v="09018"/>
-    <tag k="ref:LOCODE" v="ITPFX"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.sarroch.ca.it/"/>
-    <tag k="wikidata" v="Q284901"/>
-    <tag k="wikipedia" v="it:Sarroch"/>
-    <tag k="wikipedia:sc" v="Sarroccu"/>
   </node>
   <node id="72991082" lat="39.3479629" lon="9.1817083" version="45" timestamp="2017-12-07T12:53:41Z" changeset="54430783" uid="113316" user="Andria Tzedda">
     <tag k="gfoss_id" v="7479"/>
