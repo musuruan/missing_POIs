@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-30T03:18:02Z" areas="2025-06-25T21:32:45Z"/>
+<meta osm_base="2025-07-01T03:23:30Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2664,9 +2664,10 @@
     <tag k="population" v="1797"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280426" lat="40.1713120" lon="16.5255890" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280426" lat="40.1713120" lon="16.5255890" version="3" timestamp="2025-06-30T14:08:25Z" changeset="168311482" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="6477"/>
     <tag k="name" v="Rotondella"/>
+    <tag k="name:ru" v="Ротонделла"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3233"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7241,12 +7242,6 @@
     <tag k="population" v="1023"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026517"/>
-  </node>
-  <node id="272333320" lat="46.4698782" lon="11.7273247" version="8" timestamp="2022-08-05T11:46:11Z" changeset="124519553" uid="8199540" user="Marcello Perathoner">
-    <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
-    <tag k="name:it" v="Fontanazzo di sotto"/>
-    <tag k="name:lld" v="Fontanac' de Sot"/>
-    <tag k="place" v="neighbourhood"/>
   </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="12" timestamp="2025-05-18T21:42:30Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3048"/>

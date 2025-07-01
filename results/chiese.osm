@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-06-30T03:20:00Z" areas="2025-06-29T21:53:59Z"/>
+<meta osm_base="2025-07-01T03:24:33Z" areas="2025-07-01T00:30:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3008,9 +3008,10 @@
     <tag k="sorting_name" v="Montalbano Ionico"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280426" lat="40.1713120" lon="16.5255890" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280426" lat="40.1713120" lon="16.5255890" version="3" timestamp="2025-06-30T14:08:25Z" changeset="168311482" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="6477"/>
     <tag k="name" v="Rotondella"/>
+    <tag k="name:ru" v="Ротонделла"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3233"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3252,16 +3253,18 @@
     <tag k="population" v="1534"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67281304" lat="40.1471578" lon="16.2895010" version="5" timestamp="2020-08-12T15:26:09Z" changeset="89312009" uid="110076" user="GPS-Marco">
+  <node id="67281304" lat="40.1471578" lon="16.2895010" version="6" timestamp="2025-06-30T14:37:37Z" changeset="168312799" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="6439"/>
     <tag k="name" v="Senise"/>
+    <tag k="name:ru" v="Сенизе"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7182"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67281326" lat="40.2466257" lon="16.2746186" version="3" timestamp="2021-11-15T17:51:52Z" changeset="113816422" uid="8215303" user="ross-map">
+  <node id="67281326" lat="40.2466257" lon="16.2746186" version="4" timestamp="2025-06-30T14:28:19Z" changeset="168312409" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="6434"/>
     <tag k="name" v="Sant'Arcangelo"/>
+    <tag k="name:ru" v="Сант-Арканджело"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6637"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3982,13 +3985,6 @@
     <tag k="population" v="8685"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026587"/>
-  </node>
-  <node id="68529324" lat="40.2738260" lon="18.2633270" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6274"/>
-    <tag k="name" v="Castri di Lecce"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3112"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529328" lat="40.1738974" lon="18.2970106" version="7" timestamp="2023-06-04T17:40:27Z" changeset="136942302" uid="117497" user="Gnurpsnewoel">
     <tag k="gfoss_id" v="6275"/>
