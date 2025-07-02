@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-01T03:26:37Z" areas="2025-06-25T21:32:45Z"/>
+<meta osm_base="2025-07-02T03:15:58Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -503,13 +503,13 @@
     <tag k="population" v="1543"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511407" lat="45.3555543" lon="9.7802453" version="4" timestamp="2024-03-05T20:34:27Z" changeset="148267176" uid="18934313" user="Premo19">
+  <node id="62511407" lat="45.3555543" lon="9.7802453" version="5" timestamp="2025-07-01T09:00:03Z" changeset="168343114" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2653"/>
     <tag k="name" v="Salvirola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="933"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q42746"/>
+    <tag k="wikidata" v="Q30029738"/>
     <tag k="wikipedia" v="it:Salvirola"/>
   </node>
   <node id="62511447" lat="45.1762691" lon="10.3129568" version="5" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
@@ -4001,8 +4001,9 @@
     <tag k="source:population" v="Istat febbraio 2024"/>
     <tag k="wikidata" v="Q125753948"/>
   </node>
-  <node id="67253910" lat="37.2883127" lon="13.5275500" version="18" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67253910" lat="37.2883127" lon="13.5275500" version="19" timestamp="2025-07-01T13:56:05Z" changeset="168355333" uid="22632809" user="KeyTV">
     <tag k="name" v="Porto Empedocle"/>
+    <tag k="name:ru" v="Порто-Эмпедокле"/>
     <tag k="name:scn" v="'a Marina"/>
     <tag k="old_name" v="Marina di Girgenti"/>
     <tag k="place" v="town"/>

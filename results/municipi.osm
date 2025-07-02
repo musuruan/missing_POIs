@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-01T03:23:30Z" areas="2025-06-25T21:32:45Z"/>
+<meta osm_base="2025-07-02T03:11:41Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -89,13 +89,6 @@
     <tag k="population" v="1385"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028798"/>
-  </node>
-  <node id="62505911" lat="45.8345021" lon="9.5332605" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2050"/>
-    <tag k="name" v="Locatello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="831"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62505940" lat="45.6885572" lon="9.8040661" version="3" timestamp="2020-08-14T10:27:50Z" changeset="89404076" uid="139580" user="morsi">
     <tag k="gfoss_id" v="2110"/>
@@ -377,13 +370,6 @@
     <tag k="name" v="Provaglio Val Sabbia"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="62508125" lat="45.5895461" lon="10.5517327" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2341"/>
-    <tag k="name" v="San Felice del Benaco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2939"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62508135" lat="45.3073760" lon="10.1486710" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2342"/>
     <tag k="name" v="San Gervasio Bresciano"/>
@@ -411,13 +397,6 @@
     <tag k="name" v="Lavenone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="659"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508487" lat="45.9316930" lon="10.2805867" version="6" timestamp="2024-03-10T20:44:53Z" changeset="148479383" uid="21026547" user="ThomasBass">
-    <tag k="gfoss_id" v="2187"/>
-    <tag k="name" v="Berzo Inferiore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2486"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508520" lat="45.5277840" lon="10.5126750" version="2" timestamp="2021-08-21T20:54:52Z" changeset="110041944" uid="350864" user="demon_box">
@@ -551,15 +530,6 @@
     <tag k="population" v="620"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511153" lat="45.3283941" lon="9.8151283" version="5" timestamp="2023-09-19T20:57:54Z" changeset="141485938" uid="18934313" user="Premo19">
-    <tag k="gfoss_id" v="2676"/>
-    <tag k="name" v="Trigolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1680"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q42849"/>
-    <tag k="wikipedia" v="it:Trigolo"/>
-  </node>
   <node id="62511173" lat="45.1043730" lon="10.4307810" version="4" timestamp="2024-09-09T17:59:13Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2672"/>
     <tag k="name" v="Tornata"/>
@@ -641,15 +611,6 @@
     <tag k="population" v="476"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511407" lat="45.3555543" lon="9.7802453" version="4" timestamp="2024-03-05T20:34:27Z" changeset="148267176" uid="18934313" user="Premo19">
-    <tag k="gfoss_id" v="2653"/>
-    <tag k="name" v="Salvirola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="933"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q42746"/>
-    <tag k="wikipedia" v="it:Salvirola"/>
-  </node>
   <node id="62511426" lat="45.0550973" lon="10.2592469" version="4" timestamp="2021-09-10T15:23:01Z" changeset="111029526" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="2627"/>
     <tag k="name" v="Motta Baluffi"/>
@@ -720,14 +681,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="931"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62511899" lat="45.3788740" lon="9.7423610" version="3" timestamp="2024-09-09T17:58:57Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="2628"/>
-    <tag k="name" v="Offanengo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5511"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30028305"/>
   </node>
   <node id="62511937" lat="45.0196019" lon="10.2926531" version="4" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="2674"/>
@@ -4891,13 +4844,6 @@
     <tag k="population" v="84"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300781" lat="44.7331681" lon="9.9275557" version="5" timestamp="2016-09-21T13:17:25Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3915"/>
-    <tag k="name" v="Pellegrino Parmense"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1285"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69300797" lat="44.8822638" lon="10.1729422" version="3" timestamp="2023-08-30T21:08:58Z" changeset="140608250" uid="5351353" user="DarioMangoni">
     <tag k="gfoss_id" v="3902"/>
     <tag k="name" v="Fontanellato"/>
@@ -7423,11 +7369,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="10509"/>
     <tag k="wikidata" v="Q30022483"/>
-  </node>
-  <node id="2444621753" lat="44.3744419" lon="7.8725517" version="4" timestamp="2023-01-17T19:44:53Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="name" v="Vicoforte"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q30031702"/>
   </node>
   <node id="2663786391" lat="40.5074284" lon="15.8147487" version="4" timestamp="2023-08-22T09:47:17Z" changeset="140219416" uid="361003" user="Cascafico">
     <tag k="gfoss_id" v="6355"/>
