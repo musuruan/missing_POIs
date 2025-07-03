@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-02T03:19:08Z" areas="2025-07-01T21:47:32Z"/>
+<meta osm_base="2025-07-03T03:20:15Z" areas="2025-07-03T00:45:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -17599,13 +17599,14 @@
     <tag k="population" v="300"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776836" lat="46.0893670" lon="11.1800260" version="6" timestamp="2020-01-20T21:23:40Z" changeset="79818128" uid="8445331" user="JuaFritz">
+  <node id="64776836" lat="46.0893670" lon="11.1800260" version="7" timestamp="2025-07-02T09:45:48Z" changeset="168389577" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2925"/>
     <tag k="loc_name" v="Zivezàn"/>
     <tag k="name" v="Civezzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3113"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024824"/>
   </node>
   <node id="64776838" lat="46.3652616" lon="11.0332447" version="10" timestamp="2021-03-28T18:19:00Z" changeset="101884805" uid="8445331" user="JuaFritz">
     <tag k="alt_name:lld" v="Cliès"/>
@@ -21266,20 +21267,20 @@
     <tag k="population" v="1410"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502746" lat="45.9080200" lon="13.5165379" version="6" timestamp="2023-03-14T22:28:43Z" changeset="133687107" uid="129060" user="Klenje">
+  <node id="66502746" lat="45.9080200" lon="13.5165379" version="7" timestamp="2025-07-02T13:46:35Z" changeset="168400521" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3813"/>
     <tag k="loc_name:fur" v="Fara"/>
-    <tag k="name" v="Farra d'Isonzo"/>
+    <tag k="name" v="Farra d'Isonzo / Fara"/>
     <tag k="name:fur" v="Fare"/>
     <tag k="name:sl" v="Fara"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1712"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502748" lat="46.0313230" lon="13.4793349" version="6" timestamp="2023-03-14T22:28:43Z" changeset="133687107" uid="129060" user="Klenje">
+  <node id="66502748" lat="46.0313230" lon="13.4793349" version="7" timestamp="2025-07-02T12:54:17Z" changeset="168397415" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3812"/>
     <tag k="loc_name:fur" v="Dolegna dal Cuei"/>
-    <tag k="name" v="Dolegna del Collio"/>
+    <tag k="name" v="Dolegna del Collio / Dolegna dal Cuei / Dolenje v Brdih"/>
     <tag k="name:fur" v="Dolegne dal Cuei"/>
     <tag k="name:sl" v="Dolenje"/>
     <tag k="place" v="village"/>
@@ -23986,14 +23987,6 @@
     <tag k="population" v="6812"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67254828" lat="37.5679714" lon="14.6918187" version="16" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Catenanuova"/>
-    <tag k="name:scn" v="Catinanova"/>
-    <tag k="old_name" v="Catena la Nuova"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4453"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
   <node id="67254842" lat="37.7103507" lon="14.5356897" version="13" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Gagliano Castelferrato"/>
     <tag k="name:scn" v="Agghianu"/>
@@ -24045,17 +24038,6 @@
     <tag k="name:scn" v="Nissurìa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2821"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67254900" lat="37.6206871" lon="14.7418808" version="34" timestamp="2025-05-20T16:53:20Z" changeset="166533877" uid="923271" user="aldoct">
-    <tag k="name" v="Centuripe"/>
-    <tag k="name:en" v="Centuripe"/>
-    <tag k="name:ru" v="Чентурипе"/>
-    <tag k="name:scn" v="Centorbi"/>
-    <tag k="name:uk" v="Чентурипе"/>
-    <tag k="old_name" v="Kentoripa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5008"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67254936" lat="37.9772620" lon="15.2447860" version="13" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
@@ -24837,25 +24819,6 @@
     <tag k="name:scn" v="Castiddubbonu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8010"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67256798" lat="37.0250400" lon="14.4929810" version="18" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Acate"/>
-    <tag k="name:scn" v="Vischiri"/>
-    <tag k="old_name:-1938" v="Biscari"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10471"/>
-    <tag k="population:1593" v="620"/>
-    <tag k="population:1861" v="2543"/>
-    <tag k="population:1871" v="2780"/>
-    <tag k="population:1881" v="4077"/>
-    <tag k="population:1901" v="3854"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67256846" lat="37.0481124" lon="14.7937968" version="16" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Giarratana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2910"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67256935" lat="38.1300612" lon="13.2335013" version="11" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
@@ -41627,21 +41590,6 @@
     <tag k="wikidata" v="Q283894"/>
     <tag k="wikipedia" v="it:Donori"/>
     <tag k="wikipedia:sc" v="Donori"/>
-  </node>
-  <node id="72991301" lat="39.4392370" lon="8.4979300" version="42" timestamp="2023-11-01T05:43:46Z" changeset="143455238" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7418"/>
-    <tag k="name" v="Frùmini Majori/Fluminimaggiore"/>
-    <tag k="name:it" v="Fluminimaggiore"/>
-    <tag k="name:sc" v="Frùmini Majori"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3134"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="url" v="http://www.fluminimaggiore-bilingue.it/"/>
-    <tag k="website" v="https://www.comune.fluminimaggiore.ca.it/"/>
-    <tag k="wikidata" v="Q286269"/>
-    <tag k="wikipedia" v="it:Fluminimaggiore"/>
-    <tag k="wikipedia:sc" v="Frùmini Majori"/>
   </node>
   <node id="72991317" lat="39.6562834" lon="9.1297852" version="44" timestamp="2023-11-07T21:09:17Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7433"/>

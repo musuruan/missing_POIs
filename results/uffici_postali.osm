@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-02T03:12:59Z" areas="2025-07-01T21:47:32Z"/>
+<meta osm_base="2025-07-03T03:13:59Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7039,13 +7039,14 @@
     <tag k="population" v="300"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776836" lat="46.0893670" lon="11.1800260" version="6" timestamp="2020-01-20T21:23:40Z" changeset="79818128" uid="8445331" user="JuaFritz">
+  <node id="64776836" lat="46.0893670" lon="11.1800260" version="7" timestamp="2025-07-02T09:45:48Z" changeset="168389577" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2925"/>
     <tag k="loc_name" v="Zivezàn"/>
     <tag k="name" v="Civezzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3113"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024824"/>
   </node>
   <node id="64776848" lat="46.1484401" lon="10.7694794" version="5" timestamp="2025-05-18T21:49:49Z" changeset="166450094" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2957"/>
@@ -8156,10 +8157,10 @@
     <tag k="postal_code" v="34076"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502748" lat="46.0313230" lon="13.4793349" version="6" timestamp="2023-03-14T22:28:43Z" changeset="133687107" uid="129060" user="Klenje">
+  <node id="66502748" lat="46.0313230" lon="13.4793349" version="7" timestamp="2025-07-02T12:54:17Z" changeset="168397415" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3812"/>
     <tag k="loc_name:fur" v="Dolegna dal Cuei"/>
-    <tag k="name" v="Dolegna del Collio"/>
+    <tag k="name" v="Dolegna del Collio / Dolegna dal Cuei / Dolenje v Brdih"/>
     <tag k="name:fur" v="Dolegne dal Cuei"/>
     <tag k="name:sl" v="Dolenje"/>
     <tag k="place" v="village"/>
@@ -17672,21 +17673,6 @@
     <tag k="wikipedia" v="it:Donori"/>
     <tag k="wikipedia:sc" v="Donori"/>
   </node>
-  <node id="72991301" lat="39.4392370" lon="8.4979300" version="42" timestamp="2023-11-01T05:43:46Z" changeset="143455238" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7418"/>
-    <tag k="name" v="Frùmini Majori/Fluminimaggiore"/>
-    <tag k="name:it" v="Fluminimaggiore"/>
-    <tag k="name:sc" v="Frùmini Majori"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3134"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="url" v="http://www.fluminimaggiore-bilingue.it/"/>
-    <tag k="website" v="https://www.comune.fluminimaggiore.ca.it/"/>
-    <tag k="wikidata" v="Q286269"/>
-    <tag k="wikipedia" v="it:Fluminimaggiore"/>
-    <tag k="wikipedia:sc" v="Frùmini Majori"/>
-  </node>
   <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7438"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
@@ -20679,23 +20665,6 @@
   <node id="9070591861" lat="41.8451813" lon="13.5359209" version="1" timestamp="2021-09-07T13:33:26Z" changeset="110861595" uid="4930752" user="datamove">
     <tag k="name" v="San Vincenzo Valle Roveto"/>
     <tag k="place" v="village"/>
-  </node>
-  <node id="11117760678" lat="42.8809558" lon="11.6723792" version="8" timestamp="2023-09-02T18:43:12Z" changeset="140732020" uid="17965418" user="DabMK">
-    <tag k="ele" v="822"/>
-    <tag k="gfoss_id" v="4623"/>
-    <tag k="name" v="Abbadia San Salvatore"/>
-    <tag k="name:be" v="Абадзія-Сан-Сальваторэ"/>
-    <tag k="name:ja" v="アッバディーア・サン・サルヴァトーレ"/>
-    <tag k="name:kk" v="Аббадия-Сан-Сальваторе"/>
-    <tag k="name:la" v="Abbatia Sancti Salvatoris"/>
-    <tag k="name:ru" v="Аббадия-Сан-Сальваторе"/>
-    <tag k="name:uk" v="Аббадія-Сан-Сальваторе"/>
-    <tag k="name:zh" v="阿巴迪亚圣萨尔瓦托雷"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="6832"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q91096"/>
-    <tag k="wikipedia" v="it:Abbadia San Salvatore"/>
   </node>
   <node id="11290361654" lat="45.3816704" lon="9.3489334" version="1" timestamp="2023-10-26T08:08:19Z" changeset="143149517" uid="20500231" user="fabiotolni">
     <tag k="ele" v="90"/>
