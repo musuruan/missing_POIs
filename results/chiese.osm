@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-03T03:14:55Z" areas="2025-06-25T21:32:45Z"/>
+<meta osm_base="2025-07-04T03:13:17Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5473,13 +5473,6 @@
     <tag k="population" v="1455"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979174" lat="43.5433754" lon="13.3865869" version="3" timestamp="2017-02-13T14:26:39Z" changeset="46049019" uid="3396329" user="djsip">
-    <tag k="gfoss_id" v="4228"/>
-    <tag k="name" v="Agugliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4163"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70979431" lat="43.5111580" lon="13.0736670" version="3" timestamp="2025-01-26T00:26:24Z" changeset="161765546" uid="123412" user="totera">
     <tag k="gfoss_id" v="4264"/>
     <tag k="name" v="Poggio San Marcello"/>
@@ -7442,6 +7435,17 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2176"/>
     <tag k="postal_code" v="60036"/>
+  </node>
+  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Abriès"/>
+    <tag k="name:oc" v="Abriers"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="382"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="05460"/>
+    <tag k="ref:FR:SIREN" v="210500013"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="287896814" lat="45.9216649" lon="11.3242901" version="11" timestamp="2021-12-21T07:41:10Z" changeset="115194688" uid="61042" user="Agh">
     <tag k="name" v="Lusérn - Luserna"/>

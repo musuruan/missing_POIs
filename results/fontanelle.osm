@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-03T03:17:04Z" areas="2025-06-25T21:32:45Z"/>
+<meta osm_base="2025-07-04T03:15:10Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2177,16 +2177,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17830"/>
     <tag k="wikipedia" v="it:Montabone"/>
-  </node>
-  <node id="63623414" lat="44.9962983" lon="8.0785144" version="3" timestamp="2020-10-10T23:32:28Z" changeset="92289096" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="843"/>
-    <tag k="name" v="Soglio"/>
-    <tag k="name:pms" v="Seuri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="135"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17868"/>
-    <tag k="wikipedia" v="it:Soglio (Italia)"/>
   </node>
   <node id="63623469" lat="44.8186266" lon="8.1091847" version="3" timestamp="2022-12-22T19:34:28Z" changeset="130389853" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="836"/>
@@ -11231,6 +11221,17 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3165"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Abriès"/>
+    <tag k="name:oc" v="Abriers"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="382"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="05460"/>
+    <tag k="ref:FR:SIREN" v="210500013"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>
