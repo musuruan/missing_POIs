@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-04T03:12:19Z" areas="2025-07-03T22:14:48Z"/>
+<meta osm_base="2025-07-05T03:07:56Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1182,11 +1182,6 @@
     <tag k="population" v="3610"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508071" lat="45.6848636" lon="10.4366014" version="4" timestamp="2024-10-31T06:32:58Z" changeset="158567829" uid="9925732" user="Flight777">
-    <tag k="created_by" v="Potlatch 0.7b"/>
-    <tag k="name" v="Provaglio Val Sabbia"/>
-    <tag k="place" v="village"/>
-  </node>
   <node id="62508084" lat="45.6682870" lon="10.3967700" version="3" timestamp="2024-09-09T17:59:04Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2323"/>
     <tag k="loc_name" v="Presei"/>
@@ -1201,13 +1196,6 @@
     <tag k="name" v="Pertica Bassa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="711"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508158" lat="45.6585870" lon="10.4205710" version="2" timestamp="2022-01-10T17:12:53Z" changeset="115990688" uid="350864" user="demon_box">
-    <tag k="gfoss_id" v="2338"/>
-    <tag k="name" v="Sabbio Chiese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3178"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508173" lat="45.5514816" lon="10.4218570" version="4" timestamp="2024-10-12T16:53:11Z" changeset="157805233" uid="350864" user="demon_box">
@@ -15413,13 +15401,6 @@
     <tag k="population" v="1236"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991478" lat="42.0718059" lon="14.4489025" version="3" timestamp="2018-07-13T21:31:14Z" changeset="60700797" uid="504502" user="kkklllppp">
-    <tag k="gfoss_id" v="5913"/>
-    <tag k="name" v="Atessa"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10639"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70991528" lat="42.0899370" lon="14.3812170" version="2" timestamp="2016-09-07T16:52:16Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5910"/>
     <tag k="name" v="Archi"/>
@@ -19620,6 +19601,17 @@
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
+  </node>
+  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Abriès"/>
+    <tag k="name:oc" v="Abriers"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="382"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="05460"/>
+    <tag k="ref:FR:SIREN" v="210500013"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="287896814" lat="45.9216649" lon="11.3242901" version="11" timestamp="2021-12-21T07:41:10Z" changeset="115194688" uid="61042" user="Agh">
     <tag k="name" v="Lusérn - Luserna"/>

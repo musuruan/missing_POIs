@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-04T03:18:22Z" areas="2025-07-03T22:14:48Z"/>
+<meta osm_base="2025-07-05T03:13:55Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2384,12 +2384,13 @@
     <tag k="population" v="6396"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507108" lat="45.5971972" lon="9.6948557" version="2" timestamp="2020-02-22T11:18:51Z" changeset="81343487" uid="1476146" user="Alecs01">
+  <node id="62507108" lat="45.5971972" lon="9.6948557" version="3" timestamp="2025-07-04T13:41:05Z" changeset="168486514" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2142"/>
     <tag k="name" v="Urgnano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8445"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031409"/>
   </node>
   <node id="62507119" lat="45.8908697" lon="9.5400571" version="5" timestamp="2021-01-14T11:40:31Z" changeset="97493203" uid="616481" user="gigi2037">
     <tag k="gfoss_id" v="2150"/>
@@ -44996,6 +44997,17 @@
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
+  </node>
+  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Abriès"/>
+    <tag k="name:oc" v="Abriers"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="382"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="05460"/>
+    <tag k="ref:FR:SIREN" v="210500013"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="287896814" lat="45.9216649" lon="11.3242901" version="11" timestamp="2021-12-21T07:41:10Z" changeset="115194688" uid="61042" user="Agh">
     <tag k="name" v="Lusérn - Luserna"/>

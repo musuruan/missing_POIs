@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-04T03:19:09Z" areas="2025-06-25T21:32:45Z"/>
+<meta osm_base="2025-07-05T03:14:56Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1328,11 +1328,6 @@
     <tag k="population" v="758"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508071" lat="45.6848636" lon="10.4366014" version="4" timestamp="2024-10-31T06:32:58Z" changeset="158567829" uid="9925732" user="Flight777">
-    <tag k="created_by" v="Potlatch 0.7b"/>
-    <tag k="name" v="Provaglio Val Sabbia"/>
-    <tag k="place" v="village"/>
-  </node>
   <node id="62508084" lat="45.6682870" lon="10.3967700" version="3" timestamp="2024-09-09T17:59:04Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2323"/>
     <tag k="loc_name" v="Presei"/>
@@ -1494,13 +1489,6 @@
     <tag k="name" v="Esine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5262"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508684" lat="46.0025085" lon="10.3257912" version="3" timestamp="2020-04-03T16:41:28Z" changeset="83045910" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="2219"/>
-    <tag k="name" v="Cerveno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="659"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508738" lat="45.7544353" lon="10.5446900" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -11369,13 +11357,6 @@
     <tag k="population" v="1554"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586953" lat="44.1876494" lon="9.8956159" version="3" timestamp="2016-09-23T15:52:49Z" changeset="42378066" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="1328"/>
-    <tag k="name" v="Bolano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7391"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66586956" lat="44.2236798" lon="9.7214041" version="5" timestamp="2023-11-25T16:20:51Z" changeset="144446298" uid="2498239" user="maurizioa">
     <tag k="gfoss_id" v="1330"/>
     <tag k="name" v="Borghetto di Vara"/>
@@ -13564,16 +13545,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54649"/>
     <tag k="wikipedia" v="it:San Lorenzo (Italia)"/>
-  </node>
-  <node id="67275269" lat="38.2634710" lon="15.8547960" version="4" timestamp="2024-08-02T17:00:10Z" changeset="154745494" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6801"/>
-    <tag k="name" v="Sant'Eufemia d'Aspromonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4074"/>
-    <tag k="postal_code" v="89027"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54659"/>
-    <tag k="wikipedia" v="it:Sant'Eufemia d'Aspromonte"/>
   </node>
   <node id="67275271" lat="38.2112690" lon="15.7365940" version="2" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6797"/>
@@ -18189,21 +18160,6 @@
     <tag k="wikidata" v="Q94745"/>
     <tag k="wikipedia" v="it:Castel di Casio"/>
   </node>
-  <node id="69300094" lat="44.2600978" lon="11.5597358" version="8" timestamp="2023-10-30T20:39:00Z" changeset="143386151" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="165"/>
-    <tag k="gfoss_id" v="4052"/>
-    <tag k="name" v="Fontanelice"/>
-    <tag k="name:rgn" v="Funtâna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1921"/>
-    <tag k="postal_code" v="40025"/>
-    <tag k="ref:ISTAT" v="037026"/>
-    <tag k="ref:catasto" v="D668"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.fontanelice.bo.it/"/>
-    <tag k="wikidata" v="Q94861"/>
-    <tag k="wikipedia" v="it:Fontanelice"/>
-  </node>
   <node id="69300098" lat="44.7186740" lon="11.5322120" version="7" timestamp="2017-05-02T17:39:40Z" changeset="48342192" uid="1834719" user="LvdT">
     <tag k="ele" v="12"/>
     <tag k="gfoss_id" v="4061"/>
@@ -18674,8 +18630,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q100761"/>
   </node>
-  <node id="69300637" lat="44.5036306" lon="9.6298851" version="5" timestamp="2016-09-21T13:17:14Z" changeset="42322913" uid="743479" user="fayor">
+  <node id="69300637" lat="44.5036306" lon="9.6298851" version="6" timestamp="2025-07-04T17:12:25Z" changeset="168494364" uid="9548407" user="Zio Pen">
     <tag k="gfoss_id" v="3890"/>
+    <tag k="local_name" v="à Piéve"/>
     <tag k="name" v="Bedonia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3823"/>

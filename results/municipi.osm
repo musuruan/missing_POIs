@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-04T03:11:19Z" areas="2025-06-25T21:32:45Z"/>
+<meta osm_base="2025-07-05T03:06:51Z" areas="2025-06-25T21:32:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -269,14 +269,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028356"/>
   </node>
-  <node id="62507659" lat="45.6727860" lon="10.3388690" version="3" timestamp="2024-09-09T17:58:23Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="2189"/>
-    <tag k="name" v="Bione"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1386"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022845"/>
-  </node>
   <node id="62507672" lat="45.8489819" lon="10.1645561" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2177"/>
     <tag k="name" v="Artogne"/>
@@ -289,13 +281,6 @@
     <tag k="name" v="Corte Franca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6282"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62507706" lat="45.6818870" lon="10.4121700" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2182"/>
-    <tag k="name" v="Barghe"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1124"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62507716" lat="45.5029800" lon="10.0436650" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -312,14 +297,6 @@
     <tag k="population" v="1695"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507734" lat="45.7196870" lon="10.2776670" version="3" timestamp="2024-09-09T17:58:48Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="2260"/>
-    <tag k="name" v="Lodrino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1717"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026698"/>
-  </node>
   <node id="62507782" lat="45.2735750" lon="10.1992730" version="3" timestamp="2024-09-09T17:58:54Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2278"/>
     <tag k="name" v="Milzano"/>
@@ -327,13 +304,6 @@
     <tag k="population" v="1483"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027541"/>
-  </node>
-  <node id="62507800" lat="45.7139649" lon="10.3436976" version="4" timestamp="2024-07-29T14:23:53Z" changeset="154565613" uid="11276832" user="HaPe-CZ">
-    <tag k="gfoss_id" v="2285"/>
-    <tag k="name" v="Mura"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="780"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62507895" lat="45.4319770" lon="9.9892650" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2316"/>
@@ -365,23 +335,11 @@
     <tag k="population" v="3006"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508071" lat="45.6848636" lon="10.4366014" version="4" timestamp="2024-10-31T06:32:58Z" changeset="158567829" uid="9925732" user="Flight777">
-    <tag k="created_by" v="Potlatch 0.7b"/>
-    <tag k="name" v="Provaglio Val Sabbia"/>
-    <tag k="place" v="village"/>
-  </node>
   <node id="62508135" lat="45.3073760" lon="10.1486710" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2342"/>
     <tag k="name" v="San Gervasio Bresciano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2485"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508158" lat="45.6585870" lon="10.4205710" version="2" timestamp="2022-01-10T17:12:53Z" changeset="115990688" uid="350864" user="demon_box">
-    <tag k="gfoss_id" v="2338"/>
-    <tag k="name" v="Sabbio Chiese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3178"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508238" lat="45.5159780" lon="9.8696610" version="6" timestamp="2024-09-09T17:59:15Z" changeset="156407408" uid="30587" user="IknowJoseph">
@@ -397,13 +355,6 @@
     <tag k="name" v="Lavenone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="659"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508520" lat="45.5277840" lon="10.5126750" version="2" timestamp="2021-08-21T20:54:52Z" changeset="110041944" uid="350864" user="demon_box">
-    <tag k="gfoss_id" v="2350"/>
-    <tag k="name" v="Soiano del Lago"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1522"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508533" lat="45.4769983" lon="10.0427148" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -484,13 +435,6 @@
     <tag k="name" v="Pralboino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2622"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508945" lat="45.6468500" lon="10.3884485" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2291"/>
-    <tag k="name" v="Odolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1904"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62509236" lat="45.3183780" lon="10.3723760" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -700,45 +644,12 @@
     <tag k="population" v="3255"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512762" lat="45.0390770" lon="11.0457960" version="2" timestamp="2024-06-23T14:08:20Z" changeset="153069747" uid="14257573" user="toponomastica_comune_arenzano">
-    <tag k="gfoss_id" v="2727"/>
-    <tag k="name" v="Quingentole"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1235"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62512809" lat="44.9725750" lon="11.0330970" version="2" timestamp="2024-11-05T16:17:39Z" changeset="158785529" uid="9925732" user="Flight777">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="2737"/>
-    <tag k="name" v="San Giacomo delle Segnate"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1704"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62513200" lat="45.0692724" lon="11.0196043" version="4" timestamp="2024-06-23T14:08:20Z" changeset="153069747" uid="14257573" user="toponomastica_comune_arenzano">
-    <tag k="contact:website" v="http://www.comune.sustinente.mn.it/"/>
-    <tag k="gfoss_id" v="2745"/>
-    <tag k="name" v="Sustinente"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2266"/>
-    <tag k="postal_code" v="46030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62513234" lat="45.0990557" lon="10.5183482" version="4" timestamp="2024-11-07T07:26:36Z" changeset="158842042" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2740"/>
     <tag k="name" v="San Martino dall'Argine"/>
     <tag k="name:egl" v="San Martèn dl'Àrsan"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1857"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62513277" lat="45.1359287" lon="10.9513541" version="4" timestamp="2021-02-24T21:52:01Z" changeset="99932176" uid="10376533" user="eddye_89">
-    <tag k="gfoss_id" v="2733"/>
-    <tag k="location" v="Mantova, Lombardia, Italy"/>
-    <tag k="name" v="Roncoferraro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6604"/>
-    <tag k="postal_code" v="46037"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513340" lat="45.1928760" lon="10.4868810" version="3" timestamp="2024-11-07T07:27:11Z" changeset="158842042" uid="9925732" user="Flight777">
@@ -801,20 +712,6 @@
     <tag k="name" v="Canneto sull'Oglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4543"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62513636" lat="45.1178970" lon="10.7879015" version="8" timestamp="2024-11-07T06:33:11Z" changeset="158842042" uid="9925732" user="Flight777">
-    <tag k="gfoss_id" v="2750"/>
-    <tag k="name" v="Cerese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="10023"/>
-  </node>
-  <node id="62513677" lat="45.0728848" lon="11.1005350" version="3" timestamp="2019-12-23T00:59:48Z" changeset="78747398" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="2743"/>
-    <tag k="name" v="Serravalle a Po"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1722"/>
-    <tag k="postal_code" v="46030"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63621766" lat="44.8207134" lon="8.8916301" version="5" timestamp="2023-01-17T20:03:31Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -2133,14 +2030,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029891"/>
   </node>
-  <node id="67273536" lat="38.8812870" lon="16.4856030" version="3" timestamp="2016-09-05T17:27:22Z" changeset="41936559" uid="354689" user="Francesco Placco">
-    <tag k="gfoss_id" v="6650"/>
-    <tag k="name" v="Caraffa di Catanzaro"/>
-    <tag k="name:aae" v="Garrafa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2084"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67273552" lat="39.0188240" lon="16.7427491" version="3" timestamp="2016-08-28T18:58:19Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6656"/>
     <tag k="name" v="Cerva"/>
@@ -2170,13 +2059,6 @@
     <tag k="name" v="Gimigliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3612"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273645" lat="38.9280929" lon="16.4930774" version="3" timestamp="2017-04-05T23:07:11Z" changeset="47491456" uid="1928626" user="Gianfranco2014">
-    <tag k="gfoss_id" v="6679"/>
-    <tag k="name" v="Marcellinara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2198"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67273670" lat="39.0436920" lon="16.7559070" version="2" timestamp="2016-08-28T18:58:37Z" changeset="41762146" uid="743479" user="fayor">
@@ -2569,16 +2451,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2415"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67275403" lat="38.4337129" lon="16.0604715" version="9" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6769"/>
-    <tag k="name" v="Melicucco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4996"/>
-    <tag k="postal_code" v="89020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54624"/>
-    <tag k="wikipedia" v="it:Melicucco"/>
   </node>
   <node id="67280378" lat="40.1699120" lon="16.4434870" version="2" timestamp="2016-08-28T18:58:52Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6484"/>
@@ -7297,10 +7169,6 @@
     <tag k="name" v="Onano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="995"/>
-  </node>
-  <node id="2125750635" lat="45.7123863" lon="10.4613673" version="2" timestamp="2014-01-31T22:38:49Z" changeset="20308853" uid="69717" user="kaitu">
-    <tag k="name" v="Trebbio"/>
-    <tag k="place" v="hamlet"/>
   </node>
   <node id="2319430521" lat="45.6050596" lon="11.0957685" version="4" timestamp="2021-09-02T07:10:11Z" changeset="110600506" uid="852319" user="vrmap">
     <tag k="name" v="Velo Veronese"/>
