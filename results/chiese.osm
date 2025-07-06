@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-05T03:08:56Z" areas="2025-06-25T21:32:45Z"/>
+<meta osm_base="2025-07-06T03:21:45Z" areas="2025-07-06T01:48:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -61,13 +61,6 @@
     <tag k="name" v="Talla"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1177"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="61753480" lat="42.4548792" lon="11.4195148" version="6" timestamp="2016-09-11T17:22:55Z" changeset="42083429" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4661"/>
-    <tag k="name" v="Capalbio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3750"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753513" lat="42.7306583" lon="11.5403457" version="6" timestamp="2022-11-06T18:56:02Z" changeset="128567048" uid="14617702" user="Đuro Jiří">
@@ -5593,20 +5586,6 @@
     <tag k="population" v="1302"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981178" lat="43.3637323" lon="13.3465961" version="3" timestamp="2016-09-09T17:36:28Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4279"/>
-    <tag k="name" v="Appignano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3904"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70981272" lat="43.3751550" lon="13.0790690" version="2" timestamp="2016-09-09T17:36:44Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4316"/>
-    <tag k="name" v="Poggio San Vicino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="303"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70981357" lat="43.2215210" lon="13.4663061" version="6" timestamp="2022-08-09T08:38:59Z" changeset="124673434" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="4312"/>
     <tag k="name" v="Petriolo"/>
@@ -7421,25 +7400,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2176"/>
     <tag k="postal_code" v="60036"/>
-  </node>
-  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
-    <tag k="name" v="Abriès"/>
-    <tag k="name:oc" v="Abriers"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="382"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="postal_code" v="05460"/>
-    <tag k="ref:FR:SIREN" v="210500013"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2024"/>
-  </node>
-  <node id="287896814" lat="45.9216649" lon="11.3242901" version="11" timestamp="2021-12-21T07:41:10Z" changeset="115194688" uid="61042" user="Agh">
-    <tag k="name" v="Lusérn - Luserna"/>
-    <tag k="name:cim" v="Lusérn"/>
-    <tag k="name:de" v="Lusern"/>
-    <tag k="name:it" v="Luserna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="276"/>
   </node>
   <node id="395603809" lat="43.9567671" lon="12.1959387" version="5" timestamp="2022-01-27T23:08:19Z" changeset="116685553" uid="554973" user="dgitto">
     <tag k="name" v="Mercato Saraceno"/>

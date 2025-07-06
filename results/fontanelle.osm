@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-05T03:10:54Z" areas="2025-07-05T01:05:43Z"/>
+<meta osm_base="2025-07-06T03:23:50Z" areas="2025-07-06T01:48:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2847,27 +2847,6 @@
     <tag k="wikidata" v="Q25166"/>
     <tag k="wikipedia" v="en:Palazzolo Vercellese"/>
   </node>
-  <node id="64776653" lat="46.4187281" lon="11.1407924" version="9" timestamp="2021-03-28T18:19:00Z" changeset="101884805" uid="8445331" user="JuaFritz">
-    <tag k="gfoss_id" v="3034"/>
-    <tag k="name" v="Sarnonico"/>
-    <tag k="name:it" v="Sarnonico"/>
-    <tag k="name:lld" v="Sarnónec"/>
-    <tag k="old_name:de" v="Sarnunich"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="662"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64777120" lat="46.4544136" lon="11.0620153" version="10" timestamp="2020-08-28T16:18:46Z" changeset="90091004" uid="8445331" user="JuaFritz">
-    <tag k="gfoss_id" v="2794"/>
-    <tag k="loc_name" v="Lafreng"/>
-    <tag k="name" v="Laurein - Lauregno"/>
-    <tag k="name:de" v="Laurein"/>
-    <tag k="name:it" v="Lauregno"/>
-    <tag k="name:lld" v="Lauréin"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="361"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778271" lat="45.2452436" lon="11.8186411" version="4" timestamp="2021-01-14T15:14:25Z" changeset="97502647" uid="504502" user="kkklllppp">
     <tag k="gfoss_id" v="3594"/>
     <tag k="name" v="San Pietro Viminario"/>
@@ -3164,16 +3143,6 @@
     <tag k="postal_code" v="45037"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778533" lat="44.9611843" lon="11.6046419" version="9" timestamp="2020-11-29T12:53:16Z" changeset="94982538" uid="504502" user="kkklllppp">
-    <tag k="gfoss_id" v="3641"/>
-    <tag k="name" v="Fiesso Umbertiano"/>
-    <tag k="name:egl" v="Fiess Umbertian"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4142"/>
-    <tag k="postal_code" v="45024"/>
-    <tag k="ref:ISTAT" v="029022"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778535" lat="44.9825584" lon="11.8861875" version="4" timestamp="2017-04-03T08:43:53Z" changeset="47404173" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="3639"/>
     <tag k="name" v="Crespino"/>
@@ -3187,14 +3156,6 @@
     <tag k="name" v="San Bellino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1197"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778545" lat="44.9378374" lon="11.5444126" version="10" timestamp="2017-04-02T21:55:23Z" changeset="47394388" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="3664"/>
-    <tag k="name" v="Stienta"/>
-    <tag k="name:egl" v="Stienta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3010"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778546" lat="45.0689156" lon="11.8937380" version="3" timestamp="2016-10-02T23:39:22Z" changeset="42593464" uid="743479" user="fayor">
@@ -3699,10 +3660,11 @@
     <tag k="wikidata" v="Q1520816"/>
     <tag k="wikipedia" v="it:Campolongo al Torre"/>
   </node>
-  <node id="66503159" lat="45.8835902" lon="13.2849613" version="6" timestamp="2023-01-25T13:57:07Z" changeset="131696894" uid="129060" user="Klenje">
+  <node id="66503159" lat="45.8835902" lon="13.2849613" version="7" timestamp="2025-07-05T20:38:41Z" changeset="168538657" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3679"/>
-    <tag k="name" v="Bagnaria Arsa"/>
+    <tag k="name" v="Bagnaria Arsa / Bagnarie"/>
     <tag k="name:fur" v="Bagnarie"/>
+    <tag k="name:it" v="Bagnaria Arsa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3428"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3742,18 +3704,20 @@
     <tag k="population" v="1617"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503386" lat="45.9357130" lon="13.2511661" version="6" timestamp="2019-05-16T23:54:12Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503386" lat="45.9357130" lon="13.2511661" version="7" timestamp="2025-07-05T20:38:41Z" changeset="168538657" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3682"/>
-    <tag k="name" v="Bicinicco"/>
+    <tag k="name" v="Bicinicco / Bicinins"/>
     <tag k="name:fur" v="Bicinins"/>
+    <tag k="name:it" v="Bicinicco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1832"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503417" lat="45.9458064" lon="13.1727963" version="8" timestamp="2019-05-16T23:54:17Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503417" lat="45.9458064" lon="13.1727963" version="9" timestamp="2025-07-05T20:38:41Z" changeset="168538657" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3733"/>
-    <tag k="name" v="Mortegliano"/>
+    <tag k="name" v="Mortegliano / Mortean"/>
     <tag k="name:fur" v="Mortean"/>
+    <tag k="name:it" v="Mortegliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4890"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7690,14 +7654,6 @@
     <tag k="population" v="3261"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301760" lat="43.9639933" lon="12.7441515" version="5" timestamp="2016-10-27T18:56:35Z" changeset="43225837" uid="2748195" user="karitotp">
-    <tag k="gfoss_id" v="7922"/>
-    <tag k="name" v="Cattolica"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="17125"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q111800"/>
-  </node>
   <node id="70978886" lat="43.5804949" lon="13.1661271" version="3" timestamp="2016-09-09T17:36:29Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4232"/>
     <tag k="name" v="Belvedere Ostrense"/>
@@ -11254,21 +11210,6 @@
     <tag k="place" v="hamlet"/>
     <tag k="population" v="229"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
-  <node id="941316117" lat="44.6992584" lon="11.8040780" version="9" timestamp="2023-11-09T18:12:26Z" changeset="143833874" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="2"/>
-    <tag k="gfoss_id" v="4105"/>
-    <tag k="name" v="Portomaggiore"/>
-    <tag k="name:egl" v="Portmagiòr"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11841"/>
-    <tag k="postal_code" v="44015"/>
-    <tag k="ref:ISTAT" v="038019"/>
-    <tag k="ref:catasto" v="G916"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.portoinrete.com/"/>
-    <tag k="wikidata" v="Q95137"/>
-    <tag k="wikipedia" v="it:Portomaggiore"/>
   </node>
   <node id="946942749" lat="45.1683868" lon="9.8900934" version="4" timestamp="2024-03-03T11:32:57Z" changeset="148161887" uid="9622178" user="GiovanniC83">
     <tag k="gfoss_id" v="2567"/>

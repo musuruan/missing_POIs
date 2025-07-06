@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-05T03:14:56Z" areas="2025-06-25T21:32:45Z"/>
+<meta osm_base="2025-07-06T03:26:51Z" areas="2025-07-05T22:22:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10595,13 +10595,6 @@
     <tag k="population" v="243"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779156" lat="45.5737979" lon="11.6277193" version="5" timestamp="2017-12-08T14:57:17Z" changeset="54461266" uid="2253711" user="woofz">
-    <tag k="gfoss_id" v="3271"/>
-    <tag k="name" v="Quinto Vicentino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4641"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64779175" lat="45.7910878" lon="11.2625174" version="4" timestamp="2016-10-08T21:08:51Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3268"/>
     <tag k="name" v="Posina"/>
@@ -10810,10 +10803,11 @@
     <tag k="population" v="490"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503552" lat="45.8921723" lon="13.3468608" version="5" timestamp="2019-05-16T23:54:33Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503552" lat="45.8921723" lon="13.3468608" version="6" timestamp="2025-07-05T20:38:41Z" changeset="168538657" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3806"/>
-    <tag k="name" v="Visco"/>
+    <tag k="name" v="Visco / Visc"/>
     <tag k="name:fur" v="Visc"/>
+    <tag k="name:it" v="Visco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="697"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -19101,15 +19095,6 @@
     <tag k="population" v="1981"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979007" lat="43.6005620" lon="13.2681700" version="3" timestamp="2017-02-05T04:03:46Z" changeset="45820421" uid="339581" user="nyuriks">
-    <tag k="gfoss_id" v="4257"/>
-    <tag k="name" v="Monte San Vito"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6848"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q124256"/>
-    <tag k="wikipedia" v="it:Monte San Vito (Italia)"/>
-  </node>
   <node id="70979076" lat="43.4326191" lon="12.8572255" version="4" timestamp="2024-11-30T01:21:09Z" changeset="159760858" uid="21490170" user="evilworld">
     <tag k="gfoss_id" v="4271"/>
     <tag k="name" v="Sassoferrato"/>
@@ -25323,17 +25308,6 @@
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
-  </node>
-  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
-    <tag k="name" v="Abriès"/>
-    <tag k="name:oc" v="Abriers"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="382"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="postal_code" v="05460"/>
-    <tag k="ref:FR:SIREN" v="210500013"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="291647121" lat="43.8402291" lon="12.3591843" version="4" timestamp="2016-09-11T00:19:08Z" changeset="42069137" uid="743479" user="fayor">
     <tag k="name" v="Villagrande"/>
