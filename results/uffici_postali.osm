@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-06T03:20:42Z" areas="2025-07-05T22:22:59Z"/>
+<meta osm_base="2025-07-07T03:18:36Z" areas="2025-07-06T23:07:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9995,15 +9995,6 @@
     <tag k="population" v="3465"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275229" lat="38.4361921" lon="16.0806328" version="5" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6723"/>
-    <tag k="name" v="Anoia Inferiore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2378"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18431767"/>
-    <tag k="wikipedia" v="it:Anoia_(Italia)"/>
-  </node>
   <node id="67275238" lat="38.1909700" lon="16.1682218" version="5" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6725"/>
     <tag k="name" v="Ardore"/>
@@ -12097,7 +12088,7 @@
     <tag k="reg_name:el-it" v="Kascignàna"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529343" lat="39.8892190" lon="18.3693330" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529343" lat="39.8891840" lon="18.3687994" version="5" timestamp="2025-07-06T11:42:50Z" changeset="168557847" uid="1725439" user="Begavil84">
     <tag k="gfoss_id" v="6281"/>
     <tag k="name" v="Corsano"/>
     <tag k="place" v="village"/>
@@ -14778,13 +14769,6 @@
     <tag k="name" v="Castelbellino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3618"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70979256" lat="43.3167891" lon="12.9871235" version="3" timestamp="2016-09-09T17:36:32Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4240"/>
-    <tag k="name" v="Cerreto d'Esi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3308"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70979412" lat="43.4813499" lon="13.1383781" version="3" timestamp="2016-09-09T17:36:39Z" changeset="42039680" uid="743479" user="fayor">
@@ -17912,18 +17896,6 @@
     <tag k="wikipedia" v="it:Ussaramanna"/>
     <tag k="wikipedia:sc" v="Ussaramanna"/>
   </node>
-  <node id="72991780" lat="39.2363591" lon="9.4992501" version="41" timestamp="2025-01-28T17:52:42Z" changeset="161867570" uid="10721323" user="Lorenzo Zucca">
-    <tag k="gfoss_id" v="7503"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Castiadas"/>
-    <tag k="name:it" v="Castiadas"/>
-    <tag k="name:sc" v="Castiadas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1310"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://comune.castiadas.ca.it/"/>
-  </node>
   <node id="72991806" lat="39.2541390" lon="9.1788460" version="48" timestamp="2023-04-22T19:38:45Z" changeset="135241189" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Cuartuciu"/>
     <tag k="gfoss_id" v="7502"/>
@@ -20058,11 +20030,11 @@
     <tag k="name:frp" v="Dzonsàn;Dzoénsàn"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="1763679242" lat="45.7525526" lon="7.5553260" version="32" timestamp="2023-06-14T14:23:10Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+  <node id="1763679242" lat="45.7525526" lon="7.5553260" version="33" timestamp="2025-07-06T10:18:28Z" changeset="168554756" uid="2039112" user="Stormbirdy">
     <tag k="alt_name" v="Chef-Lieu"/>
-    <tag k="name" v="Saint-Denis - Capoluogo"/>
+    <tag k="name" v="Saint-Denis"/>
     <tag k="name:frp" v="Sen-Déén"/>
-    <tag k="place" v="hamlet"/>
+    <tag k="place" v="village"/>
   </node>
   <node id="1767923012" lat="42.6223968" lon="13.5088146" version="6" timestamp="2025-02-07T15:00:58Z" changeset="162248740" uid="79364" user="klaus e werner">
     <tag k="addr:postcode" v="64040"/>

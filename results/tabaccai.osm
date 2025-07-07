@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-06T03:25:55Z" areas="2025-07-05T22:22:59Z"/>
+<meta osm_base="2025-07-07T03:24:44Z" areas="2025-07-07T01:06:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -17375,7 +17375,7 @@
     <tag k="population" v="352"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776737" lat="45.9835968" lon="10.6709534" version="6" timestamp="2019-07-07T10:33:27Z" changeset="71978430" uid="172099" user="Biker69">
+  <node id="64776737" lat="45.9836589" lon="10.6708823" version="7" timestamp="2025-07-06T03:28:08Z" changeset="168545108" uid="6098724" user="CCCGGG">
     <tag k="name" v="Roncone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1352"/>
@@ -27021,16 +27021,6 @@
     <tag k="wikidata" v="Q54618"/>
     <tag k="wikipedia" v="it:Laureana di Borrello"/>
   </node>
-  <node id="67275403" lat="38.4337129" lon="16.0604715" version="9" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6769"/>
-    <tag k="name" v="Melicucco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4996"/>
-    <tag k="postal_code" v="89020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54624"/>
-    <tag k="wikipedia" v="it:Melicucco"/>
-  </node>
   <node id="67275413" lat="38.3084453" lon="16.0318619" version="5" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6771"/>
     <tag k="name" v="Molochio"/>
@@ -33125,10 +33115,11 @@
     <tag k="population" v="10947"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581508" lat="40.0750785" lon="15.6297747" version="7" timestamp="2018-06-22T11:59:25Z" changeset="60073945" uid="8340992" user="iaco04">
+  <node id="68581508" lat="40.0750785" lon="15.6297747" version="8" timestamp="2025-07-06T15:47:44Z" changeset="168567587" uid="22632809" user="KeyTV">
     <tag k="ele" v="5"/>
     <tag k="gfoss_id" v="5683"/>
     <tag k="name" v="Sapri"/>
+    <tag k="name:ru" v="Сапри"/>
     <tag k="place" v="town"/>
     <tag k="population" v="6716"/>
     <tag k="source" v="geodati.gfoss.it;local knowledge"/>
@@ -33339,9 +33330,10 @@
     <tag k="population" v="1115"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581801" lat="40.3469050" lon="14.9965530" version="8" timestamp="2022-07-02T18:38:24Z" changeset="123129715" uid="10622815" user="Italian Technology">
+  <node id="68581801" lat="40.3469050" lon="14.9965530" version="9" timestamp="2025-07-06T13:34:09Z" changeset="168562170" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="5551"/>
     <tag k="name" v="Agropoli"/>
+    <tag k="name:ru" v="Агрополи"/>
     <tag k="place" v="town"/>
     <tag k="population" v="21166"/>
     <tag k="population:date" v="2022-03"/>
@@ -33455,9 +33447,10 @@
     <tag k="population" v="8543"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581948" lat="40.2297040" lon="15.2657600" version="4" timestamp="2016-09-10T20:39:31Z" changeset="42066768" uid="404532" user="jaimemd">
+  <node id="68581948" lat="40.2297040" lon="15.2657600" version="5" timestamp="2025-07-06T13:52:53Z" changeset="168562963" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="5703"/>
     <tag k="name" v="Vallo della Lucania"/>
+    <tag k="name:ru" v="Валло-делла-Лукания"/>
     <tag k="place" v="town"/>
     <tag k="population" v="8531"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -33751,9 +33744,10 @@
     <tag k="population" v="701"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582392" lat="40.3982208" lon="15.5963693" version="4" timestamp="2016-11-13T20:57:18Z" changeset="43615537" uid="1293386" user="Sal73x">
+  <node id="68582392" lat="40.3982208" lon="15.5963693" version="5" timestamp="2025-07-06T15:35:04Z" changeset="168567044" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="5663"/>
     <tag k="name" v="Sala Consilina"/>
+    <tag k="name:ru" v="Сала-Консилина"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12716"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -35815,13 +35809,6 @@
     <tag k="name" v="Castelplanio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3223"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70979256" lat="43.3167891" lon="12.9871235" version="3" timestamp="2016-09-09T17:36:32Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4240"/>
-    <tag k="name" v="Cerreto d'Esi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3308"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70979281" lat="43.4645740" lon="13.5467001" version="9" timestamp="2016-10-27T18:58:17Z" changeset="43225898" uid="2748195" user="karitotp">
@@ -46701,11 +46688,11 @@
     <tag k="wikidata" v="Q381366"/>
     <tag k="wikipedia" v="de:Völs am Schlern"/>
   </node>
-  <node id="1763679242" lat="45.7525526" lon="7.5553260" version="32" timestamp="2023-06-14T14:23:10Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+  <node id="1763679242" lat="45.7525526" lon="7.5553260" version="33" timestamp="2025-07-06T10:18:28Z" changeset="168554756" uid="2039112" user="Stormbirdy">
     <tag k="alt_name" v="Chef-Lieu"/>
-    <tag k="name" v="Saint-Denis - Capoluogo"/>
+    <tag k="name" v="Saint-Denis"/>
     <tag k="name:frp" v="Sen-Déén"/>
-    <tag k="place" v="hamlet"/>
+    <tag k="place" v="village"/>
   </node>
   <node id="1765382313" lat="46.4281548" lon="9.3438722" version="9" timestamp="2022-01-24T23:19:13Z" changeset="116562952" uid="10901495" user="Martino Scaglione">
     <tag k="ele" v="1400"/>
