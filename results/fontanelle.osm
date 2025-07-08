@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-07T03:22:45Z" areas="2025-07-06T23:07:43Z"/>
+<meta osm_base="2025-07-08T03:17:29Z" areas="2025-07-07T20:35:32Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -32,6 +32,21 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="30162721" lat="46.4851320" lon="13.7843957" version="29" timestamp="2025-03-12T23:50:18Z" changeset="163549393" uid="13494667" user="apravakocka">
+    <tag k="name" v="Kranjska Gora"/>
+    <tag k="name:de" v="Kronau"/>
+    <tag k="name:fur" v="Cranzagore"/>
+    <tag k="name:ru" v="Краньска-Гора"/>
+    <tag k="name:sl" v="Kranjska Gora"/>
+    <tag k="name:sr" v="Крањска Гора"/>
+    <tag k="old_name" v="Borovška vas"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1428"/>
+    <tag k="source" v="landsat"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="wikidata" v="Q2139428"/>
+    <tag k="wikipedia" v="sl:Kranjska Gora"/>
   </node>
   <node id="62505768" lat="45.4687750" lon="9.6210570" version="9" timestamp="2023-11-10T10:23:53Z" changeset="143856573" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="2058"/>
@@ -1507,13 +1522,6 @@
     <tag k="ref:ISTAT" v="018026"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q40733"/>
-  </node>
-  <node id="62516762" lat="45.1973020" lon="8.6659204" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2562"/>
-    <tag k="name" v="Zeme"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1197"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62516768" lat="45.2449611" lon="8.6724399" version="4" timestamp="2024-09-09T17:58:35Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2420"/>
@@ -3607,19 +3615,19 @@
     <tag k="population" v="6166"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502754" lat="45.9305709" lon="13.4965303" version="6" timestamp="2019-04-23T11:40:41Z" changeset="69485278" uid="4683893" user="Vitto😜">
+  <node id="66502754" lat="45.9305709" lon="13.4965303" version="7" timestamp="2025-07-07T15:26:15Z" changeset="168611395" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3821"/>
-    <tag k="name" v="Moraro"/>
+    <tag k="name" v="Moraro / Morâr"/>
     <tag k="name:fur" v="Morâr"/>
     <tag k="name:sl" v="Morar"/>
     <tag k="place" v="village"/>
     <tag k="population" v="694"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502785" lat="45.9312174" lon="13.5285489" version="7" timestamp="2023-03-14T22:28:43Z" changeset="133687107" uid="129060" user="Klenje">
+  <node id="66502785" lat="45.9312174" lon="13.5285489" version="8" timestamp="2025-07-07T15:56:35Z" changeset="168612552" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3828"/>
     <tag k="loc_name:fur" v="San Lurinz"/>
-    <tag k="name" v="San Lorenzo Isontino"/>
+    <tag k="name" v="San Lorenzo Isontino / San Lurinç Lisuntin"/>
     <tag k="name:fur" v="Sant Lurinç dal Lusinç"/>
     <tag k="name:sl" v="Šlovrenc"/>
     <tag k="old_name" v="San Lorenzo di Mossa"/>
@@ -7950,13 +7958,6 @@
     <tag k="population" v="583"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981292" lat="43.1084806" lon="13.3187335" version="4" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4322"/>
-    <tag k="name" v="San Ginesio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3799"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70981317" lat="43.0991361" lon="13.3976439" version="4" timestamp="2024-01-25T12:12:49Z" changeset="146671199" uid="123412" user="totera">
     <tag k="gfoss_id" v="4324"/>
     <tag k="name" v="Sant'Angelo in Pontano"/>
@@ -8486,16 +8487,6 @@
     <tag k="population" v="316"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30021932"/>
-  </node>
-  <node id="72959773" lat="41.7379172" lon="13.6784797" version="6" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5081"/>
-    <tag k="name" v="Campoli Appennino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1804"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q116564"/>
-    <tag k="wikimedia_commons" v="Category:Campoli Appennino"/>
-    <tag k="wikipedia" v="it:Campoli Appennino"/>
   </node>
   <node id="72959783" lat="41.6224124" lon="13.7255588" version="5" timestamp="2017-03-11T12:49:41Z" changeset="46761722" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="5082"/>
@@ -11499,10 +11490,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1717"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="9070591861" lat="41.8451813" lon="13.5359209" version="1" timestamp="2021-09-07T13:33:26Z" changeset="110861595" uid="4930752" user="datamove">
-    <tag k="name" v="San Vincenzo Valle Roveto"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="9456508975" lat="45.5971023" lon="9.0509248" version="7" timestamp="2023-03-04T21:43:04Z" changeset="133307232" uid="10901495" user="Martino Scaglione">
     <tag k="capital" v="8"/>

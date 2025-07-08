@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-07T03:19:28Z" areas="2025-07-06T23:07:43Z"/>
+<meta osm_base="2025-07-08T03:15:30Z" areas="2025-07-07T20:35:32Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -32,6 +32,21 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="30162721" lat="46.4851320" lon="13.7843957" version="29" timestamp="2025-03-12T23:50:18Z" changeset="163549393" uid="13494667" user="apravakocka">
+    <tag k="name" v="Kranjska Gora"/>
+    <tag k="name:de" v="Kronau"/>
+    <tag k="name:fur" v="Cranzagore"/>
+    <tag k="name:ru" v="Краньска-Гора"/>
+    <tag k="name:sl" v="Kranjska Gora"/>
+    <tag k="name:sr" v="Крањска Гора"/>
+    <tag k="old_name" v="Borovška vas"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1428"/>
+    <tag k="source" v="landsat"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="wikidata" v="Q2139428"/>
+    <tag k="wikipedia" v="sl:Kranjska Gora"/>
   </node>
   <node id="60280175" lat="45.6354430" lon="12.2513451" version="5" timestamp="2017-03-12T14:07:47Z" changeset="46785792" uid="354284" user="sbiribizio">
     <tag k="name" v="Dosson"/>

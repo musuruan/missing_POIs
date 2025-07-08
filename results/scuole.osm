@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-07T03:25:45Z" areas="2025-07-07T01:06:15Z"/>
+<meta osm_base="2025-07-08T03:20:35Z" areas="2025-07-07T20:35:32Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -32,6 +32,21 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="30162721" lat="46.4851320" lon="13.7843957" version="29" timestamp="2025-03-12T23:50:18Z" changeset="163549393" uid="13494667" user="apravakocka">
+    <tag k="name" v="Kranjska Gora"/>
+    <tag k="name:de" v="Kronau"/>
+    <tag k="name:fur" v="Cranzagore"/>
+    <tag k="name:ru" v="Краньска-Гора"/>
+    <tag k="name:sl" v="Kranjska Gora"/>
+    <tag k="name:sr" v="Крањска Гора"/>
+    <tag k="old_name" v="Borovška vas"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1428"/>
+    <tag k="source" v="landsat"/>
+    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
+    <tag k="wikidata" v="Q2139428"/>
+    <tag k="wikipedia" v="sl:Kranjska Gora"/>
   </node>
   <node id="61753374" lat="43.6540276" lon="11.7884391" version="2" timestamp="2012-05-12T12:44:47Z" changeset="11576191" uid="406827" user="Francesco Viti">
     <tag k="gfoss_id" v="4591"/>
@@ -10625,19 +10640,19 @@
     <tag k="population" v="435"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502754" lat="45.9305709" lon="13.4965303" version="6" timestamp="2019-04-23T11:40:41Z" changeset="69485278" uid="4683893" user="Vitto😜">
+  <node id="66502754" lat="45.9305709" lon="13.4965303" version="7" timestamp="2025-07-07T15:26:15Z" changeset="168611395" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3821"/>
-    <tag k="name" v="Moraro"/>
+    <tag k="name" v="Moraro / Morâr"/>
     <tag k="name:fur" v="Morâr"/>
     <tag k="name:sl" v="Morar"/>
     <tag k="place" v="village"/>
     <tag k="population" v="694"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502851" lat="46.1902507" lon="12.5582101" version="6" timestamp="2023-03-21T22:45:45Z" changeset="133959080" uid="129060" user="Klenje">
+  <node id="66502851" lat="46.1902507" lon="12.5582101" version="7" timestamp="2025-07-07T17:08:57Z" changeset="168615609" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7512"/>
     <tag k="loc_name:fur" v="Barce"/>
-    <tag k="name" v="Barcis"/>
+    <tag k="name" v="Barcis / Barce"/>
     <tag k="name:fur" v="Barcis"/>
     <tag k="place" v="village"/>
     <tag k="population" v="306"/>
@@ -10661,10 +10676,10 @@
     <tag k="population" v="419"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502972" lat="46.1449800" lon="12.7914003" version="7" timestamp="2023-03-06T22:20:40Z" changeset="133381702" uid="129060" user="Klenje">
+  <node id="66502972" lat="46.1449800" lon="12.7914003" version="8" timestamp="2025-07-07T16:18:02Z" changeset="168613429" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7508"/>
     <tag k="loc_name:fur" v="Darba"/>
-    <tag k="name" v="Arba"/>
+    <tag k="name" v="Arba / Darbe"/>
     <tag k="name:fur" v="Darbe"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1228"/>
@@ -10686,9 +10701,9 @@
     <tag k="population" v="465"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503009" lat="46.0208288" lon="12.8637610" version="10" timestamp="2023-07-01T14:30:39Z" changeset="137994649" uid="188429" user="gpstracks">
+  <node id="66503009" lat="46.0208288" lon="12.8637610" version="11" timestamp="2025-07-07T07:12:50Z" changeset="168589721" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="7544"/>
-    <tag k="name" v="San Martino al Tagliamento"/>
+    <tag k="name" v="San Martino al Tagliamento / San Martin dal Tiliment"/>
     <tag k="name:fur" v="San Martin dal Tiliment"/>
     <tag k="name:it" v="San Martino al Tagliamento"/>
     <tag k="place" v="village"/>
