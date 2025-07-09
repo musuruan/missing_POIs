@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-08T03:15:30Z" areas="2025-07-07T20:35:32Z"/>
+<meta osm_base="2025-07-09T03:16:17Z" areas="2025-07-08T23:55:41Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -32,28 +32,6 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
-  </node>
-  <node id="30162721" lat="46.4851320" lon="13.7843957" version="29" timestamp="2025-03-12T23:50:18Z" changeset="163549393" uid="13494667" user="apravakocka">
-    <tag k="name" v="Kranjska Gora"/>
-    <tag k="name:de" v="Kronau"/>
-    <tag k="name:fur" v="Cranzagore"/>
-    <tag k="name:ru" v="Краньска-Гора"/>
-    <tag k="name:sl" v="Kranjska Gora"/>
-    <tag k="name:sr" v="Крањска Гора"/>
-    <tag k="old_name" v="Borovška vas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1428"/>
-    <tag k="source" v="landsat"/>
-    <tag k="source:population" v="http://www.stat.si/KrajevnaImena/"/>
-    <tag k="wikidata" v="Q2139428"/>
-    <tag k="wikipedia" v="sl:Kranjska Gora"/>
-  </node>
-  <node id="60280175" lat="45.6354430" lon="12.2513451" version="5" timestamp="2017-03-12T14:07:47Z" changeset="46785792" uid="354284" user="sbiribizio">
-    <tag k="name" v="Dosson"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5783"/>
-    <tag k="wikidata" v="Q2382234"/>
-    <tag k="wikipedia" v="it:Dosson"/>
   </node>
   <node id="61753394" lat="43.2524545" lon="11.8187597" version="8" timestamp="2019-08-11T23:53:54Z" changeset="73252608" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="4601"/>
@@ -900,16 +878,6 @@
     <tag k="wikidata" v="Q17866"/>
     <tag k="wikipedia" v="it:Sessame"/>
   </node>
-  <node id="63624867" lat="45.0251126" lon="8.0718267" version="6" timestamp="2021-02-06T19:18:44Z" changeset="98826343" uid="3335735" user="nick1993">
-    <tag k="gfoss_id" v="821"/>
-    <tag k="name" v="Piea"/>
-    <tag k="name:pms" v="Pièja"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="568"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17843"/>
-    <tag k="wikipedia" v="it:Piea"/>
-  </node>
   <node id="63624912" lat="44.7067227" lon="8.3460034" version="3" timestamp="2022-12-28T15:47:23Z" changeset="130608280" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="832"/>
     <tag k="name" v="Rocchetta Palafea"/>
@@ -1332,14 +1300,6 @@
     <tag k="source" v="ISTAT"/>
     <tag k="wikidata" v="Q30030898"/>
   </node>
-  <node id="64778653" lat="45.6017010" lon="12.1652120" version="6" timestamp="2023-08-31T12:46:11Z" changeset="140633985" uid="11631067" user="emandt">
-    <tag k="gfoss_id" v="3473"/>
-    <tag k="name" v="Zero Branco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="11578"/>
-    <tag k="population:date" v="2023-05-31"/>
-    <tag k="source" v="ISTAT"/>
-  </node>
   <node id="64778654" lat="45.6789734" lon="12.4920994" version="7" timestamp="2018-06-06T18:50:03Z" changeset="59612121" uid="2914055" user="Elia Z">
     <tag k="gfoss_id" v="3472"/>
     <tag k="name" v="Zenson di Piave"/>
@@ -1450,14 +1410,6 @@
     <tag k="population" v="5843"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778804" lat="45.3857109" lon="12.0482781" version="9" timestamp="2025-05-12T20:17:59Z" changeset="166171816" uid="14316347" user="Gicorada">
-    <tag k="name" v="Fossò"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7131"/>
-    <tag k="population:date" v="2025-04-11"/>
-    <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
-    <tag k="wikidata" v="Q30025851"/>
-  </node>
   <node id="64778816" lat="45.2189097" lon="11.3583281" version="5" timestamp="2021-03-27T21:02:08Z" changeset="101854267" uid="504502" user="kkklllppp">
     <tag k="gfoss_id" v="3100"/>
     <tag k="name" v="Boschi Sant'Anna"/>
@@ -1471,23 +1423,6 @@
     <tag k="population" v="5952"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028266"/>
-  </node>
-  <node id="64778845" lat="45.5213440" lon="12.1063704" version="4" timestamp="2020-11-01T21:06:18Z" changeset="93382292" uid="504502" user="kkklllppp">
-    <tag k="gfoss_id" v="3505"/>
-    <tag k="name" v="Salzano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12777"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778853" lat="45.5501560" lon="12.0720437" version="13" timestamp="2021-10-27T19:36:37Z" changeset="113053075" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="3499"/>
-    <tag k="name" v="Noale"/>
-    <tag k="name:vec" v="Noal"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="15969"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q46968"/>
-    <tag k="wikipedia" v="it:Noale"/>
   </node>
   <node id="64778867" lat="45.6905428" lon="12.7104204" version="7" timestamp="2021-03-05T19:50:57Z" changeset="100512219" uid="504502" user="kkklllppp">
     <tag k="gfoss_id" v="3514"/>
@@ -5531,25 +5466,11 @@
     <tag k="population" v="1877"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980499" lat="42.9568523" lon="13.4128721" version="7" timestamp="2024-01-08T23:55:30Z" changeset="146046747" uid="123412" user="totera">
-    <tag k="gfoss_id" v="4348"/>
-    <tag k="name" v="Comunanza"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3100"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70980614" lat="43.1497719" lon="13.4754066" version="3" timestamp="2016-09-09T17:36:37Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4361"/>
     <tag k="name" v="Massa Fermana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="970"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70980667" lat="42.9632573" lon="13.4909482" version="3" timestamp="2016-11-02T12:56:46Z" changeset="43350706" uid="178610" user="Pab09">
-    <tag k="gfoss_id" v="4354"/>
-    <tag k="name" v="Force"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1602"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70980709" lat="43.0479035" lon="13.5285340" version="3" timestamp="2016-09-09T17:36:41Z" changeset="42039680" uid="743479" user="fayor">
