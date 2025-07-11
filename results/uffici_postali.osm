@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-10T03:16:14Z" areas="2025-07-09T21:48:02Z"/>
+<meta osm_base="2025-07-11T03:21:55Z" areas="2025-07-09T01:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8169,9 +8169,9 @@
     <tag k="population" v="2147"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502890" lat="46.2167789" lon="12.7858670" version="7" timestamp="2019-05-16T23:53:14Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66502890" lat="46.2167789" lon="12.7858670" version="8" timestamp="2025-07-10T10:23:03Z" changeset="168735551" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7531"/>
-    <tag k="name" v="Meduno"/>
+    <tag k="name" v="Meduno / Midun"/>
     <tag k="name:fur" v="Midun"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1730"/>
@@ -8189,10 +8189,10 @@
     <tag k="source:name" v="wikipedia"/>
     <tag k="source:population" v="wikipedia"/>
   </node>
-  <node id="66502904" lat="46.1871178" lon="12.7530826" version="7" timestamp="2023-03-06T22:20:40Z" changeset="133381702" uid="129060" user="Klenje">
+  <node id="66502904" lat="46.1871178" lon="12.7530826" version="9" timestamp="2025-07-10T10:49:04Z" changeset="168736725" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7526"/>
     <tag k="loc_name:fur" v="Fana"/>
-    <tag k="name" v="Fanna"/>
+    <tag k="name" v="Fanna / Fana"/>
     <tag k="name:fur" v="Fane"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1516"/>
@@ -8235,9 +8235,9 @@
     <tag k="population" v="1336"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503012" lat="46.0361673" lon="12.6800395" version="5" timestamp="2019-05-16T23:53:26Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503012" lat="46.0361673" lon="12.6800395" version="6" timestamp="2025-07-10T12:59:40Z" changeset="168742590" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7545"/>
-    <tag k="name" v="San Quirino"/>
+    <tag k="name" v="San Quirino / San Quarin"/>
     <tag k="name:fur" v="San Quarin"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3816"/>
@@ -8261,9 +8261,9 @@
     <tag k="population" v="1272"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503042" lat="46.1461361" lon="12.6974467" version="6" timestamp="2025-07-05T12:19:12Z" changeset="168520766" uid="20552772" user="user_8y978a">
+  <node id="66503042" lat="46.1461361" lon="12.6974467" version="7" timestamp="2025-07-10T15:29:36Z" changeset="168749307" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7557"/>
-    <tag k="name" v="Vajont / Vaiont"/>
+    <tag k="name" v="Vajont"/>
     <tag k="name:fur" v="Vaiont"/>
     <tag k="name:it" v="Vajont"/>
     <tag k="place" v="village"/>
@@ -8280,10 +8280,10 @@
     <tag k="wikidata" v="Q18449615"/>
     <tag k="wikipedia" v="sl:Col, Trst"/>
   </node>
-  <node id="66503065" lat="46.3088622" lon="12.7884970" version="7" timestamp="2023-03-23T13:32:12Z" changeset="134023356" uid="129060" user="Klenje">
+  <node id="66503065" lat="46.3088622" lon="12.7884970" version="8" timestamp="2025-07-10T13:51:38Z" changeset="168744768" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7550"/>
     <tag k="loc_name:fur" v="Vildisora"/>
-    <tag k="name" v="Tramonti di Sopra"/>
+    <tag k="name" v="Tramonti di Sopra / Tramonç Disore - Vildisora"/>
     <tag k="name:fur" v="Tramonç Disore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="409"/>
@@ -9497,14 +9497,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1897"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274438" lat="39.5062960" lon="16.1455880" version="3" timestamp="2024-08-24T09:55:39Z" changeset="155687197" uid="18785499" user="DaveMzp">
-    <tag k="gfoss_id" v="6633"/>
-    <tag k="name" v="Torano Castello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4915"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54027"/>
   </node>
   <node id="67274445" lat="39.4649010" lon="16.9460060" version="2" timestamp="2016-08-28T18:58:51Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6632"/>
@@ -12104,13 +12096,6 @@
     <tag k="name" v="San Donato di Lecce"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5718"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529471" lat="40.0542230" lon="18.3791320" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6318"/>
-    <tag k="name" v="Poggiardo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6075"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529523" lat="40.3351260" lon="17.9652190" version="4" timestamp="2016-09-09T00:49:53Z" changeset="42015514" uid="743479" user="fayor">
@@ -19711,10 +19696,10 @@
     <tag k="name" v="Avise"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="465233576" lat="46.0306995" lon="12.5016263" version="5" timestamp="2023-03-21T16:14:20Z" changeset="133947416" uid="129060" user="Klenje">
+  <node id="465233576" lat="46.0306995" lon="12.5016263" version="6" timestamp="2025-07-10T12:24:57Z" changeset="168740954" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7536"/>
     <tag k="loc_name:fur" v="Al borc"/>
-    <tag k="name" v="Polcenigo"/>
+    <tag k="name" v="Polcenigo / Polcenic - Al Borc"/>
     <tag k="name:fur" v="Polcenic"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3127"/>
