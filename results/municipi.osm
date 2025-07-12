@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-11T03:20:56Z" areas="2025-07-09T01:47:14Z"/>
+<meta osm_base="2025-07-12T03:18:20Z" areas="2025-07-09T01:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -174,15 +174,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://clusone.comune-online.it/"/>
     <tag k="wikipedia" v="it:Clusone"/>
-  </node>
-  <node id="62506830" lat="45.5913800" lon="9.8092590" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="2063"/>
-    <tag k="name" v="Mornico al Serio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2588"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30028041"/>
   </node>
   <node id="62506860" lat="45.8115328" lon="9.9031182" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2031"/>
@@ -443,16 +434,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4093"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62510662" lat="45.1764963" lon="9.9148339" version="6" timestamp="2023-02-26T21:58:14Z" changeset="133060902" uid="43207" user="kdkeller">
-    <tag k="gfoss_id" v="2661"/>
-    <tag k="name" v="Sesto Cremonese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3113"/>
-    <tag k="postal_code" v="26028"/>
-    <tag k="ref:ISTAT" v="019095"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18488731"/>
   </node>
   <node id="62511135" lat="45.2122916" lon="10.3018212" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2680"/>
@@ -4071,13 +4052,6 @@
     <tag k="population" v="5303"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581123" lat="40.5557130" lon="14.2136104" version="32" timestamp="2023-06-14T14:17:47Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="5342"/>
-    <tag k="name" v="Anacapri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5855"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68581153" lat="40.9521422" lon="14.5514360" version="3" timestamp="2021-01-14T12:43:07Z" changeset="97496069" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5367"/>
     <tag k="name" v="Comiziano"/>
@@ -6761,13 +6735,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="355"/>
   </node>
-  <node id="946942749" lat="45.1683868" lon="9.8900934" version="4" timestamp="2024-03-03T11:32:57Z" changeset="148161887" uid="9622178" user="GiovanniC83">
-    <tag k="gfoss_id" v="2567"/>
-    <tag k="name" v="Acquanegra Cremonese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1226"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="1212265354" lat="46.6994802" lon="11.1694866" version="5" timestamp="2015-01-19T08:05:47Z" changeset="28247005" uid="2302962" user="Pathumthani">
     <tag k="ele" v="592"/>
     <tag k="gfoss_id" v="21264"/>
@@ -6948,10 +6915,6 @@
     <tag k="name" v="Alfedena"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30022117"/>
-  </node>
-  <node id="9070591861" lat="41.8451813" lon="13.5359209" version="1" timestamp="2021-09-07T13:33:26Z" changeset="110861595" uid="4930752" user="datamove">
-    <tag k="name" v="San Vincenzo Valle Roveto"/>
-    <tag k="place" v="village"/>
   </node>
 
 </osm>
