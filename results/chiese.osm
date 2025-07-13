@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-12T03:20:21Z" areas="2025-07-11T22:27:14Z"/>
+<meta osm_base="2025-07-13T03:27:00Z" areas="2025-07-09T01:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -433,6 +433,15 @@
     <tag k="population" v="1208"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="62513200" lat="45.0692724" lon="11.0196043" version="4" timestamp="2024-06-23T14:08:20Z" changeset="153069747" uid="14257573" user="toponomastica_comune_arenzano">
+    <tag k="contact:website" v="http://www.comune.sustinente.mn.it/"/>
+    <tag k="gfoss_id" v="2745"/>
+    <tag k="name" v="Sustinente"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2266"/>
+    <tag k="postal_code" v="46030"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="62513208" lat="44.9918730" lon="10.7430900" version="5" timestamp="2024-11-07T07:20:41Z" changeset="158842042" uid="9925732" user="Flight777">
     <tag k="contact:email" v="info@comune.suzzara.mn.it"/>
     <tag k="contact:phone" v="+39 0376 5131"/>
@@ -627,13 +636,6 @@
     <tag k="population" v="1943"/>
     <tag k="wikidata" v="Q30031304"/>
   </node>
-  <node id="62516774" lat="44.8509689" lon="9.0802378" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2418"/>
-    <tag k="name" v="Cecima"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="276"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62516831" lat="45.1127279" lon="9.3494300" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2528"/>
     <tag k="name" v="Spessa"/>
@@ -656,46 +658,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="132"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63622540" lat="44.8373530" lon="8.8737520" version="5" timestamp="2023-01-17T19:56:43Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="1023"/>
-    <tag k="name" v="Spineto Scrivia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="322"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030884"/>
-  </node>
-  <node id="63622562" lat="44.8924951" lon="8.9600600" version="6" timestamp="2023-01-17T19:57:44Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="1046"/>
-    <tag k="name" v="Volpeglino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="160"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63626138" lat="44.5993410" lon="8.2130420" version="4" timestamp="2023-01-17T19:50:20Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="650"/>
-    <tag k="name" v="Perletto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="328"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63626834" lat="44.5353380" lon="8.0078390" version="5" timestamp="2023-01-17T19:47:02Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="710"/>
-    <tag k="name" v="Somano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="386"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030788"/>
-  </node>
-  <node id="63628244" lat="44.4022340" lon="7.9708400" version="4" timestamp="2023-01-17T19:43:43Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="597"/>
-    <tag k="is_in" v="Cuneo, Piemonte, Italy"/>
-    <tag k="name" v="Lesegno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="838"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026599"/>
   </node>
   <node id="64778128" lat="46.1030653" lon="12.0255839" version="4" timestamp="2023-08-31T09:14:05Z" changeset="140624838" uid="11631067" user="emandt">
     <tag k="gfoss_id" v="3354"/>
@@ -5855,13 +5817,6 @@
     <tag k="name" v="Montefino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1184"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70993725" lat="42.5879410" lon="13.4895900" version="2" timestamp="2016-09-07T17:42:33Z" changeset="41985059" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5838"/>
-    <tag k="name" v="Crognaleto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1549"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70993729" lat="42.5319147" lon="13.8815453" version="5" timestamp="2020-07-28T08:42:49Z" changeset="88607522" uid="10124288" user="damianeue">
