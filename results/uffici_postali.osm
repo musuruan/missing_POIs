@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-13T03:26:00Z" areas="2025-07-13T00:26:25Z"/>
+<meta osm_base="2025-07-14T03:25:28Z" areas="2025-07-09T01:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3804,14 +3804,6 @@
     <tag k="wikimedia_commons" v="File:Pedesina.jpg"/>
     <tag k="wikipedia" v="it:Pedesina"/>
   </node>
-  <node id="62516954" lat="46.1740940" lon="9.7754470" version="3" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="Martino Scaglione">
-    <tag k="ele" v="586"/>
-    <tag k="loc_name" v="Postalés"/>
-    <tag k="name" v="Postalesio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="609"/>
-    <tag k="wikidata" v="Q30029107"/>
-  </node>
   <node id="62516962" lat="45.1133653" lon="9.1546576" version="5" timestamp="2024-09-09T17:59:05Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="ele" v="63"/>
     <tag k="gfoss_id" v="2495"/>
@@ -7423,13 +7415,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q34666"/>
   </node>
-  <node id="64778369" lat="45.1941310" lon="11.4453492" version="5" timestamp="2016-10-06T18:22:39Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3610"/>
-    <tag k="name" v="Urbana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2235"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778393" lat="45.1393548" lon="11.8877456" version="4" timestamp="2016-10-06T18:22:28Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3521"/>
     <tag k="name" v="Anguillara Veneta"/>
@@ -8292,9 +8277,9 @@
     <tag k="wikidata" v="Q53203"/>
     <tag k="wikipedia" v="it:Valvasone"/>
   </node>
-  <node id="66503084" lat="45.8641444" lon="13.3929338" version="6" timestamp="2017-03-12T14:10:30Z" changeset="46785853" uid="354284" user="sbiribizio">
+  <node id="66503084" lat="45.8641444" lon="13.3929338" version="7" timestamp="2025-07-13T12:18:13Z" changeset="168870619" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3688"/>
-    <tag k="name" v="Campolongo al Torre"/>
+    <tag k="name" v="Campolongo al Torre / Cjamplunc"/>
     <tag k="name:fur" v="Cjamplunc"/>
     <tag k="place" v="village"/>
     <tag k="population" v="758"/>
@@ -8323,9 +8308,9 @@
     <tag k="population" v="1036"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503147" lat="46.4109017" lon="12.8787158" version="7" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
+  <node id="66503147" lat="46.4109017" lon="12.8787158" version="8" timestamp="2025-07-13T17:06:38Z" changeset="168882892" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3706"/>
-    <tag k="name" v="Enemonzo"/>
+    <tag k="name" v="Enemonzo / Enemonç"/>
     <tag k="name:fur" v="Enemonç"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1347"/>
@@ -8433,10 +8418,11 @@
     <tag k="population" v="3890"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503394" lat="46.0970069" lon="13.0193878" version="5" timestamp="2019-05-16T23:54:14Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503394" lat="46.0970069" lon="13.0193878" version="6" timestamp="2025-07-13T14:39:23Z" changeset="168876461" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3702"/>
-    <tag k="name" v="Coseano"/>
+    <tag k="name" v="Coseano / Cosean"/>
     <tag k="name:fur" v="Cosean"/>
+    <tag k="name:it" v="Coseano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2214"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8466,11 +8452,12 @@
     <tag k="population" v="4606"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503453" lat="46.1852050" lon="13.0682141" version="12" timestamp="2022-04-14T08:13:04Z" changeset="119700109" uid="361003" user="Cascafico">
+  <node id="66503453" lat="46.1852050" lon="13.0682141" version="13" timestamp="2025-07-13T14:39:23Z" changeset="168876461" uid="20552772" user="user_8y978a">
     <tag k="alt_name" v="Maiano"/>
     <tag k="gfoss_id" v="3724"/>
-    <tag k="name" v="Majano"/>
+    <tag k="name" v="Majano / Maian"/>
     <tag k="name:fur" v="Maian"/>
+    <tag k="name:it" v="Majano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5877"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8484,11 +8471,12 @@
     <tag k="population" v="642"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503502" lat="46.1260654" lon="13.0315790" version="10" timestamp="2023-03-07T16:52:16Z" changeset="133410671" uid="129060" user="Klenje">
+  <node id="66503502" lat="46.1260654" lon="13.0315790" version="11" timestamp="2025-07-13T14:39:23Z" changeset="168876461" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3766"/>
     <tag k="loc_name:fur" v="Rives Darcjan"/>
-    <tag k="name" v="Rive d'Arcano"/>
+    <tag k="name" v="Rive d'Arcano / Rivis Darcjan - Rives Darcjan"/>
     <tag k="name:fur" v="Rivis Darcjan"/>
+    <tag k="name:it" v="Rive d'Arcano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2284"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -14990,13 +14978,6 @@
     <tag k="population" v="1302"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981139" lat="43.0817007" lon="13.0429675" version="3" timestamp="2016-09-09T17:36:42Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4310"/>
-    <tag k="name" v="Muccia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="907"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70981149" lat="43.1874500" lon="12.9321680" version="3" timestamp="2016-09-11T00:19:04Z" changeset="42069137" uid="743479" user="fayor">
     <tag k="alt_name" v="Massa"/>
     <tag k="gfoss_id" v="4295"/>
@@ -20574,10 +20555,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="974"/>
   </node>
-  <node id="12224173792" lat="45.8935664" lon="9.4227250" version="2" timestamp="2024-10-05T10:06:29Z" changeset="157493032" uid="69717" user="kaitu">
+  <node id="12224173792" lat="45.8935664" lon="9.4227250" version="3" timestamp="2025-07-13T10:02:17Z" changeset="168866111" uid="14476883" user="Daniel Vincenc">
     <tag k="alt_name" v="Ballabio Sotto"/>
     <tag k="name" v="Ballabio Inferiore"/>
-    <tag k="place" v="quarter"/>
+    <tag k="place" v="village"/>
     <tag k="wikidata" v="Q17622199"/>
     <tag k="wikimedia_commons" v="Category:Ballabio Inferiore"/>
     <tag k="wikipedia" v="it:Ballabio Inferiore"/>

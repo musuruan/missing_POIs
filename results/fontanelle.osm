@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-13T03:28:55Z" areas="2025-07-13T00:26:25Z"/>
+<meta osm_base="2025-07-14T03:28:32Z" areas="2025-07-09T01:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3610,9 +3610,9 @@
     <tag k="population" v="18308"/>
     <tag k="source" v="ISTAT"/>
   </node>
-  <node id="66503084" lat="45.8641444" lon="13.3929338" version="6" timestamp="2017-03-12T14:10:30Z" changeset="46785853" uid="354284" user="sbiribizio">
+  <node id="66503084" lat="45.8641444" lon="13.3929338" version="7" timestamp="2025-07-13T12:18:13Z" changeset="168870619" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3688"/>
-    <tag k="name" v="Campolongo al Torre"/>
+    <tag k="name" v="Campolongo al Torre / Cjamplunc"/>
     <tag k="name:fur" v="Cjamplunc"/>
     <tag k="place" v="village"/>
     <tag k="population" v="758"/>
@@ -3630,9 +3630,9 @@
     <tag k="wikidata" v="Q30022496"/>
     <tag k="wikipedia" v="en:Bagnaria Arsa"/>
   </node>
-  <node id="66503187" lat="46.1735947" lon="13.1879335" version="8" timestamp="2019-05-16T23:53:41Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503187" lat="46.1735947" lon="13.1879335" version="9" timestamp="2025-07-13T12:27:20Z" changeset="168870913" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3690"/>
-    <tag k="name" v="Cassacco"/>
+    <tag k="name" v="Cassacco / Cjassà"/>
     <tag k="name:fur" v="Cjassà"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2849"/>
@@ -3709,11 +3709,12 @@
     <tag k="population" v="5735"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503502" lat="46.1260654" lon="13.0315790" version="10" timestamp="2023-03-07T16:52:16Z" changeset="133410671" uid="129060" user="Klenje">
+  <node id="66503502" lat="46.1260654" lon="13.0315790" version="11" timestamp="2025-07-13T14:39:23Z" changeset="168876461" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3766"/>
     <tag k="loc_name:fur" v="Rives Darcjan"/>
-    <tag k="name" v="Rive d'Arcano"/>
+    <tag k="name" v="Rive d'Arcano / Rivis Darcjan - Rives Darcjan"/>
     <tag k="name:fur" v="Rivis Darcjan"/>
+    <tag k="name:it" v="Rive d'Arcano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2284"/>
     <tag k="source" v="geodati.gfoss.it"/>
