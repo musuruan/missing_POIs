@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-14T03:30:33Z" areas="2025-07-09T01:47:14Z"/>
+<meta osm_base="2025-07-15T03:28:58Z" areas="2025-07-09T01:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2908,13 +2908,6 @@
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026836"/>
-  </node>
-  <node id="62508012" lat="46.1225810" lon="10.3192116" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2271"/>
-    <tag k="name" v="Malonno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3326"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508017" lat="46.0790576" lon="10.2925497" version="5" timestamp="2023-01-11T21:35:51Z" changeset="131162920" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2301"/>
@@ -14389,15 +14382,6 @@
     <tag k="population" v="878"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628758" lat="45.6333690" lon="8.5428300" version="3" timestamp="2023-01-17T19:59:26Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="480"/>
-    <tag k="is_in" v="Novara, Piemonte, Italy"/>
-    <tag k="name" v="Suno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2834"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63628762" lat="45.3495666" lon="8.6690558" version="15" timestamp="2023-06-14T14:25:46Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="487"/>
     <tag k="name" v="Vespolate"/>
@@ -21734,9 +21718,9 @@
     <tag k="wikidata" v="Q53284"/>
     <tag k="wikipedia" v="it:Moggio Udinese"/>
   </node>
-  <node id="66503121" lat="46.5070351" lon="13.4391249" version="14" timestamp="2019-05-16T23:53:33Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503121" lat="46.5070351" lon="13.4391249" version="15" timestamp="2025-07-14T16:04:32Z" changeset="168925213" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3725"/>
-    <tag k="name" v="Malborghetto"/>
+    <tag k="name" v="Malborghetto / Malborgeth / Naborjet / Malborghet"/>
     <tag k="name:de" v="Malborgeth"/>
     <tag k="name:fur" v="Malborghèt"/>
     <tag k="name:it" v="Malborghetto"/>
@@ -22223,19 +22207,19 @@
     <tag k="wikipedia" v="it:Tolmezzo"/>
     <tag k="wikipedia:sl" v="sl:Tolmeč"/>
   </node>
-  <node id="66503358" lat="46.4202272" lon="12.5855959" version="8" timestamp="2023-03-24T09:55:16Z" changeset="134058581" uid="129060" user="Klenje">
+  <node id="66503358" lat="46.4202272" lon="12.5855959" version="9" timestamp="2025-07-14T14:53:54Z" changeset="168921944" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3712"/>
     <tag k="loc_name:fur" v="For Disora"/>
-    <tag k="name" v="Forni di Sopra"/>
+    <tag k="name" v="Forni di Sopra / For Disora"/>
     <tag k="name:fur" v="For Disore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1123"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503360" lat="46.5868310" lon="12.7769080" version="8" timestamp="2023-03-16T21:23:26Z" changeset="133766037" uid="129060" user="Klenje">
+  <node id="66503360" lat="46.5868310" lon="12.7769080" version="9" timestamp="2025-07-14T14:48:27Z" changeset="168921693" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3711"/>
     <tag k="loc_name:fur" v="Lu For"/>
-    <tag k="name" v="Forni Avoltri"/>
+    <tag k="name" v="Forni Avoltri / For Davuatri"/>
     <tag k="name:fur" v="For Davôtri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="735"/>
@@ -22268,10 +22252,10 @@
     <tag k="population" v="3890"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503371" lat="46.4240418" lon="12.9330291" version="8" timestamp="2018-12-27T21:06:48Z" changeset="65824979" uid="188429" user="gpstracks">
+  <node id="66503371" lat="46.4240418" lon="12.9330291" version="9" timestamp="2025-07-14T15:23:11Z" changeset="168923298" uid="14202171" user="Alessandro Ambrosino">
     <tag k="alt_name" v="Frazione Capoluogo"/>
     <tag k="gfoss_id" v="3718"/>
-    <tag k="name" v="Lauco"/>
+    <tag k="name" v="Lauco / Lauc"/>
     <tag k="name:fur" v="Lauc"/>
     <tag k="place" v="village"/>
     <tag k="population" v="877"/>
@@ -22367,9 +22351,9 @@
     <tag k="population" v="4606"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503448" lat="46.2313297" lon="13.1767687" version="7" timestamp="2017-03-12T14:10:32Z" changeset="46785853" uid="354284" user="sbiribizio">
+  <node id="66503448" lat="46.2313297" lon="13.1767687" version="8" timestamp="2025-07-14T15:46:20Z" changeset="168924398" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3723"/>
-    <tag k="name" v="Magnano in Riviera"/>
+    <tag k="name" v="Magnano in Riviera / Magnan"/>
     <tag k="name:fur" v="Magnan"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2288"/>
@@ -22541,9 +22525,9 @@
     <tag k="population" v="2490"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503566" lat="46.5332320" lon="13.0429150" version="5" timestamp="2019-09-27T08:39:54Z" changeset="74996389" uid="66421" user="jackthebest">
+  <node id="66503566" lat="46.5332320" lon="13.0429150" version="6" timestamp="2025-07-14T15:41:20Z" changeset="168924156" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3796"/>
-    <tag k="name" v="Treppo Carnico"/>
+    <tag k="name" v="Treppo Carnico / Trep di Cjargne"/>
     <tag k="name:fur" v="Trep di Cjargne"/>
     <tag k="place" v="village"/>
     <tag k="population" v="555"/>
@@ -27170,17 +27154,6 @@
     <tag k="wikidata" v="Q54638"/>
     <tag k="wikipedia" v="it:Portigliola"/>
   </node>
-  <node id="67275626" lat="38.4065094" lon="16.0774549" version="12" timestamp="2025-07-12T19:02:53Z" changeset="168849046" uid="1255213" user="Il progettista 98">
-    <tag k="gfoss_id" v="6781"/>
-    <tag k="name" v="Polistena"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="9875"/>
-    <tag k="population:date" v="2025-04-30"/>
-    <tag k="postal_code" v="89024"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54637"/>
-    <tag k="wikipedia" v="it:Polistena"/>
-  </node>
   <node id="67275635" lat="38.0926700" lon="16.0864030" version="2" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6741"/>
     <tag k="name" v="Caraffa del Bianco"/>
@@ -28031,7 +28004,7 @@
     <tag k="population" v="3257"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280904" lat="40.5986472" lon="15.5072463" version="3" timestamp="2016-11-25T18:28:23Z" changeset="43950388" uid="4875269" user="eccounaltroid">
+  <node id="67280904" lat="40.5984721" lon="15.5076620" version="4" timestamp="2025-07-14T21:08:43Z" changeset="168936153" uid="23088179" user="max007_">
     <tag k="gfoss_id" v="6450"/>
     <tag k="name" v="Vietri di Potenza"/>
     <tag k="place" v="village"/>
@@ -35733,13 +35706,6 @@
     <tag k="name" v="Rosora"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1748"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70978873" lat="43.4996420" lon="12.9399569" version="7" timestamp="2025-07-12T13:16:00Z" changeset="168836136" uid="4188272" user="dp7">
-    <tag k="gfoss_id" v="4230"/>
-    <tag k="name" v="Arcevia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5300"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70978886" lat="43.5804949" lon="13.1661271" version="3" timestamp="2016-09-09T17:36:29Z" changeset="42039680" uid="743479" user="fayor">
@@ -45964,9 +45930,9 @@
     <tag k="wikidata" v="Q243101"/>
     <tag k="wikipedia" v="it:Nemi"/>
   </node>
-  <node id="1091320722" lat="46.3950450" lon="12.6702260" version="8" timestamp="2022-04-14T10:21:25Z" changeset="119706051" uid="1950277" user="Mannivu">
+  <node id="1091320722" lat="46.3950450" lon="12.6702260" version="9" timestamp="2025-07-14T14:54:32Z" changeset="168921977" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3713"/>
-    <tag k="name" v="Forni di Sotto"/>
+    <tag k="name" v="Forni di Sotto / For Disot"/>
     <tag k="name:fur" v="For Disot"/>
     <tag k="place" v="village"/>
     <tag k="population" v="716"/>
@@ -46840,8 +46806,8 @@
     <tag k="wikidata" v="Q270373"/>
     <tag k="wikipedia" v="it:Daone"/>
   </node>
-  <node id="1870037171" lat="46.2228224" lon="12.9734865" version="8" timestamp="2022-04-14T08:13:04Z" changeset="119700109" uid="361003" user="Cascafico">
-    <tag k="name" v="Forgaria nel Friuli"/>
+  <node id="1870037171" lat="46.2228224" lon="12.9734865" version="9" timestamp="2025-07-14T14:38:54Z" changeset="168921226" uid="14202171" user="Alessandro Ambrosino">
+    <tag k="name" v="Forgaria nel Friuli / Forgjarie"/>
     <tag k="name:fur" v="Forgjarie"/>
     <tag k="place" v="village"/>
   </node>

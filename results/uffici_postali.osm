@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-14T03:25:28Z" areas="2025-07-09T01:47:14Z"/>
+<meta osm_base="2025-07-15T03:24:00Z" areas="2025-07-15T00:38:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7700,15 +7700,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
   </node>
-  <node id="64778770" lat="45.3847654" lon="12.0723970" version="9" timestamp="2025-02-25T12:14:47Z" changeset="162929796" uid="1717503" user="osm19">
-    <tag k="gfoss_id" v="3477"/>
-    <tag k="name" v="Camponogara"/>
-    <tag k="note" v="13154 (Comune) 3900 (Capoluogo comunale)"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13154"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023535"/>
-  </node>
   <node id="64778789" lat="45.8306021" lon="12.8397314" version="5" timestamp="2025-03-31T14:01:32Z" changeset="164332200" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3491"/>
     <tag k="name" v="Gruaro"/>
@@ -8297,9 +8288,9 @@
     <tag k="wikidata" v="Q16939"/>
     <tag k="wikipedia" v="sl:Zgonik"/>
   </node>
-  <node id="66503121" lat="46.5070351" lon="13.4391249" version="14" timestamp="2019-05-16T23:53:33Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="66503121" lat="46.5070351" lon="13.4391249" version="15" timestamp="2025-07-14T16:04:32Z" changeset="168925213" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3725"/>
-    <tag k="name" v="Malborghetto"/>
+    <tag k="name" v="Malborghetto / Malborgeth / Naborjet / Malborghet"/>
     <tag k="name:de" v="Malborgeth"/>
     <tag k="name:fur" v="Malborghèt"/>
     <tag k="name:it" v="Malborghetto"/>
@@ -8400,10 +8391,10 @@
     <tag k="wikidata" v="Q53367"/>
     <tag k="wikipedia" v="it:Stregna"/>
   </node>
-  <node id="66503360" lat="46.5868310" lon="12.7769080" version="8" timestamp="2023-03-16T21:23:26Z" changeset="133766037" uid="129060" user="Klenje">
+  <node id="66503360" lat="46.5868310" lon="12.7769080" version="9" timestamp="2025-07-14T14:48:27Z" changeset="168921693" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3711"/>
     <tag k="loc_name:fur" v="Lu For"/>
-    <tag k="name" v="Forni Avoltri"/>
+    <tag k="name" v="Forni Avoltri / For Davuatri"/>
     <tag k="name:fur" v="For Davôtri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="735"/>
@@ -8491,9 +8482,9 @@
     <tag k="wikidata" v="Q53402"/>
     <tag k="wikipedia" v="it:Zuglio"/>
   </node>
-  <node id="66503566" lat="46.5332320" lon="13.0429150" version="5" timestamp="2019-09-27T08:39:54Z" changeset="74996389" uid="66421" user="jackthebest">
+  <node id="66503566" lat="46.5332320" lon="13.0429150" version="6" timestamp="2025-07-14T15:41:20Z" changeset="168924156" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3796"/>
-    <tag k="name" v="Treppo Carnico"/>
+    <tag k="name" v="Treppo Carnico / Trep di Cjargne"/>
     <tag k="name:fur" v="Trep di Cjargne"/>
     <tag k="place" v="village"/>
     <tag k="population" v="555"/>

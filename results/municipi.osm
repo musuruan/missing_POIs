@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-14T03:24:30Z" areas="2025-07-13T21:41:00Z"/>
+<meta osm_base="2025-07-15T03:23:00Z" areas="2025-07-15T00:38:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1352,34 +1352,6 @@
     <tag k="ref:ISTAT" v="029008"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778632" lat="45.7939742" lon="12.1695666" version="9" timestamp="2020-08-14T19:03:14Z" changeset="89426460" uid="9517742" user="xDeamon">
-    <tag k="gfoss_id" v="3410"/>
-    <tag k="name" v="Giavera del Montello"/>
-    <tag k="name:vec" v="Jàvara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4318"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778644" lat="45.6279075" lon="12.3747797" version="7" timestamp="2023-08-31T08:37:16Z" changeset="140623332" uid="11631067" user="emandt">
-    <tag k="gfoss_id" v="3447"/>
-    <tag k="name" v="Roncade"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="14590"/>
-    <tag k="population:date" v="2023-05-31"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778672" lat="45.7540029" lon="11.9553621" version="30" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
-    <tag k="gfoss_id" v="3379"/>
-    <tag k="name" v="Altivole"/>
-    <tag k="name:it" v="Altivole"/>
-    <tag k="name:ja" v="アルティーヴォレ"/>
-    <tag k="name:ru" v="Альтиволе"/>
-    <tag k="name:vec" v="Intiòłe"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6912"/>
-    <tag k="ref:LOCODE" v="ITAIV"/>
-    <tag k="source" v="ISTAT"/>
-  </node>
   <node id="64778817" lat="45.5221126" lon="10.8344426" version="5" timestamp="2016-10-09T16:06:44Z" changeset="42757067" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3167"/>
     <tag k="name" v="Sant'Ambrogio di Valpolicella"/>
@@ -1399,13 +1371,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1001"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778891" lat="45.6274569" lon="10.9515505" version="4" timestamp="2017-04-23T17:05:59Z" changeset="48066273" uid="1928626" user="Gianfranco2014">
-    <tag k="gfoss_id" v="3168"/>
-    <tag k="name" v="Sant'Anna d'Alfaedo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2462"/>
-    <tag k="source" v="Regione Veneto, License IODL-2.0"/>
   </node>
   <node id="64778940" lat="45.3258339" lon="11.1551730" version="4" timestamp="2017-05-01T09:38:24Z" changeset="48301827" uid="1928626" user="Gianfranco2014">
     <tag k="gfoss_id" v="3146"/>
@@ -1434,15 +1399,6 @@
     <tag k="population" v="1629"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778973" lat="45.6006890" lon="10.8524820" version="4" timestamp="2022-03-12T10:44:57Z" changeset="118393257" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="3121"/>
-    <tag k="name" v="Dolcè"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2200"/>
-    <tag k="source" v="Regione Veneto, License IODL-2.0"/>
-    <tag k="wikidata" v="Q30025449"/>
-    <tag k="wikipedia" v="ceb:Dolcè (kapital sa munisipyo)"/>
-  </node>
   <node id="64779013" lat="45.4228798" lon="11.4534313" version="5" timestamp="2017-03-11T16:35:01Z" changeset="46766381" uid="354284" user="sbiribizio">
     <tag k="name" v="Grancona"/>
     <tag k="place" v="village"/>
@@ -1462,13 +1418,6 @@
     <tag k="name" v="San Pietro di Morubio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2848"/>
-  </node>
-  <node id="64779080" lat="45.7395927" lon="11.5482872" version="4" timestamp="2016-10-08T21:08:47Z" changeset="42742263" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3228"/>
-    <tag k="name" v="Fara Vicentino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3810"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64779131" lat="45.5593599" lon="11.2884303" version="5" timestamp="2017-04-23T08:11:38Z" changeset="48053038" uid="1928626" user="Gianfranco2014">
     <tag k="gfoss_id" v="3260"/>
@@ -2128,6 +2077,13 @@
     <tag k="name" v="Spinoso"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1778"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="67280904" lat="40.5984721" lon="15.5076620" version="4" timestamp="2025-07-14T21:08:43Z" changeset="168936153" uid="23088179" user="max007_">
+    <tag k="gfoss_id" v="6450"/>
+    <tag k="name" v="Vietri di Potenza"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3096"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280909" lat="40.1248090" lon="16.1517810" version="2" timestamp="2016-08-28T18:58:50Z" changeset="41762146" uid="743479" user="fayor">
@@ -2840,17 +2796,6 @@
     <tag k="wikidata" v="Q51896"/>
     <tag k="wikipedia" v="it:Cagnano Varano"/>
   </node>
-  <node id="68529089" lat="41.9043440" lon="15.8994530" version="5" timestamp="2024-09-21T11:26:10Z" changeset="156907626" uid="20397427" user="RUGGERO DEL VECCHIO">
-    <tag k="gfoss_id" v="6121"/>
-    <tag k="name" v="Ischitella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4139"/>
-    <tag k="population:date" v="2022"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia"/>
-    <tag k="wikidata" v="Q51929"/>
-    <tag k="wikipedia" v="it:Ischitella"/>
-  </node>
   <node id="68529096" lat="41.3254260" lon="15.1598440" version="2" timestamp="2016-08-27T16:24:05Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6119"/>
     <tag k="name" v="Faeto"/>
@@ -2868,13 +2813,6 @@
     <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q51954"/>
     <tag k="wikipedia" v="it:San Marco la Catola"/>
-  </node>
-  <node id="68529145" lat="40.1506240" lon="18.3526300" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6265"/>
-    <tag k="name" v="Bagnolo del Salento"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1858"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529225" lat="41.3631280" lon="15.3123470" version="2" timestamp="2016-08-27T16:24:20Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6154"/>
@@ -6570,12 +6508,6 @@
     <tag k="name" v="San Fele"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2982"/>
-  </node>
-  <node id="3914315265" lat="45.8603334" lon="11.8952132" version="3" timestamp="2022-12-17T16:50:08Z" changeset="130191481" uid="16027838" user="aLbRc">
-    <tag k="ele" v="265"/>
-    <tag k="name" v="Caniezza"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1778"/>
   </node>
   <node id="4026651935" lat="41.3259364" lon="15.1809980" version="3" timestamp="2024-11-09T19:32:04Z" changeset="158946584" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6115"/>
