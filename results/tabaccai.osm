@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-17T03:26:42Z" areas="2025-07-09T01:47:14Z"/>
+<meta osm_base="2025-07-18T03:28:40Z" areas="2025-07-09T01:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15826,11 +15826,12 @@
     <tag k="population" v="391"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630803" lat="46.1152451" lon="8.2920459" version="11" timestamp="2023-12-13T18:48:08Z" changeset="145085900" uid="19497998" user="branco-revert">
+  <node id="63630803" lat="46.1152451" lon="8.2920459" version="12" timestamp="2025-07-17T18:46:52Z" changeset="169075921" uid="12495047" user="Yan Bakhmat">
     <tag k="gfoss_id" v="8052"/>
     <tag k="is_in" v="Verbano-Cusio-Ossola, Piemonte, Italy"/>
     <tag k="name" v="Domodossola"/>
     <tag k="name:gsw" v="Döm"/>
+    <tag k="name:uk" v="Домодоссола"/>
     <tag k="place" v="town"/>
     <tag k="population" v="18466"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -22642,14 +22643,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q266441"/>
     <tag k="wikipedia" v="it:Rovegno"/>
-  </node>
-  <node id="66586522" lat="44.4133432" lon="9.1625628" version="4" timestamp="2018-03-23T16:51:31Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
-    <tag k="gfoss_id" v="1321"/>
-    <tag k="name" v="Uscio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2198"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q266666"/>
   </node>
   <node id="66586526" lat="44.5193954" lon="9.1583522" version="12" timestamp="2018-03-23T16:51:29Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
     <tag k="gfoss_id" v="1319"/>

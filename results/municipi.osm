@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-17T03:20:40Z" areas="2025-07-17T01:38:52Z"/>
+<meta osm_base="2025-07-18T03:22:34Z" areas="2025-07-17T01:38:52Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1021,14 +1021,6 @@
     <tag k="population" v="1940"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031006"/>
-  </node>
-  <node id="63626892" lat="44.5120312" lon="7.9142450" version="6" timestamp="2023-01-17T19:44:14Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="575"/>
-    <tag k="name" v="Farigliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1752"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30025639"/>
   </node>
   <node id="63627185" lat="44.4943380" lon="8.1867430" version="5" timestamp="2023-01-17T19:51:47Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="539"/>
@@ -3568,10 +3560,11 @@
     <tag k="population" v="2025"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581313" lat="40.6336700" lon="14.6026095" version="51" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <node id="68581313" lat="40.6336700" lon="14.6026095" version="52" timestamp="2025-07-17T19:12:04Z" changeset="169077064" uid="12495047" user="Yan Bakhmat">
     <tag k="gfoss_id" v="5555"/>
     <tag k="name" v="Amalfi"/>
     <tag k="name:ru" v="Амальфи"/>
+    <tag k="name:uk" v="Амальфі"/>
     <tag k="name:zh" v="阿马尔菲"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5428"/>
