@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-18T03:29:45Z" areas="2025-07-17T01:38:52Z"/>
+<meta osm_base="2025-07-19T03:23:07Z" areas="2025-07-17T01:38:52Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2267,13 +2267,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024345"/>
   </node>
-  <node id="62511284" lat="45.2863730" lon="9.8996660" version="2" timestamp="2021-11-22T09:51:07Z" changeset="114090031" uid="465052" user="hecktor">
-    <tag k="gfoss_id" v="2588"/>
-    <tag k="name" v="Casalmorano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1653"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62511297" lat="45.1585730" lon="10.2299760" version="3" timestamp="2024-09-09T17:58:29Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2580"/>
     <tag k="name" v="Cappella de' Picenardi"/>
@@ -3373,6 +3366,16 @@
     <tag k="name" v="Pietra de' Giorgi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="875"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62515342" lat="45.0598580" lon="8.8484470" version="3" timestamp="2020-08-02T15:59:23Z" changeset="88844097" uid="478872" user="mcheck">
+    <tag k="ele" v="76"/>
+    <tag k="gfoss_id" v="2466"/>
+    <tag k="name" v="Mezzana Bigli"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1120"/>
+    <tag k="postal_code" v="27030"/>
+    <tag k="ref:ISTAT" v="018090"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515351" lat="45.0369456" lon="9.3155381" version="4" timestamp="2023-02-27T21:40:25Z" changeset="133105017" uid="43207" user="kdkeller">

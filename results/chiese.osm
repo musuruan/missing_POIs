@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-18T03:24:31Z" areas="2025-07-17T01:38:52Z"/>
+<meta osm_base="2025-07-19T03:18:09Z" areas="2025-07-09T01:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -165,14 +165,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1409"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62507782" lat="45.2735750" lon="10.1992730" version="3" timestamp="2024-09-09T17:58:54Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="2278"/>
-    <tag k="name" v="Milzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1483"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027541"/>
   </node>
   <node id="62508062" lat="45.2785132" lon="10.3722097" version="5" timestamp="2019-10-20T21:00:56Z" changeset="75964892" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2330"/>
@@ -6948,6 +6940,24 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2176"/>
     <tag k="postal_code" v="60036"/>
+  </node>
+  <node id="282901527" lat="46.6270915" lon="10.4466197" version="5" timestamp="2023-09-30T20:01:47Z" changeset="141966305" uid="18913526" user="Gurusraouta">
+    <tag k="ele" v="1273"/>
+    <tag k="name" v="Müstair"/>
+    <tag k="name:de" v="Müstair"/>
+    <tag k="name:fr" v="Müstair"/>
+    <tag k="name:kk" v="Мюстаир"/>
+    <tag k="name:rm" v="Müstair"/>
+    <tag k="name:ru" v="Мюштайр"/>
+    <tag k="old_name" v="Münster"/>
+    <tag k="old_name:de" v="Münster"/>
+    <tag k="old_name:fr" v="Münster"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="764"/>
+    <tag k="postal_code" v="7537"/>
+    <tag k="website" v="https://www.cdvm.ch/"/>
+    <tag k="wikidata" v="Q1959393"/>
+    <tag k="wikipedia" v="de:Müstair"/>
   </node>
   <node id="395603809" lat="43.9567671" lon="12.1959387" version="5" timestamp="2022-01-27T23:08:19Z" changeset="116685553" uid="554973" user="dgitto">
     <tag k="name" v="Mercato Saraceno"/>
