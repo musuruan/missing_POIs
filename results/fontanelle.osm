@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-19T03:20:09Z" areas="2025-07-17T01:38:52Z"/>
+<meta osm_base="2025-07-20T03:43:22Z" areas="2025-07-19T21:42:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3154,14 +3154,6 @@
     <tag k="population" v="1153"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778559" lat="45.0832589" lon="11.6041641" version="4" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
-    <tag k="gfoss_id" v="3648"/>
-    <tag k="name" v="Lendinara"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11873"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026562"/>
-  </node>
   <node id="64778562" lat="45.0136954" lon="11.3691561" version="9" timestamp="2021-01-02T13:46:30Z" changeset="96808230" uid="10530906" user="Luamaro">
     <tag k="gfoss_id" v="3635"/>
     <tag k="name" v="Ceneselli"/>
@@ -3327,12 +3319,6 @@
     <tag k="name" v="Boschi Sant'Anna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1347"/>
-  </node>
-  <node id="64778820" lat="45.4401858" lon="11.1323683" version="6" timestamp="2023-01-09T22:20:50Z" changeset="131080658" uid="43207" user="kdkeller">
-    <tag k="name" v="San Pietro di Lavagno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2667"/>
-    <tag k="wikidata" v="Q18505526"/>
   </node>
   <node id="64778848" lat="45.6194293" lon="12.4530566" version="4" timestamp="2016-10-02T23:39:15Z" changeset="42593464" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3495"/>
@@ -7372,21 +7358,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030389"/>
   </node>
-  <node id="69300237" lat="44.8824077" lon="11.9793488" version="10" timestamp="2024-07-19T07:25:37Z" changeset="154130468" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="-1"/>
-    <tag k="gfoss_id" v="4096"/>
-    <tag k="name" v="Jolanda di Savoia"/>
-    <tag k="name:egl" v="Jôlánda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3019"/>
-    <tag k="postal_code" v="44037"/>
-    <tag k="ref:ISTAT" v="038010"/>
-    <tag k="ref:catasto" v="E320"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.jolandadisavoia.fe.it/"/>
-    <tag k="wikidata" v="Q95106"/>
-    <tag k="wikipedia" v="it:Jolanda di Savoia (Italia)"/>
-  </node>
   <node id="69300258" lat="44.7590740" lon="11.7511320" version="7" timestamp="2017-04-02T18:19:36Z" changeset="47389387" uid="1834719" user="LvdT">
     <tag k="ele" v="7"/>
     <tag k="gfoss_id" v="4109"/>
@@ -7416,36 +7387,6 @@
     <tag k="website" v="https://www.comune.masitorello.fe.it/"/>
     <tag k="wikidata" v="Q95109"/>
     <tag k="wikipedia" v="it:Masi Torello"/>
-  </node>
-  <node id="69300300" lat="44.8000790" lon="11.9738210" version="8" timestamp="2019-03-20T11:51:50Z" changeset="68332772" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="1"/>
-    <tag k="gfoss_id" v="4112"/>
-    <tag k="name" v="Migliaro"/>
-    <tag k="name:egl" v="Al Mjàr"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1728"/>
-    <tag k="postal_code" v="44020"/>
-    <tag k="ref:ISTAT" v="038027"/>
-    <tag k="ref:catasto" v="M323"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.fiscaglia.fe.it/"/>
-    <tag k="wikidata" v="Q95124"/>
-    <tag k="wikipedia" v="it:Migliaro"/>
-  </node>
-  <node id="69300335" lat="44.7659740" lon="11.4901110" version="8" timestamp="2023-11-01T00:10:29Z" changeset="143447861" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="10"/>
-    <tag k="gfoss_id" v="4104"/>
-    <tag k="name" v="Poggio Renatico"/>
-    <tag k="name:egl" v="Al Puz"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9852"/>
-    <tag k="postal_code" v="44028"/>
-    <tag k="ref:ISTAT" v="038018"/>
-    <tag k="ref:catasto" v="G768"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.poggiorenatico.fe.it/"/>
-    <tag k="wikidata" v="Q95135"/>
-    <tag k="wikipedia" v="it:Poggio Renatico"/>
   </node>
   <node id="69300499" lat="44.8345740" lon="11.2939050" version="10" timestamp="2018-03-13T10:36:53Z" changeset="57140709" uid="361003" user="Cascafico">
     <tag k="ele" v="15"/>
@@ -7477,69 +7418,6 @@
     <tag k="wikidata" v="Q100100"/>
     <tag k="wikipedia" v="it:San Prospero (comune)"/>
   </node>
-  <node id="69300640" lat="44.7240342" lon="11.0998110" version="10" timestamp="2022-02-19T22:34:47Z" changeset="117621453" uid="1834719" user="LvdT">
-    <tag k="ele" v="23"/>
-    <tag k="gfoss_id" v="4013"/>
-    <tag k="name" v="Ravarino"/>
-    <tag k="name:egl" v="Ravarèin"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6298"/>
-    <tag k="postal_code" v="41017"/>
-    <tag k="ref:ISTAT" v="036034"/>
-    <tag k="ref:LOCODE" v="ITRAV"/>
-    <tag k="ref:catasto" v="H195"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.ravarino.mo.it/"/>
-    <tag k="wikidata" v="Q100089"/>
-    <tag k="wikipedia" v="it:Ravarino"/>
-  </node>
-  <node id="69300652" lat="44.3580054" lon="10.6229898" version="11" timestamp="2023-10-26T20:15:52Z" changeset="143179344" uid="1834719" user="LvdT">
-    <tag k="ele" v="797"/>
-    <tag k="gfoss_id" v="4004"/>
-    <tag k="name" v="Montefiorino"/>
-    <tag k="name:egl" v="Muntfiurèin"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2258"/>
-    <tag k="postal_code" v="41045"/>
-    <tag k="ref:ISTAT" v="036025"/>
-    <tag k="ref:LOCODE" v="ITMFO"/>
-    <tag k="ref:catasto" v="F503"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.montefiorino.mo.it/"/>
-    <tag k="wikidata" v="Q100070"/>
-    <tag k="wikipedia" v="it:Montefiorino"/>
-  </node>
-  <node id="69300674" lat="44.8920894" lon="10.9961365" version="12" timestamp="2023-11-03T02:13:08Z" changeset="143554862" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="20"/>
-    <tag k="gfoss_id" v="4017"/>
-    <tag k="name" v="San Possidonio"/>
-    <tag k="name:egl" v="San Pussidòni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3828"/>
-    <tag k="postal_code" v="41039"/>
-    <tag k="ref:ISTAT" v="036038"/>
-    <tag k="ref:catasto" v="I128"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.sanpossidonio.mo.it/"/>
-    <tag k="wikidata" v="Q100099"/>
-    <tag k="wikipedia" v="it:San Possidonio (Italia)"/>
-  </node>
-  <node id="69300679" lat="44.5611362" lon="11.0332180" version="11" timestamp="2017-09-10T08:19:19Z" changeset="51900579" uid="339581" user="nyuriks">
-    <tag k="ele" v="54"/>
-    <tag k="gfoss_id" v="4015"/>
-    <tag k="name" v="San Cesario sul Panaro"/>
-    <tag k="name:egl" v="San Gèr"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6057"/>
-    <tag k="postal_code" v="41044"/>
-    <tag k="ref:ISTAT" v="036036"/>
-    <tag k="ref:LOCODE" v="ITSCS"/>
-    <tag k="ref:catasto" v="H794"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sancesariosulpanaro.mo.it/"/>
-    <tag k="wikidata" v="Q100092"/>
-    <tag k="wikipedia" v="it:San Cesario sul Panaro"/>
-  </node>
   <node id="69300738" lat="44.8587650" lon="10.1751800" version="4" timestamp="2016-09-21T13:17:19Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3903"/>
     <tag k="name" v="Fontevivo"/>
@@ -7567,14 +7445,6 @@
     <tag k="name" v="San Pietro in Cerro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="957"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301702" lat="44.4968268" lon="10.6016783" version="7" timestamp="2017-09-01T18:41:01Z" changeset="51652579" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="3937"/>
-    <tag k="name" v="Baiso"/>
-    <tag k="name:egl" v="Baîs"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3261"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70978886" lat="43.5804949" lon="13.1661271" version="3" timestamp="2016-09-09T17:36:29Z" changeset="42039680" uid="743479" user="fayor">
