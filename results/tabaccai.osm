@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-21T03:34:35Z" areas="2025-07-21T00:45:14Z"/>
+<meta osm_base="2025-07-22T03:29:06Z" areas="2025-07-21T23:00:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5034,12 +5034,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.mandellolario.it/"/>
   </node>
-  <node id="62511611" lat="45.7062617" lon="9.4452187" version="4" timestamp="2025-03-27T15:11:22Z" changeset="164168749" uid="9616185" user="LukeDH">
+  <node id="62511611" lat="45.7062617" lon="9.4452187" version="5" timestamp="2025-07-21T08:38:56Z" changeset="169230273" uid="69717" user="kaitu">
     <tag k="gfoss_id" v="7808"/>
     <tag k="name" v="Imbersago"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1926"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026337"/>
   </node>
   <node id="62511616" lat="45.8009379" lon="9.4132788" version="3" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
     <tag k="gfoss_id" v="7828"/>
@@ -14983,14 +14984,6 @@
     <tag k="population" v="598"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629637" lat="45.0210660" lon="7.4694735" version="5" timestamp="2023-10-01T20:51:04Z" changeset="142004762" uid="20124787" user="Munro96">
-    <tag k="gfoss_id" v="38"/>
-    <tag k="name" v="Bruino"/>
-    <tag k="name:pms" v="Bruin"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7308"/>
-    <tag k="source" v="IGM 25000"/>
-  </node>
   <node id="63629653" lat="44.9592440" lon="7.6017220" version="4" timestamp="2023-01-17T19:59:55Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="51"/>
     <tag k="name" v="Candiolo"/>
@@ -17725,9 +17718,10 @@
     <tag k="wikidata" v="Q295562"/>
     <tag k="wikipedia" v="it:Mezzocorona"/>
   </node>
-  <node id="64776937" lat="46.1510601" lon="11.7963031" version="4" timestamp="2024-11-17T22:59:53Z" changeset="159262458" uid="1726102" user="AlessioMela">
+  <node id="64776937" lat="46.1510601" lon="11.7963031" version="5" timestamp="2025-07-22T00:20:10Z" changeset="169268428" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="2961"/>
     <tag k="name" v="Imer"/>
+    <tag k="official_name" v="Imèr"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1211"/>
     <tag k="postal_code" v="38050"/>
@@ -23953,7 +23947,7 @@
     <tag k="population" v="3112"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67254138" lat="37.5974460" lon="13.9157630" version="11" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67254138" lat="37.5965317" lon="13.9139291" version="12" timestamp="2025-07-21T06:31:14Z" changeset="169225325" uid="923271" user="aldoct">
     <tag k="name" v="Marianopoli"/>
     <tag k="name:scn" v="Paisi di Manchi"/>
     <tag k="place" v="village"/>
@@ -29470,21 +29464,6 @@
     <tag k="website" v="https://comune.cerretodispoleto.pg.it/"/>
     <tag k="wikidata" v="Q20396"/>
     <tag k="wikipedia" v="it:Cerreto di Spoleto"/>
-  </node>
-  <node id="68507727" lat="43.2468440" lon="12.1430500" version="13" timestamp="2024-09-10T09:59:55Z" changeset="156431680" uid="1211510" user="arcanma">
-    <tag k="ele" v="314"/>
-    <tag k="gfoss_id" v="49675"/>
-    <tag k="istat_id" v="5402510001"/>
-    <tag k="name" v="Lisciano Niccone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="294"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="https://www.lisciano.org/"/>
-    <tag k="wikidata" v="Q20461"/>
-    <tag k="wikipedia" v="it:Lisciano Niccone"/>
   </node>
   <node id="68507739" lat="42.8918739" lon="12.6500673" version="17" timestamp="2024-08-22T16:38:02Z" changeset="155615624" uid="1211510" user="arcanma">
     <tag k="ele" v="455"/>
@@ -36591,13 +36570,6 @@
     <tag k="population" v="2046"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70982139" lat="43.6742046" lon="12.9687710" version="4" timestamp="2016-09-09T17:36:38Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4188"/>
-    <tag k="name" v="Mondavio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3851"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70982146" lat="43.7952218" lon="12.8544512" version="4" timestamp="2022-09-27T16:58:47Z" changeset="126706483" uid="3151555" user="Dino Michelini">
     <tag k="gfoss_id" v="4187"/>
     <tag k="name" v="Mombaroccio"/>
@@ -38947,7 +38919,7 @@
     <tag k="wikimedia_commons" v="Category:Priverno"/>
     <tag k="wikipedia" v="it:Priverno"/>
   </node>
-  <node id="72960983" lat="41.5942016" lon="12.6485765" version="33" timestamp="2024-04-09T12:03:07Z" changeset="149774377" uid="1778799" user="SomeoneElse_Revert">
+  <node id="72960983" lat="41.5942016" lon="12.6485765" version="34" timestamp="2025-07-21T13:26:39Z" changeset="169244342" uid="22242779" user="notmyproblem1">
     <tag k="contact:facebook" v="https://www.facebook.com/comunediaprilia/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/cittadaprilia/"/>
     <tag k="contact:linkedin" v="https://www.linkedin.com/company/comune-di-aprilia"/>
@@ -38957,9 +38929,11 @@
     <tag k="name" v="Aprilia"/>
     <tag k="name:ru" v="Априлия"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="73446"/>
+    <tag k="population" v="74615"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="postal_code" v="04011"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?i=POS&amp;l=it"/>
     <tag k="website" v="https://www.comune.aprilia.lt.it/"/>
     <tag k="wikidata" v="Q128052"/>
     <tag k="wikimedia_commons" v="Category:Aprilia (comune, Italy)"/>

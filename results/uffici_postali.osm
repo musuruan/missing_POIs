@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-21T03:28:29Z" areas="2025-07-21T00:48:13Z"/>
+<meta osm_base="2025-07-22T03:23:05Z" areas="2025-07-21T23:00:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1726,13 +1726,6 @@
     <tag k="population" v="425"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511135" lat="45.2122916" lon="10.3018212" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2680"/>
-    <tag k="name" v="Volongo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="620"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62511142" lat="45.3719720" lon="9.5871580" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2677"/>
     <tag k="name" v="Vaiano Cremasco"/>
@@ -2009,12 +2002,13 @@
     <tag k="population" v="4068"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511611" lat="45.7062617" lon="9.4452187" version="4" timestamp="2025-03-27T15:11:22Z" changeset="164168749" uid="9616185" user="LukeDH">
+  <node id="62511611" lat="45.7062617" lon="9.4452187" version="5" timestamp="2025-07-21T08:38:56Z" changeset="169230273" uid="69717" user="kaitu">
     <tag k="gfoss_id" v="7808"/>
     <tag k="name" v="Imbersago"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1926"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026337"/>
   </node>
   <node id="62511683" lat="45.4048829" lon="9.5517179" version="14" timestamp="2024-06-26T07:17:51Z" changeset="153187619" uid="11979968" user="Francesco Zanaboni">
     <tag k="ele" v="85"/>
@@ -13730,13 +13724,6 @@
     <tag k="population" v="10965"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582397" lat="40.2486040" lon="15.1900580" version="2" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5664"/>
-    <tag k="name" v="Salento"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2022"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68582404" lat="40.6286581" lon="14.4854955" version="52" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
     <tag k="gfoss_id" v="5649"/>
     <tag k="name" v="Positano"/>
@@ -16188,7 +16175,7 @@
     <tag k="population" v="739"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960983" lat="41.5942016" lon="12.6485765" version="33" timestamp="2024-04-09T12:03:07Z" changeset="149774377" uid="1778799" user="SomeoneElse_Revert">
+  <node id="72960983" lat="41.5942016" lon="12.6485765" version="34" timestamp="2025-07-21T13:26:39Z" changeset="169244342" uid="22242779" user="notmyproblem1">
     <tag k="contact:facebook" v="https://www.facebook.com/comunediaprilia/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/cittadaprilia/"/>
     <tag k="contact:linkedin" v="https://www.linkedin.com/company/comune-di-aprilia"/>
@@ -16198,9 +16185,11 @@
     <tag k="name" v="Aprilia"/>
     <tag k="name:ru" v="Априлия"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="73446"/>
+    <tag k="population" v="74615"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="postal_code" v="04011"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?i=POS&amp;l=it"/>
     <tag k="website" v="https://www.comune.aprilia.lt.it/"/>
     <tag k="wikidata" v="Q128052"/>
     <tag k="wikimedia_commons" v="Category:Aprilia (comune, Italy)"/>
