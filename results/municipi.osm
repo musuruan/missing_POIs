@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-23T03:24:02Z" areas="2025-07-22T21:23:54Z"/>
+<meta osm_base="2025-07-24T03:22:19Z" areas="2025-07-23T20:26:39Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1552,18 +1552,6 @@
     <tag k="wikidata" v="Q52647"/>
     <tag k="wikipedia" v="it:Ripacandida"/>
   </node>
-  <node id="67280776" lat="40.7618200" lon="15.9866700" version="3" timestamp="2023-09-08T13:00:09Z" changeset="140986442" uid="2496484" user="FERINA365">
-    <tag k="gfoss_id" v="6410"/>
-    <tag k="name" v="Oppido Lucano"/>
-    <tag k="name:it" v="Oppido Lucano"/>
-    <tag k="name:la" v="Oppidum"/>
-    <tag k="name:nap" v="Òppete"/>
-    <tag k="name:osc" v="Opinum"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3593"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="source:population" v="ISTAT"/>
-  </node>
   <node id="67280806" lat="40.5439140" lon="15.6382650" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6437"/>
     <tag k="name" v="Satriano di Lucania"/>
@@ -1621,13 +1609,6 @@
     <tag k="name" v="Baragiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2751"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280969" lat="40.8614586" lon="16.0137032" version="4" timestamp="2023-06-22T14:37:20Z" changeset="137650628" uid="19645312" user="Teto Giuseppe">
-    <tag k="gfoss_id" v="6363"/>
-    <tag k="name" v="Banzi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1514"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280999" lat="40.4605140" lon="15.9709730" version="2" timestamp="2016-08-28T18:58:28Z" changeset="41762146" uid="743479" user="fayor">
@@ -2950,15 +2931,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q58467"/>
     <tag k="wikipedia" v="it:Capodrise"/>
-  </node>
-  <node id="68580118" lat="41.2048140" lon="13.8543170" version="5" timestamp="2023-09-01T15:25:15Z" changeset="140685050" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="5258"/>
-    <tag k="name" v="Cellole"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7149"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q58567"/>
-    <tag k="wikipedia" v="it:Cellole"/>
   </node>
   <node id="68580236" lat="40.9644120" lon="14.2301280" version="3" timestamp="2016-09-02T23:58:40Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5185"/>
@@ -4285,16 +4257,6 @@
     <tag k="wikimedia_commons" v="Category:Villalago"/>
     <tag k="wikipedia" v="it:Villalago"/>
   </node>
-  <node id="70992821" lat="41.7584905" lon="13.9907295" version="5" timestamp="2025-02-04T08:02:47Z" changeset="162114048" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5717"/>
-    <tag k="name" v="Barrea"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="776"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022624"/>
-    <tag k="wikimedia_commons" v="Category:Barrea"/>
-    <tag k="wikipedia" v="it:Barrea"/>
-  </node>
   <node id="70992982" lat="42.0065260" lon="13.2799930" version="21" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
     <tag k="gfoss_id" v="5730"/>
     <tag k="name" v="Cappadocia"/>
@@ -4696,13 +4658,6 @@
     <tag k="population" v="984"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960130" lat="41.3672170" lon="13.8409150" version="2" timestamp="2016-09-07T16:57:09Z" changeset="41983637" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5131"/>
-    <tag k="name" v="Sant'Andrea del Garigliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1589"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72960171" lat="41.6696240" lon="13.8500110" version="5" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5137"/>
     <tag k="name" v="Settefrati"/>
@@ -4866,13 +4821,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q117593"/>
     <tag k="wikipedia" v="it:Villa Latina"/>
-  </node>
-  <node id="72960832" lat="41.3662391" lon="13.8117480" version="3" timestamp="2016-09-07T16:57:10Z" changeset="41983637" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5148"/>
-    <tag k="name" v="Vallemaio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1052"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72960855" lat="41.7757210" lon="13.2722960" version="4" timestamp="2024-01-17T16:56:54Z" changeset="146373182" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5146"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-23T03:29:58Z" areas="2025-07-22T21:31:02Z"/>
+<meta osm_base="2025-07-24T03:29:24Z" areas="2025-07-24T02:04:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7215,7 +7215,7 @@
     <tag k="place" v="town"/>
     <tag k="population" v="11000"/>
   </node>
-  <node id="62515156" lat="45.5892742" lon="9.2003917" version="11" timestamp="2025-03-06T21:06:32Z" changeset="163302362" uid="14617702" user="Đuro Jiří">
+  <node id="62515156" lat="45.5892742" lon="9.2003917" version="12" timestamp="2025-07-23T19:34:01Z" changeset="169363602" uid="20006889" user="nic4041">
     <tag k="alt_name:lmo" v="Nöa;Növa"/>
     <tag k="capital" v="8"/>
     <tag k="ele" v="175"/>
@@ -7224,7 +7224,7 @@
     <tag k="name" v="Nova Milanese"/>
     <tag k="name:lmo" v="Noeuva"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="23350"/>
+    <tag k="population" v="23157"/>
     <tag k="short_name" v="Nova"/>
     <tag k="wikidata" v="Q40159"/>
     <tag k="wikimedia_commons" v="Category:Nova Milanese"/>
@@ -12953,14 +12953,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031674"/>
   </node>
-  <node id="63626573" lat="44.3469315" lon="7.7663383" version="6" timestamp="2023-01-17T19:45:02Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="734"/>
-    <tag k="name" v="Villanova Mondovì"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5445"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031842"/>
-  </node>
   <node id="63626592" lat="44.6507340" lon="7.3464230" version="6" timestamp="2023-01-17T19:47:46Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="670"/>
     <tag k="name" v="Rifreddo"/>
@@ -13489,14 +13481,6 @@
     <tag k="population" v="1889"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025131"/>
-  </node>
-  <node id="63627250" lat="44.3264300" lon="7.6754360" version="5" timestamp="2023-01-17T19:45:40Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="557"/>
-    <tag k="name" v="Chiusa di Pesio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3703"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024707"/>
   </node>
   <node id="63627256" lat="44.4364482" lon="7.9267570" version="5" timestamp="2023-07-28T10:17:31Z" changeset="139128448" uid="11976" user="Map47">
     <tag k="gfoss_id" v="558"/>
@@ -20109,7 +20093,7 @@
     <tag k="population" v="5843"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778804" lat="45.3857109" lon="12.0482781" version="9" timestamp="2025-05-12T20:17:59Z" changeset="166171816" uid="14316347" user="Gicorada">
+  <node id="64778804" lat="45.3856853" lon="12.0481730" version="10" timestamp="2025-07-23T16:19:20Z" changeset="169354244" uid="1717503" user="osm19">
     <tag k="name" v="Fossò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7131"/>
@@ -47490,12 +47474,12 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q48800570"/>
   </node>
-  <node id="2898693572" lat="45.3603860" lon="8.5729277" version="4" timestamp="2023-01-17T20:02:25Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="2898693572" lat="45.3603860" lon="8.5729277" version="5" timestamp="2025-07-23T10:09:50Z" changeset="169334821" uid="14476883" user="Daniel Vincenc">
     <tag k="ele" v="129"/>
     <tag k="gfoss_id" v="3738"/>
     <tag k="istat_id" v="307710002"/>
     <tag k="name" v="Granozzo"/>
-    <tag k="place" v="hamlet"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="713"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026196"/>
