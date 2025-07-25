@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-24T03:24:21Z" areas="2025-07-24T01:54:54Z"/>
+<meta osm_base="2025-07-25T03:24:58Z" areas="2025-07-25T00:20:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5715,19 +5715,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031758"/>
   </node>
-  <node id="70993420" lat="42.2632704" lon="14.0285774" version="5" timestamp="2025-04-16T10:44:06Z" changeset="165022372" uid="10124288" user="damianeue">
-    <tag k="addr:city" v="Turrivalignani"/>
-    <tag k="addr:housenumber" v="28"/>
-    <tag k="addr:postcode" v="65020"/>
-    <tag k="addr:street" v="Via Belvedere"/>
-    <tag k="amenity" v="townhall"/>
-    <tag k="gfoss_id" v="5906"/>
-    <tag k="name" v="Municipio di Turrivalignani"/>
-    <tag k="phone" v="+39 085 854 1277"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="858"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70993444" lat="42.2764113" lon="13.9108363" version="6" timestamp="2025-02-06T12:35:58Z" changeset="162206799" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5894"/>
     <tag k="name" v="Pietranico"/>
@@ -7262,6 +7249,13 @@
     <tag k="name" v="Pizzoni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="974"/>
+  </node>
+  <node id="13020273867" lat="42.2625974" lon="14.0285749" version="1" timestamp="2025-07-24T06:26:59Z" changeset="169378533" uid="10124288" user="damianeue">
+    <tag k="gfoss_id" v="5906"/>
+    <tag k="name" v="Turrivalignani"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="858"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
 
 </osm>

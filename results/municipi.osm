@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-24T03:22:19Z" areas="2025-07-23T20:26:39Z"/>
+<meta osm_base="2025-07-25T03:21:45Z" areas="2025-07-25T00:23:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -522,13 +522,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027888"/>
   </node>
-  <node id="63625570" lat="44.3285273" lon="7.9427018" version="5" timestamp="2024-02-09T17:18:23Z" changeset="147265968" uid="7113202" user="PaoloLombardi">
-    <tag k="gfoss_id" v="616"/>
-    <tag k="name" v="Monasterolo Casotto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="126"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63625575" lat="44.7692440" lon="8.0701360" version="5" timestamp="2023-01-17T19:50:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="602"/>
     <tag k="name" v="Magliano Alfieri"/>
@@ -544,6 +537,13 @@
     <tag k="population" v="130"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028722"/>
+  </node>
+  <node id="63625741" lat="44.4837264" lon="7.0545138" version="8" timestamp="2021-04-26T14:20:20Z" changeset="103643351" uid="554973" user="dgitto">
+    <tag k="gfoss_id" v="663"/>
+    <tag k="name" v="Prazzo superiore"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="45"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63625807" lat="44.6003390" lon="8.0199380" version="5" timestamp="2023-01-17T19:51:18Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="709"/>
@@ -590,23 +590,6 @@
     <tag k="population" v="209"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030468"/>
-  </node>
-  <node id="63626354" lat="44.3536350" lon="8.1289450" version="5" timestamp="2023-01-17T19:44:03Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="543"/>
-    <tag k="name" v="Castelnuovo di Ceva"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="121"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024287"/>
-  </node>
-  <node id="63626371" lat="44.4810350" lon="7.8744370" version="6" timestamp="2023-01-17T19:51:22Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="532"/>
-    <tag k="name" v="Carrù"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4006"/>
-    <tag k="postal_code" v="12061"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023850"/>
   </node>
   <node id="63626414" lat="44.6108408" lon="7.9428448" version="6" timestamp="2023-01-17T19:49:06Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="502"/>
@@ -710,13 +693,6 @@
     <tag k="population" v="100"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63627256" lat="44.4364482" lon="7.9267570" version="5" timestamp="2023-07-28T10:17:31Z" changeset="139128448" uid="11976" user="Map47">
-    <tag k="gfoss_id" v="558"/>
-    <tag k="name" v="Cigliè"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="188"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63627316" lat="44.5437390" lon="8.1049410" version="5" timestamp="2023-07-13T12:30:26Z" changeset="138462622" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="577"/>
     <tag k="name" v="Feisoglio"/>
@@ -790,14 +766,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026672"/>
   </node>
-  <node id="63628436" lat="44.9406524" lon="7.0532445" version="6" timestamp="2023-01-17T19:52:30Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="234"/>
-    <tag k="name" v="Salza di Pinerolo / Salso"/>
-    <tag k="name:it" v="Salza di Pinerolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="78"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63628561" lat="45.1420677" lon="7.0644111" version="9" timestamp="2024-01-18T21:51:09Z" changeset="146421987" uid="3464634" user="Marco Caparello">
     <tag k="gfoss_id" v="154"/>
     <tag k="name" v="Mompantero"/>
@@ -844,13 +812,6 @@
     <tag k="population" v="7430"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q9076"/>
-  </node>
-  <node id="63629408" lat="45.0360951" lon="7.0495615" version="4" timestamp="2022-01-02T15:05:42Z" changeset="115673648" uid="2976645" user="Jrachi">
-    <tag k="gfoss_id" v="103"/>
-    <tag k="name" v="Fenestrelle"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="615"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63629440" lat="44.8372390" lon="7.3744200" version="4" timestamp="2023-01-17T20:04:00Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="111"/>
@@ -2767,13 +2728,6 @@
     <tag k="wikidata" v="Q55940"/>
     <tag k="wikipedia" v="it:Pago Veiano"/>
   </node>
-  <node id="68579283" lat="41.2780306" lon="14.4787446" version="3" timestamp="2016-09-01T23:10:05Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5289"/>
-    <tag k="name" v="Faicchio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3879"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68579322" lat="41.3575184" lon="14.8090559" version="3" timestamp="2016-09-01T23:10:04Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5284"/>
     <tag k="name" v="Circello"/>
@@ -3950,13 +3904,6 @@
     <tag k="population" v="190"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70990759" lat="42.2127555" lon="14.4447450" version="4" timestamp="2016-09-07T16:52:23Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5964"/>
-    <tag k="name" v="Mozzagrogna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2060"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70990869" lat="42.1630390" lon="14.4973180" version="2" timestamp="2016-09-07T16:52:23Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5967"/>
     <tag k="name" v="Paglieta"/>
@@ -4494,16 +4441,6 @@
     <tag k="website" v="https://italia.indettaglio.it/ita/abruzzo/cermignano.html"/>
     <tag k="wikidata" v="Q51439"/>
     <tag k="wikipedia" v="it:Cermignano"/>
-  </node>
-  <node id="72959732" lat="41.5549190" lon="13.6034070" version="3" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
-    <tag k="admin_level" v="8"/>
-    <tag k="alt_name" v="Coldragone"/>
-    <tag k="name" v="Colfelice"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1853"/>
-    <tag k="ref:ISTAT" v="060027"/>
-    <tag k="ref:catasto" v="C836"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72959744" lat="41.5428220" lon="13.9528150" version="3" timestamp="2021-04-29T19:56:40Z" changeset="103867285" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5066"/>
