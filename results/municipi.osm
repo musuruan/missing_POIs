@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-25T03:21:45Z" areas="2025-07-25T00:23:42Z"/>
+<meta osm_base="2025-07-26T03:18:56Z" areas="2025-07-25T22:37:10Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -514,14 +514,6 @@
     <tag k="population" v="320"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63625564" lat="44.6214400" lon="8.0480380" version="5" timestamp="2023-01-17T19:47:51Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="626"/>
-    <tag k="name" v="Montelupo Albese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="459"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027888"/>
-  </node>
   <node id="63625575" lat="44.7692440" lon="8.0701360" version="5" timestamp="2023-01-17T19:50:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="602"/>
     <tag k="name" v="Magliano Alfieri"/>
@@ -654,53 +646,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031006"/>
   </node>
-  <node id="63627185" lat="44.4943380" lon="8.1867430" version="5" timestamp="2023-01-17T19:51:47Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="539"/>
-    <tag k="name" v="Castelletto Uzzone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="375"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024226"/>
-  </node>
-  <node id="63627190" lat="44.6178410" lon="8.1824410" version="5" timestamp="2023-01-17T19:44:45Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="546"/>
-    <tag k="name" v="Castino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="526"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024381"/>
-  </node>
-  <node id="63627197" lat="44.6236987" lon="7.9774527" version="6" timestamp="2023-01-17T19:44:47Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="544"/>
-    <tag k="name" v="Castiglione Falletto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="632"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024369"/>
-  </node>
-  <node id="63627201" lat="44.7253440" lon="8.1901390" version="5" timestamp="2023-01-17T19:50:48Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="545"/>
-    <tag k="name" v="Castiglione Tinella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="877"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024376"/>
-  </node>
-  <node id="63627228" lat="44.5631390" lon="8.0304390" version="4" timestamp="2023-01-17T19:48:21Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="559"/>
-    <tag k="name" v="Cissone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="100"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63627316" lat="44.5437390" lon="8.1049410" version="5" timestamp="2023-07-13T12:30:26Z" changeset="138462622" uid="14257573" user="toponomastica_comune_arenzano">
-    <tag k="gfoss_id" v="577"/>
-    <tag k="name" v="Feisoglio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="395"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30025663"/>
-  </node>
   <node id="63627324" lat="44.8056734" lon="7.5805033" version="6" timestamp="2023-08-03T11:18:42Z" changeset="139388664" uid="348712" user="lukasbrunner">
     <tag k="gfoss_id" v="576"/>
     <tag k="name" v="Faule"/>
@@ -725,21 +670,6 @@
     <tag k="population" v="112"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:name:oc" v="ieo-bdtopoc"/>
-  </node>
-  <node id="63627559" lat="44.6298410" lon="8.1041390" version="5" timestamp="2023-10-17T11:12:50Z" changeset="142707862" uid="2976645" user="Jrachi">
-    <tag k="gfoss_id" v="509"/>
-    <tag k="name" v="Benevello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="448"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022743"/>
-  </node>
-  <node id="63627587" lat="44.6203410" lon="8.1322400" version="4" timestamp="2023-01-17T19:48:23Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="513"/>
-    <tag k="name" v="Borgomale"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="365"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63628241" lat="44.5382390" lon="8.1550420" version="4" timestamp="2023-01-17T19:46:07Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="598"/>
@@ -797,36 +727,6 @@
     <tag k="population" v="1425"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629304" lat="45.0686356" lon="7.8165308" version="5" timestamp="2023-01-17T19:54:06Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="18"/>
-    <tag k="name" v="Baldissero Torinese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3244"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63629341" lat="45.1766065" lon="7.8380043" version="6" timestamp="2023-12-10T13:20:42Z" changeset="144964500" uid="417672" user="Guidus">
-    <tag k="gfoss_id" v="34"/>
-    <tag k="name" v="Brandizzo"/>
-    <tag k="name:pms" v="Brandiss"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7430"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q9076"/>
-  </node>
-  <node id="63629440" lat="44.8372390" lon="7.3744200" version="4" timestamp="2023-01-17T20:04:00Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="111"/>
-    <tag k="name" v="Garzigliana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="544"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63629490" lat="44.8990644" lon="7.5665280" version="5" timestamp="2023-11-03T11:12:41Z" changeset="143569483" uid="348712" user="lukasbrunner">
-    <tag k="gfoss_id" v="65"/>
-    <tag k="name" v="Castagnole Piemonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1875"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63629495" lat="45.4374213" lon="7.6992113" version="8" timestamp="2023-08-07T02:06:58Z" changeset="139540118" uid="4795149" user="Fedurli">
     <tag k="gfoss_id" v="67"/>
     <tag k="name" v="Castelnuovo Nigra"/>
@@ -842,15 +742,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024782"/>
   </node>
-  <node id="63629598" lat="45.1521446" lon="7.6579731" version="7" timestamp="2023-12-10T13:16:32Z" changeset="144964388" uid="417672" user="Guidus">
-    <tag k="gfoss_id" v="28"/>
-    <tag k="name" v="Borgaro Torinese"/>
-    <tag k="name:pms" v="Borghi"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12757"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q9057"/>
-  </node>
   <node id="63629968" lat="45.1183500" lon="7.8881250" version="3" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="213"/>
     <tag k="name" v="Rivalba"/>
@@ -858,13 +749,6 @@
     <tag k="population" v="966"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18444565"/>
-  </node>
-  <node id="63630140" lat="45.0376490" lon="7.9400280" version="4" timestamp="2023-01-17T20:00:44Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="163"/>
-    <tag k="name" v="Moriondo Torinese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="763"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63630149" lat="45.2335530" lon="7.8533230" version="4" timestamp="2023-01-17T20:02:48Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="161"/>
@@ -4333,13 +4217,6 @@
     <tag k="wikidata" v="Q51377"/>
     <tag k="wikipedia" v="it:Pescosansonesco"/>
   </node>
-  <node id="70993401" lat="42.2181002" lon="13.9608869" version="4" timestamp="2020-04-18T16:23:59Z" changeset="83748734" uid="11047985" user="ViviOrta">
-    <tag k="gfoss_id" v="5865"/>
-    <tag k="name" v="Bolognano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1269"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70993408" lat="42.2251370" lon="14.0111060" version="2" timestamp="2016-09-07T16:52:16Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5863"/>
     <tag k="name" v="Abbateggio"/>
@@ -4749,15 +4626,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1854"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72960774" lat="41.6193536" lon="13.8361614" version="4" timestamp="2017-03-11T12:49:45Z" changeset="46761722" uid="354284" user="sbiribizio">
-    <tag k="gfoss_id" v="5153"/>
-    <tag k="name" v="Villa Latina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1247"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q117593"/>
-    <tag k="wikipedia" v="it:Villa Latina"/>
   </node>
   <node id="72960855" lat="41.7757210" lon="13.2722960" version="4" timestamp="2024-01-17T16:56:54Z" changeset="146373182" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5146"/>
