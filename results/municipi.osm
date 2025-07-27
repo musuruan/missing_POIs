@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-26T03:18:56Z" areas="2025-07-25T22:37:10Z"/>
+<meta osm_base="2025-07-27T03:40:16Z" areas="2025-07-27T02:02:48Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -148,16 +148,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q101545"/>
     <tag k="wikipedia" v="it:San Giovanni Bianco"/>
-  </node>
-  <node id="62506697" lat="45.8870880" lon="9.9496560" version="6" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2001"/>
-    <tag k="name" v="Clusone"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="8657"/>
-    <tag k="postal_code" v="25023"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://clusone.comune-online.it/"/>
-    <tag k="wikipedia" v="it:Clusone"/>
   </node>
   <node id="62506860" lat="45.8115328" lon="9.9031182" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2031"/>
@@ -1088,13 +1078,6 @@
     <tag k="name" v="Mormanno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3729"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274618" lat="40.0430100" lon="16.5343910" version="2" timestamp="2016-08-28T18:58:32Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6567"/>
-    <tag k="name" v="Montegiordano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2144"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274640" lat="39.4672010" lon="16.8348040" version="2" timestamp="2016-08-28T18:58:30Z" changeset="41762146" uid="743479" user="fayor">
@@ -3647,32 +3630,11 @@
     <tag k="population" v="4831"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981767" lat="43.7791620" lon="12.7333550" version="3" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4205"/>
-    <tag k="name" v="Petriano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2457"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70981786" lat="43.7347610" lon="12.8339580" version="3" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4194"/>
     <tag k="name" v="Montefelcino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2569"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70981798" lat="43.6964580" lon="12.4978510" version="3" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4201"/>
-    <tag k="name" v="Peglio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="727"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70981845" lat="43.8404600" lon="12.4147470" version="3" timestamp="2016-09-09T17:36:39Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4191"/>
-    <tag k="name" v="Monte Cerignone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="688"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70981855" lat="43.8115620" lon="12.6310520" version="3" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
@@ -3688,13 +3650,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1034"/>
   </node>
-  <node id="70981880" lat="43.7304752" lon="12.4414172" version="4" timestamp="2019-11-22T11:13:30Z" changeset="77420807" uid="178610" user="Pab09">
-    <tag k="gfoss_id" v="4182"/>
-    <tag k="name" v="Lunano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1232"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70981964" lat="43.8977564" lon="12.7547897" version="4" timestamp="2016-09-09T17:36:49Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4225"/>
     <tag k="name" v="Tavullia"/>
@@ -3707,13 +3662,6 @@
     <tag k="name" v="Sant'Ippolito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1513"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70982164" lat="43.7377610" lon="12.7840570" version="3" timestamp="2016-09-09T17:36:36Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4181"/>
-    <tag k="name" v="Isola del Piano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="664"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70990465" lat="41.8236474" lon="14.5240787" version="3" timestamp="2016-09-07T16:52:18Z" changeset="41983597" uid="743479" user="fayor">
@@ -5607,11 +5555,6 @@
     <tag k="uri:filas" v="http://193.178.216.227/ontoir-web/getRDF?fqName=urn:turismoculturale.itdc.filas-1.0.0-RC1%23turismoCulturale_POI_180"/>
     <tag k="wikidata" v="Q224109"/>
     <tag k="wikipedia" v="it:Contigliano"/>
-  </node>
-  <node id="1313601109" lat="43.8051686" lon="12.3782507" version="2" timestamp="2016-09-11T00:19:05Z" changeset="42069137" uid="743479" user="fayor">
-    <tag k="name" v="Mercato Vecchio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="285"/>
   </node>
   <node id="1435627520" lat="44.5164015" lon="8.3821606" version="5" timestamp="2023-01-17T19:56:40Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="982"/>
