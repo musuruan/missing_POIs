@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-27T03:44:27Z" areas="2025-07-27T02:09:59Z"/>
+<meta osm_base="2025-07-28T03:42:11Z" areas="2025-07-27T23:21:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1234,13 +1234,6 @@
     <tag k="population" v="2753"/>
     <tag k="postal_code" v="27017"/>
     <tag k="ref:ISTAT" v="018114"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515379" lat="45.1698610" lon="8.8898460" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2377"/>
-    <tag k="name" v="Alagna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="755"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515409" lat="45.1269219" lon="8.6235671" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
@@ -5846,16 +5839,6 @@
     <tag k="population" v="11824"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529322" lat="40.2374250" lon="18.2552270" version="5" timestamp="2023-06-04T17:19:52Z" changeset="136941709" uid="117497" user="Gnurpsnewoel">
-    <tag k="gfoss_id" v="6298"/>
-    <tag k="name" v="Martignano"/>
-    <tag k="name:el" v="Μαρτινιάνο"/>
-    <tag k="name:it" v="Martignano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1770"/>
-    <tag k="reg_name:el-it" v="Martignàna"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68529332" lat="40.3125270" lon="18.2004250" version="2" timestamp="2016-08-27T16:24:03Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6277"/>
     <tag k="name" v="Cavallino"/>
@@ -7008,15 +6991,6 @@
     <tag k="postal_code" v="80020"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72122"/>
-  </node>
-  <node id="68580861" lat="40.9414265" lon="14.2722092" version="6" timestamp="2020-08-21T13:07:07Z" changeset="89748042" uid="11366923" user="Acheloo">
-    <tag k="gfoss_id" v="5370"/>
-    <tag k="name" v="Frattamaggiore"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="30329"/>
-    <tag k="postal_code" v="80027"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q72118"/>
   </node>
   <node id="68581011" lat="40.7237090" lon="14.5465380" version="3" timestamp="2016-11-08T17:14:53Z" changeset="43493378" uid="2511706" user="calfarome">
     <tag k="gfoss_id" v="5412"/>
