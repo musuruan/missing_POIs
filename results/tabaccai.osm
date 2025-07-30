@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-29T03:48:13Z" areas="2025-07-28T22:09:15Z"/>
+<meta osm_base="2025-07-30T03:34:00Z" areas="2025-07-30T02:08:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9191,15 +9191,19 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026197"/>
   </node>
-  <node id="62517627" lat="45.8524484" lon="8.8396080" version="9" timestamp="2022-11-13T19:38:10Z" changeset="128860484" uid="9196866" user="Peter:D">
+  <node id="62517627" lat="45.8524484" lon="8.8396080" version="10" timestamp="2025-07-29T09:58:10Z" changeset="169662004" uid="23135783" user="Catilyna">
     <tag k="ele" v="394"/>
     <tag k="gfoss_id" v="1439"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
+    <tag k="loc_name" v="Indüun"/>
     <tag k="name" v="Induno Olona"/>
     <tag k="old_name" v="Induno"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10281"/>
+    <tag k="population" v="10412"/>
+    <tag k="population:date" v="2025-4-30"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40229"/>
+    <tag k="wikipedia" v="it:Induno Olona"/>
   </node>
   <node id="62517644" lat="45.7779855" lon="8.8226705" version="5" timestamp="2020-08-27T13:12:52Z" changeset="90029453" uid="1476146" user="Alecs01">
     <tag k="gfoss_id" v="1429"/>
@@ -20614,12 +20618,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2980"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64779044" lat="45.2429863" lon="11.2281869" version="4" timestamp="2017-05-01T09:30:23Z" changeset="48301636" uid="1928626" user="Gianfranco2014">
-    <tag k="gfoss_id" v="3165"/>
-    <tag k="name" v="San Pietro di Morubio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2848"/>
   </node>
   <node id="64779050" lat="45.2427902" lon="11.0844436" version="4" timestamp="2017-05-01T07:54:55Z" changeset="48299383" uid="1928626" user="Gianfranco2014">
     <tag k="gfoss_id" v="3158"/>
