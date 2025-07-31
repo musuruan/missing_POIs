@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-30T03:26:37Z" areas="2025-07-29T20:20:15Z"/>
+<meta osm_base="2025-07-31T03:25:41Z" areas="2025-07-30T23:08:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -458,16 +458,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028639"/>
   </node>
-  <node id="63623159" lat="45.0009066" lon="8.1460557" version="5" timestamp="2021-02-06T19:18:44Z" changeset="98826343" uid="3335735" user="nick1993">
-    <tag k="gfoss_id" v="782"/>
-    <tag k="name" v="Corsione"/>
-    <tag k="name:pms" v="Corsion"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="169"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17800"/>
-    <tag k="wikipedia" v="it:Corsione"/>
-  </node>
   <node id="63623507" lat="45.0558500" lon="8.0187290" version="6" timestamp="2021-02-06T19:18:44Z" changeset="98826343" uid="3335735" user="nick1993">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="819"/>
@@ -478,16 +468,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17841"/>
     <tag k="wikipedia" v="it:Passerano Marmorito"/>
-  </node>
-  <node id="63624693" lat="45.0007446" lon="8.0501201" version="4" timestamp="2020-10-10T23:32:28Z" changeset="92289096" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="850"/>
-    <tag k="name" v="Viale"/>
-    <tag k="name:pms" v="Vial"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="267"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17878"/>
-    <tag k="wikipedia" v="it:Viale (Italia)"/>
   </node>
   <node id="63625542" lat="44.4676370" lon="8.0882420" version="4" timestamp="2023-01-17T19:50:29Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="613"/>
@@ -3382,27 +3362,6 @@
     <tag k="name" v="Muccia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="907"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70981229" lat="43.1385337" lon="13.2248354" version="3" timestamp="2016-09-09T17:36:30Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4282"/>
-    <tag k="name" v="Caldarola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1706"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70981252" lat="43.1087889" lon="13.2580261" version="3" timestamp="2016-09-09T17:36:32Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4287"/>
-    <tag k="name" v="Cessapalombo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="585"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70981292" lat="43.1084806" lon="13.3187335" version="4" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4322"/>
-    <tag k="name" v="San Ginesio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3799"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70981357" lat="43.2215210" lon="13.4663061" version="6" timestamp="2022-08-09T08:38:59Z" changeset="124673434" uid="554973" user="dgitto">
