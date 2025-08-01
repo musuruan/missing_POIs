@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-07-31T03:29:41Z" areas="2025-07-31T00:31:39Z"/>
+<meta osm_base="2025-08-01T03:51:27Z" areas="2025-07-31T22:44:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -44,8 +44,7 @@
     <tag k="wikidata" v="Q30027573"/>
     <tag k="wikipedia" v="it:Misano di Gera d'Adda"/>
   </node>
-  <node id="62505854" lat="45.8098870" lon="10.0430600" version="3" timestamp="2024-09-09T17:59:02Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62505854" lat="45.8105395" lon="10.0438781" version="4" timestamp="2025-07-31T18:33:14Z" changeset="169785078" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="2084"/>
     <tag k="name" v="Pianico"/>
     <tag k="place" v="village"/>
@@ -3627,16 +3626,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q53276"/>
     <tag k="wikipedia" v="it:Magnano in Riviera"/>
-  </node>
-  <node id="66503476" lat="46.5120020" lon="12.9907568" version="7" timestamp="2025-07-15T12:18:04Z" changeset="168962617" uid="14202171" user="Alessandro Ambrosino">
-    <tag k="gfoss_id" v="3783"/>
-    <tag k="name" v="Sutrio / Sudri"/>
-    <tag k="name:fur" v="Sudri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1392"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53368"/>
-    <tag k="wikipedia" v="it:Sutrio"/>
   </node>
   <node id="66503491" lat="45.9779201" lon="13.4010809" version="7" timestamp="2025-07-15T11:35:25Z" changeset="168960828" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3772"/>
@@ -9240,21 +9229,6 @@
     <tag k="wikipedia" v="it:Lunamatrona"/>
     <tag k="wikipedia:sc" v="Lunamatrona"/>
   </node>
-  <node id="72991420" lat="39.1610330" lon="8.6114360" version="40" timestamp="2023-10-23T17:03:29Z" changeset="143027520" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7444"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Perdaxius"/>
-    <tag k="name:it" v="Perdaxius"/>
-    <tag k="name:sc" v="Perdaxius"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1465"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.perdaxius.ci.it/"/>
-    <tag k="wikidata" v="Q286601"/>
-    <tag k="wikipedia" v="it:Perdaxius"/>
-    <tag k="wikipedia:sc" v="Perdaxius"/>
-  </node>
   <node id="72991443" lat="39.5509410" lon="8.7919340" version="43" timestamp="2023-11-07T21:08:57Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Santu 'Ainju"/>
     <tag k="gfoss_id" v="7452"/>
@@ -11090,6 +11064,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1351"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="3749265443" lat="45.8107679" lon="8.9656027" version="3" timestamp="2020-09-13T21:15:29Z" changeset="90831532" uid="1227619" user="Marco_T">
+    <tag k="name" v="Gaggino"/>
+    <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q18487574"/>
+    <tag k="wikipedia" v="it:Gaggino"/>
   </node>
   <node id="4087948103" lat="39.6978818" lon="16.1271277" version="3" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
     <tag k="name" v="Altomonte"/>
