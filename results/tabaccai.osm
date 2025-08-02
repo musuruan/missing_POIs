@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-01T03:53:30Z" areas="2025-07-31T22:44:45Z"/>
+<meta osm_base="2025-08-02T03:24:46Z" areas="2025-08-01T20:50:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1481,12 +1481,13 @@
     <tag k="population" v="989"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506151" lat="45.6843417" lon="9.9622843" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506151" lat="45.6843417" lon="9.9622843" version="4" timestamp="2025-08-01T09:41:25Z" changeset="169807994" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2154"/>
     <tag k="name" v="Viadanica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1028"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031684"/>
   </node>
   <node id="62506163" lat="45.7229517" lon="9.7351301" version="7" timestamp="2025-04-06T15:09:51Z" changeset="164596017" uid="22110197" user="Andrbres">
     <tag k="gfoss_id" v="2159"/>
@@ -1708,13 +1709,14 @@
     <tag k="postal_code" v="24020"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506414" lat="45.5548790" lon="9.8309600" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506414" lat="45.5548790" lon="9.8309600" version="3" timestamp="2025-08-01T09:00:53Z" changeset="169806028" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="2000"/>
     <tag k="name" v="Cividate al Piano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4869"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024829"/>
   </node>
   <node id="62506427" lat="45.7578026" lon="10.0202068" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2025"/>
@@ -2323,12 +2325,13 @@
     <tag k="population" v="3304"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507042" lat="45.7892293" lon="9.9357249" version="6" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62507042" lat="45.7892293" lon="9.9357249" version="7" timestamp="2025-08-01T09:48:06Z" changeset="169808317" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2101"/>
     <tag k="name" v="Ranzanico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1088"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029274"/>
   </node>
   <node id="62507048" lat="45.6878820" lon="9.8533580" version="2" timestamp="2020-12-22T10:36:13Z" changeset="96250625" uid="465052" user="hecktor">
     <tag k="gfoss_id" v="2163"/>
@@ -5216,12 +5219,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028305"/>
   </node>
-  <node id="62511917" lat="45.4179618" lon="9.5947015" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511917" lat="45.4179618" lon="9.5947015" version="4" timestamp="2025-08-01T09:25:00Z" changeset="169807182" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2671"/>
     <tag k="name" v="Torlino Vimercati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="296"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031164"/>
   </node>
   <node id="62511937" lat="45.0196019" lon="10.2926531" version="4" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="2674"/>
@@ -21133,10 +21137,10 @@
     <tag k="population" v="937"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502693" lat="45.9385932" lon="13.5482396" version="8" timestamp="2025-07-07T15:28:43Z" changeset="168611482" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66502693" lat="45.9385932" lon="13.5482396" version="9" timestamp="2025-08-01T17:25:24Z" changeset="169830051" uid="5918908" user="Gi87">
     <tag k="gfoss_id" v="3822"/>
     <tag k="loc_name:fur" v="Mossa"/>
-    <tag k="name" v="Mossa / Mosse / Moš"/>
+    <tag k="name" v="Mossa / Mosse"/>
     <tag k="name:fur" v="Mosse"/>
     <tag k="name:sl" v="Moš"/>
     <tag k="place" v="village"/>

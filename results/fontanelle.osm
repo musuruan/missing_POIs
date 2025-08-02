@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-01T03:51:27Z" areas="2025-07-31T22:44:45Z"/>
+<meta osm_base="2025-08-02T03:22:45Z" areas="2025-08-01T20:50:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -83,12 +83,13 @@
     <tag k="population" v="989"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506151" lat="45.6843417" lon="9.9622843" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506151" lat="45.6843417" lon="9.9622843" version="4" timestamp="2025-08-01T09:41:25Z" changeset="169807994" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2154"/>
     <tag k="name" v="Viadanica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1028"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031684"/>
   </node>
   <node id="62506270" lat="45.6008780" lon="9.5784530" version="3" timestamp="2024-09-09T17:58:23Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="created_by" v="JOSM"/>

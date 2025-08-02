@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-01T03:48:31Z" areas="2025-07-31T21:19:22Z"/>
+<meta osm_base="2025-08-02T03:19:44Z" areas="2025-08-02T00:44:26Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -187,17 +187,6 @@
     <tag k="population" v="162"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505768" lat="45.4687750" lon="9.6210570" version="9" timestamp="2023-11-10T10:23:53Z" changeset="143856573" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="2058"/>
-    <tag k="name" v="Misano di Gera d'Adda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2932"/>
-    <tag k="population:date" v="2016"/>
-    <tag k="source:population" v="http://www.comuni-italiani.it/016/135/statistiche/"/>
-    <tag k="website" v="https://www.comune.misano.bg.it/"/>
-    <tag k="wikidata" v="Q30027573"/>
-    <tag k="wikipedia" v="it:Misano di Gera d'Adda"/>
-  </node>
   <node id="62505771" lat="45.8894870" lon="9.7692520" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2068"/>
     <tag k="name" v="Oltre il Colle"/>
@@ -349,12 +338,13 @@
     <tag k="population" v="989"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506151" lat="45.6843417" lon="9.9622843" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506151" lat="45.6843417" lon="9.9622843" version="4" timestamp="2025-08-01T09:41:25Z" changeset="169807994" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2154"/>
     <tag k="name" v="Viadanica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1028"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031684"/>
   </node>
   <node id="62506228" lat="45.8324196" lon="9.7419373" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2166"/>
@@ -447,13 +437,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025216"/>
   </node>
-  <node id="62506414" lat="45.5548790" lon="9.8309600" version="2" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506414" lat="45.5548790" lon="9.8309600" version="3" timestamp="2025-08-01T09:00:53Z" changeset="169806028" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="2000"/>
     <tag k="name" v="Cividate al Piano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4869"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024829"/>
   </node>
   <node id="62506427" lat="45.7578026" lon="10.0202068" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2025"/>
@@ -582,14 +573,6 @@
     <tag k="population" v="5540"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506690" lat="45.5797721" lon="9.7077253" version="6" timestamp="2024-01-11T16:28:37Z" changeset="146150607" uid="1950277" user="Mannivu">
-    <tag k="gfoss_id" v="2003"/>
-    <tag k="name" v="Cologno al Serio"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11124"/>
-    <tag k="source" v="ISTAT (30/11/2015)"/>
-    <tag k="wikidata" v="Q30024975"/>
-  </node>
   <node id="62506697" lat="45.8870880" lon="9.9496560" version="6" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2001"/>
     <tag k="name" v="Clusone"/>
@@ -647,15 +630,6 @@
     <tag k="population" v="1667"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024457"/>
-  </node>
-  <node id="62506811" lat="45.5656770" lon="9.6401550" version="4" timestamp="2022-06-28T12:42:15Z" changeset="122956045" uid="1950277" user="Mannivu">
-    <tag k="gfoss_id" v="2052"/>
-    <tag k="name" v="Lurano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2832"/>
-    <tag k="population:date" v="208-10-31"/>
-    <tag k="source:population" v="http://demo.istat.it/bilmens2018gen/index.html"/>
-    <tag k="wikidata" v="Q30026788"/>
   </node>
   <node id="62506817" lat="45.7163928" lon="9.8804960" version="8" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2053"/>
@@ -811,15 +785,6 @@
     <tag k="place" v="village"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18509446"/>
-  </node>
-  <node id="62507191" lat="45.5522770" lon="9.6198550" version="3" timestamp="2023-11-01T18:16:58Z" changeset="143489750" uid="1950277" user="Mannivu">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="1987"/>
-    <tag k="name" v="Castel Rozzone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2545"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024132"/>
   </node>
   <node id="62507202" lat="45.9667870" lon="9.6121470" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1985"/>
@@ -2043,12 +2008,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028305"/>
   </node>
-  <node id="62511917" lat="45.4179618" lon="9.5947015" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511917" lat="45.4179618" lon="9.5947015" version="4" timestamp="2025-08-01T09:25:00Z" changeset="169807182" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2671"/>
     <tag k="name" v="Torlino Vimercati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="296"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031164"/>
   </node>
   <node id="62511937" lat="45.0196019" lon="10.2926531" version="4" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="2674"/>
@@ -15500,15 +15466,6 @@
     <tag k="population" v="7266"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993722" lat="42.3421817" lon="13.8976099" version="5" timestamp="2025-02-04T07:05:13Z" changeset="162112594" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5907"/>
-    <tag k="name" v="Vicoli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="445"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031703"/>
-    <tag k="wikipedia" v="it:Vicoli"/>
-  </node>
   <node id="70993725" lat="42.5879410" lon="13.4895900" version="2" timestamp="2016-09-07T17:42:33Z" changeset="41985059" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5838"/>
     <tag k="name" v="Crognaleto"/>
@@ -19412,9 +19369,9 @@
     <tag k="name" v="Pré-Saint-Didier"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="601456306" lat="43.9973334" lon="10.2956470" version="8" timestamp="2017-03-11T12:53:36Z" changeset="46761779" uid="354284" user="sbiribizio">
+  <node id="601456306" lat="43.9973334" lon="10.2956470" version="9" timestamp="2025-08-01T10:45:04Z" changeset="169811051" uid="4742466" user="vaizeman">
     <tag k="name" v="Pontestazzemese"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="hamlet"/>
     <tag k="population" v="180"/>
     <tag k="wikidata" v="Q3908215"/>
     <tag k="wikipedia" v="it:Pontestazzemese"/>
@@ -19920,10 +19877,6 @@
     <tag k="name" v="Servo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="219"/>
-  </node>
-  <node id="2628968777" lat="45.9779476" lon="8.7200626" version="2" timestamp="2019-12-07T11:05:23Z" changeset="78084002" uid="1476146" user="Alecs01">
-    <tag k="name" v="Bedero Valtravaglia"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="2649514075" lat="45.1374750" lon="8.7292673" version="2" timestamp="2014-02-02T10:54:38Z" changeset="20331432" uid="579545" user="Aury88">
     <tag k="name" v="Semiana"/>
