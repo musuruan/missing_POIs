@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-02T03:24:46Z" areas="2025-08-01T20:50:11Z"/>
+<meta osm_base="2025-08-03T03:49:30Z" areas="2025-08-02T23:58:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8542,7 +8542,7 @@
     <tag k="population" v="2642"/>
     <tag k="wikidata" v="Q30030801"/>
   </node>
-  <node id="62516755" lat="46.2203043" lon="9.8642208" version="45" timestamp="2023-06-09T17:23:13Z" changeset="137146147" uid="1778799" user="SomeoneElse_Revert">
+  <node id="62516755" lat="46.2197715" lon="9.8648304" version="46" timestamp="2025-08-02T09:13:21Z" changeset="169853071" uid="20434376" user="Aaaa002">
     <tag k="ele" v="754"/>
     <tag k="name" v="Spriana"/>
     <tag k="place" v="hamlet"/>
@@ -18393,7 +18393,7 @@
     <tag k="population" v="3140"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64777179" lat="47.0407407" lon="12.1058909" version="8" timestamp="2018-06-08T05:53:26Z" changeset="59656007" uid="2641694" user="JM82">
+  <node id="64777179" lat="47.0407407" lon="12.1058909" version="9" timestamp="2025-08-02T10:01:33Z" changeset="169855089" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="2819"/>
     <tag k="name" v="Prettau - Predoi"/>
     <tag k="name:de" v="Prettau"/>
@@ -18402,6 +18402,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="633"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029161"/>
   </node>
   <node id="64777182" lat="46.4774258" lon="11.0224369" version="7" timestamp="2024-11-08T06:56:05Z" changeset="158882826" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2820"/>
@@ -32577,7 +32578,7 @@
     <tag k="wikidata" v="Q58666"/>
     <tag k="wikipedia" v="it:Letino"/>
   </node>
-  <node id="68580536" lat="40.9700120" lon="14.1904270" version="4" timestamp="2016-10-27T18:42:46Z" changeset="43225371" uid="2748195" user="karitotp">
+  <node id="68580536" lat="40.9692754" lon="14.1926049" version="6" timestamp="2025-08-02T21:19:28Z" changeset="169881024" uid="23132468" user="Thebro7her">
     <tag k="gfoss_id" v="5202"/>
     <tag k="name" v="Lusciano"/>
     <tag k="place" v="town"/>
@@ -37437,6 +37438,15 @@
     <tag k="population" v="447"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q33711596"/>
+  </node>
+  <node id="70992630" lat="42.2051312" lon="13.5192689" version="8" timestamp="2025-02-04T09:20:57Z" changeset="162116646" uid="79364" user="klaus e werner">
+    <tag k="ele" v="1329"/>
+    <tag k="gfoss_id" v="5789"/>
+    <tag k="name" v="Rocca di Mezzo"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="1426"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029441"/>
   </node>
   <node id="70992640" lat="42.0082290" lon="13.6227010" version="4" timestamp="2025-02-04T08:38:06Z" changeset="162115161" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5792"/>
@@ -46753,6 +46763,15 @@
     <tag k="old_name" v="Riva"/>
     <tag k="place" v="village"/>
     <tag k="population" v="634"/>
+  </node>
+  <node id="1941889656" lat="44.3036653" lon="9.2093446" version="9" timestamp="2023-06-14T14:30:36Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="gfoss_id" v="1301"/>
+    <tag k="name" v="Portofino"/>
+    <tag k="name:oc" v="Pòrtfin"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="420"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q232782"/>
   </node>
   <node id="1942020325" lat="44.3920889" lon="9.2673536" version="2" timestamp="2016-10-01T18:39:50Z" changeset="42568713" uid="743479" user="fayor">
     <tag k="ele" v="65"/>
