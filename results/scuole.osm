@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-06T03:35:15Z" areas="2025-08-05T23:29:45Z"/>
+<meta osm_base="2025-08-07T03:34:56Z" areas="2025-08-06T22:08:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -469,12 +469,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028351"/>
   </node>
-  <node id="62505956" lat="45.9166987" lon="9.9442319" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62505956" lat="45.9166987" lon="9.9442319" version="5" timestamp="2025-08-06T16:33:11Z" changeset="170068058" uid="2653653" user="astraspera">
     <tag k="gfoss_id" v="2069"/>
     <tag k="name" v="Oltressenda Alta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="146"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q101298"/>
+    <tag k="wikipedia" v="it:Oltressenda Alta"/>
   </node>
   <node id="62505975" lat="45.8719407" lon="9.7293364" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2120"/>
@@ -3278,12 +3280,11 @@
     <tag k="ref:ISTAT" v="018058"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515239" lat="45.1572133" lon="9.3694691" version="13" timestamp="2017-03-03T01:00:36Z" changeset="46536532" uid="339581" user="nyuriks">
+  <node id="62515239" lat="45.1572133" lon="9.3694691" version="14" timestamp="2025-08-06T11:25:23Z" changeset="170052031" uid="8339" user="mtmail">
     <tag k="ele" v="71"/>
     <tag k="gfoss_id" v="2179"/>
     <tag k="is_in:province" v="Pavia"/>
     <tag k="is_in:region" v="Lombardia"/>
-    <tag k="is_in:state" v="Italia"/>
     <tag k="name" v="Corteolona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2565"/>
