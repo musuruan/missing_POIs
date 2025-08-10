@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-09T03:17:10Z" areas="2025-08-09T00:59:50Z"/>
+<meta osm_base="2025-08-10T03:31:59Z" areas="2025-08-09T23:57:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2415,14 +2415,6 @@
     <tag k="population" v="254"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q56709625"/>
-  </node>
-  <node id="63626681" lat="44.5156548" lon="7.8922570" version="6" timestamp="2023-01-17T19:46:15Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="658"/>
-    <tag k="name" v="Piozzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="997"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30028908"/>
   </node>
   <node id="63626728" lat="44.4452350" lon="7.9509390" version="4" timestamp="2023-01-17T19:47:37Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="677"/>
@@ -5253,10 +5245,11 @@
     <tag k="population" v="2653"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284028" lat="41.8165360" lon="15.0161340" version="3" timestamp="2016-09-05T17:14:58Z" changeset="41936288" uid="354689" user="Francesco Placco">
+  <node id="67284028" lat="41.8165360" lon="15.0161340" version="4" timestamp="2025-08-09T18:31:51Z" changeset="170216035" uid="15124074" user="Catonif">
     <tag k="gfoss_id" v="6095"/>
     <tag k="name" v="Ururi"/>
-    <tag k="name:aae" v="Ruri"/>
+    <tag k="name:it" v="Ururi"/>
+    <tag k="name:sq" v="Ruri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3070"/>
     <tag k="source" v="geodati.gfoss.it"/>
