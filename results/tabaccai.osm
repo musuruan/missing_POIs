@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-10T03:33:59Z" areas="2025-08-09T23:57:30Z"/>
+<meta osm_base="2025-08-11T03:33:15Z" areas="2025-08-10T20:49:26Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -391,12 +391,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026220"/>
   </node>
-  <node id="61753495" lat="43.1306766" lon="11.0162788" version="7" timestamp="2016-09-11T17:22:59Z" changeset="42083429" uid="743479" user="fayor">
+  <node id="61753495" lat="43.1306766" lon="11.0162788" version="8" timestamp="2025-08-10T09:31:46Z" changeset="170234872" uid="17965418" user="DabMK">
     <tag k="gfoss_id" v="4675"/>
     <tag k="name" v="Montieri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1248"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027978"/>
   </node>
   <node id="61753501" lat="42.8904069" lon="11.3928920" version="5" timestamp="2016-09-11T17:22:56Z" changeset="42083429" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4665"/>
@@ -1040,7 +1041,7 @@
     <tag k="wikidata" v="Q91360"/>
     <tag k="wikipedia" v="en:Radda in Chianti"/>
   </node>
-  <node id="62505616" lat="46.1713553" lon="9.8734274" version="81" timestamp="2024-04-09T12:02:50Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
+  <node id="62505616" lat="46.1713553" lon="9.8734274" version="82" timestamp="2025-08-10T15:52:36Z" changeset="170252523" uid="11273192" user="bayer83373">
     <tag k="alt_name:de" v="Sonders"/>
     <tag k="alt_name:rm" v="Sunder"/>
     <tag k="capital" v="6"/>
@@ -1048,7 +1049,6 @@
     <tag k="loc_name" v="Sundri"/>
     <tag k="loc_name:pronunciation" v="ˈsundrj"/>
     <tag k="name" v="Sondrio"/>
-    <tag k="name:de" v="Sünders"/>
     <tag k="name:el" v="Σόντριο"/>
     <tag k="name:fr" v="Sondrio"/>
     <tag k="name:it" v="Sondrio"/>
@@ -1056,6 +1056,7 @@
     <tag k="name:rm" v="Sonder"/>
     <tag k="name:ru" v="Сондрио"/>
     <tag k="name:zh" v="桑治奧"/>
+    <tag k="old_name:de" v="Sünders"/>
     <tag k="place" v="town"/>
     <tag k="population" v="19208"/>
     <tag k="ref:ISTAT" v="014061"/>
@@ -8151,11 +8152,11 @@
     <tag k="wikidata" v="Q30028258"/>
     <tag k="wikipedia" v="it:Novate Mezzola"/>
   </node>
-  <node id="62516038" lat="46.1321629" lon="9.5694656" version="9" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="Martino Scaglione">
+  <node id="62516038" lat="46.1321629" lon="9.5694656" version="10" timestamp="2025-08-10T15:54:24Z" changeset="170252611" uid="11273192" user="bayer83373">
     <tag k="ele" v="262"/>
     <tag k="loc_name" v="Morbegn;Mürbegn"/>
     <tag k="name" v="Morbegno"/>
-    <tag k="name:de" v="Morbend"/>
+    <tag k="old_name:de" v="Morbend"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10000"/>
   </node>
@@ -48424,11 +48425,12 @@
     <tag k="wikimedia_commons" v="Category:Cinisello Balsamo"/>
     <tag k="wikipedia" v="it:Cinisello Balsamo"/>
   </node>
-  <node id="11117760678" lat="42.8809558" lon="11.6723792" version="8" timestamp="2023-09-02T18:43:12Z" changeset="140732020" uid="17965418" user="DabMK">
+  <node id="11117760678" lat="42.8809558" lon="11.6723792" version="9" timestamp="2025-08-10T19:05:26Z" changeset="170260763" uid="17965418" user="DabMK">
     <tag k="ele" v="822"/>
     <tag k="gfoss_id" v="4623"/>
     <tag k="name" v="Abbadia San Salvatore"/>
     <tag k="name:be" v="Абадзія-Сан-Сальваторэ"/>
+    <tag k="name:it" v="Abbadia San Salvatore"/>
     <tag k="name:ja" v="アッバディーア・サン・サルヴァトーレ"/>
     <tag k="name:kk" v="Аббадия-Сан-Сальваторе"/>
     <tag k="name:la" v="Abbatia Sancti Salvatoris"/>
