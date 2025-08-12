@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-11T03:27:15Z" areas="2025-08-10T21:29:15Z"/>
+<meta osm_base="2025-08-12T03:11:29Z" areas="2025-08-11T19:54:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -11184,7 +11184,7 @@
     <tag k="wikimedia_commons" v="Category:Alviano"/>
     <tag k="wikipedia" v="it:Alviano"/>
   </node>
-  <node id="68507825" lat="42.6911725" lon="12.5464506" version="16" timestamp="2024-09-02T10:40:16Z" changeset="156091690" uid="1211510" user="arcanma">
+  <node id="68507825" lat="42.6910182" lon="12.5465572" version="17" timestamp="2025-08-11T16:47:00Z" changeset="170303389" uid="1211510" user="arcanma">
     <tag k="ele" v="320"/>
     <tag k="gfoss_id" v="50428"/>
     <tag k="istat_id" v="5500110001"/>
@@ -15483,6 +15483,15 @@
     <tag k="postal_code" v="64047"/>
     <tag k="ref:ISTAT" v="067034"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="70993912" lat="42.8210480" lon="13.7178910" version="7" timestamp="2020-06-11T07:08:33Z" changeset="86500592" uid="10124288" user="damianeue">
+    <tag k="gfoss_id" v="5853"/>
+    <tag k="name" v="Sant'Egidio alla Vibrata"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="9811"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q51464"/>
+    <tag k="wikipedia" v="it:Sant'Egidio alla Vibrata"/>
   </node>
   <node id="72959744" lat="41.5428220" lon="13.9528150" version="3" timestamp="2021-04-29T19:56:40Z" changeset="103867285" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5066"/>

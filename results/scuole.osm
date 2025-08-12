@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-11T03:34:11Z" areas="2025-08-10T20:49:26Z"/>
+<meta osm_base="2025-08-12T03:18:24Z" areas="2025-08-12T01:53:53Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15310,7 +15310,7 @@
     <tag k="wikimedia_commons" v="Category:Alviano"/>
     <tag k="wikipedia" v="it:Alviano"/>
   </node>
-  <node id="68507825" lat="42.6911725" lon="12.5464506" version="16" timestamp="2024-09-02T10:40:16Z" changeset="156091690" uid="1211510" user="arcanma">
+  <node id="68507825" lat="42.6910182" lon="12.5465572" version="17" timestamp="2025-08-11T16:47:00Z" changeset="170303389" uid="1211510" user="arcanma">
     <tag k="ele" v="320"/>
     <tag k="gfoss_id" v="50428"/>
     <tag k="istat_id" v="5500110001"/>
@@ -16468,13 +16468,6 @@
     <tag k="name" v="Altavilla Irpina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4143"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566653" lat="40.9208124" lon="14.8334989" version="4" timestamp="2016-09-01T23:10:01Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5436"/>
-    <tag k="name" v="Atripalda"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11020"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68566661" lat="41.0372210" lon="15.2521500" version="2" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
@@ -20367,12 +20360,13 @@
     <tag k="wikimedia_commons" v="Category:Villetta Barrea"/>
     <tag k="wikipedia" v="it:Villetta Barrea"/>
   </node>
-  <node id="70992789" lat="41.8669965" lon="13.6245098" version="5" timestamp="2025-02-05T08:52:40Z" changeset="162156002" uid="79364" user="klaus e werner">
+  <node id="70992789" lat="41.8674804" lon="13.6245426" version="6" timestamp="2025-08-11T09:12:04Z" changeset="170281760" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5813"/>
     <tag k="name" v="Villavallelonga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1004"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.villavallelonga.aq.it"/>
     <tag k="wikidata" v="Q30031880"/>
     <tag k="wikimedia_commons" v="Category:Villavallelonga"/>
     <tag k="wikipedia" v="it:Villavallelonga"/>
@@ -26382,6 +26376,12 @@
     <tag k="alt_name_1" v="Chef-Lieu"/>
     <tag k="name" v="Le Plan-de-Clavel (chef-lieu)"/>
     <tag k="place" v="hamlet"/>
+  </node>
+  <node id="4767655852" lat="45.9582015" lon="8.8714121" version="5" timestamp="2024-04-04T13:19:33Z" changeset="149570216" uid="9616185" user="LukeDH">
+    <tag k="name" v="Lavena"/>
+    <tag k="place" v="village"/>
+    <tag k="postal_code" v="21037"/>
+    <tag k="wikidata" v="Q30026543"/>
   </node>
   <node id="4791626652" lat="37.8584782" lon="14.1543408" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Geraci Siculo"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-11T03:33:15Z" areas="2025-08-10T20:49:26Z"/>
+<meta osm_base="2025-08-12T03:17:32Z" areas="2025-08-11T20:06:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -21420,14 +21420,16 @@
     <tag k="population" v="1767"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502939" lat="45.8476416" lon="12.8155309" version="7" timestamp="2025-07-05T12:19:12Z" changeset="168520766" uid="20552772" user="user_8y978a">
+  <node id="66502939" lat="45.8476416" lon="12.8155309" version="8" timestamp="2025-08-11T13:21:06Z" changeset="170293546" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="7548"/>
     <tag k="name" v="Sesto al Reghena / Siest"/>
     <tag k="name:fur" v="Siest"/>
     <tag k="name:it" v="Sesto al Reghena"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5311"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="6316"/>
+    <tag k="population:date" v="2025-31-05"/>
+    <tag k="population:note" v="1021 abitanti (2016-01-01) se si considera solo la località dove è ubicato il capoluogo (https://italia.indettaglio.it/ita/friuliveneziagiulia/sestoalreghena.html)"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="66502948" lat="46.1655224" lon="12.8287759" version="8" timestamp="2025-07-10T13:13:40Z" changeset="168743172" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7547"/>
@@ -29544,7 +29546,7 @@
     <tag k="wikimedia_commons" v="Category:Alviano"/>
     <tag k="wikipedia" v="it:Alviano"/>
   </node>
-  <node id="68507825" lat="42.6911725" lon="12.5464506" version="16" timestamp="2024-09-02T10:40:16Z" changeset="156091690" uid="1211510" user="arcanma">
+  <node id="68507825" lat="42.6910182" lon="12.5465572" version="17" timestamp="2025-08-11T16:47:00Z" changeset="170303389" uid="1211510" user="arcanma">
     <tag k="ele" v="320"/>
     <tag k="gfoss_id" v="50428"/>
     <tag k="istat_id" v="5500110001"/>
