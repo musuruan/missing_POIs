@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<osm version="0.6" generator="Overpass API 0.7.62.7 375dc00a">
+<osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-13T03:21:27Z" areas="2025-08-13T00:47:42Z"/>
+<meta osm_base="2025-08-14T03:20:59Z" areas="2025-08-13T23:46:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -25696,10 +25696,10 @@
     <tag k="wikidata" v="Q53949"/>
     <tag k="wikipedia" v="it:Rogliano (Italia)"/>
   </node>
-  <node id="67274156" lat="39.9009020" lon="15.7792760" version="2" timestamp="2016-08-28T18:58:39Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274156" lat="39.9009020" lon="15.7792760" version="3" timestamp="2025-08-13T17:04:04Z" changeset="170400181" uid="13986573" user="dombul">
     <tag k="gfoss_id" v="6586"/>
     <tag k="name" v="Praia a Mare"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="6282"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -29670,23 +29670,6 @@
     <tag k="website" v="https://www.comune.castelgiorgio.tr.it/"/>
     <tag k="wikidata" v="Q6340"/>
     <tag k="wikipedia" v="it:Castel Giorgio"/>
-  </node>
-  <node id="68507858" lat="42.6127014" lon="12.5465047" version="19" timestamp="2024-09-04T15:40:10Z" changeset="156193278" uid="1211510" user="arcanma">
-    <tag k="ele" v="337"/>
-    <tag k="gfoss_id" v="50749"/>
-    <tag k="istat_id" v="5502910002"/>
-    <tag k="name" v="San Gemini"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3239"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="ref:LOCODE" v="ITGMN"/>
-    <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="https://comune.sangemini.tr.it/home.php"/>
-    <tag k="wikidata" v="Q10895"/>
-    <tag k="wikimedia_commons" v="Category:San Gemini"/>
-    <tag k="wikipedia" v="it:San Gemini"/>
   </node>
   <node id="68507862" lat="42.8693370" lon="12.2698590" version="13" timestamp="2024-09-04T15:44:40Z" changeset="156193465" uid="1211510" user="arcanma">
     <tag k="ele" v="465"/>
@@ -33920,13 +33903,14 @@
     <tag k="wikidata" v="Q94972"/>
     <tag k="wikipedia" v="it:Monzuno"/>
   </node>
-  <node id="69300125" lat="44.6461651" lon="11.5332953" version="9" timestamp="2017-05-02T17:39:40Z" changeset="48342192" uid="1834719" user="LvdT">
+  <node id="69300125" lat="44.6461651" lon="11.5332953" version="10" timestamp="2025-08-13T13:15:30Z" changeset="170389541" uid="4425563" user="Danysan95">
     <tag k="gfoss_id" v="4029"/>
     <tag k="name" v="Baricella"/>
     <tag k="name:egl" v="Bariṡèla"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6951"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022609"/>
   </node>
   <node id="69300148" lat="44.2756903" lon="11.5898435" version="12" timestamp="2023-10-30T20:40:57Z" changeset="143386223" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="102"/>
@@ -35164,13 +35148,6 @@
     <tag k="name" v="Carpaneto Piacentino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6881"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301254" lat="44.8983640" lon="9.9613740" version="2" timestamp="2016-09-21T13:17:13Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3841"/>
-    <tag k="name" v="Alseno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4661"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301262" lat="45.0873218" lon="9.5974792" version="10" timestamp="2023-06-15T07:44:50Z" changeset="137357838" uid="19497998" user="branco-revert">
