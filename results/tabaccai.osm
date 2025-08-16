@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-15T03:21:15Z" areas="2025-08-14T22:03:28Z"/>
+<meta osm_base="2025-08-16T03:14:50Z" areas="2025-08-15T22:28:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8280,10 +8280,11 @@
     <tag k="population" v="445"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516411" lat="46.1726750" lon="10.0641264" version="3" timestamp="2024-11-11T15:04:24Z" changeset="159008183" uid="9925732" user="Flight777">
+  <node id="62516411" lat="46.1726750" lon="10.0641264" version="4" timestamp="2025-08-15T16:44:16Z" changeset="170489704" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="1724"/>
     <tag k="name" v="Teglio"/>
     <tag k="name:de" v="Tell"/>
+    <tag k="name:ru" v="Тельо"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4797"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -30725,7 +30726,7 @@
     <tag k="population" v="7357"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529870" lat="40.0943258" lon="18.0637476" version="7" timestamp="2022-01-31T09:23:39Z" changeset="116813661" uid="554973" user="dgitto">
+  <node id="68529870" lat="40.0944649" lon="18.0634273" version="8" timestamp="2025-08-15T10:28:08Z" changeset="170474048" uid="1725439" user="Begavil84">
     <tag k="gfoss_id" v="6327"/>
     <tag k="name" v="Sannicola"/>
     <tag k="place" v="village"/>
@@ -31019,7 +31020,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026664"/>
   </node>
-  <node id="68566453" lat="41.1956230" lon="15.0334430" version="2" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566453" lat="41.1939690" lon="15.0328891" version="3" timestamp="2025-08-15T13:23:48Z" changeset="170480993" uid="1258547" user="Decan">
     <tag k="gfoss_id" v="5482"/>
     <tag k="name" v="Montecalvo Irpino"/>
     <tag k="place" v="village"/>
@@ -44875,9 +44876,10 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q72143884"/>
   </node>
-  <node id="321859985" lat="46.0766465" lon="10.3500680" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="321859985" lat="46.0766465" lon="10.3500680" version="3" timestamp="2025-08-15T17:04:27Z" changeset="170490638" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2217"/>
     <tag k="name" v="Cedegolo"/>
+    <tag k="name:ru" v="Чедеголо"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1261"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -46868,11 +46870,12 @@
     <tag k="name" v="Cologna"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="2116648794" lat="44.0256950" lon="11.7823015" version="5" timestamp="2021-03-12T20:54:55Z" changeset="100932111" uid="4022573" user="Lola Fox">
+  <node id="2116648794" lat="44.0256950" lon="11.7823015" version="6" timestamp="2025-08-15T07:58:30Z" changeset="170467763" uid="4425563" user="Danysan95">
     <tag k="ele" v="309"/>
     <tag k="name" v="Portico di Romagna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="315"/>
+    <tag k="wikidata" v="Q18440198"/>
   </node>
   <node id="2125257945" lat="42.1587709" lon="12.9648326" version="3" timestamp="2016-09-07T16:51:14Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="name" v="Pozzaglia Sabina"/>

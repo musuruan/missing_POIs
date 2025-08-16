@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-15T03:15:13Z" areas="2025-08-14T23:58:45Z"/>
+<meta osm_base="2025-08-16T03:08:45Z" areas="2025-08-15T22:28:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -568,13 +568,6 @@
     <tag k="wikidata" v="Q101545"/>
     <tag k="wikipedia" v="it:San Giovanni Bianco"/>
   </node>
-  <node id="62506686" lat="45.7370097" lon="9.6147850" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="1931"/>
-    <tag k="name" v="Almè"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5540"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62506697" lat="45.8870880" lon="9.9496560" version="6" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2001"/>
     <tag k="name" v="Clusone"/>
@@ -1102,9 +1095,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026836"/>
   </node>
-  <node id="62508012" lat="46.1225810" lon="10.3192116" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508012" lat="46.1225810" lon="10.3192116" version="4" timestamp="2025-08-15T16:38:35Z" changeset="170489454" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2271"/>
     <tag k="name" v="Malonno"/>
+    <tag k="name:ru" v="Малонно"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3326"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -12006,7 +12000,7 @@
     <tag k="population" v="1561"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566453" lat="41.1956230" lon="15.0334430" version="2" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566453" lat="41.1939690" lon="15.0328891" version="3" timestamp="2025-08-15T13:23:48Z" changeset="170480993" uid="1258547" user="Decan">
     <tag k="gfoss_id" v="5482"/>
     <tag k="name" v="Montecalvo Irpino"/>
     <tag k="place" v="village"/>
@@ -19109,9 +19103,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="621"/>
   </node>
-  <node id="321859985" lat="46.0766465" lon="10.3500680" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="321859985" lat="46.0766465" lon="10.3500680" version="3" timestamp="2025-08-15T17:04:27Z" changeset="170490638" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2217"/>
     <tag k="name" v="Cedegolo"/>
+    <tag k="name:ru" v="Чедеголо"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1261"/>
     <tag k="source" v="geodati.gfoss.it"/>

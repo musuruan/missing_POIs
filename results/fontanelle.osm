@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-15T03:18:15Z" areas="2025-08-14T23:58:45Z"/>
+<meta osm_base="2025-08-16T03:11:43Z" areas="2025-08-15T22:28:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3944,14 +3944,6 @@
     <tag k="population" v="1135"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67256773" lat="37.8971862" lon="13.0954120" version="11" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="alt_name:scn" v="Masciɖɖi"/>
-    <tag k="name" v="Camporeale"/>
-    <tag k="name:scn" v="Campurriali"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2923"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
   <node id="67256778" lat="38.1311720" lon="13.1818847" version="12" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Carini"/>
     <tag k="place" v="town"/>
@@ -4347,16 +4339,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1479"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274209" lat="39.1622272" lon="16.4105721" version="4" timestamp="2025-01-05T04:21:14Z" changeset="161009044" uid="21490170" user="evilworld">
-    <tag k="gfoss_id" v="6578"/>
-    <tag k="name" v="Parenti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2328"/>
-    <tag k="postal_code" v="87040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53930"/>
-    <tag k="wikipedia" v="it:Parenti (Italia)"/>
   </node>
   <node id="67274216" lat="39.4875010" lon="16.8158030" version="2" timestamp="2016-08-28T18:58:37Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6584"/>
@@ -5819,7 +5801,7 @@
     <tag k="population" v="4078"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529870" lat="40.0943258" lon="18.0637476" version="7" timestamp="2022-01-31T09:23:39Z" changeset="116813661" uid="554973" user="dgitto">
+  <node id="68529870" lat="40.0944649" lon="18.0634273" version="8" timestamp="2025-08-15T10:28:08Z" changeset="170474048" uid="1725439" user="Begavil84">
     <tag k="gfoss_id" v="6327"/>
     <tag k="name" v="Sannicola"/>
     <tag k="place" v="village"/>
@@ -5942,7 +5924,7 @@
     <tag k="population" v="1561"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566453" lat="41.1956230" lon="15.0334430" version="2" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566453" lat="41.1939690" lon="15.0328891" version="3" timestamp="2025-08-15T13:23:48Z" changeset="170480993" uid="1258547" user="Decan">
     <tag k="gfoss_id" v="5482"/>
     <tag k="name" v="Montecalvo Irpino"/>
     <tag k="place" v="village"/>
@@ -6353,13 +6335,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
   </node>
-  <node id="68569099" lat="41.2773665" lon="14.5428321" version="3" timestamp="2020-11-02T15:45:59Z" changeset="93428965" uid="1258547" user="Decan">
-    <tag k="gfoss_id" v="5321"/>
-    <tag k="name" v="San Lorenzello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2350"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68569197" lat="41.0691180" lon="14.8037400" version="2" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5331"/>
     <tag k="name" v="Sant'Angelo a Cupolo"/>
@@ -6583,13 +6558,6 @@
     <tag k="name" v="Santa Maria a Vico"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14022"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68579957" lat="41.3377360" lon="14.3929016" version="4" timestamp="2016-09-02T23:58:45Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5236"/>
-    <tag k="name" v="San Potito Sannitico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1897"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68579966" lat="40.9665120" lon="14.2680290" version="6" timestamp="2021-10-29T18:04:26Z" changeset="113135731" uid="10622815" user="Italian Technology">
