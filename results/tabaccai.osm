@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-17T03:25:02Z" areas="2025-08-17T02:02:44Z"/>
+<meta osm_base="2025-08-18T03:29:33Z" areas="2025-08-18T02:01:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2171,13 +2171,14 @@
     <tag k="wikidata" v="Q101251"/>
     <tag k="wikipedia" v="it:Montello (Italia)"/>
   </node>
-  <node id="62506849" lat="45.4698770" lon="9.8019610" version="3" timestamp="2025-04-01T16:09:27Z" changeset="164382610" uid="1950277" user="Mannivu">
+  <node id="62506849" lat="45.4698770" lon="9.8019610" version="4" timestamp="2025-08-17T18:57:08Z" changeset="170582607" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2024"/>
     <tag k="name" v="Fontanella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3628"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025782"/>
+    <tag k="wikipedia" v="it:Fontanella"/>
   </node>
   <node id="62506860" lat="45.8115328" lon="9.9031182" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2031"/>
@@ -14805,21 +14806,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4324"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63629394" lat="45.0973834" lon="6.9290646" version="28" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
-    <tag k="alt_name:oc" v="Isiya"/>
-    <tag k="gfoss_id" v="100"/>
-    <tag k="name" v="Exilles"/>
-    <tag k="name:ca" v="Ensilha"/>
-    <tag k="name:fr" v="Exilles"/>
-    <tag k="name:it" v="Exilles"/>
-    <tag k="name:oc" v="Ensilha"/>
-    <tag k="name:pms" v="Isìles"/>
-    <tag k="name:ru" v="Эксиллес"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="284"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
   </node>
   <node id="63629400" lat="45.2171271" lon="7.5210323" version="6" timestamp="2024-02-12T15:56:20Z" changeset="147373404" uid="6645382" user="canfe">
     <tag k="gfoss_id" v="104"/>
@@ -31380,13 +31366,6 @@
     <tag k="population" v="3397"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566943" lat="40.9152160" lon="14.9976460" version="2" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5488"/>
-    <tag k="name" v="Montemarano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3043"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68566973" lat="40.9027195" lon="14.5840934" version="3" timestamp="2016-08-31T23:04:15Z" changeset="41838072" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5477"/>
     <tag k="name" v="Marzano di Nola"/>
@@ -32536,14 +32515,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q58666"/>
     <tag k="wikipedia" v="it:Letino"/>
-  </node>
-  <node id="68580536" lat="40.9693807" lon="14.1917048" version="8" timestamp="2025-08-14T22:36:52Z" changeset="170458167" uid="23132468" user="Thebro7her">
-    <tag k="gfoss_id" v="5202"/>
-    <tag k="name" v="Lusciano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="15362"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q58687"/>
   </node>
   <node id="68580549" lat="41.0633140" lon="14.2737280" version="2" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5203"/>
@@ -46870,13 +46841,6 @@
     <tag k="name" v="Cologna"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="2116648794" lat="44.0256950" lon="11.7823015" version="6" timestamp="2025-08-15T07:58:30Z" changeset="170467763" uid="4425563" user="Danysan95">
-    <tag k="ele" v="309"/>
-    <tag k="name" v="Portico di Romagna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="315"/>
-    <tag k="wikidata" v="Q18440198"/>
-  </node>
   <node id="2125257945" lat="42.1587709" lon="12.9648326" version="3" timestamp="2016-09-07T16:51:14Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="name" v="Pozzaglia Sabina"/>
     <tag k="place" v="village"/>
@@ -47051,11 +47015,6 @@
     <tag k="website" v="http://www.comune.peschici.fg.it/"/>
     <tag k="wikidata" v="Q51944"/>
     <tag k="wikipedia" v="it:Peschici"/>
-  </node>
-  <node id="2510133545" lat="43.9759077" lon="11.7775267" version="3" timestamp="2021-03-13T14:09:50Z" changeset="100954868" uid="4022573" user="Lola Fox">
-    <tag k="name" v="Premilcuore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="799"/>
   </node>
   <node id="2515652152" lat="46.0583563" lon="11.7876309" version="3" timestamp="2016-10-13T15:57:13Z" changeset="42872569" uid="743479" user="fayor">
     <tag k="name" v="Servo"/>
