@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-19T03:12:16Z" areas="2025-08-18T23:17:56Z"/>
+<meta osm_base="2025-08-20T03:10:45Z" areas="2025-08-19T23:11:38Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14465,6 +14465,14 @@
     <tag k="population" v="1163"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="67283947" lat="41.7475300" lon="14.5101240" version="3" timestamp="2016-09-03T02:35:26Z" changeset="41880656" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="6074"/>
+    <tag k="name" v="Salcito"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="620"/>
+    <tag k="postal_code" v="86026"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="67283956" lat="41.8910350" lon="14.7005260" version="2" timestamp="2016-09-03T02:35:26Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="alt_name:hr" v="Filič"/>
     <tag k="gfoss_id" v="6076"/>
@@ -16041,7 +16049,7 @@
     <tag k="reg_name" v="Tajanu"/>
     <tag k="source" v="geodati.gfoss.it;https://demo.istat.it/app/?l=it&amp;a=2024&amp;i=D7B"/>
   </node>
-  <node id="68529797" lat="40.1301258" lon="18.1005072" version="5" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529797" lat="40.1311102" lon="18.1026358" version="6" timestamp="2025-08-19T11:35:21Z" changeset="170664879" uid="1725439" user="Begavil84">
     <tag k="gfoss_id" v="6331"/>
     <tag k="name" v="Seclì"/>
     <tag k="place" v="village"/>
@@ -22906,21 +22914,6 @@
     <tag k="website" v="https://www.comune.pimentel.ca.it/"/>
     <tag k="wikidata" v="Q284481"/>
     <tag k="wikipedia" v="sc:Pramantellu"/>
-  </node>
-  <node id="72990967" lat="39.2070310" lon="8.3809310" version="42" timestamp="2023-04-22T19:47:35Z" changeset="135241553" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7446"/>
-    <tag k="name" v="Portescusi/Portoscuso"/>
-    <tag k="name:it" v="Portoscuso"/>
-    <tag k="name:sc" v="Portescusi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5392"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="ref:LOCODE" v="ITPVE"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.portoscuso.ci.it/"/>
-    <tag k="wikidata" v="Q202704"/>
-    <tag k="wikipedia" v="it:Portoscuso"/>
-    <tag k="wikipedia:sc" v="Portescusi"/>
   </node>
   <node id="72990982" lat="39.5371440" lon="9.1982420" version="40" timestamp="2017-03-03T19:53:47Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7451"/>
