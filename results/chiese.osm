@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-22T03:02:58Z" areas="2025-08-22T01:28:28Z"/>
+<meta osm_base="2025-08-23T02:57:06Z" areas="2025-08-22T23:56:53Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1210,13 +1210,6 @@
     <tag k="name:scn" v="Turretta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4383"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67256961" lat="37.8059480" lon="13.6384550" version="10" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Roccapalumba"/>
-    <tag k="name:scn" v="Roccapalumma"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2119"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67256984" lat="37.8250916" lon="13.5713017" version="10" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
@@ -5647,16 +5640,6 @@
     <tag k="wikidata" v="Q51457"/>
     <tag k="wikipedia" v="it:Nereto"/>
   </node>
-  <node id="72959773" lat="41.7379172" lon="13.6784797" version="6" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5081"/>
-    <tag k="name" v="Campoli Appennino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1804"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q116564"/>
-    <tag k="wikimedia_commons" v="Category:Campoli Appennino"/>
-    <tag k="wikipedia" v="it:Campoli Appennino"/>
-  </node>
   <node id="72959863" lat="41.6792210" lon="13.5514040" version="4" timestamp="2017-03-11T12:49:41Z" changeset="46761722" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="5085"/>
     <tag k="name" v="Castelliri"/>
@@ -5708,15 +5691,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3067"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72960081" lat="41.5871200" lon="13.5851060" version="4" timestamp="2017-03-11T12:49:42Z" changeset="46761722" uid="354284" user="sbiribizio">
-    <tag k="gfoss_id" v="5124"/>
-    <tag k="name" v="Rocca d'Arce"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1031"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q117204"/>
-    <tag k="wikipedia" v="it:Rocca d'Arce"/>
   </node>
   <node id="72960130" lat="41.3672170" lon="13.8409150" version="2" timestamp="2016-09-07T16:57:09Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5131"/>

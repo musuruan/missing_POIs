@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-22T03:05:01Z" areas="2025-08-22T01:25:30Z"/>
+<meta osm_base="2025-08-23T03:00:09Z" areas="2025-08-23T00:20:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5206,7 +5206,7 @@
     <tag k="population" v="2653"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284028" lat="41.8165360" lon="15.0161340" version="4" timestamp="2025-08-09T18:31:51Z" changeset="170216035" uid="15124074" user="Catonif">
+  <node id="67284028" lat="41.8165360" lon="15.0161340" version="5" timestamp="2025-08-22T15:18:50Z" changeset="170838153" uid="15124074" user="Catonif">
     <tag k="gfoss_id" v="6095"/>
     <tag k="name" v="Ururi"/>
     <tag k="name:it" v="Ururi"/>
@@ -5214,6 +5214,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3070"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q278395"/>
   </node>
   <node id="67284030" lat="41.7531249" lon="14.7066085" version="2" timestamp="2019-12-15T16:13:30Z" changeset="78433524" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="6025"/>
@@ -7457,13 +7458,6 @@
     <tag k="name" v="Belmonte Piceno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="675"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70980582" lat="42.8986697" lon="13.6663867" version="3" timestamp="2016-09-09T17:36:28Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4338"/>
-    <tag k="name" v="Appignano del Tronto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1977"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70980614" lat="43.1497719" lon="13.4754066" version="3" timestamp="2016-09-09T17:36:37Z" changeset="42039680" uid="743479" user="fayor">
