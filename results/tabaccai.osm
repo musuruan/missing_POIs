@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-24T03:18:44Z" areas="2025-08-23T21:31:15Z"/>
+<meta osm_base="2025-08-25T03:15:02Z" areas="2025-08-25T00:25:22Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1057,12 +1057,13 @@
     <tag k="wikidata" v="Q99965"/>
     <tag k="wikipedia" v="it:Bedulita"/>
   </node>
-  <node id="62505642" lat="45.5092097" lon="9.8509786" version="8" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62505642" lat="45.5092097" lon="9.8509786" version="9" timestamp="2025-08-24T14:30:36Z" changeset="170928256" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1970"/>
     <tag k="name" v="Calcio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4799"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023351"/>
   </node>
   <node id="62505654" lat="45.4949814" lon="9.6012863" version="3" timestamp="2019-04-28T08:57:42Z" changeset="69658059" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1972"/>
@@ -1648,12 +1649,13 @@
     <tag k="population" v="4567"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506383" lat="45.5003219" lon="9.7701068" version="3" timestamp="2020-02-08T08:32:51Z" changeset="80717089" uid="1950277" user="Mannivu">
+  <node id="62506383" lat="45.5003219" lon="9.7701068" version="4" timestamp="2025-08-24T14:30:31Z" changeset="170928256" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2011"/>
     <tag k="name" v="Covo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3154"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025245"/>
   </node>
   <node id="62506389" lat="45.6619810" lon="9.7939570" version="3" timestamp="2024-05-08T07:08:19Z" changeset="151040005" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2008"/>
@@ -29884,13 +29886,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51851"/>
   </node>
-  <node id="68528719" lat="40.8285595" lon="16.5527314" version="32" timestamp="2025-07-16T09:55:36Z" changeset="169004547" uid="23100852" user="Kappat704">
-    <tag k="addr:street" v="contrada sgarrone"/>
-    <tag k="amenity" v="restaurant"/>
+  <node id="68528719" lat="40.8285595" lon="16.5527314" version="33" timestamp="2025-08-24T10:57:52Z" changeset="170917804" uid="16146608" user="McCio">
     <tag k="gfoss_id" v="6164"/>
     <tag k="name" v="Altamura"/>
     <tag k="name:ml" v="അൽറ്റമൂറ"/>
     <tag k="name:ru" v="Альтамура"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="70396"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q19306"/>
