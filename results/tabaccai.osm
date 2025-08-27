@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-26T03:09:11Z" areas="2025-08-25T23:35:14Z"/>
+<meta osm_base="2025-08-27T03:04:15Z" areas="2025-08-26T22:12:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14969,13 +14969,6 @@
     <tag k="population" v="770"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629692" lat="45.3982580" lon="7.9603220" version="4" timestamp="2023-01-17T19:58:03Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="56"/>
-    <tag k="name" v="Caravino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1008"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63629705" lat="45.3433486" lon="7.3801242" version="7" timestamp="2023-01-17T19:58:54Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="54"/>
     <tag k="name" v="Cantoira"/>
@@ -17589,13 +17582,14 @@
     <tag k="population" v="2617"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776879" lat="46.0713520" lon="11.4716722" version="4" timestamp="2020-01-20T20:57:05Z" changeset="79817386" uid="8445331" user="JuaFritz">
+  <node id="64776879" lat="46.0713520" lon="11.4716722" version="5" timestamp="2025-08-26T11:35:39Z" changeset="171024469" uid="20939356" user="bashlnx">
     <tag k="gfoss_id" v="3053"/>
     <tag k="loc_name" v="Telve de Sora"/>
     <tag k="name" v="Telve di Sopra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="612"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031043"/>
   </node>
   <node id="64776898" lat="46.0363045" lon="10.7269092" version="11" timestamp="2025-05-18T21:39:27Z" changeset="166449877" uid="1726102" user="AlessioMela">
     <tag k="name" v="Tione di Trento"/>
@@ -17621,13 +17615,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1175"/>
     <tag k="postal_code" v="38010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64776918" lat="46.0713276" lon="11.4795917" version="3" timestamp="2016-10-25T21:33:26Z" changeset="43173645" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3052"/>
-    <tag k="name" v="Telve"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1887"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64776927" lat="46.4047110" lon="11.0192710" version="7" timestamp="2020-08-28T16:18:46Z" changeset="90091004" uid="8445331" user="JuaFritz">
@@ -17681,24 +17668,6 @@
     <tag k="population" v="397"/>
     <tag k="wikidata" v="Q328049"/>
     <tag k="wikipedia" v="it:Villa Rendena"/>
-  </node>
-  <node id="64776950" lat="46.0170354" lon="11.6359415" version="7" timestamp="2025-05-20T19:58:38Z" changeset="166540624" uid="1726102" user="AlessioMela">
-    <tag k="gfoss_id" v="2959"/>
-    <tag k="name" v="Grigno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2340"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026227"/>
-  </node>
-  <node id="64776973" lat="46.0693085" lon="11.6080910" version="8" timestamp="2023-11-02T12:12:46Z" changeset="143527432" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="843"/>
-    <tag k="gfoss_id" v="3006"/>
-    <tag k="loc_name" v="Pieve"/>
-    <tag k="name" v="Pieve Tesino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="772"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.pievetesino.tn.it/"/>
   </node>
   <node id="64776977" lat="45.9280990" lon="11.0430800" version="5" timestamp="2020-01-20T22:04:36Z" changeset="79819133" uid="8445331" user="JuaFritz">
     <tag k="gfoss_id" v="3008"/>
@@ -23138,15 +23107,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q248807"/>
     <tag k="wikipedia" v="it:San Biagio della Cima"/>
-  </node>
-  <node id="66586902" lat="43.8383252" lon="7.8826679" version="4" timestamp="2022-06-08T17:37:39Z" changeset="122128534" uid="15596130" user="NJH_osm">
-    <tag k="gfoss_id" v="1171"/>
-    <tag k="name" v="Riva Ligure"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2747"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q269704"/>
-    <tag k="wikipedia" v="it:Riva Ligure"/>
   </node>
   <node id="66586909" lat="43.8264060" lon="7.6945093" version="5" timestamp="2023-08-16T06:13:48Z" changeset="139945908" uid="16472431" user="Mertlík Vojtěch">
     <tag k="gfoss_id" v="1178"/>
@@ -45745,17 +45705,6 @@
     <tag k="name" v="Montecorvino Pugliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1039"/>
-  </node>
-  <node id="1153236252" lat="46.0516232" lon="11.4103025" version="9" timestamp="2020-10-05T20:15:27Z" changeset="92006133" uid="8445331" user="JuaFritz">
-    <tag k="loc_name" v="Ronzegno"/>
-    <tag k="name" v="Roncegno Terme"/>
-    <tag k="name:cim" v="Rontschòi"/>
-    <tag k="name:it" v="Roncegno Terme"/>
-    <tag k="name:mhn" v="Rontschai'"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2879"/>
-    <tag k="wikidata" v="Q300962"/>
-    <tag k="wikipedia" v="it:Roncegno Terme"/>
   </node>
   <node id="1172796006" lat="45.5429525" lon="10.8839737" version="2" timestamp="2016-10-09T16:06:39Z" changeset="42757067" uid="743479" user="fayor">
     <tag k="ele" v="198"/>

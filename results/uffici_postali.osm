@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-26T03:03:13Z" areas="2025-08-25T23:35:14Z"/>
+<meta osm_base="2025-08-27T02:57:01Z" areas="2025-08-26T20:55:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6061,13 +6061,6 @@
     <tag k="population" v="5799"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629692" lat="45.3982580" lon="7.9603220" version="4" timestamp="2023-01-17T19:58:03Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="56"/>
-    <tag k="name" v="Caravino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1008"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63629729" lat="45.0520303" lon="7.4304703" version="5" timestamp="2024-07-10T08:13:38Z" changeset="153772507" uid="21168218" user="mizioasr">
     <tag k="gfoss_id" v="211"/>
     <tag k="name" v="Reano"/>
@@ -6792,14 +6785,6 @@
     <tag k="population" v="499"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776793" lat="46.0806791" lon="11.5540415" version="7" timestamp="2020-01-20T21:23:40Z" changeset="79818128" uid="8445331" user="JuaFritz">
-    <tag k="gfoss_id" v="2880"/>
-    <tag k="loc_name" v="Bién"/>
-    <tag k="name" v="Bieno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="441"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64776800" lat="46.1191034" lon="10.7588619" version="4" timestamp="2025-05-18T21:42:31Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2883"/>
     <tag k="name" v="Bocenago"/>
@@ -6890,13 +6875,14 @@
     <tag k="postal_code" v="38040"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776879" lat="46.0713520" lon="11.4716722" version="4" timestamp="2020-01-20T20:57:05Z" changeset="79817386" uid="8445331" user="JuaFritz">
+  <node id="64776879" lat="46.0713520" lon="11.4716722" version="5" timestamp="2025-08-26T11:35:39Z" changeset="171024469" uid="20939356" user="bashlnx">
     <tag k="gfoss_id" v="3053"/>
     <tag k="loc_name" v="Telve de Sora"/>
     <tag k="name" v="Telve di Sopra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="612"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031043"/>
   </node>
   <node id="64776900" lat="46.1036010" lon="10.7393700" version="3" timestamp="2025-05-18T21:42:30Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3043"/>
@@ -6916,16 +6902,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="858"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64776973" lat="46.0693085" lon="11.6080910" version="8" timestamp="2023-11-02T12:12:46Z" changeset="143527432" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="843"/>
-    <tag k="gfoss_id" v="3006"/>
-    <tag k="loc_name" v="Pieve"/>
-    <tag k="name" v="Pieve Tesino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="772"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.pievetesino.tn.it/"/>
   </node>
   <node id="64776984" lat="46.0228177" lon="11.3664341" version="5" timestamp="2024-11-17T22:44:14Z" changeset="159262133" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2993"/>
