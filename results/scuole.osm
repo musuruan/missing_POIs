@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-27T03:05:15Z" areas="2025-08-26T22:12:59Z"/>
+<meta osm_base="2025-08-28T03:04:04Z" areas="2025-08-27T21:33:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2023,9 +2023,10 @@
     <tag k="population" v="534"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510530" lat="45.2518730" lon="9.9616680" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510530" lat="45.2518730" lon="9.9616680" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2582"/>
     <tag k="name" v="Casalbuttano"/>
+    <tag k="name:ru" v="Каcальбуттано"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4093"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -2078,9 +2079,10 @@
     <tag k="population" v="670"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510747" lat="45.2445720" lon="9.8794660" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510747" lat="45.2445720" lon="9.8794660" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2569"/>
     <tag k="name" v="Annicco"/>
+    <tag k="name:ru" v="Анникко"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1897"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8341,6 +8343,13 @@
     <tag k="name" v="Casalborgone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1704"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="63629692" lat="45.3982580" lon="7.9603220" version="4" timestamp="2023-01-17T19:58:03Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+    <tag k="gfoss_id" v="56"/>
+    <tag k="name" v="Caravino"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1008"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63629705" lat="45.3433486" lon="7.3801242" version="7" timestamp="2023-01-17T19:58:54Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -20195,15 +20204,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024835"/>
   </node>
-  <node id="70992527" lat="42.0843238" lon="13.5462069" version="4" timestamp="2020-11-24T00:22:15Z" changeset="94667890" uid="7022493" user="Fra00">
-    <tag k="gfoss_id" v="5739"/>
-    <tag k="name" v="Celano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11017"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q50079"/>
-    <tag k="wikipedia" v="it:Celano"/>
-  </node>
   <node id="70992540" lat="42.0590300" lon="13.6257000" version="3" timestamp="2025-02-04T08:38:07Z" changeset="162115161" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5745"/>
     <tag k="name" v="Collarmele"/>
@@ -25141,10 +25141,6 @@
     <tag k="name" v="Minervino Murge"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9032"/>
-  </node>
-  <node id="559501062" lat="45.7639422" lon="6.9853467" version="6" timestamp="2023-06-25T21:31:26Z" changeset="137767583" uid="18892689" user="ComitéNosAccents">
-    <tag k="name" v="Pré-Saint-Didier"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="601456306" lat="43.9973334" lon="10.2956470" version="9" timestamp="2025-08-01T10:45:04Z" changeset="169811051" uid="4742466" user="vaizeman">
     <tag k="name" v="Pontestazzemese"/>

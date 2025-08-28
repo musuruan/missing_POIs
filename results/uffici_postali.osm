@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-27T02:57:01Z" areas="2025-08-26T20:55:19Z"/>
+<meta osm_base="2025-08-28T02:57:02Z" areas="2025-08-27T19:53:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1583,9 +1583,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18488299"/>
   </node>
-  <node id="62510530" lat="45.2518730" lon="9.9616680" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510530" lat="45.2518730" lon="9.9616680" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2582"/>
     <tag k="name" v="Casalbuttano"/>
+    <tag k="name:ru" v="Каcальбуттано"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4093"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -1638,15 +1639,17 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029382"/>
   </node>
-  <node id="62510729" lat="45.1868847" lon="9.7824836" version="12" timestamp="2024-11-23T20:09:51Z" changeset="159513014" uid="1950277" user="Mannivu">
+  <node id="62510729" lat="45.1868847" lon="9.7824836" version="13" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="name" v="Pizzighettone"/>
+    <tag k="name:ru" v="Пиццигеттоне"/>
     <tag k="place" v="town"/>
     <tag k="population" v="6785"/>
     <tag k="wikidata" v="Q30028924"/>
   </node>
-  <node id="62510747" lat="45.2445720" lon="9.8794660" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510747" lat="45.2445720" lon="9.8794660" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2569"/>
     <tag k="name" v="Annicco"/>
+    <tag k="name:ru" v="Анникко"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1897"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -6059,6 +6062,13 @@
     <tag k="name" v="Cambiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5799"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="63629692" lat="45.3982580" lon="7.9603220" version="4" timestamp="2023-01-17T19:58:03Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+    <tag k="gfoss_id" v="56"/>
+    <tag k="name" v="Caravino"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1008"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63629729" lat="45.0520303" lon="7.4304703" version="5" timestamp="2024-07-10T08:13:38Z" changeset="153772507" uid="21168218" user="mizioasr">

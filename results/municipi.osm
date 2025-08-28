@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-27T02:56:00Z" areas="2025-08-26T22:12:59Z"/>
+<meta osm_base="2025-08-28T02:56:00Z" areas="2025-08-27T21:33:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3658,30 +3658,6 @@
     <tag k="wikidata" v="Q224328"/>
     <tag k="wikipedia" v="it:Poggio San Lorenzo"/>
   </node>
-  <node id="72962495" lat="41.9616174" lon="12.9409322" version="6" timestamp="2024-05-19T15:59:38Z" changeset="151540958" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/profile.php?id=100064675309871"/>
-    <tag k="gfoss_id" v="4941"/>
-    <tag k="name" v="Ciciliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1133"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.ciciliano.rm.it/"/>
-    <tag k="wikidata" v="Q242521"/>
-    <tag k="wikimedia_commons" v="Category:Ciciliano"/>
-    <tag k="wikipedia" v="it:Ciciliano"/>
-  </node>
-  <node id="72962543" lat="41.9769358" lon="12.8691904" version="6" timestamp="2024-08-08T10:43:47Z" changeset="154972361" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/Comune-Castel-Madama-386771514839637/"/>
-    <tag k="gfoss_id" v="4934"/>
-    <tag k="name" v="Castel Madama"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7399"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comunedicastelmadama.it/"/>
-    <tag k="wikidata" v="Q242114"/>
-    <tag k="wikimedia_commons" v="Category:Castel Madama"/>
-    <tag k="wikipedia" v="it:Castel Madama"/>
-  </node>
   <node id="72962554" lat="42.1253987" lon="12.5007367" version="5" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
     <tag k="contact:facebook" v="https://www.facebook.com/comunecastelnuovodiporto/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/comune_castelnuovodiporto/"/>
@@ -3729,16 +3705,6 @@
     <tag k="population" v="502"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72962834" lat="42.0498018" lon="12.9002574" version="4" timestamp="2023-09-18T10:48:39Z" changeset="141418245" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4998"/>
-    <tag k="name" v="Roccagiovine"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="297"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q243236"/>
-    <tag k="wikimedia_commons" v="Category:Roccagiovine"/>
-    <tag k="wikipedia" v="it:Roccagiovine"/>
-  </node>
   <node id="72962857" lat="42.2577967" lon="12.5716266" version="4" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4991"/>
     <tag k="name" v="Ponzano Romano"/>
@@ -3759,37 +3725,6 @@
     <tag k="wikidata" v="Q243152"/>
     <tag k="wikimedia_commons" v="Category:Pisoniano"/>
     <tag k="wikipedia" v="it:Pisoniano"/>
-  </node>
-  <node id="72962891" lat="42.0666330" lon="12.7658115" version="6" timestamp="2023-09-18T10:48:39Z" changeset="141418245" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4986"/>
-    <tag k="name" v="Palombara Sabina"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13269"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q243143"/>
-    <tag k="wikimedia_commons" v="Category:Palombara Sabina"/>
-    <tag k="wikipedia" v="it:Palombara Sabina"/>
-  </node>
-  <node id="72962994" lat="42.1170960" lon="12.7716393" version="5" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4978"/>
-    <tag k="name" v="Moricone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2354"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q243015"/>
-    <tag k="wikimedia_commons" v="Category:Moricone"/>
-    <tag k="wikipedia" v="it:Moricone"/>
-  </node>
-  <node id="72963089" lat="42.0095240" lon="12.9890870" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4917"/>
-    <tag k="name" v="Anticoli Corrado"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="910"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.anticolicorrado.rm.it/"/>
-    <tag k="wikidata" v="Q241708"/>
-    <tag k="wikimedia_commons" v="Category:Anticoli Corrado"/>
-    <tag k="wikipedia" v="it:Anticoli Corrado"/>
   </node>
   <node id="72963142" lat="41.8629967" lon="12.9518024" version="5" timestamp="2023-11-26T18:08:59Z" changeset="144480817" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4930"/>
@@ -3818,33 +3753,6 @@
     <tag k="wikimedia_commons" v="Category:Sacrofano"/>
     <tag k="wikipedia" v="it:Sacrofano"/>
   </node>
-  <node id="72963255" lat="41.9861230" lon="12.9379860" version="3" timestamp="2023-09-17T15:09:17Z" changeset="141386285" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5005"/>
-    <tag k="name" v="Sambuci"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="891"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q243324"/>
-    <tag k="wikimedia_commons" v="Category:Sambuci"/>
-    <tag k="wikipedia" v="it:Sambuci"/>
-  </node>
-  <node id="72963285" lat="42.0038627" lon="12.9528696" version="3" timestamp="2016-09-07T18:50:33Z" changeset="41986239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5012"/>
-    <tag k="name" v="Saracinesco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="178"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72963306" lat="42.0351220" lon="12.7126810" version="3" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5009"/>
-    <tag k="name" v="Sant'Angelo Romano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5018"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q243408"/>
-    <tag k="wikimedia_commons" v="Category:Sant'Angelo Romano"/>
-    <tag k="wikipedia" v="it:Sant'Angelo Romano"/>
-  </node>
   <node id="72963435" lat="42.2347915" lon="12.5189050" version="4" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5010"/>
     <tag k="name" v="Sant'Oreste"/>
@@ -3865,17 +3773,6 @@
     <tag k="wikidata" v="Q243525"/>
     <tag k="wikimedia_commons" v="Category:Vivaro Romano"/>
     <tag k="wikipedia" v="it:Vivaro Romano"/>
-  </node>
-  <node id="72963487" lat="42.0179411" lon="12.8972303" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5023"/>
-    <tag k="name" v="Vicovaro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3714"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunedivicovaro.it/"/>
-    <tag k="wikidata" v="Q243521"/>
-    <tag k="wikimedia_commons" v="Category:Vicovaro"/>
-    <tag k="wikipedia" v="it:Vicovaro"/>
   </node>
   <node id="72963562" lat="42.2197263" lon="12.4259417" version="4" timestamp="2018-12-06T11:26:50Z" changeset="65235528" uid="3151555" user="Dino Michelini">
     <tag k="ele" v="220"/>
@@ -3944,20 +3841,6 @@
     <tag k="wikimedia_commons" v="Category:Vasanello"/>
     <tag k="wikipedia" v="it:Vasanello"/>
   </node>
-  <node id="72963887" lat="42.4782061" lon="11.7904865" version="3" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4829"/>
-    <tag k="name" v="Tessennano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="420"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72963944" lat="42.4639626" lon="11.7495088" version="5" timestamp="2019-09-04T19:46:27Z" changeset="74102910" uid="8331873" user="deizenov">
-    <tag k="gfoss_id" v="4790"/>
-    <tag k="name" v="Canino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5072"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72964078" lat="42.6441069" lon="11.9849554" version="4" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4786"/>
     <tag k="name" v="Bolsena"/>
@@ -4012,13 +3895,6 @@
     <tag k="wikidata" v="Q180355"/>
     <tag k="wikimedia_commons" v="Category:Vitorchiano"/>
     <tag k="wikipedia" v="it:Vitorchiano"/>
-  </node>
-  <node id="72964374" lat="42.4628240" lon="11.8206550" version="2" timestamp="2016-09-07T16:51:05Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4780"/>
-    <tag k="name" v="Arlena di Castro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="867"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72964397" lat="42.5339112" lon="11.9249120" version="3" timestamp="2016-09-07T16:51:12Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4812"/>

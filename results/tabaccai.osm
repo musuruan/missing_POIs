@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-27T03:04:15Z" areas="2025-08-26T22:12:59Z"/>
+<meta osm_base="2025-08-28T03:03:05Z" areas="2025-08-27T21:33:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4228,9 +4228,10 @@
     <tag k="population" v="534"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510530" lat="45.2518730" lon="9.9616680" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510530" lat="45.2518730" lon="9.9616680" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2582"/>
     <tag k="name" v="Casalbuttano"/>
+    <tag k="name:ru" v="Каcальбуттано"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4093"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -4314,15 +4315,17 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029382"/>
   </node>
-  <node id="62510729" lat="45.1868847" lon="9.7824836" version="12" timestamp="2024-11-23T20:09:51Z" changeset="159513014" uid="1950277" user="Mannivu">
+  <node id="62510729" lat="45.1868847" lon="9.7824836" version="13" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="name" v="Pizzighettone"/>
+    <tag k="name:ru" v="Пиццигеттоне"/>
     <tag k="place" v="town"/>
     <tag k="population" v="6785"/>
     <tag k="wikidata" v="Q30028924"/>
   </node>
-  <node id="62510747" lat="45.2445720" lon="9.8794660" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510747" lat="45.2445720" lon="9.8794660" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2569"/>
     <tag k="name" v="Annicco"/>
+    <tag k="name:ru" v="Анникко"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1897"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -5294,8 +5297,9 @@
     <tag k="population" v="7312"/>
     <tag k="wikidata" v="Q30030800"/>
   </node>
-  <node id="62512095" lat="45.2871222" lon="9.8570508" version="11" timestamp="2023-10-24T18:11:47Z" changeset="143077559" uid="20500231" user="fabiotolni">
+  <node id="62512095" lat="45.2871222" lon="9.8570508" version="12" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="name" v="Soresina"/>
+    <tag k="name:ru" v="Сорезина"/>
     <tag k="place" v="town"/>
     <tag k="population" v="8644"/>
   </node>
@@ -5960,9 +5964,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1300"/>
   </node>
-  <node id="62513057" lat="45.1600664" lon="9.7043700" version="6" timestamp="2020-02-25T20:41:50Z" changeset="81472192" uid="478872" user="mcheck">
+  <node id="62513057" lat="45.1600664" lon="9.7043700" version="7" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="7878"/>
     <tag k="name" v="Codogno"/>
+    <tag k="name:ru" v="Кодоньо"/>
     <tag k="place" v="town"/>
     <tag k="population" v="15439"/>
     <tag k="postal_code" v="26845"/>
@@ -14969,6 +14974,13 @@
     <tag k="population" v="770"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="63629692" lat="45.3982580" lon="7.9603220" version="4" timestamp="2023-01-17T19:58:03Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+    <tag k="gfoss_id" v="56"/>
+    <tag k="name" v="Caravino"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1008"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="63629705" lat="45.3433486" lon="7.3801242" version="7" timestamp="2023-01-17T19:58:54Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="54"/>
     <tag k="name" v="Cantoira"/>
@@ -18217,16 +18229,17 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q23759754"/>
   </node>
-  <node id="64777154" lat="46.6280688" lon="10.7734765" version="17" timestamp="2023-10-09T15:40:02Z" changeset="142355640" uid="4238158" user="RiderOnTheStorm">
+  <node id="64777154" lat="46.6280688" lon="10.7734765" version="18" timestamp="2025-08-27T08:56:58Z" changeset="171068110" uid="4365159" user="wildmaps">
     <tag k="ele" v="721"/>
     <tag k="gfoss_id" v="2842"/>
     <tag k="name" v="Schlanders - Silandro"/>
     <tag k="name:de" v="Schlanders"/>
     <tag k="name:it" v="Silandro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5733"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="6371"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.silandro.bz.it/"/>
+    <tag k="source:population" v="Istat"/>
     <tag k="wikidata" v="Q494313"/>
     <tag k="wikimedia_commons" v="Category:Schlanders"/>
     <tag k="wikipedia" v="de:Schlanders"/>
@@ -18351,14 +18364,16 @@
     <tag k="wikidata" v="Q258810"/>
     <tag k="wikipedia" v="it:Salorno sulla Strada del Vino"/>
   </node>
-  <node id="64777194" lat="46.7328719" lon="12.2791673" version="9" timestamp="2024-12-23T15:00:14Z" changeset="160541562" uid="11355435" user="ADAC Touristische InfoSysteme">
+  <node id="64777194" lat="46.7327834" lon="12.2820039" version="10" timestamp="2025-08-27T08:54:54Z" changeset="171068009" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="2828"/>
     <tag k="name" v="Innichen - San Candido"/>
     <tag k="name:de" v="Innichen"/>
     <tag k="name:it" v="San Candido"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3107"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="3294"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="Istat"/>
     <tag k="wikidata" v="Q474782"/>
   </node>
   <node id="64777199" lat="46.5350348" lon="11.3313839" version="20" timestamp="2022-01-24T11:33:59Z" changeset="116537291" uid="14928972" user="Fabelhaft-it">
@@ -22381,10 +22396,10 @@
     <tag k="population" v="1754"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503541" lat="46.4140956" lon="12.9207476" version="9" timestamp="2025-07-15T13:55:01Z" changeset="168966887" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503541" lat="46.4140956" lon="12.9207476" version="10" timestamp="2025-08-27T08:24:16Z" changeset="171066726" uid="684800" user="fabiotofy">
     <tag k="gfoss_id" v="3804"/>
     <tag k="loc_name:fur" v="Vile"/>
-    <tag k="name" v="Villa Santina / Vile"/>
+    <tag k="name" v="Villa Santina"/>
     <tag k="name:fur" v="Vile di Cjargne"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2194"/>
@@ -38056,16 +38071,6 @@
     <tag k="population" v="539"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993848" lat="42.6771049" lon="13.8179397" version="6" timestamp="2025-02-28T01:13:41Z" changeset="163033485" uid="8188604" user="Taftetor">
-    <tag k="gfoss_id" v="5826"/>
-    <tag k="name" v="Castellalto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7513"/>
-    <tag k="postal_code" v="64020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51430"/>
-    <tag k="wikipedia" v="it:Castellalto"/>
-  </node>
   <node id="70993854" lat="42.5337046" lon="13.9170108" version="7" timestamp="2020-07-24T11:18:04Z" changeset="88454453" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5829"/>
     <tag k="name" v="Castilenti"/>
@@ -45177,10 +45182,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3882"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="559501062" lat="45.7639422" lon="6.9853467" version="6" timestamp="2023-06-25T21:31:26Z" changeset="137767583" uid="18892689" user="ComitéNosAccents">
-    <tag k="name" v="Pré-Saint-Didier"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="571661020" lat="45.1119923" lon="11.6185038" version="3" timestamp="2016-10-07T16:55:17Z" changeset="42715408" uid="743479" user="fayor">
     <tag k="name" v="Ca' Morosini"/>

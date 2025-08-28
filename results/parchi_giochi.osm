@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-27T03:02:15Z" areas="2025-08-26T22:12:59Z"/>
+<meta osm_base="2025-08-28T03:00:59Z" areas="2025-08-27T21:33:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1523,9 +1523,10 @@
     <tag k="population" v="534"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510530" lat="45.2518730" lon="9.9616680" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510530" lat="45.2518730" lon="9.9616680" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2582"/>
     <tag k="name" v="Casalbuttano"/>
+    <tag k="name:ru" v="Каcальбуттано"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4093"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -1581,9 +1582,10 @@
     <tag k="population" v="670"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510747" lat="45.2445720" lon="9.8794660" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62510747" lat="45.2445720" lon="9.8794660" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2569"/>
     <tag k="name" v="Annicco"/>
+    <tag k="name:ru" v="Анникко"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1897"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -6246,13 +6248,6 @@
     <tag k="population" v="2048"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629820" lat="45.1427480" lon="7.5358170" version="4" timestamp="2023-01-17T19:58:55Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="243"/>
-    <tag k="name" v="San Gillio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2606"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63629829" lat="45.2912520" lon="7.6303170" version="4" timestamp="2023-01-17T19:56:41Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="21"/>
     <tag k="name" v="Barbania"/>
@@ -8702,14 +8697,6 @@
     <tag k="name" v="Roccavignale"/>
     <tag k="place" v="village"/>
     <tag k="population" v="547"/>
-  </node>
-  <node id="66587108" lat="44.0004199" lon="8.0580389" version="3" timestamp="2016-09-26T02:22:03Z" changeset="42435134" uid="743479" user="fayor">
-    <tag k="alt_name" v="Rossi"/>
-    <tag k="gfoss_id" v="1247"/>
-    <tag k="name" v="Stellanello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="754"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66587113" lat="44.0702888" lon="8.0500191" version="5" timestamp="2024-08-01T22:07:03Z" changeset="154712550" uid="21800793" user="Arbenganese">
     <tag k="gfoss_id" v="1231"/>
