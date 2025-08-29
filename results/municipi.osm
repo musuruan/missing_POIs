@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-28T02:56:00Z" areas="2025-08-27T21:33:02Z"/>
+<meta osm_base="2025-08-29T02:55:59Z" areas="2025-08-29T00:21:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3379,15 +3379,6 @@
     <tag k="wikidata" v="Q117204"/>
     <tag k="wikipedia" v="it:Rocca d'Arce"/>
   </node>
-  <node id="72961101" lat="42.4447959" lon="12.7518078" version="5" timestamp="2017-03-11T12:49:47Z" changeset="46761722" uid="354284" user="sbiribizio">
-    <tag k="gfoss_id" v="4869"/>
-    <tag k="name" v="Greccio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1529"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q224144"/>
-    <tag k="wikipedia" v="it:Greccio"/>
-  </node>
   <node id="72961212" lat="42.2510280" lon="12.8042790" version="2" timestamp="2016-09-07T16:51:07Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4849"/>
     <tag k="name" v="Casaprota"/>
@@ -3401,14 +3392,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="176"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72961227" lat="42.4982226" lon="12.7786892" version="4" timestamp="2018-09-05T07:34:18Z" changeset="62301613" uid="8588825" user="Frank Fiorucci">
-    <tag k="gfoss_id" v="4860"/>
-    <tag k="name" v="Colli sul Velino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="516"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="uri:filas" v="http://193.178.216.227/ontoir-web/getRDF?fqName=urn:turismoculturale.itdc.filas-1.0.0-RC1%23turismoCulturale_POI_159"/>
   </node>
   <node id="72961250" lat="42.2095575" lon="12.7292119" version="34" timestamp="2024-09-10T21:42:18Z" changeset="156458785" uid="3643075" user="ASD Sabina Trekking">
     <tag k="alt_name" v="Fara Sabina"/>
@@ -3428,30 +3411,12 @@
     <tag k="population" v="180"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961293" lat="42.2459270" lon="12.6920770" version="5" timestamp="2023-10-02T20:40:00Z" changeset="142057819" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4882"/>
-    <tag k="name" v="Montopoli di Sabina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4138"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q224259"/>
-    <tag k="wikimedia_commons" v="Category:Montopoli di Sabina"/>
-    <tag k="wikipedia" v="it:Montopoli di Sabina"/>
-  </node>
   <node id="72961364" lat="42.1962280" lon="12.9965840" version="2" timestamp="2016-09-07T16:51:05Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4842"/>
     <tag k="name" v="Ascrea"/>
     <tag k="place" v="village"/>
     <tag k="population" v="284"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72961408" lat="42.4673879" lon="12.9037918" version="4" timestamp="2017-05-06T14:28:37Z" changeset="48453659" uid="3435810" user="Alessandro Antonelli">
-    <tag k="gfoss_id" v="4847"/>
-    <tag k="name" v="Cantalice"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2875"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="uri:filas" v="http://193.178.216.227/ontoir-web/getRDF?fqName=urn:turismoculturale.itdc.filas-1.0.0-RC1%23turismoCulturale_POI_154"/>
   </node>
   <node id="72961447" lat="42.3176537" lon="12.8927790" version="2" timestamp="2015-10-20T18:36:49Z" changeset="34762589" uid="178610" user="Pab09">
     <tag k="gfoss_id" v="4843"/>
@@ -3519,20 +3484,6 @@
     <tag k="wikidata" v="Q224719"/>
     <tag k="wikipedia" v="it:Varco Sabino"/>
   </node>
-  <node id="72961860" lat="42.3397290" lon="12.6707750" version="2" timestamp="2016-09-07T16:51:07Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4850"/>
-    <tag k="name" v="Casperia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1081"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72961871" lat="42.3047319" lon="12.6500534" version="3" timestamp="2016-09-07T16:51:07Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4848"/>
-    <tag k="name" v="Cantalupo in Sabina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1621"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72961877" lat="42.4060330" lon="13.0592830" version="3" timestamp="2025-02-04T09:35:53Z" changeset="162117205" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="4846"/>
     <tag k="name" v="Borgo Velino"/>
@@ -3548,20 +3499,6 @@
     <tag k="population" v="272"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961952" lat="42.3530290" lon="12.6385740" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4908"/>
-    <tag k="name" v="Torri in Sabina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1197"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72961965" lat="42.3559280" lon="12.5949730" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4905"/>
-    <tag k="name" v="Tarano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1198"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72961976" lat="42.1655328" lon="12.8419253" version="6" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4902"/>
     <tag k="name" v="Scandriglia"/>
@@ -3571,17 +3508,6 @@
     <tag k="wikidata" v="Q224521"/>
     <tag k="wikimedia_commons" v="Category:Scandriglia"/>
     <tag k="wikipedia" v="it:Scandriglia"/>
-  </node>
-  <node id="72961991" lat="42.5266508" lon="12.8323214" version="5" timestamp="2023-10-27T00:00:08Z" changeset="143186836" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="4883"/>
-    <tag k="name" v="Morro Reatino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="371"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia:it 31-12-2010"/>
-    <tag k="website" v="https://www.comune.morroreatino.ri.it/"/>
-    <tag k="wikidata" v="Q224264"/>
-    <tag k="wikipedia" v="it:Morro Reatino"/>
   </node>
   <node id="72962014" lat="42.2343364" lon="12.8561549" version="3" timestamp="2017-03-22T11:02:08Z" changeset="47063359" uid="234178" user="vlattanzi">
     <tag k="gfoss_id" v="4879"/>
@@ -3684,27 +3610,6 @@
     <tag k="wikimedia_commons" v="Category:Canterano"/>
     <tag k="wikipedia" v="it:Canterano"/>
   </node>
-  <node id="72962733" lat="42.0825210" lon="12.4002730" version="6" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/comuneformello"/>
-    <tag k="contact:twitter" v="https://twitter.com/comuneformello"/>
-    <tag k="ele" v="243"/>
-    <tag k="gfoss_id" v="4949"/>
-    <tag k="name" v="Formello"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12918"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.formello.rm.it/"/>
-    <tag k="wikidata" v="Q242645"/>
-    <tag k="wikimedia_commons" v="Category:Formello"/>
-    <tag k="wikipedia" v="it:Formello"/>
-  </node>
-  <node id="72962747" lat="42.2548260" lon="12.5976750" version="2" timestamp="2016-09-07T18:50:25Z" changeset="41986239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4948"/>
-    <tag k="name" v="Filacciano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="502"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72962857" lat="42.2577967" lon="12.5716266" version="4" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4991"/>
     <tag k="name" v="Ponzano Romano"/>
@@ -3737,22 +3642,6 @@
     <tag k="wikimedia_commons" v="Category:Capranica Prenestina"/>
     <tag k="wikipedia" v="it:Capranica Prenestina"/>
   </node>
-  <node id="72963246" lat="42.1049460" lon="12.4454599" version="7" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/Sacrofano/"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/comune_di_sacrofano/"/>
-    <tag k="contact:twitter" v="https://twitter.com/ComuneSacrofano"/>
-    <tag k="contact:youtube" v="https://www.youtube.com/channel/UCHWdYwg5xtE4s9LE540LPPg/featured"/>
-    <tag k="gfoss_id" v="5004"/>
-    <tag k="name" v="Sacrofano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7119"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia 2008"/>
-    <tag k="website" v="https://www.comunedisacrofano.it/"/>
-    <tag k="wikidata" v="Q243311"/>
-    <tag k="wikimedia_commons" v="Category:Sacrofano"/>
-    <tag k="wikipedia" v="it:Sacrofano"/>
-  </node>
   <node id="72963435" lat="42.2347915" lon="12.5189050" version="4" timestamp="2023-09-18T14:04:24Z" changeset="141426987" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5010"/>
     <tag k="name" v="Sant'Oreste"/>
@@ -3773,15 +3662,6 @@
     <tag k="wikidata" v="Q243525"/>
     <tag k="wikimedia_commons" v="Category:Vivaro Romano"/>
     <tag k="wikipedia" v="it:Vivaro Romano"/>
-  </node>
-  <node id="72963562" lat="42.2197263" lon="12.4259417" version="4" timestamp="2018-12-06T11:26:50Z" changeset="65235528" uid="3151555" user="Dino Michelini">
-    <tag k="ele" v="220"/>
-    <tag k="gfoss_id" v="53856"/>
-    <tag k="istat_id" v="2147483647"/>
-    <tag k="name" v="Calcata"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="846"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72963572" lat="42.0842815" lon="12.9966119" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5020"/>
@@ -3804,13 +3684,6 @@
     <tag k="wikimedia_commons" v="Category:Mandela (Italy)"/>
     <tag k="wikipedia" v="it:Mandela (Italia)"/>
   </node>
-  <node id="72963668" lat="42.2292570" lon="12.5976389" version="3" timestamp="2016-09-07T18:50:28Z" changeset="41986239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4980"/>
-    <tag k="name" v="Nazzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1251"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72963697" lat="41.8873266" lon="12.8931264" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4989"/>
     <tag k="name" v="Poli"/>
@@ -3830,92 +3703,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026182"/>
     <tag k="wikipedia" v="it:Gradoli"/>
-  </node>
-  <node id="72963802" lat="42.4144251" lon="12.3464168" version="5" timestamp="2023-10-11T08:01:22Z" changeset="142424527" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4833"/>
-    <tag k="name" v="Vasanello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3890"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q180074"/>
-    <tag k="wikimedia_commons" v="Category:Vasanello"/>
-    <tag k="wikipedia" v="it:Vasanello"/>
-  </node>
-  <node id="72964078" lat="42.6441069" lon="11.9849554" version="4" timestamp="2023-11-01T08:40:16Z" changeset="143461321" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4786"/>
-    <tag k="name" v="Bolsena"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4111"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.bolsena.vt.it/"/>
-    <tag k="wikidata" v="Q159685"/>
-    <tag k="wikimedia_commons" v="Category:Bolsena"/>
-    <tag k="wikipedia" v="it:Bolsena"/>
-  </node>
-  <node id="72964100" lat="42.5597682" lon="12.1257580" version="3" timestamp="2019-09-15T16:28:12Z" changeset="74500639" uid="1211510" user="arcanma">
-    <tag k="gfoss_id" v="4797"/>
-    <tag k="name" v="Celleno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1339"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72964108" lat="42.2517755" lon="12.3717955" version="3" timestamp="2018-12-07T09:49:03Z" changeset="65263165" uid="3151555" user="Dino Michelini">
-    <tag k="gfoss_id" v="4795"/>
-    <tag k="name" v="Castel Sant'Elia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2151"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72964123" lat="42.6449715" lon="12.2038975" version="5" timestamp="2023-10-18T14:52:17Z" changeset="142767724" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="4796"/>
-    <tag k="name" v="Castiglione in Teverina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2413"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q160282"/>
-    <tag k="wikimedia_commons" v="Category:Castiglione in Teverina"/>
-    <tag k="wikipedia" v="it:Castiglione in Teverina"/>
-  </node>
-  <node id="72964333" lat="42.5465270" lon="11.9047550" version="2" timestamp="2016-09-07T16:51:07Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4791"/>
-    <tag k="name" v="Capodimonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1686"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72964353" lat="42.4654270" lon="12.1724620" version="3" timestamp="2023-10-11T05:25:55Z" changeset="142418888" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/comunedivitorchiano"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/visit_vitorchiano"/>
-    <tag k="gfoss_id" v="4838"/>
-    <tag k="name" v="Vitorchiano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3214"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.vitorchiano.vt.it/home"/>
-    <tag k="wikidata" v="Q180355"/>
-    <tag k="wikimedia_commons" v="Category:Vitorchiano"/>
-    <tag k="wikipedia" v="it:Vitorchiano"/>
-  </node>
-  <node id="72964397" lat="42.5339112" lon="11.9249120" version="3" timestamp="2016-09-07T16:51:12Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4812"/>
-    <tag k="name" v="Marta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3436"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72964430" lat="42.6053622" lon="12.1876584" version="3" timestamp="2017-01-06T15:14:39Z" changeset="44955653" uid="3151555" user="Dino Michelini">
-    <tag k="gfoss_id" v="4800"/>
-    <tag k="name" v="Civitella d'Agliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1734"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72964445" lat="42.5749030" lon="12.2044306" version="4" timestamp="2021-07-29T08:05:07Z" changeset="108804658" uid="3151555" user="Dino Michelini">
-    <tag k="gfoss_id" v="4807"/>
-    <tag k="name" v="Graffignano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2288"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72964457" lat="42.6290280" lon="11.8274530" version="3" timestamp="2022-06-22T18:32:56Z" changeset="122723911" uid="4439645" user="gs3§zba">
     <tag k="gfoss_id" v="4810"/>
@@ -3940,16 +3727,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="196"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
-  <node id="1274631717" lat="42.4093586" lon="12.7665388" version="6" timestamp="2018-05-15T09:20:45Z" changeset="58976905" uid="7022493" user="Fra00">
-    <tag k="gfoss_id" v="4863"/>
-    <tag k="name" v="Contigliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3633"/>
-    <tag k="source:population" v="wikipedia-it, 2010"/>
-    <tag k="uri:filas" v="http://193.178.216.227/ontoir-web/getRDF?fqName=urn:turismoculturale.itdc.filas-1.0.0-RC1%23turismoCulturale_POI_180"/>
-    <tag k="wikidata" v="Q224109"/>
-    <tag k="wikipedia" v="it:Contigliano"/>
   </node>
   <node id="1435627520" lat="44.5164015" lon="8.3821606" version="5" timestamp="2023-01-17T19:56:40Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="982"/>
@@ -3988,19 +3765,6 @@
     <tag k="website" v="http://www.abriola.eu/"/>
     <tag k="wikidata" v="Q52510"/>
     <tag k="wikipedia" v="it:Abriola"/>
-  </node>
-  <node id="2673845419" lat="42.1410780" lon="12.3836686" version="5" timestamp="2023-10-04T13:41:44Z" changeset="142146385" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/ComuneCampagnanodiRoma/"/>
-    <tag k="ele" v="270"/>
-    <tag k="name" v="Campagnano di Roma"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11586"/>
-    <tag k="population:date" v="2017-04-30"/>
-    <tag k="source:population" v="wikipedia"/>
-    <tag k="website" v="https://www.comunecampagnano.it/"/>
-    <tag k="wikidata" v="Q241911"/>
-    <tag k="wikimedia_commons" v="Category:Campagnano di Roma"/>
-    <tag k="wikipedia" v="it:Campagnano di Roma"/>
   </node>
   <node id="2673996091" lat="42.4059662" lon="12.6859706" version="1" timestamp="2014-02-16T01:09:33Z" changeset="20587632" uid="69717" user="kaitu">
     <tag k="name" v="Cottanello"/>
