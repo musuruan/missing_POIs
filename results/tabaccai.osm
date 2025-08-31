@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-30T02:55:52Z" areas="2025-08-30T00:24:29Z"/>
+<meta osm_base="2025-08-31T03:06:28Z" areas="2025-08-30T22:04:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -29221,7 +29221,7 @@
     <tag k="wikidata" v="Q20515"/>
     <tag k="wikipedia" v="it:Poggiodomo"/>
   </node>
-  <node id="68507623" lat="42.9909451" lon="12.6717751" version="18" timestamp="2024-08-28T13:10:09Z" changeset="155880007" uid="1211510" user="arcanma">
+  <node id="68507623" lat="42.9909451" lon="12.6717751" version="19" timestamp="2025-08-30T14:56:40Z" changeset="171232179" uid="1950277" user="Mannivu">
     <tag k="ele" v="280"/>
     <tag k="gfoss_id" v="50158"/>
     <tag k="istat_id" v="5405010004"/>
@@ -29233,7 +29233,7 @@
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2021 census"/>
     <tag k="website" v="https://www.comune.spello.pg.it/"/>
-    <tag k="wikidata" v="Q20559"/>
+    <tag k="wikidata" v="Q30030861"/>
     <tag k="wikimedia_commons" v="Category:Spello"/>
     <tag k="wikipedia" v="it:Spello"/>
   </node>
@@ -35089,13 +35089,6 @@
     <tag k="name" v="Russi"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12247"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301326" lat="44.2770835" lon="11.7245200" version="5" timestamp="2016-09-16T15:55:10Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4127"/>
-    <tag k="name" v="Riolo Terme"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5720"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301331" lat="44.9018700" lon="10.5542870" version="5" timestamp="2017-09-01T18:01:35Z" changeset="51651638" uid="1834719" user="LvdT">
@@ -46572,15 +46565,6 @@
     <tag k="name" v="San Salvatore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4172"/>
-  </node>
-  <node id="1934352312" lat="46.2518872" lon="12.0236077" version="8" timestamp="2022-07-25T10:56:13Z" changeset="124046435" uid="1257620" user="Luca_34c">
-    <tag k="gfoss_id" v="3352"/>
-    <tag k="name" v="Rivamonte Agordino"/>
-    <tag k="name:it" v="Rivamonte Agordino"/>
-    <tag k="name:lld" v="Riva"/>
-    <tag k="old_name" v="Riva"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="634"/>
   </node>
   <node id="1941889656" lat="44.3036653" lon="9.2093446" version="9" timestamp="2023-06-14T14:30:36Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="1301"/>
