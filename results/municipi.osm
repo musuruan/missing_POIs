@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-08-31T02:59:13Z" areas="2025-08-30T22:04:29Z"/>
+<meta osm_base="2025-09-01T03:14:00Z" areas="2025-09-01T00:51:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2701,20 +2701,6 @@
     <tag k="population" v="1232"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980364" lat="43.0051500" lon="13.4449820" version="2" timestamp="2016-09-09T17:36:49Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4403"/>
-    <tag k="name" v="Smerillo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="411"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70981139" lat="43.0817007" lon="13.0429675" version="3" timestamp="2016-09-09T17:36:42Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4310"/>
-    <tag k="name" v="Muccia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="907"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70981477" lat="43.1864614" lon="13.4809705" version="4" timestamp="2016-09-09T17:36:38Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4301"/>
     <tag k="name" v="Mogliano"/>
@@ -3153,18 +3139,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026350"/>
   </node>
-  <node id="70993279" lat="42.5181440" lon="14.0592030" version="5" timestamp="2024-08-12T08:22:36Z" changeset="155135502" uid="1940323" user="SekeRob">
-    <tag k="ele" v="317"/>
-    <tag k="gfoss_id" v="5874"/>
-    <tag k="name" v="Città Sant'Angelo"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14969"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:ele" v="guidepost"/>
-    <tag k="twin_town" v="Nicolosi (Catania)"/>
-    <tag k="wikidata" v="Q51356"/>
-    <tag k="wikipedia" v="it:Città Sant'Angelo"/>
-  </node>
   <node id="70993287" lat="42.3259913" lon="13.8967439" version="6" timestamp="2025-02-04T07:05:15Z" changeset="162112594" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5875"/>
     <tag k="name" v="Civitaquana"/>
@@ -3236,29 +3210,6 @@
     <tag k="wikidata" v="Q51352"/>
     <tag k="wikipedia" v="it:Catignano"/>
   </node>
-  <node id="70993636" lat="42.8230480" lon="13.7772930" version="3" timestamp="2020-06-11T07:08:33Z" changeset="86500592" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5857"/>
-    <tag k="name" v="Torano Nuovo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1684"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51468"/>
-    <tag k="wikipedia" v="it:Torano Nuovo"/>
-  </node>
-  <node id="70993725" lat="42.5879410" lon="13.4895900" version="2" timestamp="2016-09-07T17:42:33Z" changeset="41985059" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5838"/>
-    <tag k="name" v="Crognaleto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1549"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70993746" lat="42.7418470" lon="13.8101950" version="3" timestamp="2016-09-07T17:42:32Z" changeset="41985059" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5821"/>
-    <tag k="name" v="Bellante"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7152"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70993788" lat="42.4879400" lon="13.7116960" version="3" timestamp="2023-04-11T17:09:59Z" changeset="134783668" uid="1940323" user="SekeRob">
     <tag k="gfoss_id" v="5827"/>
     <tag k="name" v="Castelli"/>
@@ -3276,15 +3227,6 @@
     <tag k="population" v="539"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993854" lat="42.5337046" lon="13.9170108" version="7" timestamp="2020-07-24T11:18:04Z" changeset="88454453" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5829"/>
-    <tag k="name" v="Castilenti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1624"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51436"/>
-    <tag k="wikipedia" v="it:Castilenti"/>
-  </node>
   <node id="70993865" lat="42.5873111" lon="13.8505254" version="4" timestamp="2020-07-08T10:16:00Z" changeset="87703327" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5830"/>
     <tag k="name" v="Cellino Attanasio"/>
@@ -3293,17 +3235,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51437"/>
     <tag k="wikipedia" v="it:Cellino Attanasio"/>
-  </node>
-  <node id="70993872" lat="42.5929123" lon="13.7973984" version="6" timestamp="2023-04-10T16:56:58Z" changeset="134740751" uid="1940323" user="SekeRob">
-    <tag k="ele" v="563"/>
-    <tag k="gfoss_id" v="5831"/>
-    <tag k="name" v="Cermignano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1459"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://italia.indettaglio.it/ita/abruzzo/cermignano.html"/>
-    <tag k="wikidata" v="Q51439"/>
-    <tag k="wikipedia" v="it:Cermignano"/>
   </node>
   <node id="72959853" lat="41.5090635" lon="13.4065751" version="7" timestamp="2025-05-25T13:58:18Z" changeset="166735865" uid="21792105" user="96wanderer">
     <tag k="gfoss_id" v="5088"/>
