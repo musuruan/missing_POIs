@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-01T03:19:01Z" areas="2025-09-01T00:51:19Z"/>
+<meta osm_base="2025-09-02T03:05:14Z" areas="2025-09-02T00:09:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6761,15 +6761,6 @@
     <tag k="population" v="365"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778127" lat="46.3970312" lon="12.3555500" version="5" timestamp="2022-04-12T12:22:06Z" changeset="119619881" uid="1257620" user="Luca_34c">
-    <tag k="gfoss_id" v="3346"/>
-    <tag k="loc_name" v="Perarol"/>
-    <tag k="name" v="Perarolo di Cadore"/>
-    <tag k="name:lld" v="Perarol"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="362"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778134" lat="46.5825290" lon="12.5273020" version="6" timestamp="2022-08-03T13:35:51Z" changeset="124437664" uid="1257620" user="Luca_34c">
     <tag k="gfoss_id" v="3355"/>
     <tag k="loc_name" v="San Colò"/>
@@ -8095,14 +8086,6 @@
     <tag k="name:it" v="Coseano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2214"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="66503412" lat="46.4829428" lon="12.8653894" version="6" timestamp="2025-07-15T08:18:29Z" changeset="168950848" uid="14202171" user="Alessandro Ambrosino">
-    <tag k="gfoss_id" v="3738"/>
-    <tag k="name" v="Ovaro / Davâr"/>
-    <tag k="name:fur" v="Davâr"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2220"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66503417" lat="45.9458064" lon="13.1727963" version="9" timestamp="2025-07-05T20:38:41Z" changeset="168538657" uid="20552772" user="user_8y978a">
@@ -17643,13 +17626,6 @@
     <tag k="population" v="520"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991822" lat="42.2612400" lon="14.3694140" version="2" timestamp="2016-09-07T16:52:20Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5945"/>
-    <tag k="name" v="Frisa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1940"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70991831" lat="41.9060310" lon="14.2073150" version="2" timestamp="2016-09-07T16:52:21Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5947"/>
     <tag k="name" v="Gamberale"/>
@@ -17777,12 +17753,13 @@
     <tag k="wikimedia_commons" v="Category:Massa d'Albe"/>
     <tag k="wikipedia" v="it:Massa d'Albe"/>
   </node>
-  <node id="70992224" lat="42.0343350" lon="14.3671170" version="2" timestamp="2016-09-07T16:52:16Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70992224" lat="42.0350203" lon="14.3661823" version="4" timestamp="2025-09-01T22:39:35Z" changeset="171336282" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="5914"/>
     <tag k="name" v="Bomba"/>
     <tag k="place" v="village"/>
     <tag k="population" v="972"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022918"/>
   </node>
   <node id="70992229" lat="42.0993370" lon="14.3316150" version="2" timestamp="2016-09-07T16:52:16Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5909"/>
