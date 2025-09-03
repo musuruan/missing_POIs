@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-02T02:59:10Z" areas="2025-09-02T00:09:21Z"/>
+<meta osm_base="2025-09-03T02:46:59Z" areas="2025-09-02T23:25:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2018,13 +2018,6 @@
     <tag k="population:date" v="2020-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579615" lat="41.1210160" lon="14.3547290" version="2" timestamp="2016-09-02T23:58:39Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5182"/>
-    <tag k="name" v="Castel Morrone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3988"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68579624" lat="41.3890180" lon="13.9081160" version="2" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5225"/>
     <tag k="name" v="Rocca d'Evandro"/>
@@ -2064,20 +2057,6 @@
     <tag k="wikidata" v="Q58918"/>
     <tag k="wikipedia" v="it:Vairano Patenora"/>
   </node>
-  <node id="68579849" lat="41.4645220" lon="14.2250220" version="2" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5194"/>
-    <tag k="name" v="Gallo Matese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="761"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68579855" lat="41.2027160" lon="14.1934240" version="2" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5196"/>
-    <tag k="name" v="Giano Vetusto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="653"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68579864" lat="41.3166705" lon="14.0424236" version="4" timestamp="2021-08-08T18:09:54Z" changeset="109357529" uid="166489" user="Fintocubano">
     <tag k="alt_name" v="Grottole"/>
     <tag k="gfoss_id" v="5206"/>
@@ -2085,21 +2064,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3087"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68579877" lat="41.4328210" lon="14.2027220" version="2" timestamp="2016-09-02T23:58:43Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5219"/>
-    <tag k="name" v="Prata Sannita"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1699"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68579913" lat="41.0242566" lon="14.4970522" version="4" timestamp="2016-08-31T23:04:11Z" changeset="41838072" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5160"/>
-    <tag k="name" v="Arienzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5198"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.museincampania.it/spip.php?page=musei_dettaglio&amp;id_museo=110"/>
   </node>
   <node id="68579942" lat="41.1868150" lon="14.0937220" version="2" timestamp="2016-09-02T23:58:45Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5245"/>
@@ -2113,52 +2077,6 @@
     <tag k="name" v="San Potito Sannitico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1897"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68579973" lat="41.1671170" lon="14.3337280" version="3" timestamp="2022-01-19T19:05:22Z" changeset="116355046" uid="10622815" user="Italian Technology">
-    <tag k="gfoss_id" v="5212"/>
-    <tag k="name" v="Piana di Monte Verna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2523"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q58744"/>
-    <tag k="wikipedia" v="it:Piana di Monte Verna"/>
-  </node>
-  <node id="68579995" lat="40.9979333" lon="14.1793758" version="3" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5193"/>
-    <tag k="name" v="Frignano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8599"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580071" lat="40.9835844" lon="14.2189907" version="3" timestamp="2016-09-02T23:58:39Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5172"/>
-    <tag k="name" v="Carinaro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6356"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580089" lat="41.0441395" lon="14.3033370" version="4" timestamp="2022-01-16T18:40:02Z" changeset="116225082" uid="10622815" user="Italian Technology">
-    <tag k="gfoss_id" v="5169"/>
-    <tag k="name" v="Capodrise"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7508"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q58467"/>
-    <tag k="wikipedia" v="it:Capodrise"/>
-  </node>
-  <node id="68580236" lat="40.9644120" lon="14.2301280" version="3" timestamp="2016-09-02T23:58:40Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5185"/>
-    <tag k="name" v="Cesa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8841"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580255" lat="41.0565140" lon="14.2794280" version="2" timestamp="2016-09-02T23:58:43Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5218"/>
-    <tag k="name" v="Portico di Caserta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6733"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68580292" lat="41.4459200" lon="13.9615160" version="2" timestamp="2016-09-02T23:58:45Z" changeset="41879755" uid="743479" user="fayor">
@@ -2197,15 +2115,6 @@
     <tag k="population" v="3283"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580520" lat="41.0894130" lon="14.1003240" version="3" timestamp="2023-11-05T19:57:53Z" changeset="143664159" uid="10622815" user="Italian Technology">
-    <tag k="gfoss_id" v="5198"/>
-    <tag k="name" v="Grazzanise"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6830"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q58633"/>
-    <tag k="wikipedia" v="it:Grazzanise"/>
-  </node>
   <node id="68580527" lat="41.4530220" lon="14.2554220" version="4" timestamp="2017-03-11T12:47:44Z" changeset="46761685" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="5200"/>
     <tag k="name" v="Letino"/>
@@ -2220,35 +2129,6 @@
     <tag k="name" v="Macerata Campania"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10609"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580558" lat="41.0329966" lon="14.2984228" version="5" timestamp="2016-10-27T18:43:35Z" changeset="43225390" uid="2748195" user="karitotp">
-    <tag k="gfoss_id" v="5205"/>
-    <tag k="name" v="Marcianise"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="39803"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q58706"/>
-  </node>
-  <node id="68580597" lat="41.1808160" lon="14.1982250" version="2" timestamp="2016-09-02T23:58:42Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5211"/>
-    <tag k="name" v="Pastorano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2454"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580624" lat="41.1935170" lon="14.2517260" version="2" timestamp="2016-09-02T23:58:43Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5217"/>
-    <tag k="name" v="Pontelatone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1881"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580633" lat="41.4058248" lon="14.1780969" version="3" timestamp="2016-09-02T23:58:43Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5220"/>
-    <tag k="name" v="Pratella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1695"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68580643" lat="41.3766190" lon="14.0764200" version="2" timestamp="2016-09-02T23:58:43Z" changeset="41879755" uid="743479" user="fayor">
