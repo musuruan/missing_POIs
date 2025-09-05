@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-04T02:48:42Z" areas="2025-09-04T00:58:42Z"/>
+<meta osm_base="2025-09-05T02:51:44Z" areas="2025-09-04T23:07:38Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1902,13 +1902,6 @@
     <tag k="population" v="2399"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68567527" lat="41.0102985" lon="14.8233166" version="3" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5542"/>
-    <tag k="name" v="Tufo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="951"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68567553" lat="41.0484210" lon="15.2334490" version="2" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5541"/>
     <tag k="name" v="Trevico"/>
@@ -2387,50 +2380,11 @@
     <tag k="population" v="2152"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582150" lat="40.7837120" lon="14.6988410" version="2" timestamp="2016-08-30T01:07:08Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5583"/>
-    <tag k="name" v="Castel San Giorgio"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13702"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68582206" lat="40.0325010" lon="15.3727650" version="3" timestamp="2025-07-06T14:12:40Z" changeset="168563703" uid="22632809" user="KeyTV">
-    <tag k="gfoss_id" v="5570"/>
-    <tag k="name" v="Camerota"/>
-    <tag k="name:ru" v="Камерота"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6846"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68582214" lat="40.4233090" lon="15.3141590" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="5564"/>
-    <tag k="name" v="Bellosguardo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1009"/>
-    <tag k="postal_code" v="84020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q80661"/>
-    <tag k="wikipedia" v="it:Bellosguardo"/>
-  </node>
-  <node id="68582231" lat="40.6329130" lon="15.3696580" version="2" timestamp="2016-08-30T01:07:07Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5566"/>
-    <tag k="name" v="Buccino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5659"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68582247" lat="40.1002478" lon="15.5831154" version="3" timestamp="2016-08-30T01:07:19Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5705"/>
     <tag k="name" v="Vibonati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3019"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68582249" lat="40.6201805" lon="14.9484530" version="3" timestamp="2019-11-29T20:23:38Z" changeset="77743090" uid="10501755" user="Mousaniello">
-    <tag k="gfoss_id" v="5707"/>
-    <tag k="name" v="Bellizzi"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12555"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68582257" lat="40.3438080" lon="15.3684610" version="3" timestamp="2016-08-30T01:07:19Z" changeset="41791239" uid="743479" user="fayor">
@@ -2773,14 +2727,6 @@
     <tag k="population" v="1049"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18426594"/>
-  </node>
-  <node id="70992394" lat="42.4551678" lon="13.2321888" version="5" timestamp="2025-01-31T11:00:31Z" changeset="161972648" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5720"/>
-    <tag k="name" v="Cagnano Amiterno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1509"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023308"/>
   </node>
   <node id="70992406" lat="41.9211280" lon="13.7576050" version="3" timestamp="2025-02-04T08:44:06Z" changeset="162115400" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5718"/>

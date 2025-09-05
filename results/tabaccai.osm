@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-04T02:55:45Z" areas="2025-09-04T00:58:42Z"/>
+<meta osm_base="2025-09-05T02:58:39Z" areas="2025-09-04T21:58:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1249,14 +1249,14 @@
     <tag k="population" v="6812"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505880" lat="45.9797880" lon="9.6705480" version="5" timestamp="2023-11-09T06:48:18Z" changeset="143808173" uid="9451067" user="b-jazz-bot">
+  <node id="62505880" lat="45.9797880" lon="9.6705480" version="6" timestamp="2025-09-04T21:21:40Z" changeset="171471486" uid="15541433" user="paulbrunner">
     <tag k="ele" v="702"/>
     <tag k="gfoss_id" v="2088"/>
     <tag k="name" v="Piazzolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="89"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.piazzolo.bg.it/PortaleNet/portale/CadmoDriver?_token=SEARCHENGINESXOK&amp;codice_comune=PIAZZOLO&amp;_page=pHomePage&amp;_state=initial&amp;_action_do_home_siscotel=1"/>
+    <tag k="website" v="https://www.comune.piazzolo.bg.it/"/>
     <tag k="wikidata" v="Q101413"/>
     <tag k="wikipedia" v="it:Piazzolo"/>
   </node>
@@ -31399,13 +31399,6 @@
     <tag k="wikidata" v="Q55091"/>
     <tag k="wikipedia" v="it:San Mango sul Calore"/>
   </node>
-  <node id="68567527" lat="41.0102985" lon="14.8233166" version="3" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5542"/>
-    <tag k="name" v="Tufo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="951"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68567553" lat="41.0484210" lon="15.2334490" version="2" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5541"/>
     <tag k="name" v="Trevico"/>
@@ -34703,15 +34696,6 @@
     <tag k="population" v="4616"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300697" lat="44.8147620" lon="9.9795760" version="6" timestamp="2018-12-06T01:11:22Z" changeset="65222377" uid="9127709" user="Parma1983">
-    <tag k="gfoss_id" v="3919"/>
-    <tag k="name" v="Salsomaggiore Terme"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="19831"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q100916"/>
-    <tag k="wikipedia" v="it:Salsomaggiore Terme"/>
-  </node>
   <node id="69300720" lat="44.6099580" lon="10.0896820" version="4" timestamp="2016-09-21T13:17:30Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3925"/>
     <tag k="name" v="Terenzo"/>
@@ -36227,13 +36211,6 @@
     <tag k="wikidata" v="Q111878"/>
     <tag k="wikipedia" v="it:Pennabilli"/>
   </node>
-  <node id="70981762" lat="43.7661640" lon="13.0727630" version="3" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4211"/>
-    <tag k="name" v="San Costanzo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4120"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70981767" lat="43.7791620" lon="12.7333550" version="3" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4205"/>
     <tag k="name" v="Petriano"/>
@@ -36791,11 +36768,12 @@
     <tag k="population" v="768"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991822" lat="42.2612400" lon="14.3694140" version="2" timestamp="2016-09-07T16:52:20Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70991822" lat="42.2612400" lon="14.3694140" version="3" timestamp="2025-09-04T20:41:13Z" changeset="171470453" uid="15541433" user="paulbrunner">
+    <tag k="check_date" v="2024-01-01"/>
     <tag k="gfoss_id" v="5945"/>
     <tag k="name" v="Frisa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1940"/>
+    <tag k="population" v="1626"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70991831" lat="41.9060310" lon="14.2073150" version="2" timestamp="2016-09-07T16:52:21Z" changeset="41983597" uid="743479" user="fayor">
