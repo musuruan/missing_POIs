@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-05T02:53:39Z" areas="2025-09-04T21:58:14Z"/>
+<meta osm_base="2025-09-06T02:47:35Z" areas="2025-09-05T20:19:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3049,21 +3049,6 @@
     <tag k="wikidata" v="Q10852"/>
     <tag k="wikipedia" v="it:Montefranco"/>
   </node>
-  <node id="68507849" lat="42.4031242" lon="12.5674320" version="13" timestamp="2024-09-02T15:14:36Z" changeset="156103792" uid="1211510" user="arcanma">
-    <tag k="ele" v="401"/>
-    <tag k="gfoss_id" v="50505"/>
-    <tag k="istat_id" v="5500810001"/>
-    <tag k="name" v="Calvi dell'Umbria"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="472"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="https://www.comune.calvidellumbria.tr.it/"/>
-    <tag k="wikidata" v="Q6321"/>
-    <tag k="wikipedia" v="it:Calvi dell'Umbria"/>
-  </node>
   <node id="68507850" lat="42.7078943" lon="11.9793909" version="13" timestamp="2024-09-02T15:12:58Z" changeset="156103737" uid="1211510" user="arcanma">
     <tag k="ele" v="559"/>
     <tag k="gfoss_id" v="50515"/>
@@ -3316,17 +3301,6 @@
     <tag k="population" v="17802"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51940"/>
-  </node>
-  <node id="68529089" lat="41.9043440" lon="15.8994530" version="5" timestamp="2024-09-21T11:26:10Z" changeset="156907626" uid="20397427" user="RUGGERO DEL VECCHIO">
-    <tag k="gfoss_id" v="6121"/>
-    <tag k="name" v="Ischitella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4139"/>
-    <tag k="population:date" v="2022"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia"/>
-    <tag k="wikidata" v="Q51929"/>
-    <tag k="wikipedia" v="it:Ischitella"/>
   </node>
   <node id="68529096" lat="41.3254260" lon="15.1598440" version="2" timestamp="2016-08-27T16:24:05Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6119"/>
@@ -5890,12 +5864,13 @@
     <tag k="population" v="1621"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961965" lat="42.3559280" lon="12.5949730" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961965" lat="42.3559280" lon="12.5949730" version="3" timestamp="2025-09-05T16:55:22Z" changeset="171508955" uid="3268598" user="Una tantum">
     <tag k="gfoss_id" v="4905"/>
     <tag k="name" v="Tarano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1198"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031003"/>
   </node>
   <node id="72961991" lat="42.5266508" lon="12.8323214" version="5" timestamp="2023-10-27T00:00:08Z" changeset="143186836" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="4883"/>

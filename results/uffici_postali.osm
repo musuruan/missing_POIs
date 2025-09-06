@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-05T02:52:31Z" areas="2025-09-04T23:07:38Z"/>
+<meta osm_base="2025-09-06T02:46:26Z" areas="2025-09-05T20:19:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6143,13 +6143,14 @@
     <tag k="population" v="361"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629874" lat="44.7921360" lon="7.1990170" version="4" timestamp="2023-01-17T19:53:18Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629874" lat="44.7921360" lon="7.1990170" version="5" timestamp="2025-09-05T12:03:00Z" changeset="171495116" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="226"/>
     <tag k="name" v="Rorà"/>
     <tag k="place" v="village"/>
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.comune.rora.to.it/"/>
+    <tag k="wikidata" v="Q30029586"/>
   </node>
   <node id="63629882" lat="45.2504966" lon="7.7177272" version="4" timestamp="2021-05-02T15:32:42Z" changeset="104000647" uid="6645382" user="canfe">
     <tag k="gfoss_id" v="218"/>
@@ -6296,7 +6297,7 @@
     <tag k="population" v="920"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630417" lat="45.1220430" lon="7.0647080" version="4" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
+  <node id="63630417" lat="45.1220430" lon="7.0647080" version="5" timestamp="2025-09-05T12:01:14Z" changeset="171495033" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="149"/>
     <tag k="name" v="Meana di Susa"/>
     <tag k="name:fr" v="Méans"/>
@@ -6305,6 +6306,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="921"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027389"/>
   </node>
   <node id="63630502" lat="45.4176538" lon="7.4588144" version="6" timestamp="2023-01-17T20:02:19Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="134"/>
@@ -6313,12 +6315,13 @@
     <tag k="population" v="1399"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630506" lat="44.8031370" lon="7.2467180" version="4" timestamp="2023-01-17T20:04:51Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630506" lat="44.8031370" lon="7.2467180" version="5" timestamp="2025-09-05T11:59:29Z" changeset="171494950" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="140"/>
     <tag k="name" v="Lusernetta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="496"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026795"/>
   </node>
   <node id="63630509" lat="44.8409410" lon="7.6359250" version="4" timestamp="2023-01-17T19:55:38Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="136"/>
@@ -15927,12 +15930,13 @@
     <tag k="population" v="1197"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961965" lat="42.3559280" lon="12.5949730" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961965" lat="42.3559280" lon="12.5949730" version="3" timestamp="2025-09-05T16:55:22Z" changeset="171508955" uid="3268598" user="Una tantum">
     <tag k="gfoss_id" v="4905"/>
     <tag k="name" v="Tarano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1198"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031003"/>
   </node>
   <node id="72961976" lat="42.1655328" lon="12.8419253" version="6" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4902"/>

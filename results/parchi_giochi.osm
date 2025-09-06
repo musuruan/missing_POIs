@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-05T02:57:45Z" areas="2025-09-04T21:58:14Z"/>
+<meta osm_base="2025-09-06T02:50:43Z" areas="2025-09-05T20:19:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6241,13 +6241,14 @@
     <tag k="population" v="779"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629874" lat="44.7921360" lon="7.1990170" version="4" timestamp="2023-01-17T19:53:18Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629874" lat="44.7921360" lon="7.1990170" version="5" timestamp="2025-09-05T12:03:00Z" changeset="171495116" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="226"/>
     <tag k="name" v="Rorà"/>
     <tag k="place" v="village"/>
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.comune.rora.to.it/"/>
+    <tag k="wikidata" v="Q30029586"/>
   </node>
   <node id="63629882" lat="45.2504966" lon="7.7177272" version="4" timestamp="2021-05-02T15:32:42Z" changeset="104000647" uid="6645382" user="canfe">
     <tag k="gfoss_id" v="218"/>
@@ -6416,12 +6417,13 @@
     <tag k="population" v="2927"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630506" lat="44.8031370" lon="7.2467180" version="4" timestamp="2023-01-17T20:04:51Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630506" lat="44.8031370" lon="7.2467180" version="5" timestamp="2025-09-05T11:59:29Z" changeset="171494950" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="140"/>
     <tag k="name" v="Lusernetta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="496"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026795"/>
   </node>
   <node id="63630514" lat="45.0580320" lon="7.8746227" version="5" timestamp="2023-01-17T20:06:44Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="144"/>
@@ -8375,14 +8377,6 @@
     <tag k="wikidata" v="Q269440"/>
     <tag k="wikipedia" v="it:Olivetta San Michele"/>
   </node>
-  <node id="66586739" lat="44.0668887" lon="7.8172090" version="16" timestamp="2023-06-14T14:32:29Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="ele" v="721"/>
-    <tag k="gfoss_id" v="1158"/>
-    <tag k="name" v="Montegrosso Pian Latte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="140"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66586746" lat="44.0470260" lon="7.9149460" version="4" timestamp="2024-08-17T12:53:27Z" changeset="155369737" uid="21800793" user="Arbenganese">
     <tag k="gfoss_id" v="1163"/>
     <tag k="name" v="Pieve di Teco"/>
@@ -9530,13 +9524,6 @@
     <tag k="name" v="Buccheri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1718"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67256928" lat="37.9836510" lon="13.6955540" version="12" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Termini Imerese"/>
-    <tag k="name:scn" v="Tèrmini"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="24786"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67256935" lat="38.1300612" lon="13.2335013" version="11" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
@@ -16403,13 +16390,6 @@
     <tag k="population" v="4202"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301209" lat="45.0131630" lon="9.5689640" version="2" timestamp="2016-09-21T13:17:20Z" changeset="42322913" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3863"/>
-    <tag k="name" v="Gragnano Trebbiense"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3470"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69301262" lat="45.0873218" lon="9.5974792" version="10" timestamp="2023-06-15T07:44:50Z" changeset="137357838" uid="19497998" user="branco-revert">
     <tag k="name" v="Calendasco"/>
     <tag k="place" v="village"/>
@@ -19188,12 +19168,13 @@
     <tag k="population" v="1197"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961965" lat="42.3559280" lon="12.5949730" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961965" lat="42.3559280" lon="12.5949730" version="3" timestamp="2025-09-05T16:55:22Z" changeset="171508955" uid="3268598" user="Una tantum">
     <tag k="gfoss_id" v="4905"/>
     <tag k="name" v="Tarano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1198"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031003"/>
   </node>
   <node id="72961985" lat="42.2812290" lon="12.8135790" version="2" timestamp="2016-09-07T16:51:13Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4880"/>

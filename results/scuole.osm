@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-05T02:59:50Z" areas="2025-09-04T21:58:14Z"/>
+<meta osm_base="2025-09-06T02:52:47Z" areas="2025-09-05T20:19:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7888,12 +7888,13 @@
     <tag k="source" v="survey"/>
     <tag k="wikidata" v="Q18442020"/>
   </node>
-  <node id="63628501" lat="44.9456400" lon="7.2184140" version="4" timestamp="2023-01-17T19:52:48Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63628501" lat="44.9456400" lon="7.2184140" version="5" timestamp="2025-09-05T11:58:34Z" changeset="171494902" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="122"/>
     <tag k="name" v="Inverso Pinasca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="659"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026354"/>
   </node>
   <node id="63628521" lat="45.4205265" lon="7.5968553" version="6" timestamp="2023-01-17T19:54:46Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="199"/>
@@ -8239,7 +8240,7 @@
     <tag k="population" v="398"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629476" lat="45.1253420" lon="7.0175070" version="5" timestamp="2021-10-13T12:19:06Z" changeset="112460107" uid="2976645" user="Jrachi">
+  <node id="63629476" lat="45.1253420" lon="7.0175070" version="6" timestamp="2025-09-05T09:05:21Z" changeset="171486752" uid="21748492" user="Yurii Skvortsov">
     <tag k="ele" v="821"/>
     <tag k="gfoss_id" v="117"/>
     <tag k="name" v="Gravere"/>
@@ -8249,6 +8250,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="728"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026208"/>
   </node>
   <node id="63629483" lat="45.4469344" lon="7.7521217" version="10" timestamp="2023-01-17T20:02:54Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="ele" v="484"/>
@@ -8458,13 +8460,14 @@
     <tag k="population" v="377"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629874" lat="44.7921360" lon="7.1990170" version="4" timestamp="2023-01-17T19:53:18Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629874" lat="44.7921360" lon="7.1990170" version="5" timestamp="2025-09-05T12:03:00Z" changeset="171495116" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="226"/>
     <tag k="name" v="Rorà"/>
     <tag k="place" v="village"/>
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.comune.rora.to.it/"/>
+    <tag k="wikidata" v="Q30029586"/>
   </node>
   <node id="63629890" lat="44.9246915" lon="7.3313239" version="7" timestamp="2023-01-17T20:04:43Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="222"/>
@@ -8775,12 +8778,13 @@
     <tag k="population" v="2927"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630506" lat="44.8031370" lon="7.2467180" version="4" timestamp="2023-01-17T20:04:51Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630506" lat="44.8031370" lon="7.2467180" version="5" timestamp="2025-09-05T11:59:29Z" changeset="171494950" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="140"/>
     <tag k="name" v="Lusernetta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="496"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026795"/>
   </node>
   <node id="63630514" lat="45.0580320" lon="7.8746227" version="5" timestamp="2023-01-17T20:06:44Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="144"/>
@@ -11252,7 +11256,7 @@
     <tag k="population" v="744"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586977" lat="44.1537194" lon="9.7638623" version="5" timestamp="2020-06-13T16:26:15Z" changeset="86603744" uid="314450" user="danyzeta">
+  <node id="66586977" lat="44.1539549" lon="9.7636963" version="6" timestamp="2025-09-05T16:28:13Z" changeset="171507868" uid="22223805" user="giulcenc">
     <tag k="alt_name" v="Riccò del Golfo"/>
     <tag k="gfoss_id" v="1347"/>
     <tag k="name" v="Riccò del Golfo di Spezia"/>
@@ -12684,15 +12688,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1412"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274244" lat="39.7768368" lon="16.1564716" version="5" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6621"/>
-    <tag k="name" v="Saracena"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4309"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53995"/>
-    <tag k="wikipedia" v="it:Saracena"/>
   </node>
   <node id="67274256" lat="39.4498010" lon="16.8854050" version="2" timestamp="2016-08-28T18:58:47Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6622"/>
@@ -21542,13 +21537,6 @@
     <tag k="population" v="530"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961504" lat="42.3666554" lon="12.5970594" version="4" timestamp="2018-08-28T13:37:20Z" changeset="62072119" uid="8744481" user="lepr8volante">
-    <tag k="gfoss_id" v="4878"/>
-    <tag k="name" v="Montebuono"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="913"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="72961518" lat="42.3285159" lon="12.7773713" version="3" timestamp="2016-09-07T16:51:12Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4881"/>
     <tag k="name" v="Monte San Giovanni in Sabina"/>
@@ -21721,12 +21709,13 @@
     <tag k="population" v="1197"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961965" lat="42.3559280" lon="12.5949730" version="2" timestamp="2016-09-07T16:51:16Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961965" lat="42.3559280" lon="12.5949730" version="3" timestamp="2025-09-05T16:55:22Z" changeset="171508955" uid="3268598" user="Una tantum">
     <tag k="gfoss_id" v="4905"/>
     <tag k="name" v="Tarano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1198"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031003"/>
   </node>
   <node id="72961976" lat="42.1655328" lon="12.8419253" version="6" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4902"/>
