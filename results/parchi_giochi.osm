@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-07T03:01:04Z" areas="2025-09-07T00:41:57Z"/>
+<meta osm_base="2025-09-08T03:04:22Z" areas="2025-09-07T21:17:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8774,7 +8774,7 @@
     <tag k="population" v="822"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253728" lat="35.5035259" lon="12.6066887" version="18" timestamp="2025-07-01T21:05:50Z" changeset="168372094" uid="12495047" user="Yan Bakhmat">
+  <node id="67253728" lat="35.5035259" lon="12.6066887" version="19" timestamp="2025-09-07T15:30:13Z" changeset="171591164" uid="743479" user="fayor">
     <tag k="alt_name:ar" v="لامبيدوسا"/>
     <tag k="name" v="Lampedusa"/>
     <tag k="name:ar" v="لنبذوشة"/>
@@ -8783,7 +8783,8 @@
     <tag k="name:uk" v="Лампедуза"/>
     <tag k="note" v="popolazione ottenuta sommando anche gli abitanti di Terranova e Grecale"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4839"/>
+    <tag k="population" v="6948"/>
+    <tag k="source:population" v="Istat 2021"/>
   </node>
   <node id="67253732" lat="37.5700419" lon="13.4546092" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Alessandria della Rocca"/>
@@ -12623,13 +12624,13 @@
     <tag k="population" v="1073"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284332" lat="41.7471290" lon="14.3844210" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67284332" lat="41.7470864" lon="14.3844495" version="6" timestamp="2025-09-07T20:45:42Z" changeset="171604935" uid="3268598" user="Una tantum">
     <tag k="gfoss_id" v="7592"/>
     <tag k="name" v="Pietrabbondante"/>
     <tag k="place" v="village"/>
     <tag k="population" v="961"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q279358"/>
+    <tag k="wikidata" v="Q30028833"/>
     <tag k="wikipedia" v="en:Pietrabbondante"/>
   </node>
   <node id="67284335" lat="41.7788339" lon="14.4141996" version="4" timestamp="2016-09-03T02:35:25Z" changeset="41880656" uid="743479" user="fayor">
