@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-08T03:05:19Z" areas="2025-09-07T22:03:57Z"/>
+<meta osm_base="2025-09-09T03:01:26Z" areas="2025-09-09T01:23:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15200,13 +15200,14 @@
     <tag k="wikidata" v="Q10211"/>
     <tag k="wikipedia" v="it:Quagliuzzo"/>
   </node>
-  <node id="63629968" lat="45.1183500" lon="7.8881250" version="3" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
+  <node id="63629968" lat="45.1183500" lon="7.8881250" version="4" timestamp="2025-09-08T09:27:24Z" changeset="171623776" uid="21822" user="Jacopo">
     <tag k="gfoss_id" v="213"/>
     <tag k="name" v="Rivalba"/>
     <tag k="place" v="village"/>
     <tag k="population" v="966"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18444565"/>
+    <tag k="wikimedia_commons" v="Category:Rivalba"/>
   </node>
   <node id="63629974" lat="45.5629600" lon="7.8073150" version="5" timestamp="2023-01-17T20:01:32Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="210"/>
@@ -35031,13 +35032,6 @@
     <tag k="ref:ISTAT" v="033010"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301243" lat="44.9152116" lon="9.7880952" version="12" timestamp="2023-06-14T14:15:52Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="3850"/>
-    <tag k="name" v="Carpaneto Piacentino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6881"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69301262" lat="45.0873218" lon="9.5974792" version="10" timestamp="2023-06-15T07:44:50Z" changeset="137357838" uid="19497998" user="branco-revert">
     <tag k="name" v="Calendasco"/>
     <tag k="place" v="village"/>
@@ -35656,7 +35650,7 @@
     <tag k="population" v="863"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980047" lat="43.1873550" lon="13.5406820" version="2" timestamp="2016-09-09T17:36:35Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980047" lat="43.1901937" lon="13.5407450" version="3" timestamp="2025-09-08T08:36:41Z" changeset="171621257" uid="4188272" user="dp7">
     <tag k="gfoss_id" v="4355"/>
     <tag k="name" v="Francavilla d'Ete"/>
     <tag k="place" v="village"/>
@@ -36308,13 +36302,6 @@
     <tag k="name" v="San Leo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2720"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70982025" lat="43.6857149" lon="12.8716888" version="4" timestamp="2016-09-09T17:36:47Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4218"/>
-    <tag k="name" v="Sant'Ippolito"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1513"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70982032" lat="43.7815600" lon="12.4987490" version="4" timestamp="2018-12-31T14:34:55Z" changeset="65914209" uid="743479" user="fayor">
@@ -45959,11 +45946,6 @@
     <tag k="name" v="Morterone"/>
     <tag k="place" v="hamlet"/>
     <tag k="population" v="4"/>
-  </node>
-  <node id="1404374703" lat="45.8616409" lon="12.0387488" version="4" timestamp="2016-10-02T23:39:22Z" changeset="42593464" uid="743479" user="fayor">
-    <tag k="name" v="Vidor"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3766"/>
   </node>
   <node id="1431755301" lat="37.7831794" lon="14.0410513" version="11" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="istat_id" v="2147483647"/>
