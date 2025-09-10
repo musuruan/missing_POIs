@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-09T02:55:27Z" areas="2025-09-09T01:08:50Z"/>
+<meta osm_base="2025-09-10T02:48:47Z" areas="2025-09-09T23:57:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15,7 +15,7 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="52" timestamp="2025-09-09T16:15:53Z" changeset="171694784" uid="12495047" user="Yan Bakhmat">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -24,6 +24,7 @@
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
     <tag k="name:ko" v="샤모니-몽-블렁"/>
     <tag k="name:ru" v="Шамони-Мон-Блан"/>
+    <tag k="name:uk" v="Шамоні-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
     <tag k="place" v="town"/>
@@ -9329,13 +9330,6 @@
     <tag k="population" v="1294"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274734" lat="39.3420944" lon="16.3112472" version="4" timestamp="2020-09-24T17:04:07Z" changeset="91454862" uid="177389" user="Garmin-User">
-    <tag k="gfoss_id" v="6612"/>
-    <tag k="name" v="San Pietro in Guarano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3712"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274745" lat="39.5818179" lon="16.4541868" version="5" timestamp="2020-02-11T21:18:33Z" changeset="80870633" uid="8269646" user="Giovanni Cerrigone">
     <tag k="gfoss_id" v="6603"/>
     <tag k="name" v="San Giorgio Albanese"/>
@@ -11674,13 +11668,6 @@
     <tag k="name" v="Scorrano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6755"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529584" lat="40.1017240" lon="18.4493330" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6348"/>
-    <tag k="name" v="Uggiano la Chiesa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4341"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529591" lat="40.0283220" lon="18.3451310" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
@@ -14482,13 +14469,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q56085"/>
     <tag k="wikipedia" v="it:Palmiano"/>
-  </node>
-  <node id="70980829" lat="43.0319617" lon="13.6076168" version="3" timestamp="2024-11-30T13:51:42Z" changeset="159774642" uid="5328797" user="LorenzoPesci">
-    <tag k="gfoss_id" v="4388"/>
-    <tag k="name" v="Ortezzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="832"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70980859" lat="43.1206530" lon="13.4875820" version="2" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4384"/>

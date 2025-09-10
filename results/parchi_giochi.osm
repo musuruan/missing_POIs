@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-09T03:00:33Z" areas="2025-09-09T01:23:13Z"/>
+<meta osm_base="2025-09-10T02:52:51Z" areas="2025-09-09T23:57:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15,7 +15,7 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="52" timestamp="2025-09-09T16:15:53Z" changeset="171694784" uid="12495047" user="Yan Bakhmat">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -24,6 +24,7 @@
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
     <tag k="name:ko" v="샤모니-몽-블렁"/>
     <tag k="name:ru" v="Шамони-Мон-Блан"/>
+    <tag k="name:uk" v="Шамоні-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
     <tag k="place" v="town"/>
@@ -175,12 +176,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030597"/>
   </node>
-  <node id="61753562" lat="44.1199490" lon="10.3253960" version="2" timestamp="2016-09-13T21:24:50Z" changeset="42136022" uid="743479" user="fayor">
+  <node id="61753562" lat="44.1199490" lon="10.3253960" version="3" timestamp="2025-09-09T07:15:13Z" changeset="171669172" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="4431"/>
     <tag k="name" v="Careggine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="642"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023752+"/>
   </node>
   <node id="61753570" lat="44.1704490" lon="10.2075920" version="3" timestamp="2016-09-13T21:24:54Z" changeset="42136022" uid="743479" user="fayor">
     <tag k="ele" v="697"/>
@@ -1515,13 +1517,6 @@
     <tag k="population" v="993"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18488299"/>
-  </node>
-  <node id="62510523" lat="45.2468451" lon="9.8384742" version="4" timestamp="2022-08-24T20:12:50Z" changeset="125331568" uid="9622178" user="GiovanniC83">
-    <tag k="gfoss_id" v="2579"/>
-    <tag k="name" v="Cappella Cantone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="534"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62510530" lat="45.2518730" lon="9.9616680" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2582"/>
@@ -17246,13 +17241,6 @@
     <tag k="population" v="816"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70982175" lat="43.6682570" lon="12.5241126" version="4" timestamp="2019-11-09T15:28:47Z" changeset="76847008" uid="178610" user="Pab09">
-    <tag k="gfoss_id" v="4226"/>
-    <tag k="name" v="Urbania"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7099"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70982185" lat="43.4913868" lon="12.7721968" version="3" timestamp="2016-09-09T17:36:48Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4221"/>
     <tag k="name" v="Serra Sant'Abbondio"/>
@@ -17657,12 +17645,13 @@
     <tag k="wikidata" v="Q51312"/>
     <tag k="wikipedia" v="it:Vacri"/>
   </node>
-  <node id="70992146" lat="41.8681330" lon="14.5408230" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70992146" lat="41.8681330" lon="14.5408230" version="3" timestamp="2025-09-09T13:13:23Z" changeset="171685980" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="6001"/>
     <tag k="name" v="Torrebruna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1173"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031207"/>
   </node>
   <node id="70992174" lat="42.1072290" lon="13.3942940" version="3" timestamp="2023-10-25T16:00:26Z" changeset="143123204" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="5761"/>
@@ -17673,14 +17662,6 @@
     <tag k="wikidata" v="Q50107"/>
     <tag k="wikimedia_commons" v="Category:Massa d'Albe"/>
     <tag k="wikipedia" v="it:Massa d'Albe"/>
-  </node>
-  <node id="70992224" lat="42.0350203" lon="14.3661823" version="4" timestamp="2025-09-01T22:39:35Z" changeset="171336282" uid="4365159" user="wildmaps">
-    <tag k="gfoss_id" v="5914"/>
-    <tag k="name" v="Bomba"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="972"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022918"/>
   </node>
   <node id="70992229" lat="42.0993370" lon="14.3316150" version="2" timestamp="2016-09-07T16:52:16Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5909"/>

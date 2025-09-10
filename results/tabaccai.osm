@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-09T03:01:26Z" areas="2025-09-09T01:23:13Z"/>
+<meta osm_base="2025-09-10T02:55:01Z" areas="2025-09-09T23:57:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15,7 +15,7 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="52" timestamp="2025-09-09T16:15:53Z" changeset="171694784" uid="12495047" user="Yan Bakhmat">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -24,6 +24,7 @@
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
     <tag k="name:ko" v="샤모니-몽-블렁"/>
     <tag k="name:ru" v="Шамони-Мон-Блан"/>
+    <tag k="name:uk" v="Шамоні-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
     <tag k="place" v="town"/>
@@ -508,21 +509,13 @@
     <tag k="population" v="2367"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753555" lat="43.9947210" lon="10.2257715" version="27" timestamp="2025-01-09T20:17:01Z" changeset="161183304" uid="10875409" user="Friendly_Ghost">
-    <tag k="gfoss_id" v="4451"/>
-    <tag k="name" v="Seravezza"/>
-    <tag k="name:ru" v="Серавецца"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13073"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030597"/>
-  </node>
-  <node id="61753562" lat="44.1199490" lon="10.3253960" version="2" timestamp="2016-09-13T21:24:50Z" changeset="42136022" uid="743479" user="fayor">
+  <node id="61753562" lat="44.1199490" lon="10.3253960" version="3" timestamp="2025-09-09T07:15:13Z" changeset="171669172" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="4431"/>
     <tag k="name" v="Careggine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="642"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023752+"/>
   </node>
   <node id="61753564" lat="44.1499500" lon="10.4108970" version="3" timestamp="2016-09-13T21:24:50Z" changeset="42136022" uid="743479" user="fayor">
     <tag k="ele" v="545"/>
@@ -15462,12 +15455,13 @@
     <tag k="population" v="3776"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630402" lat="44.9065400" lon="7.3109170" version="4" timestamp="2023-01-17T19:54:05Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630402" lat="44.9065400" lon="7.3109170" version="6" timestamp="2025-09-09T05:47:58Z" changeset="171666046" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="250"/>
     <tag k="name" v="San Pietro Val Lemina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1477"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030118"/>
   </node>
   <node id="63630413" lat="45.3507540" lon="7.6698739" version="5" timestamp="2023-01-17T19:55:44Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="251"/>
@@ -16256,7 +16250,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q122641865"/>
   </node>
-  <node id="63631363" lat="45.1023440" lon="7.2894130" version="5" timestamp="2023-01-17T19:55:21Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63631363" lat="45.1023440" lon="7.2894130" version="7" timestamp="2025-09-09T05:46:37Z" changeset="171666009" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="283"/>
     <tag k="name" v="Vaie"/>
     <tag k="name:fr" v="Vaye"/>
@@ -16265,6 +16259,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1351"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031443"/>
   </node>
   <node id="63631374" lat="45.0762363" lon="7.3408936" version="4" timestamp="2022-12-15T19:18:17Z" changeset="130128078" uid="177389" user="Garmin-User">
     <tag k="gfoss_id" v="285"/>
@@ -26134,13 +26129,6 @@
     <tag k="population" v="2337"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274673" lat="39.3195060" lon="16.3121661" version="3" timestamp="2016-08-28T18:58:28Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6550"/>
-    <tag k="name" v="Lappano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1000"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274681" lat="39.7244990" lon="15.8541790" version="2" timestamp="2016-08-28T18:58:26Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6545"/>
     <tag k="name" v="Grisolia"/>
@@ -26191,13 +26179,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q53977"/>
     <tag k="wikipedia" v="it:San Nicola Arcella"/>
-  </node>
-  <node id="67274734" lat="39.3420944" lon="16.3112472" version="4" timestamp="2020-09-24T17:04:07Z" changeset="91454862" uid="177389" user="Garmin-User">
-    <tag k="gfoss_id" v="6612"/>
-    <tag k="name" v="San Pietro in Guarano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3712"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274738" lat="39.3079940" lon="16.3210940" version="3" timestamp="2025-05-22T16:36:04Z" changeset="166621364" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="6595"/>
@@ -35199,13 +35180,6 @@
     <tag k="population" v="2131"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301466" lat="44.3603680" lon="11.8445250" version="2" timestamp="2016-09-16T15:55:12Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4130"/>
-    <tag k="name" v="Solarolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4216"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69301478" lat="44.9012244" lon="10.5157280" version="6" timestamp="2020-07-11T19:27:11Z" changeset="87861752" uid="1476146" user="Alecs01">
     <tag k="gfoss_id" v="3940"/>
     <tag k="name" v="Brescello"/>
@@ -35867,12 +35841,13 @@
     <tag k="wikidata" v="Q56085"/>
     <tag k="wikipedia" v="it:Palmiano"/>
   </node>
-  <node id="70980829" lat="43.0319617" lon="13.6076168" version="3" timestamp="2024-11-30T13:51:42Z" changeset="159774642" uid="5328797" user="LorenzoPesci">
+  <node id="70980829" lat="43.0319617" lon="13.6076168" version="4" timestamp="2025-09-09T10:31:54Z" changeset="171678186" uid="3268598" user="Una tantum">
     <tag k="gfoss_id" v="4388"/>
     <tag k="name" v="Ortezzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="832"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028414"/>
   </node>
   <node id="70980859" lat="43.1206530" lon="13.4875820" version="2" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4384"/>
@@ -36938,12 +36913,13 @@
     <tag k="wikidata" v="Q51312"/>
     <tag k="wikipedia" v="it:Vacri"/>
   </node>
-  <node id="70992146" lat="41.8681330" lon="14.5408230" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70992146" lat="41.8681330" lon="14.5408230" version="3" timestamp="2025-09-09T13:13:23Z" changeset="171685980" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="6001"/>
     <tag k="name" v="Torrebruna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1173"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031207"/>
   </node>
   <node id="70992156" lat="42.0245340" lon="14.2591150" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6003"/>

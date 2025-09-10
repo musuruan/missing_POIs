@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-09T02:54:26Z" areas="2025-09-09T01:08:50Z"/>
+<meta osm_base="2025-09-10T02:47:40Z" areas="2025-09-09T23:18:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15,7 +15,7 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="52" timestamp="2025-09-09T16:15:53Z" changeset="171694784" uid="12495047" user="Yan Bakhmat">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -24,6 +24,7 @@
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
     <tag k="name:ko" v="샤모니-몽-블렁"/>
     <tag k="name:ru" v="Шамони-Мон-Блан"/>
+    <tag k="name:uk" v="Шамоні-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
     <tag k="place" v="town"/>
@@ -2210,27 +2211,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72783"/>
   </node>
-  <node id="68581488" lat="40.1043040" lon="15.5404680" version="2" timestamp="2016-08-30T01:07:17Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5676"/>
-    <tag k="name" v="Santa Marina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3303"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581493" lat="40.4729110" lon="15.4845620" version="4" timestamp="2022-01-06T19:54:00Z" changeset="115851490" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="5678"/>
-    <tag k="name" v="Sant'Arsenio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2752"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581497" lat="40.7930110" lon="14.5980390" version="3" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5681"/>
-    <tag k="name" v="San Valentino Torio"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10947"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68581553" lat="40.6682153" lon="15.4815351" version="4" timestamp="2022-07-08T11:21:17Z" changeset="123358107" uid="2481418" user="tio-Jorge">
     <tag k="gfoss_id" v="5654"/>
     <tag k="name" v="Ricigliano"/>
@@ -2315,13 +2295,6 @@
     <tag k="population" v="3019"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582257" lat="40.3438080" lon="15.3684610" version="3" timestamp="2016-08-30T01:07:19Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5702"/>
-    <tag k="name" v="Valle dell’Angelo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="406"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68582421" lat="40.2997040" lon="15.0727550" version="3" timestamp="2016-08-30T01:07:15Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="ele" v="371"/>
     <tag k="gfoss_id" v="5661"/>
@@ -2353,13 +2326,6 @@
     <tag k="name" v="San Mauro la Bruca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="768"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68582488" lat="40.1125325" lon="15.6352367" version="4" timestamp="2016-08-30T01:07:18Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5697"/>
-    <tag k="name" v="Torraca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1232"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70981477" lat="43.1864614" lon="13.4809705" version="4" timestamp="2016-09-09T17:36:38Z" changeset="42039680" uid="743479" user="fayor">
@@ -2605,12 +2571,13 @@
     <tag k="population" v="564"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992146" lat="41.8681330" lon="14.5408230" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70992146" lat="41.8681330" lon="14.5408230" version="3" timestamp="2025-09-09T13:13:23Z" changeset="171685980" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="6001"/>
     <tag k="name" v="Torrebruna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1173"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031207"/>
   </node>
   <node id="70992186" lat="41.9410059" lon="13.4129688" version="5" timestamp="2020-11-15T22:46:27Z" changeset="94167738" uid="364" user="Edward">
     <tag k="gfoss_id" v="5724"/>

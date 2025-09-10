@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-09T03:02:32Z" areas="2025-09-09T01:23:13Z"/>
+<meta osm_base="2025-09-10T02:56:06Z" areas="2025-09-09T23:57:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15,7 +15,7 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9246705" lon="6.8727506" version="51" timestamp="2024-11-29T15:25:07Z" changeset="159746394" uid="11355435" user="ADAC Touristische InfoSysteme">
+  <node id="26696275" lat="45.9246705" lon="6.8727506" version="52" timestamp="2025-09-09T16:15:53Z" changeset="171694784" uid="12495047" user="Yan Bakhmat">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -24,6 +24,7 @@
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
     <tag k="name:ko" v="샤모니-몽-블렁"/>
     <tag k="name:ru" v="Шамони-Мон-Блан"/>
+    <tag k="name:uk" v="Шамоні-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
     <tag k="place" v="town"/>
@@ -9251,7 +9252,7 @@
     <tag k="wikidata" v="Q10316"/>
     <tag k="wikipedia" v="it:Torre Canavese"/>
   </node>
-  <node id="63631363" lat="45.1023440" lon="7.2894130" version="5" timestamp="2023-01-17T19:55:21Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63631363" lat="45.1023440" lon="7.2894130" version="7" timestamp="2025-09-09T05:46:37Z" changeset="171666009" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="283"/>
     <tag k="name" v="Vaie"/>
     <tag k="name:fr" v="Vaye"/>
@@ -9260,6 +9261,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1351"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031443"/>
   </node>
   <node id="63631381" lat="45.8424740" lon="8.5317260" version="5" timestamp="2023-01-17T20:05:24Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="8037"/>
@@ -19119,13 +19121,6 @@
     <tag k="wikidata" v="Q56085"/>
     <tag k="wikipedia" v="it:Palmiano"/>
   </node>
-  <node id="70980829" lat="43.0319617" lon="13.6076168" version="3" timestamp="2024-11-30T13:51:42Z" changeset="159774642" uid="5328797" user="LorenzoPesci">
-    <tag k="gfoss_id" v="4388"/>
-    <tag k="name" v="Ortezzano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="832"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70980859" lat="43.1206530" lon="13.4875820" version="2" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4384"/>
     <tag k="name" v="Monte Vidon Corrado"/>
@@ -19943,12 +19938,13 @@
     <tag k="population" v="564"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992146" lat="41.8681330" lon="14.5408230" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70992146" lat="41.8681330" lon="14.5408230" version="3" timestamp="2025-09-09T13:13:23Z" changeset="171685980" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="6001"/>
     <tag k="name" v="Torrebruna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1173"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031207"/>
   </node>
   <node id="70992156" lat="42.0245340" lon="14.2591150" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6003"/>
