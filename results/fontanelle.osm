@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-10T02:51:58Z" areas="2025-09-09T23:57:56Z"/>
+<meta osm_base="2025-09-11T02:57:29Z" areas="2025-09-10T23:32:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7337,12 +7337,13 @@
     <tag k="population" v="1204"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980134" lat="42.8322480" lon="13.6879900" version="2" timestamp="2016-09-09T17:36:37Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980134" lat="42.8322480" lon="13.6879900" version="3" timestamp="2025-09-10T21:22:53Z" changeset="171756723" uid="3268598" user="Una tantum">
     <tag k="gfoss_id" v="4360"/>
     <tag k="name" v="Maltignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2357"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027157"/>
   </node>
   <node id="70980169" lat="42.8969500" lon="13.7938920" version="2" timestamp="2016-09-09T17:36:38Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4364"/>
@@ -8147,12 +8148,14 @@
     <tag k="population" v="1052"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961059" lat="41.2990160" lon="13.8240150" version="2" timestamp="2016-09-07T16:57:03Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72961059" lat="41.2990160" lon="13.8240150" version="3" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5036"/>
     <tag k="name" v="Castelforte"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4518"/>
+    <tag k="population" v="4024"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
   </node>
   <node id="72961227" lat="42.4982226" lon="12.7786892" version="4" timestamp="2018-09-05T07:34:18Z" changeset="62301613" uid="8588825" user="Frank Fiorucci">
     <tag k="gfoss_id" v="4860"/>
@@ -10864,10 +10867,12 @@
     <tag k="ref:istat" v="071040"/>
     <tag k="wikidata" v="Q51946"/>
   </node>
-  <node id="2707316028" lat="40.8932368" lon="12.9630622" version="3" timestamp="2016-09-07T16:57:07Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="2707316028" lat="40.8932368" lon="12.9630622" version="4" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="name" v="Ponza"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3337"/>
+    <tag k="population" v="3311"/>
+    <tag k="population:date" v="2025-01-01"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
   </node>
   <node id="2808184554" lat="40.3229668" lon="15.0523949" version="2" timestamp="2016-08-30T01:07:18Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5696"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-10T02:55:01Z" areas="2025-09-09T23:57:56Z"/>
+<meta osm_base="2025-09-11T02:59:29Z" areas="2025-09-10T22:06:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -16570,7 +16570,7 @@
     <tag k="wikidata" v="Q25208"/>
     <tag k="wikipedia" v="it:Scopa (Italia)"/>
   </node>
-  <node id="63632039" lat="45.6855680" lon="8.3109240" version="4" timestamp="2023-01-17T19:52:00Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63632039" lat="45.6856289" lon="8.3121471" version="5" timestamp="2025-09-10T21:12:00Z" changeset="171756482" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="391"/>
     <tag k="name" v="Serravalle Sesia"/>
     <tag k="place" v="village"/>
@@ -20295,13 +20295,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="5684"/>
   </node>
-  <node id="64778949" lat="45.5185311" lon="11.0161587" version="7" timestamp="2017-03-12T14:07:50Z" changeset="46785792" uid="354284" user="sbiribizio">
+  <node id="64778949" lat="45.5185311" lon="11.0161587" version="8" timestamp="2025-09-10T09:33:19Z" changeset="171726126" uid="22002619" user="LucaVR90">
     <tag k="gfoss_id" v="3128"/>
     <tag k="name" v="Grezzana"/>
     <tag k="name:uk" v="Греццана"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="10788"/>
+    <tag k="population" v="10 772"/>
+    <tag k="population:date" v="2025-05-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q47890"/>
     <tag k="wikipedia" v="it:Grezzana"/>
   </node>
@@ -35638,12 +35640,13 @@
     <tag k="population" v="1204"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980134" lat="42.8322480" lon="13.6879900" version="2" timestamp="2016-09-09T17:36:37Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980134" lat="42.8322480" lon="13.6879900" version="3" timestamp="2025-09-10T21:22:53Z" changeset="171756723" uid="3268598" user="Una tantum">
     <tag k="gfoss_id" v="4360"/>
     <tag k="name" v="Maltignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2357"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027157"/>
   </node>
   <node id="70980190" lat="43.0620520" lon="13.5900850" version="2" timestamp="2016-09-09T17:36:42Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4385"/>
@@ -38627,12 +38630,14 @@
     <tag k="wikimedia_commons" v="Category:Trivigliano"/>
     <tag k="wikipedia" v="it:Trivigliano"/>
   </node>
-  <node id="72960869" lat="41.4726165" lon="13.1798388" version="6" timestamp="2023-10-30T16:39:11Z" changeset="143375821" uid="3860151" user="Michele Aquilani">
+  <node id="72960869" lat="41.4726165" lon="13.1798388" version="7" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5051"/>
     <tag k="name" v="Priverno"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="14525"/>
+    <tag k="population" v="13704"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="wikidata" v="Q128139"/>
     <tag k="wikimedia_commons" v="Category:Priverno"/>
     <tag k="wikipedia" v="it:Priverno"/>
@@ -38678,41 +38683,49 @@
     <tag k="population" v="1201"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961029" lat="41.4061150" lon="13.4594060" version="6" timestamp="2024-07-17T07:59:08Z" changeset="154045404" uid="9451067" user="b-jazz-bot">
+  <node id="72961029" lat="41.4061150" lon="13.4594060" version="7" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5044"/>
     <tag k="name" v="Lenola"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4131"/>
+    <tag k="population" v="4119"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://comune.lenola.lt.it/"/>
     <tag k="wikidata" v="Q128101"/>
     <tag k="wikimedia_commons" v="Category:Lenola"/>
     <tag k="wikipedia" v="it:Lenola"/>
   </node>
-  <node id="72961052" lat="41.6431038" lon="12.9158514" version="9" timestamp="2023-11-06T00:56:13Z" changeset="143672740" uid="9451067" user="b-jazz-bot">
+  <node id="72961052" lat="41.6431038" lon="12.9158514" version="10" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5038"/>
     <tag k="name" v="Cori"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="11065"/>
+    <tag k="population" v="10407"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://www.comune.cori.lt.it/"/>
     <tag k="wikidata" v="Q128081"/>
     <tag k="wikimedia_commons" v="Category:Cori"/>
     <tag k="wikipedia" v="it:Cori"/>
   </node>
-  <node id="72961059" lat="41.2990160" lon="13.8240150" version="2" timestamp="2016-09-07T16:57:03Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72961059" lat="41.2990160" lon="13.8240150" version="3" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5036"/>
     <tag k="name" v="Castelforte"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4518"/>
+    <tag k="population" v="4024"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
   </node>
-  <node id="72961071" lat="41.3904463" lon="13.5303355" version="6" timestamp="2017-03-11T12:49:47Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72961071" lat="41.3904463" lon="13.5303355" version="7" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5035"/>
     <tag k="name" v="Campodimele"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="622"/>
+    <tag k="population" v="555"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="wikidata" v="Q128060"/>
     <tag k="wikipedia" v="it:Campodimele"/>
   </node>
@@ -48021,12 +48034,14 @@
     <tag k="wikidata" v="Q215008"/>
     <tag k="wikipedia" v="it:Santa Fiora"/>
   </node>
-  <node id="5754062172" lat="41.4084557" lon="13.0443366" version="21" timestamp="2023-09-23T10:48:52Z" changeset="141638664" uid="3860151" user="Michele Aquilani">
+  <node id="5754062172" lat="41.4084557" lon="13.0443366" version="22" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5049"/>
     <tag k="name" v="Pontinia"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="14920"/>
+    <tag k="population" v="15099"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="wikidata" v="Q128130"/>
     <tag k="wikimedia_commons" v="Category:Pontinia"/>
     <tag k="wikipedia" v="it:Pontinia"/>

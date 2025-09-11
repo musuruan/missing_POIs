@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-10T02:48:47Z" areas="2025-09-09T23:57:56Z"/>
+<meta osm_base="2025-09-11T02:54:29Z" areas="2025-09-10T22:06:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15738,25 +15738,29 @@
     <tag k="population" v="1201"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961029" lat="41.4061150" lon="13.4594060" version="6" timestamp="2024-07-17T07:59:08Z" changeset="154045404" uid="9451067" user="b-jazz-bot">
+  <node id="72961029" lat="41.4061150" lon="13.4594060" version="7" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5044"/>
     <tag k="name" v="Lenola"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4131"/>
+    <tag k="population" v="4119"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://comune.lenola.lt.it/"/>
     <tag k="wikidata" v="Q128101"/>
     <tag k="wikimedia_commons" v="Category:Lenola"/>
     <tag k="wikipedia" v="it:Lenola"/>
   </node>
-  <node id="72961089" lat="41.5497551" lon="13.0322330" version="5" timestamp="2024-08-14T07:54:19Z" changeset="155226419" uid="3860151" user="Michele Aquilani">
+  <node id="72961089" lat="41.5497551" lon="13.0322330" version="6" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="contact:facebook" v="https://www.facebook.com/comunedibassiano"/>
     <tag k="gfoss_id" v="5034"/>
     <tag k="is_in" v="Latina, Lazio, Italy"/>
     <tag k="name" v="Bassiano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1617"/>
+    <tag k="population" v="1421"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://www.comune.bassiano.lt.it"/>
     <tag k="wikidata" v="Q128057"/>
     <tag k="wikimedia_commons" v="Category:Bassiano"/>

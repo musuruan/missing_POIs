@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-10T02:52:51Z" areas="2025-09-09T23:57:56Z"/>
+<meta osm_base="2025-09-11T02:58:30Z" areas="2025-09-10T22:06:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -18643,7 +18643,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022715"/>
   </node>
-  <node id="72960551" lat="41.6425200" lon="13.4727030" version="5" timestamp="2017-03-11T12:49:44Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72960551" lat="41.6425255" lon="13.4725830" version="6" timestamp="2025-09-10T12:03:46Z" changeset="171732469" uid="7464" user="Odiug">
     <tag k="gfoss_id" v="5079"/>
     <tag k="name" v="Boville Ernica"/>
     <tag k="place" v="village"/>
@@ -18817,22 +18817,26 @@
     <tag k="wikimedia_commons" v="Category:Trivigliano"/>
     <tag k="wikipedia" v="it:Trivigliano"/>
   </node>
-  <node id="72960887" lat="41.3525130" lon="13.3522040" version="8" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
+  <node id="72960887" lat="41.3525130" lon="13.3522040" version="9" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5047"/>
     <tag k="name" v="Monte San Biagio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5996"/>
+    <tag k="population" v="6019"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="wikidata" v="Q128107"/>
     <tag k="wikimedia_commons" v="Category:Monte San Biagio"/>
     <tag k="wikipedia" v="it:Monte San Biagio"/>
   </node>
-  <node id="72960915" lat="41.5233613" lon="13.1805494" version="9" timestamp="2024-01-22T16:21:03Z" changeset="146560636" uid="3860151" user="Michele Aquilani">
+  <node id="72960915" lat="41.5233613" lon="13.1805494" version="10" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5045"/>
     <tag k="name" v="Maenza"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3017"/>
+    <tag k="population" v="2949"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://www.comunedimaenza.it/"/>
     <tag k="wikidata" v="Q128103"/>
     <tag k="wikimedia_commons" v="Category:Maenza"/>
@@ -18852,41 +18856,49 @@
     <tag k="population" v="1201"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961029" lat="41.4061150" lon="13.4594060" version="6" timestamp="2024-07-17T07:59:08Z" changeset="154045404" uid="9451067" user="b-jazz-bot">
+  <node id="72961029" lat="41.4061150" lon="13.4594060" version="7" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5044"/>
     <tag k="name" v="Lenola"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4131"/>
+    <tag k="population" v="4119"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://comune.lenola.lt.it/"/>
     <tag k="wikidata" v="Q128101"/>
     <tag k="wikimedia_commons" v="Category:Lenola"/>
     <tag k="wikipedia" v="it:Lenola"/>
   </node>
-  <node id="72961059" lat="41.2990160" lon="13.8240150" version="2" timestamp="2016-09-07T16:57:03Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72961059" lat="41.2990160" lon="13.8240150" version="3" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5036"/>
     <tag k="name" v="Castelforte"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4518"/>
+    <tag k="population" v="4024"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
   </node>
-  <node id="72961071" lat="41.3904463" lon="13.5303355" version="6" timestamp="2017-03-11T12:49:47Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72961071" lat="41.3904463" lon="13.5303355" version="7" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5035"/>
     <tag k="name" v="Campodimele"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="622"/>
+    <tag k="population" v="555"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="wikidata" v="Q128060"/>
     <tag k="wikipedia" v="it:Campodimele"/>
   </node>
-  <node id="72961089" lat="41.5497551" lon="13.0322330" version="5" timestamp="2024-08-14T07:54:19Z" changeset="155226419" uid="3860151" user="Michele Aquilani">
+  <node id="72961089" lat="41.5497551" lon="13.0322330" version="6" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="contact:facebook" v="https://www.facebook.com/comunedibassiano"/>
     <tag k="gfoss_id" v="5034"/>
     <tag k="is_in" v="Latina, Lazio, Italy"/>
     <tag k="name" v="Bassiano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1617"/>
+    <tag k="population" v="1421"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://www.comune.bassiano.lt.it"/>
     <tag k="wikidata" v="Q128057"/>
     <tag k="wikimedia_commons" v="Category:Bassiano"/>

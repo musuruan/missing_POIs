@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-10T02:56:06Z" areas="2025-09-09T23:57:56Z"/>
+<meta osm_base="2025-09-11T03:00:34Z" areas="2025-09-10T23:32:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9398,15 +9398,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025229"/>
   </node>
-  <node id="63631878" lat="45.4292620" lon="8.2919280" version="6" timestamp="2023-01-17T19:59:48Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="349"/>
-    <tag k="name" v="Formigliana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="561"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q25071"/>
-  </node>
   <node id="63631890" lat="45.3306590" lon="8.2108280" version="7" timestamp="2023-01-17T19:57:02Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="345"/>
@@ -16653,13 +16644,6 @@
     <tag k="population" v="611"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68568490" lat="41.0298168" lon="14.7440830" version="3" timestamp="2016-09-01T23:10:00Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5266"/>
-    <tag k="name" v="Arpaise"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="863"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68568571" lat="41.2230773" lon="14.9798206" version="4" timestamp="2019-03-09T20:59:11Z" changeset="67971468" uid="1258547" user="Decan">
     <tag k="gfoss_id" v="5271"/>
     <tag k="name" v="Buonalbergo"/>
@@ -16672,13 +16656,6 @@
     <tag k="name" v="Casalduni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1602"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68568696" lat="41.1315180" lon="14.6459350" version="2" timestamp="2016-09-01T23:10:02Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5274"/>
-    <tag k="name" v="Campoli del Monte Taburno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1515"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68568784" lat="41.2971923" lon="15.0858356" version="4" timestamp="2024-11-09T18:16:32Z" changeset="158944664" uid="20397427" user="RUGGERO DEL VECCHIO">
@@ -21343,12 +21320,14 @@
     <tag k="wikimedia_commons" v="Category:Prossedi"/>
     <tag k="wikipedia" v="it:Prossedi"/>
   </node>
-  <node id="72960915" lat="41.5233613" lon="13.1805494" version="9" timestamp="2024-01-22T16:21:03Z" changeset="146560636" uid="3860151" user="Michele Aquilani">
+  <node id="72960915" lat="41.5233613" lon="13.1805494" version="10" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5045"/>
     <tag k="name" v="Maenza"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3017"/>
+    <tag k="population" v="2949"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://www.comunedimaenza.it/"/>
     <tag k="wikidata" v="Q128103"/>
     <tag k="wikimedia_commons" v="Category:Maenza"/>
@@ -21361,23 +21340,27 @@
     <tag k="population" v="1201"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72961071" lat="41.3904463" lon="13.5303355" version="6" timestamp="2017-03-11T12:49:47Z" changeset="46761722" uid="354284" user="sbiribizio">
+  <node id="72961071" lat="41.3904463" lon="13.5303355" version="7" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="5035"/>
     <tag k="name" v="Campodimele"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="622"/>
+    <tag k="population" v="555"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="wikidata" v="Q128060"/>
     <tag k="wikipedia" v="it:Campodimele"/>
   </node>
-  <node id="72961089" lat="41.5497551" lon="13.0322330" version="5" timestamp="2024-08-14T07:54:19Z" changeset="155226419" uid="3860151" user="Michele Aquilani">
+  <node id="72961089" lat="41.5497551" lon="13.0322330" version="6" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="contact:facebook" v="https://www.facebook.com/comunedibassiano"/>
     <tag k="gfoss_id" v="5034"/>
     <tag k="is_in" v="Latina, Lazio, Italy"/>
     <tag k="name" v="Bassiano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1617"/>
+    <tag k="population" v="1421"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://www.comune.bassiano.lt.it"/>
     <tag k="wikidata" v="Q128057"/>
     <tag k="wikimedia_commons" v="Category:Bassiano"/>
@@ -21403,15 +21386,15 @@
     <tag k="wikimedia_commons" v="Category:Rocca Massima"/>
     <tag k="wikipedia" v="it:Rocca Massima"/>
   </node>
-  <node id="72961204" lat="41.5859640" lon="12.9744412" version="9" timestamp="2025-06-07T16:15:01Z" changeset="167317496" uid="10979736" user="Nicolò Cassandra">
+  <node id="72961204" lat="41.5859640" lon="12.9744412" version="10" timestamp="2025-09-10T11:18:31Z" changeset="171730452" uid="22242779" user="notmyproblem1">
     <tag k="ele" v="444"/>
     <tag k="gfoss_id" v="5048"/>
     <tag k="name" v="Norma"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3759"/>
-    <tag k="population:date" v="2024/11/30"/>
+    <tag k="population" v="3751"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it;local knowledge"/>
-    <tag k="source:population" v="wikipedia"/>
+    <tag k="source:population" v="https://demo.istat.it/app/?l=it&amp;a=2025&amp;i=POS"/>
     <tag k="website" v="https://www.comune.norma.lt.it/"/>
     <tag k="wikidata" v="Q128119"/>
     <tag k="wikimedia_commons" v="Category:Norma (comune, Italy)"/>
