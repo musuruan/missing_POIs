@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-12T02:52:19Z" areas="2025-09-11T20:16:50Z"/>
+<meta osm_base="2025-09-13T02:44:06Z" areas="2025-09-12T22:26:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -13485,13 +13485,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030894"/>
   </node>
-  <node id="68529584" lat="40.1017240" lon="18.4493330" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6348"/>
-    <tag k="name" v="Uggiano la Chiesa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4341"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68529612" lat="39.9756210" lon="18.3214310" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6306"/>
     <tag k="name" v="Montesano Salentino"/>
@@ -14839,12 +14832,13 @@
     <tag k="wikidata" v="Q58549"/>
     <tag k="wikipedia" v="it:Castel Campagnano"/>
   </node>
-  <node id="68580229" lat="41.4502210" lon="14.1583200" version="2" timestamp="2016-09-02T23:58:40Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="68580229" lat="41.4502210" lon="14.1583200" version="3" timestamp="2025-09-12T09:12:09Z" changeset="171820357" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="5186"/>
     <tag k="name" v="Ciorlano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="524"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024777"/>
   </node>
   <node id="68580236" lat="40.9644120" lon="14.2301280" version="3" timestamp="2016-09-02T23:58:40Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5185"/>
@@ -15354,13 +15348,6 @@
     <tag k="name" v="Visciano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4621"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581493" lat="40.4729110" lon="15.4845620" version="4" timestamp="2022-01-06T19:54:00Z" changeset="115851490" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="5678"/>
-    <tag k="name" v="Sant'Arsenio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2752"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68581497" lat="40.7930110" lon="14.5980390" version="3" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
@@ -18224,13 +18211,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023167"/>
     <tag k="wikipedia" v="it:Broccostella"/>
-  </node>
-  <node id="72959723" lat="41.3788737" lon="13.7553846" version="3" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5086"/>
-    <tag k="name" v="Castelnuovo Parano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="876"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72959744" lat="41.5428220" lon="13.9528150" version="3" timestamp="2021-04-29T19:56:40Z" changeset="103867285" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5066"/>

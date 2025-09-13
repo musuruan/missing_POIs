@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-12T02:51:21Z" areas="2025-09-11T20:16:50Z"/>
+<meta osm_base="2025-09-13T02:43:04Z" areas="2025-09-12T23:33:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6050,6 +6050,13 @@
     <tag k="population" v="1750"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="68566784" lat="41.0067190" lon="15.0724460" version="6" timestamp="2016-09-01T23:10:06Z" changeset="41859282" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="5466"/>
+    <tag k="name" v="Gesualdo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3829"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="68566866" lat="41.2518250" lon="15.1691450" version="3" timestamp="2016-09-05T17:11:56Z" changeset="41936211" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="5467"/>
     <tag k="name" v="Greci"/>
@@ -7825,14 +7832,6 @@
     <tag k="population" v="754"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992798" lat="42.2699374" lon="13.5374862" version="4" timestamp="2025-02-03T14:37:42Z" changeset="162089770" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5812"/>
-    <tag k="name" v="Villa Sant'Angelo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="431"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18427125"/>
-  </node>
   <node id="70992847" lat="42.1270330" lon="13.8167030" version="3" timestamp="2025-02-04T07:41:09Z" changeset="162113443" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5815"/>
     <tag k="name" v="Vittorito"/>
@@ -7992,12 +7991,13 @@
     <tag k="wikimedia_commons" v="Category:Frosinone"/>
     <tag k="wikipedia" v="en:Frosinone"/>
   </node>
-  <node id="72959723" lat="41.3788737" lon="13.7553846" version="3" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
+  <node id="72959723" lat="41.3788737" lon="13.7553846" version="4" timestamp="2025-09-12T13:06:12Z" changeset="171831735" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5086"/>
     <tag k="name" v="Castelnuovo Parano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="876"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024302"/>
   </node>
   <node id="72959732" lat="41.5549190" lon="13.6034070" version="3" timestamp="2016-09-07T16:57:04Z" changeset="41983637" uid="743479" user="fayor">
     <tag k="admin_level" v="8"/>
