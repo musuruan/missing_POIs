@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-13T02:46:05Z" areas="2025-09-12T22:26:35Z"/>
+<meta osm_base="2025-09-14T03:01:55Z" areas="2025-09-13T20:45:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -248,13 +248,6 @@
     <tag k="population" v="10870"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024584"/>
-  </node>
-  <node id="61753436" lat="44.1124753" lon="11.5477477" version="7" timestamp="2021-09-13T21:52:55Z" changeset="111166684" uid="69259" user="DnaX">
-    <tag k="gfoss_id" v="4508"/>
-    <tag k="name" v="Palazzuolo sul Senio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1301"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753438" lat="43.8605674" lon="11.5668116" version="4" timestamp="2019-11-22T20:06:03Z" changeset="77444086" uid="10490213" user="MARCOLONDA">
     <tag k="gfoss_id" v="4503"/>
@@ -28265,12 +28258,14 @@
     <tag k="population" v="1067"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283853" lat="41.5950300" lon="14.9117350" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283853" lat="41.5950300" lon="14.9117350" version="4" timestamp="2025-09-13T17:37:11Z" changeset="171886636" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="6047"/>
     <tag k="name" v="Macchia Valfortore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="757"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026814"/>
+    <tag k="wikimedia_commons" v="Category:Macchia Valfortore"/>
   </node>
   <node id="67283860" lat="41.6449290" lon="14.6751290" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6053"/>
@@ -30278,13 +30273,6 @@
     <tag k="name" v="Troia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7495"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529247" lat="41.8827595" lon="16.1791791" version="6" timestamp="2023-06-14T22:17:18Z" changeset="137346887" uid="19497998" user="branco-revert">
-    <tag k="gfoss_id" v="6156"/>
-    <tag k="name" v="Vieste"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13975"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529254" lat="41.8983440" lon="15.9575540" version="4" timestamp="2023-06-14T22:24:23Z" changeset="137347016" uid="19497998" user="branco-revert">
@@ -33439,7 +33427,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="www.trentinara.net"/>
   </node>
-  <node id="68582292" lat="40.5428799" lon="15.4489662" version="3" timestamp="2016-08-30T01:07:13Z" changeset="41791239" uid="743479" user="fayor">
+  <node id="68582292" lat="40.5432427" lon="15.4501356" version="4" timestamp="2025-09-13T08:46:40Z" changeset="171864894" uid="8215303" user="ross-map">
     <tag k="gfoss_id" v="5642"/>
     <tag k="name" v="Pertosa"/>
     <tag k="place" v="village"/>
@@ -45711,6 +45699,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="196"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
+  </node>
+  <node id="1216362191" lat="43.2347405" lon="13.6878517" version="10" timestamp="2019-03-05T07:39:10Z" changeset="67793901" uid="123412" user="totera">
+    <tag k="name" v="Sant'Elpidio a Mare"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="17110"/>
+    <tag k="postal_code" v="63811"/>
+    <tag k="wikidata" v="Q59297"/>
+    <tag k="wikipedia" v="it:Sant'Elpidio a Mare"/>
   </node>
   <node id="1223678108" lat="46.3882382" lon="12.9925981" version="11" timestamp="2025-07-22T21:29:22Z" changeset="169314599" uid="684800" user="fabiotofy">
     <tag k="loc_name:fur" v="Cjauias"/>
