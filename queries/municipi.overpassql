@@ -25,7 +25,12 @@ rel(pivot.c)->.withFeature;
 
 //computo la differenza fra i due set ottenendo quindi tutte quelle aree di tipo admin_level=8 senza un townhall
 
-(.allAdminBoundary; - .withFeature;);
+(.allAdminBoundary; - .withFeature;)->.diff;
+node(id:1212265354)->.excludedNode; //Comune di Caines non ha municipio perché usa quello di Rifiano
+//si possono escludere altri nodi separati da virgola
+rel(bn.excludedNode)->.excludedRel;
+(.diff; - .excludedRel;);
+
 //togliendo i commenti a questa che segue vengono estratti i soli admin_centre.... la query diventa molto più veloce
 node(r:"admin_centre");
 (._;>;);
