@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-15T02:59:41Z" areas="2025-09-15T00:47:43Z"/>
+<meta osm_base="2025-09-16T02:49:36Z" areas="2025-09-16T00:30:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -834,19 +834,6 @@
     <tag k="population" v="987"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280603" lat="40.1138090" lon="16.1697820" version="11" timestamp="2024-07-20T06:55:33Z" changeset="154167245" uid="9451067" user="b-jazz-bot">
-    <tag k="fax" v="+39 0973 572003"/>
-    <tag k="gfoss_id" v="6385"/>
-    <tag k="name" v="Fardella"/>
-    <tag k="phone" v="+39 0973 572051"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="765"/>
-    <tag k="postal_code" v="85030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.fardella.pz.it/"/>
-    <tag k="wikidata" v="Q52568"/>
-    <tag k="wikipedia" v="it:Fardella"/>
-  </node>
   <node id="67280613" lat="40.0748070" lon="16.0981810" version="3" timestamp="2021-06-06T01:50:56Z" changeset="105901588" uid="1772368" user="pizzaiolo">
     <tag k="gfoss_id" v="6384"/>
     <tag k="name" v="Episcopia"/>
@@ -1563,34 +1550,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025056"/>
   </node>
-  <node id="68566457" lat="40.9418653" lon="14.8498042" version="3" timestamp="2016-09-01T23:10:07Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5476"/>
-    <tag k="name" v="Manocalzati"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3096"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566467" lat="40.8742455" lon="14.6583584" version="3" timestamp="2016-09-01T23:10:09Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5494"/>
-    <tag k="name" v="Moschiano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1658"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566470" lat="40.9623951" lon="14.8109591" version="3" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5485"/>
-    <tag k="name" v="Montefredane"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2305"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566474" lat="41.0376180" lon="14.8549410" version="2" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5486"/>
-    <tag k="name" v="Montefusco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1475"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68566484" lat="40.9309405" lon="14.8817697" version="3" timestamp="2016-09-01T23:10:09Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5499"/>
     <tag k="name" v="Parolise"/>
@@ -1691,66 +1650,6 @@
     <tag k="population" v="4391"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566745" lat="41.0512220" lon="15.4238540" version="2" timestamp="2016-08-28T18:58:27Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5471"/>
-    <tag k="name" v="Lacedonia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566753" lat="40.9727160" lon="14.7870400" version="3" timestamp="2017-11-26T19:13:59Z" changeset="54103170" uid="3232636" user="Karthoo">
-    <tag k="gfoss_id" v="5469"/>
-    <tag k="name" v="Grottolella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1854"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q55041"/>
-    <tag k="wikipedia" v="it:Grottolella"/>
-  </node>
-  <node id="68566764" lat="40.8799681" lon="14.6294670" version="3" timestamp="2016-08-30T01:07:10Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5473"/>
-    <tag k="name" v="Lauro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3628"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566776" lat="40.9811170" lon="14.9463440" version="4" timestamp="2016-09-01T23:10:06Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5472"/>
-    <tag k="name" v="Lapio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1750"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566849" lat="41.0697200" lon="15.0589450" version="4" timestamp="2020-07-30T16:36:00Z" changeset="88743925" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5468"/>
-    <tag k="name" v="Grottaminarda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8137"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q55040"/>
-    <tag k="wikipedia" v="en:Grottaminarda"/>
-  </node>
-  <node id="68566914" lat="40.9610384" lon="14.8822149" version="3" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5483"/>
-    <tag k="name" v="Montefalcione"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3397"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566973" lat="40.9027195" lon="14.5840934" version="3" timestamp="2016-08-31T23:04:15Z" changeset="41838072" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5477"/>
-    <tag k="name" v="Marzano di Nola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1607"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567018" lat="41.0449190" lon="14.9987440" version="4" timestamp="2016-09-01T23:10:07Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5480"/>
-    <tag k="name" v="Mirabella Eclano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8272"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68567131" lat="40.9870170" lon="14.8526420" version="2" timestamp="2016-09-01T23:10:11Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5505"/>
     <tag k="name" v="Pratola Serra"/>
@@ -1763,13 +1662,6 @@
     <tag k="name" v="Petruro Irpino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="400"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567271" lat="40.9989220" lon="15.5341570" version="2" timestamp="2016-08-28T18:58:33Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5490"/>
-    <tag k="name" v="Monteverde"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="921"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68567329" lat="41.0712210" lon="15.2005480" version="2" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">

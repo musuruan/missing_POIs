@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-15T03:07:02Z" areas="2025-09-14T23:00:43Z"/>
+<meta osm_base="2025-09-16T02:56:45Z" areas="2025-09-16T00:30:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6736,6 +6736,17 @@
     <tag k="place" v="town"/>
     <tag k="population" v="37207"/>
     <tag k="wikidata" v="Q42794"/>
+  </node>
+  <node id="62514287" lat="45.4180700" lon="9.2716500" version="6" timestamp="2023-10-27T17:30:50Z" changeset="143222082" uid="10356690" user="Sunset2001">
+    <tag k="gfoss_id" v="1883"/>
+    <tag k="is_in" v="Milano, Lombardia, Italy"/>
+    <tag k="name" v="San Donato Milanese"/>
+    <tag k="name:lmo" v="San Donaa"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="32354"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q42192"/>
+    <tag k="wikipedia" v="it:San Donato Milanese"/>
   </node>
   <node id="62514295" lat="45.3658483" lon="8.9245144" version="6" timestamp="2020-04-25T04:20:36Z" changeset="84089121" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1858"/>
@@ -24173,11 +24184,12 @@
     <tag k="population" v="3523"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67255693" lat="38.0722687" lon="14.7449534" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67255693" lat="38.0722687" lon="14.7449534" version="15" timestamp="2025-09-15T07:25:51Z" changeset="171949616" uid="3268598" user="Una tantum">
     <tag k="name" v="Frazzanò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="559"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
+    <tag k="wikidata" v="Q30025896"/>
   </node>
   <node id="67255704" lat="37.8600912" lon="15.2214123" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Kaggi"/>

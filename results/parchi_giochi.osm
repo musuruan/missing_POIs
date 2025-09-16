@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-15T03:06:02Z" areas="2025-09-14T23:00:43Z"/>
+<meta osm_base="2025-09-16T02:54:43Z" areas="2025-09-16T00:30:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9150,11 +9150,12 @@
     <tag k="source:population" v="Istat febbraio 2024"/>
     <tag k="wikidata" v="Q33689645"/>
   </node>
-  <node id="67255693" lat="38.0722687" lon="14.7449534" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67255693" lat="38.0722687" lon="14.7449534" version="15" timestamp="2025-09-15T07:25:51Z" changeset="171949616" uid="3268598" user="Una tantum">
     <tag k="name" v="Frazzanò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="559"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
+    <tag k="wikidata" v="Q30025896"/>
   </node>
   <node id="67255713" lat="38.1732691" lon="14.8951639" version="15" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="Giujusa Marea"/>
@@ -15733,16 +15734,6 @@
     <tag k="population" v="920"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582428" lat="40.4345100" lon="15.4636620" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="5675"/>
-    <tag k="name" v="San Rufo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1853"/>
-    <tag k="postal_code" v="84030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q81588"/>
-    <tag k="wikipedia" v="it:San Rufo (Italia)"/>
-  </node>
   <node id="68582435" lat="40.4568110" lon="15.4806620" version="2" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5674"/>
     <tag k="name" v="San Pietro al Tanagro"/>
@@ -19623,18 +19614,6 @@
     <tag k="wikidata" v="Q242844"/>
     <tag k="wikimedia_commons" v="Category:Licenza"/>
     <tag k="wikipedia" v="it:Licenza (Italia)"/>
-  </node>
-  <node id="72963608" lat="42.1598932" lon="12.4368996" version="6" timestamp="2023-10-04T13:41:44Z" changeset="142146385" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/ComuneMaglianoRomano"/>
-    <tag k="gfoss_id" v="4963"/>
-    <tag k="name" v="Magliano Romano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1322"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comunedimaglianoromano.it/"/>
-    <tag k="wikidata" v="Q242870"/>
-    <tag k="wikimedia_commons" v="Category:Magliano Romano"/>
-    <tag k="wikipedia" v="it:Magliano Romano"/>
   </node>
   <node id="72963658" lat="41.6511170" lon="13.0398930" version="4" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4973"/>
