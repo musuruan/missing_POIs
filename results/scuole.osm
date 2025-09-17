@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-16T02:57:41Z" areas="2025-09-16T00:30:30Z"/>
+<meta osm_base="2025-09-17T02:56:30Z" areas="2025-09-16T19:40:52Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1477,8 +1477,9 @@
     <tag k="population" v="1232"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508594" lat="46.0240960" lon="10.3656630" version="3" timestamp="2024-09-09T17:58:38Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62508594" lat="46.0240960" lon="10.3656630" version="4" timestamp="2025-09-16T12:26:34Z" changeset="172012388" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2224"/>
+    <tag k="loc_name" v="Semberc"/>
     <tag k="name" v="Cimbergo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="573"/>
@@ -11050,12 +11051,14 @@
     <tag k="wikimedia_commons" v="File:Vallebona.JPG"/>
     <tag k="wikipedia" v="it:Vallebona"/>
   </node>
-  <node id="66586810" lat="43.9237407" lon="8.0671862" version="3" timestamp="2017-05-03T08:43:55Z" changeset="48358560" uid="69526" user="apetro">
+  <node id="66586810" lat="43.9237407" lon="8.0671862" version="4" timestamp="2025-09-16T19:33:42Z" changeset="172032149" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1147"/>
     <tag k="name" v="Diano Castello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1885"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q268902"/>
+    <tag k="wikipedia" v="it:Diano Castello"/>
   </node>
   <node id="66586814" lat="43.8554210" lon="7.9387490" version="3" timestamp="2022-06-13T07:23:42Z" changeset="122310238" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1145"/>
@@ -13665,13 +13668,6 @@
     <tag k="wikidata" v="Q54734"/>
     <tag k="wikipedia" v="it:San Calogero (Italia)"/>
   </node>
-  <node id="67275825" lat="38.5128770" lon="16.1006990" version="2" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6807"/>
-    <tag k="name" v="Serrata"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="964"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67275842" lat="38.3226730" lon="16.0074990" version="4" timestamp="2023-07-31T20:20:13Z" changeset="139270554" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6814"/>
     <tag k="name" v="Terranova Sappo Minulio"/>
@@ -16262,7 +16258,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030317"/>
   </node>
-  <node id="68566522" lat="40.9281157" lon="14.8730510" version="3" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566522" lat="40.9281486" lon="14.8727070" version="4" timestamp="2025-09-16T12:25:46Z" changeset="172012352" uid="34088" user="CVI">
     <tag k="gfoss_id" v="5516"/>
     <tag k="name" v="San Potito Ultra"/>
     <tag k="place" v="village"/>
@@ -16281,13 +16277,6 @@
     <tag k="name" v="Santo Stefano del Sole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1927"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566539" lat="41.0217180" lon="14.8472410" version="2" timestamp="2016-09-01T23:10:14Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5523"/>
-    <tag k="name" v="Santa Paolina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1432"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68566549" lat="41.0066180" lon="14.9930450" version="2" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">
@@ -16515,13 +16504,6 @@
     <tag k="name" v="San Sossio Baronia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1914"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567424" lat="40.8772963" lon="14.8563089" version="3" timestamp="2016-09-01T23:10:12Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5514"/>
-    <tag k="name" v="San Michele di Serino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2399"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68567455" lat="40.9200633" lon="14.8893502" version="3" timestamp="2016-09-01T23:10:11Z" changeset="41859282" uid="743479" user="fayor">
@@ -26314,7 +26296,7 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30024853"/>
   </node>
-  <node id="8222523703" lat="46.1582537" lon="9.6618076" version="2" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="Martino Scaglione">
+  <node id="8222523703" lat="46.1582923" lon="9.6617882" version="3" timestamp="2025-09-16T17:55:41Z" changeset="172028652" uid="465052" user="hecktor">
     <tag k="ele" v="285"/>
     <tag k="fixme" v="Popolare di building questo villaggio"/>
     <tag k="name" v="Sirta"/>

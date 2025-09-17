@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-16T02:50:44Z" areas="2025-09-15T21:09:46Z"/>
+<meta osm_base="2025-09-17T02:49:17Z" areas="2025-09-16T19:40:52Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1231,8 +1231,9 @@
     <tag k="population" v="586"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508594" lat="46.0240960" lon="10.3656630" version="3" timestamp="2024-09-09T17:58:38Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62508594" lat="46.0240960" lon="10.3656630" version="4" timestamp="2025-09-16T12:26:34Z" changeset="172012388" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2224"/>
+    <tag k="loc_name" v="Semberc"/>
     <tag k="name" v="Cimbergo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="573"/>
@@ -9914,12 +9915,15 @@
     <tag k="wikidata" v="Q54734"/>
     <tag k="wikipedia" v="it:San Calogero (Italia)"/>
   </node>
-  <node id="67275825" lat="38.5128770" lon="16.1006990" version="2" timestamp="2016-08-28T18:58:48Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275825" lat="38.5128770" lon="16.1006990" version="3" timestamp="2025-09-16T12:10:23Z" changeset="172011608" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6807"/>
     <tag k="name" v="Serrata"/>
     <tag k="place" v="village"/>
     <tag k="population" v="964"/>
+    <tag k="postal_code" v="89020"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q54669"/>
+    <tag k="wikipedia" v="en:Serrata, Calabria"/>
   </node>
   <node id="67275866" lat="38.2553720" lon="15.9704990" version="3" timestamp="2024-12-24T15:06:20Z" changeset="160579160" uid="20944241" user="SekeRob repair">
     <tag k="gfoss_id" v="6798"/>
@@ -12004,7 +12008,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030317"/>
   </node>
-  <node id="68566522" lat="40.9281157" lon="14.8730510" version="3" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566522" lat="40.9281486" lon="14.8727070" version="4" timestamp="2025-09-16T12:25:46Z" changeset="172012352" uid="34088" user="CVI">
     <tag k="gfoss_id" v="5516"/>
     <tag k="name" v="San Potito Ultra"/>
     <tag k="place" v="village"/>

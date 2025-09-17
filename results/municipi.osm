@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-16T02:49:36Z" areas="2025-09-16T00:30:30Z"/>
+<meta osm_base="2025-09-17T02:48:14Z" areas="2025-09-16T23:53:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1512,13 +1512,6 @@
     <tag k="wikidata" v="Q51954"/>
     <tag k="wikipedia" v="it:San Marco la Catola"/>
   </node>
-  <node id="68566204" lat="40.8567145" lon="14.8705656" version="6" timestamp="2018-10-15T20:48:00Z" changeset="63555898" uid="362065" user="GFS">
-    <tag k="gfoss_id" v="5528"/>
-    <tag k="name" v="Serino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7041"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68566215" lat="41.0463567" lon="14.9131426" version="6" timestamp="2023-06-25T11:16:29Z" changeset="137748690" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5545"/>
     <tag k="name" v="Venticano"/>
@@ -1550,48 +1543,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025056"/>
   </node>
-  <node id="68566484" lat="40.9309405" lon="14.8817697" version="3" timestamp="2016-09-01T23:10:09Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5499"/>
-    <tag k="name" v="Parolise"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="653"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566501" lat="40.8633130" lon="14.6475390" version="2" timestamp="2016-08-30T01:07:15Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5507"/>
-    <tag k="name" v="Quindici"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3005"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566522" lat="40.9281157" lon="14.8730510" version="3" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5516"/>
-    <tag k="name" v="San Potito Ultra"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1441"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566525" lat="41.0585210" lon="15.1991480" version="2" timestamp="2020-01-04T22:27:36Z" changeset="79200976" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="5515"/>
-    <tag k="name" v="San Nicola Baronia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="859"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566539" lat="41.0217180" lon="14.8472410" version="2" timestamp="2016-09-01T23:10:14Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5523"/>
-    <tag k="name" v="Santa Paolina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1432"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566549" lat="41.0066180" lon="14.9930450" version="2" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5520"/>
-    <tag k="name" v="Sant'Angelo all'Esca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="942"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68566556" lat="40.8291308" lon="14.8456516" version="5" timestamp="2016-09-01T23:10:14Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5530"/>
     <tag k="name" v="Solofra"/>
@@ -1604,20 +1555,6 @@
     <tag k="name" v="Sirignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2370"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566566" lat="41.0925220" lon="15.2999500" version="2" timestamp="2016-09-01T23:10:14Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5526"/>
-    <tag k="name" v="Scampitella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1435"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566567" lat="41.2285240" lon="15.1792460" version="2" timestamp="2016-09-01T23:10:14Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5525"/>
-    <tag k="name" v="Savignano Irpino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1334"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68566581" lat="41.0334531" lon="14.8130228" version="3" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
@@ -1648,34 +1585,6 @@
     <tag k="name" v="Bisaccia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4391"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567131" lat="40.9870170" lon="14.8526420" version="2" timestamp="2016-09-01T23:10:11Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5505"/>
-    <tag k="name" v="Pratola Serra"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3242"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567206" lat="41.0319170" lon="14.7975400" version="2" timestamp="2016-09-01T23:10:10Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5501"/>
-    <tag k="name" v="Petruro Irpino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="400"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567329" lat="41.0712210" lon="15.2005480" version="2" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5517"/>
-    <tag k="name" v="San Sossio Baronia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1914"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567424" lat="40.8772963" lon="14.8563089" version="3" timestamp="2016-09-01T23:10:12Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5514"/>
-    <tag k="name" v="San Michele di Serino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2399"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68567553" lat="41.0484210" lon="15.2334490" version="2" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
