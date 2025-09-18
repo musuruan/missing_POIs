@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-17T02:48:14Z" areas="2025-09-16T23:53:45Z"/>
+<meta osm_base="2025-09-18T02:50:22Z" areas="2025-09-17T23:36:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1512,15 +1512,6 @@
     <tag k="wikidata" v="Q51954"/>
     <tag k="wikipedia" v="it:San Marco la Catola"/>
   </node>
-  <node id="68566215" lat="41.0463567" lon="14.9131426" version="6" timestamp="2023-06-25T11:16:29Z" changeset="137748690" uid="10622815" user="Italian Technology">
-    <tag k="gfoss_id" v="5545"/>
-    <tag k="name" v="Venticano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2547"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q55137"/>
-    <tag k="wikipedia" v="it:Venticano"/>
-  </node>
   <node id="68566231" lat="40.9589140" lon="14.6005370" version="2" timestamp="2016-08-31T23:04:12Z" changeset="41838072" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5437"/>
     <tag k="name" v="Avella"/>
@@ -1550,69 +1541,11 @@
     <tag k="population" v="12495"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566561" lat="40.9510139" lon="14.6315945" version="3" timestamp="2016-09-01T23:10:14Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5529"/>
-    <tag k="name" v="Sirignano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2370"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566581" lat="41.0334531" lon="14.8130228" version="3" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5540"/>
-    <tag k="name" v="Torrioni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="633"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566629" lat="40.9169278" lon="14.8870973" version="4" timestamp="2016-09-01T23:10:15Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5531"/>
-    <tag k="name" v="Sorbo Serpico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="566"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68566668" lat="41.1208220" lon="15.1587470" version="1" timestamp="2007-10-13T13:40:43Z" changeset="142947" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="5547"/>
-    <tag k="is_in" v="Avellino, Campania, Italy"/>
-    <tag k="name" v="Villanova del Battista"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1998"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68566713" lat="41.0121210" lon="15.3747530" version="2" timestamp="2016-09-01T23:10:01Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5441"/>
     <tag k="name" v="Bisaccia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4391"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567553" lat="41.0484210" lon="15.2334490" version="2" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5541"/>
-    <tag k="name" v="Trevico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1284"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567597" lat="41.0231180" lon="14.9093430" version="2" timestamp="2016-09-01T23:10:15Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5539"/>
-    <tag k="name" v="Torre Le Nocelle"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1370"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567652" lat="40.8526324" lon="15.2526788" version="3" timestamp="2022-09-02T15:47:50Z" changeset="125704704" uid="2481418" user="tio-Jorge">
-    <tag k="gfoss_id" v="5537"/>
-    <tag k="name" v="Teora"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1573"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68567694" lat="41.0083503" lon="14.9574387" version="6" timestamp="2023-04-25T09:48:00Z" changeset="135335385" uid="2481418" user="tio-Jorge">
-    <tag k="gfoss_id" v="5536"/>
-    <tag k="name" v="Taurasi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2750"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68569099" lat="41.2773665" lon="14.5428321" version="3" timestamp="2020-11-02T15:45:59Z" changeset="93428965" uid="1258547" user="Decan">
@@ -1701,13 +1634,6 @@
     <tag k="population" v="1121"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580446" lat="40.9316178" lon="14.5534765" version="3" timestamp="2016-08-31T23:04:13Z" changeset="41838072" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5356"/>
-    <tag k="name" v="Casamarciano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3283"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68580527" lat="41.4530220" lon="14.2554220" version="4" timestamp="2017-03-11T12:47:44Z" changeset="46761685" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="5200"/>
     <tag k="name" v="Letino"/>
@@ -1730,14 +1656,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3356"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580691" lat="40.8298110" lon="14.5044360" version="3" timestamp="2016-10-27T18:44:04Z" changeset="43225400" uid="2748195" user="karitotp">
-    <tag k="gfoss_id" v="5406"/>
-    <tag k="name" v="San Giuseppe Vesuviano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="30657"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q72503"/>
   </node>
   <node id="68580730" lat="40.9541140" lon="14.5659360" version="2" timestamp="2016-08-31T23:04:20Z" changeset="41838072" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5423"/>
@@ -1772,24 +1690,6 @@
     <tag k="wikidata" v="Q72221"/>
     <tag k="wikipedia" v="it:Marano di Napoli"/>
   </node>
-  <node id="68580830" lat="40.9557397" lon="14.2709480" version="6" timestamp="2020-02-28T15:58:33Z" changeset="81597890" uid="8778675" user="melovesosm">
-    <tag k="gfoss_id" v="5371"/>
-    <tag k="name" v="Frattaminore"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="16208"/>
-    <tag k="postal_code" v="80020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q72122"/>
-  </node>
-  <node id="68580850" lat="40.7368416" lon="13.8581354" version="25" timestamp="2024-04-09T12:02:28Z" changeset="149774347" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="5369"/>
-    <tag k="name" v="Forio"/>
-    <tag k="name:ru" v="Форио"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="17615"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q72114"/>
-  </node>
   <node id="68581024" lat="40.7092610" lon="13.8939191" version="5" timestamp="2016-09-20T16:11:15Z" changeset="42302787" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5416"/>
     <tag k="name" v="Serrara"/>
@@ -1813,27 +1713,6 @@
     <tag k="population" v="21976"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72356"/>
-  </node>
-  <node id="68581088" lat="40.9537434" lon="14.5291542" version="3" timestamp="2019-10-06T09:38:56Z" changeset="75336087" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="5351"/>
-    <tag k="name" v="Camposano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5303"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581153" lat="40.9521422" lon="14.5514360" version="3" timestamp="2021-01-14T12:43:07Z" changeset="97496069" uid="10622815" user="Italian Technology">
-    <tag k="gfoss_id" v="5367"/>
-    <tag k="name" v="Comiziano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1769"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581176" lat="40.8742285" lon="14.5786305" version="3" timestamp="2018-11-05T22:17:56Z" changeset="64213223" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="5353"/>
-    <tag k="name" v="Carbonara di Nola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2025"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68581313" lat="40.6336700" lon="14.6026095" version="52" timestamp="2025-07-17T19:12:04Z" changeset="169077064" uid="12495047" user="Yan Bakhmat">
     <tag k="gfoss_id" v="5555"/>
@@ -2720,11 +2599,6 @@
     <tag k="name" v="Cottanello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="572"/>
-  </node>
-  <node id="3072217893" lat="40.7090178" lon="13.9186022" version="5" timestamp="2023-09-26T06:23:06Z" changeset="141758078" uid="19497998" user="branco-revert">
-    <tag k="name" v="Barano d'Ischia"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10113"/>
   </node>
   <node id="3828946382" lat="40.8193255" lon="15.5384276" version="4" timestamp="2016-08-24T21:51:12Z" changeset="41674017" uid="743479" user="fayor">
     <tag k="name" v="San Fele"/>
