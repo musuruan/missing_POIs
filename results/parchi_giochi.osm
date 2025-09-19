@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-18T02:56:26Z" areas="2025-09-17T23:58:59Z"/>
+<meta osm_base="2025-09-19T02:59:11Z" areas="2025-09-18T22:33:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -17518,12 +17518,15 @@
     <tag k="wikidata" v="Q51271"/>
     <tag k="wikipedia" v="it:Quadri"/>
   </node>
-  <node id="70991996" lat="42.3586410" lon="14.2341090" version="3" timestamp="2023-01-10T09:31:07Z" changeset="131098487" uid="16035231" user="Aluminum0173">
+  <node id="70991996" lat="42.3586410" lon="14.2341090" version="4" timestamp="2025-09-18T13:44:02Z" changeset="172114088" uid="1940323" user="SekeRob">
+    <tag k="check_date" v="2023-01-01"/>
     <tag k="gfoss_id" v="5980"/>
     <tag k="name" v="Ripa Teatina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4083"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="ISTAT"/>
+    <tag k="twin_town" v="Sequals (PN); San Bartelomeo in Galdo (BN)"/>
   </node>
   <node id="70992020" lat="42.0208340" lon="14.1705130" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5997"/>
@@ -19813,13 +19816,6 @@
     <tag k="name" v="Acquapendente"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5788"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72964374" lat="42.4628240" lon="11.8206550" version="2" timestamp="2016-09-07T16:51:05Z" changeset="41983557" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4780"/>
-    <tag k="name" v="Arlena di Castro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="867"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="72964387" lat="42.6362310" lon="12.1087590" version="3" timestamp="2021-01-13T08:12:07Z" changeset="97422610" uid="1669056" user="Maurizio Melani (forwalk)">
