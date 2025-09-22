@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-21T03:06:43Z" areas="2025-09-20T20:22:02Z"/>
+<meta osm_base="2025-09-22T03:06:38Z" areas="2025-09-22T01:41:36Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1334,13 +1334,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="25380"/>
     <tag k="source" v="ISTAT (01/01/2020)"/>
-  </node>
-  <node id="62505988" lat="45.6701431" lon="9.9635127" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2114"/>
-    <tag k="name" v="Sarnico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5754"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506004" lat="45.7730820" lon="9.5774500" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2129"/>
@@ -41160,20 +41153,6 @@
     <tag k="wikidata" v="Q283882"/>
     <tag k="wikipedia" v="it:Domus de Maria"/>
   </node>
-  <node id="72991285" lat="39.3247360" lon="8.6487340" version="43" timestamp="2023-10-23T17:02:00Z" changeset="143027446" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7416"/>
-    <tag k="name" v="Domusnoas/Domusnovas"/>
-    <tag k="name:it" v="Domusnovas"/>
-    <tag k="name:sc" v="Domusnoas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6582"/>
-    <tag k="postal_code" v="09015"/>
-    <tag k="ref:LOCODE" v="ITZHS"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.domusnovas.ci.it/"/>
-    <tag k="wikidata" v="Q286246"/>
-    <tag k="wikipedia" v="it:Domusnovas"/>
-  </node>
   <node id="72991294" lat="39.4317971" lon="9.1271532" version="41" timestamp="2019-03-16T23:04:19Z" changeset="68216006" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7417"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
@@ -45163,10 +45142,11 @@
     <tag k="wikidata" v="Q2542184"/>
     <tag k="wikipedia" v="it:Badoere"/>
   </node>
-  <node id="638918423" lat="41.2104397" lon="14.2327981" version="3" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="638918423" lat="41.2104397" lon="14.2327981" version="4" timestamp="2025-09-21T16:27:31Z" changeset="172255316" uid="1950277" user="Mannivu">
     <tag k="name" v="Formicola"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1488"/>
+    <tag k="wikidata" v="Q30025819"/>
   </node>
   <node id="658191463" lat="46.0002181" lon="12.3389622" version="7" timestamp="2016-10-06T02:00:19Z" changeset="42672959" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3408"/>

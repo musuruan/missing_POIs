@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-21T03:00:38Z" areas="2025-09-20T20:22:02Z"/>
+<meta osm_base="2025-09-22T03:00:34Z" areas="2025-09-21T23:43:10Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -12545,12 +12545,13 @@
     <tag k="population" v="761"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68579855" lat="41.2027160" lon="14.1934240" version="2" timestamp="2016-09-02T23:58:41Z" changeset="41879755" uid="743479" user="fayor">
+  <node id="68579855" lat="41.2027160" lon="14.1934240" version="3" timestamp="2025-09-21T16:03:47Z" changeset="172254226" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5196"/>
     <tag k="name" v="Giano Vetusto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="653"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026075"/>
   </node>
   <node id="68579877" lat="41.4328210" lon="14.2027220" version="2" timestamp="2016-09-02T23:58:43Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5219"/>
@@ -13114,13 +13115,6 @@
     <tag k="name" v="Postiglione"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2334"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581662" lat="40.5171120" lon="15.4979620" version="2" timestamp="2016-08-28T18:58:38Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5646"/>
-    <tag k="name" v="Polla"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5347"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68581671" lat="40.3309050" lon="15.0686550" version="2" timestamp="2016-08-30T01:07:15Z" changeset="41791239" uid="743479" user="fayor">
@@ -15771,14 +15765,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="284"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="72961408" lat="42.4673879" lon="12.9037918" version="4" timestamp="2017-05-06T14:28:37Z" changeset="48453659" uid="3435810" user="Alessandro Antonelli">
-    <tag k="gfoss_id" v="4847"/>
-    <tag k="name" v="Cantalice"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2875"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="uri:filas" v="http://193.178.216.227/ontoir-web/getRDF?fqName=urn:turismoculturale.itdc.filas-1.0.0-RC1%23turismoCulturale_POI_154"/>
   </node>
   <node id="72961587" lat="42.2026270" lon="12.8793820" version="3" timestamp="2023-10-04T08:38:53Z" changeset="142133278" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4892"/>
