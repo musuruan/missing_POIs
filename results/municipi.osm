@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-22T02:59:30Z" areas="2025-09-21T23:43:10Z"/>
+<meta osm_base="2025-09-23T02:50:22Z" areas="2025-09-22T22:58:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -786,13 +786,6 @@
     <tag k="population" v="2415"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280498" lat="40.6503150" lon="15.5141610" version="2" timestamp="2016-08-28T18:58:11Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6362"/>
-    <tag k="name" v="Balvano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2007"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67280505" lat="40.9463220" lon="15.6726600" version="5" timestamp="2024-01-13T09:03:48Z" changeset="146206606" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="6365"/>
     <tag k="name" v="Barile"/>
@@ -805,35 +798,6 @@
     <tag k="wikidata" v="Q52530"/>
     <tag k="wikimedia_commons" v="Category:Barile"/>
     <tag k="wikipedia" v="it:Barile (Italia)"/>
-  </node>
-  <node id="67280536" lat="40.1495090" lon="16.1438810" version="2" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6370"/>
-    <tag k="name" v="Calvera"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="584"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280578" lat="40.1907100" lon="16.1854810" version="2" timestamp="2016-08-28T18:58:18Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6380"/>
-    <tag k="name" v="Castronuovo di Sant'Andrea"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1439"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280597" lat="40.0103050" lon="15.9750790" version="2" timestamp="2016-08-28T18:58:17Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6377"/>
-    <tag k="name" v="Castelluccio Superiore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="987"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280613" lat="40.0748070" lon="16.0981810" version="3" timestamp="2021-06-06T01:50:56Z" changeset="105901588" uid="1772368" user="pizzaiolo">
-    <tag k="gfoss_id" v="6384"/>
-    <tag k="name" v="Episcopia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1625"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30025545"/>
   </node>
   <node id="67280625" lat="40.0470090" lon="16.3493860" version="2" timestamp="2016-08-28T18:58:19Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6381"/>
@@ -857,43 +821,12 @@
     <tag k="population" v="2546"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280656" lat="40.8107190" lon="15.7061630" version="5" timestamp="2023-09-25T16:11:42Z" changeset="141738397" uid="69259" user="DnaX">
-    <tag k="gfoss_id" v="6386"/>
-    <tag k="name" v="Filiano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3298"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q52569"/>
-    <tag k="wikipedia" v="it:Filiano"/>
-  </node>
-  <node id="67280695" lat="40.9089220" lon="15.8294640" version="4" timestamp="2021-06-06T01:50:57Z" changeset="105901588" uid="1772368" user="pizzaiolo">
-    <tag k="gfoss_id" v="6401"/>
-    <tag k="name" v="Maschito"/>
-    <tag k="name:aae" v="Mashqiti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1864"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027328"/>
-  </node>
   <node id="67280704" lat="40.3766014" lon="15.8244926" version="3" timestamp="2016-08-28T18:58:30Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6400"/>
     <tag k="name" v="Marsicovetere"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4703"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280745" lat="40.9757230" lon="15.6712600" version="4" timestamp="2024-05-13T05:03:47Z" changeset="151249364" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/ComuneRapolla/"/>
-    <tag k="contact:youtube" v="https://www.youtube.com/channel/UCCR8EuuqrnEXSHtSX6DqIjg"/>
-    <tag k="gfoss_id" v="6418"/>
-    <tag k="name" v="Rapolla"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4648"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.rapolla.pz.it/"/>
-    <tag k="wikidata" v="Q52644"/>
-    <tag k="wikimedia_commons" v="Category:Rapolla"/>
-    <tag k="wikipedia" v="it:Rapolla"/>
   </node>
   <node id="67280748" lat="40.9117813" lon="15.7247832" version="5" timestamp="2020-04-02T18:24:28Z" changeset="82995463" uid="69259" user="DnaX">
     <tag k="addr:postcode" v="85020"/>
@@ -930,20 +863,6 @@
     <tag k="population" v="3096"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280943" lat="40.7605914" lon="15.5392691" version="3" timestamp="2021-10-29T10:02:20Z" changeset="113116400" uid="3306614" user="gurciln">
-    <tag k="gfoss_id" v="6366"/>
-    <tag k="name" v="Bella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5440"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280947" lat="40.1424090" lon="16.0893800" version="2" timestamp="2016-08-28T18:58:16Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6373"/>
-    <tag k="name" v="Carbone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="853"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67280950" lat="40.7302190" lon="15.9257690" version="2" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6372"/>
     <tag k="name" v="Cancellara"/>
@@ -951,32 +870,11 @@
     <tag k="population" v="1598"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280965" lat="40.6797381" lon="15.5939656" version="3" timestamp="2016-08-28T18:58:11Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6364"/>
-    <tag k="name" v="Baragiano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2751"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67280999" lat="40.4605140" lon="15.9709730" version="2" timestamp="2016-08-28T18:58:28Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6395"/>
     <tag k="name" v="Laurenzana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2250"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67281056" lat="40.7866170" lon="15.4301570" version="2" timestamp="2016-08-28T18:58:17Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6375"/>
-    <tag k="name" v="Castelgrande"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1231"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67281068" lat="40.0039050" lon="15.9808790" version="2" timestamp="2016-08-28T18:58:17Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6376"/>
-    <tag k="name" v="Castelluccio Inferiore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2344"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67281107" lat="40.0675050" lon="15.8002740" version="2" timestamp="2016-08-28T18:58:34Z" changeset="41762146" uid="743479" user="fayor">
@@ -991,20 +889,6 @@
     <tag k="name" v="Noepoli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1189"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67281204" lat="40.8488190" lon="15.5413590" version="4" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6426"/>
-    <tag k="name" v="Ruvo del Monte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1100"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67281227" lat="40.2120110" lon="16.2031810" version="2" timestamp="2016-08-28T18:58:40Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6423"/>
-    <tag k="name" v="Roccanova"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1759"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67281294" lat="39.9781070" lon="16.2962860" version="2" timestamp="2016-08-28T18:58:51Z" changeset="41762146" uid="743479" user="fayor">
@@ -1812,13 +1696,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q81588"/>
     <tag k="wikipedia" v="it:San Rufo (Italia)"/>
-  </node>
-  <node id="68582435" lat="40.4568110" lon="15.4806620" version="2" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5674"/>
-    <tag k="name" v="San Pietro al Tanagro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1640"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68582467" lat="40.1229374" lon="15.2897501" version="3" timestamp="2011-06-10T20:21:58Z" changeset="8400586" uid="404532" user="jaimemd">
     <tag k="gfoss_id" v="5673"/>

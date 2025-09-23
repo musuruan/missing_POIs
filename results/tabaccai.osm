@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-22T03:06:38Z" areas="2025-09-22T01:41:36Z"/>
+<meta osm_base="2025-09-23T02:57:32Z" areas="2025-09-22T22:58:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15554,7 +15554,7 @@
     <tag k="population" v="6966"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630533" lat="45.4599911" lon="7.8577076" version="5" timestamp="2025-09-19T10:48:30Z" changeset="172155324" uid="9616185" user="LukeDH">
+  <node id="63630533" lat="45.4599911" lon="7.8577076" version="6" timestamp="2025-09-22T08:16:17Z" changeset="172280334" uid="90379" user="Andrea Musuruane">
     <tag k="gfoss_id" v="20"/>
     <tag k="name" v="Banchette"/>
     <tag k="place" v="village"/>
@@ -16923,13 +16923,13 @@
     <tag k="population" v="582"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776611" lat="46.2911870" lon="11.4604681" version="34" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <node id="64776611" lat="46.2911870" lon="11.4604681" version="35" timestamp="2025-09-22T11:41:00Z" changeset="172289999" uid="531886" user="drlellinger">
     <tag k="ele" v="1000"/>
     <tag k="gfoss_id" v="2914"/>
     <tag k="name" v="Cavalese"/>
+    <tag k="name:de" v="Gablöss"/>
     <tag k="name:it" v="Cavalese"/>
     <tag k="name:ru" v="Кавалезе"/>
-    <tag k="old_name:de" v="Gablös"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4100"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -33526,13 +33526,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q81588"/>
     <tag k="wikipedia" v="it:San Rufo (Italia)"/>
-  </node>
-  <node id="68582435" lat="40.4568110" lon="15.4806620" version="2" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5674"/>
-    <tag k="name" v="San Pietro al Tanagro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1640"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68582442" lat="40.4568100" lon="15.3414590" version="2" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5677"/>
