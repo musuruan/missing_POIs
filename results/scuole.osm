@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-24T03:01:15Z" areas="2025-09-23T22:10:36Z"/>
+<meta osm_base="2025-09-25T03:02:57Z" areas="2025-09-24T21:43:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -12606,7 +12606,7 @@
     <tag k="population" v="1293"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274183" lat="39.5831000" lon="16.4201930" version="3" timestamp="2016-09-05T17:45:38Z" changeset="41936940" uid="354689" user="Francesco Placco">
+  <node id="67274183" lat="39.5830938" lon="16.4203673" version="4" timestamp="2025-09-24T17:08:37Z" changeset="172404573" uid="15124074" user="Catonif">
     <tag k="gfoss_id" v="6598"/>
     <tag k="name" v="San Cosmo Albanese"/>
     <tag k="name:aae" v="Stighari"/>
@@ -14411,7 +14411,7 @@
     <tag k="population" v="995"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284001" lat="41.4816752" lon="14.9464503" version="3" timestamp="2016-09-03T02:35:29Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="CVI">
     <tag k="gfoss_id" v="6094"/>
     <tag k="name" v="Tufara"/>
     <tag k="place" v="village"/>
@@ -14566,20 +14566,6 @@
     <tag k="population" v="271"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284178" lat="41.9632380" lon="14.9464310" version="7" timestamp="2018-11-07T13:01:30Z" changeset="64261602" uid="9050768" user="Marcello Cannarsa">
-    <tag k="gfoss_id" v="6077"/>
-    <tag k="name" v="San Giacomo degli Schiavoni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1111"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67284199" lat="41.5724280" lon="14.7649320" version="2" timestamp="2016-09-03T02:35:28Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6092"/>
-    <tag k="name" v="Toro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1538"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284208" lat="41.6398280" lon="14.5195260" version="2" timestamp="2016-09-03T02:35:28Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6091"/>
     <tag k="name" v="Torella del Sannio"/>
@@ -14613,13 +14599,6 @@
     <tag k="name" v="Civitanova del Sannio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="949"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67284244" lat="41.8239310" lon="14.4221210" version="2" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7561"/>
-    <tag k="name" v="Belmonte del Sannio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="921"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67284251" lat="41.7030290" lon="14.4565230" version="1" timestamp="2007-10-12T22:49:13Z" changeset="137044" uid="864" user="Niccolo">
@@ -18969,12 +18948,15 @@
     <tag k="wikidata" v="Q56085"/>
     <tag k="wikipedia" v="it:Palmiano"/>
   </node>
-  <node id="70980859" lat="43.1206530" lon="13.4875820" version="2" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980859" lat="43.1206530" lon="13.4875820" version="4" timestamp="2025-09-24T14:44:12Z" changeset="172398091" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="4384"/>
     <tag k="name" v="Monte Vidon Corrado"/>
     <tag k="place" v="village"/>
     <tag k="population" v="829"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q59264"/>
+    <tag k="wikimedia_commons" v="Category:Monte Vidon Corrado"/>
+    <tag k="wikipedia" v="it:Monte Vidon Corrado"/>
   </node>
   <node id="70980869" lat="43.1893550" lon="13.5753830" version="2" timestamp="2016-09-09T17:36:39Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4381"/>

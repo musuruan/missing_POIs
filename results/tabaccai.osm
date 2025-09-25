@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-24T02:59:12Z" areas="2025-09-23T22:10:36Z"/>
+<meta osm_base="2025-09-25T03:01:55Z" areas="2025-09-24T21:43:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1011,7 +1011,7 @@
     <tag k="wikidata" v="Q91360"/>
     <tag k="wikipedia" v="en:Radda in Chianti"/>
   </node>
-  <node id="62505616" lat="46.1713553" lon="9.8734274" version="82" timestamp="2025-08-10T15:52:36Z" changeset="170252523" uid="11273192" user="bayer83373">
+  <node id="62505616" lat="46.1713553" lon="9.8734274" version="83" timestamp="2025-09-25T00:04:36Z" changeset="172416184" uid="17860844" user="hangukhistory">
     <tag k="alt_name:de" v="Sonders"/>
     <tag k="alt_name:rm" v="Sunder"/>
     <tag k="capital" v="6"/>
@@ -1022,6 +1022,7 @@
     <tag k="name:el" v="Σόντριο"/>
     <tag k="name:fr" v="Sondrio"/>
     <tag k="name:it" v="Sondrio"/>
+    <tag k="name:ko" v="손드리오"/>
     <tag k="name:la" v="Sundrium"/>
     <tag k="name:rm" v="Sonder"/>
     <tag k="name:ru" v="Сондрио"/>
@@ -25659,7 +25660,7 @@
     <tag k="population" v="1293"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274183" lat="39.5831000" lon="16.4201930" version="3" timestamp="2016-09-05T17:45:38Z" changeset="41936940" uid="354689" user="Francesco Placco">
+  <node id="67274183" lat="39.5830938" lon="16.4203673" version="4" timestamp="2025-09-24T17:08:37Z" changeset="172404573" uid="15124074" user="Catonif">
     <tag k="gfoss_id" v="6598"/>
     <tag k="name" v="San Cosmo Albanese"/>
     <tag k="name:aae" v="Stighari"/>
@@ -28436,7 +28437,7 @@
     <tag k="population" v="995"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284001" lat="41.4816752" lon="14.9464503" version="3" timestamp="2016-09-03T02:35:29Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="CVI">
     <tag k="gfoss_id" v="6094"/>
     <tag k="name" v="Tufara"/>
     <tag k="place" v="village"/>
@@ -33476,14 +33477,6 @@
     <tag k="population" v="701"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582392" lat="40.3982208" lon="15.5963693" version="5" timestamp="2025-07-06T15:35:04Z" changeset="168567044" uid="22632809" user="KeyTV">
-    <tag k="gfoss_id" v="5663"/>
-    <tag k="name" v="Sala Consilina"/>
-    <tag k="name:ru" v="Сала-Консилина"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12716"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68582401" lat="40.5909130" lon="15.4587600" version="2" timestamp="2016-08-28T18:58:41Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5666"/>
     <tag k="name" v="Salvitelle"/>
@@ -35827,12 +35820,15 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028414"/>
   </node>
-  <node id="70980859" lat="43.1206530" lon="13.4875820" version="2" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980859" lat="43.1206530" lon="13.4875820" version="4" timestamp="2025-09-24T14:44:12Z" changeset="172398091" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="4384"/>
     <tag k="name" v="Monte Vidon Corrado"/>
     <tag k="place" v="village"/>
     <tag k="population" v="829"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q59264"/>
+    <tag k="wikimedia_commons" v="Category:Monte Vidon Corrado"/>
+    <tag k="wikipedia" v="it:Monte Vidon Corrado"/>
   </node>
   <node id="70980869" lat="43.1893550" lon="13.5753830" version="2" timestamp="2016-09-09T17:36:39Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4381"/>
@@ -40427,7 +40423,7 @@
     <tag k="wikidata" v="Q13654"/>
     <tag k="wikipedia" v="sc:Biddacidru"/>
   </node>
-  <node id="72990741" lat="39.8792127" lon="9.5411469" version="77" timestamp="2023-11-09T11:19:43Z" changeset="143817882" uid="25132" user="s141739">
+  <node id="72990741" lat="39.8792127" lon="9.5411469" version="78" timestamp="2025-09-25T00:25:51Z" changeset="172416500" uid="17860844" user="hangukhistory">
     <tag k="alt_name" v="Lanusè"/>
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="7333"/>
@@ -40435,6 +40431,7 @@
     <tag k="name" v="Lanusè/Lanusei"/>
     <tag k="name:en" v="Lanusei"/>
     <tag k="name:it" v="Lanusei"/>
+    <tag k="name:ko" v="라누세이"/>
     <tag k="name:ru" v="Ланузеи"/>
     <tag k="name:sc" v="Lanusè"/>
     <tag k="name:zh" v="拉努塞伊"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-24T02:57:13Z" areas="2025-09-23T22:10:36Z"/>
+<meta osm_base="2025-09-25T02:58:44Z" areas="2025-09-24T20:37:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4252,7 +4252,7 @@
     <tag k="population" v="1293"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274183" lat="39.5831000" lon="16.4201930" version="3" timestamp="2016-09-05T17:45:38Z" changeset="41936940" uid="354689" user="Francesco Placco">
+  <node id="67274183" lat="39.5830938" lon="16.4203673" version="4" timestamp="2025-09-24T17:08:37Z" changeset="172404573" uid="15124074" user="Catonif">
     <tag k="gfoss_id" v="6598"/>
     <tag k="name" v="San Cosmo Albanese"/>
     <tag k="name:aae" v="Stighari"/>
@@ -5117,7 +5117,7 @@
     <tag k="population" v="995"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284001" lat="41.4816752" lon="14.9464503" version="3" timestamp="2016-09-03T02:35:29Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="CVI">
     <tag k="gfoss_id" v="6094"/>
     <tag k="name" v="Tufara"/>
     <tag k="place" v="village"/>
@@ -7019,14 +7019,6 @@
     <tag k="population" v="1101"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582392" lat="40.3982208" lon="15.5963693" version="5" timestamp="2025-07-06T15:35:04Z" changeset="168567044" uid="22632809" user="KeyTV">
-    <tag k="gfoss_id" v="5663"/>
-    <tag k="name" v="Sala Consilina"/>
-    <tag k="name:ru" v="Сала-Консилина"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12716"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68582397" lat="40.2486040" lon="15.1900580" version="2" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5664"/>
     <tag k="name" v="Salento"/>
@@ -7401,13 +7393,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q56085"/>
     <tag k="wikipedia" v="it:Palmiano"/>
-  </node>
-  <node id="70980859" lat="43.1206530" lon="13.4875820" version="2" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4384"/>
-    <tag k="name" v="Monte Vidon Corrado"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="829"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70980869" lat="43.1893550" lon="13.5753830" version="2" timestamp="2016-09-09T17:36:39Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4381"/>
@@ -7921,10 +7906,11 @@
     <tag k="wikidata" v="Q51464"/>
     <tag k="wikipedia" v="it:Sant'Egidio alla Vibrata"/>
   </node>
-  <node id="72959669" lat="41.6419807" lon="13.3469287" version="45" timestamp="2024-04-09T12:02:55Z" changeset="149774377" uid="1778799" user="SomeoneElse_Revert">
+  <node id="72959669" lat="41.6419807" lon="13.3469287" version="46" timestamp="2025-09-25T00:22:09Z" changeset="172416451" uid="17860844" user="hangukhistory">
     <tag k="capital" v="6"/>
     <tag k="gfoss_id" v="5103"/>
     <tag k="name" v="Frosinone"/>
+    <tag k="name:ko" v="프로시노네"/>
     <tag k="name:ru" v="Фрозиноне"/>
     <tag k="name:zh" v="弗罗西诺内"/>
     <tag k="place" v="town"/>
