@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-26T02:52:45Z" areas="2025-09-26T00:48:42Z"/>
+<meta osm_base="2025-09-27T02:46:06Z" areas="2025-09-26T23:03:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1473,13 +1473,6 @@
     <tag k="population" v="746"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991528" lat="42.0899370" lon="14.3812170" version="2" timestamp="2016-09-07T16:52:16Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5910"/>
-    <tag k="name" v="Archi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2336"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70991551" lat="42.1146370" lon="14.2902140" version="9" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="5925"/>
     <tag k="name" v="Casoli"/>
@@ -1596,13 +1589,6 @@
     <tag k="population" v="1042"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18426515"/>
-  </node>
-  <node id="70992229" lat="42.0993370" lon="14.3316150" version="2" timestamp="2016-09-07T16:52:16Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5909"/>
-    <tag k="name" v="Altino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2536"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70992331" lat="41.9891260" lon="13.3343950" version="3" timestamp="2025-02-05T09:03:57Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5736"/>
@@ -1769,33 +1755,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026350"/>
   </node>
-  <node id="70993287" lat="42.3259913" lon="13.8967439" version="6" timestamp="2025-02-04T07:05:15Z" changeset="162112594" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5875"/>
-    <tag k="name" v="Civitaquana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1395"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024843"/>
-    <tag k="wikipedia" v="it:Civitaquana"/>
-  </node>
-  <node id="70993305" lat="42.3173380" lon="13.8616020" version="3" timestamp="2020-06-05T13:42:16Z" changeset="86247782" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5866"/>
-    <tag k="name" v="Brittoli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="415"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51347"/>
-    <tag k="wikipedia" v="it:Brittoli"/>
-  </node>
-  <node id="70993314" lat="42.3330380" lon="13.8608020" version="3" timestamp="2020-07-23T10:37:19Z" changeset="88397968" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5870"/>
-    <tag k="name" v="Carpineto della Nora"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="733"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51351"/>
-    <tag k="wikipedia" v="it:Carpineto della Nora"/>
-  </node>
   <node id="70993350" lat="42.2544596" lon="13.8846932" version="6" timestamp="2022-08-02T21:30:01Z" changeset="124410400" uid="1940323" user="SekeRob">
     <tag k="gfoss_id" v="5891"/>
     <tag k="name" v="Pescosansonesco"/>
@@ -1814,15 +1773,6 @@
     <tag k="population" v="420"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70993461" lat="42.3330413" lon="13.9841020" version="5" timestamp="2020-06-10T07:55:24Z" changeset="86447455" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5888"/>
-    <tag k="name" v="Nocciano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1676"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51375"/>
-    <tag k="wikipedia" v="it:Nocciano"/>
-  </node>
   <node id="70993517" lat="42.2366404" lon="14.0369214" version="6" timestamp="2021-08-17T10:27:58Z" changeset="109802399" uid="1940323" user="SekeRob">
     <tag k="gfoss_id" v="5882"/>
     <tag k="name" v="Lettomanoppello"/>
@@ -1830,15 +1780,6 @@
     <tag k="population" v="3090"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikipedia" v="it:Lettomanoppello"/>
-  </node>
-  <node id="70993566" lat="42.3462597" lon="13.9501138" version="4" timestamp="2020-06-10T07:55:24Z" changeset="86447455" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5872"/>
-    <tag k="name" v="Catignano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1540"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51352"/>
-    <tag k="wikipedia" v="it:Catignano"/>
   </node>
   <node id="70993788" lat="42.4879400" lon="13.7116960" version="3" timestamp="2023-04-11T17:09:59Z" changeset="134783668" uid="1940323" user="SekeRob">
     <tag k="gfoss_id" v="5827"/>
