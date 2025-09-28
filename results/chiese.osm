@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-27T02:48:08Z" areas="2025-09-26T20:25:02Z"/>
+<meta osm_base="2025-09-28T03:02:15Z" areas="2025-09-28T00:59:53Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2897,12 +2897,15 @@
     <tag k="population" v="1985"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284419" lat="41.6959270" lon="14.1795170" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284419" lat="41.6959270" lon="14.1795170" version="3" timestamp="2025-09-27T12:30:34Z" changeset="172524133" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="7577"/>
     <tag k="name" v="Forlì del Sannio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="833"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025814"/>
+    <tag k="wikimedia_commons" v="Category:Forlì del Sannio"/>
+    <tag k="wikipedia" v="it:Forlì del Sannio"/>
   </node>
   <node id="67284427" lat="41.5445971" lon="14.2229443" version="5" timestamp="2022-01-06T19:31:52Z" changeset="115850793" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="7601"/>
@@ -4275,13 +4278,6 @@
     <tag k="name" v="San Valentino Torio"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10947"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68581589" lat="40.6271882" lon="15.4359594" version="5" timestamp="2016-08-28T18:58:40Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5659"/>
-    <tag k="name" v="Romagnano al Monte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="415"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68581600" lat="40.7200033" lon="14.8700132" version="3" timestamp="2016-08-30T01:07:16Z" changeset="41791239" uid="743479" user="fayor">
