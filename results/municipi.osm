@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-28T03:00:13Z" areas="2025-09-28T00:59:53Z"/>
+<meta osm_base="2025-09-29T02:56:54Z" areas="2025-09-28T23:30:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -360,16 +360,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="912"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67273483" lat="39.0918900" lon="16.2923960" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6685"/>
-    <tag k="name" v="Motta Santa Lucia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="848"/>
-    <tag k="postal_code" v="88040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53658"/>
-    <tag k="wikipedia" v="it:Motta Santa Lucia"/>
   </node>
   <node id="67273499" lat="38.8379860" lon="16.5187040" version="3" timestamp="2025-02-04T12:39:25Z" changeset="162123816" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="6694"/>
@@ -1366,67 +1356,11 @@
     <tag k="population" v="1088"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70990712" lat="41.9547340" lon="14.3884190" version="2" timestamp="2016-09-07T16:52:22Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5960"/>
-    <tag k="name" v="Monteferrante"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="190"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70990869" lat="42.1630390" lon="14.4973180" version="2" timestamp="2016-09-07T16:52:23Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5967"/>
-    <tag k="name" v="Paglieta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4401"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70990918" lat="41.9371780" lon="14.4699593" version="4" timestamp="2020-11-02T10:44:37Z" changeset="93413658" uid="166489" user="Fintocubano">
-    <tag k="gfoss_id" v="5984"/>
-    <tag k="name" v="Roccaspinalveti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1671"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70990962" lat="41.9115330" lon="14.3738190" version="2" timestamp="2016-09-07T16:52:26Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5985"/>
-    <tag k="name" v="Roio del Sangro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="159"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70991197" lat="42.2233727" lon="14.2148103" version="6" timestamp="2023-10-11T07:38:05Z" changeset="142423613" uid="616774" user="mueschel">
-    <tag k="check_date" v="2023-01-01"/>
-    <tag k="ele" v="480"/>
-    <tag k="gfoss_id" v="5990"/>
-    <tag k="name" v="San Martino sulla Marrucina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="832"/>
-    <tag k="postal_code" v="66010"/>
-    <tag k="ref:ISTAT" v="069082"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.sanmartinosm.it/c069082/zf/index.php/servizi-aggiuntivi/index/index/idtesto/20002"/>
-  </node>
-  <node id="70991247" lat="41.9687447" lon="14.3753527" version="4" timestamp="2020-07-09T14:40:56Z" changeset="87771319" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="6011"/>
-    <tag k="name" v="Pietraferrazzana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="152"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q3508"/>
-    <tag k="wikipedia" v="it:Pietraferrazzana"/>
-  </node>
   <node id="70991611" lat="42.0366343" lon="14.4993554" version="3" timestamp="2021-02-02T14:56:12Z" changeset="98585630" uid="11455529" user="AlesCav">
     <tag k="gfoss_id" v="5922"/>
     <tag k="name" v="Casalanguida"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1096"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70991857" lat="42.1248360" lon="14.2306130" version="2" timestamp="2016-09-07T16:52:23Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5970"/>
-    <tag k="name" v="Palombaro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1177"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70991922" lat="41.9394350" lon="14.5814230" version="2" timestamp="2016-09-07T16:52:23Z" changeset="41983597" uid="743479" user="fayor">
@@ -1435,51 +1369,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1162"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70991979" lat="41.9249320" lon="14.2882170" version="3" timestamp="2020-07-10T09:19:31Z" changeset="87807734" uid="10124288" user="damianeue">
-    <tag k="gfoss_id" v="5978"/>
-    <tag k="name" v="Quadri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="943"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q51271"/>
-    <tag k="wikipedia" v="it:Quadri"/>
-  </node>
-  <node id="70992020" lat="42.0208340" lon="14.1705130" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5997"/>
-    <tag k="name" v="Taranta Peligna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="521"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70992031" lat="42.0381360" lon="14.4161180" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6000"/>
-    <tag k="name" v="Tornareccio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1948"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70992049" lat="42.1881400" lon="14.5408190" version="2" timestamp="2016-09-07T16:52:28Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5999"/>
-    <tag k="name" v="Torino di Sangro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3079"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70992127" lat="41.9164633" lon="14.6260061" version="3" timestamp="2016-09-07T16:52:29Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6005"/>
-    <tag k="name" v="Tufillo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="564"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70992146" lat="41.8681330" lon="14.5408230" version="3" timestamp="2025-09-09T13:13:23Z" changeset="171685980" uid="1950277" user="Mannivu">
-    <tag k="gfoss_id" v="6001"/>
-    <tag k="name" v="Torrebruna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1173"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031207"/>
   </node>
   <node id="70992186" lat="41.9410059" lon="13.4129688" version="5" timestamp="2020-11-15T22:46:27Z" changeset="94167738" uid="364" user="Edward">
     <tag k="gfoss_id" v="5724"/>

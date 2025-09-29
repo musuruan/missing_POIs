@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-28T03:02:15Z" areas="2025-09-28T00:59:53Z"/>
+<meta osm_base="2025-09-29T02:58:59Z" areas="2025-09-28T23:30:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -560,15 +560,16 @@
     <tag k="population" v="1599"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778140" lat="46.5660290" lon="12.5173020" version="6" timestamp="2022-08-03T13:35:51Z" changeset="124437664" uid="1257620" user="Luca_34c">
+  <node id="64778140" lat="46.5660290" lon="12.5173020" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3326"/>
-    <tag k="loc_name" v="Danta"/>
-    <tag k="name" v="Danta di Cadore"/>
+    <tag k="name" v="Danta - Danta di Cadore"/>
     <tag k="name:it" v="Danta di Cadore"/>
     <tag k="name:lld" v="Danta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="552"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40919"/>
+    <tag k="wikipedia" v="it:Danta di Cadore"/>
   </node>
   <node id="64778195" lat="46.2035747" lon="12.3030549" version="5" timestamp="2020-02-13T12:37:50Z" changeset="80957612" uid="8109808" user="diegomodolo">
     <tag k="gfoss_id" v="3366"/>
@@ -1287,7 +1288,7 @@
     <tag k="population" v="912"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273483" lat="39.0918900" lon="16.2923960" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
+  <node id="67273483" lat="39.0918900" lon="16.2923960" version="4" timestamp="2025-09-28T08:54:39Z" changeset="172556621" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="6685"/>
     <tag k="name" v="Motta Santa Lucia"/>
     <tag k="place" v="village"/>
@@ -1295,6 +1296,7 @@
     <tag k="postal_code" v="88040"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q53658"/>
+    <tag k="wikimedia_commons" v="Category:Motta Santa Lucia"/>
     <tag k="wikipedia" v="it:Motta Santa Lucia"/>
   </node>
   <node id="67273488" lat="38.7487702" lon="16.5129098" version="4" timestamp="2024-07-22T16:54:11Z" changeset="154272306" uid="18063623" user="DomeF">
@@ -3468,13 +3470,6 @@
     <tag k="population" v="4277"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68530155" lat="40.4374240" lon="17.3896050" version="2" timestamp="2016-08-27T16:24:14Z" changeset="41739592" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6231"/>
-    <tag k="name" v="Roccaforzata"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1756"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68530177" lat="40.3846927" lon="17.3556699" version="4" timestamp="2016-09-09T00:49:48Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6230"/>
     <tag k="name" v="Pulsano"/>
@@ -4902,6 +4897,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51210"/>
     <tag k="wikipedia" v="it:Colledimezzo"/>
+  </node>
+  <node id="70990712" lat="41.9547340" lon="14.3884190" version="2" timestamp="2016-09-07T16:52:22Z" changeset="41983597" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="5960"/>
+    <tag k="name" v="Monteferrante"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="190"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70990748" lat="42.2189390" lon="14.2791120" version="3" timestamp="2019-09-25T07:52:16Z" changeset="74893348" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5965"/>
@@ -6594,9 +6596,9 @@
     <tag k="place" v="village"/>
     <tag k="population" v="360"/>
   </node>
-  <node id="2189083163" lat="46.3860814" lon="12.1739405" version="4" timestamp="2022-04-14T10:47:22Z" changeset="119707167" uid="1950277" user="Mannivu">
+  <node id="2189083163" lat="46.3860814" lon="12.1739405" version="5" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3378"/>
-    <tag k="name" v="Zoppè di Cadore"/>
+    <tag k="name" v="Zopé - Zoppè di Cadore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="229"/>
   </node>

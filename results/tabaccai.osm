@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-28T03:07:27Z" areas="2025-09-28T00:59:53Z"/>
+<meta osm_base="2025-09-29T03:04:05Z" areas="2025-09-28T23:30:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3151,12 +3151,13 @@
     <tag k="population" v="1800"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508487" lat="45.9316930" lon="10.2805867" version="6" timestamp="2024-03-10T20:44:53Z" changeset="148479383" uid="21026547" user="ThomasBass">
+  <node id="62508487" lat="45.9316930" lon="10.2805867" version="7" timestamp="2025-09-28T07:42:29Z" changeset="172554342" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2187"/>
     <tag k="name" v="Berzo Inferiore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2486"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022787"/>
   </node>
   <node id="62508518" lat="46.0804970" lon="10.3996630" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2345"/>
@@ -18541,23 +18542,27 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3577"/>
   </node>
-  <node id="64778113" lat="46.4467154" lon="12.3803853" version="9" timestamp="2022-08-03T13:22:58Z" changeset="124437144" uid="1257620" user="Luca_34c">
+  <node id="64778113" lat="46.4467154" lon="12.3803853" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3317"/>
-    <tag k="name" v="Calalzo di Cadore"/>
+    <tag k="name" v="Cialàuž - Calalzo di Cadore"/>
     <tag k="name:it" v="Calalzo di Cadore"/>
-    <tag k="name:lld" v="Cialouz"/>
+    <tag k="name:lld" v="Cialàuž"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2419"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q41021"/>
     <tag k="wikipedia" v="it:Calalzo di Cadore"/>
   </node>
-  <node id="64778119" lat="46.3600576" lon="11.9150952" version="9" timestamp="2024-06-07T20:50:02Z" changeset="152392788" uid="13375925" user="Ilcontecaronte">
+  <node id="64778119" lat="46.3600576" lon="11.9150952" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3332"/>
-    <tag k="name" v="Canale d'Agordo"/>
+    <tag k="name" v="Canàl - Canale d'Agordo"/>
+    <tag k="name:it" v="Canale d'Agordo"/>
+    <tag k="name:lld" v="Canàl"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1236"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40219"/>
+    <tag k="wikipedia" v="it:Canale d'Agordo"/>
   </node>
   <node id="64778120" lat="46.1028140" lon="12.1863030" version="2" timestamp="2016-10-13T15:57:09Z" changeset="42872569" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3338"/>
@@ -18566,13 +18571,16 @@
     <tag k="population" v="4509"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778121" lat="46.3305243" lon="12.3228878" version="5" timestamp="2022-04-12T12:23:59Z" changeset="119619955" uid="1257620" user="Luca_34c">
+  <node id="64778121" lat="46.3305243" lon="12.3228878" version="6" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3344"/>
-    <tag k="loc_name" v="Ospedal"/>
-    <tag k="name" v="Ospitale di Cadore"/>
+    <tag k="name" v="Ospedàl - Ospitale di Cadore"/>
+    <tag k="name:it" v="Ospitale di Cadore"/>
+    <tag k="name:lld" v="Ospedàl"/>
     <tag k="place" v="village"/>
     <tag k="population" v="365"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q39530"/>
+    <tag k="wikipedia" v="it:Ospitale di Cadore"/>
   </node>
   <node id="64778126" lat="46.1673674" lon="12.3518414" version="5" timestamp="2017-03-12T14:07:48Z" changeset="46785792" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="3347"/>
@@ -18582,14 +18590,17 @@
     <tag k="wikidata" v="Q41010"/>
     <tag k="wikipedia" v="it:Pieve d'Alpago"/>
   </node>
-  <node id="64778127" lat="46.3970312" lon="12.3555500" version="5" timestamp="2022-04-12T12:22:06Z" changeset="119619881" uid="1257620" user="Luca_34c">
+  <node id="64778127" lat="46.3970312" lon="12.3555500" version="6" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3346"/>
     <tag k="loc_name" v="Perarol"/>
-    <tag k="name" v="Perarolo di Cadore"/>
-    <tag k="name:lld" v="Perarol"/>
+    <tag k="name" v="Pararuò - Perarolo di Cadore"/>
+    <tag k="name:it" v="Perarolo di Cadore"/>
+    <tag k="name:lld" v="Pararuò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="362"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q39516"/>
+    <tag k="wikipedia" v="it:Perarolo di Cadore"/>
   </node>
   <node id="64778128" lat="46.1030653" lon="12.0255839" version="4" timestamp="2023-08-31T09:14:05Z" changeset="140624838" uid="11631067" user="emandt">
     <tag k="gfoss_id" v="3354"/>
@@ -18598,51 +18609,54 @@
     <tag k="population" v="1599"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778133" lat="46.5707195" lon="12.5860013" version="10" timestamp="2022-08-03T13:12:53Z" changeset="124436716" uid="1257620" user="Luca_34c">
+  <node id="64778133" lat="46.5707195" lon="12.5860013" version="11" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3356"/>
     <tag k="loc_name" v="San Piero"/>
-    <tag k="name" v="San Pietro di Cadore"/>
+    <tag k="name" v="San Pieru&#x09;- San Pietro di Cadore"/>
     <tag k="name:fur" v="San Pieri in Cjadovri"/>
     <tag k="name:it" v="San Pietro di Cadore"/>
-    <tag k="name:lld" v="San Piero"/>
+    <tag k="name:lld" v="San Pieru"/>
     <tag k="name:vec" v="San Piero de Cador"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1839"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778134" lat="46.5825290" lon="12.5273020" version="6" timestamp="2022-08-03T13:35:51Z" changeset="124437664" uid="1257620" user="Luca_34c">
+  <node id="64778134" lat="46.5825290" lon="12.5273020" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3355"/>
     <tag k="loc_name" v="San Colò"/>
-    <tag k="name" v="San Nicolò di Comelico"/>
+    <tag k="name" v="San Colò - San Nicolò di Comelico"/>
     <tag k="name:it" v="San Nicolò di Comelico"/>
     <tag k="name:lld" v="San Colò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778140" lat="46.5660290" lon="12.5173020" version="6" timestamp="2022-08-03T13:35:51Z" changeset="124437664" uid="1257620" user="Luca_34c">
+  <node id="64778140" lat="46.5660290" lon="12.5173020" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3326"/>
-    <tag k="loc_name" v="Danta"/>
-    <tag k="name" v="Danta di Cadore"/>
+    <tag k="name" v="Danta - Danta di Cadore"/>
     <tag k="name:it" v="Danta di Cadore"/>
     <tag k="name:lld" v="Danta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="552"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40919"/>
+    <tag k="wikipedia" v="it:Danta di Cadore"/>
   </node>
-  <node id="64778145" lat="46.2211330" lon="11.9551644" version="9" timestamp="2022-07-25T11:10:50Z" changeset="124047101" uid="1257620" user="Luca_34c">
-    <tag k="name" v="Don di Gosaldo"/>
+  <node id="64778145" lat="46.2211330" lon="11.9551644" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+    <tag k="name" v="Don (Gosalt - Gosaldo)"/>
     <tag k="place" v="village"/>
     <tag k="population" v="221"/>
   </node>
-  <node id="64778146" lat="46.3581276" lon="11.8721031" version="14" timestamp="2022-07-25T11:43:56Z" changeset="124048526" uid="1257620" user="Luca_34c">
+  <node id="64778146" lat="46.3581276" lon="11.8721031" version="15" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3328"/>
-    <tag k="name" v="Falcade"/>
+    <tag k="name" v="Fàlciade - Falcade"/>
     <tag k="name:it" v="Falcade"/>
-    <tag k="name:lld" v="Falciade"/>
+    <tag k="name:lld" v="Fàlciade"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1951"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q39784"/>
+    <tag k="wikipedia" v="it:Falcade"/>
   </node>
   <node id="64778154" lat="46.5655394" lon="12.6802584" version="23" timestamp="2025-07-01T09:18:16Z" changeset="168343872" uid="14202171" user="Alessandro Ambrosino">
     <tag k="ele" v="1217"/>
@@ -18657,34 +18671,37 @@
     <tag k="population" v="1317"/>
     <tag k="postal_code" v="33012"/>
   </node>
-  <node id="64778165" lat="46.4196220" lon="12.2448990" version="6" timestamp="2022-08-03T13:22:58Z" changeset="124437144" uid="1257620" user="Luca_34c">
+  <node id="64778165" lat="46.4196220" lon="12.2448990" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3375"/>
-    <tag k="name" v="Vodo di Cadore"/>
+    <tag k="name" v="Guódo - Vodo di Cadore"/>
     <tag k="name:it" v="Vodo di Cadore"/>
-    <tag k="name:lld" v="Guodo"/>
+    <tag k="name:lld" v="Guódo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="936"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778167" lat="46.2987816" lon="12.0126535" version="7" timestamp="2022-07-25T10:49:59Z" changeset="124046136" uid="1257620" user="Luca_34c">
+  <node id="64778167" lat="46.2987816" lon="12.0126535" version="8" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3368"/>
-    <tag k="name" v="Taibon Agordino"/>
+    <tag k="name" v="Taibón - Taibon Agordino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1772"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778189" lat="46.3523090" lon="11.9673485" version="9" timestamp="2022-07-25T10:49:59Z" changeset="124046136" uid="1257620" user="Luca_34c">
+  <node id="64778189" lat="46.3523090" lon="11.9673485" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3319"/>
-    <tag k="name" v="Cencenighe Agordino"/>
+    <tag k="name" v="Zenzenighe - Cencenighe Agordino"/>
+    <tag k="name:it" v="Cencenighe Agordino"/>
     <tag k="name:lld" v="Zenzenighe"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1484"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40914"/>
+    <tag k="wikipedia" v="it:Cencenighe Agordino"/>
   </node>
-  <node id="64778193" lat="46.4173559" lon="12.3319828" version="6" timestamp="2022-07-25T18:05:53Z" changeset="124063495" uid="1257620" user="Luca_34c">
+  <node id="64778193" lat="46.4173559" lon="12.3319828" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3372"/>
     <tag k="loc_name" v="Val"/>
-    <tag k="name" v="Valle di Cadore"/>
+    <tag k="name" v="Val - Valle di Cadore"/>
     <tag k="name:it" v="Valle di Cadore"/>
     <tag k="name:lld" v="Val"/>
     <tag k="place" v="village"/>
@@ -18705,10 +18722,10 @@
     <tag k="population" v="3193"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778204" lat="46.5383332" lon="12.1373506" version="22" timestamp="2022-04-14T10:39:52Z" changeset="119706838" uid="1950277" user="Mannivu">
+  <node id="64778204" lat="46.5383332" lon="12.1373506" version="23" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="alt_name:lld" v="Anpëz"/>
     <tag k="gfoss_id" v="3325"/>
-    <tag k="name" v="Cortina d'Ampezzo"/>
+    <tag k="name" v="Anpezo - Cortina d'Ampezzo"/>
     <tag k="name:de" v="Cortina d'Ampezzo"/>
     <tag k="name:it" v="Cortina d'Ampezzo"/>
     <tag k="name:lld" v="Anpezo"/>
@@ -18720,15 +18737,18 @@
     <tag k="wikidata" v="Q41158"/>
     <tag k="wikipedia" v="en:Cortina d'Ampezzo"/>
   </node>
-  <node id="64778212" lat="46.2822728" lon="12.0695095" version="9" timestamp="2022-07-25T11:07:35Z" changeset="124046970" uid="1257620" user="Luca_34c">
+  <node id="64778212" lat="46.2822728" lon="12.0695095" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="ele" v="816"/>
     <tag k="gfoss_id" v="3336"/>
-    <tag k="name" v="La Valle Agordina"/>
+    <tag k="name" v="La Val - La Valle Agordina"/>
     <tag k="name:it" v="La Valle Agordina"/>
     <tag k="name:lld" v="La Val"/>
+    <tag k="old_name:it" v="San Michele in Valle"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1108"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40211"/>
+    <tag k="wikipedia" v="it:La Valle Agordina"/>
   </node>
   <node id="64778213" lat="46.0471507" lon="11.7486325" version="9" timestamp="2017-03-12T14:07:48Z" changeset="46785792" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="3335"/>
@@ -18739,22 +18759,22 @@
     <tag k="wikidata" v="Q40941"/>
     <tag k="wikipedia" v="it:Lamon"/>
   </node>
-  <node id="64778223" lat="46.4796260" lon="12.4594030" version="6" timestamp="2022-04-14T10:29:38Z" changeset="119706408" uid="1950277" user="Mannivu">
+  <node id="64778223" lat="46.4796260" lon="12.4594030" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3341"/>
     <tag k="loc_name" v="Lorenzago"/>
-    <tag k="name" v="Lorenzago di Cadore"/>
+    <tag k="name" v="Lorenžàgo - Lorenzago di Cadore"/>
     <tag k="name:fur" v="Lorençâc"/>
     <tag k="name:it" v="Lorenzago di Cadore"/>
-    <tag k="name:lld" v="Lorenzago"/>
+    <tag k="name:lld" v="Lorenžàgo"/>
     <tag k="name:vec" v="Lorenzago de Cador"/>
     <tag k="place" v="village"/>
     <tag k="population" v="578"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778228" lat="46.5579382" lon="12.5491422" version="9" timestamp="2022-08-03T13:12:53Z" changeset="124436716" uid="1257620" user="Luca_34c">
+  <node id="64778228" lat="46.5579382" lon="12.5491422" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3359"/>
     <tag k="loc_name" v="Sa Stefi"/>
-    <tag k="name" v="Santo Stefano di Cadore"/>
+    <tag k="name" v="Sa Stefi - Santo Stefano di Cadore"/>
     <tag k="name:fur" v="San Scjefin in Cjadovri"/>
     <tag k="name:it" v="Santo Stefano di Cadore"/>
     <tag k="name:lld" v="Sa Stefi"/>
@@ -18785,11 +18805,12 @@
     <tag k="population" v="1529"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778237" lat="46.4287086" lon="12.3752967" version="17" timestamp="2022-04-12T12:21:20Z" changeset="119619847" uid="1257620" user="Luca_34c">
+  <node id="64778237" lat="46.4287086" lon="12.3752967" version="18" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3348"/>
     <tag k="loc_name" v="Piee"/>
-    <tag k="name" v="Pieve di Cadore"/>
+    <tag k="name" v="Pièe - Pieve di Cadore"/>
     <tag k="name:fur" v="Plêf di Cjadovri"/>
+    <tag k="name:lld" v="Pièe"/>
     <tag k="name:vec" v="Pieve de Cador"/>
     <tag k="place" v="town"/>
     <tag k="population" v="3794"/>
@@ -18797,13 +18818,17 @@
     <tag k="wikidata" v="Q41065"/>
     <tag k="wikipedia" v="it:Pieve di Cadore"/>
   </node>
-  <node id="64778244" lat="46.4338679" lon="11.9771622" version="7" timestamp="2022-04-14T10:44:55Z" changeset="119707050" uid="1950277" user="Mannivu">
+  <node id="64778244" lat="46.4338679" lon="11.9771622" version="8" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3353"/>
-    <tag k="name" v="Rocca Pietore"/>
+    <tag k="name" v="La Ròcia - Rocca Pietore"/>
+    <tag k="name:it" v="Rocca Pietore"/>
+    <tag k="name:lld" v="La Ròcia"/>
     <tag k="old_name:de" v="Rukepraun"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1451"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40985"/>
+    <tag k="wikipedia" v="it:Rocca Pietore"/>
   </node>
   <node id="64778247" lat="45.3068076" lon="11.7339679" version="3" timestamp="2016-10-06T18:22:32Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3555"/>
@@ -18818,10 +18843,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="6045"/>
   </node>
-  <node id="64778261" lat="46.5004154" lon="12.4727097" version="7" timestamp="2023-02-28T18:33:15Z" changeset="133141381" uid="1257620" user="Luca_34c">
+  <node id="64778261" lat="46.5004154" lon="12.4727097" version="8" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3374"/>
     <tag k="loc_name" v="Vigo"/>
-    <tag k="name" v="Vigo di Cadore"/>
+    <tag k="name" v="Vigo - Vigo di Cadore"/>
     <tag k="name:it" v="Vigo di Cadore"/>
     <tag k="name:lld" v="Vigo"/>
     <tag k="place" v="village"/>
@@ -25021,7 +25046,7 @@
     <tag k="population" v="4337"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273483" lat="39.0918900" lon="16.2923960" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
+  <node id="67273483" lat="39.0918900" lon="16.2923960" version="4" timestamp="2025-09-28T08:54:39Z" changeset="172556621" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="6685"/>
     <tag k="name" v="Motta Santa Lucia"/>
     <tag k="place" v="village"/>
@@ -25029,6 +25054,7 @@
     <tag k="postal_code" v="88040"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q53658"/>
+    <tag k="wikimedia_commons" v="Category:Motta Santa Lucia"/>
     <tag k="wikipedia" v="it:Motta Santa Lucia"/>
   </node>
   <node id="67273493" lat="38.8468043" lon="16.3434539" version="4" timestamp="2018-02-11T23:25:51Z" changeset="56277570" uid="554973" user="dgitto">
@@ -26839,12 +26865,14 @@
     <tag k="population" v="673"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275374" lat="38.3221750" lon="16.3026050" version="2" timestamp="2016-08-28T18:58:26Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67275374" lat="38.3221750" lon="16.3026050" version="3" timestamp="2025-09-28T06:59:34Z" changeset="172553300" uid="1950277" user="Mannivu">
+    <tag k="alt_name" v="Gioiosa Jonica"/>
     <tag k="gfoss_id" v="6759"/>
     <tag k="name" v="Gioiosa Ionica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7044"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026105"/>
   </node>
   <node id="67275381" lat="38.1733690" lon="15.7413950" version="2" timestamp="2016-08-28T18:58:27Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6761"/>
@@ -46371,9 +46399,9 @@
     <tag k="wikidata" v="Q3853796"/>
     <tag k="wikipedia" v="it:Mediis"/>
   </node>
-  <node id="1833165331" lat="46.4513856" lon="12.0345247" version="6" timestamp="2022-04-14T10:43:18Z" changeset="119706995" uid="1950277" user="Mannivu">
+  <node id="1833165331" lat="46.4513856" lon="12.0345247" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3363"/>
-    <tag k="name" v="Selva di Cadore"/>
+    <tag k="name" v="Sélva - Selva di Cadore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="563"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -46639,9 +46667,9 @@
     <tag k="name" v="Pleyne"/>
     <tag k="place" v="hamlet"/>
   </node>
-  <node id="2189083163" lat="46.3860814" lon="12.1739405" version="4" timestamp="2022-04-14T10:47:22Z" changeset="119707167" uid="1950277" user="Mannivu">
+  <node id="2189083163" lat="46.3860814" lon="12.1739405" version="5" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3378"/>
-    <tag k="name" v="Zoppè di Cadore"/>
+    <tag k="name" v="Zopé - Zoppè di Cadore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="229"/>
   </node>
@@ -46807,10 +46835,14 @@
     <tag k="place" v="village"/>
     <tag k="source" v="cartello &quot;frazione CHIESA&quot; sul muro dell'edificio dell'ufficio postale."/>
   </node>
-  <node id="2569968587" lat="46.3916132" lon="12.2907997" version="6" timestamp="2022-04-14T10:47:22Z" changeset="119707167" uid="1950277" user="Mannivu">
-    <tag k="name" v="Cibiana di Cadore"/>
+  <node id="2569968587" lat="46.3916132" lon="12.2907997" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+    <tag k="name" v="Žubiana - Cibiana di Cadore"/>
+    <tag k="name:it" v="Cibiana di Cadore"/>
+    <tag k="name:lld" v="Žubiana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="393"/>
+    <tag k="wikidata" v="Q40947"/>
+    <tag k="wikipedia" v="it:Cibiana di Cadore"/>
   </node>
   <node id="2593800769" lat="45.8237439" lon="7.1821889" version="5" timestamp="2023-06-18T17:14:37Z" changeset="137486480" uid="18913526" user="Gurusraouta">
     <tag k="name" v="Saint-Rhémy-en-Bosses"/>
@@ -47358,10 +47390,12 @@
     <tag k="wikidata" v="Q20467"/>
     <tag k="wikipedia" v="it:Marsciano"/>
   </node>
-  <node id="3699885852" lat="46.3680131" lon="11.9310414" version="6" timestamp="2022-07-25T10:49:59Z" changeset="124046136" uid="1257620" user="Luca_34c">
-    <tag k="name" v="Sachet"/>
+  <node id="3699885852" lat="46.3680131" lon="11.9310414" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+    <tag k="name" v="La Valada&#x09;- Vallada Agordina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="419"/>
+    <tag k="wikidata" v="Q39724"/>
+    <tag k="wikipedia" v="it:Vallada Agordina"/>
   </node>
   <node id="3706806208" lat="44.4070530" lon="9.2747224" version="2" timestamp="2016-10-01T18:39:48Z" changeset="42568713" uid="743479" user="fayor">
     <tag k="name" v="Isolona"/>
@@ -47520,11 +47554,11 @@
     <tag k="wikimedia_commons" v="Category:Tabiago"/>
     <tag k="wikipedia" v="it:Tabiago"/>
   </node>
-  <node id="4131273568" lat="46.4603762" lon="12.4158245" version="6" timestamp="2022-08-03T13:22:58Z" changeset="124437144" uid="1257620" user="Luca_34c">
+  <node id="4131273568" lat="46.4603762" lon="12.4158245" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
     <tag k="gfoss_id" v="3327"/>
-    <tag k="name" v="Domegge di Cadore"/>
+    <tag k="name" v="Domeje - Domegge di Cadore"/>
     <tag k="name:it" v="Domegge di Cadore"/>
-    <tag k="name:lld" v="Domeie"/>
+    <tag k="name:lld" v="Domeje"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2645"/>
     <tag k="source" v="geodati.gfoss.it"/>
