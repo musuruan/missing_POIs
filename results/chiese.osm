@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-29T02:58:59Z" areas="2025-09-28T23:30:45Z"/>
+<meta osm_base="2025-09-30T02:53:37Z" areas="2025-09-29T21:56:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5111,6 +5111,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:ele" v="sign"/>
     <tag k="wikidata" v="Q30024332"/>
+  </node>
+  <node id="70992331" lat="41.9891260" lon="13.3343950" version="3" timestamp="2025-02-05T09:03:57Z" changeset="162156381" uid="79364" user="klaus e werner">
+    <tag k="gfoss_id" v="5736"/>
+    <tag k="name" v="Castellafiume"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1049"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q18426594"/>
   </node>
   <node id="70992429" lat="41.9377176" lon="13.6841160" version="4" timestamp="2025-02-04T08:33:21Z" changeset="162115006" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5757"/>

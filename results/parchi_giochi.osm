@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-29T03:03:02Z" areas="2025-09-28T23:30:45Z"/>
+<meta osm_base="2025-09-30T02:56:49Z" areas="2025-09-29T21:56:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1164,13 +1164,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="8347"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508692" lat="45.5805080" lon="10.0262148" version="8" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2216"/>
-    <tag k="name" v="Cazzago San Martino"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11008"/>
-    <tag k="source" v="ISTAT (30/11/2015)"/>
   </node>
   <node id="62508723" lat="45.9563241" lon="10.3040404" version="5" timestamp="2020-04-03T16:41:28Z" changeset="83045910" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="2198"/>
@@ -4577,16 +4570,6 @@
     <tag k="wikidata" v="Q17813"/>
     <tag k="wikipedia" v="it:Grana Monferrato"/>
   </node>
-  <node id="63623583" lat="45.0049008" lon="8.1688056" version="3" timestamp="2022-12-31T14:59:42Z" changeset="130724216" uid="2976645" user="Jrachi">
-    <tag k="gfoss_id" v="793"/>
-    <tag k="name" v="Frinco"/>
-    <tag k="name:pms" v="Frinch"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="690"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17811"/>
-    <tag k="wikipedia" v="it:Frinco"/>
-  </node>
   <node id="63623603" lat="44.5695562" lon="8.3301861" version="4" timestamp="2020-01-25T10:47:10Z" changeset="80066617" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="802"/>
     <tag k="name" v="Mombaldone"/>
@@ -5501,14 +5484,6 @@
     <tag k="population" v="1173"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027649"/>
-  </node>
-  <node id="63627064" lat="44.4596340" lon="7.8053360" version="5" timestamp="2023-01-17T19:45:16Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="603"/>
-    <tag k="name" v="Magliano Alpi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2111"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026848"/>
   </node>
   <node id="63627110" lat="44.6762622" lon="7.1903758" version="7" timestamp="2023-01-17T19:49:25Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="643"/>
@@ -21831,13 +21806,13 @@
     <tag k="wikidata" v="Q385692"/>
     <tag k="wikipedia" v="it:Fordongianus"/>
   </node>
-  <node id="72993207" lat="40.0958500" lon="8.6571240" version="42" timestamp="2023-11-10T12:49:28Z" changeset="143861983" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Bonàrcadu"/>
+  <node id="72993207" lat="40.0958500" lon="8.6571240" version="43" timestamp="2025-09-29T14:16:55Z" changeset="172615724" uid="10721323" user="Lorenzo Zucca">
+    <tag k="alt_name" v="Bonacatu"/>
     <tag k="gfoss_id" v="7624"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Bonaccattu/Bonarcado"/>
+    <tag k="name" v="Bonàrcadu/Bonarcado"/>
     <tag k="name:it" v="Bonarcado"/>
-    <tag k="name:sc" v="Bonaccattu"/>
+    <tag k="name:sc" v="Bonàrcadu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1702"/>
     <tag k="postal_code" v="09070"/>
