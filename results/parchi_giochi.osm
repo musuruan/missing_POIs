@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-30T02:56:49Z" areas="2025-09-29T21:56:59Z"/>
+<meta osm_base="2025-10-01T03:10:23Z" areas="2025-09-30T21:50:32Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1815,13 +1815,14 @@
     <tag k="population" v="1585"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511382" lat="45.0732478" lon="10.3168597" version="4" timestamp="2021-09-20T20:29:35Z" changeset="111465994" uid="1834719" user="LvdT">
+  <node id="62511382" lat="45.0732478" lon="10.3168597" version="5" timestamp="2025-09-30T16:58:02Z" changeset="172670064" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2657"/>
     <tag k="name" v="San Martino del Lago"/>
     <tag k="name:egl" v="San Martén"/>
     <tag k="place" v="village"/>
     <tag k="population" v="476"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030021"/>
   </node>
   <node id="62511389" lat="45.3060082" lon="9.7051398" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2648"/>
@@ -16207,15 +16208,6 @@
     <tag k="ref:ISTAT" v="033027"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301171" lat="44.6441441" lon="9.4974568" version="4" timestamp="2017-02-08T00:37:08Z" changeset="45901890" uid="339581" user="nyuriks">
-    <tag k="gfoss_id" v="3859"/>
-    <tag k="name" v="Ferriere"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q102727"/>
-    <tag k="wikipedia" v="it:Ferriere (Italia)"/>
-  </node>
   <node id="69301175" lat="44.7447560" lon="9.4145650" version="4" timestamp="2016-09-21T13:17:18Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3855"/>
     <tag k="name" v="Coli"/>
@@ -17872,14 +17864,6 @@
     <tag k="population" v="661"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025841"/>
-  </node>
-  <node id="70993273" lat="42.0074310" lon="13.8983070" version="3" timestamp="2025-02-04T07:56:31Z" changeset="162113890" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5755"/>
-    <tag k="name" v="Introdacqua"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1831"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026350"/>
   </node>
   <node id="70993330" lat="42.3334621" lon="13.7774355" version="3" timestamp="2020-12-21T23:09:12Z" changeset="96220475" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="5811"/>

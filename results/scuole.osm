@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-09-30T02:59:52Z" areas="2025-09-29T22:32:43Z"/>
+<meta osm_base="2025-10-01T03:12:33Z" areas="2025-09-30T21:10:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2332,13 +2332,14 @@
     <tag k="population" v="1585"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511382" lat="45.0732478" lon="10.3168597" version="4" timestamp="2021-09-20T20:29:35Z" changeset="111465994" uid="1834719" user="LvdT">
+  <node id="62511382" lat="45.0732478" lon="10.3168597" version="5" timestamp="2025-09-30T16:58:02Z" changeset="172670064" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2657"/>
     <tag k="name" v="San Martino del Lago"/>
     <tag k="name:egl" v="San Martén"/>
     <tag k="place" v="village"/>
     <tag k="population" v="476"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030021"/>
   </node>
   <node id="62511389" lat="45.3060082" lon="9.7051398" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2648"/>
@@ -18332,15 +18333,6 @@
     <tag k="population" v="1371"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301171" lat="44.6441441" lon="9.4974568" version="4" timestamp="2017-02-08T00:37:08Z" changeset="45901890" uid="339581" user="nyuriks">
-    <tag k="gfoss_id" v="3859"/>
-    <tag k="name" v="Ferriere"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q102727"/>
-    <tag k="wikipedia" v="it:Ferriere (Italia)"/>
-  </node>
   <node id="69301175" lat="44.7447560" lon="9.4145650" version="4" timestamp="2016-09-21T13:17:18Z" changeset="42322913" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3855"/>
     <tag k="name" v="Coli"/>
@@ -19567,13 +19559,6 @@
     <tag k="name" v="Fallo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="162"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70991378" lat="41.9524330" lon="14.3518180" version="2" timestamp="2016-09-07T16:52:29Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6010"/>
-    <tag k="name" v="Villa Santa Maria"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1479"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70991416" lat="42.0120360" lon="14.5050200" version="2" timestamp="2016-09-07T16:52:17Z" changeset="41983597" uid="743479" user="fayor">
