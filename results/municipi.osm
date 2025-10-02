@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-01T03:03:20Z" areas="2025-09-30T21:10:46Z"/>
+<meta osm_base="2025-10-02T02:50:06Z" areas="2025-10-01T20:08:03Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1370,14 +1370,6 @@
     <tag k="population" v="1162"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992468" lat="41.9973300" lon="13.7281030" version="3" timestamp="2025-02-04T08:44:08Z" changeset="162115400" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5770"/>
-    <tag k="name" v="Ortona dei Marsi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="803"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18426848"/>
-  </node>
   <node id="70992512" lat="41.8861054" lon="13.4711263" version="4" timestamp="2023-12-19T04:00:48Z" changeset="145274562" uid="15981404" user="diamondarmorsteve">
     <tag k="gfoss_id" v="5741"/>
     <tag k="name" v="Civita d'Antino"/>
@@ -1385,65 +1377,6 @@
     <tag k="population" v="1076"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024835"/>
-  </node>
-  <node id="70992608" lat="42.0262250" lon="13.0676880" version="3" timestamp="2024-08-07T16:00:06Z" changeset="154943168" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5787"/>
-    <tag k="name" v="Rocca di Botte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="522"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.roccadibotte.aq.it"/>
-    <tag k="wikidata" v="Q50134"/>
-    <tag k="wikimedia_commons" v="Category:Rocca di Botte"/>
-    <tag k="wikipedia" v="it:Rocca di Botte"/>
-  </node>
-  <node id="70992640" lat="42.0082290" lon="13.6227010" version="4" timestamp="2025-02-04T08:38:06Z" changeset="162115161" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5792"/>
-    <tag k="name" v="San Benedetto dei Marsi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4006"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30029771"/>
-    <tag k="wikimedia_commons" v="Category:San Benedetto dei Marsi"/>
-    <tag k="wikipedia" v="it:San Benedetto dei Marsi"/>
-  </node>
-  <node id="70992809" lat="41.9347290" lon="13.8420070" version="4" timestamp="2025-02-04T07:56:33Z" changeset="162113890" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5810"/>
-    <tag k="name" v="Villalago"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="636"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031819"/>
-    <tag k="wikimedia_commons" v="Category:Villalago"/>
-    <tag k="wikipedia" v="it:Villalago"/>
-  </node>
-  <node id="70993149" lat="41.8708957" lon="14.0674295" version="4" timestamp="2024-02-12T17:33:06Z" changeset="147377555" uid="1940323" user="SekeRob">
-    <tag k="ele" v="1320"/>
-    <tag k="gfoss_id" v="5785"/>
-    <tag k="name" v="Rivisondoli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="686"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70993170" lat="41.9334300" lon="13.9770100" version="4" timestamp="2025-02-05T08:43:29Z" changeset="162155700" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5790"/>
-    <tag k="name" v="Rocca Pia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="189"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30029449"/>
-  </node>
-  <node id="70993202" lat="41.9732586" lon="13.9600517" version="10" timestamp="2025-06-02T14:06:30Z" changeset="167094113" uid="1940323" user="SekeRob">
-    <tag k="ele" v="656"/>
-    <tag k="gfoss_id" v="5778"/>
-    <tag k="name" v="Pettorano sul Gizio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1255"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.pettorano.aq.it/"/>
-    <tag k="wikidata" v="Q30028773"/>
-    <tag k="wikimedia_commons" v="Category:Pettorano sul Gizio"/>
-    <tag k="wikipedia" v="it:Pettorano sul Gizio"/>
   </node>
   <node id="70993237" lat="42.0492250" lon="13.0393870" version="5" timestamp="2025-02-05T09:04:07Z" changeset="162156381" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5769"/>
@@ -1455,14 +1388,6 @@
     <tag k="wikidata" v="Q33704120"/>
     <tag k="wikimedia_commons" v="Category:Oricola"/>
     <tag k="wikipedia" v="it:Oricola"/>
-  </node>
-  <node id="70993243" lat="41.8644250" lon="13.4569990" version="3" timestamp="2023-12-19T04:00:48Z" changeset="145274562" uid="15981404" user="diamondarmorsteve">
-    <tag k="gfoss_id" v="5764"/>
-    <tag k="name" v="Morino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1545"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30028031"/>
   </node>
   <node id="70993350" lat="42.2544596" lon="13.8846932" version="6" timestamp="2022-08-02T21:30:01Z" changeset="124410400" uid="1940323" user="SekeRob">
     <tag k="gfoss_id" v="5891"/>
@@ -1707,14 +1632,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="688"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="1567345751" lat="42.1025536" lon="13.8143041" version="3" timestamp="2025-02-04T07:41:11Z" changeset="162113443" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5784"/>
-    <tag k="name" v="Raiano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2973"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18426932"/>
   </node>
   <node id="1767923012" lat="42.6223968" lon="13.5088146" version="6" timestamp="2025-02-07T15:00:58Z" changeset="162248740" uid="79364" user="klaus e werner">
     <tag k="addr:postcode" v="64040"/>
