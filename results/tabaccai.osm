@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-04T07:33:57Z" areas="2025-10-04T02:02:24Z"/>
+<meta osm_base="2025-10-05T03:07:51Z" areas="2025-10-04T22:28:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2911,13 +2911,6 @@
     <tag k="name" v="Monticelli Brusati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3610"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508047" lat="45.7554500" lon="10.2873147" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2275"/>
-    <tag k="name" v="Marmentino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="712"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508051" lat="46.2484020" lon="10.4471610" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -18530,9 +18523,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3577"/>
   </node>
-  <node id="64778113" lat="46.4467154" lon="12.3803853" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778113" lat="46.4467154" lon="12.3803853" version="11" timestamp="2025-10-04T16:15:44Z" changeset="172837618" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Calalzo"/>
     <tag k="gfoss_id" v="3317"/>
-    <tag k="name" v="Cialàuž - Calalzo di Cadore"/>
+    <tag k="name" v="Calalzo di Cadore"/>
     <tag k="name:it" v="Calalzo di Cadore"/>
     <tag k="name:lld" v="Cialàuž"/>
     <tag k="place" v="village"/>
@@ -18559,9 +18553,9 @@
     <tag k="population" v="4509"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778121" lat="46.3305243" lon="12.3228878" version="6" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778121" lat="46.3305243" lon="12.3228878" version="7" timestamp="2025-10-04T16:25:45Z" changeset="172837965" uid="11814199" user="Tartarosm80">
     <tag k="gfoss_id" v="3344"/>
-    <tag k="name" v="Ospedàl - Ospitale di Cadore"/>
+    <tag k="name" v="Ospitale di Cadore"/>
     <tag k="name:it" v="Ospitale di Cadore"/>
     <tag k="name:lld" v="Ospedàl"/>
     <tag k="place" v="village"/>
@@ -18578,10 +18572,11 @@
     <tag k="wikidata" v="Q41010"/>
     <tag k="wikipedia" v="it:Pieve d'Alpago"/>
   </node>
-  <node id="64778127" lat="46.3970312" lon="12.3555500" version="6" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778127" lat="46.3970312" lon="12.3555500" version="7" timestamp="2025-10-04T16:22:55Z" changeset="172837875" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Perarolo"/>
     <tag k="gfoss_id" v="3346"/>
     <tag k="loc_name" v="Perarol"/>
-    <tag k="name" v="Pararuò - Perarolo di Cadore"/>
+    <tag k="name" v="Perarolo di Cadore"/>
     <tag k="name:it" v="Perarolo di Cadore"/>
     <tag k="name:lld" v="Pararuò"/>
     <tag k="place" v="village"/>
@@ -18619,9 +18614,10 @@
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778140" lat="46.5660290" lon="12.5173020" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778140" lat="46.5660290" lon="12.5173020" version="8" timestamp="2025-10-04T15:11:28Z" changeset="172835129" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Danta"/>
     <tag k="gfoss_id" v="3326"/>
-    <tag k="name" v="Danta - Danta di Cadore"/>
+    <tag k="name" v="Danta di Cadore"/>
     <tag k="name:it" v="Danta di Cadore"/>
     <tag k="name:lld" v="Danta"/>
     <tag k="place" v="village"/>
@@ -18747,10 +18743,11 @@
     <tag k="wikidata" v="Q40941"/>
     <tag k="wikipedia" v="it:Lamon"/>
   </node>
-  <node id="64778223" lat="46.4796260" lon="12.4594030" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778223" lat="46.4796260" lon="12.4594030" version="8" timestamp="2025-10-04T16:09:17Z" changeset="172837359" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Lorenzago"/>
     <tag k="gfoss_id" v="3341"/>
     <tag k="loc_name" v="Lorenzago"/>
-    <tag k="name" v="Lorenžàgo - Lorenzago di Cadore"/>
+    <tag k="name" v="Lorenzago di Cadore"/>
     <tag k="name:fur" v="Lorençâc"/>
     <tag k="name:it" v="Lorenzago di Cadore"/>
     <tag k="name:lld" v="Lorenžàgo"/>
@@ -18759,10 +18756,11 @@
     <tag k="population" v="578"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778228" lat="46.5579382" lon="12.5491422" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778228" lat="46.5579382" lon="12.5491422" version="11" timestamp="2025-10-04T15:50:04Z" changeset="172836612" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Santo Stefano"/>
     <tag k="gfoss_id" v="3359"/>
     <tag k="loc_name" v="Sa Stefi"/>
-    <tag k="name" v="Sa Stefi - Santo Stefano di Cadore"/>
+    <tag k="name" v="Santo Stefano di Cadore"/>
     <tag k="name:fur" v="San Scjefin in Cjadovri"/>
     <tag k="name:it" v="Santo Stefano di Cadore"/>
     <tag k="name:lld" v="Sa Stefi"/>
@@ -18793,10 +18791,10 @@
     <tag k="population" v="1529"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778237" lat="46.4287086" lon="12.3752967" version="18" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778237" lat="46.4287086" lon="12.3752967" version="19" timestamp="2025-10-04T16:19:37Z" changeset="172837780" uid="11814199" user="Tartarosm80">
     <tag k="gfoss_id" v="3348"/>
     <tag k="loc_name" v="Piee"/>
-    <tag k="name" v="Pièe - Pieve di Cadore"/>
+    <tag k="name" v="Pieve di Cadore"/>
     <tag k="name:fur" v="Plêf di Cjadovri"/>
     <tag k="name:lld" v="Pièe"/>
     <tag k="name:vec" v="Pieve de Cador"/>
@@ -18831,10 +18829,11 @@
     <tag k="place" v="village"/>
     <tag k="population" v="6045"/>
   </node>
-  <node id="64778261" lat="46.5004154" lon="12.4727097" version="8" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778261" lat="46.5004154" lon="12.4727097" version="9" timestamp="2025-10-04T15:54:02Z" changeset="172836761" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Vigo"/>
     <tag k="gfoss_id" v="3374"/>
     <tag k="loc_name" v="Vigo"/>
-    <tag k="name" v="Vigo - Vigo di Cadore"/>
+    <tag k="name" v="Vigo di Cadore"/>
     <tag k="name:it" v="Vigo di Cadore"/>
     <tag k="name:lld" v="Vigo"/>
     <tag k="place" v="village"/>
@@ -24258,7 +24257,7 @@
     <tag k="population" v="1344"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67255808" lat="38.0843696" lon="14.8071222" version="16" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67255808" lat="38.0843696" lon="14.8071222" version="17" timestamp="2025-10-04T10:41:02Z" changeset="172825094" uid="21378857" user="GiovanniPen">
     <tag k="ele" v="660"/>
     <tag k="name" v="Castell'Umberto"/>
     <tag k="name:scn" v="Casteḍḍ'Umbertu"/>
@@ -24266,6 +24265,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2813"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
+    <tag k="wikidata" v="Q491697"/>
   </node>
   <node id="67255828" lat="38.0134424" lon="14.5973915" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="San Frareau"/>
@@ -47542,9 +47542,10 @@
     <tag k="wikimedia_commons" v="Category:Tabiago"/>
     <tag k="wikipedia" v="it:Tabiago"/>
   </node>
-  <node id="4131273568" lat="46.4603762" lon="12.4158245" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="4131273568" lat="46.4603762" lon="12.4158245" version="8" timestamp="2025-10-04T16:13:12Z" changeset="172837511" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Domegge"/>
     <tag k="gfoss_id" v="3327"/>
-    <tag k="name" v="Domeje - Domegge di Cadore"/>
+    <tag k="name" v="Domegge di Cadore"/>
     <tag k="name:it" v="Domegge di Cadore"/>
     <tag k="name:lld" v="Domeje"/>
     <tag k="place" v="village"/>

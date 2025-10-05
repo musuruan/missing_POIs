@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-04T07:27:00Z" areas="2025-10-04T02:02:24Z"/>
+<meta osm_base="2025-10-05T03:01:39Z" areas="2025-10-04T22:28:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7041,9 +7041,10 @@
     <tag k="population" v="842"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778113" lat="46.4467154" lon="12.3803853" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778113" lat="46.4467154" lon="12.3803853" version="11" timestamp="2025-10-04T16:15:44Z" changeset="172837618" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Calalzo"/>
     <tag k="gfoss_id" v="3317"/>
-    <tag k="name" v="Cialàuž - Calalzo di Cadore"/>
+    <tag k="name" v="Calalzo di Cadore"/>
     <tag k="name:it" v="Calalzo di Cadore"/>
     <tag k="name:lld" v="Cialàuž"/>
     <tag k="place" v="village"/>
@@ -7052,9 +7053,9 @@
     <tag k="wikidata" v="Q41021"/>
     <tag k="wikipedia" v="it:Calalzo di Cadore"/>
   </node>
-  <node id="64778121" lat="46.3305243" lon="12.3228878" version="6" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778121" lat="46.3305243" lon="12.3228878" version="7" timestamp="2025-10-04T16:25:45Z" changeset="172837965" uid="11814199" user="Tartarosm80">
     <tag k="gfoss_id" v="3344"/>
-    <tag k="name" v="Ospedàl - Ospitale di Cadore"/>
+    <tag k="name" v="Ospitale di Cadore"/>
     <tag k="name:it" v="Ospitale di Cadore"/>
     <tag k="name:lld" v="Ospedàl"/>
     <tag k="place" v="village"/>
@@ -7063,10 +7064,11 @@
     <tag k="wikidata" v="Q39530"/>
     <tag k="wikipedia" v="it:Ospitale di Cadore"/>
   </node>
-  <node id="64778127" lat="46.3970312" lon="12.3555500" version="6" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778127" lat="46.3970312" lon="12.3555500" version="7" timestamp="2025-10-04T16:22:55Z" changeset="172837875" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Perarolo"/>
     <tag k="gfoss_id" v="3346"/>
     <tag k="loc_name" v="Perarol"/>
-    <tag k="name" v="Pararuò - Perarolo di Cadore"/>
+    <tag k="name" v="Perarolo di Cadore"/>
     <tag k="name:it" v="Perarolo di Cadore"/>
     <tag k="name:lld" v="Pararuò"/>
     <tag k="place" v="village"/>
@@ -7118,10 +7120,11 @@
     <tag k="population" v="2033"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778228" lat="46.5579382" lon="12.5491422" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778228" lat="46.5579382" lon="12.5491422" version="11" timestamp="2025-10-04T15:50:04Z" changeset="172836612" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Santo Stefano"/>
     <tag k="gfoss_id" v="3359"/>
     <tag k="loc_name" v="Sa Stefi"/>
-    <tag k="name" v="Sa Stefi - Santo Stefano di Cadore"/>
+    <tag k="name" v="Santo Stefano di Cadore"/>
     <tag k="name:fur" v="San Scjefin in Cjadovri"/>
     <tag k="name:it" v="Santo Stefano di Cadore"/>
     <tag k="name:lld" v="Sa Stefi"/>
@@ -15029,14 +15032,6 @@
     <tag k="population" v="405"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024105"/>
-  </node>
-  <node id="70993056" lat="42.5588390" lon="13.3679870" version="4" timestamp="2025-02-07T14:53:44Z" changeset="162248495" uid="79364" user="klaus e werner">
-    <tag k="gfoss_id" v="5723"/>
-    <tag k="name" v="Campotosto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="683"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023551"/>
   </node>
   <node id="70993084" lat="42.0221324" lon="13.8615976" version="4" timestamp="2025-02-04T07:56:31Z" changeset="162113890" uid="79364" user="klaus e werner">
     <tag k="gfoss_id" v="5719"/>

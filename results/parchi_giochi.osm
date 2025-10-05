@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-04T07:33:02Z" areas="2025-10-04T02:02:24Z"/>
+<meta osm_base="2025-10-05T03:05:44Z" areas="2025-10-04T22:28:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6703,9 +6703,9 @@
     <tag k="population" v="892"/>
     <tag k="wikidata" v="Q30025836"/>
   </node>
-  <node id="64778121" lat="46.3305243" lon="12.3228878" version="6" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778121" lat="46.3305243" lon="12.3228878" version="7" timestamp="2025-10-04T16:25:45Z" changeset="172837965" uid="11814199" user="Tartarosm80">
     <tag k="gfoss_id" v="3344"/>
-    <tag k="name" v="Ospedàl - Ospitale di Cadore"/>
+    <tag k="name" v="Ospitale di Cadore"/>
     <tag k="name:it" v="Ospitale di Cadore"/>
     <tag k="name:lld" v="Ospedàl"/>
     <tag k="place" v="village"/>
@@ -6758,10 +6758,11 @@
     <tag k="wikidata" v="Q40211"/>
     <tag k="wikipedia" v="it:La Valle Agordina"/>
   </node>
-  <node id="64778223" lat="46.4796260" lon="12.4594030" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778223" lat="46.4796260" lon="12.4594030" version="8" timestamp="2025-10-04T16:09:17Z" changeset="172837359" uid="11814199" user="Tartarosm80">
+    <tag k="alt_name" v="Lorenzago"/>
     <tag k="gfoss_id" v="3341"/>
     <tag k="loc_name" v="Lorenzago"/>
-    <tag k="name" v="Lorenžàgo - Lorenzago di Cadore"/>
+    <tag k="name" v="Lorenzago di Cadore"/>
     <tag k="name:fur" v="Lorençâc"/>
     <tag k="name:it" v="Lorenzago di Cadore"/>
     <tag k="name:lld" v="Lorenžàgo"/>
@@ -9142,7 +9143,7 @@
     <tag k="population" v="2113"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67255808" lat="38.0843696" lon="14.8071222" version="16" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67255808" lat="38.0843696" lon="14.8071222" version="17" timestamp="2025-10-04T10:41:02Z" changeset="172825094" uid="21378857" user="GiovanniPen">
     <tag k="ele" v="660"/>
     <tag k="name" v="Castell'Umberto"/>
     <tag k="name:scn" v="Casteḍḍ'Umbertu"/>
@@ -9150,6 +9151,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2813"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
+    <tag k="wikidata" v="Q491697"/>
   </node>
   <node id="67255828" lat="38.0134424" lon="14.5973915" version="14" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="alt_name:scn" v="San Frareau"/>
@@ -16520,13 +16522,6 @@
     <tag k="name" v="Camerata Picena"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1700"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70979204" lat="43.5312679" lon="13.5515741" version="4" timestamp="2016-09-09T17:36:30Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4233"/>
-    <tag k="name" v="Camerano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7322"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70979244" lat="43.4930580" lon="13.0818670" version="2" timestamp="2016-09-09T17:36:31Z" changeset="42039680" uid="743479" user="fayor">
