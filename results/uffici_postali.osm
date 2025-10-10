@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-09T02:54:26Z" areas="2025-10-08T19:32:12Z"/>
+<meta osm_base="2025-10-10T02:55:01Z" areas="2025-10-09T20:08:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7289,9 +7289,10 @@
     <tag k="population" v="1743"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778517" lat="45.0343555" lon="11.5056475" version="3" timestamp="2016-10-02T23:39:09Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778517" lat="45.0343555" lon="11.5056475" version="4" timestamp="2025-10-09T18:28:07Z" changeset="173063711" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3631"/>
     <tag k="name" v="Canda"/>
+    <tag k="name:ru" v="Канда"/>
     <tag k="place" v="village"/>
     <tag k="population" v="936"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8054,10 +8055,11 @@
     <tag k="population" v="1632"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503253" lat="45.8957977" lon="13.3705873" version="7" timestamp="2025-07-15T11:41:53Z" changeset="168961113" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503253" lat="45.8957977" lon="13.3705873" version="8" timestamp="2025-10-09T15:17:56Z" changeset="173056327" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3776"/>
     <tag k="name" v="San Vito al Torre / San Vît de Tor"/>
     <tag k="name:fur" v="San Vît de Tor"/>
+    <tag k="name:it" v="San Vito al Torre"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1300"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -13533,21 +13535,6 @@
     <tag k="website" v="http://www.comune.nonantola.mo.it/"/>
     <tag k="wikidata" v="Q100080"/>
     <tag k="wikipedia" v="it:Nonantola"/>
-  </node>
-  <node id="69300465" lat="44.2685063" lon="10.9411886" version="9" timestamp="2017-03-07T17:05:54Z" changeset="46657212" uid="354284" user="sbiribizio">
-    <tag k="ele" v="842"/>
-    <tag k="gfoss_id" v="4005"/>
-    <tag k="name" v="Montese"/>
-    <tag k="name:egl" v="Muntês"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3407"/>
-    <tag k="postal_code" v="41055"/>
-    <tag k="ref:ISTAT" v="036026"/>
-    <tag k="ref:catasto" v="F642"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.montese.mo.it/home/home.aspx"/>
-    <tag k="wikidata" v="Q100072"/>
-    <tag k="wikipedia" v="it:Montese"/>
   </node>
   <node id="69300478" lat="44.2047540" lon="10.6166010" version="8" timestamp="2023-11-10T12:50:43Z" changeset="143862083" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="781"/>

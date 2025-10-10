@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-09T03:00:37Z" areas="2025-10-08T19:32:12Z"/>
+<meta osm_base="2025-10-10T03:01:58Z" areas="2025-10-09T19:19:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -19352,9 +19352,10 @@
     <tag k="population" v="1763"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778517" lat="45.0343555" lon="11.5056475" version="3" timestamp="2016-10-02T23:39:09Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778517" lat="45.0343555" lon="11.5056475" version="4" timestamp="2025-10-09T18:28:07Z" changeset="173063711" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3631"/>
     <tag k="name" v="Canda"/>
+    <tag k="name:ru" v="Канда"/>
     <tag k="place" v="village"/>
     <tag k="population" v="936"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -19820,14 +19821,6 @@
     <tag k="population" v="4087"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778701" lat="45.7591925" lon="12.2085003" version="4" timestamp="2020-08-14T19:03:14Z" changeset="89426460" uid="9517742" user="xDeamon">
-    <tag k="gfoss_id" v="3440"/>
-    <tag k="name" v="Povegliano"/>
-    <tag k="name:vec" v="Pojan"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4109"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="64778702" lat="45.8548790" lon="11.8815695" version="10" timestamp="2024-12-27T15:40:59Z" changeset="160681740" uid="22297104" user="Mattia8">
     <tag k="gfoss_id" v="3439"/>
     <tag k="name" v="Possagno"/>
@@ -20229,9 +20222,10 @@
     <tag k="place" v="town"/>
     <tag k="population" v="17093"/>
   </node>
-  <node id="64778922" lat="45.1924980" lon="11.3111274" version="6" timestamp="2016-10-26T10:50:39Z" changeset="43189271" uid="3479270" user="nammala">
+  <node id="64778922" lat="45.1924980" lon="11.3111274" version="7" timestamp="2025-10-09T18:58:44Z" changeset="173064709" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3134"/>
     <tag k="name" v="Legnago"/>
+    <tag k="name:ru" v="Леньяго"/>
     <tag k="place" v="town"/>
     <tag k="population" v="25351"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -21882,10 +21876,11 @@
     <tag k="wikidata" v="Q53344"/>
     <tag k="wikipedia" v="it:Rivignano"/>
   </node>
-  <node id="66503253" lat="45.8957977" lon="13.3705873" version="7" timestamp="2025-07-15T11:41:53Z" changeset="168961113" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503253" lat="45.8957977" lon="13.3705873" version="8" timestamp="2025-10-09T15:17:56Z" changeset="173056327" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3776"/>
     <tag k="name" v="San Vito al Torre / San Vît de Tor"/>
     <tag k="name:fur" v="San Vît de Tor"/>
+    <tag k="name:it" v="San Vito al Torre"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1300"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -23200,14 +23195,6 @@
     <tag k="population" v="974"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587002" lat="44.3679776" lon="8.2346031" version="5" timestamp="2025-10-08T13:04:31Z" changeset="173003889" uid="2175571" user="martelena">
-    <tag k="alt_name" v="Comune di Cosseria"/>
-    <tag k="gfoss_id" v="1105"/>
-    <tag k="name" v="Cosseria"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1034"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66587005" lat="44.0916290" lon="8.2232510" version="22" timestamp="2024-07-28T09:37:42Z" changeset="154512335" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1212"/>
     <tag k="name" v="Ceriale"/>
@@ -23276,11 +23263,10 @@
     <tag k="population" v="2095"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587057" lat="44.3675360" lon="8.2017460" version="21" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
+  <node id="66587057" lat="44.3675360" lon="8.2017460" version="22" timestamp="2025-10-09T10:03:18Z" changeset="173041490" uid="2175571" user="martelena">
     <tag k="gfoss_id" v="1226"/>
     <tag k="name" v="Millesimo"/>
-    <tag k="name:ru" v="Миллезимо"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="3250"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -45944,10 +45930,6 @@
     <tag k="population" v="8891"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="1516661063" lat="45.7119876" lon="12.2587081" version="4" timestamp="2016-10-06T18:22:30Z" changeset="42691939" uid="743479" user="fayor">
-    <tag k="name" v="Carità"/>
-    <tag k="place" v="village"/>
-  </node>
   <node id="1520890976" lat="45.2723159" lon="11.2477997" version="5" timestamp="2021-03-27T22:55:59Z" changeset="101856814" uid="504502" user="kkklllppp">
     <tag k="name" v="Roverchiara"/>
     <tag k="place" v="village"/>
@@ -46712,8 +46694,9 @@
     <tag k="place" v="village"/>
     <tag k="population" v="961"/>
   </node>
-  <node id="2322888747" lat="45.0940564" lon="11.4934621" version="3" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
+  <node id="2322888747" lat="45.0940564" lon="11.4934621" version="4" timestamp="2025-10-09T17:33:37Z" changeset="173061805" uid="22632809" user="KeyTV">
     <tag k="name" v="Badia Polesine"/>
+    <tag k="name:ru" v="Бадия-Полезине"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10509"/>
     <tag k="wikidata" v="Q30022483"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-09T02:57:33Z" areas="2025-10-08T19:32:12Z"/>
+<meta osm_base="2025-10-10T02:59:03Z" areas="2025-10-09T19:19:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2627,6 +2627,13 @@
     <tag k="wikidata" v="Q25195"/>
     <tag k="wikipedia" v="it:Rossa (Italia)"/>
   </node>
+  <node id="63631267" lat="45.2102551" lon="7.4889765" version="6" timestamp="2025-01-12T11:26:20Z" changeset="161268786" uid="6645382" user="canfe">
+    <tag k="gfoss_id" v="289"/>
+    <tag k="name" v="Varisella"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="690"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="63631332" lat="45.2154216" lon="7.9745034" version="5" timestamp="2023-01-17T20:00:00Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="273"/>
     <tag k="name" v="Torrazza Piemonte"/>
@@ -2901,9 +2908,10 @@
     <tag k="population" v="2896"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778517" lat="45.0343555" lon="11.5056475" version="3" timestamp="2016-10-02T23:39:09Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778517" lat="45.0343555" lon="11.5056475" version="4" timestamp="2025-10-09T18:28:07Z" changeset="173063711" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3631"/>
     <tag k="name" v="Canda"/>
+    <tag k="name:ru" v="Канда"/>
     <tag k="place" v="village"/>
     <tag k="population" v="936"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3169,9 +3177,10 @@
     <tag k="population" v="2385"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778922" lat="45.1924980" lon="11.3111274" version="6" timestamp="2016-10-26T10:50:39Z" changeset="43189271" uid="3479270" user="nammala">
+  <node id="64778922" lat="45.1924980" lon="11.3111274" version="7" timestamp="2025-10-09T18:58:44Z" changeset="173064709" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3134"/>
     <tag k="name" v="Legnago"/>
+    <tag k="name:ru" v="Леньяго"/>
     <tag k="place" v="town"/>
     <tag k="population" v="25351"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3453,10 +3462,11 @@
     <tag k="population" v="2326"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503253" lat="45.8957977" lon="13.3705873" version="7" timestamp="2025-07-15T11:41:53Z" changeset="168961113" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503253" lat="45.8957977" lon="13.3705873" version="8" timestamp="2025-10-09T15:17:56Z" changeset="173056327" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3776"/>
     <tag k="name" v="San Vito al Torre / San Vît de Tor"/>
     <tag k="name:fur" v="San Vît de Tor"/>
+    <tag k="name:it" v="San Vito al Torre"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1300"/>
     <tag k="source" v="geodati.gfoss.it"/>
