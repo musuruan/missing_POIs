@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-10T03:01:58Z" areas="2025-10-09T19:19:29Z"/>
+<meta osm_base="2025-10-11T02:52:43Z" areas="2025-10-10T20:26:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9205,12 +9205,14 @@
     <tag k="population" v="4600"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517683" lat="46.0601819" lon="8.8043271" version="5" timestamp="2025-04-12T20:24:04Z" changeset="164871571" uid="67550" user="Aiman">
+  <node id="62517683" lat="46.0601819" lon="8.8043271" version="6" timestamp="2025-10-10T21:04:16Z" changeset="173113273" uid="19971463" user="LeoBorGiov">
     <tag k="gfoss_id" v="1417"/>
     <tag k="name" v="Curiglia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="201"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40717"/>
+    <tag k="wikipedia" v="it:Curiglia con Monteviasco"/>
   </node>
   <node id="62517693" lat="45.9612811" lon="8.8430411" version="6" timestamp="2024-07-27T13:46:25Z" changeset="154485251" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="1383"/>
@@ -21134,10 +21136,11 @@
     <tag k="population" v="435"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502754" lat="45.9305709" lon="13.4965303" version="7" timestamp="2025-07-07T15:26:15Z" changeset="168611395" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66502754" lat="45.9305709" lon="13.4965303" version="8" timestamp="2025-10-10T11:04:28Z" changeset="173088724" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3821"/>
     <tag k="name" v="Moraro / Morâr"/>
     <tag k="name:fur" v="Morâr"/>
+    <tag k="name:it" v="Moraro"/>
     <tag k="name:sl" v="Morar"/>
     <tag k="place" v="village"/>
     <tag k="population" v="694"/>
@@ -27881,7 +27884,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031145"/>
   </node>
-  <node id="67280925" lat="40.5660120" lon="16.0732169" version="3" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280925" lat="40.5656740" lon="16.0715869" version="4" timestamp="2025-10-10T19:31:32Z" changeset="173110329" uid="1725439" user="Begavil84">
     <tag k="gfoss_id" v="6371"/>
     <tag k="name" v="Campomaggiore"/>
     <tag k="place" v="village"/>
@@ -33815,7 +33818,7 @@
     <tag k="wikidata" v="Q94962"/>
     <tag k="wikipedia" v="it:Monghidoro"/>
   </node>
-  <node id="69300198" lat="44.3929640" lon="11.3423140" version="7" timestamp="2024-11-02T09:06:32Z" changeset="158648775" uid="2884921" user="Ryccardo">
+  <node id="69300198" lat="44.3856330" lon="11.3435428" version="8" timestamp="2025-10-10T17:59:19Z" changeset="173107216" uid="4661780" user="Cavedagna">
     <tag k="alt_name" v="Pianoro Nuovo"/>
     <tag k="ele" v="200"/>
     <tag k="gfoss_id" v="4073"/>
@@ -41129,21 +41132,6 @@
     <tag k="wikidata" v="Q283894"/>
     <tag k="wikipedia" v="it:Donori"/>
     <tag k="wikipedia:sc" v="Donori"/>
-  </node>
-  <node id="72991317" lat="39.6562834" lon="9.1297852" version="44" timestamp="2023-11-07T21:09:17Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7433"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Mandas"/>
-    <tag k="name:it" v="Mandas"/>
-    <tag k="name:sc" v="Mandas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2464"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.mandas.ca.it/"/>
-    <tag k="wikidata" v="Q284273"/>
-    <tag k="wikipedia" v="it:Mandas"/>
-    <tag k="wikipedia:sc" v="Mandas"/>
   </node>
   <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7438"/>

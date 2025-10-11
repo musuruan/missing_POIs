@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-10T02:59:03Z" areas="2025-10-09T19:19:29Z"/>
+<meta osm_base="2025-10-11T02:50:37Z" areas="2025-10-10T20:26:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1120,13 +1120,6 @@
     <tag k="name:lmo" v="Busnagh"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4576"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515136" lat="45.5062108" lon="8.9012659" version="6" timestamp="2018-03-18T12:31:17Z" changeset="57289610" uid="1476146" user="Alecs01">
-    <tag k="gfoss_id" v="1857"/>
-    <tag k="name" v="Ossona"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3757"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515168" lat="45.5918653" lon="9.4952028" version="3" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
@@ -3397,10 +3390,11 @@
     <tag k="population" v="6166"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502754" lat="45.9305709" lon="13.4965303" version="7" timestamp="2025-07-07T15:26:15Z" changeset="168611395" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66502754" lat="45.9305709" lon="13.4965303" version="8" timestamp="2025-10-10T11:04:28Z" changeset="173088724" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3821"/>
     <tag k="name" v="Moraro / Morâr"/>
     <tag k="name:fur" v="Morâr"/>
+    <tag k="name:it" v="Moraro"/>
     <tag k="name:sl" v="Morar"/>
     <tag k="place" v="village"/>
     <tag k="population" v="694"/>
@@ -4932,7 +4926,7 @@
     <tag k="population" v="750"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280925" lat="40.5660120" lon="16.0732169" version="3" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280925" lat="40.5656740" lon="16.0715869" version="4" timestamp="2025-10-10T19:31:32Z" changeset="173110329" uid="1725439" user="Begavil84">
     <tag k="gfoss_id" v="6371"/>
     <tag k="name" v="Campomaggiore"/>
     <tag k="place" v="village"/>

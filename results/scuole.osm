@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-10T03:03:11Z" areas="2025-10-09T19:19:29Z"/>
+<meta osm_base="2025-10-11T02:53:45Z" areas="2025-10-10T21:31:06Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -720,13 +720,6 @@
     <tag k="name" v="Lenna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="574"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506517" lat="45.8006860" lon="9.8854560" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2047"/>
-    <tag k="name" v="Leffe"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4411"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62506523" lat="45.6499571" lon="9.5479634" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -4533,12 +4526,14 @@
     <tag k="postal_code" v="21020"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517683" lat="46.0601819" lon="8.8043271" version="5" timestamp="2025-04-12T20:24:04Z" changeset="164871571" uid="67550" user="Aiman">
+  <node id="62517683" lat="46.0601819" lon="8.8043271" version="6" timestamp="2025-10-10T21:04:16Z" changeset="173113273" uid="19971463" user="LeoBorGiov">
     <tag k="gfoss_id" v="1417"/>
     <tag k="name" v="Curiglia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="201"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q40717"/>
+    <tag k="wikipedia" v="it:Curiglia con Monteviasco"/>
   </node>
   <node id="62517829" lat="45.8847905" lon="8.7091816" version="3" timestamp="2024-03-31T09:29:09Z" changeset="149381661" uid="19971463" user="LeoBorGiov">
     <tag k="gfoss_id" v="1363"/>
@@ -10499,10 +10494,11 @@
     <tag k="population" v="435"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502754" lat="45.9305709" lon="13.4965303" version="7" timestamp="2025-07-07T15:26:15Z" changeset="168611395" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66502754" lat="45.9305709" lon="13.4965303" version="8" timestamp="2025-10-10T11:04:28Z" changeset="173088724" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3821"/>
     <tag k="name" v="Moraro / Morâr"/>
     <tag k="name:fur" v="Morâr"/>
+    <tag k="name:it" v="Moraro"/>
     <tag k="name:sl" v="Morar"/>
     <tag k="place" v="village"/>
     <tag k="population" v="694"/>
@@ -14037,7 +14033,7 @@
     <tag k="population" v="750"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280925" lat="40.5660120" lon="16.0732169" version="3" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280925" lat="40.5656740" lon="16.0715869" version="4" timestamp="2025-10-10T19:31:32Z" changeset="173110329" uid="1725439" user="Begavil84">
     <tag k="gfoss_id" v="6371"/>
     <tag k="name" v="Campomaggiore"/>
     <tag k="place" v="village"/>
