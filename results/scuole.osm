@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-11T02:53:45Z" areas="2025-10-10T21:31:06Z"/>
+<meta osm_base="2025-10-12T03:04:14Z" areas="2025-10-12T01:06:36Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -12404,12 +12404,17 @@
     <tag k="population" v="869"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273933" lat="39.5852960" lon="15.9002820" version="3" timestamp="2024-10-02T23:21:30Z" changeset="157397974" uid="13986573" user="dombul">
+  <node id="67273933" lat="39.5852960" lon="15.9002820" version="4" timestamp="2025-10-11T14:19:11Z" changeset="173139712" uid="16701886" user="Giorgio543143">
+    <tag k="ele" v="425"/>
     <tag k="gfoss_id" v="6504"/>
     <tag k="name" v="Bonifati"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="3402"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2487"/>
+    <tag k="population:date" v="2025-07-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q53843"/>
+    <tag k="wikipedia" v="it:Bonifati"/>
   </node>
   <node id="67273938" lat="39.6901767" lon="15.8839994" version="3" timestamp="2016-08-28T18:58:14Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6505"/>
@@ -12457,14 +12462,17 @@
     <tag k="population" v="3096"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274027" lat="39.4692469" lon="15.9875062" version="9" timestamp="2024-10-02T23:21:30Z" changeset="157397974" uid="13986573" user="dombul">
+  <node id="67274027" lat="39.4692469" lon="15.9875062" version="11" timestamp="2025-10-11T14:09:45Z" changeset="173139253" uid="16701886" user="Giorgio543143">
     <tag k="alt_name" v="La Gàrdia"/>
     <tag k="gfoss_id" v="6546"/>
-    <tag k="name" v="La Gàrdia / Guardia Piemontese"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="1788"/>
-    <tag k="population:date" v="2023"/>
+    <tag k="name" v="Guardia Piemontese"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1766"/>
+    <tag k="population:date" v="2025-07-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q53888"/>
+    <tag k="wikipedia" v="it:Guardia Piemontese"/>
   </node>
   <node id="67274037" lat="39.1419900" lon="16.2356940" version="21" timestamp="2023-08-21T19:40:11Z" changeset="140198197" uid="19233464" user="secondaryhighway">
     <tag k="gfoss_id" v="6544"/>
