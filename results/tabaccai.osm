@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-13T03:19:13Z" areas="2025-10-12T20:29:44Z"/>
+<meta osm_base="2025-10-14T03:04:50Z" areas="2025-10-13T21:11:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -21755,10 +21755,11 @@
     <tag k="population" v="2326"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503204" lat="45.9970608" lon="13.4415949" version="5" timestamp="2025-07-13T16:38:42Z" changeset="168881722" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503204" lat="45.9970608" lon="13.4415949" version="6" timestamp="2025-10-13T16:20:23Z" changeset="173236517" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3701"/>
     <tag k="name" v="Corno di Rosazzo / Cuar di Rosacis"/>
     <tag k="name:fur" v="Cuar di Rosacis"/>
+    <tag k="name:it" v="Corno di Rosazzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3308"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -22356,10 +22357,11 @@
     <tag k="population" v="899"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503517" lat="46.0606866" lon="13.3947783" version="7" timestamp="2025-07-22T21:47:54Z" changeset="169315094" uid="684800" user="fabiotofy">
+  <node id="66503517" lat="46.0606866" lon="13.3947783" version="8" timestamp="2025-10-13T16:20:23Z" changeset="173236517" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3754"/>
     <tag k="name" v="Premariacco"/>
     <tag k="name:fur" v="Premariâs"/>
+    <tag k="name:it" v="Premariacco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4001"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -35415,13 +35417,6 @@
     <tag k="population" v="2760"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q81166354"/>
-  </node>
-  <node id="70979097" lat="43.5433100" lon="13.0371913" version="6" timestamp="2016-09-09T17:36:48Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4273"/>
-    <tag k="name" v="Serra de' Conti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3464"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70979145" lat="43.4476829" lon="13.0138605" version="3" timestamp="2019-01-18T00:44:12Z" changeset="66411662" uid="123412" user="totera">
     <tag k="gfoss_id" v="4274"/>
