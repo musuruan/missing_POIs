@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-15T03:07:10Z" areas="2025-10-14T22:16:21Z"/>
+<meta osm_base="2025-10-16T03:02:37Z" areas="2025-10-15T21:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -418,13 +418,6 @@
     <tag k="population" v="1065"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028807"/>
-  </node>
-  <node id="62505847" lat="45.7997607" lon="9.9003550" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2083"/>
-    <tag k="name" v="Peia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1777"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62505854" lat="45.8105395" lon="10.0438781" version="4" timestamp="2025-07-31T18:33:14Z" changeset="169785078" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="2084"/>
@@ -7833,10 +7826,11 @@
     <tag k="population" v="3006"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503183" lat="46.1457361" lon="13.2351201" version="12" timestamp="2025-07-15T10:48:12Z" changeset="168958709" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503183" lat="46.1457361" lon="13.2351201" version="13" timestamp="2025-10-15T19:31:17Z" changeset="173335573" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3761"/>
     <tag k="name" v="Reana del Rojale / Reane dal Roiâl"/>
     <tag k="name:fur" v="Reane dal Roiâl"/>
+    <tag k="name:it" v="Reana del Rojale"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4726"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -16890,11 +16884,12 @@
     <tag k="population" v="606"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981551" lat="43.5457373" lon="12.6517770" version="5" timestamp="2024-12-07T03:55:58Z" changeset="160015010" uid="21490170" user="evilworld">
+  <node id="70981551" lat="43.5457373" lon="12.6517770" version="6" timestamp="2025-10-15T13:05:19Z" changeset="173319718" uid="22927472" user="TBonanno">
     <tag k="gfoss_id" v="4167"/>
     <tag k="name" v="Cagli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8731"/>
+    <tag k="postal_code" v="61043"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70981649" lat="43.0353798" lon="13.2983099" version="4" timestamp="2016-09-09T17:36:47Z" changeset="42039680" uid="743479" user="fayor">

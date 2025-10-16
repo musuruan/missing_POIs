@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-15T02:58:59Z" areas="2025-10-14T22:16:21Z"/>
+<meta osm_base="2025-10-16T02:57:34Z" areas="2025-10-15T21:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2547,6 +2547,13 @@
     <tag k="name" v="Ceresara"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2462"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62513522" lat="45.1890080" lon="10.9751299" version="5" timestamp="2024-10-30T08:21:53Z" changeset="158526279" uid="9925732" user="Flight777">
+    <tag k="gfoss_id" v="2695"/>
+    <tag k="name" v="Castel d'Ario"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4231"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513535" lat="45.2006750" lon="10.3693780" version="2" timestamp="2024-11-25T06:36:10Z" changeset="159558889" uid="9925732" user="Flight777">

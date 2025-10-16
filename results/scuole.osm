@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-15T03:09:07Z" areas="2025-10-14T22:16:21Z"/>
+<meta osm_base="2025-10-16T03:05:36Z" areas="2025-10-15T21:47:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -381,13 +381,6 @@
     <tag k="website" v="https://www.comune.piazzatorre.bg.it/PortaleNet/portale/CadmoDriver?_token=SEARCHENGINESXOK&amp;codice_comune=PIAZZATORRE&amp;_page=pHomePage&amp;_state=initial&amp;_action_do_home_siscotel=1"/>
     <tag k="wikidata" v="Q101409"/>
     <tag k="wikipedia" v="it:Piazzatorre"/>
-  </node>
-  <node id="62505847" lat="45.7997607" lon="9.9003550" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2083"/>
-    <tag k="name" v="Peia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1777"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62505854" lat="45.8105395" lon="10.0438781" version="4" timestamp="2025-07-31T18:33:14Z" changeset="169785078" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="2084"/>
@@ -10772,14 +10765,6 @@
     <tag k="population" v="546"/>
     <tag k="wikidata" v="Q266259"/>
   </node>
-  <node id="66586593" lat="44.4222480" lon="9.3865700" version="3" timestamp="2018-03-23T16:51:32Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
-    <tag k="gfoss_id" v="1262"/>
-    <tag k="name" v="Borzonasca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2025"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q267134"/>
-  </node>
   <node id="66586621" lat="44.6048462" lon="9.2912637" version="5" timestamp="2018-03-23T16:51:28Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
     <tag k="gfoss_id" v="1283"/>
     <tag k="name" v="Gorreto"/>
@@ -19139,11 +19124,12 @@
     <tag k="population" v="606"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981551" lat="43.5457373" lon="12.6517770" version="5" timestamp="2024-12-07T03:55:58Z" changeset="160015010" uid="21490170" user="evilworld">
+  <node id="70981551" lat="43.5457373" lon="12.6517770" version="6" timestamp="2025-10-15T13:05:19Z" changeset="173319718" uid="22927472" user="TBonanno">
     <tag k="gfoss_id" v="4167"/>
     <tag k="name" v="Cagli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8731"/>
+    <tag k="postal_code" v="61043"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70981676" lat="43.1758989" lon="13.1886151" version="6" timestamp="2025-01-06T14:17:24Z" changeset="161059964" uid="4188272" user="dp7">
