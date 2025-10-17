@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-16T03:04:39Z" areas="2025-10-15T21:47:14Z"/>
+<meta osm_base="2025-10-17T03:02:21Z" areas="2025-10-16T23:17:26Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8817,12 +8817,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1982"/>
   </node>
-  <node id="62516993" lat="46.1708212" lon="9.9893554" version="4" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="Martino Scaglione">
+  <node id="62516993" lat="46.1708212" lon="9.9893554" version="5" timestamp="2025-10-16T14:05:07Z" changeset="173367971" uid="20601540" user="IlCreeper08">
     <tag k="ele" v="389"/>
     <tag k="loc_name" v="Ciǜür"/>
     <tag k="name" v="Chiuro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2400"/>
+    <tag k="population" v="2439"/>
+    <tag k="population:date" v="2025-07-31"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q30024703"/>
   </node>
   <node id="62517000" lat="46.2645945" lon="9.8639250" version="7" timestamp="2022-07-01T16:19:33Z" changeset="123092848" uid="2498239" user="maurizioa">
@@ -42106,21 +42108,6 @@
     <tag k="website" v="https://www.comune.osini.nu.it/"/>
     <tag k="wikidata" v="Q340603"/>
     <tag k="wikipedia" v="it:Osini"/>
-  </node>
-  <node id="72992241" lat="40.0956540" lon="9.1623340" version="40" timestamp="2017-03-01T21:24:55Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7367"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Ovodda"/>
-    <tag k="name:it" v="Ovodda"/>
-    <tag k="name:sc" v="Ovodda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1732"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.ovodda.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295576"/>
-    <tag k="wikipedia" v="it:Ovodda"/>
-    <tag k="wikipedia:sc" v="Ovodda"/>
   </node>
   <node id="72992247" lat="39.7971841" lon="9.6247299" version="45" timestamp="2023-11-10T22:24:03Z" changeset="143881488" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7396"/>
