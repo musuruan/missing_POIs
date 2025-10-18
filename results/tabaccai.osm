@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-17T03:02:21Z" areas="2025-10-16T23:17:26Z"/>
+<meta osm_base="2025-10-18T02:54:17Z" areas="2025-10-17T23:33:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1206,12 +1206,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028807"/>
   </node>
-  <node id="62505847" lat="45.7997607" lon="9.9003550" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62505847" lat="45.7997607" lon="9.9003550" version="5" timestamp="2025-10-17T16:15:23Z" changeset="173418704" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2083"/>
     <tag k="name" v="Peia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1777"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028682"/>
   </node>
   <node id="62505854" lat="45.8105395" lon="10.0438781" version="4" timestamp="2025-07-31T18:33:14Z" changeset="169785078" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="2084"/>
@@ -1593,12 +1594,13 @@
     <tag k="population" v="388"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506322" lat="45.8127326" lon="9.8847039" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506322" lat="45.8127326" lon="9.8847039" version="5" timestamp="2025-10-17T16:15:25Z" changeset="173418704" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1991"/>
     <tag k="name" v="Cazzano Sant'Andrea"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1645"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024468"/>
   </node>
   <node id="62506328" lat="45.6675790" lon="9.5276510" version="3" timestamp="2024-09-09T17:58:37Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="created_by" v="JOSM"/>
@@ -1776,12 +1778,13 @@
     <tag k="population" v="574"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506517" lat="45.8006860" lon="9.8854560" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506517" lat="45.8006860" lon="9.8854560" version="4" timestamp="2025-10-17T16:15:22Z" changeset="173418704" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2047"/>
     <tag k="name" v="Leffe"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4411"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026551"/>
   </node>
   <node id="62506523" lat="45.6499571" lon="9.5479634" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2054"/>
@@ -2147,12 +2150,13 @@
     <tag k="wikidata" v="Q30025782"/>
     <tag k="wikipedia" v="it:Fontanella"/>
   </node>
-  <node id="62506860" lat="45.8115328" lon="9.9031182" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506860" lat="45.8115328" lon="9.9031182" version="6" timestamp="2025-10-17T16:15:25Z" changeset="173418704" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2031"/>
     <tag k="name" v="Gandino"/>
     <tag k="place" v="town"/>
     <tag k="population" v="5367"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025991"/>
   </node>
   <node id="62506875" lat="45.8802860" lon="9.6967510" version="4" timestamp="2024-09-09T17:58:42Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2016"/>
@@ -21606,10 +21610,11 @@
     <tag k="population" v="1036"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503134" lat="46.2550260" lon="13.1788240" version="7" timestamp="2025-07-15T07:49:32Z" changeset="168949781" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503134" lat="46.2550260" lon="13.1788240" version="8" timestamp="2025-10-17T09:30:46Z" changeset="173401111" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3732"/>
     <tag k="name" v="Montenars / Montenârs"/>
     <tag k="name:fur" v="Montenârs"/>
+    <tag k="name:it" v="Montenars"/>
     <tag k="place" v="village"/>
     <tag k="population" v="536"/>
     <tag k="source" v="geodati.gfoss.it"/>

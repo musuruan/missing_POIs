@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-17T03:04:37Z" areas="2025-10-16T23:17:26Z"/>
+<meta osm_base="2025-10-18T02:55:25Z" areas="2025-10-17T23:33:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -632,12 +632,13 @@
     <tag k="population" v="557"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506322" lat="45.8127326" lon="9.8847039" version="4" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62506322" lat="45.8127326" lon="9.8847039" version="5" timestamp="2025-10-17T16:15:25Z" changeset="173418704" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1991"/>
     <tag k="name" v="Cazzano Sant'Andrea"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1645"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024468"/>
   </node>
   <node id="62506328" lat="45.6675790" lon="9.5276510" version="3" timestamp="2024-09-09T17:58:37Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="created_by" v="JOSM"/>
@@ -14162,6 +14163,17 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q33675918"/>
   </node>
+  <node id="67283760" lat="41.8675905" lon="14.7467926" version="10" timestamp="2025-05-16T09:54:11Z" changeset="166341118" uid="12638075" user="elucci">
+    <tag k="gfoss_id" v="6013"/>
+    <tag k="name" v="Acquaviva Collecroce - Živavoda Kruč"/>
+    <tag k="name:hr" v="Živavoda Kruč"/>
+    <tag k="name:it" v="Acquaviva Collecroce"/>
+    <tag k="name:svm" v="Živavoda Kruč"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="800"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q277362"/>
+  </node>
   <node id="67283771" lat="41.5562506" lon="14.5585312" version="3" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6017"/>
     <tag k="name" v="Busso"/>
@@ -24647,6 +24659,14 @@
     <tag k="name" v="Feglino"/>
     <tag k="name:lij" v="Feìn"/>
     <tag k="place" v="village"/>
+  </node>
+  <node id="316029610" lat="44.4420638" lon="9.1373284" version="3" timestamp="2017-10-04T07:51:58Z" changeset="52617222" uid="5266127" user="alessio gardella">
+    <tag k="ele" v="228"/>
+    <tag k="gfoss_id" v="36126"/>
+    <tag k="istat_id" v="1003110002"/>
+    <tag k="name" v="Ferriere"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="84"/>
   </node>
   <node id="316030286" lat="44.4157224" lon="9.1950848" version="4" timestamp="2018-05-07T12:54:15Z" changeset="58757897" uid="195228" user="vancori">
     <tag k="ele" v="279"/>
