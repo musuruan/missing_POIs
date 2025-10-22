@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-21T03:05:07Z" areas="2025-10-20T22:50:15Z"/>
+<meta osm_base="2025-10-22T03:10:59Z" areas="2025-10-21T22:26:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8035,10 +8035,11 @@
     <tag k="population" v="2170"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503435" lat="46.1242801" lon="13.1869752" version="8" timestamp="2025-07-15T08:23:58Z" changeset="168951061" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503435" lat="46.1242801" lon="13.1869752" version="9" timestamp="2025-10-21T19:36:06Z" changeset="173599070" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3739"/>
     <tag k="name" v="Pagnacco / Pagnà"/>
     <tag k="name:fur" v="Pagnà"/>
+    <tag k="name:it" v="Pagnacco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4606"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -20692,21 +20693,6 @@
     <tag k="wikidata" v="Q284433"/>
     <tag k="wikipedia" v="it:Nurri"/>
     <tag k="wikipedia:sc" v="Nurri"/>
-  </node>
-  <node id="72991976" lat="40.1828560" lon="9.1483320" version="45" timestamp="2023-11-09T05:18:01Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7353"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Ortzai/Olzai"/>
-    <tag k="name:it" v="Olzai"/>
-    <tag k="name:sc" v="Ortzai"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1046"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.olzai.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295351"/>
-    <tag k="wikipedia" v="it:Olzai"/>
-    <tag k="wikipedia:sc" v="Ortzai"/>
   </node>
   <node id="72991986" lat="40.1685030" lon="9.1784670" version="49" timestamp="2023-11-09T05:18:08Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7352"/>
