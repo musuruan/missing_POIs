@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-22T03:08:00Z" areas="2025-10-21T22:26:21Z"/>
+<meta osm_base="2025-10-23T07:04:01Z" areas="2025-10-23T03:23:03Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1212,14 +1212,6 @@
     <tag k="postal_code" v="27040"/>
     <tag k="ref:ISTAT" v="018020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515426" lat="45.2665660" lon="9.2179510" version="3" timestamp="2024-09-09T17:58:24Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="2395"/>
-    <tag k="name" v="Bornasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1677"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023023"/>
   </node>
   <node id="62515455" lat="45.2345610" lon="8.6871400" version="3" timestamp="2024-09-09T17:58:32Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2415"/>
@@ -5174,12 +5166,15 @@
     <tag k="population" v="1619"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284103" lat="41.6825290" lon="14.5193250" version="2" timestamp="2016-09-03T02:35:25Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284103" lat="41.6825290" lon="14.5193250" version="3" timestamp="2025-10-22T07:46:31Z" changeset="173613612" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="6066"/>
     <tag k="name" v="Pietracupa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028837"/>
+    <tag k="wikimedia_commons" v="Category:Pietracupa"/>
+    <tag k="wikipedia" v="it:Pietracupa"/>
   </node>
   <node id="67284126" lat="41.9417360" lon="14.7132260" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6048"/>

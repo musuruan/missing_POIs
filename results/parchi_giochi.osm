@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-22T03:10:59Z" areas="2025-10-21T22:26:21Z"/>
+<meta osm_base="2025-10-23T07:06:05Z" areas="2025-10-23T01:19:52Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -11883,12 +11883,6 @@
     <tag k="population" v="1730"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67281048" lat="40.1240088" lon="16.2138347" version="5" timestamp="2020-08-12T15:20:36Z" changeset="89311797" uid="110076" user="GPS-Marco">
-    <tag k="gfoss_id" v="6382"/>
-    <tag k="name" v="Chiaromonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2148"/>
-  </node>
   <node id="67281056" lat="40.7866170" lon="15.4301570" version="2" timestamp="2016-08-28T18:58:17Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6375"/>
     <tag k="name" v="Castelgrande"/>
@@ -12319,12 +12313,15 @@
     <tag k="population" v="1289"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284103" lat="41.6825290" lon="14.5193250" version="2" timestamp="2016-09-03T02:35:25Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284103" lat="41.6825290" lon="14.5193250" version="3" timestamp="2025-10-22T07:46:31Z" changeset="173613612" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="6066"/>
     <tag k="name" v="Pietracupa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028837"/>
+    <tag k="wikimedia_commons" v="Category:Pietracupa"/>
+    <tag k="wikipedia" v="it:Pietracupa"/>
   </node>
   <node id="67284116" lat="41.6110290" lon="14.6627290" version="2" timestamp="2016-09-03T02:35:25Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6071"/>
@@ -19117,18 +19114,6 @@
     <tag k="wikidata" v="Q242521"/>
     <tag k="wikimedia_commons" v="Category:Ciciliano"/>
     <tag k="wikipedia" v="it:Ciciliano"/>
-  </node>
-  <node id="72962543" lat="41.9769358" lon="12.8691904" version="6" timestamp="2024-08-08T10:43:47Z" changeset="154972361" uid="3860151" user="Michele Aquilani">
-    <tag k="contact:facebook" v="https://www.facebook.com/Comune-Castel-Madama-386771514839637/"/>
-    <tag k="gfoss_id" v="4934"/>
-    <tag k="name" v="Castel Madama"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7399"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comunedicastelmadama.it/"/>
-    <tag k="wikidata" v="Q242114"/>
-    <tag k="wikimedia_commons" v="Category:Castel Madama"/>
-    <tag k="wikipedia" v="it:Castel Madama"/>
   </node>
   <node id="72962597" lat="41.9420762" lon="13.0373148" version="5" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="4928"/>
