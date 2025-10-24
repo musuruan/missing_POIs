@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-23T07:07:00Z" areas="2025-10-23T03:23:03Z"/>
+<meta osm_base="2025-10-24T03:02:02Z" areas="2025-10-23T20:55:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10850,16 +10850,6 @@
     <tag k="wikidata" v="Q17769"/>
     <tag k="wikipedia" v="it:Cantarana"/>
   </node>
-  <node id="63623086" lat="44.9059484" lon="8.0916378" version="4" timestamp="2021-02-06T19:18:44Z" changeset="98826343" uid="3335735" user="nick1993">
-    <tag k="gfoss_id" v="746"/>
-    <tag k="name" v="Baldichieri d'Asti"/>
-    <tag k="name:pms" v="Baudiché"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1009"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17750"/>
-    <tag k="wikipedia" v="it:Baldichieri d'Asti"/>
-  </node>
   <node id="63623093" lat="44.9449657" lon="8.4873857" version="7" timestamp="2023-01-17T19:57:50Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="998"/>
     <tag k="name" v="Quargnento"/>
@@ -15083,8 +15073,7 @@
     <tag k="population" v="779"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629851" lat="45.2270520" lon="7.7850210" version="2" timestamp="2019-09-08T05:16:48Z" changeset="74218895" uid="6645382" user="canfe">
-    <tag k="created_by" v="JOSM"/>
+  <node id="63629851" lat="45.2237375" lon="7.7826861" version="3" timestamp="2025-10-23T07:56:51Z" changeset="173660195" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="236"/>
     <tag k="name" v="San Benigno Canavese"/>
     <tag k="place" v="village"/>
@@ -19205,12 +19194,13 @@
     <tag k="population" v="4458"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778453" lat="45.3093920" lon="11.9560120" version="2" timestamp="2016-10-06T18:22:35Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778453" lat="45.3093920" lon="11.9560120" version="4" timestamp="2025-10-23T13:05:49Z" changeset="173673817" uid="20161667" user="htwan">
     <tag k="gfoss_id" v="3581"/>
     <tag k="name" v="Polverara"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2345"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028990"/>
   </node>
   <node id="64778455" lat="45.2976920" lon="12.0368140" version="3" timestamp="2016-10-26T10:46:16Z" changeset="43189086" uid="3479270" user="nammala">
     <tag k="gfoss_id" v="3580"/>
@@ -30569,11 +30559,12 @@
     <tag k="reg_name" v="Tajanu"/>
     <tag k="source" v="geodati.gfoss.it;https://demo.istat.it/app/?l=it&amp;a=2024&amp;i=D7B"/>
   </node>
-  <node id="68529787" lat="39.9058190" lon="18.3644330" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
+  <node id="68529787" lat="39.9058190" lon="18.3644330" version="5" timestamp="2025-10-23T11:13:58Z" changeset="173668625" uid="23426725" user="SirAfino">
     <tag k="gfoss_id" v="6343"/>
     <tag k="name" v="Tiggiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2871"/>
+    <tag k="postal_code" v="73030"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529797" lat="40.1311102" lon="18.1026358" version="6" timestamp="2025-08-19T11:35:21Z" changeset="170664879" uid="1725439" user="Begavil84">
