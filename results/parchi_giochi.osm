@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-24T03:01:01Z" areas="2025-10-23T20:55:42Z"/>
+<meta osm_base="2025-10-25T03:01:50Z" areas="2025-10-25T01:39:08Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6117,7 +6117,7 @@
     <tag k="population" v="6457"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629680" lat="45.1304510" lon="7.9404260" version="4" timestamp="2023-01-17T20:00:05Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629680" lat="45.1296165" lon="7.9422740" version="5" timestamp="2025-10-24T17:43:55Z" changeset="173729491" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="60"/>
     <tag k="name" v="Casalborgone"/>
     <tag k="place" v="village"/>
@@ -6681,37 +6681,34 @@
     <tag k="population" v="892"/>
     <tag k="wikidata" v="Q30025836"/>
   </node>
-  <node id="64778121" lat="46.3305243" lon="12.3228878" version="7" timestamp="2025-10-04T16:25:45Z" changeset="172837965" uid="11814199" user="Tartarosm80">
+  <node id="64778121" lat="46.3305243" lon="12.3228878" version="8" timestamp="2025-10-24T05:32:07Z" changeset="173700405" uid="22809580" user="Mondeval2455">
     <tag k="gfoss_id" v="3344"/>
+    <tag k="loc_name" v="Ospedal"/>
     <tag k="name" v="Ospitale di Cadore"/>
-    <tag k="name:it" v="Ospitale di Cadore"/>
-    <tag k="name:lld" v="Ospedàl"/>
     <tag k="place" v="village"/>
     <tag k="population" v="365"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q39530"/>
-    <tag k="wikipedia" v="it:Ospitale di Cadore"/>
   </node>
-  <node id="64778134" lat="46.5825290" lon="12.5273020" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778134" lat="46.5825290" lon="12.5273020" version="8" timestamp="2025-10-24T05:32:07Z" changeset="173700405" uid="22809580" user="Mondeval2455">
     <tag k="gfoss_id" v="3355"/>
     <tag k="loc_name" v="San Colò"/>
-    <tag k="name" v="San Colò - San Nicolò di Comelico"/>
+    <tag k="name" v="San Nicolò di Comelico"/>
     <tag k="name:it" v="San Nicolò di Comelico"/>
     <tag k="name:lld" v="San Colò"/>
     <tag k="place" v="village"/>
     <tag k="population" v="426"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778145" lat="46.2211330" lon="11.9551644" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
-    <tag k="name" v="Don (Gosalt - Gosaldo)"/>
+  <node id="64778145" lat="46.2211330" lon="11.9551644" version="11" timestamp="2025-10-24T05:32:07Z" changeset="173700405" uid="22809580" user="Mondeval2455">
+    <tag k="name" v="Don di Gosaldo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="221"/>
   </node>
-  <node id="64778165" lat="46.4196220" lon="12.2448990" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778165" lat="46.4196220" lon="12.2448990" version="8" timestamp="2025-10-24T05:32:07Z" changeset="173700405" uid="22809580" user="Mondeval2455">
     <tag k="gfoss_id" v="3375"/>
-    <tag k="name" v="Guódo - Vodo di Cadore"/>
+    <tag k="name" v="Vodo di Cadore"/>
     <tag k="name:it" v="Vodo di Cadore"/>
-    <tag k="name:lld" v="Guódo"/>
+    <tag k="name:lld" v="Guodo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="936"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -6723,27 +6720,24 @@
     <tag k="population" v="422"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778212" lat="46.2822728" lon="12.0695095" version="10" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="64778212" lat="46.2822728" lon="12.0695095" version="11" timestamp="2025-10-24T05:32:07Z" changeset="173700405" uid="22809580" user="Mondeval2455">
     <tag k="ele" v="816"/>
     <tag k="gfoss_id" v="3336"/>
-    <tag k="name" v="La Val - La Valle Agordina"/>
+    <tag k="name" v="La Valle Agordina"/>
     <tag k="name:it" v="La Valle Agordina"/>
     <tag k="name:lld" v="La Val"/>
-    <tag k="old_name:it" v="San Michele in Valle"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1108"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q40211"/>
-    <tag k="wikipedia" v="it:La Valle Agordina"/>
   </node>
-  <node id="64778223" lat="46.4796260" lon="12.4594030" version="8" timestamp="2025-10-04T16:09:17Z" changeset="172837359" uid="11814199" user="Tartarosm80">
+  <node id="64778223" lat="46.4796260" lon="12.4594030" version="9" timestamp="2025-10-24T05:32:07Z" changeset="173700405" uid="22809580" user="Mondeval2455">
     <tag k="alt_name" v="Lorenzago"/>
     <tag k="gfoss_id" v="3341"/>
     <tag k="loc_name" v="Lorenzago"/>
     <tag k="name" v="Lorenzago di Cadore"/>
     <tag k="name:fur" v="Lorençâc"/>
     <tag k="name:it" v="Lorenzago di Cadore"/>
-    <tag k="name:lld" v="Lorenžàgo"/>
+    <tag k="name:lld" v="Lorenzago"/>
     <tag k="name:vec" v="Lorenzago de Cador"/>
     <tag k="place" v="village"/>
     <tag k="population" v="578"/>
@@ -23226,18 +23220,16 @@
     <tag k="wikipedia" v="it:Belvì"/>
     <tag k="wikipedia:sc" v="Brebì"/>
   </node>
-  <node id="1833875995" lat="46.4471112" lon="12.0140253" version="15" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="1833875995" lat="46.4471112" lon="12.0140253" version="16" timestamp="2025-10-24T05:32:07Z" changeset="173700405" uid="22809580" user="Mondeval2455">
     <tag k="ele" v="1453"/>
     <tag k="gfoss_id" v="3323"/>
-    <tag k="name" v="Col - Colle Santa Lucia"/>
+    <tag k="name" v="Colle Santa Lucia"/>
     <tag k="name:it" v="Colle Santa Lucia"/>
     <tag k="name:lld" v="Col"/>
     <tag k="place" v="village"/>
     <tag k="population" v="360"/>
     <tag k="source" v="geodati.gfoss.it;local knowledge;http://demo.istat.it/bil2016/index04.html"/>
     <tag k="website" v="https://www.collesantalucia.eu/"/>
-    <tag k="wikidata" v="Q40860"/>
-    <tag k="wikipedia" v="it:Colle Santa Lucia"/>
   </node>
   <node id="1852235281" lat="43.7522329" lon="12.9195304" version="3" timestamp="2017-03-06T07:20:16Z" changeset="46614997" uid="3084054" user="agnostico">
     <tag k="ele" v="66"/>
@@ -23349,9 +23341,9 @@
     <tag k="name" v="Pleyne"/>
     <tag k="place" v="hamlet"/>
   </node>
-  <node id="2189083163" lat="46.3860814" lon="12.1739405" version="5" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
+  <node id="2189083163" lat="46.3860814" lon="12.1739405" version="6" timestamp="2025-10-24T05:32:07Z" changeset="173700405" uid="22809580" user="Mondeval2455">
     <tag k="gfoss_id" v="3378"/>
-    <tag k="name" v="Zopé - Zoppè di Cadore"/>
+    <tag k="name" v="Zoppè di Cadore"/>
     <tag k="place" v="village"/>
     <tag k="population" v="229"/>
   </node>
@@ -23573,12 +23565,10 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30025634"/>
   </node>
-  <node id="3699885852" lat="46.3680131" lon="11.9310414" version="7" timestamp="2025-09-28T10:49:54Z" changeset="172560636" uid="10721323" user="Lorenzo Zucca">
-    <tag k="name" v="La Valada&#x09;- Vallada Agordina"/>
+  <node id="3699885852" lat="46.3680131" lon="11.9310414" version="8" timestamp="2025-10-24T05:32:07Z" changeset="173700405" uid="22809580" user="Mondeval2455">
+    <tag k="name" v="Sachet"/>
     <tag k="place" v="village"/>
     <tag k="population" v="419"/>
-    <tag k="wikidata" v="Q39724"/>
-    <tag k="wikipedia" v="it:Vallada Agordina"/>
   </node>
   <node id="3706806208" lat="44.4070530" lon="9.2747224" version="2" timestamp="2016-10-01T18:39:48Z" changeset="42568713" uid="743479" user="fayor">
     <tag k="name" v="Isolona"/>
