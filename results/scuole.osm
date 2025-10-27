@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-26T03:10:46Z" areas="2025-10-25T23:44:36Z"/>
+<meta osm_base="2025-10-27T03:21:02Z" areas="2025-10-26T23:33:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -13957,13 +13957,6 @@
     <tag k="population" v="1236"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280834" lat="40.2696937" lon="15.9667687" version="3" timestamp="2016-08-28T18:58:49Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6440"/>
-    <tag k="name" v="Spinoso"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1778"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67280847" lat="40.7178788" lon="15.6790066" version="4" timestamp="2021-10-21T20:52:02Z" changeset="112810620" uid="3306614" user="gurciln">
     <tag k="gfoss_id" v="6425"/>
     <tag k="name" v="Ruoti"/>
@@ -23696,6 +23689,20 @@
     <tag k="website" v="https://comune.curcuris.or.it/indixi.php"/>
     <tag k="wikidata" v="Q385660"/>
     <tag k="wikipedia" v="it:Curcuris"/>
+  </node>
+  <node id="72993312" lat="40.1064530" lon="8.9330290" version="41" timestamp="2023-11-10T18:39:52Z" changeset="143875216" uid="9451067" user="b-jazz-bot">
+    <tag k="gfoss_id" v="7672"/>
+    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
+    <tag k="name" v="Sorradile"/>
+    <tag k="name:it" v="Sorradile"/>
+    <tag k="name:sc" v="Sorradile"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="497"/>
+    <tag k="postal_code" v="09080"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.sorradile.or.it/"/>
+    <tag k="wikidata" v="Q388756"/>
+    <tag k="wikipedia" v="it:Sorradile"/>
   </node>
   <node id="72993327" lat="40.1104579" lon="8.8837442" version="45" timestamp="2023-11-10T18:39:57Z" changeset="143875216" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7673"/>
