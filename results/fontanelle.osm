@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-27T03:17:00Z" areas="2025-10-26T22:30:59Z"/>
+<meta osm_base="2025-10-28T03:06:20Z" areas="2025-10-28T00:00:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2115,7 +2115,7 @@
     <tag k="wikidata" v="Q17789"/>
     <tag k="wikipedia" v="it:Cerreto d'Asti"/>
   </node>
-  <node id="63624437" lat="44.7183460" lon="8.4153440" version="3" timestamp="2023-11-12T01:57:41Z" changeset="143919847" uid="14257573" user="toponomastica_comune_arenzano">
+  <node id="63624437" lat="44.7185099" lon="8.4158536" version="4" timestamp="2025-10-27T19:28:20Z" changeset="173854268" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="771"/>
     <tag k="name" v="Castel Rocchero"/>
     <tag k="name:pms" v="Castel Roché"/>
@@ -2936,6 +2936,13 @@
     <tag k="name:egl" v="Crespìn"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2097"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="64778538" lat="45.0292820" lon="11.6450100" version="4" timestamp="2016-10-02T23:39:13Z" changeset="42593464" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="3643"/>
+    <tag k="name" v="Fratta Polesine"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2746"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778541" lat="45.0295522" lon="11.5898119" version="3" timestamp="2021-04-10T18:28:05Z" changeset="102710890" uid="504502" user="kkklllppp">
@@ -10032,20 +10039,6 @@
     <tag k="wikipedia" v="it:Perfugas"/>
     <tag k="wikipedia:sc" v="Pèifugas"/>
   </node>
-  <node id="72994041" lat="40.1304530" lon="8.8784280" version="42" timestamp="2023-11-10T18:40:06Z" changeset="143875216" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7687"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Soddie/Soddì"/>
-    <tag k="name:it" v="Soddì"/>
-    <tag k="name:sc" v="Soddie"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="142"/>
-    <tag k="postal_code" v="09080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.soddi.or.it/"/>
-    <tag k="wikidata" v="Q388571"/>
-    <tag k="wikipedia" v="it:Soddì"/>
-  </node>
   <node id="72994062" lat="39.7245440" lon="8.7954320" version="42" timestamp="2023-11-07T21:09:02Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7651"/>
     <tag k="name" v="Pompu"/>
@@ -10694,13 +10687,6 @@
     <tag k="name" v="Grottazzolina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3398"/>
-  </node>
-  <node id="3094257086" lat="40.2471338" lon="15.8887046" version="3" timestamp="2022-12-13T03:58:50Z" changeset="130019261" uid="923271" user="aldoct">
-    <tag k="gfoss_id" v="6435"/>
-    <tag k="name" v="Sarconi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1351"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="3749265443" lat="45.8107679" lon="8.9656027" version="3" timestamp="2020-09-13T21:15:29Z" changeset="90831532" uid="1227619" user="Marco_T">
     <tag k="name" v="Gaggino"/>
