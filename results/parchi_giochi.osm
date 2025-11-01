@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-31T03:09:37Z" areas="2025-10-30T19:42:11Z"/>
+<meta osm_base="2025-11-01T03:10:07Z" areas="2025-10-31T19:16:41Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -595,14 +595,6 @@
     <tag k="population" v="388"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506322" lat="45.8127326" lon="9.8847039" version="5" timestamp="2025-10-17T16:15:25Z" changeset="173418704" uid="1950277" user="Mannivu">
-    <tag k="gfoss_id" v="1991"/>
-    <tag k="name" v="Cazzano Sant'Andrea"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1645"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024468"/>
-  </node>
   <node id="62506355" lat="45.6708455" lon="9.7613544" version="9" timestamp="2020-05-20T05:34:20Z" changeset="85475674" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1968"/>
     <tag k="name" v="Brusaporto"/>
@@ -952,7 +944,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027541"/>
   </node>
-  <node id="62507800" lat="45.7139649" lon="10.3436976" version="4" timestamp="2024-07-29T14:23:53Z" changeset="154565613" uid="11276832" user="HaPe-CZ">
+  <node id="62507800" lat="45.7138553" lon="10.3431732" version="5" timestamp="2025-10-31T09:37:01Z" changeset="174011680" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2285"/>
     <tag k="name" v="Mura"/>
     <tag k="place" v="village"/>
@@ -7070,7 +7062,7 @@
     <tag k="population" v="3587"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778549" lat="45.1360880" lon="11.9868160" version="2" timestamp="2016-10-02T23:39:17Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778549" lat="45.1350519" lon="11.9905100" version="3" timestamp="2025-10-31T15:43:15Z" changeset="174026907" uid="1717503" user="osm19">
     <tag k="gfoss_id" v="3654"/>
     <tag k="name" v="Pettorazza Grimani"/>
     <tag k="place" v="village"/>
@@ -7422,13 +7414,6 @@
     <tag k="name" v="Minerbe"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4588"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64778934" lat="45.4845178" lon="11.2534250" version="3" timestamp="2016-10-08T21:08:49Z" changeset="42742263" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3139"/>
-    <tag k="name" v="Montecchia di Crosara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4195"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778940" lat="45.3258339" lon="11.1551730" version="4" timestamp="2017-05-01T09:38:24Z" changeset="48301827" uid="1928626" user="Gianfranco2014">
@@ -22978,13 +22963,6 @@
     <tag k="name" v="Pontboset"/>
     <tag k="name:frp" v="Pombozé"/>
     <tag k="place" v="village"/>
-  </node>
-  <node id="1498841137" lat="45.4172539" lon="11.2836658" version="3" timestamp="2016-10-09T16:06:41Z" changeset="42757067" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="3140"/>
-    <tag k="name" v="Monteforte d'Alpone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8891"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="1520890976" lat="45.2723159" lon="11.2477997" version="5" timestamp="2021-03-27T22:55:59Z" changeset="101856814" uid="504502" user="kkklllppp">
     <tag k="name" v="Roverchiara"/>

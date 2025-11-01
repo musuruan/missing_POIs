@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-10-31T03:07:34Z" areas="2025-10-30T19:42:11Z"/>
+<meta osm_base="2025-11-01T03:08:11Z" areas="2025-10-31T20:15:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2959,7 +2959,7 @@
     <tag k="population" v="5248"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778549" lat="45.1360880" lon="11.9868160" version="2" timestamp="2016-10-02T23:39:17Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778549" lat="45.1350519" lon="11.9905100" version="3" timestamp="2025-10-31T15:43:15Z" changeset="174026907" uid="1717503" user="osm19">
     <tag k="gfoss_id" v="3654"/>
     <tag k="name" v="Pettorazza Grimani"/>
     <tag k="place" v="village"/>
@@ -3406,11 +3406,12 @@
     <tag k="population" v="1412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502868" lat="45.9881831" lon="12.7067897" version="9" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
+  <node id="66502868" lat="45.9881831" lon="12.7067897" version="10" timestamp="2025-10-31T13:22:15Z" changeset="174021065" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="7523"/>
     <tag k="name" v="Cordenons"/>
     <tag k="name:fur" v="Cordenons"/>
-    <tag k="place" v="suburb"/>
+    <tag k="note" v="riclassificato da &quot;suburb&quot; a &quot;town&quot; in quanto nonostante Cordenons sia conurbata con Pordenone è un comune a sé stante. (https://wiki.openstreetmap.org/wiki/IT:Tag:place=suburb)"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="18308"/>
     <tag k="source" v="ISTAT"/>
   </node>
