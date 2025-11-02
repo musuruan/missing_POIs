@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-01T03:11:14Z" areas="2025-10-31T20:15:45Z"/>
+<meta osm_base="2025-11-02T03:14:41Z" areas="2025-11-01T19:41:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -665,12 +665,12 @@
     <tag k="population" v="2565"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753605" lat="44.2383500" lon="10.1259900" version="9" timestamp="2023-04-08T08:31:55Z" changeset="134642781" uid="85218" user="Aleks-Berlin">
+  <node id="61753605" lat="44.2383500" lon="10.1259900" version="10" timestamp="2025-11-01T20:00:48Z" changeset="174078405" uid="22242779" user="notmyproblem1">
     <tag k="ele" v="326"/>
     <tag k="gfoss_id" v="4413"/>
     <tag k="name" v="Fivizzano"/>
     <tag k="name:egl" v="Fivzàn"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="7925"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikipedia" v="it:Fivizzano"/>
@@ -5650,12 +5650,13 @@
     <tag k="population" v="465"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512670" lat="45.1467201" lon="9.6379307" version="5" timestamp="2020-03-14T11:18:31Z" changeset="82190512" uid="1476146" user="Alecs01">
+  <node id="62512670" lat="45.1467201" lon="9.6379307" version="6" timestamp="2025-11-01T17:44:05Z" changeset="174073839" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="7913"/>
     <tag k="name" v="Somaglia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3708"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030787"/>
   </node>
   <node id="62512676" lat="45.2328690" lon="9.5934600" version="2" timestamp="2020-02-28T20:04:26Z" changeset="81605566" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="7911"/>
@@ -8073,14 +8074,6 @@
     <tag k="website" v="https://www.comune.chignolopo.pv.it/"/>
     <tag k="wikidata" v="Q40948"/>
     <tag k="wikipedia" v="it:Chignolo Po"/>
-  </node>
-  <node id="62515987" lat="45.0141141" lon="9.1235778" version="14" timestamp="2024-09-02T11:21:58Z" changeset="156093387" uid="13857163" user="ulore22">
-    <tag k="gfoss_id" v="2413"/>
-    <tag k="name" v="Casteggio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6337"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q40611"/>
   </node>
   <node id="62515993" lat="45.0612590" lon="9.0161510" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2423"/>
@@ -41924,20 +41917,6 @@
     <tag k="wikidata" v="Q340609"/>
     <tag k="wikipedia" v="it:Seui"/>
     <tag k="wikipedia:sc" v="Seui"/>
-  </node>
-  <node id="72992165" lat="40.2888641" lon="8.8904930" version="46" timestamp="2019-03-31T13:31:02Z" changeset="68724513" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7377"/>
-    <tag k="name" v="Silanos/Silanus"/>
-    <tag k="name:it" v="Silanus"/>
-    <tag k="name:sc" v="Silanos"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2394"/>
-    <tag k="postal_code" v="08017"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.silanus.nu.it/"/>
-    <tag k="wikidata" v="Q295595"/>
-    <tag k="wikipedia" v="sc:Silanos"/>
-    <tag k="wikipedia:it" v="Silanus"/>
   </node>
   <node id="72992170" lat="40.2047580" lon="9.3549360" version="44" timestamp="2023-11-09T05:18:07Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7358"/>
