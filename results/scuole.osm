@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-02T03:15:42Z" areas="2025-11-01T21:12:57Z"/>
+<meta osm_base="2025-11-03T03:18:42Z" areas="2025-11-02T21:27:27Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10537,10 +10537,11 @@
     <tag k="population" v="409"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503099" lat="45.9270801" lon="13.4021946" version="7" timestamp="2025-07-22T21:20:15Z" changeset="169314368" uid="684800" user="fabiotofy">
+  <node id="66503099" lat="45.9270801" lon="13.4021946" version="8" timestamp="2025-11-02T20:41:05Z" changeset="174121030" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3695"/>
     <tag k="name" v="Chiopris"/>
     <tag k="name:fur" v="Cjopris"/>
+    <tag k="name:it" v="Chiopris"/>
     <tag k="place" v="village"/>
     <tag k="population" v="659"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -11783,13 +11784,6 @@
     <tag k="name:scn" v="Campuciurutu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1135"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67256935" lat="38.1300612" lon="13.2335013" version="11" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Torretta"/>
-    <tag k="name:scn" v="Turretta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4383"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67256961" lat="37.8059480" lon="13.6384550" version="10" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">

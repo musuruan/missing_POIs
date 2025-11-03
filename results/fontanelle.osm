@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-02T03:12:42Z" areas="2025-11-01T19:41:59Z"/>
+<meta osm_base="2025-11-03T03:14:34Z" areas="2025-11-02T21:15:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2598,16 +2598,6 @@
     <tag k="population" v="6035"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63631091" lat="45.8335006" lon="8.1255287" version="6" timestamp="2022-01-19T16:50:07Z" changeset="116350519" uid="11220113" user="ivanbranco">
-    <tag k="ele" v="813"/>
-    <tag k="gfoss_id" v="381"/>
-    <tag k="name" v="Rossa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="185"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q25195"/>
-    <tag k="wikipedia" v="it:Rossa (Italia)"/>
-  </node>
   <node id="63631267" lat="45.2102551" lon="7.4889765" version="6" timestamp="2025-01-12T11:26:20Z" changeset="161268786" uid="6645382" user="canfe">
     <tag k="gfoss_id" v="289"/>
     <tag k="name" v="Varisella"/>
@@ -2887,6 +2877,13 @@
     <tag k="name" v="Arquà Polesine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2896"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="64778514" lat="45.0251808" lon="11.5373341" version="3" timestamp="2016-10-02T23:39:10Z" changeset="42593464" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="3632"/>
+    <tag k="name" v="Castelguglielmo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1763"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778517" lat="45.0343555" lon="11.5056475" version="4" timestamp="2025-10-09T18:28:07Z" changeset="173063711" uid="22632809" user="KeyTV">
@@ -9726,17 +9723,6 @@
     <tag k="website" v="http://www.comune.siris.or.it/"/>
     <tag k="wikidata" v="Q388533"/>
     <tag k="wikipedia" v="it:Siris (Italia)"/>
-  </node>
-  <node id="72993517" lat="39.9303470" lon="8.6921270" version="45" timestamp="2023-11-06T06:20:42Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7668"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Simaghis/Simaxis"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2157"/>
-    <tag k="postal_code" v="09088"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.simaxis.or.it/"/>
-    <tag k="wikipedia" v="it:Simaxis"/>
   </node>
   <node id="72993538" lat="39.9207820" lon="8.7610449" version="42" timestamp="2023-11-06T06:20:09Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7666"/>
