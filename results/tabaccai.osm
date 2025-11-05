@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-04T03:10:55Z" areas="2025-11-04T00:13:02Z"/>
+<meta osm_base="2025-11-05T03:10:46Z" areas="2025-11-04T19:04:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -22047,11 +22047,12 @@
     <tag k="population" v="1123"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503360" lat="46.5868310" lon="12.7769080" version="9" timestamp="2025-07-14T14:48:27Z" changeset="168921693" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503360" lat="46.5868310" lon="12.7769080" version="10" timestamp="2025-11-04T18:45:46Z" changeset="174208495" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3711"/>
     <tag k="loc_name:fur" v="Lu For"/>
     <tag k="name" v="Forni Avoltri / For Davuatri"/>
     <tag k="name:fur" v="For Davôtri"/>
+    <tag k="name:it" v="Forni Avoltri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="735"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -22083,11 +22084,12 @@
     <tag k="population" v="3890"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503371" lat="46.4240418" lon="12.9330291" version="9" timestamp="2025-07-14T15:23:11Z" changeset="168923298" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503371" lat="46.4240418" lon="12.9330291" version="10" timestamp="2025-11-04T18:45:46Z" changeset="174208495" uid="129060" user="Klenje">
     <tag k="alt_name" v="Frazione Capoluogo"/>
     <tag k="gfoss_id" v="3718"/>
     <tag k="name" v="Lauco / Lauc"/>
     <tag k="name:fur" v="Lauc"/>
+    <tag k="name:it" v="Lauco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="877"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -23961,13 +23963,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1329"/>
     <tag k="short_name:scn" v="Ciuminisi"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67255145" lat="37.8354409" lon="15.2718451" version="16" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Giardini-Naxos"/>
-    <tag k="name:scn" v="Giaddini"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9321"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67255157" lat="37.9018297" lon="15.2936949" version="16" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">

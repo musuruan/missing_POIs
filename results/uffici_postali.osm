@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-04T03:04:46Z" areas="2025-11-04T00:13:02Z"/>
+<meta osm_base="2025-11-05T03:04:34Z" areas="2025-11-04T19:04:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -149,13 +149,6 @@
     <tag k="population" v="4799"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023351"/>
-  </node>
-  <node id="62505649" lat="45.6913790" lon="9.4726490" version="2" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
-    <tag k="gfoss_id" v="1971"/>
-    <tag k="name" v="Calusco d'Adda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8052"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62505654" lat="45.4949814" lon="9.6012863" version="3" timestamp="2019-04-28T08:57:42Z" changeset="69658059" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1972"/>
@@ -8095,11 +8088,12 @@
     <tag k="wikidata" v="Q53367"/>
     <tag k="wikipedia" v="it:Stregna"/>
   </node>
-  <node id="66503360" lat="46.5868310" lon="12.7769080" version="9" timestamp="2025-07-14T14:48:27Z" changeset="168921693" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503360" lat="46.5868310" lon="12.7769080" version="10" timestamp="2025-11-04T18:45:46Z" changeset="174208495" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3711"/>
     <tag k="loc_name:fur" v="Lu For"/>
     <tag k="name" v="Forni Avoltri / For Davuatri"/>
     <tag k="name:fur" v="For Davôtri"/>
+    <tag k="name:it" v="Forni Avoltri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="735"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -13479,13 +13473,6 @@
     <tag k="population" v="2034"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300400" lat="44.0829650" lon="12.3044400" version="2" timestamp="2016-09-16T15:55:09Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4148"/>
-    <tag k="name" v="Montiano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1591"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69300410" lat="44.0743778" lon="12.3274733" version="3" timestamp="2021-04-02T12:49:25Z" changeset="102194793" uid="585860" user="RosTnT">
     <tag k="gfoss_id" v="4144"/>
     <tag k="name" v="Longiano"/>
@@ -14602,13 +14589,6 @@
     <tag k="name" v="Castelguidone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="482"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70990482" lat="41.9449446" lon="14.3031530" version="4" timestamp="2018-02-05T14:46:50Z" changeset="56087223" uid="4023025" user="alexandrebc">
-    <tag k="gfoss_id" v="5931"/>
-    <tag k="name" v="Civitaluparella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="429"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70990510" lat="42.0044330" lon="14.2006140" version="2" timestamp="2016-09-07T16:52:19Z" changeset="41983597" uid="743479" user="fayor">
@@ -17302,20 +17282,6 @@
     <tag k="wikidata" v="Q295289"/>
     <tag k="wikipedia" v="it:Noragugume"/>
     <tag k="wikipedia:sc" v="Noragugume"/>
-  </node>
-  <node id="72992079" lat="40.3737726" lon="8.4996108" version="43" timestamp="2022-11-26T14:09:43Z" changeset="129403766" uid="1096017" user="Fabiano Peddis">
-    <tag k="gfoss_id" v="7345"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Montresta"/>
-    <tag k="name:it" v="Montresta"/>
-    <tag k="name:sc" v="Montresta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="650"/>
-    <tag k="postal_code" v="08010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.montresta.org/"/>
-    <tag k="wikidata" v="Q386666"/>
-    <tag k="wikipedia" v="it:Montresta"/>
   </node>
   <node id="72992147" lat="39.7017470" lon="9.1441390" version="43" timestamp="2017-03-01T21:24:53Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7374"/>
