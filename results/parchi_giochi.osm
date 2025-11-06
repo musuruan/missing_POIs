@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-05T03:09:42Z" areas="2025-11-04T19:04:13Z"/>
+<meta osm_base="2025-11-06T03:11:58Z" areas="2025-11-05T21:05:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2893,16 +2893,6 @@
     <tag k="name" v="Cassolnovo"/>
     <tag k="place" v="town"/>
     <tag k="population" v="5820"/>
-  </node>
-  <node id="62515465" lat="45.1256349" lon="9.2063289" version="12" timestamp="2025-10-08T11:28:58Z" changeset="172999439" uid="730682" user="Max1234-ITA">
-    <tag k="ele" v="62"/>
-    <tag k="gfoss_id" v="2468"/>
-    <tag k="name" v="Mezzanino Po"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1468"/>
-    <tag k="postal_code" v="27040"/>
-    <tag k="ref:ISTAT" v="018092"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515478" lat="45.0948626" lon="9.0312537" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="ele" v="68"/>
@@ -7933,10 +7923,11 @@
     <tag k="population" v="751"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503319" lat="46.4723796" lon="13.0266746" version="6" timestamp="2025-07-10T17:19:11Z" changeset="168753691" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503319" lat="46.4723796" lon="13.0266746" version="7" timestamp="2025-11-05T20:34:30Z" changeset="174258785" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3676"/>
     <tag k="name" v="Arta Terme / Darte"/>
     <tag k="name:fur" v="Darte"/>
+    <tag k="name:it" v="Arta Terme"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2234"/>
     <tag k="source" v="geodati.gfoss.it"/>

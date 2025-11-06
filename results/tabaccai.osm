@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-05T03:10:46Z" areas="2025-11-04T19:04:13Z"/>
+<meta osm_base="2025-11-06T03:13:58Z" areas="2025-11-05T21:05:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -17749,11 +17749,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q22022790"/>
   </node>
-  <node id="64777043" lat="46.7354250" lon="12.2242801" version="12" timestamp="2025-01-10T09:36:41Z" changeset="161197697" uid="11355435" user="ADAC Touristische InfoSysteme">
+  <node id="64777043" lat="46.7354250" lon="12.2242801" version="13" timestamp="2025-11-05T19:22:40Z" changeset="174256015" uid="2385757" user="jeka p">
     <tag k="gfoss_id" v="2779"/>
     <tag k="name" v="Toblach - Dobbiaco"/>
     <tag k="name:de" v="Toblach"/>
     <tag k="name:it" v="Dobbiaco"/>
+    <tag k="name:uk" v="Тоблях"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3240"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -21948,10 +21949,11 @@
     <tag k="population" v="751"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503319" lat="46.4723796" lon="13.0266746" version="6" timestamp="2025-07-10T17:19:11Z" changeset="168753691" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503319" lat="46.4723796" lon="13.0266746" version="7" timestamp="2025-11-05T20:34:30Z" changeset="174258785" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3676"/>
     <tag k="name" v="Arta Terme / Darte"/>
     <tag k="name:fur" v="Darte"/>
+    <tag k="name:it" v="Arta Terme"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2234"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -41596,20 +41598,6 @@
     <tag k="wikipedia" v="it:Quartucciu"/>
     <tag k="wikipedia:sc" v="Quartùcciu"/>
   </node>
-  <node id="72991824" lat="40.2674520" lon="8.5402190" version="42" timestamp="2017-03-01T21:24:49Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7319"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Flùssio/Flussio"/>
-    <tag k="name:it" v="Flussio"/>
-    <tag k="name:sc" v="Flùssio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="497"/>
-    <tag k="postal_code" v="08010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.flussio.or.it/"/>
-    <tag k="wikidata" v="Q385675"/>
-    <tag k="wikipedia" v="it:Flussio"/>
-  </node>
   <node id="72991840" lat="39.6984460" lon="9.1215390" version="44" timestamp="2019-03-20T06:17:50Z" changeset="68320447" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7317"/>
     <tag k="name" v="Iscroca/Escolca"/>
@@ -42173,21 +42161,6 @@
     <tag k="wikidata" v="Q294805"/>
     <tag k="wikipedia" v="it:Gadoni"/>
     <tag k="wikipedia:sc" v="Gadoni"/>
-  </node>
-  <node id="72992422" lat="40.3865886" lon="9.6143225" version="49" timestamp="2017-03-01T21:24:58Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7323"/>
-    <tag k="name" v="Garteddi/Galtellì"/>
-    <tag k="name:it" v="Galtellì"/>
-    <tag k="name:sc" v="Garteddi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2344"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="ref:LOCODE" v="ITGLI"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.galtelli.gov.it/"/>
-    <tag k="wikidata" v="Q294814"/>
-    <tag k="wikipedia" v="it:Galtellì"/>
-    <tag k="wikipedia:sc" v="Garteddi"/>
   </node>
   <node id="72992432" lat="40.4088328" lon="9.6301207" version="42" timestamp="2023-11-06T20:40:24Z" changeset="143709535" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7329"/>
@@ -43057,20 +43030,6 @@
     <tag k="website" v="https://www.comune.ulatirso.or.it/index.asp"/>
     <tag k="wikidata" v="Q389318"/>
     <tag k="wikipedia" v="it:Ulà Tirso"/>
-  </node>
-  <node id="72993591" lat="40.2521042" lon="8.5199603" version="43" timestamp="2023-11-10T12:49:33Z" changeset="143861983" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7676"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Tresnuraghes"/>
-    <tag k="name:it" v="Tresnuraghes"/>
-    <tag k="name:sc" v="Tresnuraghes"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1296"/>
-    <tag k="postal_code" v="09079"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.tresnuraghes.or.it/index.asp"/>
-    <tag k="wikidata" v="Q389304"/>
-    <tag k="wikipedia" v="it:Tresnuraghes"/>
   </node>
   <node id="72993597" lat="39.9279480" lon="8.7621280" version="41" timestamp="2017-03-01T21:25:12Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="alt_name" v="Siipicia"/>

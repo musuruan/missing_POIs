@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-05T03:11:55Z" areas="2025-11-05T00:53:44Z"/>
+<meta osm_base="2025-11-06T03:14:54Z" areas="2025-11-05T21:05:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3009,6 +3009,13 @@
     <tag k="name:lmo" v="La Moja"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5666"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62513451" lat="45.0349397" lon="10.7640229" version="3" timestamp="2024-11-07T07:20:20Z" changeset="158842042" uid="9925732" user="Flight777">
+    <tag k="gfoss_id" v="2718"/>
+    <tag k="name" v="Motteggiana"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1960"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513468" lat="45.3242539" lon="10.5144051" version="3" timestamp="2024-11-07T06:33:41Z" changeset="158842042" uid="9925732" user="Flight777">
@@ -9666,6 +9673,13 @@
     <tag k="name" v="Bedollo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1397"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="64776567" lat="46.1302020" lon="10.7574700" version="3" timestamp="2016-10-25T21:33:08Z" changeset="43173645" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="2894"/>
+    <tag k="name" v="Caderzone Terme"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="602"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64776586" lat="46.4768809" lon="11.7710748" version="15" timestamp="2022-08-03T21:55:50Z" changeset="124454700" uid="8199540" user="Marcello Perathoner">
