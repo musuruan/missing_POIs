@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-06T03:14:54Z" areas="2025-11-05T21:05:24Z"/>
+<meta osm_base="2025-11-07T03:11:33Z" areas="2025-11-06T21:31:28Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9720,11 +9720,12 @@
     <tag k="population" v="875"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776622" lat="46.1417556" lon="10.7731340" version="5" timestamp="2025-05-18T21:42:32Z" changeset="166449946" uid="1726102" user="AlessioMela">
+  <node id="64776622" lat="46.1417556" lon="10.7731340" version="6" timestamp="2025-11-06T14:49:32Z" changeset="174292258" uid="12536332" user="MattyFranz">
     <tag k="gfoss_id" v="2976"/>
     <tag k="name" v="Massimeno"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="105"/>
+    <tag k="population" v="138"/>
+    <tag k="population:date" v="2025-07-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027362"/>
   </node>
@@ -22889,21 +22890,6 @@
     <tag k="wikipedia" v="it:Villanovaforru"/>
     <tag k="wikipedia:sc" v="Biddanoa de Forru"/>
   </node>
-  <node id="72991733" lat="40.0706530" lon="9.0879330" version="41" timestamp="2023-11-10T10:35:06Z" changeset="143856977" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7301"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Austis"/>
-    <tag k="name:it" v="Austis"/>
-    <tag k="name:sc" v="Austis"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="959"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.austis.nu.it/"/>
-    <tag k="wikidata" v="Q294699"/>
-    <tag k="wikipedia" v="it:Austis"/>
-    <tag k="wikipedia:sc" v="Austis"/>
-  </node>
   <node id="72991755" lat="39.8470520" lon="9.5072440" version="44" timestamp="2023-11-10T22:23:56Z" changeset="143881488" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name:it" v="Gairo"/>
     <tag k="gfoss_id" v="7322"/>
@@ -23267,21 +23253,6 @@
     <tag k="wikidata" v="Q295643"/>
     <tag k="wikipedia" v="it:Tiana"/>
     <tag k="wikipedia:sc" v="Tìana"/>
-  </node>
-  <node id="72992605" lat="40.0957540" lon="9.1181330" version="41" timestamp="2023-11-10T18:40:10Z" changeset="143875216" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7384"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Teti"/>
-    <tag k="name:it" v="Teti"/>
-    <tag k="name:sc" v="Teti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="807"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.teti.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295631"/>
-    <tag k="wikipedia" v="it:Teti (Italia)"/>
-    <tag k="wikipedia:sc" v="Teti"/>
   </node>
   <node id="72992621" lat="40.2719580" lon="9.1703320" version="46" timestamp="2023-11-01T19:10:11Z" changeset="143492027" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Oniferi"/>

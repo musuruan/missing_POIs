@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-06T03:06:56Z" areas="2025-11-05T21:05:24Z"/>
+<meta osm_base="2025-11-07T03:04:28Z" areas="2025-11-06T20:53:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2452,14 +2452,6 @@
     <tag k="ref:ISTAT" v="020065"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q42425"/>
-  </node>
-  <node id="62513234" lat="45.0990557" lon="10.5183482" version="4" timestamp="2024-11-07T07:26:36Z" changeset="158842042" uid="9925732" user="Flight777">
-    <tag k="gfoss_id" v="2740"/>
-    <tag k="name" v="San Martino dall'Argine"/>
-    <tag k="name:egl" v="San Martèn dl'Àrsan"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1857"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513249" lat="45.3685810" lon="10.5666790" version="2" timestamp="2024-11-06T10:30:27Z" changeset="158804588" uid="9925732" user="Flight777">
     <tag k="created_by" v="JOSM"/>
@@ -6606,11 +6598,12 @@
     <tag k="population" v="597"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776622" lat="46.1417556" lon="10.7731340" version="5" timestamp="2025-05-18T21:42:32Z" changeset="166449946" uid="1726102" user="AlessioMela">
+  <node id="64776622" lat="46.1417556" lon="10.7731340" version="6" timestamp="2025-11-06T14:49:32Z" changeset="174292258" uid="12536332" user="MattyFranz">
     <tag k="gfoss_id" v="2976"/>
     <tag k="name" v="Massimeno"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="105"/>
+    <tag k="population" v="138"/>
+    <tag k="population:date" v="2025-07-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027362"/>
   </node>
