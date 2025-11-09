@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-08T03:03:25Z" areas="2025-11-07T19:53:43Z"/>
+<meta osm_base="2025-11-09T03:12:49Z" areas="2025-11-09T00:26:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4521,7 +4521,7 @@
     <tag k="wikidata" v="Q40717"/>
     <tag k="wikipedia" v="it:Curiglia con Monteviasco"/>
   </node>
-  <node id="62517829" lat="45.8847905" lon="8.7091816" version="3" timestamp="2024-03-31T09:29:09Z" changeset="149381661" uid="19971463" user="LeoBorGiov">
+  <node id="62517829" lat="45.8856532" lon="8.7109064" version="4" timestamp="2025-11-08T08:24:50Z" changeset="174363609" uid="19971463" user="LeoBorGiov">
     <tag k="gfoss_id" v="1363"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Azzio"/>
@@ -23017,20 +23017,6 @@
     <tag k="wikidata" v="Q386295"/>
     <tag k="wikipedia" v="it:Magomadas"/>
   </node>
-  <node id="72992052" lat="40.4703640" lon="9.4864350" version="45" timestamp="2023-10-30T16:12:49Z" changeset="143374545" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7339"/>
-    <tag k="name" v="Lùvula/Lula"/>
-    <tag k="name:it" v="Lula"/>
-    <tag k="name:sc" v="Lùvula"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1657"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.lula.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295238"/>
-    <tag k="wikipedia" v="it:Lula (Italia)"/>
-    <tag k="wikipedia:sc" v="Lùvula"/>
-  </node>
   <node id="72992064" lat="40.2245550" lon="8.9207270" version="42" timestamp="2019-03-20T06:28:02Z" changeset="68320668" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7346"/>
     <tag k="name" v="Noragugume"/>
@@ -24565,6 +24551,14 @@
     <tag k="name:it" v="Fontanazzo di sotto"/>
     <tag k="name:lld" v="Fontanac' de Sot"/>
     <tag k="place" v="neighbourhood"/>
+  </node>
+  <node id="280982509" lat="43.9053382" lon="12.4220187" version="15" timestamp="2023-04-22T13:07:45Z" changeset="135226108" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="name" v="Chiesanuova"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1090"/>
+    <tag k="postal_code" v="47894"/>
+    <tag k="wikidata" v="Q206980"/>
+    <tag k="wikipedia" v="it:Chiesanuova (San Marino)"/>
   </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="12" timestamp="2025-05-18T21:42:30Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3048"/>

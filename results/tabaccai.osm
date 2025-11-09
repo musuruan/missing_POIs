@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-08T03:02:22Z" areas="2025-11-07T21:31:59Z"/>
+<meta osm_base="2025-11-09T03:12:02Z" areas="2025-11-09T00:26:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1746,12 +1746,13 @@
     <tag k="population" v="227"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506474" lat="45.6915142" lon="9.6109659" version="4" timestamp="2021-01-14T21:18:59Z" changeset="97516511" uid="616481" user="gigi2037">
+  <node id="62506474" lat="45.6915142" lon="9.6109659" version="5" timestamp="2025-11-08T17:33:04Z" changeset="174387096" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2013"/>
     <tag k="name" v="Curno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7564"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025343"/>
   </node>
   <node id="62506492" lat="45.6767028" lon="9.8270544" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2037"/>
@@ -9232,7 +9233,7 @@
     <tag k="population" v="1901"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517829" lat="45.8847905" lon="8.7091816" version="3" timestamp="2024-03-31T09:29:09Z" changeset="149381661" uid="19971463" user="LeoBorGiov">
+  <node id="62517829" lat="45.8856532" lon="8.7109064" version="4" timestamp="2025-11-08T08:24:50Z" changeset="174363609" uid="19971463" user="LeoBorGiov">
     <tag k="gfoss_id" v="1363"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Azzio"/>
@@ -16649,16 +16650,6 @@
     <tag k="wikidata" v="Q25142"/>
     <tag k="wikipedia" v="it:Mollia"/>
   </node>
-  <node id="63632300" lat="45.1862550" lon="8.2326320" version="8" timestamp="2023-01-17T20:02:55Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="364"/>
-    <tag k="name" v="Palazzolo Vercellese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1328"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q25166"/>
-    <tag k="wikipedia" v="en:Palazzolo Vercellese"/>
-  </node>
   <node id="64776488" lat="46.0366992" lon="10.8713344" version="8" timestamp="2021-10-12T06:49:57Z" changeset="112402632" uid="61042" user="Agh">
     <tag k="gfoss_id" v="2881"/>
     <tag k="name" v="Ponte Arche"/>
@@ -18158,11 +18149,12 @@
     <tag k="wikimedia_commons" v="Category:Schlanders"/>
     <tag k="wikipedia" v="de:Schlanders"/>
   </node>
-  <node id="64777157" lat="46.7027433" lon="12.3505440" version="7" timestamp="2020-12-17T16:38:07Z" changeset="96018383" uid="8199540" user="Marcello Perathoner">
+  <node id="64777157" lat="46.7027433" lon="12.3505440" version="8" timestamp="2025-11-08T12:03:37Z" changeset="174372415" uid="2385757" user="jeka p">
     <tag k="gfoss_id" v="2841"/>
     <tag k="name" v="Sexten - Sesto"/>
     <tag k="name:de" v="Sexten"/>
     <tag k="name:it" v="Sesto"/>
+    <tag k="name:uk" v="Зекстен"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1906"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -18277,11 +18269,12 @@
     <tag k="wikidata" v="Q258810"/>
     <tag k="wikipedia" v="it:Salorno sulla Strada del Vino"/>
   </node>
-  <node id="64777194" lat="46.7327834" lon="12.2820039" version="10" timestamp="2025-08-27T08:54:54Z" changeset="171068009" uid="4365159" user="wildmaps">
+  <node id="64777194" lat="46.7327834" lon="12.2820039" version="11" timestamp="2025-11-08T11:54:21Z" changeset="174371941" uid="2385757" user="jeka p">
     <tag k="gfoss_id" v="2828"/>
     <tag k="name" v="Innichen - San Candido"/>
     <tag k="name:de" v="Innichen"/>
     <tag k="name:it" v="San Candido"/>
+    <tag k="name:uk" v="Інніхен"/>
     <tag k="place" v="town"/>
     <tag k="population" v="3294"/>
     <tag k="population:date" v="2025-01-01"/>
@@ -40265,24 +40258,6 @@
     <tag k="wikipedia" v="it:Sanluri"/>
     <tag k="wikipedia:sc" v="Seddori"/>
   </node>
-  <node id="72990733" lat="39.4569925" lon="8.7367219" version="60" timestamp="2023-11-01T05:43:28Z" changeset="143455226" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Bidda de Cidru"/>
-    <tag k="alt_name_1" v="Biddexidru"/>
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="7489"/>
-    <tag k="int_name" v="Villacidro"/>
-    <tag k="name" v="Biddacidru/Villacidro"/>
-    <tag k="name:it" v="Villacidro"/>
-    <tag k="name:sc" v="Biddacidru"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13846"/>
-    <tag k="postal_code" v="09039"/>
-    <tag k="ref:LOCODE" v="ITVCD"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.villacidro.vs.it/"/>
-    <tag k="wikidata" v="Q13654"/>
-    <tag k="wikipedia" v="sc:Biddacidru"/>
-  </node>
   <node id="72990741" lat="39.8792127" lon="9.5411469" version="78" timestamp="2025-09-25T00:25:51Z" changeset="172416500" uid="17860844" user="hangukhistory">
     <tag k="alt_name" v="Lanusè"/>
     <tag k="capital" v="8"/>
@@ -41718,20 +41693,6 @@
     <tag k="wikidata" v="Q339943"/>
     <tag k="wikipedia" v="it:Girasole (Italia)"/>
   </node>
-  <node id="72992029" lat="40.4072775" lon="9.6111604" version="46" timestamp="2023-11-06T20:40:27Z" changeset="143709535" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7336"/>
-    <tag k="name" v="Lòcula/Loculi"/>
-    <tag k="name:it" v="Loculi"/>
-    <tag k="name:sc" v="Lòcula"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="523"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.loculi.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295189"/>
-    <tag k="wikipedia" v="it:Loculi"/>
-    <tag k="wikipedia:sc" v="Lòcula"/>
-  </node>
   <node id="72992044" lat="40.2647520" lon="8.5227190" version="44" timestamp="2023-11-10T07:52:08Z" changeset="143851255" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7341"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
@@ -41745,20 +41706,6 @@
     <tag k="website" v="https://comune.magomadas.or.it/"/>
     <tag k="wikidata" v="Q386295"/>
     <tag k="wikipedia" v="it:Magomadas"/>
-  </node>
-  <node id="72992052" lat="40.4703640" lon="9.4864350" version="45" timestamp="2023-10-30T16:12:49Z" changeset="143374545" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7339"/>
-    <tag k="name" v="Lùvula/Lula"/>
-    <tag k="name:it" v="Lula"/>
-    <tag k="name:sc" v="Lùvula"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1657"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.lula.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295238"/>
-    <tag k="wikipedia" v="it:Lula (Italia)"/>
-    <tag k="wikipedia:sc" v="Lùvula"/>
   </node>
   <node id="72992064" lat="40.2245550" lon="8.9207270" version="42" timestamp="2019-03-20T06:28:02Z" changeset="68320668" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7346"/>
@@ -42350,20 +42297,6 @@
     <tag k="wikidata" v="Q295631"/>
     <tag k="wikipedia" v="it:Teti (Italia)"/>
     <tag k="wikipedia:sc" v="Teti"/>
-  </node>
-  <node id="72992632" lat="40.4853258" lon="9.4411680" version="44" timestamp="2023-10-30T16:12:39Z" changeset="143374533" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7354"/>
-    <tag k="name" v="Onanìe/Onanì"/>
-    <tag k="name:it" v="Onanì"/>
-    <tag k="name:sc" v="Onanìe"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="473"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.onani.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295369"/>
-    <tag k="wikipedia" v="it:Onanì"/>
-    <tag k="wikipedia:sc" v="Onanie"/>
   </node>
   <node id="72992642" lat="40.2334988" lon="9.0445989" version="46" timestamp="2023-11-10T18:40:05Z" changeset="143875216" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7366"/>
@@ -44245,6 +44178,14 @@
     <tag k="wikidata" v="Q18496531"/>
     <tag k="wikipedia" v="it:Fusine (Val di Zoldo)"/>
   </node>
+  <node id="280982509" lat="43.9053382" lon="12.4220187" version="15" timestamp="2023-04-22T13:07:45Z" changeset="135226108" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="name" v="Chiesanuova"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1090"/>
+    <tag k="postal_code" v="47894"/>
+    <tag k="wikidata" v="Q206980"/>
+    <tag k="wikipedia" v="it:Chiesanuova (San Marino)"/>
+  </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="12" timestamp="2025-05-18T21:42:30Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3048"/>
     <tag k="name" v="Strembo"/>
@@ -45180,10 +45121,11 @@
     <tag k="wikidata" v="Q16533081"/>
     <tag k="wikipedia" v="it:Boleto"/>
   </node>
-  <node id="966133729" lat="46.7568980" lon="12.1043528" version="4" timestamp="2022-05-29T12:45:38Z" changeset="121655710" uid="1213571" user="mcliquid">
+  <node id="966133729" lat="46.7568980" lon="12.1043528" version="5" timestamp="2025-11-08T12:05:14Z" changeset="174372522" uid="2385757" user="jeka p">
     <tag k="name" v="Welsberg - Monguelfo"/>
     <tag k="name:de" v="Welsberg"/>
     <tag k="name:it" v="Monguelfo"/>
+    <tag k="name:uk" v="Вельсберґ"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q26269623"/>
     <tag k="wikipedia" v="de:Welsberg (Welsberg-Taisten)"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-08T02:56:14Z" areas="2025-11-07T19:53:43Z"/>
+<meta osm_base="2025-11-09T03:05:47Z" areas="2025-11-08T20:23:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10662,13 +10662,6 @@
     <tag k="population" v="143"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284233" lat="41.5904260" lon="14.3233220" version="2" timestamp="2016-09-03T02:35:18Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7565"/>
-    <tag k="name" v="Carpinone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1254"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67284238" lat="41.6679280" lon="14.4038230" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7573"/>
     <tag k="name" v="Civitanova del Sannio"/>
@@ -17220,20 +17213,6 @@
     <tag k="wikidata" v="Q339943"/>
     <tag k="wikipedia" v="it:Girasole (Italia)"/>
   </node>
-  <node id="72992029" lat="40.4072775" lon="9.6111604" version="46" timestamp="2023-11-06T20:40:27Z" changeset="143709535" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7336"/>
-    <tag k="name" v="Lòcula/Loculi"/>
-    <tag k="name:it" v="Loculi"/>
-    <tag k="name:sc" v="Lòcula"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="523"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.loculi.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295189"/>
-    <tag k="wikipedia" v="it:Loculi"/>
-    <tag k="wikipedia:sc" v="Lòcula"/>
-  </node>
   <node id="72992064" lat="40.2245550" lon="8.9207270" version="42" timestamp="2019-03-20T06:28:02Z" changeset="68320668" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7346"/>
     <tag k="name" v="Noragugume"/>
@@ -17305,20 +17284,6 @@
     <tag k="wikidata" v="Q203978"/>
     <tag k="wikipedia" v="it:Orune"/>
     <tag k="wikipedia:sc" v="Orune"/>
-  </node>
-  <node id="72992215" lat="40.5238630" lon="9.2193290" version="42" timestamp="2023-10-30T16:12:28Z" changeset="143374520" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7364"/>
-    <tag k="name" v="Osidde/Osidda"/>
-    <tag k="name:it" v="Osidda"/>
-    <tag k="name:sc" v="Osidde"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="266"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.osidda.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295557"/>
-    <tag k="wikipedia" v="it:Osidda"/>
-    <tag k="wikipedia:sc" v="Osidde"/>
   </node>
   <node id="72992229" lat="39.8227520" lon="9.4962440" version="42" timestamp="2023-11-10T22:23:59Z" changeset="143881488" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7365"/>
@@ -18578,6 +18543,14 @@
     <tag k="name:lld" v="Fontanac' de Sot"/>
     <tag k="place" v="neighbourhood"/>
   </node>
+  <node id="280982509" lat="43.9053382" lon="12.4220187" version="15" timestamp="2023-04-22T13:07:45Z" changeset="135226108" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="name" v="Chiesanuova"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1090"/>
+    <tag k="postal_code" v="47894"/>
+    <tag k="wikidata" v="Q206980"/>
+    <tag k="wikipedia" v="it:Chiesanuova (San Marino)"/>
+  </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="12" timestamp="2025-05-18T21:42:30Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3048"/>
     <tag k="name" v="Strembo"/>
@@ -18837,10 +18810,11 @@
     <tag k="population" v="62"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="966133729" lat="46.7568980" lon="12.1043528" version="4" timestamp="2022-05-29T12:45:38Z" changeset="121655710" uid="1213571" user="mcliquid">
+  <node id="966133729" lat="46.7568980" lon="12.1043528" version="5" timestamp="2025-11-08T12:05:14Z" changeset="174372522" uid="2385757" user="jeka p">
     <tag k="name" v="Welsberg - Monguelfo"/>
     <tag k="name:de" v="Welsberg"/>
     <tag k="name:it" v="Monguelfo"/>
+    <tag k="name:uk" v="Вельсберґ"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q26269623"/>
     <tag k="wikipedia" v="de:Welsberg (Welsberg-Taisten)"/>

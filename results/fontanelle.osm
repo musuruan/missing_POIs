@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-08T02:59:23Z" areas="2025-11-07T19:53:43Z"/>
+<meta osm_base="2025-11-09T03:09:56Z" areas="2025-11-08T20:23:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9251,20 +9251,6 @@
     <tag k="wikipedia" v="it:Loculi"/>
     <tag k="wikipedia:sc" v="Lòcula"/>
   </node>
-  <node id="72992052" lat="40.4703640" lon="9.4864350" version="45" timestamp="2023-10-30T16:12:49Z" changeset="143374545" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7339"/>
-    <tag k="name" v="Lùvula/Lula"/>
-    <tag k="name:it" v="Lula"/>
-    <tag k="name:sc" v="Lùvula"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1657"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.lula.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295238"/>
-    <tag k="wikipedia" v="it:Lula (Italia)"/>
-    <tag k="wikipedia:sc" v="Lùvula"/>
-  </node>
   <node id="72992147" lat="39.7017470" lon="9.1441390" version="43" timestamp="2017-03-01T21:24:53Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7374"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
@@ -10335,6 +10321,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3165"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="280982509" lat="43.9053382" lon="12.4220187" version="15" timestamp="2023-04-22T13:07:45Z" changeset="135226108" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="name" v="Chiesanuova"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1090"/>
+    <tag k="postal_code" v="47894"/>
+    <tag k="wikidata" v="Q206980"/>
+    <tag k="wikipedia" v="it:Chiesanuova (San Marino)"/>
   </node>
   <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
     <tag k="name" v="Mejaniga"/>

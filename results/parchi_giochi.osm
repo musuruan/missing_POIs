@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-08T03:01:20Z" areas="2025-11-07T21:31:59Z"/>
+<meta osm_base="2025-11-09T03:10:56Z" areas="2025-11-08T20:23:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5875,13 +5875,6 @@
     <tag k="name" v="Campiglione"/>
     <tag k="place" v="village"/>
     <tag k="population" v="565"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63628817" lat="45.1521373" lon="8.0514793" version="8" timestamp="2023-01-17T19:53:35Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="69"/>
-    <tag k="name" v="Cavagnolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2281"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63628824" lat="45.2975828" lon="7.4604581" version="8" timestamp="2024-01-03T09:22:50Z" changeset="145830077" uid="2976645" user="Jrachi">
@@ -12345,13 +12338,6 @@
     <tag k="name" v="Castelpizzuto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="143"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67284233" lat="41.5904260" lon="14.3233220" version="2" timestamp="2016-09-03T02:35:18Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7565"/>
-    <tag k="name" v="Carpinone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1254"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67284238" lat="41.6679280" lon="14.4038230" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
@@ -22535,6 +22521,14 @@
     <tag k="wikidata" v="Q1523719"/>
     <tag k="wikipedia" v="it:Giglio Castello"/>
   </node>
+  <node id="280982509" lat="43.9053382" lon="12.4220187" version="15" timestamp="2023-04-22T13:07:45Z" changeset="135226108" uid="1778799" user="SomeoneElse_Revert">
+    <tag k="name" v="Chiesanuova"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1090"/>
+    <tag k="postal_code" v="47894"/>
+    <tag k="wikidata" v="Q206980"/>
+    <tag k="wikipedia" v="it:Chiesanuova (San Marino)"/>
+  </node>
   <node id="283889021" lat="37.6161157" lon="15.0792308" version="19" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="name" v="Trecastagni"/>
     <tag k="name:scn" v="Triccastagni"/>
@@ -23527,15 +23521,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2626"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="4366962677" lat="45.7494106" lon="12.3193327" version="5" timestamp="2023-09-29T00:09:09Z" changeset="141891033" uid="497537" user="tuxfuzz">
-    <tag k="ele" v="31"/>
-    <tag k="gfoss_id" v="28800"/>
-    <tag k="name" v="Maserada sul Piave"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9380"/>
-    <tag k="postal_code" v="31052"/>
-    <tag k="source" v="ISTAT"/>
   </node>
   <node id="4390210696" lat="42.1488565" lon="12.5030127" version="3" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
     <tag k="contact:facebook" v="https://www.facebook.com/comunedimorlupo/"/>
