@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-10T03:20:57Z" areas="2025-11-09T19:25:00Z"/>
+<meta osm_base="2025-11-11T03:14:32Z" areas="2025-11-10T22:40:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -17055,7 +17055,7 @@
     <tag k="wikidata" v="Q222063"/>
     <tag k="wikipedia" v="it:Tuenno"/>
   </node>
-  <node id="64776687" lat="46.0743070" lon="11.4497870" version="4" timestamp="2020-01-22T17:54:38Z" changeset="79932324" uid="8445331" user="JuaFritz">
+  <node id="64776687" lat="46.0743070" lon="11.4497870" version="5" timestamp="2025-11-10T23:30:13Z" changeset="174487156" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3066"/>
     <tag k="loc_name" v="Traozén"/>
     <tag k="name" v="Torcegno"/>
@@ -17063,6 +17063,7 @@
     <tag k="population" v="679"/>
     <tag k="reg_name" v="Torzén"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031154"/>
   </node>
   <node id="64776690" lat="46.0157030" lon="11.2642830" version="5" timestamp="2024-11-17T22:37:21Z" changeset="159261978" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3054"/>
@@ -17234,25 +17235,14 @@
     <tag k="wikidata" v="Q301246"/>
     <tag k="wikipedia" v="it:Roveré della Luna"/>
   </node>
-  <node id="64776770" lat="46.0042410" lon="11.2428830" version="9" timestamp="2024-11-17T22:37:18Z" changeset="159261978" uid="1726102" user="AlessioMela">
-    <tag k="gfoss_id" v="2897"/>
-    <tag k="loc_name" v="Calzeranega"/>
-    <tag k="name" v="Calceranica al Lago"/>
-    <tag k="name:cim" v="Plaif"/>
-    <tag k="name:it" v="Calceranica al Lago"/>
-    <tag k="old_name:de" v="Plaiff"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1145"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023343"/>
-  </node>
-  <node id="64776781" lat="46.0703249" lon="11.4933434" version="7" timestamp="2020-01-20T20:57:05Z" changeset="79817386" uid="8445331" user="JuaFritz">
+  <node id="64776781" lat="46.0703249" lon="11.4933434" version="8" timestamp="2025-11-10T23:30:13Z" changeset="174487156" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2908"/>
     <tag k="loc_name" v="Carzàn"/>
     <tag k="name" v="Carzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="499"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023873"/>
   </node>
   <node id="64776783" lat="46.1846982" lon="11.0314163" version="7" timestamp="2024-07-20T17:34:46Z" changeset="154189467" uid="531886" user="drlellinger">
     <tag k="gfoss_id" v="2916"/>
@@ -23431,14 +23421,6 @@
     <tag k="population:date" v="2022-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="Comune di Tovo San Giacomo"/>
-  </node>
-  <node id="66587216" lat="44.4789695" lon="8.4901712" version="6" timestamp="2024-08-04T13:18:12Z" changeset="154812271" uid="21794763" user="N Longo">
-    <tag k="gfoss_id" v="1243"/>
-    <tag k="name" v="Sassello"/>
-    <tag k="name:lij" v="U Sascé"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1765"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="66587231" lat="44.3272753" lon="8.2754352" version="3" timestamp="2020-09-20T14:33:34Z" changeset="91177534" uid="195228" user="vancori">
     <tag k="gfoss_id" v="1235"/>
