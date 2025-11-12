@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-11T03:14:32Z" areas="2025-11-10T22:40:14Z"/>
+<meta osm_base="2025-11-12T03:13:00Z" areas="2025-11-11T18:41:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -17515,6 +17515,14 @@
     <tag k="population" v="1175"/>
     <tag k="postal_code" v="38010"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="64776918" lat="46.0713276" lon="11.4795917" version="4" timestamp="2025-08-26T11:35:40Z" changeset="171024469" uid="20939356" user="marangón">
+    <tag k="gfoss_id" v="3052"/>
+    <tag k="name" v="Telve"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1887"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031041"/>
   </node>
   <node id="64776927" lat="46.4047110" lon="11.0192710" version="7" timestamp="2020-08-28T16:18:46Z" changeset="90091004" uid="8445331" user="JuaFritz">
     <tag k="alt_name:lld" v="Lio"/>
@@ -38361,7 +38369,7 @@
     <tag k="population" v="365"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="72960720" lat="41.7089464" lon="13.8125848" version="7" timestamp="2025-04-10T15:46:08Z" changeset="164775751" uid="22734727" user="Saskiu">
+  <node id="72960720" lat="41.7089421" lon="13.8125922" version="8" timestamp="2025-11-11T13:03:32Z" changeset="174509996" uid="7464" user="Odiug">
     <tag k="gfoss_id" v="5127"/>
     <tag k="name" v="San Donato Val di Comino"/>
     <tag k="place" v="village"/>
@@ -41989,21 +41997,6 @@
     <tag k="wikidata" v="Q295622"/>
     <tag k="wikipedia" v="it:Sorgono"/>
     <tag k="wikipedia:sc" v="Sòrgono"/>
-  </node>
-  <node id="72992368" lat="40.6279690" lon="9.6773370" version="43" timestamp="2023-11-08T22:33:14Z" changeset="143800258" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7388"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Torpè"/>
-    <tag k="name:it" v="Torpè"/>
-    <tag k="name:sc" v="Torpè"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2719"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.torpe.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295677"/>
-    <tag k="wikipedia" v="it:Torpè"/>
-    <tag k="wikipedia:sc" v="Torpè"/>
   </node>
   <node id="72992377" lat="40.2690518" lon="8.5482204" version="43" timestamp="2023-11-10T07:51:57Z" changeset="143851255" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7386"/>
