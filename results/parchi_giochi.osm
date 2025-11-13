@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-12T03:11:53Z" areas="2025-11-11T18:41:11Z"/>
+<meta osm_base="2025-11-13T03:16:49Z" areas="2025-11-12T22:41:26Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -540,10 +540,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031684"/>
   </node>
-  <node id="62506189" lat="45.8102188" lon="9.8535071" version="10" timestamp="2021-02-06T19:40:45Z" changeset="98826966" uid="356676" user="luigi_ranghetti">
+  <node id="62506189" lat="45.8102188" lon="9.8535071" version="11" timestamp="2025-11-12T16:39:29Z" changeset="174568306" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2153"/>
     <tag k="name" v="Vertova"/>
     <tag k="name:lmo" v="Èrfa"/>
+    <tag k="name:ru" v="Вертова"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4553"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -1372,9 +1373,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026467"/>
   </node>
-  <node id="62509767" lat="45.9432736" lon="9.1281646" version="5" timestamp="2024-11-12T08:37:40Z" changeset="159037158" uid="9925732" user="Flight777">
+  <node id="62509767" lat="45.9432736" lon="9.1281646" version="6" timestamp="2025-11-12T16:39:29Z" changeset="174568306" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="1505"/>
     <tag k="name" v="Argegno"/>
+    <tag k="name:ru" v="Ардженьо"/>
     <tag k="place" v="village"/>
     <tag k="population" v="654"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -16030,13 +16032,6 @@
     <tag k="name" v="Pianello Val Tidone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2207"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301147" lat="44.6232492" lon="9.3326598" version="4" timestamp="2021-03-27T07:18:15Z" changeset="101826797" uid="10739098" user="xbutch">
-    <tag k="gfoss_id" v="3869"/>
-    <tag k="name" v="Ottone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="500"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301156" lat="45.0895109" lon="9.9331646" version="12" timestamp="2023-06-14T14:33:42Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
