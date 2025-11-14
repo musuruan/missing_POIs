@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-13T03:22:59Z" areas="2025-11-12T18:28:26Z"/>
+<meta osm_base="2025-11-14T03:20:39Z" areas="2025-11-13T18:28:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -23159,24 +23159,6 @@
     <tag k="wikipedia" v="it:Jerzu"/>
     <tag k="wikipedia:sc" v="Jersu"/>
   </node>
-  <node id="72992515" lat="39.7791490" lon="9.2847410" version="44" timestamp="2023-11-07T13:35:15Z" changeset="143737639" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Stersili"/>
-    <tag k="gfoss_id" v="7318"/>
-    <tag k="is_in:country" v="Italy"/>
-    <tag k="is_in:district" v="Cagliari"/>
-    <tag k="is_in:region" v="Sardegna"/>
-    <tag k="name" v="Istersili/Esterzili"/>
-    <tag k="name:it" v="Esterzili"/>
-    <tag k="name:sc" v="Istersili"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="743"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.esterzili.ca.it/"/>
-    <tag k="wikidata" v="Q283951"/>
-    <tag k="wikipedia" v="it:Esterzili"/>
-    <tag k="wikipedia:sc" v="Istersili"/>
-  </node>
   <node id="72992546" lat="39.8999005" lon="9.5313470" version="41" timestamp="2017-03-01T21:24:59Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7315"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
@@ -25352,10 +25334,11 @@
     <tag k="place" v="village"/>
     <tag k="population" v="634"/>
   </node>
-  <node id="1941889656" lat="44.3036653" lon="9.2093446" version="9" timestamp="2023-06-14T14:30:36Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+  <node id="1941889656" lat="44.3036653" lon="9.2093446" version="10" timestamp="2025-11-13T12:37:44Z" changeset="174603482" uid="12495047" user="Yan Bakhmat">
     <tag k="gfoss_id" v="1301"/>
     <tag k="name" v="Portofino"/>
     <tag k="name:oc" v="Pòrtfin"/>
+    <tag k="name:uk" v="Портофіно"/>
     <tag k="place" v="village"/>
     <tag k="population" v="420"/>
     <tag k="source" v="geodati.gfoss.it"/>

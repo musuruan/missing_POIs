@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-13T03:21:59Z" areas="2025-11-12T18:28:26Z"/>
+<meta osm_base="2025-11-14T03:18:39Z" areas="2025-11-13T18:28:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1865,7 +1865,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022296"/>
   </node>
-  <node id="62506609" lat="45.9375116" lon="9.9311580" version="5" timestamp="2025-11-12T16:39:29Z" changeset="174568306" uid="22632809" user="KeyTV">
+  <node id="62506609" lat="45.9379922" lon="9.9297635" version="6" timestamp="2025-11-13T21:53:44Z" changeset="174624578" uid="2653653" user="astraspera">
     <tag k="gfoss_id" v="1938"/>
     <tag k="name" v="Ardesio"/>
     <tag k="name:ru" v="Ардезьо"/>
@@ -20989,12 +20989,12 @@
     <tag k="postal_code" v="34076"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502708" lat="45.8278081" lon="13.5018454" version="14" timestamp="2020-07-16T10:18:16Z" changeset="88080754" uid="361003" user="Cascafico">
+  <node id="66502708" lat="45.8278081" lon="13.5018454" version="15" timestamp="2025-11-13T17:47:35Z" changeset="174616714" uid="12294600" user="alessandrocarmeli">
     <tag k="gfoss_id" v="3824"/>
     <tag k="name" v="Ronchi dei Legionari"/>
     <tag k="name:fur" v="Roncjis di Monfalcon"/>
     <tag k="name:it" v="Ronchi dei Legionari"/>
-    <tag k="name:sl" v="Ronke"/>
+    <tag k="name:sl" v="Ronke pri Tržiču"/>
     <tag k="old_name:de" v="Ronkis"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11963"/>
@@ -46074,10 +46074,11 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4172"/>
   </node>
-  <node id="1941889656" lat="44.3036653" lon="9.2093446" version="9" timestamp="2023-06-14T14:30:36Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+  <node id="1941889656" lat="44.3036653" lon="9.2093446" version="10" timestamp="2025-11-13T12:37:44Z" changeset="174603482" uid="12495047" user="Yan Bakhmat">
     <tag k="gfoss_id" v="1301"/>
     <tag k="name" v="Portofino"/>
     <tag k="name:oc" v="Pòrtfin"/>
+    <tag k="name:uk" v="Портофіно"/>
     <tag k="place" v="village"/>
     <tag k="population" v="420"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -46206,11 +46207,6 @@
     <tag k="name" v="Albese"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4252"/>
-  </node>
-  <node id="2089902526" lat="40.8548665" lon="14.3793887" version="4" timestamp="2022-03-19T20:22:39Z" changeset="118678140" uid="10622815" user="Italian Technology">
-    <tag k="name" v="Pollena Trocchia"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13562"/>
   </node>
   <node id="2101450244" lat="45.7558241" lon="9.3488801" version="2" timestamp="2014-01-20T23:25:06Z" changeset="20114330" uid="69717" user="kaitu">
     <tag k="name" v="Cologna"/>
@@ -47682,13 +47678,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="998"/>
     <tag k="wikidata" v="Q30025990"/>
-  </node>
-  <node id="8345438675" lat="37.9558591" lon="15.3393223" version="5" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Savoca"/>
-    <tag k="name:scn" v="Sàvuca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1717"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="8473712664" lat="45.7181164" lon="11.6070356" version="4" timestamp="2023-12-26T21:14:50Z" changeset="145549765" uid="18230056" user="AwFi">
     <tag k="description" v="Nuovo comune derivante dalla fusione dei comuni di Mason Vicentino e Molvena."/>
