@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-14T03:09:28Z" areas="2025-11-13T18:28:16Z"/>
+<meta osm_base="2025-11-15T03:02:54Z" areas="2025-11-14T23:12:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8172,10 +8172,11 @@
     <tag k="wikidata" v="Q53402"/>
     <tag k="wikipedia" v="it:Zuglio"/>
   </node>
-  <node id="66503566" lat="46.5332320" lon="13.0429150" version="6" timestamp="2025-07-14T15:41:20Z" changeset="168924156" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503566" lat="46.5332320" lon="13.0429150" version="7" timestamp="2025-11-14T20:57:54Z" changeset="174665243" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3796"/>
     <tag k="name" v="Treppo Carnico / Trep di Cjargne"/>
     <tag k="name:fur" v="Trep di Cjargne"/>
+    <tag k="name:it" v="Treppo Carnico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="555"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -17637,20 +17638,6 @@
     <tag k="wikidata" v="Q388309"/>
     <tag k="wikipedia" v="it:Sennariolo"/>
   </node>
-  <node id="72992968" lat="39.8591480" lon="8.9015320" version="42" timestamp="2023-11-10T05:01:03Z" changeset="143847164" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7657"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Santu Antoni Arruinas/Villa Sant'Antonio"/>
-    <tag k="name:it" v="Villa Sant'Antonio"/>
-    <tag k="name:sc" v="Santu Antoni Arruinas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="454"/>
-    <tag k="postal_code" v="09080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.villasantantonio.or.it/"/>
-    <tag k="wikidata" v="Q389369"/>
-    <tag k="wikipedia" v="it:Villa Sant'Antonio"/>
-  </node>
   <node id="72993005" lat="39.7915460" lon="8.8023310" version="40" timestamp="2017-03-01T21:25:05Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7649"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -17859,21 +17846,6 @@
     <tag k="website" v="https://www.comune.nureci.or.it/"/>
     <tag k="wikidata" v="Q387019"/>
     <tag k="wikipedia" v="it:Nureci"/>
-  </node>
-  <node id="72993739" lat="39.9071480" lon="8.8976310" version="41" timestamp="2017-03-01T21:25:13Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="alt_name" v="Arruìasa"/>
-    <tag k="gfoss_id" v="7653"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Arruinas/Ruinas"/>
-    <tag k="name:it" v="Ruinas"/>
-    <tag k="name:sc" v="Arruinas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="825"/>
-    <tag k="postal_code" v="09085"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comuneruinas.it"/>
-    <tag k="wikidata" v="Q387507"/>
-    <tag k="wikipedia" v="it:Ruinas"/>
   </node>
   <node id="72993827" lat="40.5063580" lon="8.7253190" version="41" timestamp="2023-11-07T14:20:36Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7231"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-14T03:18:39Z" areas="2025-11-13T18:28:16Z"/>
+<meta osm_base="2025-11-15T03:12:00Z" areas="2025-11-14T23:12:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9423,12 +9423,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022561"/>
   </node>
-  <node id="62518215" lat="45.8931801" lon="8.6851013" version="3" timestamp="2023-12-30T19:50:08Z" changeset="145711016" uid="67550" user="Aiman">
+  <node id="62518215" lat="45.8931732" lon="8.6850781" version="4" timestamp="2025-11-14T20:57:23Z" changeset="174665229" uid="19971463" user="LeoBorGiov">
     <tag k="gfoss_id" v="1375"/>
     <tag k="name" v="Brenta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1646"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q39766"/>
+    <tag k="wikipedia" v="it:Brenta (comune)"/>
   </node>
   <node id="62518221" lat="45.8285392" lon="8.6500523" version="4" timestamp="2023-07-18T08:40:39Z" changeset="138656317" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="1373"/>
@@ -21747,10 +21749,11 @@
     <tag k="population" v="2577"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503224" lat="46.5303455" lon="13.1165605" version="10" timestamp="2025-07-15T08:52:21Z" changeset="168952127" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503224" lat="46.5303455" lon="13.1165605" version="11" timestamp="2025-11-14T20:57:54Z" changeset="174665243" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3744"/>
     <tag k="name" v="Paularo / Paulâr"/>
     <tag k="name:fur" v="Paulâr"/>
+    <tag k="name:it" v="Paularo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2907"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -22349,10 +22352,11 @@
     <tag k="population" v="2490"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503566" lat="46.5332320" lon="13.0429150" version="6" timestamp="2025-07-14T15:41:20Z" changeset="168924156" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503566" lat="46.5332320" lon="13.0429150" version="7" timestamp="2025-11-14T20:57:54Z" changeset="174665243" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3796"/>
     <tag k="name" v="Treppo Carnico / Trep di Cjargne"/>
     <tag k="name:fur" v="Trep di Cjargne"/>
+    <tag k="name:it" v="Treppo Carnico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="555"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -42163,24 +42167,6 @@
     <tag k="wikidata" v="Q294760"/>
     <tag k="wikipedia" v="it:Bortigali"/>
     <tag k="wikipedia:sc" v="Bortigale"/>
-  </node>
-  <node id="72992515" lat="39.7791490" lon="9.2847410" version="44" timestamp="2023-11-07T13:35:15Z" changeset="143737639" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Stersili"/>
-    <tag k="gfoss_id" v="7318"/>
-    <tag k="is_in:country" v="Italy"/>
-    <tag k="is_in:district" v="Cagliari"/>
-    <tag k="is_in:region" v="Sardegna"/>
-    <tag k="name" v="Istersili/Esterzili"/>
-    <tag k="name:it" v="Esterzili"/>
-    <tag k="name:sc" v="Istersili"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="743"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.esterzili.ca.it/"/>
-    <tag k="wikidata" v="Q283951"/>
-    <tag k="wikipedia" v="it:Esterzili"/>
-    <tag k="wikipedia:sc" v="Istersili"/>
   </node>
   <node id="72992539" lat="40.1188040" lon="9.2519707" version="51" timestamp="2017-03-01T21:24:59Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="alt_name" v="Fonne"/>

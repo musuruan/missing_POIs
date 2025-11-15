@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-14T03:15:29Z" areas="2025-11-13T18:28:16Z"/>
+<meta osm_base="2025-11-15T03:07:58Z" areas="2025-11-14T22:38:40Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1605,12 +1605,14 @@
     <tag k="population" v="1963"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62518215" lat="45.8931801" lon="8.6851013" version="3" timestamp="2023-12-30T19:50:08Z" changeset="145711016" uid="67550" user="Aiman">
+  <node id="62518215" lat="45.8931732" lon="8.6850781" version="4" timestamp="2025-11-14T20:57:23Z" changeset="174665229" uid="19971463" user="LeoBorGiov">
     <tag k="gfoss_id" v="1375"/>
     <tag k="name" v="Brenta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1646"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q39766"/>
+    <tag k="wikipedia" v="it:Brenta (comune)"/>
   </node>
   <node id="62518221" lat="45.8285392" lon="8.6500523" version="4" timestamp="2023-07-18T08:40:39Z" changeset="138656317" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="1373"/>
@@ -3029,12 +3031,12 @@
     <tag k="population" v="4132"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778750" lat="45.5050934" lon="12.0339862" version="6" timestamp="2022-04-23T10:39:01Z" changeset="120085130" uid="362065" user="GFS">
-    <tag k="gfoss_id" v="3508"/>
+  <node id="64778750" lat="45.5054111" lon="12.0339479" version="7" timestamp="2025-11-14T15:53:27Z" changeset="174654737" uid="1717503" user="osm19">
     <tag k="name" v="Santa Maria di Sala"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4300"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="17458"/>
+    <tag k="population:date" v="2025-11-14"/>
+    <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
     <tag k="wikidata" v="Q46973"/>
   </node>
   <node id="64778757" lat="45.1360987" lon="12.0812854" version="5" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
