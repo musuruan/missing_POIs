@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-16T03:15:28Z" areas="2025-11-15T23:50:21Z"/>
+<meta osm_base="2025-11-17T03:12:52Z" areas="2025-11-16T21:49:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2854,10 +2854,11 @@
     <tag k="population" v="936"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778519" lat="45.0057769" lon="12.2107983" version="4" timestamp="2017-04-03T08:43:52Z" changeset="47404173" uid="1834719" user="LvdT">
+  <node id="64778519" lat="45.0057769" lon="12.2107983" version="5" timestamp="2025-11-16T20:18:44Z" changeset="174744134" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3665"/>
     <tag k="name" v="Taglio di Po"/>
     <tag k="name:egl" v="Tài d Pò"/>
+    <tag k="name:ru" v="Тальо-ди-По"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8356"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -3029,9 +3030,10 @@
     <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
     <tag k="wikidata" v="Q46973"/>
   </node>
-  <node id="64778757" lat="45.1360987" lon="12.0812854" version="5" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
+  <node id="64778757" lat="45.1360987" lon="12.0812854" version="6" timestamp="2025-11-16T20:18:44Z" changeset="174744134" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3479"/>
     <tag k="name" v="Cavarzere"/>
+    <tag k="name:ru" v="Кавардзере"/>
     <tag k="name:vec" v="Cavarxare"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14193"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-16T03:18:27Z" areas="2025-11-15T23:16:30Z"/>
+<meta osm_base="2025-11-17T03:17:04Z" areas="2025-11-16T21:49:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4412,13 +4412,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.comune.cremenaga.va.it/"/>
     <tag k="wikipedia" v="it:Cremenaga"/>
-  </node>
-  <node id="62517153" lat="45.7976859" lon="8.7331900" version="3" timestamp="2020-04-23T15:29:41Z" changeset="84010505" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="1405"/>
-    <tag k="name" v="Cazzago Brabbia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="785"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62517180" lat="45.8199458" lon="8.8947116" version="7" timestamp="2023-05-08T22:43:20Z" changeset="135871219" uid="10361585" user="Hedgie8">
     <tag k="capital" v="8"/>
@@ -10157,9 +10150,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026562"/>
   </node>
-  <node id="64778561" lat="45.0619946" lon="12.1889247" version="4" timestamp="2016-10-02T23:39:14Z" changeset="42593464" uid="743479" user="fayor">
+  <node id="64778561" lat="45.0619946" lon="12.1889247" version="5" timestamp="2025-11-16T20:18:44Z" changeset="174744134" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3649"/>
     <tag k="name" v="Loreo"/>
+    <tag k="name:ru" v="Лорео"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3718"/>
     <tag k="source" v="geodati.gfoss.it"/>
