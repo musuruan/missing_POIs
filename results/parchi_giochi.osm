@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-17T03:14:00Z" areas="2025-11-16T22:20:15Z"/>
+<meta osm_base="2025-11-18T03:10:13Z" areas="2025-11-17T21:30:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1300,9 +1300,10 @@
     <tag k="population" v="1859"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509187" lat="45.6224015" lon="9.9613760" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62509187" lat="45.6224015" lon="9.9613760" version="4" timestamp="2025-11-17T15:35:12Z" changeset="174777728" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2172"/>
     <tag k="name" v="Adro"/>
+    <tag k="name:ru" v="Адро"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6421"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7741,10 +7742,11 @@
     <tag k="wikidata" v="Q53284"/>
     <tag k="wikipedia" v="it:Moggio Udinese"/>
   </node>
-  <node id="66503147" lat="46.4109017" lon="12.8787158" version="8" timestamp="2025-07-13T17:06:38Z" changeset="168882892" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503147" lat="46.4109017" lon="12.8787158" version="9" timestamp="2025-11-17T21:08:13Z" changeset="174791824" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3706"/>
     <tag k="name" v="Enemonzo / Enemonç"/>
     <tag k="name:fur" v="Enemonç"/>
+    <tag k="name:it" v="Enemonzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1347"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7841,10 +7843,11 @@
     <tag k="wikidata" v="Q53306"/>
     <tag k="wikipedia" v="it:Paularo"/>
   </node>
-  <node id="66503226" lat="46.5308146" lon="13.0182065" version="8" timestamp="2025-07-15T08:34:59Z" changeset="168951425" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503226" lat="46.5308146" lon="13.0182065" version="9" timestamp="2025-11-17T21:08:13Z" changeset="174791824" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3742"/>
     <tag k="name" v="Paluzza / Paluce"/>
     <tag k="name:fur" v="Paluce"/>
+    <tag k="name:it" v="Paluzza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2597"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -11919,13 +11922,6 @@
     <tag k="name" v="Colletorto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2474"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67283814" lat="41.5098892" lon="14.9120522" version="3" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6037"/>
-    <tag k="name" v="Gambatesa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1737"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67283817" lat="41.8018015" lon="14.7933545" version="3" timestamp="2023-09-21T10:10:18Z" changeset="141551189" uid="20124152" user="amarie-vinnie">

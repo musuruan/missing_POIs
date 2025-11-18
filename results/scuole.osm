@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-17T03:17:04Z" areas="2025-11-16T21:49:30Z"/>
+<meta osm_base="2025-11-18T03:13:26Z" areas="2025-11-17T21:55:49Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1012,9 +1012,10 @@
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507155" lat="45.6964830" lon="9.8425570" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62507155" lat="45.6964830" lon="9.8425570" version="6" timestamp="2025-11-17T15:35:12Z" changeset="174777728" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2138"/>
     <tag k="name" v="Trescore Balneario"/>
+    <tag k="name:ru" v="Трескоре-Бальнеарио"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9879"/>
     <tag k="source" v="ISTAT (30/11/2015)"/>
@@ -9847,13 +9848,14 @@
     <tag k="wikidata" v="Q265159"/>
     <tag k="wikipedia" v="it:Cavedago"/>
   </node>
-  <node id="64776793" lat="46.0806791" lon="11.5540415" version="7" timestamp="2020-01-20T21:23:40Z" changeset="79818128" uid="8445331" user="JuaFritz">
+  <node id="64776793" lat="46.0806791" lon="11.5540415" version="8" timestamp="2025-11-17T20:08:49Z" changeset="174789284" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2880"/>
     <tag k="loc_name" v="Bién"/>
     <tag k="name" v="Bieno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="441"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022837"/>
   </node>
   <node id="64776800" lat="46.1191034" lon="10.7588619" version="4" timestamp="2025-05-18T21:42:31Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2883"/>
@@ -9899,13 +9901,14 @@
     <tag k="population" v="226"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64776832" lat="46.0567680" lon="11.6148685" version="5" timestamp="2020-06-29T09:04:53Z" changeset="87283383" uid="2795427" user="vitoplus">
+  <node id="64776832" lat="46.0567680" lon="11.6148685" version="6" timestamp="2025-11-17T20:08:51Z" changeset="174789284" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2923"/>
     <tag k="loc_name" v="Sinte"/>
     <tag k="name" v="Cinte Tesino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="406"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024772"/>
   </node>
   <node id="64776834" lat="46.3991870" lon="11.0029605" version="7" timestamp="2021-03-28T18:19:00Z" changeset="101884805" uid="8445331" user="JuaFritz">
     <tag k="gfoss_id" v="2924"/>
@@ -20991,17 +20994,6 @@
     <tag k="wikidata" v="Q117404"/>
     <tag k="wikipedia" v="it:Terelle"/>
   </node>
-  <node id="72960672" lat="41.6102092" lon="13.2247310" version="5" timestamp="2023-12-18T14:08:13Z" changeset="145252973" uid="3860151" user="Michele Aquilani">
-    <tag k="gfoss_id" v="5141"/>
-    <tag k="name" v="Supino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4783"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.supino.fr.it/"/>
-    <tag k="wikidata" v="Q117395"/>
-    <tag k="wikimedia_commons" v="Category:Supino"/>
-    <tag k="wikipedia" v="it:Supino (Italia)"/>
-  </node>
   <node id="72960679" lat="41.6132723" lon="13.9278768" version="3" timestamp="2019-08-02T19:56:11Z" changeset="72955128" uid="5300343" user="alessandro trekking">
     <tag k="gfoss_id" v="5126"/>
     <tag k="name" v="San Biagio Saracinisco"/>
@@ -25619,13 +25611,14 @@
     <tag k="population" v="163"/>
     <tag k="wikidata" v="Q13846545"/>
   </node>
-  <node id="3420327670" lat="46.1296038" lon="11.3524912" version="12" timestamp="2022-02-15T15:54:52Z" changeset="117442070" uid="61042" user="Agh">
+  <node id="3420327670" lat="46.1296038" lon="11.3524912" version="13" timestamp="2025-11-17T19:46:57Z" changeset="174788297" uid="1726102" user="AlessioMela">
     <tag k="name" v="Palai en Bersntol - Palù del Fersina"/>
     <tag k="name:de" v="Palai im Fersental"/>
     <tag k="name:it" v="Palù del Fersina"/>
     <tag k="name:mhn" v="Palai en Bersntol"/>
     <tag k="place" v="village"/>
     <tag k="population" v="173"/>
+    <tag k="wikidata" v="Q30028581"/>
   </node>
   <node id="3531063068" lat="43.8547109" lon="7.9637075" version="2" timestamp="2016-09-26T20:59:19Z" changeset="42456120" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1175"/>

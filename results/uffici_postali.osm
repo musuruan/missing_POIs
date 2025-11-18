@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-17T03:08:54Z" areas="2025-11-16T22:20:15Z"/>
+<meta osm_base="2025-11-18T03:06:09Z" areas="2025-11-17T21:30:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -275,9 +275,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027648"/>
   </node>
-  <node id="62505988" lat="45.6701431" lon="9.9635127" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62505988" lat="45.6701431" lon="9.9635127" version="4" timestamp="2025-11-17T15:35:12Z" changeset="174777728" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2114"/>
     <tag k="name" v="Sarnico"/>
+    <tag k="name:ru" v="Сарнико"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5754"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -1417,9 +1418,10 @@
     <tag k="population" v="434"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509187" lat="45.6224015" lon="9.9613760" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62509187" lat="45.6224015" lon="9.9613760" version="4" timestamp="2025-11-17T15:35:12Z" changeset="174777728" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2172"/>
     <tag k="name" v="Adro"/>
+    <tag k="name:ru" v="Адро"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6421"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -6361,13 +6363,6 @@
     <tag k="population" v="386"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630731" lat="45.0949806" lon="7.8781435" version="6" timestamp="2024-01-17T10:43:19Z" changeset="146358009" uid="9265159" user="grawal">
-    <tag k="gfoss_id" v="262"/>
-    <tag k="name" v="Sciolze"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1437"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63630744" lat="45.5439654" lon="7.8220415" version="6" timestamp="2023-01-17T20:00:11Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="271"/>
     <tag k="name" v="Tavagnasco"/>
@@ -6514,7 +6509,7 @@
     <tag k="population" v="190"/>
     <tag k="wikidata" v="Q18480538"/>
   </node>
-  <node id="64776541" lat="46.1081377" lon="11.3027058" version="13" timestamp="2024-03-21T16:56:15Z" changeset="148974040" uid="1950277" user="Mannivu">
+  <node id="64776541" lat="46.1081377" lon="11.3027058" version="14" timestamp="2025-11-17T19:26:14Z" changeset="174787430" uid="1726102" user="AlessioMela">
     <tag k="alt_name:de" v="St. Urschl"/>
     <tag k="gfoss_id" v="3032"/>
     <tag k="name" v="Sant'Orsola Terme"/>
@@ -6524,6 +6519,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="906"/>
     <tag k="reg_name" v="Sant'Orsola"/>
+    <tag k="wikidata" v="Q30030398"/>
   </node>
   <node id="64776551" lat="46.0444545" lon="11.2776917" version="8" timestamp="2024-11-17T22:41:35Z" changeset="159262069" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3080"/>
@@ -6802,13 +6798,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026128"/>
   </node>
-  <node id="64776856" lat="46.0816070" lon="11.5225880" version="3" timestamp="2020-01-20T21:23:40Z" changeset="79818128" uid="8445331" user="JuaFritz">
+  <node id="64776856" lat="46.0816070" lon="11.5225880" version="4" timestamp="2025-11-17T20:08:48Z" changeset="174789284" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3029"/>
     <tag k="loc_name" v="Samón"/>
     <tag k="name" v="Samone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="494"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029756"/>
   </node>
   <node id="64776863" lat="46.1813070" lon="11.2372800" version="6" timestamp="2017-03-12T14:05:55Z" changeset="46785750" uid="354284" user="sbiribizio">
     <tag k="gfoss_id" v="2946"/>
@@ -7996,10 +7993,11 @@
     <tag k="population" v="1036"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503147" lat="46.4109017" lon="12.8787158" version="8" timestamp="2025-07-13T17:06:38Z" changeset="168882892" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503147" lat="46.4109017" lon="12.8787158" version="9" timestamp="2025-11-17T21:08:13Z" changeset="174791824" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3706"/>
     <tag k="name" v="Enemonzo / Enemonç"/>
     <tag k="name:fur" v="Enemonç"/>
+    <tag k="name:it" v="Enemonzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1347"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8144,11 +8142,12 @@
     <tag k="population" v="5877"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503495" lat="46.5229362" lon="12.9221152" version="8" timestamp="2025-07-15T10:32:34Z" changeset="168957991" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503495" lat="46.5229362" lon="12.9221152" version="9" timestamp="2025-11-17T20:33:53Z" changeset="174790366" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3759"/>
     <tag k="loc_name:fur" v="Monai"/>
     <tag k="name" v="Ravascletto / Ravasclêt"/>
     <tag k="name:fur" v="Ravasclêt"/>
+    <tag k="name:it" v="Ravascletto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="642"/>
     <tag k="source" v="geodati.gfoss.it"/>
