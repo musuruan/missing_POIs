@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-18T03:13:26Z" areas="2025-11-17T21:55:49Z"/>
+<meta osm_base="2025-11-19T03:18:11Z" areas="2025-11-18T21:01:10Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1867,14 +1867,14 @@
     <tag k="population" v="1247"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509935" lat="46.0500035" lon="9.1544999" version="5" timestamp="2020-07-17T15:51:34Z" changeset="88151025" uid="9830089" user="OneTwoThreeFour">
+  <node id="62509935" lat="46.0496573" lon="9.1534002" version="6" timestamp="2025-11-18T21:37:06Z" changeset="174834413" uid="69717" user="kaitu">
+    <tag k="ele" v="485"/>
     <tag k="gfoss_id" v="1532"/>
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
     <tag k="loc_name" v="Carlash"/>
     <tag k="name" v="Carlazzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2696"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023778"/>
   </node>
   <node id="62509976" lat="46.1639890" lon="9.2729360" version="4" timestamp="2024-09-09T10:39:41Z" changeset="156388052" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="1559"/>
@@ -24698,7 +24698,7 @@
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q3646649"/>
   </node>
-  <node id="677679475" lat="46.0283776" lon="9.1825386" version="1" timestamp="2010-03-29T19:45:23Z" changeset="4270832" uid="68842" user="noperante">
+  <node id="677679475" lat="46.0292305" lon="9.1838207" version="2" timestamp="2025-11-18T21:37:06Z" changeset="174834413" uid="69717" user="kaitu">
     <tag k="ele" v="377"/>
     <tag k="gfoss_id" v="11378"/>
     <tag k="istat_id" v="1302110001"/>
@@ -24706,6 +24706,7 @@
     <tag k="place" v="hamlet"/>
     <tag k="population" v="229"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022737"/>
   </node>
   <node id="768212645" lat="44.9129273" lon="9.0958805" version="2" timestamp="2013-08-08T11:37:21Z" changeset="17265406" uid="730682" user="Max1234-ITA">
     <tag k="ele" v="525"/>
@@ -24781,13 +24782,14 @@
     <tag k="name" v="Carpiano"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="863038229" lat="46.2001976" lon="12.9035234" version="12" timestamp="2025-07-08T15:17:57Z" changeset="168655691" uid="14202171" user="Alessandro Ambrosino">
+  <node id="863038229" lat="46.2001976" lon="12.9035234" version="13" timestamp="2025-11-18T21:51:07Z" changeset="174834900" uid="129060" user="Klenje">
     <tag k="ele" v="234"/>
     <tag k="gfoss_id" v="34365"/>
     <tag k="istat_id" v="2147483647"/>
     <tag k="loc_name:fur" v="Palugjea"/>
     <tag k="name" v="Paludea / Palugjee"/>
     <tag k="name:fur" v="Palugjee"/>
+    <tag k="name:it" v="Paludea"/>
     <tag k="place" v="village"/>
     <tag k="population" v="190"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>

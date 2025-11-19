@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-18T03:12:11Z" areas="2025-11-17T21:55:49Z"/>
+<meta osm_base="2025-11-19T03:17:14Z" areas="2025-11-18T23:16:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3973,14 +3973,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q101667411"/>
   </node>
-  <node id="62509935" lat="46.0500035" lon="9.1544999" version="5" timestamp="2020-07-17T15:51:34Z" changeset="88151025" uid="9830089" user="OneTwoThreeFour">
+  <node id="62509935" lat="46.0496573" lon="9.1534002" version="6" timestamp="2025-11-18T21:37:06Z" changeset="174834413" uid="69717" user="kaitu">
+    <tag k="ele" v="485"/>
     <tag k="gfoss_id" v="1532"/>
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
     <tag k="loc_name" v="Carlash"/>
     <tag k="name" v="Carlazzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2696"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023778"/>
   </node>
   <node id="62509956" lat="46.1710994" lon="9.3718986" version="9" timestamp="2022-03-22T15:27:09Z" changeset="118783424" uid="10901495" user="Martino Scaglione">
     <tag k="name" v="Gera Lario"/>
@@ -21634,10 +21634,11 @@
     <tag k="population" v="2542"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503194" lat="46.3153270" lon="13.1046210" version="8" timestamp="2025-07-10T18:07:39Z" changeset="168755394" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503194" lat="46.3153270" lon="13.1046210" version="9" timestamp="2025-11-18T11:08:39Z" changeset="174812662" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3683"/>
     <tag k="name" v="Bordano / Bordan"/>
     <tag k="name:fur" v="Bordan"/>
+    <tag k="name:it" v="Bordano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="786"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -44720,7 +44721,7 @@
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q3646649"/>
   </node>
-  <node id="677679475" lat="46.0283776" lon="9.1825386" version="1" timestamp="2010-03-29T19:45:23Z" changeset="4270832" uid="68842" user="noperante">
+  <node id="677679475" lat="46.0292305" lon="9.1838207" version="2" timestamp="2025-11-18T21:37:06Z" changeset="174834413" uid="69717" user="kaitu">
     <tag k="ele" v="377"/>
     <tag k="gfoss_id" v="11378"/>
     <tag k="istat_id" v="1302110001"/>
@@ -44728,6 +44729,7 @@
     <tag k="place" v="hamlet"/>
     <tag k="population" v="229"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022737"/>
   </node>
   <node id="693237875" lat="46.0795780" lon="8.2997160" version="8" timestamp="2023-12-20T10:57:45Z" changeset="145326073" uid="19497998" user="branco-revert">
     <tag k="ele" v="257"/>
@@ -44902,13 +44904,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1395"/>
   </node>
-  <node id="863038229" lat="46.2001976" lon="12.9035234" version="12" timestamp="2025-07-08T15:17:57Z" changeset="168655691" uid="14202171" user="Alessandro Ambrosino">
+  <node id="863038229" lat="46.2001976" lon="12.9035234" version="13" timestamp="2025-11-18T21:51:07Z" changeset="174834900" uid="129060" user="Klenje">
     <tag k="ele" v="234"/>
     <tag k="gfoss_id" v="34365"/>
     <tag k="istat_id" v="2147483647"/>
     <tag k="loc_name:fur" v="Palugjea"/>
     <tag k="name" v="Paludea / Palugjee"/>
     <tag k="name:fur" v="Palugjee"/>
+    <tag k="name:it" v="Paludea"/>
     <tag k="place" v="village"/>
     <tag k="population" v="190"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
