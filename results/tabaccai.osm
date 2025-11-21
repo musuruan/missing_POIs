@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-20T03:10:15Z" areas="2025-11-19T21:51:56Z"/>
+<meta osm_base="2025-11-21T03:13:19Z" areas="2025-11-20T22:55:17Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -502,13 +502,13 @@
     <tag k="population" v="2367"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="61753562" lat="44.1199490" lon="10.3253960" version="3" timestamp="2025-09-09T07:15:13Z" changeset="171669172" uid="21748492" user="Yurii Skvortsov">
+  <node id="61753562" lat="44.1199490" lon="10.3253960" version="4" timestamp="2025-11-20T13:09:47Z" changeset="174905870" uid="1754690" user="Roman Timashev">
     <tag k="gfoss_id" v="4431"/>
     <tag k="name" v="Careggine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="642"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023752+"/>
+    <tag k="wikidata" v="Q30023752"/>
   </node>
   <node id="61753564" lat="44.1499500" lon="10.4108970" version="3" timestamp="2016-09-13T21:24:50Z" changeset="42136022" uid="743479" user="fayor">
     <tag k="ele" v="545"/>
@@ -22340,7 +22340,7 @@
     <tag k="population" v="697"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503560" lat="45.8222160" lon="13.2769330" version="8" timestamp="2025-07-09T17:41:41Z" changeset="168707645" uid="20552772" user="user_8y978a">
+  <node id="66503560" lat="45.8222160" lon="13.2769330" version="9" timestamp="2025-11-20T20:59:55Z" changeset="174924517" uid="20999267" user="TheCats001">
     <tag k="gfoss_id" v="3794"/>
     <tag k="loc_name:fur" v="il Tor"/>
     <tag k="name" v="Torviscosa / Tor di Zuin"/>
@@ -22349,6 +22349,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3230"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="66503563" lat="46.2821797" lon="13.0754453" version="7" timestamp="2025-07-15T13:11:05Z" changeset="168964977" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3795"/>
