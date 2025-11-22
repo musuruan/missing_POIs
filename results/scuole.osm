@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-21T03:14:30Z" areas="2025-11-20T23:45:50Z"/>
+<meta osm_base="2025-11-22T03:06:29Z" areas="2025-11-21T23:15:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2097,12 +2097,14 @@
     <tag k="population" v="425"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511105" lat="45.8239770" lon="8.9152340" version="3" timestamp="2024-09-09T10:39:42Z" changeset="156388052" uid="30587" user="IknowJoseph">
+  <node id="62511105" lat="45.8239770" lon="8.9152340" version="4" timestamp="2025-11-21T14:09:34Z" changeset="174950769" uid="23334409" user="ennevu">
     <tag k="gfoss_id" v="1628"/>
     <tag k="name" v="Rodero"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1073"/>
+    <tag k="population" v="1268"/>
+    <tag k="population:date" v="2025-31-07"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q30029521"/>
   </node>
   <node id="62511112" lat="45.1136700" lon="10.0774730" version="4" timestamp="2024-09-09T17:58:24Z" changeset="156407408" uid="30587" user="IknowJoseph">
@@ -10537,11 +10539,12 @@
     <tag k="population" v="1336"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503065" lat="46.3088622" lon="12.7884970" version="8" timestamp="2025-07-10T13:51:38Z" changeset="168744768" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503065" lat="46.3088622" lon="12.7884970" version="9" timestamp="2025-11-21T17:24:21Z" changeset="174958619" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7550"/>
     <tag k="loc_name:fur" v="Vildisora"/>
     <tag k="name" v="Tramonti di Sopra / Tramonç Disore - Vildisora"/>
     <tag k="name:fur" v="Tramonç Disore"/>
+    <tag k="name:it" v="Tramonti di Sopra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="409"/>
     <tag k="source" v="geodati.gfoss.it"/>

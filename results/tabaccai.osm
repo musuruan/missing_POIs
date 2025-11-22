@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-21T03:13:19Z" areas="2025-11-20T22:55:17Z"/>
+<meta osm_base="2025-11-22T03:05:24Z" areas="2025-11-21T22:46:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4478,12 +4478,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q36295"/>
   </node>
-  <node id="62511105" lat="45.8239770" lon="8.9152340" version="3" timestamp="2024-09-09T10:39:42Z" changeset="156388052" uid="30587" user="IknowJoseph">
+  <node id="62511105" lat="45.8239770" lon="8.9152340" version="4" timestamp="2025-11-21T14:09:34Z" changeset="174950769" uid="23334409" user="ennevu">
     <tag k="gfoss_id" v="1628"/>
     <tag k="name" v="Rodero"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1073"/>
+    <tag k="population" v="1268"/>
+    <tag k="population:date" v="2025-31-07"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q30029521"/>
   </node>
   <node id="62511109" lat="45.2939854" lon="9.9867101" version="2" timestamp="2020-11-28T06:20:47Z" changeset="94928961" uid="554973" user="dgitto">
@@ -21445,11 +21447,12 @@
     <tag k="wikidata" v="Q18449615"/>
     <tag k="wikipedia" v="sl:Col, Trst"/>
   </node>
-  <node id="66503065" lat="46.3088622" lon="12.7884970" version="8" timestamp="2025-07-10T13:51:38Z" changeset="168744768" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503065" lat="46.3088622" lon="12.7884970" version="9" timestamp="2025-11-21T17:24:21Z" changeset="174958619" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7550"/>
     <tag k="loc_name:fur" v="Vildisora"/>
     <tag k="name" v="Tramonti di Sopra / Tramonç Disore - Vildisora"/>
     <tag k="name:fur" v="Tramonç Disore"/>
+    <tag k="name:it" v="Tramonti di Sopra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="409"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -41894,20 +41897,6 @@
     <tag k="wikipedia" v="it:Osidda"/>
     <tag k="wikipedia:sc" v="Osidde"/>
   </node>
-  <node id="72992229" lat="39.8227520" lon="9.4962440" version="42" timestamp="2023-11-10T22:23:59Z" changeset="143881488" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7365"/>
-    <tag k="name" v="Òsini/Osini"/>
-    <tag k="name:it" v="Osini"/>
-    <tag k="name:sc" v="Òsini"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="947"/>
-    <tag k="postal_code" v="08040"/>
-    <tag k="ref:LOCODE" v="ITONI"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.osini.nu.it/"/>
-    <tag k="wikidata" v="Q340603"/>
-    <tag k="wikipedia" v="it:Osini"/>
-  </node>
   <node id="72992247" lat="39.7971841" lon="9.6247299" version="45" timestamp="2023-11-10T22:24:03Z" changeset="143881488" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7396"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
@@ -42454,19 +42443,6 @@
     <tag k="wikidata" v="Q295658"/>
     <tag k="wikipedia" v="it:Tonara"/>
     <tag k="wikipedia:sc" v="Tonara"/>
-  </node>
-  <node id="72992914" lat="39.8105520" lon="9.4990450" version="42" timestamp="2023-11-10T22:23:55Z" changeset="143881488" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7391"/>
-    <tag k="name" v="Ulassa/Ulassai"/>
-    <tag k="name:it" v="Ulassai"/>
-    <tag k="name:sc" v="Ulassa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1613"/>
-    <tag k="postal_code" v="08040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.ulassai.og.it/index.asp"/>
-    <tag k="wikidata" v="Q340613"/>
-    <tag k="wikipedia" v="it:Ulassai"/>
   </node>
   <node id="72992920" lat="39.8108270" lon="9.3947865" version="43" timestamp="2023-11-07T13:35:17Z" changeset="143737639" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7393"/>

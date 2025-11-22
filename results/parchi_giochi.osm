@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-21T03:11:26Z" areas="2025-11-20T22:55:17Z"/>
+<meta osm_base="2025-11-22T03:03:27Z" areas="2025-11-21T22:46:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1070,13 +1070,6 @@
     <tag k="population" v="1800"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508499" lat="45.4771995" lon="10.2407451" version="4" timestamp="2021-05-05T19:59:39Z" changeset="104205719" uid="465052" user="hecktor">
-    <tag k="gfoss_id" v="2191"/>
-    <tag k="name" v="Borgosatollo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7972"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62508537" lat="45.8645299" lon="10.1836526" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2249"/>
     <tag k="name" v="Gianico"/>
@@ -1588,14 +1581,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="425"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62511105" lat="45.8239770" lon="8.9152340" version="3" timestamp="2024-09-09T10:39:42Z" changeset="156388052" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="1628"/>
-    <tag k="name" v="Rodero"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1073"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30029521"/>
   </node>
   <node id="62511109" lat="45.2939854" lon="9.9867101" version="2" timestamp="2020-11-28T06:20:47Z" changeset="94928961" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="2573"/>
@@ -7721,11 +7706,12 @@
     <tag k="population" v="6964"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503065" lat="46.3088622" lon="12.7884970" version="8" timestamp="2025-07-10T13:51:38Z" changeset="168744768" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503065" lat="46.3088622" lon="12.7884970" version="9" timestamp="2025-11-21T17:24:21Z" changeset="174958619" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7550"/>
     <tag k="loc_name:fur" v="Vildisora"/>
     <tag k="name" v="Tramonti di Sopra / Tramonç Disore - Vildisora"/>
     <tag k="name:fur" v="Tramonç Disore"/>
+    <tag k="name:it" v="Tramonti di Sopra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="409"/>
     <tag k="source" v="geodati.gfoss.it"/>
