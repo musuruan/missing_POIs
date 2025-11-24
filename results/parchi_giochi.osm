@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-23T03:26:14Z" areas="2025-11-22T22:32:58Z"/>
+<meta osm_base="2025-11-24T03:22:44Z" areas="2025-11-23T20:51:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -16154,14 +16154,6 @@
     <tag k="ref:LOCODE" v="ITLZA"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301646" lat="44.8100097" lon="10.8030993" version="4" timestamp="2020-09-16T09:22:14Z" changeset="90975139" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="3968"/>
-    <tag k="name" v="Rio Saliceto"/>
-    <tag k="name:egl" v="Ré Salsêr"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5258"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69301654" lat="44.6258624" lon="10.4222874" version="5" timestamp="2017-12-03T16:38:04Z" changeset="54302391" uid="7073950" user="Ziomio">
     <tag k="gfoss_id" v="3972"/>
     <tag k="name" v="San Polo d'Enza"/>
@@ -20762,23 +20754,6 @@
     <tag k="website" v="https://www.comune.osini.nu.it/"/>
     <tag k="wikidata" v="Q340603"/>
     <tag k="wikipedia" v="it:Osini"/>
-  </node>
-  <node id="72992256" lat="39.9613903" lon="9.5072721" version="43" timestamp="2017-03-01T21:24:55Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7394"/>
-    <tag k="is_in:country" v="Italy"/>
-    <tag k="is_in:district" v="Ogliastra"/>
-    <tag k="is_in:region" v="Sardegna"/>
-    <tag k="name" v="Biddamanna Istrisàili/Villagrande Strisaili"/>
-    <tag k="name:it" v="Villagrande Strisaili"/>
-    <tag k="name:sc" v="Biddamanna Istrisàili"/>
-    <tag k="name:uk" v="Віллагранде-Стризаїлі"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3697"/>
-    <tag k="postal_code" v="08049"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q340616"/>
-    <tag k="wikipedia" v="it:Villagrande Strisaili"/>
-    <tag k="wikipedia:sc" v="Biddamanna Istrisàili"/>
   </node>
   <node id="72992277" lat="40.0371271" lon="9.6405028" version="41" timestamp="2023-01-27T22:36:31Z" changeset="131791047" uid="3592415" user="Fabrizio Tatti">
     <tag k="alt_name" v="Triè"/>
