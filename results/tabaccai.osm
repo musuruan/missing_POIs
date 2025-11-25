@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-24T03:23:44Z" areas="2025-11-23T23:04:27Z"/>
+<meta osm_base="2025-11-25T03:14:19Z" areas="2025-11-24T20:34:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -21639,11 +21639,12 @@
     <tag k="wikidata" v="Q53228"/>
     <tag k="wikipedia" v="it:Bordano"/>
   </node>
-  <node id="66503196" lat="46.4170855" lon="12.7902735" version="12" timestamp="2025-07-10T15:25:56Z" changeset="168749165" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503196" lat="46.4170855" lon="12.7902735" version="13" timestamp="2025-11-24T20:39:28Z" changeset="175084299" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3674"/>
     <tag k="name" v="Ampezzo / Dimpeç"/>
     <tag k="name:de" v="Petsch"/>
     <tag k="name:fur" v="Dimpeç"/>
+    <tag k="name:it" v="Ampezzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1161"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -21711,10 +21712,11 @@
     <tag k="population" v="771"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503216" lat="46.3674902" lon="13.0399653" version="10" timestamp="2025-07-22T21:34:50Z" changeset="169314727" uid="684800" user="fabiotofy">
+  <node id="66503216" lat="46.3674902" lon="13.0399653" version="11" timestamp="2025-11-24T20:39:28Z" changeset="175084299" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3692"/>
     <tag k="name" v="Cavazzo Carnico"/>
     <tag k="name:fur" v="Cjavaç"/>
+    <tag k="name:it" v="Cavazzo Carnico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1140"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -21820,10 +21822,11 @@
     <tag k="population" v="2313"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503259" lat="46.3936842" lon="12.8662013" version="7" timestamp="2025-07-15T10:08:29Z" changeset="168956871" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503259" lat="46.3936842" lon="12.8662013" version="8" timestamp="2025-11-24T20:39:28Z" changeset="175084299" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3755"/>
     <tag k="name" v="Preone / Preon"/>
     <tag k="name:fur" v="Preon"/>
+    <tag k="name:it" v="Preone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="294"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -25846,7 +25849,7 @@
     <tag k="wikimedia_commons" v="Category:Corigliano Calabro"/>
     <tag k="wikipedia" v="it:Corigliano Calabro"/>
   </node>
-  <node id="67274517" lat="39.8364040" lon="16.2619870" version="4" timestamp="2024-07-04T13:44:37Z" changeset="153549047" uid="3860151" user="Michele Aquilani">
+  <node id="67274517" lat="39.8351517" lon="16.2620406" version="5" timestamp="2025-11-24T18:52:03Z" changeset="175080710" uid="8215303" user="ross-map">
     <tag k="gfoss_id" v="6542"/>
     <tag k="name" v="Frascineto"/>
     <tag k="name:aae" v="Frasnita"/>
@@ -27666,16 +27669,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1923"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280806" lat="40.5439140" lon="15.6382650" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6437"/>
-    <tag k="name" v="Satriano di Lucania"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2353"/>
-    <tag k="postal_code" v="85050"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q52673"/>
-    <tag k="wikipedia" v="it:Satriano di Lucania"/>
   </node>
   <node id="67280822" lat="40.5698130" lon="15.5525620" version="3" timestamp="2020-09-26T13:28:42Z" changeset="91551745" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="6438"/>
@@ -44852,12 +44845,13 @@
     <tag k="population" v="190"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="863048876" lat="46.2339962" lon="12.9592053" version="4" timestamp="2019-05-16T23:55:12Z" changeset="70338353" uid="97922" user="damjang">
+  <node id="863048876" lat="46.2339962" lon="12.9592053" version="5" timestamp="2025-11-24T11:31:55Z" changeset="175062339" uid="129060" user="Klenje">
     <tag k="ele" v="320"/>
     <tag k="gfoss_id" v="34764"/>
     <tag k="istat_id" v="2147483647"/>
     <tag k="name" v="Anduins"/>
     <tag k="name:fur" v="Anduins"/>
+    <tag k="name:it" v="Anduins"/>
     <tag k="place" v="village"/>
     <tag k="population" v="229"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
@@ -45874,10 +45868,11 @@
     <tag k="population" v="358"/>
     <tag k="wikidata" v="Q18481264"/>
   </node>
-  <node id="1831456395" lat="46.4035784" lon="12.8230913" version="12" timestamp="2025-07-15T12:12:09Z" changeset="168962386" uid="14202171" user="Alessandro Ambrosino">
+  <node id="1831456395" lat="46.4035784" lon="12.8230913" version="13" timestamp="2025-11-24T20:39:28Z" changeset="175084299" uid="129060" user="Klenje">
     <tag k="loc_name:fur" v="Midias"/>
     <tag k="name" v="Mediis / Midiis - Midias"/>
     <tag k="name:fur" v="Midiis"/>
+    <tag k="name:it" v="Mediis"/>
     <tag k="place" v="village"/>
     <tag k="population" v="149"/>
     <tag k="wikidata" v="Q3853796"/>

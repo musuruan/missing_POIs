@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-24T03:22:44Z" areas="2025-11-23T20:51:29Z"/>
+<meta osm_base="2025-11-25T03:13:14Z" areas="2025-11-24T20:34:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -290,13 +290,6 @@
     <tag k="population" v="17525"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q102555"/>
-  </node>
-  <node id="61753696" lat="43.9336995" lon="10.7692761" version="3" timestamp="2016-09-13T21:24:54Z" changeset="42136022" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4465"/>
-    <tag k="name" v="Marliana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2917"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753712" lat="43.2611122" lon="11.0418861" version="9" timestamp="2023-09-02T18:43:12Z" changeset="140732020" uid="17965418" user="DabMK">
     <tag k="ele" v="509"/>
@@ -7847,10 +7840,11 @@
     <tag k="population" v="2825"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503259" lat="46.3936842" lon="12.8662013" version="7" timestamp="2025-07-15T10:08:29Z" changeset="168956871" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503259" lat="46.3936842" lon="12.8662013" version="8" timestamp="2025-11-24T20:39:28Z" changeset="175084299" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3755"/>
     <tag k="name" v="Preone / Preon"/>
     <tag k="name:fur" v="Preon"/>
+    <tag k="name:it" v="Preone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="294"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -10369,7 +10363,7 @@
     <tag k="population" v="1125"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274517" lat="39.8364040" lon="16.2619870" version="4" timestamp="2024-07-04T13:44:37Z" changeset="153549047" uid="3860151" user="Michele Aquilani">
+  <node id="67274517" lat="39.8351517" lon="16.2620406" version="5" timestamp="2025-11-24T18:52:03Z" changeset="175080710" uid="8215303" user="ross-map">
     <tag k="gfoss_id" v="6542"/>
     <tag k="name" v="Frascineto"/>
     <tag k="name:aae" v="Frasnita"/>

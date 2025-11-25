@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-24T03:16:33Z" areas="2025-11-23T20:51:29Z"/>
+<meta osm_base="2025-11-25T03:08:15Z" areas="2025-11-24T20:34:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9136,7 +9136,7 @@
     <tag k="population" v="2446"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274517" lat="39.8364040" lon="16.2619870" version="4" timestamp="2024-07-04T13:44:37Z" changeset="153549047" uid="3860151" user="Michele Aquilani">
+  <node id="67274517" lat="39.8351517" lon="16.2620406" version="5" timestamp="2025-11-24T18:52:03Z" changeset="175080710" uid="8215303" user="ross-map">
     <tag k="gfoss_id" v="6542"/>
     <tag k="name" v="Frascineto"/>
     <tag k="name:aae" v="Frasnita"/>
@@ -10117,16 +10117,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2147"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67280806" lat="40.5439140" lon="15.6382650" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6437"/>
-    <tag k="name" v="Satriano di Lucania"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2353"/>
-    <tag k="postal_code" v="85050"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q52673"/>
-    <tag k="wikipedia" v="it:Satriano di Lucania"/>
   </node>
   <node id="67280847" lat="40.7178788" lon="15.6790066" version="4" timestamp="2021-10-21T20:52:02Z" changeset="112810620" uid="3306614" user="gurciln">
     <tag k="gfoss_id" v="6425"/>
@@ -18905,10 +18895,11 @@
     <tag k="wikipedia" v="it:Belvì"/>
     <tag k="wikipedia:sc" v="Brebì"/>
   </node>
-  <node id="1831456395" lat="46.4035784" lon="12.8230913" version="12" timestamp="2025-07-15T12:12:09Z" changeset="168962386" uid="14202171" user="Alessandro Ambrosino">
+  <node id="1831456395" lat="46.4035784" lon="12.8230913" version="13" timestamp="2025-11-24T20:39:28Z" changeset="175084299" uid="129060" user="Klenje">
     <tag k="loc_name:fur" v="Midias"/>
     <tag k="name" v="Mediis / Midiis - Midias"/>
     <tag k="name:fur" v="Midiis"/>
+    <tag k="name:it" v="Mediis"/>
     <tag k="place" v="village"/>
     <tag k="population" v="149"/>
     <tag k="wikidata" v="Q3853796"/>

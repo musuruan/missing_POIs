@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-24T03:25:42Z" areas="2025-11-23T20:51:29Z"/>
+<meta osm_base="2025-11-25T03:15:25Z" areas="2025-11-24T20:34:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1271,13 +1271,6 @@
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026836"/>
-  </node>
-  <node id="62508003" lat="45.9506025" lon="10.2733393" version="4" timestamp="2019-10-20T21:09:33Z" changeset="75965033" uid="350864" user="demon_box">
-    <tag k="gfoss_id" v="2270"/>
-    <tag k="name" v="Malegno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2111"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508017" lat="46.0790576" lon="10.2925497" version="5" timestamp="2023-01-11T21:35:51Z" changeset="131162920" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2301"/>
@@ -10577,10 +10570,11 @@
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503259" lat="46.3936842" lon="12.8662013" version="7" timestamp="2025-07-15T10:08:29Z" changeset="168956871" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503259" lat="46.3936842" lon="12.8662013" version="8" timestamp="2025-11-24T20:39:28Z" changeset="175084299" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3755"/>
     <tag k="name" v="Preone / Preon"/>
     <tag k="name:fur" v="Preon"/>
+    <tag k="name:it" v="Preone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="294"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -12750,7 +12744,7 @@
     <tag k="population" v="2446"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274517" lat="39.8364040" lon="16.2619870" version="4" timestamp="2024-07-04T13:44:37Z" changeset="153549047" uid="3860151" user="Michele Aquilani">
+  <node id="67274517" lat="39.8351517" lon="16.2620406" version="5" timestamp="2025-11-24T18:52:03Z" changeset="175080710" uid="8215303" user="ross-map">
     <tag k="gfoss_id" v="6542"/>
     <tag k="name" v="Frascineto"/>
     <tag k="name:aae" v="Frasnita"/>
@@ -25789,8 +25783,9 @@
     <tag k="name" v="Le Plan-de-Clavel (chef-lieu)"/>
     <tag k="place" v="hamlet"/>
   </node>
-  <node id="4767655852" lat="45.9582015" lon="8.8714121" version="5" timestamp="2024-04-04T13:19:33Z" changeset="149570216" uid="9616185" user="LukeDH">
+  <node id="4767655852" lat="45.9582015" lon="8.8714121" version="6" timestamp="2025-11-24T12:40:11Z" changeset="175064978" uid="67550" user="Aiman">
     <tag k="name" v="Lavena"/>
+    <tag k="name:pronunciation" v="lavˈɛna"/>
     <tag k="place" v="village"/>
     <tag k="postal_code" v="21037"/>
     <tag k="wikidata" v="Q30026543"/>
