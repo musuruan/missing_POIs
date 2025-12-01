@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-11-30T03:26:02Z" areas="2025-11-29T22:26:14Z"/>
+<meta osm_base="2025-12-01T04:03:02Z" areas="2025-12-01T02:44:38Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -21888,10 +21888,11 @@
     <tag k="population" v="7305"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503294" lat="45.9434149" lon="13.3406411" version="5" timestamp="2025-07-15T13:27:47Z" changeset="168965667" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503294" lat="45.9434149" lon="13.3406411" version="6" timestamp="2025-11-30T15:55:56Z" changeset="175320032" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3799"/>
     <tag k="name" v="Trivignano Udinese / Trivignan"/>
     <tag k="name:fur" v="Trivignan"/>
+    <tag k="name:it" v="Trivignano Udinese"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1706"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -31647,15 +31648,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1837"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68579572" lat="41.0639234" lon="14.6397875" version="5" timestamp="2022-04-26T17:43:01Z" changeset="120223350" uid="10622815" user="Italian Technology">
-    <tag k="gfoss_id" v="5303"/>
-    <tag k="name" v="Montesarchio"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13500"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q55925"/>
-    <tag k="wikipedia" v="it:Montesarchio"/>
   </node>
   <node id="68579574" lat="41.0795121" lon="14.5429198" version="11" timestamp="2022-04-26T17:10:00Z" changeset="120221714" uid="10622815" user="Italian Technology">
     <tag k="gfoss_id" v="5300"/>
@@ -41582,19 +41574,6 @@
     <tag k="wikidata" v="Q295383"/>
     <tag k="wikipedia" v="it:Onifai"/>
     <tag k="wikipedia:sc" v="Oniài"/>
-  </node>
-  <node id="72992019" lat="39.9517192" lon="9.6619603" version="45" timestamp="2023-11-08T03:04:22Z" changeset="143760926" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7327"/>
-    <tag k="name" v="Gelisuli/Girasole"/>
-    <tag k="name:it" v="Girasole"/>
-    <tag k="name:sc" v="Gelisuli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="946"/>
-    <tag k="postal_code" v="08040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.girasole.og.it/index.asp"/>
-    <tag k="wikidata" v="Q339943"/>
-    <tag k="wikipedia" v="it:Girasole (Italia)"/>
   </node>
   <node id="72992044" lat="40.2647520" lon="8.5227190" version="44" timestamp="2023-11-10T07:52:08Z" changeset="143851255" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7341"/>
