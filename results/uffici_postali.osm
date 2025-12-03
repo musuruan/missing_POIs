@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-02T03:11:59Z" areas="2025-12-01T17:58:00Z"/>
+<meta osm_base="2025-12-03T03:09:56Z" areas="2025-12-02T23:17:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8167,10 +8167,11 @@
     <tag k="population" v="2284"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503521" lat="46.4617955" lon="13.0260402" version="8" timestamp="2025-07-15T13:59:51Z" changeset="168967128" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503521" lat="46.4617955" lon="13.0260402" version="9" timestamp="2025-12-02T20:54:12Z" changeset="175419666" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3807"/>
     <tag k="name" v="Zuglio / Zui"/>
     <tag k="name:fur" v="Zui"/>
+    <tag k="name:it" v="Zuglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="642"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -14440,13 +14441,6 @@
     <tag k="name" v="Carpegna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1605"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70981688" lat="43.8739600" lon="12.3111440" version="3" timestamp="2016-09-16T15:55:09Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4184"/>
-    <tag k="name" v="Maiolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="809"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70981767" lat="43.7791620" lon="12.7333550" version="3" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
