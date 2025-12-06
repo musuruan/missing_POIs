@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-05T03:22:59Z" areas="2025-12-04T16:28:51Z"/>
+<meta osm_base="2025-12-06T03:10:01Z" areas="2025-12-05T20:31:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -11902,14 +11902,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18055"/>
   </node>
-  <node id="63625147" lat="45.4077339" lon="8.0934286" version="5" timestamp="2023-01-17T20:04:12Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="7703"/>
-    <tag k="name" v="Cavaglià"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3666"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18048"/>
-  </node>
   <node id="63625154" lat="45.6405650" lon="8.1141200" version="4" timestamp="2023-01-17T19:54:41Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="7760"/>
     <tag k="name" v="Veglio"/>
@@ -12298,14 +12290,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1334"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63625665" lat="45.4255535" lon="8.0512147" version="7" timestamp="2023-01-17T20:06:41Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="7765"/>
-    <tag k="name" v="Viverone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1417"/>
-    <tag k="wikidata" v="Q18194"/>
-    <tag k="wikipedia" v="it:Viverone"/>
   </node>
   <node id="63625676" lat="45.6205660" lon="8.2796240" version="4" timestamp="2023-01-17T19:51:58Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="7763"/>
@@ -16390,15 +16374,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="276"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63631867" lat="45.2359501" lon="8.3698748" version="7" timestamp="2023-01-17T19:55:14Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="342"/>
-    <tag k="name" v="Costanzana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="873"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30025229"/>
   </node>
   <node id="63631890" lat="45.3306590" lon="8.2108280" version="7" timestamp="2023-01-17T19:57:02Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="capital" v="8"/>
@@ -21859,10 +21834,11 @@
     <tag k="population" v="641"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503274" lat="46.3930860" lon="13.2185780" version="9" timestamp="2025-06-30T13:11:22Z" changeset="168309267" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503274" lat="46.3930860" lon="13.2185780" version="10" timestamp="2025-12-05T11:57:35Z" changeset="175544646" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3764"/>
     <tag k="name" v="Resiutta / Resiute"/>
     <tag k="name:fur" v="Resiute"/>
+    <tag k="name:it" v="Resiutta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="354"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -28207,9 +28183,8 @@
     <tag k="population" v="1600"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283935" lat="41.9150353" lon="15.0091974" version="4" timestamp="2023-01-08T22:16:49Z" changeset="131032248" uid="12638075" user="elucci">
+  <node id="67283935" lat="41.9150353" lon="15.0091974" version="5" timestamp="2025-12-06T01:55:48Z" changeset="175570154" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="6067"/>
-    <tag k="is_in" v="Campobasso, Molise, Italy"/>
     <tag k="name" v="Portocannone"/>
     <tag k="name:aae" v="Portkanuni"/>
     <tag k="place" v="village"/>
