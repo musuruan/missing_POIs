@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-07T03:23:32Z" areas="2025-12-07T01:29:39Z"/>
+<meta osm_base="2025-12-08T03:17:59Z" areas="2025-12-08T00:22:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6736,11 +6736,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72619"/>
   </node>
-  <node id="68581046" lat="40.8031110" lon="14.5390370" version="4" timestamp="2016-10-27T18:48:39Z" changeset="43225543" uid="2748195" user="karitotp">
+  <node id="68581046" lat="40.8031110" lon="14.5390370" version="5" timestamp="2025-12-07T23:56:12Z" changeset="175643902" uid="16429077" user="Grazing6603">
     <tag k="gfoss_id" v="5393"/>
     <tag k="name" v="Poggiomarino"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="21976"/>
+    <tag k="population" v="22216"/>
+    <tag k="population:date" v="2023-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72356"/>
   </node>
@@ -9915,22 +9916,6 @@
     <tag k="wikipedia" v="it:Cargeghe"/>
     <tag k="wikipedia:sc" v="Carzeghe"/>
   </node>
-  <node id="72994342" lat="40.3914590" lon="9.0085270" version="40" timestamp="2023-10-30T08:25:22Z" changeset="143351187" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Botidda"/>
-    <tag k="gfoss_id" v="7223"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Bottidda"/>
-    <tag k="name:it" v="Bottidda"/>
-    <tag k="name:sc" v="Bottidda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="804"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.bottidda.ss.it/"/>
-    <tag k="wikidata" v="Q390601"/>
-    <tag k="wikipedia" v="it:Bottidda"/>
-    <tag k="wikipedia:sc" v="Bottidda"/>
-  </node>
   <node id="72994361" lat="40.5729271" lon="8.6973713" version="43" timestamp="2024-12-26T17:03:31Z" changeset="160646251" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="7214"/>
     <tag k="name" v="Bànari/Banari"/>
@@ -10180,12 +10165,6 @@
     <tag k="wikidata" v="Q340916"/>
     <tag k="wikipedia" v="it:Luras"/>
     <tag k="wikipedia:sc" v="Luras"/>
-  </node>
-  <node id="347086999" lat="45.4492356" lon="11.9011320" version="7" timestamp="2020-10-03T14:07:37Z" changeset="91903740" uid="9517742" user="xDeamon">
-    <tag k="name" v="Mejaniga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="11434"/>
-    <tag k="source" v="ISTAT Censimento 2011"/>
   </node>
   <node id="347123635" lat="45.1927143" lon="12.0399128" version="4" timestamp="2025-05-16T14:10:03Z" changeset="166353501" uid="14316347" user="Gicorada">
     <tag k="name" v="Pegolotte"/>

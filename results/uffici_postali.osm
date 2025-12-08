@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-07T03:20:25Z" areas="2025-12-06T22:04:56Z"/>
+<meta osm_base="2025-12-08T03:14:00Z" areas="2025-12-07T21:04:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3920,11 +3920,12 @@
     <tag k="population" v="449"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621785" lat="44.8119711" lon="9.0477233" version="7" timestamp="2024-11-11T20:32:22Z" changeset="159025375" uid="13986573" user="dombul">
+  <node id="63621785" lat="44.8119711" lon="9.0477233" version="8" timestamp="2025-12-08T00:09:01Z" changeset="175644133" uid="16429077" user="Grazing6603">
     <tag k="gfoss_id" v="881"/>
     <tag k="name" v="Brignano-Frascata"/>
     <tag k="place" v="village"/>
     <tag k="population" v="423"/>
+    <tag k="population:date" v="2023-01-01"/>
     <tag k="wikidata" v="Q17290"/>
   </node>
   <node id="63621838" lat="45.0718357" lon="8.2094622" version="6" timestamp="2025-07-31T22:07:50Z" changeset="169792359" uid="4365159" user="wildmaps">
@@ -5933,13 +5934,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="23000"/>
     <tag k="wikidata" v="Q9187"/>
-  </node>
-  <node id="63629226" lat="45.1592510" lon="7.8894250" version="5" timestamp="2023-01-17T19:58:52Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="64"/>
-    <tag k="name" v="Castagneto Po"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1425"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63629237" lat="45.1774901" lon="7.6463671" version="7" timestamp="2023-10-15T15:56:45Z" changeset="142624395" uid="417672" user="Guidus">
     <tag k="gfoss_id" v="63"/>
@@ -17773,20 +17767,6 @@
     <tag k="wikipedia" v="it:Valledoria"/>
     <tag k="wikipedia:sc" v="Codaruina"/>
   </node>
-  <node id="72994224" lat="40.4417600" lon="9.0574270" version="41" timestamp="2023-11-04T06:05:32Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7211"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Anela"/>
-    <tag k="name:it" v="Anela"/>
-    <tag k="name:sc" v="Anela"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="817"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.anela.ss.it/index.asp"/>
-    <tag k="wikidata" v="Q390108"/>
-    <tag k="wikipedia" v="it:Anela"/>
-  </node>
   <node id="72994245" lat="40.4564610" lon="9.1688290" version="40" timestamp="2023-10-30T16:12:09Z" changeset="143374504" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7215"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
@@ -17886,20 +17866,6 @@
     <tag k="wikipedia" v="it:Calangianus"/>
     <tag k="wikipedia:sc" v="Calanzanos"/>
   </node>
-  <node id="72994330" lat="40.3899781" lon="8.9953354" version="42" timestamp="2017-08-29T17:32:07Z" changeset="51551483" uid="1240942" user="dan980">
-    <tag k="gfoss_id" v="7227"/>
-    <tag k="name" v="Su Burgu/Burgos"/>
-    <tag k="name:it" v="Burgos"/>
-    <tag k="name:sc" v="Su Burgu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1068"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comuneburgos.gov.it/index.asp"/>
-    <tag k="wikidata" v="Q390624"/>
-    <tag k="wikipedia" v="it:Burgos (Italia)"/>
-    <tag k="wikipedia:sc" v="Su Burgu"/>
-  </node>
   <node id="72994336" lat="40.4562109" lon="9.0644445" version="42" timestamp="2023-11-04T06:05:39Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Burtei"/>
     <tag k="gfoss_id" v="7225"/>
@@ -17914,22 +17880,6 @@
     <tag k="wikidata" v="Q390609"/>
     <tag k="wikipedia" v="it:Bultei"/>
     <tag k="wikipedia:sc" v="Urtei"/>
-  </node>
-  <node id="72994342" lat="40.3914590" lon="9.0085270" version="40" timestamp="2023-10-30T08:25:22Z" changeset="143351187" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Botidda"/>
-    <tag k="gfoss_id" v="7223"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Bottidda"/>
-    <tag k="name:it" v="Bottidda"/>
-    <tag k="name:sc" v="Bottidda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="804"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.bottidda.ss.it/"/>
-    <tag k="wikidata" v="Q390601"/>
-    <tag k="wikipedia" v="it:Bottidda"/>
-    <tag k="wikipedia:sc" v="Bottidda"/>
   </node>
   <node id="72994346" lat="40.5223590" lon="8.7435190" version="41" timestamp="2020-06-17T16:55:33Z" changeset="86784614" uid="9333964" user="Su_fronte">
     <tag k="gfoss_id" v="7222"/>
@@ -17987,22 +17937,6 @@
     <tag k="wikidata" v="Q390854"/>
     <tag k="wikipedia" v="it:Ittireddu"/>
     <tag k="wikipedia:sc" v="Itireddu"/>
-  </node>
-  <node id="72994380" lat="40.3538580" lon="9.0010270" version="40" timestamp="2023-10-30T08:25:35Z" changeset="143351201" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Illurai"/>
-    <tag k="gfoss_id" v="7238"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Illorai"/>
-    <tag k="name:it" v="Illorai"/>
-    <tag k="name:sc" v="Illorai"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1121"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.illorai.ss.it/"/>
-    <tag k="wikidata" v="Q390845"/>
-    <tag k="wikipedia" v="it:Illorai"/>
-    <tag k="wikipedia:sc" v="Illorai"/>
   </node>
   <node id="72994419" lat="40.5764803" lon="8.7272730" version="42" timestamp="2019-03-23T16:11:57Z" changeset="68448441" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7275"/>

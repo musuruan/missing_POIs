@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-07T03:25:38Z" areas="2025-12-06T22:04:56Z"/>
+<meta osm_base="2025-12-08T03:19:06Z" areas="2025-12-08T00:22:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3474,11 +3474,12 @@
     <tag k="population" v="449"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63621785" lat="44.8119711" lon="9.0477233" version="7" timestamp="2024-11-11T20:32:22Z" changeset="159025375" uid="13986573" user="dombul">
+  <node id="63621785" lat="44.8119711" lon="9.0477233" version="8" timestamp="2025-12-08T00:09:01Z" changeset="175644133" uid="16429077" user="Grazing6603">
     <tag k="gfoss_id" v="881"/>
     <tag k="name" v="Brignano-Frascata"/>
     <tag k="place" v="village"/>
     <tag k="population" v="423"/>
+    <tag k="population:date" v="2023-01-01"/>
     <tag k="wikidata" v="Q17290"/>
   </node>
   <node id="63621794" lat="45.0744544" lon="8.2405639" version="5" timestamp="2023-01-17T20:05:53Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -13256,13 +13257,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q52029"/>
   </node>
-  <node id="68529997" lat="40.3499423" lon="17.7273737" version="6" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6209"/>
-    <tag k="name" v="Avetrana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7303"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68530042" lat="40.4997254" lon="17.3810068" version="3" timestamp="2016-08-27T16:24:10Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6224"/>
     <tag k="name" v="Monteiasi"/>
@@ -14919,11 +14913,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72619"/>
   </node>
-  <node id="68581046" lat="40.8031110" lon="14.5390370" version="4" timestamp="2016-10-27T18:48:39Z" changeset="43225543" uid="2748195" user="karitotp">
+  <node id="68581046" lat="40.8031110" lon="14.5390370" version="5" timestamp="2025-12-07T23:56:12Z" changeset="175643902" uid="16429077" user="Grazing6603">
     <tag k="gfoss_id" v="5393"/>
     <tag k="name" v="Poggiomarino"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="21976"/>
+    <tag k="population" v="22216"/>
+    <tag k="population:date" v="2023-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q72356"/>
   </node>
