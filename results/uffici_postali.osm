@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-08T03:14:00Z" areas="2025-12-07T21:04:43Z"/>
+<meta osm_base="2025-12-09T03:11:25Z" areas="2025-12-09T00:03:06Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2725,13 +2725,13 @@
     <tag k="wikidata" v="Q3948963"/>
     <tag k="wikipedia" v="it:Santa Cristina (Santa Cristina e Bissone)"/>
   </node>
-  <node id="62514642" lat="44.9712680" lon="9.2855415" version="6" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62514642" lat="44.9712680" lon="9.2855415" version="7" timestamp="2025-12-08T15:07:58Z" changeset="175671888" uid="34088" user="CVI">
     <tag k="gfoss_id" v="2472"/>
     <tag k="name" v="Montecalvo Versiggia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="555"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q39915"/>
+    <tag k="wikidata" v="Q30027789"/>
     <tag k="wikipedia" v="it:Montecalvo Versiggia"/>
   </node>
   <node id="62514649" lat="45.0009590" lon="9.1034540" version="3" timestamp="2023-02-27T21:40:26Z" changeset="133105017" uid="43207" user="kdkeller">
@@ -3045,7 +3045,7 @@
     <tag k="population" v="963"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515478" lat="45.0948626" lon="9.0312537" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515478" lat="45.0948626" lon="9.0312537" version="5" timestamp="2025-12-08T14:17:34Z" changeset="175669863" uid="34088" user="CVI">
     <tag k="ele" v="68"/>
     <tag k="gfoss_id" v="2467"/>
     <tag k="name" v="Mezzana Rabattone"/>
@@ -3054,6 +3054,7 @@
     <tag k="postal_code" v="27030"/>
     <tag k="ref:ISTAT" v="018091"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027496"/>
   </node>
   <node id="62515487" lat="45.1609808" lon="9.2709102" version="6" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="ele" v="76"/>
@@ -17767,21 +17768,6 @@
     <tag k="wikipedia" v="it:Valledoria"/>
     <tag k="wikipedia:sc" v="Codaruina"/>
   </node>
-  <node id="72994245" lat="40.4564610" lon="9.1688290" version="40" timestamp="2023-10-30T16:12:09Z" changeset="143374504" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7215"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Benetutti"/>
-    <tag k="name:it" v="Benetutti"/>
-    <tag k="name:sc" v="Benetutti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2181"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.benetutti.ss.it/"/>
-    <tag k="wikidata" v="Q390187"/>
-    <tag k="wikipedia" v="it:Benetutti"/>
-    <tag k="wikipedia:sc" v="Benetutti"/>
-  </node>
   <node id="72994262" lat="40.5538520" lon="8.7299524" version="43" timestamp="2024-12-26T17:03:31Z" changeset="160646251" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="7217"/>
     <tag k="name" v="Bessude"/>
@@ -17865,21 +17851,6 @@
     <tag k="wikidata" v="Q340721"/>
     <tag k="wikipedia" v="it:Calangianus"/>
     <tag k="wikipedia:sc" v="Calanzanos"/>
-  </node>
-  <node id="72994336" lat="40.4562109" lon="9.0644445" version="42" timestamp="2023-11-04T06:05:39Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Burtei"/>
-    <tag k="gfoss_id" v="7225"/>
-    <tag k="name" v="Urtei/Bultei"/>
-    <tag k="name:it" v="Bultei"/>
-    <tag k="name:sc" v="Urtei"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1206"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.bultei.ss.it/"/>
-    <tag k="wikidata" v="Q390609"/>
-    <tag k="wikipedia" v="it:Bultei"/>
-    <tag k="wikipedia:sc" v="Urtei"/>
   </node>
   <node id="72994346" lat="40.5223590" lon="8.7435190" version="41" timestamp="2020-06-17T16:55:33Z" changeset="86784614" uid="9333964" user="Su_fronte">
     <tag k="gfoss_id" v="7222"/>
@@ -18524,7 +18495,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3766"/>
   </node>
-  <node id="1412962093" lat="45.0419243" lon="10.9282948" version="7" timestamp="2017-08-05T14:23:40Z" changeset="50864217" uid="504502" user="kkklllppp">
+  <node id="1412962093" lat="45.0417651" lon="10.9271683" version="8" timestamp="2025-12-08T08:58:36Z" changeset="175654718" uid="564585" user="wegavision">
     <tag k="name" v="San Benedetto Po"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7791"/>
@@ -18818,15 +18789,17 @@
     <tag k="place" v="village"/>
     <tag k="population" v="799"/>
   </node>
-  <node id="2515652152" lat="46.0583563" lon="11.7876309" version="3" timestamp="2016-10-13T15:57:13Z" changeset="42872569" uid="743479" user="fayor">
+  <node id="2515652152" lat="46.0583563" lon="11.7876309" version="4" timestamp="2025-12-08T12:54:04Z" changeset="175666159" uid="21748492" user="Yurii Skvortsov">
     <tag k="name" v="Servo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="219"/>
+    <tag k="wikidata" v="Q18497003"/>
   </node>
-  <node id="2649514075" lat="45.1374750" lon="8.7292673" version="2" timestamp="2014-02-02T10:54:38Z" changeset="20331432" uid="579545" user="Aury88">
+  <node id="2649514075" lat="45.1374750" lon="8.7292673" version="3" timestamp="2025-12-08T13:12:45Z" changeset="175667086" uid="34088" user="CVI">
     <tag k="name" v="Semiana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="251"/>
+    <tag k="wikidata" v="Q30030574"/>
   </node>
   <node id="2649537513" lat="45.7306737" lon="9.6079944" version="3" timestamp="2021-01-14T12:31:57Z" changeset="97495586" uid="616481" user="gigi2037">
     <tag k="name" v="Paladina"/>

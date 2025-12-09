@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-08T03:14:59Z" areas="2025-12-08T00:22:58Z"/>
+<meta osm_base="2025-12-09T03:13:27Z" areas="2025-12-09T00:03:06Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -460,6 +460,14 @@
     <tag k="ref:ISTAT" v="018031"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023973"/>
+  </node>
+  <node id="62515528" lat="45.2826019" lon="8.7508446" version="4" timestamp="2025-12-08T17:40:57Z" changeset="175679177" uid="34088" user="CVI">
+    <tag k="gfoss_id" v="2485"/>
+    <tag k="name" v="Parona"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1698"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028619"/>
   </node>
   <node id="62515728" lat="45.1085640" lon="9.3617580" version="4" timestamp="2024-09-09T17:59:10Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2521"/>
@@ -2186,15 +2194,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54632"/>
     <tag k="wikipedia" v="it:Palizzi"/>
-  </node>
-  <node id="67275512" lat="37.9827660" lon="15.7579970" version="4" timestamp="2024-07-22T14:45:23Z" changeset="154266885" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6773"/>
-    <tag k="name" v="Montebello Jonico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6922"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54629"/>
-    <tag k="wikipedia" v="it:Montebello Jonico"/>
   </node>
   <node id="67275518" lat="38.3539760" lon="16.2883040" version="2" timestamp="2016-08-28T18:58:30Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6767"/>

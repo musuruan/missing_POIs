@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-08T03:19:06Z" areas="2025-12-08T00:22:58Z"/>
+<meta osm_base="2025-12-09T03:17:30Z" areas="2025-12-08T21:23:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2774,21 +2774,22 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026840"/>
   </node>
-  <node id="62515260" lat="45.0974469" lon="8.7361760" version="5" timestamp="2025-06-23T14:48:13Z" changeset="168007564" uid="22632809" user="KeyTV">
+  <node id="62515260" lat="45.0974469" lon="8.7361760" version="6" timestamp="2025-12-08T13:50:31Z" changeset="175668662" uid="34088" user="CVI">
     <tag k="alt_name" v="Mede Lomellina"/>
     <tag k="capital" v="8"/>
     <tag k="name" v="Mede"/>
     <tag k="name:ru" v="Меде"/>
     <tag k="place" v="town"/>
     <tag k="population" v="6000"/>
-    <tag k="wikidata" v="Q41045"/>
+    <tag k="wikidata" v="Q30027396"/>
   </node>
-  <node id="62515284" lat="45.3119680" lon="9.2600520" version="2" timestamp="2021-08-12T15:22:37Z" changeset="109580649" uid="11220113" user="ivanbranco">
+  <node id="62515284" lat="45.3119680" lon="9.2600520" version="3" timestamp="2025-12-08T10:23:14Z" changeset="175658899" uid="34088" user="CVI">
     <tag k="gfoss_id" v="2454"/>
     <tag k="name" v="Landriano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4171"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026490"/>
   </node>
   <node id="62515292" lat="45.1771055" lon="8.9918812" version="13" timestamp="2023-10-15T12:03:22Z" changeset="142614644" uid="20456925" user="pavia212">
     <tag k="name" v="Gropello Cairoli"/>
@@ -2859,7 +2860,7 @@
     <tag k="place" v="town"/>
     <tag k="population" v="5820"/>
   </node>
-  <node id="62515478" lat="45.0948626" lon="9.0312537" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515478" lat="45.0948626" lon="9.0312537" version="5" timestamp="2025-12-08T14:17:34Z" changeset="175669863" uid="34088" user="CVI">
     <tag k="ele" v="68"/>
     <tag k="gfoss_id" v="2467"/>
     <tag k="name" v="Mezzana Rabattone"/>
@@ -2868,6 +2869,7 @@
     <tag k="postal_code" v="27030"/>
     <tag k="ref:ISTAT" v="018091"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027496"/>
   </node>
   <node id="62515491" lat="44.9939820" lon="9.2555680" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2458"/>
@@ -2931,12 +2933,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022659"/>
   </node>
-  <node id="62515652" lat="45.0374456" lon="9.2039179" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515652" lat="45.0374456" lon="9.2039179" version="4" timestamp="2025-12-08T23:19:23Z" changeset="175690507" uid="34088" user="CVI">
     <tag k="gfoss_id" v="2496"/>
     <tag k="name" v="Redavalle"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1008"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029302"/>
   </node>
   <node id="62515730" lat="45.1249845" lon="8.9096530" version="7" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2523"/>
@@ -7704,12 +7707,13 @@
     <tag k="population" v="409"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503116" lat="46.4097027" lon="13.1951425" version="13" timestamp="2025-07-15T07:38:29Z" changeset="168949384" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503116" lat="46.4097027" lon="13.1951425" version="14" timestamp="2025-12-08T12:14:44Z" changeset="175664407" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3730"/>
     <tag k="loc_name:de" v="Mosach"/>
     <tag k="loc_name:sl" v="Možac"/>
     <tag k="name" v="Moggio Udinese / Mueç"/>
     <tag k="name:fur" v="Mueç"/>
+    <tag k="name:it" v="Moggio Udinese"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2095"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -23109,14 +23113,16 @@
     <tag k="wikidata" v="Q18054"/>
     <tag k="wikipedia" v="it:Coggiola"/>
   </node>
-  <node id="2646487229" lat="44.8961694" lon="9.0560925" version="1" timestamp="2014-02-01T00:36:38Z" changeset="20309960" uid="69717" user="kaitu">
+  <node id="2646487229" lat="44.8961694" lon="9.0560925" version="2" timestamp="2025-12-08T08:25:35Z" changeset="175653239" uid="34088" user="CVI">
     <tag k="name" v="Godiasco"/>
     <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q30026133"/>
   </node>
-  <node id="2649514075" lat="45.1374750" lon="8.7292673" version="2" timestamp="2014-02-02T10:54:38Z" changeset="20331432" uid="579545" user="Aury88">
+  <node id="2649514075" lat="45.1374750" lon="8.7292673" version="3" timestamp="2025-12-08T13:12:45Z" changeset="175667086" uid="34088" user="CVI">
     <tag k="name" v="Semiana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="251"/>
+    <tag k="wikidata" v="Q30030574"/>
   </node>
   <node id="2649519636" lat="45.1689375" lon="9.7635000" version="2" timestamp="2015-03-15T14:10:52Z" changeset="29496220" uid="602784" user="fedc">
     <tag k="name" v="Maleo"/>

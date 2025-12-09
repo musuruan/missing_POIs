@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-08T03:17:59Z" areas="2025-12-08T00:22:58Z"/>
+<meta osm_base="2025-12-09T03:15:30Z" areas="2025-12-08T21:23:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1122,7 +1122,7 @@
     <tag k="population" v="2378"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515342" lat="45.0598580" lon="8.8484470" version="3" timestamp="2020-08-02T15:59:23Z" changeset="88844097" uid="478872" user="mcheck">
+  <node id="62515342" lat="45.0598580" lon="8.8484470" version="4" timestamp="2025-12-08T14:12:52Z" changeset="175669694" uid="34088" user="CVI">
     <tag k="ele" v="76"/>
     <tag k="gfoss_id" v="2466"/>
     <tag k="name" v="Mezzana Bigli"/>
@@ -1131,6 +1131,7 @@
     <tag k="postal_code" v="27030"/>
     <tag k="ref:ISTAT" v="018090"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027493"/>
   </node>
   <node id="62515351" lat="45.0369456" lon="9.3155381" version="4" timestamp="2023-02-27T21:40:25Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2476"/>
@@ -1245,12 +1246,13 @@
     <tag k="population" v="379"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515652" lat="45.0374456" lon="9.2039179" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515652" lat="45.0374456" lon="9.2039179" version="4" timestamp="2025-12-08T23:19:23Z" changeset="175690507" uid="34088" user="CVI">
     <tag k="gfoss_id" v="2496"/>
     <tag k="name" v="Redavalle"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1008"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029302"/>
   </node>
   <node id="62515673" lat="45.0483636" lon="9.1501600" version="4" timestamp="2024-09-09T17:59:08Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2500"/>
@@ -7523,13 +7525,6 @@
     <tag k="population" v="4401"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70990962" lat="41.9115330" lon="14.3738190" version="2" timestamp="2016-09-07T16:52:26Z" changeset="41983597" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5985"/>
-    <tag k="name" v="Roio del Sangro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="159"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70991247" lat="41.9687447" lon="14.3753527" version="4" timestamp="2020-07-09T14:40:56Z" changeset="87771319" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="6011"/>
     <tag k="name" v="Pietraferrazzana"/>
@@ -8652,21 +8647,6 @@
     <tag k="wikidata" v="Q285037"/>
     <tag k="wikipedia" v="it:Senorbì"/>
     <tag k="wikipedia:sc" v="Senorbì"/>
-  </node>
-  <node id="72991047" lat="39.4240400" lon="8.9231380" version="41" timestamp="2023-11-10T02:45:52Z" changeset="143844984" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7469"/>
-    <tag k="name" v="Serramanna"/>
-    <tag k="name:it" v="Serramanna"/>
-    <tag k="name:sc" v="Serramanna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9545"/>
-    <tag k="postal_code" v="09038"/>
-    <tag k="ref:LOCODE" v="ITSEM"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.serramanna.ca.it/"/>
-    <tag k="wikidata" v="Q288201"/>
-    <tag k="wikipedia" v="it:Serramanna"/>
-    <tag k="wikipedia:sc" v="Serramanna"/>
   </node>
   <node id="72991082" lat="39.3479629" lon="9.1817083" version="45" timestamp="2017-12-07T12:53:41Z" changeset="54430783" uid="113316" user="Andria Tzedda">
     <tag k="gfoss_id" v="7479"/>
@@ -10372,14 +10352,16 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1214"/>
   </node>
-  <node id="2646453006" lat="45.2120721" lon="9.2554631" version="1" timestamp="2014-02-01T00:13:53Z" changeset="20309813" uid="69717" user="kaitu">
+  <node id="2646453006" lat="45.2120721" lon="9.2554631" version="2" timestamp="2025-12-08T23:10:22Z" changeset="175690340" uid="34088" user="CVI">
     <tag k="name" v="Cura Carpignano"/>
     <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q30025336"/>
   </node>
-  <node id="2649514075" lat="45.1374750" lon="8.7292673" version="2" timestamp="2014-02-02T10:54:38Z" changeset="20331432" uid="579545" user="Aury88">
+  <node id="2649514075" lat="45.1374750" lon="8.7292673" version="3" timestamp="2025-12-08T13:12:45Z" changeset="175667086" uid="34088" user="CVI">
     <tag k="name" v="Semiana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="251"/>
+    <tag k="wikidata" v="Q30030574"/>
   </node>
   <node id="2649519636" lat="45.1689375" lon="9.7635000" version="2" timestamp="2015-03-15T14:10:52Z" changeset="29496220" uid="602784" user="fedc">
     <tag k="name" v="Maleo"/>
