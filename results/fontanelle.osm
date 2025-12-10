@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-09T03:15:30Z" areas="2025-12-08T21:23:45Z"/>
+<meta osm_base="2025-12-10T03:18:47Z" areas="2025-12-09T23:32:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2577,15 +2577,6 @@
     <tag k="population" v="2373"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63632222" lat="45.2814818" lon="8.0821574" version="7" timestamp="2023-01-17T19:56:46Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="capital" v="8"/>
-    <tag k="gfoss_id" v="357"/>
-    <tag k="name" v="Livorno Ferraris"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4320"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q25136"/>
-  </node>
   <node id="63632300" lat="45.1862550" lon="8.2326320" version="8" timestamp="2023-01-17T20:02:55Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="364"/>
@@ -3627,8 +3618,9 @@
     <tag k="population" v="31393"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67253910" lat="37.2883127" lon="13.5275500" version="19" timestamp="2025-07-01T13:56:05Z" changeset="168355333" uid="22632809" user="KeyTV">
+  <node id="67253910" lat="37.2883127" lon="13.5275500" version="20" timestamp="2025-12-09T10:56:33Z" changeset="175707333" uid="10504312" user="Jobigutenburg">
     <tag k="name" v="Porto Empedocle"/>
+    <tag k="name:ar" v="بورتو إيمبيدوكلي"/>
     <tag k="name:ru" v="Порто-Эмпедокле"/>
     <tag k="name:scn" v="'a Marina"/>
     <tag k="old_name" v="Marina di Girgenti"/>
@@ -3778,9 +3770,10 @@
     <tag k="population" v="7735"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67256482" lat="38.0485261" lon="13.3910630" version="17" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67256482" lat="38.0485261" lon="13.3910630" version="18" timestamp="2025-12-09T10:56:33Z" changeset="175707333" uid="10504312" user="Jobigutenburg">
     <tag k="ele" v="356"/>
     <tag k="name" v="Belmonte Mezzagno"/>
+    <tag k="name:ar" v="بلمونتي متسانيو"/>
     <tag k="name:scn" v="Bilmunti Minzagnu"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10786"/>
@@ -3793,8 +3786,9 @@
     <tag k="population" v="970"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67256513" lat="38.0541181" lon="13.5302261" version="16" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67256513" lat="38.0541181" lon="13.5302261" version="17" timestamp="2025-12-09T10:56:33Z" changeset="175707333" uid="10504312" user="Jobigutenburg">
     <tag k="name" v="Casteldaccia"/>
+    <tag k="name:ar" v="كاستلداتشا"/>
     <tag k="name:scn" v="Castiɖɖazzu"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11656"/>
@@ -3812,8 +3806,9 @@
     <tag k="population" v="3704"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67256646" lat="38.0352205" lon="13.4514041" version="15" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67256646" lat="38.0352205" lon="13.4514041" version="16" timestamp="2025-12-09T10:56:33Z" changeset="175707333" uid="10504312" user="Jobigutenburg">
     <tag k="name" v="Misilmeri"/>
+    <tag k="name:ar" v="منزل الأمير"/>
     <tag k="name:scn" v="Mussulumeri"/>
     <tag k="place" v="town"/>
     <tag k="population" v="28946"/>
@@ -3825,8 +3820,9 @@
     <tag k="population" v="1315"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67256699" lat="38.0765278" lon="13.4436674" version="13" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67256699" lat="38.0765278" lon="13.4436674" version="14" timestamp="2025-12-09T10:56:33Z" changeset="175707333" uid="10504312" user="Jobigutenburg">
     <tag k="name" v="Villabate"/>
+    <tag k="name:ar" v="فيلاباتي"/>
     <tag k="name:scn" v="Villabbati"/>
     <tag k="place" v="town"/>
     <tag k="population" v="19518"/>
@@ -3851,8 +3847,9 @@
     <tag k="population" v="1135"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67256778" lat="38.1311720" lon="13.1818847" version="12" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67256778" lat="38.1311720" lon="13.1818847" version="13" timestamp="2025-12-09T10:56:33Z" changeset="175707333" uid="10504312" user="Jobigutenburg">
     <tag k="name" v="Carini"/>
+    <tag k="name:ar" v="قرينش"/>
     <tag k="place" v="town"/>
     <tag k="population" v="40162"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
@@ -3902,9 +3899,10 @@
     <tag k="population" v="1303"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67257015" lat="37.9812974" lon="12.5573091" version="32" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67257015" lat="37.9812974" lon="12.5573091" version="33" timestamp="2025-12-09T10:56:33Z" changeset="175707333" uid="10504312" user="Jobigutenburg">
     <tag k="alt_name:scn" v="Paceca"/>
     <tag k="name" v="Paceco"/>
+    <tag k="name:ar" v="باتشيكو"/>
     <tag k="name:ja" v="パチェーコ"/>
     <tag k="name:ru" v="Пачеко"/>
     <tag k="name:scn" v="Paceca"/>

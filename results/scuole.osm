@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-09T03:19:34Z" areas="2025-12-08T21:23:45Z"/>
+<meta osm_base="2025-12-10T03:22:59Z" areas="2025-12-09T23:32:55Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10608,10 +10608,11 @@
     <tag k="population" v="354"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503311" lat="46.3740306" lon="13.0953599" version="10" timestamp="2025-07-10T15:22:13Z" changeset="168749010" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503311" lat="46.3740306" lon="13.0953599" version="11" timestamp="2025-12-09T17:18:50Z" changeset="175724141" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3673"/>
     <tag k="name" v="Amaro / Damâr"/>
     <tag k="name:fur" v="Damâr"/>
+    <tag k="name:it" v="Amaro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="751"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -11860,8 +11861,9 @@
     <tag k="population" v="6050"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67257299" lat="38.0389840" lon="12.6169791" version="13" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67257299" lat="38.0389840" lon="12.6169791" version="14" timestamp="2025-12-09T10:56:33Z" changeset="175707333" uid="10504312" user="Jobigutenburg">
     <tag k="name" v="Valderice"/>
+    <tag k="name:ar" v="فالديريتشي"/>
     <tag k="name:scn" v="Valdèrici"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11354"/>
@@ -16328,7 +16330,7 @@
     <tag k="population" v="1607"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566985" lat="41.2487250" lon="15.2484470" version="2" timestamp="2016-09-01T23:10:08Z" changeset="41859282" uid="743479" user="fayor">
+  <node id="68566985" lat="41.2494209" lon="15.2483077" version="4" timestamp="2025-12-09T15:20:00Z" changeset="175719082" uid="23594862" user="Danzivino">
     <tag k="gfoss_id" v="5481"/>
     <tag k="name" v="Montaguto"/>
     <tag k="place" v="village"/>
