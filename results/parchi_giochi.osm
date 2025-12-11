@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-10T03:19:52Z" areas="2025-12-09T23:32:55Z"/>
+<meta osm_base="2025-12-11T03:22:59Z" areas="2025-12-10T23:58:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1173,13 +1173,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q111366"/>
     <tag k="wikipedia" v="it:Pavone del Mella"/>
-  </node>
-  <node id="62508890" lat="45.2743740" lon="10.0924710" version="2" timestamp="2020-04-15T22:30:51Z" changeset="83615304" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="2319"/>
-    <tag k="name" v="Pontevico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6484"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508922" lat="45.4463800" lon="10.2287710" version="3" timestamp="2024-09-09T17:58:55Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2284"/>
@@ -7364,12 +7357,13 @@
     <tag k="population" v="4884"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778964" lat="45.4730890" lon="11.2028920" version="3" timestamp="2022-08-12T19:25:34Z" changeset="124831340" uid="16816863" user="Zen4114">
+  <node id="64778964" lat="45.4730890" lon="11.2028920" version="4" timestamp="2025-12-10T17:27:40Z" changeset="175769692" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="3114"/>
     <tag k="name" v="Cazzano di Tramigna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1508"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024466"/>
   </node>
   <node id="64778967" lat="45.3102870" lon="11.3843990" version="5" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3117"/>
@@ -22676,10 +22670,11 @@
     <tag k="population" v="104"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="1091320722" lat="46.3950450" lon="12.6702260" version="9" timestamp="2025-07-14T14:54:32Z" changeset="168921977" uid="14202171" user="Alessandro Ambrosino">
+  <node id="1091320722" lat="46.3950450" lon="12.6702260" version="10" timestamp="2025-12-10T16:32:07Z" changeset="175767540" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3713"/>
     <tag k="name" v="Forni di Sotto / For Disot"/>
     <tag k="name:fur" v="For Disot"/>
+    <tag k="name:it" v="Forni di Sotto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="716"/>
     <tag k="source" v="geodati.gfoss.it"/>

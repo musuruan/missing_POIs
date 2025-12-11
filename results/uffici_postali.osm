@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-10T03:15:42Z" areas="2025-12-10T01:04:59Z"/>
+<meta osm_base="2025-12-11T03:17:49Z" areas="2025-12-11T01:16:47Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5923,7 +5923,7 @@
     <tag k="population" v="287"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629074" lat="45.1271131" lon="7.8247919" version="5" timestamp="2023-01-17T19:53:23Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629074" lat="45.1271358" lon="7.8243842" version="6" timestamp="2025-12-10T14:43:52Z" changeset="175763268" uid="9265159" user="grawal">
     <tag k="gfoss_id" v="112"/>
     <tag k="name" v="Gassino Torinese"/>
     <tag k="place" v="village"/>
@@ -13913,12 +13913,13 @@
     <tag k="population" v="6522"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301550" lat="44.6532007" lon="10.7810810" version="5" timestamp="2017-04-02T18:19:38Z" changeset="47389387" uid="1834719" user="LvdT">
+  <node id="69301550" lat="44.6532007" lon="10.7810810" version="6" timestamp="2025-12-10T18:04:16Z" changeset="175771112" uid="23600186" user="robin_a6">
     <tag k="gfoss_id" v="3970"/>
     <tag k="name" v="Rubiera"/>
     <tag k="name:egl" v="Rubēra"/>
     <tag k="place" v="town"/>
     <tag k="population" v="14864"/>
+    <tag k="postal_code" v="42048"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301608" lat="44.9616550" lon="10.6870685" version="6" timestamp="2017-09-01T18:01:37Z" changeset="51651638" uid="1834719" user="LvdT">
@@ -18554,10 +18555,11 @@
     <tag k="name:frp" v="Maréiza;Imaréiza"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="1726348438" lat="45.4930641" lon="11.5481101" version="3" timestamp="2016-10-08T21:08:54Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="1726348438" lat="45.4930641" lon="11.5481101" version="4" timestamp="2025-12-10T17:01:39Z" changeset="175768616" uid="21748492" user="Yurii Skvortsov">
     <tag k="alt_name" v="Torri di Arcugnano"/>
     <tag k="name" v="Torri"/>
     <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q112132239"/>
   </node>
   <node id="1727509731" lat="41.2733301" lon="14.2230652" version="4" timestamp="2024-10-27T21:33:49Z" changeset="158432530" uid="1109359" user="makakko">
     <tag k="ele" v="180"/>
