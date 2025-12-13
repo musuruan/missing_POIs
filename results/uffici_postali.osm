@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-12T03:16:19Z" areas="2025-12-11T20:51:58Z"/>
+<meta osm_base="2025-12-13T03:08:59Z" areas="2025-12-12T20:12:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1554,14 +1554,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031972"/>
   </node>
-  <node id="62510484" lat="45.9083820" lon="9.1821390" version="2" timestamp="2024-11-12T08:37:40Z" changeset="159037158" uid="9925732" user="Flight777">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="1653"/>
-    <tag k="name" v="Veleso"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="297"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62510495" lat="46.1594890" lon="9.3351370" version="3" timestamp="2024-09-09T10:39:43Z" changeset="156388052" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="1655"/>
     <tag k="is_in" v="Como, Lombardia, Italy"/>
@@ -1922,7 +1914,7 @@
     <tag k="wikidata" v="Q42444"/>
     <tag k="wikipedia" v="it:Cella Dati"/>
   </node>
-  <node id="62511502" lat="45.1645730" lon="10.1945750" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511502" lat="45.1641380" lon="10.1957981" version="3" timestamp="2025-12-12T07:45:15Z" changeset="175833518" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2596"/>
     <tag k="name" v="Cicognolo"/>
     <tag k="place" v="village"/>
@@ -7947,10 +7939,11 @@
     <tag k="wikidata" v="Q53203"/>
     <tag k="wikipedia" v="it:Valvasone"/>
   </node>
-  <node id="66503084" lat="45.8641444" lon="13.3929338" version="7" timestamp="2025-07-13T12:18:13Z" changeset="168870619" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503084" lat="45.8641444" lon="13.3929338" version="8" timestamp="2025-12-12T10:17:54Z" changeset="175839260" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3688"/>
     <tag k="name" v="Campolongo al Torre / Cjamplunc"/>
     <tag k="name:fur" v="Cjamplunc"/>
+    <tag k="name:it" v="Campolongo al Torre"/>
     <tag k="place" v="village"/>
     <tag k="population" v="758"/>
     <tag k="wikidata" v="Q1520816"/>
@@ -14233,6 +14226,13 @@
     <tag k="population" v="567"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="70980777" lat="43.0518954" lon="13.7527903" version="3" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="4369"/>
+    <tag k="name" v="Montefiore dell'Aso"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2199"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="70980815" lat="42.8993526" lon="13.4582286" version="6" timestamp="2025-05-08T13:24:50Z" changeset="165983610" uid="22299574" user="Alessandra Mercuri">
     <tag k="gfoss_id" v="4389"/>
     <tag k="name" v="Palmiano"/>
@@ -17804,18 +17804,6 @@
     <tag k="wikidata" v="Q340665"/>
     <tag k="wikipedia" v="it:Bortigiadas"/>
     <tag k="wikipedia:sc" v="Bultigghjata"/>
-  </node>
-  <node id="72994289" lat="40.5780640" lon="9.2581290" version="41" timestamp="2017-03-01T21:25:17Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7224"/>
-    <tag k="name" v="Uddusò/Buddusò"/>
-    <tag k="name:it" v="Buddusò"/>
-    <tag k="name:sc" v="Uddusò"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4145"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.budduso.ot.it/"/>
-    <tag k="wikidata" v="Q340675"/>
-    <tag k="wikipedia" v="it:Buddusò"/>
   </node>
   <node id="72994305" lat="40.6694610" lon="8.6145150" version="41" timestamp="2023-10-31T15:41:30Z" changeset="143429177" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7229"/>

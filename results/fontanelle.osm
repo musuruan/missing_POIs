@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-12T03:20:25Z" areas="2025-12-11T19:31:06Z"/>
+<meta osm_base="2025-12-13T03:13:59Z" areas="2025-12-12T20:12:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -469,7 +469,7 @@
     <tag k="population" v="569"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511502" lat="45.1645730" lon="10.1945750" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511502" lat="45.1641380" lon="10.1957981" version="3" timestamp="2025-12-12T07:45:15Z" changeset="175833518" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2596"/>
     <tag k="name" v="Cicognolo"/>
     <tag k="place" v="village"/>
@@ -628,12 +628,13 @@
     <tag k="population" v="1995"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512657" lat="46.0244860" lon="9.3639400" version="4" timestamp="2024-11-12T08:51:48Z" changeset="159037158" uid="9925732" user="Flight777">
+  <node id="62512657" lat="46.0244860" lon="9.3639400" version="5" timestamp="2025-12-12T12:41:31Z" changeset="175844627" uid="34088" user="Tri28">
     <tag k="gfoss_id" v="7848"/>
     <tag k="name" v="Taceno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="465"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030981"/>
   </node>
   <node id="62512705" lat="45.2488700" lon="9.6214610" version="2" timestamp="2019-12-22T17:50:20Z" changeset="78740474" uid="2137840" user="rza31">
     <tag k="gfoss_id" v="7917"/>
@@ -3372,10 +3373,11 @@
     <tag k="population" v="18308"/>
     <tag k="source" v="ISTAT"/>
   </node>
-  <node id="66503084" lat="45.8641444" lon="13.3929338" version="7" timestamp="2025-07-13T12:18:13Z" changeset="168870619" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503084" lat="45.8641444" lon="13.3929338" version="8" timestamp="2025-12-12T10:17:54Z" changeset="175839260" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3688"/>
     <tag k="name" v="Campolongo al Torre / Cjamplunc"/>
     <tag k="name:fur" v="Cjamplunc"/>
+    <tag k="name:it" v="Campolongo al Torre"/>
     <tag k="place" v="village"/>
     <tag k="population" v="758"/>
     <tag k="wikidata" v="Q1520816"/>

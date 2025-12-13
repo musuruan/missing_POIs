@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-12T03:24:35Z" areas="2025-12-11T19:31:06Z"/>
+<meta osm_base="2025-12-13T03:18:14Z" areas="2025-12-12T21:44:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2319,7 +2319,7 @@
     <tag k="population" v="5660"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511416" lat="45.1347710" lon="10.1147740" version="3" timestamp="2024-09-09T17:58:51Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62511416" lat="45.1339460" lon="10.1151817" version="4" timestamp="2025-12-12T07:45:15Z" changeset="175833518" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2622"/>
     <tag k="name" v="Malagnino"/>
     <tag k="place" v="village"/>
@@ -2396,11 +2396,19 @@
     <tag k="wikidata" v="Q42444"/>
     <tag k="wikipedia" v="it:Cella Dati"/>
   </node>
-  <node id="62511502" lat="45.1645730" lon="10.1945750" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511502" lat="45.1641380" lon="10.1957981" version="3" timestamp="2025-12-12T07:45:15Z" changeset="175833518" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2596"/>
     <tag k="name" v="Cicognolo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="850"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="62511518" lat="45.7419691" lon="9.4441423" version="4" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+    <tag k="gfoss_id" v="7779"/>
+    <tag k="name" v="Brivio"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4115"/>
+    <tag k="postal_code" v="23883"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62511601" lat="45.9305392" lon="9.2847366" version="4" timestamp="2023-02-26T21:27:29Z" changeset="133060157" uid="43207" user="kdkeller">
@@ -2777,12 +2785,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030958"/>
   </node>
-  <node id="62512657" lat="46.0244860" lon="9.3639400" version="4" timestamp="2024-11-12T08:51:48Z" changeset="159037158" uid="9925732" user="Flight777">
+  <node id="62512657" lat="46.0244860" lon="9.3639400" version="5" timestamp="2025-12-12T12:41:31Z" changeset="175844627" uid="34088" user="Tri28">
     <tag k="gfoss_id" v="7848"/>
     <tag k="name" v="Taceno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="465"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030981"/>
   </node>
   <node id="62512762" lat="45.0390770" lon="11.0457960" version="2" timestamp="2024-06-23T14:08:20Z" changeset="153069747" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="2727"/>
@@ -23936,18 +23945,6 @@
     <tag k="wikidata" v="Q340665"/>
     <tag k="wikipedia" v="it:Bortigiadas"/>
     <tag k="wikipedia:sc" v="Bultigghjata"/>
-  </node>
-  <node id="72994289" lat="40.5780640" lon="9.2581290" version="41" timestamp="2017-03-01T21:25:17Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7224"/>
-    <tag k="name" v="Uddusò/Buddusò"/>
-    <tag k="name:it" v="Buddusò"/>
-    <tag k="name:sc" v="Uddusò"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4145"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.budduso.ot.it/"/>
-    <tag k="wikidata" v="Q340675"/>
-    <tag k="wikipedia" v="it:Buddusò"/>
   </node>
   <node id="72994305" lat="40.6694610" lon="8.6145150" version="41" timestamp="2023-10-31T15:41:30Z" changeset="143429177" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7229"/>

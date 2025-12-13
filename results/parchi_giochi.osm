@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-12T03:21:21Z" areas="2025-12-11T19:31:06Z"/>
+<meta osm_base="2025-12-13T03:15:04Z" areas="2025-12-12T20:12:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1775,7 +1775,7 @@
     <tag k="wikidata" v="Q30029738"/>
     <tag k="wikipedia" v="it:Salvirola"/>
   </node>
-  <node id="62511416" lat="45.1347710" lon="10.1147740" version="3" timestamp="2024-09-09T17:58:51Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62511416" lat="45.1339460" lon="10.1151817" version="4" timestamp="2025-12-12T07:45:15Z" changeset="175833518" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2622"/>
     <tag k="name" v="Malagnino"/>
     <tag k="place" v="village"/>
@@ -1842,7 +1842,7 @@
     <tag k="wikidata" v="Q42444"/>
     <tag k="wikipedia" v="it:Cella Dati"/>
   </node>
-  <node id="62511502" lat="45.1645730" lon="10.1945750" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511502" lat="45.1641380" lon="10.1957981" version="3" timestamp="2025-12-12T07:45:15Z" changeset="175833518" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2596"/>
     <tag k="name" v="Cicognolo"/>
     <tag k="place" v="village"/>
@@ -2133,12 +2133,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028738"/>
   </node>
-  <node id="62512657" lat="46.0244860" lon="9.3639400" version="4" timestamp="2024-11-12T08:51:48Z" changeset="159037158" uid="9925732" user="Flight777">
+  <node id="62512657" lat="46.0244860" lon="9.3639400" version="5" timestamp="2025-12-12T12:41:31Z" changeset="175844627" uid="34088" user="Tri28">
     <tag k="gfoss_id" v="7848"/>
     <tag k="name" v="Taceno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="465"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030981"/>
   </node>
   <node id="62512744" lat="45.2273091" lon="10.5345083" version="3" timestamp="2024-11-07T06:42:01Z" changeset="158842042" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="2722"/>
@@ -3298,12 +3299,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024991"/>
   </node>
-  <node id="62517190" lat="45.8778934" lon="8.6519892" version="4" timestamp="2024-06-11T10:08:23Z" changeset="152535493" uid="17347996" user="vanishing_point">
+  <node id="62517190" lat="45.8778934" lon="8.6519892" version="5" timestamp="2025-12-12T21:58:54Z" changeset="175864591" uid="6477849" user="LodiAleardo">
     <tag k="gfoss_id" v="1387"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Caravate"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2.541"/>
+    <tag k="population" v="2541"/>
     <tag k="population:date" v="2022"/>
     <tag k="source" v="local knowledge;aerial imagery"/>
     <tag k="source:population" v="https://esploradati.censimentopopolazione.istat.it/"/>
@@ -7954,11 +7955,12 @@
     <tag k="population" v="490"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503498" lat="45.8382313" lon="13.4019302" version="7" timestamp="2025-07-15T11:17:28Z" changeset="168960004" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503498" lat="45.8382313" lon="13.4019302" version="8" timestamp="2025-12-12T10:17:54Z" changeset="175839260" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3769"/>
     <tag k="loc_name:fur" v="Ruda"/>
     <tag k="name" v="Ruda / Rude"/>
     <tag k="name:fur" v="Rude"/>
+    <tag k="name:it" v="Ruda"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2969"/>
     <tag k="source" v="geodati.gfoss.it"/>

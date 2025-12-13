@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-12T03:23:28Z" areas="2025-12-11T20:51:58Z"/>
+<meta osm_base="2025-12-13T03:17:11Z" areas="2025-12-12T21:44:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4821,7 +4821,7 @@
     <tag k="wikidata" v="Q30029738"/>
     <tag k="wikipedia" v="it:Salvirola"/>
   </node>
-  <node id="62511416" lat="45.1347710" lon="10.1147740" version="3" timestamp="2024-09-09T17:58:51Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62511416" lat="45.1339460" lon="10.1151817" version="4" timestamp="2025-12-12T07:45:15Z" changeset="175833518" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2622"/>
     <tag k="name" v="Malagnino"/>
     <tag k="place" v="village"/>
@@ -4913,7 +4913,7 @@
     <tag k="wikidata" v="Q42444"/>
     <tag k="wikipedia" v="it:Cella Dati"/>
   </node>
-  <node id="62511502" lat="45.1645730" lon="10.1945750" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511502" lat="45.1641380" lon="10.1957981" version="3" timestamp="2025-12-12T07:45:15Z" changeset="175833518" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2596"/>
     <tag k="name" v="Cicognolo"/>
     <tag k="place" v="village"/>
@@ -5656,12 +5656,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030958"/>
   </node>
-  <node id="62512657" lat="46.0244860" lon="9.3639400" version="4" timestamp="2024-11-12T08:51:48Z" changeset="159037158" uid="9925732" user="Flight777">
+  <node id="62512657" lat="46.0244860" lon="9.3639400" version="5" timestamp="2025-12-12T12:41:31Z" changeset="175844627" uid="34088" user="Tri28">
     <tag k="gfoss_id" v="7848"/>
     <tag k="name" v="Taceno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="465"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030981"/>
   </node>
   <node id="62512670" lat="45.1467201" lon="9.6379307" version="6" timestamp="2025-11-01T17:44:05Z" changeset="174073839" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="7913"/>
@@ -9000,12 +9001,12 @@
     <tag k="population" v="2000"/>
     <tag k="wikidata" v="Q30023614"/>
   </node>
-  <node id="62517190" lat="45.8778934" lon="8.6519892" version="4" timestamp="2024-06-11T10:08:23Z" changeset="152535493" uid="17347996" user="vanishing_point">
+  <node id="62517190" lat="45.8778934" lon="8.6519892" version="5" timestamp="2025-12-12T21:58:54Z" changeset="175864591" uid="6477849" user="LodiAleardo">
     <tag k="gfoss_id" v="1387"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Caravate"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2.541"/>
+    <tag k="population" v="2541"/>
     <tag k="population:date" v="2022"/>
     <tag k="source" v="local knowledge;aerial imagery"/>
     <tag k="source:population" v="https://esploradati.censimentopopolazione.istat.it/"/>
@@ -9285,13 +9286,16 @@
     <tag k="population" v="5967"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62518018" lat="45.9731305" lon="8.7688797" version="6" timestamp="2024-03-31T09:29:09Z" changeset="149381661" uid="19971463" user="LeoBorGiov">
+  <node id="62518018" lat="45.9731305" lon="8.7688797" version="7" timestamp="2025-12-12T20:02:49Z" changeset="175861066" uid="8341954" user="Jesse Dehrer">
     <tag k="ele" v="520"/>
     <tag k="gfoss_id" v="1459"/>
     <tag k="name" v="Montegrino Valtravaglia"/>
     <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q30027861"/>
+    <tag k="population" v="1533"/>
+    <tag k="population:date" v="2025-08-31"/>
+    <tag k="wikidata" v="Q39112"/>
     <tag k="wikimedia_commons" v="Category:Montegrino (Montegrino Valtravaglia)"/>
+    <tag k="wikipedia" v="it:Montegrino Valtravaglia"/>
   </node>
   <node id="62518025" lat="45.9478170" lon="8.7578345" version="2" timestamp="2014-12-07T11:23:17Z" changeset="27308777" uid="1476146" user="Alecs01">
     <tag k="gfoss_id" v="1458"/>
@@ -21433,10 +21437,11 @@
     <tag k="wikidata" v="Q53203"/>
     <tag k="wikipedia" v="it:Valvasone"/>
   </node>
-  <node id="66503084" lat="45.8641444" lon="13.3929338" version="7" timestamp="2025-07-13T12:18:13Z" changeset="168870619" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503084" lat="45.8641444" lon="13.3929338" version="8" timestamp="2025-12-12T10:17:54Z" changeset="175839260" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3688"/>
     <tag k="name" v="Campolongo al Torre / Cjamplunc"/>
     <tag k="name:fur" v="Cjamplunc"/>
+    <tag k="name:it" v="Campolongo al Torre"/>
     <tag k="place" v="village"/>
     <tag k="population" v="758"/>
     <tag k="wikidata" v="Q1520816"/>
@@ -26810,19 +26815,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54630"/>
     <tag k="wikipedia" v="it:Motta San Giovanni"/>
-  </node>
-  <node id="67275514" lat="37.9203843" lon="15.7778568" version="7" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6770"/>
-    <tag k="name" v="Melito di Porto Salvo"/>
-    <tag k="name:el" v="Μέλιτο ντι πόρτο Σάλβο"/>
-    <tag k="name:it" v="Melito di Porto Salvo"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11355"/>
-    <tag k="postal_code" v="89063"/>
-    <tag k="reg_name:el-it" v="Mèlitos"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54626"/>
-    <tag k="wikipedia" v="it:Melito di Porto Salvo"/>
   </node>
   <node id="67275518" lat="38.3539760" lon="16.2883040" version="2" timestamp="2016-08-28T18:58:30Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6767"/>
@@ -43166,18 +43158,6 @@
     <tag k="wikidata" v="Q340665"/>
     <tag k="wikipedia" v="it:Bortigiadas"/>
     <tag k="wikipedia:sc" v="Bultigghjata"/>
-  </node>
-  <node id="72994289" lat="40.5780640" lon="9.2581290" version="41" timestamp="2017-03-01T21:25:17Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7224"/>
-    <tag k="name" v="Uddusò/Buddusò"/>
-    <tag k="name:it" v="Buddusò"/>
-    <tag k="name:sc" v="Uddusò"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4145"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.budduso.ot.it/"/>
-    <tag k="wikidata" v="Q340675"/>
-    <tag k="wikipedia" v="it:Buddusò"/>
   </node>
   <node id="72994305" lat="40.6694610" lon="8.6145150" version="41" timestamp="2023-10-31T15:41:30Z" changeset="143429177" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7229"/>
