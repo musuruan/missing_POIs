@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-13T03:17:11Z" areas="2025-12-12T21:44:44Z"/>
+<meta osm_base="2025-12-14T03:38:22Z" areas="2025-12-14T01:09:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5045,12 +5045,13 @@
     <tag k="population" v="439"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511626" lat="45.7707810" lon="9.4549465" version="3" timestamp="2024-04-07T16:16:56Z" changeset="149700189" uid="139580" user="morsi">
+  <node id="62511626" lat="45.7707810" lon="9.4549465" version="4" timestamp="2025-12-13T22:10:42Z" changeset="175900681" uid="34088" user="Tri28">
     <tag k="gfoss_id" v="7821"/>
     <tag k="name" v="Monte Marenzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1958"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027755"/>
   </node>
   <node id="62511627" lat="45.7679634" lon="9.2763722" version="4" timestamp="2022-07-21T13:46:50Z" changeset="123895376" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="7795"/>
@@ -15740,13 +15741,14 @@
     <tag k="wikimedia_commons" v="Category:Crodo"/>
     <tag k="wikipedia" v="it:Crodo"/>
   </node>
-  <node id="63630878" lat="46.2608820" lon="8.3202130" version="8" timestamp="2025-06-12T06:41:08Z" changeset="167518879" uid="9616185" user="LukeDH">
+  <node id="63630878" lat="46.2608820" lon="8.3202130" version="9" timestamp="2025-12-13T20:16:23Z" changeset="175897347" uid="34088" user="Tri28">
     <tag k="gfoss_id" v="8030"/>
     <tag k="name" v="Baceno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="420"/>
     <tag k="population:date" v="2016-01-01"/>
     <tag k="source:population" v="GeoNames"/>
+    <tag k="wikidata" v="Q30022472"/>
   </node>
   <node id="63630889" lat="45.9610803" lon="8.5813615" version="5" timestamp="2023-01-19T10:02:16Z" changeset="131457530" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="8033"/>
@@ -43229,20 +43231,6 @@
     <tag k="wikidata" v="Q390450"/>
     <tag k="wikipedia" v="it:Borutta"/>
     <tag k="wikipedia:sc" v="Boruta"/>
-  </node>
-  <node id="72994353" lat="40.4187570" lon="8.7681210" version="43" timestamp="2019-03-23T16:10:40Z" changeset="68448404" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7220"/>
-    <tag k="name" v="Bonolva/Bonorva"/>
-    <tag k="name:it" v="Bonorva"/>
-    <tag k="name:sc" v="Bonolva"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4106"/>
-    <tag k="postal_code" v="07012"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.bonorva.ss.it/"/>
-    <tag k="wikidata" v="Q390280"/>
-    <tag k="wikipedia" v="it:Bonorva"/>
-    <tag k="wikipedia:sc" v="Bonolva"/>
   </node>
   <node id="72994361" lat="40.5729271" lon="8.6973713" version="43" timestamp="2024-12-26T17:03:31Z" changeset="160646251" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="7214"/>
