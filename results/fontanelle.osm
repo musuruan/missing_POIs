@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-14T03:31:10Z" areas="2025-12-14T01:09:15Z"/>
+<meta osm_base="2025-12-15T03:27:44Z" areas="2025-12-14T20:41:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2448,6 +2448,13 @@
     <tag k="name" v="Busano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1367"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="63629254" lat="45.0402748" lon="7.9015941" version="3" timestamp="2022-04-15T09:51:49Z" changeset="119743966" uid="11220113" user="ivanbranco">
+    <tag k="gfoss_id" v="12"/>
+    <tag k="name" v="Arignano"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="898"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63629292" lat="45.4101863" lon="7.7441580" version="6" timestamp="2023-01-17T20:02:35Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -9707,21 +9714,6 @@
     <tag k="wikipedia" v="it:Martis"/>
     <tag k="wikipedia:sc" v="Maltis"/>
   </node>
-  <node id="72993889" lat="40.4519580" lon="8.7522210" version="41" timestamp="2024-12-28T18:03:31Z" changeset="160724206" uid="14257573" user="toponomastica_comune_arenzano">
-    <tag k="alt_name" v="Tzave"/>
-    <tag k="gfoss_id" v="7237"/>
-    <tag k="name" v="Giave"/>
-    <tag k="name:it" v="Giave"/>
-    <tag k="name:sc" v="Giave"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="692"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.giave.ss.it/"/>
-    <tag k="wikidata" v="Q390837"/>
-    <tag k="wikipedia" v="it:Giave"/>
-    <tag k="wikipedia:sc" v="Giave"/>
-  </node>
   <node id="72993898" lat="40.5483600" lon="8.8312210" version="40" timestamp="2023-11-04T06:05:38Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7249"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
@@ -9984,20 +9976,6 @@
     <tag k="wikidata" v="Q36198"/>
     <tag k="wikipedia" v="sc:Sìligo"/>
     <tag k="wikipedia:it" v="Siligo"/>
-  </node>
-  <node id="72994429" lat="40.3984560" lon="8.7254210" version="43" timestamp="2023-11-10T07:52:04Z" changeset="143851255" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7273"/>
-    <tag k="name" v="Semèstene/Semestene"/>
-    <tag k="name:it" v="Semestene"/>
-    <tag k="name:sc" v="Semèstene"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="227"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.semestene.ss.it/"/>
-    <tag k="wikidata" v="Q391369"/>
-    <tag k="wikipedia" v="it:Semestene"/>
-    <tag k="wikipedia:sc" v="Semèstene"/>
   </node>
   <node id="72994495" lat="40.6217610" lon="8.8103190" version="41" timestamp="2023-10-30T17:03:35Z" changeset="143376993" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7212"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-14T03:39:26Z" areas="2025-12-13T21:19:45Z"/>
+<meta osm_base="2025-12-15T03:31:56Z" areas="2025-12-14T20:41:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1988,7 +1988,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18488299"/>
   </node>
-  <node id="62510523" lat="45.2468451" lon="9.8384742" version="4" timestamp="2022-08-24T20:12:50Z" changeset="125331568" uid="9622178" user="GiovanniC83">
+  <node id="62510523" lat="45.2466345" lon="9.8383803" version="5" timestamp="2025-12-14T10:53:07Z" changeset="175913997" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2579"/>
     <tag k="name" v="Cappella Cantone"/>
     <tag k="place" v="village"/>
@@ -23774,6 +23774,21 @@
     <tag k="wikidata" v="Q390907"/>
     <tag k="wikipedia" v="it:Martis"/>
     <tag k="wikipedia:sc" v="Maltis"/>
+  </node>
+  <node id="72993889" lat="40.4519580" lon="8.7522210" version="41" timestamp="2024-12-28T18:03:31Z" changeset="160724206" uid="14257573" user="toponomastica_comune_arenzano">
+    <tag k="alt_name" v="Tzave"/>
+    <tag k="gfoss_id" v="7237"/>
+    <tag k="name" v="Giave"/>
+    <tag k="name:it" v="Giave"/>
+    <tag k="name:sc" v="Giave"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="692"/>
+    <tag k="postal_code" v="07010"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://comune.giave.ss.it/"/>
+    <tag k="wikidata" v="Q390837"/>
+    <tag k="wikipedia" v="it:Giave"/>
+    <tag k="wikipedia:sc" v="Giave"/>
   </node>
   <node id="72993898" lat="40.5483600" lon="8.8312210" version="40" timestamp="2023-11-04T06:05:38Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7249"/>

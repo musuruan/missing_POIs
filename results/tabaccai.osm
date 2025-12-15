@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-14T03:38:22Z" areas="2025-12-14T01:09:15Z"/>
+<meta osm_base="2025-12-15T03:30:52Z" areas="2025-12-15T00:37:08Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4213,7 +4213,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18488299"/>
   </node>
-  <node id="62510523" lat="45.2468451" lon="9.8384742" version="4" timestamp="2022-08-24T20:12:50Z" changeset="125331568" uid="9622178" user="GiovanniC83">
+  <node id="62510523" lat="45.2466345" lon="9.8383803" version="5" timestamp="2025-12-14T10:53:07Z" changeset="175913997" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2579"/>
     <tag k="name" v="Cappella Cantone"/>
     <tag k="place" v="village"/>
@@ -4307,7 +4307,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029382"/>
   </node>
-  <node id="62510729" lat="45.1868847" lon="9.7824836" version="13" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
+  <node id="62510729" lat="45.1871531" lon="9.7833660" version="14" timestamp="2025-12-14T10:53:07Z" changeset="175913997" uid="564585" user="wegavision">
     <tag k="name" v="Pizzighettone"/>
     <tag k="name:ru" v="Пиццигеттоне"/>
     <tag k="place" v="town"/>
@@ -14891,6 +14891,16 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1635"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="63629729" lat="45.0520303" lon="7.4304703" version="5" timestamp="2024-07-10T08:13:38Z" changeset="153772507" uid="21168218" user="mizioasr">
+    <tag k="gfoss_id" v="211"/>
+    <tag k="name" v="Reano"/>
+    <tag k="name:pms" v="Rean"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1437"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q10215"/>
+    <tag k="wikipedia" v="it:Reano"/>
   </node>
   <node id="63629734" lat="45.4326987" lon="7.5025536" version="5" timestamp="2019-12-29T12:43:43Z" changeset="78977714" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="212"/>
