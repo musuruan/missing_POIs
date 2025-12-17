@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-16T03:28:38Z" areas="2025-12-15T20:33:01Z"/>
+<meta osm_base="2025-12-17T03:30:36Z" areas="2025-12-16T18:16:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -28835,7 +28835,7 @@
     <tag k="population" v="927"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68507518" lat="42.8334672" lon="12.5777111" version="12" timestamp="2024-08-18T10:20:53Z" changeset="155406793" uid="1211510" user="arcanma">
+  <node id="68507518" lat="42.8335595" lon="12.5777971" version="13" timestamp="2025-12-16T12:15:24Z" changeset="176002955" uid="21372887" user="pat-pat">
     <tag k="ele" v="546"/>
     <tag k="gfoss_id" v="49523"/>
     <tag k="istat_id" v="5402110004"/>
@@ -35822,13 +35822,6 @@
     <tag k="population" v="3799"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981303" lat="43.2290211" lon="13.1779663" version="3" timestamp="2016-09-09T17:36:47Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4323"/>
-    <tag k="name" v="San Severino Marche"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12726"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70981317" lat="43.0991361" lon="13.3976439" version="4" timestamp="2024-01-25T12:12:49Z" changeset="146671199" uid="123412" user="totera">
     <tag k="gfoss_id" v="4324"/>
     <tag k="name" v="Sant'Angelo in Pontano"/>
@@ -39645,12 +39638,14 @@
     <tag k="wikimedia_commons" v="Category:Segni"/>
     <tag k="wikipedia" v="it:Segni (Italia)"/>
   </node>
-  <node id="72963479" lat="42.0998260" lon="13.0066860" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
+  <node id="72963479" lat="42.1000679" lon="13.0065855" version="5" timestamp="2025-12-16T14:10:28Z" changeset="176007655" uid="23618647" user="mishkapi">
     <tag k="gfoss_id" v="5024"/>
     <tag k="name" v="Vivaro Romano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="223"/>
+    <tag k="population" v="156"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="http://www.comunevivaroromano.it/"/>
     <tag k="wikidata" v="Q243525"/>
     <tag k="wikimedia_commons" v="Category:Vivaro Romano"/>
@@ -42854,20 +42849,6 @@
     <tag k="wikipedia" v="it:Bulzi"/>
     <tag k="wikipedia:sc" v="Bultzi"/>
   </node>
-  <node id="72993850" lat="40.4309503" lon="8.7149195" version="43" timestamp="2025-01-03T20:37:14Z" changeset="160965696" uid="1096017" user="Fabiano Peddis">
-    <tag k="gfoss_id" v="7234"/>
-    <tag k="name" v="Cossoine"/>
-    <tag k="name:it" v="Cossoine"/>
-    <tag k="name:sc" v="Cossoine"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="982"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.cossoine.ss.it/"/>
-    <tag k="wikidata" v="Q390692"/>
-    <tag k="wikipedia" v="it:Cossoine"/>
-    <tag k="wikipedia:sc" v="Cossoine"/>
-  </node>
   <node id="72993867" lat="40.7490640" lon="8.8186180" version="41" timestamp="2023-10-30T17:03:48Z" changeset="143377001" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7232"/>
     <tag k="name" v="Tzaramonte/Chiaramonti"/>
@@ -42941,20 +42922,6 @@
     <tag k="wikidata" v="Q391007"/>
     <tag k="wikipedia" v="it:Muros (Italia)"/>
     <tag k="wikipedia:sc" v="Muros"/>
-  </node>
-  <node id="72993946" lat="40.3963550" lon="8.6299190" version="41" timestamp="2023-11-10T07:52:01Z" changeset="143851255" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7260"/>
-    <tag k="name" v="Pàdria/Padria"/>
-    <tag k="name:it" v="Padria"/>
-    <tag k="name:sc" v="Pàdria"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="836"/>
-    <tag k="postal_code" v="07015"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.padria.ss.it/"/>
-    <tag k="wikidata" v="Q391191"/>
-    <tag k="wikipedia" v="sc:Pàdria"/>
-    <tag k="wikipedia:it" v="Padria"/>
   </node>
   <node id="72993969" lat="40.6748600" lon="8.5917140" version="39" timestamp="2017-03-03T19:54:00Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7258"/>
@@ -46719,6 +46686,12 @@
     <tag k="website" v="https://www.amministrazionicomunali.it/puglia/celle-di-san-vito"/>
     <tag k="wikidata" v="Q51923"/>
     <tag k="wikipedia" v="it:Celle di San Vito"/>
+  </node>
+  <node id="4087948103" lat="39.6978818" lon="16.1271277" version="3" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
+    <tag k="name" v="Altomonte"/>
+    <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q53826"/>
+    <tag k="wikipedia" v="it:Altomonte"/>
   </node>
   <node id="4096914985" lat="45.3739870" lon="7.5961265" version="5" timestamp="2023-01-17T19:51:56Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="name" v="Canischio"/>

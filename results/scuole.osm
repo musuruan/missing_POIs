@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-16T03:31:44Z" areas="2025-12-15T20:33:01Z"/>
+<meta osm_base="2025-12-17T03:32:38Z" areas="2025-12-16T18:16:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -22039,12 +22039,14 @@
     <tag k="wikimedia_commons" v="Category:Segni"/>
     <tag k="wikipedia" v="it:Segni (Italia)"/>
   </node>
-  <node id="72963479" lat="42.0998260" lon="13.0066860" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
+  <node id="72963479" lat="42.1000679" lon="13.0065855" version="5" timestamp="2025-12-16T14:10:28Z" changeset="176007655" uid="23618647" user="mishkapi">
     <tag k="gfoss_id" v="5024"/>
     <tag k="name" v="Vivaro Romano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="223"/>
+    <tag k="population" v="156"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="http://www.comunevivaroromano.it/"/>
     <tag k="wikidata" v="Q243525"/>
     <tag k="wikimedia_commons" v="Category:Vivaro Romano"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-16T03:27:37Z" areas="2025-12-15T20:33:01Z"/>
+<meta osm_base="2025-12-17T03:29:31Z" areas="2025-12-16T18:16:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -12498,7 +12498,7 @@
     <tag k="population" v="927"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68507518" lat="42.8334672" lon="12.5777111" version="12" timestamp="2024-08-18T10:20:53Z" changeset="155406793" uid="1211510" user="arcanma">
+  <node id="68507518" lat="42.8335595" lon="12.5777971" version="13" timestamp="2025-12-16T12:15:24Z" changeset="176002955" uid="21372887" user="pat-pat">
     <tag k="ele" v="546"/>
     <tag k="gfoss_id" v="49523"/>
     <tag k="istat_id" v="5402110004"/>
@@ -16062,13 +16062,6 @@
     <tag k="wikidata" v="Q52982"/>
     <tag k="wikipedia" v="it:Fusignano"/>
   </node>
-  <node id="69301450" lat="44.3891411" lon="11.8264421" version="5" timestamp="2024-08-03T20:46:21Z" changeset="154789481" uid="4022573" user="Lola Fox">
-    <tag k="gfoss_id" v="4115"/>
-    <tag k="name" v="Bagnara di Romagna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1761"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69301475" lat="44.7817335" lon="10.5284188" version="5" timestamp="2018-02-22T20:46:55Z" changeset="56591543" uid="447242" user="Rita Pampaloni">
     <tag k="gfoss_id" v="3944"/>
     <tag k="name" v="Campegine"/>
@@ -19191,12 +19184,14 @@
     <tag k="wikimedia_commons" v="Category:San Gregorio da Sassola"/>
     <tag k="wikipedia" v="it:San Gregorio da Sassola"/>
   </node>
-  <node id="72963479" lat="42.0998260" lon="13.0066860" version="4" timestamp="2023-12-20T14:37:35Z" changeset="145334230" uid="3860151" user="Michele Aquilani">
+  <node id="72963479" lat="42.1000679" lon="13.0065855" version="5" timestamp="2025-12-16T14:10:28Z" changeset="176007655" uid="23618647" user="mishkapi">
     <tag k="gfoss_id" v="5024"/>
     <tag k="name" v="Vivaro Romano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="223"/>
+    <tag k="population" v="156"/>
+    <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="http://www.comunevivaroromano.it/"/>
     <tag k="wikidata" v="Q243525"/>
     <tag k="wikimedia_commons" v="Category:Vivaro Romano"/>
@@ -21690,20 +21685,6 @@
     <tag k="website" v="https://www.comune.samugheo.or.it/"/>
     <tag k="wikidata" v="Q387576"/>
     <tag k="wikipedia" v="it:Samugheo"/>
-  </node>
-  <node id="72993827" lat="40.5063580" lon="8.7253190" version="41" timestamp="2023-11-07T14:20:36Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7231"/>
-    <tag k="name" v="Cherèmule/Cheremule"/>
-    <tag k="name:it" v="Cheremule"/>
-    <tag k="name:sc" v="Cherèmule"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="527"/>
-    <tag k="postal_code" v="07040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.cheremule.ss.it/"/>
-    <tag k="wikidata" v="Q390674"/>
-    <tag k="wikipedia" v="it:Cheremule"/>
-    <tag k="wikipedia:sc" v="Cherèmule"/>
   </node>
   <node id="72993839" lat="40.8473660" lon="8.8300160" version="41" timestamp="2023-10-28T07:23:50Z" changeset="143245870" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7226"/>
