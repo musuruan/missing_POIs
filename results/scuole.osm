@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-17T03:32:38Z" areas="2025-12-16T18:16:30Z"/>
+<meta osm_base="2025-12-18T03:42:00Z" areas="2025-12-18T00:13:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -293,7 +293,7 @@
     <tag k="wikidata" v="Q99965"/>
     <tag k="wikipedia" v="it:Bedulita"/>
   </node>
-  <node id="62505642" lat="45.5092097" lon="9.8509786" version="9" timestamp="2025-08-24T14:30:36Z" changeset="170928256" uid="1950277" user="Mannivu">
+  <node id="62505642" lat="45.5075769" lon="9.8530028" version="10" timestamp="2025-12-17T18:10:27Z" changeset="176062167" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="1970"/>
     <tag k="name" v="Calcio"/>
     <tag k="place" v="village"/>
@@ -2969,13 +2969,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="6604"/>
     <tag k="postal_code" v="46037"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62513298" lat="44.9755577" lon="11.1146492" version="3" timestamp="2024-10-30T14:36:04Z" changeset="158544733" uid="9925732" user="Flight777">
-    <tag k="gfoss_id" v="2723"/>
-    <tag k="name" v="Poggio Rusco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6297"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62513340" lat="45.1928760" lon="10.4868810" version="3" timestamp="2024-11-07T07:27:11Z" changeset="158842042" uid="9925732" user="Flight777">
@@ -14849,21 +14842,6 @@
     <tag k="wikidata" v="Q20409"/>
     <tag k="wikipedia" v="it:Città della Pieve"/>
   </node>
-  <node id="68507551" lat="42.8996582" lon="12.4359527" version="14" timestamp="2024-08-16T15:09:20Z" changeset="155332712" uid="1211510" user="arcanma">
-    <tag k="ele" v="469"/>
-    <tag k="gfoss_id" v="49333"/>
-    <tag k="istat_id" v="5401410003"/>
-    <tag k="name" v="Collazzone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="364"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="http://www.comune.collazzone.pg.it/"/>
-    <tag k="wikidata" v="Q20419"/>
-    <tag k="wikipedia" v="it:Collazzone"/>
-  </node>
   <node id="68507568" lat="43.2976278" lon="12.7598803" version="15" timestamp="2024-08-18T09:50:59Z" changeset="155405314" uid="1211510" user="arcanma">
     <tag k="ele" v="581"/>
     <tag k="gfoss_id" v="49489"/>
@@ -22039,7 +22017,7 @@
     <tag k="wikimedia_commons" v="Category:Segni"/>
     <tag k="wikipedia" v="it:Segni (Italia)"/>
   </node>
-  <node id="72963479" lat="42.1000679" lon="13.0065855" version="5" timestamp="2025-12-16T14:10:28Z" changeset="176007655" uid="23618647" user="mishkapi">
+  <node id="72963479" lat="42.1001110" lon="13.0065692" version="6" timestamp="2025-12-17T15:35:15Z" changeset="176056194" uid="23618647" user="mishkapi">
     <tag k="gfoss_id" v="5024"/>
     <tag k="name" v="Vivaro Romano"/>
     <tag k="place" v="village"/>
@@ -24227,19 +24205,6 @@
     <tag k="wikidata" v="Q391549"/>
     <tag k="wikipedia" v="it:Tergu"/>
     <tag k="wikipedia:sc" v="Tergu"/>
-  </node>
-  <node id="72994640" lat="40.5129590" lon="8.7653200" version="42" timestamp="2021-05-30T14:58:44Z" changeset="105571555" uid="1772368" user="pizzaiolo">
-    <tag k="gfoss_id" v="7280"/>
-    <tag k="name" v="Turalva/Torralba"/>
-    <tag k="name:it" v="Torralba"/>
-    <tag k="name:sc" v="Turalva"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1022"/>
-    <tag k="postal_code" v="07048"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.torralba.ss.it/"/>
-    <tag k="wikidata" v="Q30031175"/>
-    <tag k="wikipedia:sc" v="Turalva"/>
   </node>
   <node id="72994662" lat="40.9167765" lon="8.8943626" version="42" timestamp="2017-03-03T19:54:05Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7289"/>
