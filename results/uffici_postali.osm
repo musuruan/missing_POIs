@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-21T07:46:15Z" areas="2025-12-20T23:42:12Z"/>
+<meta osm_base="2025-12-22T03:29:39Z" areas="2025-12-21T20:54:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8388,13 +8388,14 @@
     <tag k="population" v="634"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587176" lat="44.1251300" lon="8.1715202" version="4" timestamp="2024-07-28T09:57:24Z" changeset="154512996" uid="21794763" user="N Longo">
+  <node id="66587176" lat="44.1251300" lon="8.1715202" version="5" timestamp="2025-12-21T11:25:33Z" changeset="176213143" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="1196"/>
     <tag k="name" v="Balestrino"/>
     <tag k="name:lij" v="Barestin"/>
     <tag k="place" v="village"/>
     <tag k="population" v="535"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q270518"/>
   </node>
   <node id="66587179" lat="44.2497350" lon="8.4433530" version="3" timestamp="2016-09-24T23:13:23Z" changeset="42413443" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1198"/>
@@ -17687,21 +17688,6 @@
     <tag k="wikidata" v="Q340665"/>
     <tag k="wikipedia" v="it:Bortigiadas"/>
     <tag k="wikipedia:sc" v="Bultigghjata"/>
-  </node>
-  <node id="72994305" lat="40.6694610" lon="8.6145150" version="41" timestamp="2023-10-31T15:41:30Z" changeset="143429177" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7229"/>
-    <tag k="name" v="Carzeghe/Cargeghe"/>
-    <tag k="name:it" v="Cargeghe"/>
-    <tag k="name:sc" v="Carzeghe"/>
-    <tag k="name:sdc" v="Cagliegga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="606"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.cargeghe.ss.it/"/>
-    <tag k="wikidata" v="Q390646"/>
-    <tag k="wikipedia" v="it:Cargeghe"/>
-    <tag k="wikipedia:sc" v="Carzeghe"/>
   </node>
   <node id="72994328" lat="40.9197741" lon="9.1948191" version="47" timestamp="2023-10-28T07:25:12Z" changeset="143245924" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7228"/>

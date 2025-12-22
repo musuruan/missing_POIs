@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-21T07:51:14Z" areas="2025-12-21T01:15:38Z"/>
+<meta osm_base="2025-12-22T03:40:51Z" areas="2025-12-21T20:54:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4759,12 +4759,6 @@
     <tag k="population" v="552"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63625106" lat="45.6130640" lon="8.1042210" version="2" timestamp="2017-01-01T15:39:01Z" changeset="44824795" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7728"/>
-    <tag k="name" v="Pettinengo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1555"/>
-  </node>
   <node id="63625113" lat="45.6265660" lon="8.1895220" version="4" timestamp="2023-01-17T19:52:22Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="7720"/>
     <tag k="name" v="Mezzana Mortigliengo"/>
@@ -8509,13 +8503,14 @@
     <tag k="postal_code" v="17054"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587176" lat="44.1251300" lon="8.1715202" version="4" timestamp="2024-07-28T09:57:24Z" changeset="154512996" uid="21794763" user="N Longo">
+  <node id="66587176" lat="44.1251300" lon="8.1715202" version="5" timestamp="2025-12-21T11:25:33Z" changeset="176213143" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="1196"/>
     <tag k="name" v="Balestrino"/>
     <tag k="name:lij" v="Barestin"/>
     <tag k="place" v="village"/>
     <tag k="population" v="535"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q270518"/>
   </node>
   <node id="66587191" lat="44.1110290" lon="8.1158490" version="3" timestamp="2024-07-28T10:47:00Z" changeset="154514748" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1257"/>
@@ -21702,21 +21697,6 @@
     <tag k="wikipedia" v="it:Osilo"/>
     <tag k="wikipedia:sc" v="Òsile"/>
   </node>
-  <node id="72993925" lat="40.6780610" lon="8.6173150" version="42" timestamp="2023-10-31T15:41:15Z" changeset="143429158" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7250"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Muros"/>
-    <tag k="name:it" v="Muros"/>
-    <tag k="name:sc" v="Muros"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="754"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.muros.ss.it/"/>
-    <tag k="wikidata" v="Q391007"/>
-    <tag k="wikipedia" v="it:Muros (Italia)"/>
-    <tag k="wikipedia:sc" v="Muros"/>
-  </node>
   <node id="72993946" lat="40.3963550" lon="8.6299190" version="41" timestamp="2023-11-10T07:52:01Z" changeset="143851255" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7260"/>
     <tag k="name" v="Pàdria/Padria"/>
@@ -21988,20 +21968,6 @@
     <tag k="wikidata" v="Q390845"/>
     <tag k="wikipedia" v="it:Illorai"/>
     <tag k="wikipedia:sc" v="Illorai"/>
-  </node>
-  <node id="72994402" lat="40.6572610" lon="8.6798160" version="41" timestamp="2023-10-31T15:41:34Z" changeset="143429182" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7233"/>
-    <tag k="name" v="Codronzanu/Codrongianos"/>
-    <tag k="name:it" v="Codrongianos"/>
-    <tag k="name:sc" v="Codronzanu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1281"/>
-    <tag k="postal_code" v="07040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunecodrongianos.it/"/>
-    <tag k="wikidata" v="Q390687"/>
-    <tag k="wikipedia" v="it:Codrongianos"/>
-    <tag k="wikipedia:sc" v="Codronzanu"/>
   </node>
   <node id="72994411" lat="40.6776730" lon="8.5626999" version="41" timestamp="2023-10-31T15:41:37Z" changeset="143429188" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7279"/>

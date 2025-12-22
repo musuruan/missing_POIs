@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-21T07:53:26Z" areas="2025-12-21T01:15:38Z"/>
+<meta osm_base="2025-12-22T03:43:58Z" areas="2025-12-21T20:54:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6848,7 +6848,7 @@
     <tag k="wikidata" v="Q30031545"/>
     <tag k="wikipedia" v="it:Vaprio d'Adda"/>
   </node>
-  <node id="62514439" lat="45.5973409" lon="9.1564841" version="12" timestamp="2025-12-19T10:53:37Z" changeset="176134931" uid="2498239" user="maurizioa">
+  <node id="62514439" lat="45.5973268" lon="9.1565874" version="13" timestamp="2025-12-21T15:43:24Z" changeset="176223469" uid="2498239" user="maurizioa">
     <tag k="gfoss_id" v="1910"/>
     <tag k="name" v="Varedo"/>
     <tag k="name:lmo" v="Varé"/>
@@ -23372,13 +23372,14 @@
     <tag k="population" v="1461"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587176" lat="44.1251300" lon="8.1715202" version="4" timestamp="2024-07-28T09:57:24Z" changeset="154512996" uid="21794763" user="N Longo">
+  <node id="66587176" lat="44.1251300" lon="8.1715202" version="5" timestamp="2025-12-21T11:25:33Z" changeset="176213143" uid="22242779" user="notmyproblem1">
     <tag k="gfoss_id" v="1196"/>
     <tag k="name" v="Balestrino"/>
     <tag k="name:lij" v="Barestin"/>
     <tag k="place" v="village"/>
     <tag k="population" v="535"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q270518"/>
   </node>
   <node id="66587179" lat="44.2497350" lon="8.4433530" version="3" timestamp="2016-09-24T23:13:23Z" changeset="42413443" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1198"/>
@@ -42884,21 +42885,6 @@
     <tag k="wikipedia" v="it:Mores"/>
     <tag k="wikipedia:sc" v="Mores"/>
   </node>
-  <node id="72993925" lat="40.6780610" lon="8.6173150" version="42" timestamp="2023-10-31T15:41:15Z" changeset="143429158" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7250"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Muros"/>
-    <tag k="name:it" v="Muros"/>
-    <tag k="name:sc" v="Muros"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="754"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.muros.ss.it/"/>
-    <tag k="wikidata" v="Q391007"/>
-    <tag k="wikipedia" v="it:Muros (Italia)"/>
-    <tag k="wikipedia:sc" v="Muros"/>
-  </node>
   <node id="72993969" lat="40.6748600" lon="8.5917140" version="39" timestamp="2017-03-03T19:54:00Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7258"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
@@ -43216,21 +43202,6 @@
     <tag k="wikipedia" v="it:Illorai"/>
     <tag k="wikipedia:sc" v="Illorai"/>
   </node>
-  <node id="72994388" lat="40.6495610" lon="8.6651160" version="42" timestamp="2023-10-31T15:41:48Z" changeset="143429199" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7236"/>
-    <tag k="name" v="Fiolinas/Florinas"/>
-    <tag k="name:it" v="Florinas"/>
-    <tag k="name:sc" v="Fiolinas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1574"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="ref:LOCODE" v="ITFLS"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.florinas.ss.it/"/>
-    <tag k="wikidata" v="Q390824"/>
-    <tag k="wikipedia" v="it:Florinas"/>
-    <tag k="wikipedia:sc" v="Fiolinas"/>
-  </node>
   <node id="72994394" lat="40.3866072" lon="8.9897133" version="43" timestamp="2023-10-30T08:25:56Z" changeset="143351227" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7235"/>
     <tag k="name" v="Isporlatu/Esporlatu"/>
@@ -43244,20 +43215,6 @@
     <tag k="wikidata" v="Q390704"/>
     <tag k="wikipedia" v="it:Esporlatu"/>
     <tag k="wikipedia:sc" v="Isporlatu"/>
-  </node>
-  <node id="72994402" lat="40.6572610" lon="8.6798160" version="41" timestamp="2023-10-31T15:41:34Z" changeset="143429182" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7233"/>
-    <tag k="name" v="Codronzanu/Codrongianos"/>
-    <tag k="name:it" v="Codrongianos"/>
-    <tag k="name:sc" v="Codronzanu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1281"/>
-    <tag k="postal_code" v="07040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunecodrongianos.it/"/>
-    <tag k="wikidata" v="Q390687"/>
-    <tag k="wikipedia" v="it:Codrongianos"/>
-    <tag k="wikipedia:sc" v="Codronzanu"/>
   </node>
   <node id="72994411" lat="40.6776730" lon="8.5626999" version="41" timestamp="2023-10-31T15:41:37Z" changeset="143429188" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7279"/>

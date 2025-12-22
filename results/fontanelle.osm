@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-21T07:50:15Z" areas="2025-12-20T23:42:12Z"/>
+<meta osm_base="2025-12-22T03:34:44Z" areas="2025-12-21T20:54:13Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2159,13 +2159,6 @@
     <tag k="name" v="Lessona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2450"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63625203" lat="45.6134640" lon="8.0447190" version="4" timestamp="2023-01-17T19:52:11Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="7721"/>
-    <tag k="name" v="Miagliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="592"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63625226" lat="45.5378620" lon="8.0750220" version="4" timestamp="2023-01-17T19:58:36Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -9702,21 +9695,6 @@
     <tag k="wikipedia" v="it:Mores"/>
     <tag k="wikipedia:sc" v="Mores"/>
   </node>
-  <node id="72993925" lat="40.6780610" lon="8.6173150" version="42" timestamp="2023-10-31T15:41:15Z" changeset="143429158" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7250"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Muros"/>
-    <tag k="name:it" v="Muros"/>
-    <tag k="name:sc" v="Muros"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="754"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.muros.ss.it/"/>
-    <tag k="wikidata" v="Q391007"/>
-    <tag k="wikipedia" v="it:Muros (Italia)"/>
-    <tag k="wikipedia:sc" v="Muros"/>
-  </node>
   <node id="72993969" lat="40.6748600" lon="8.5917140" version="39" timestamp="2017-03-03T19:54:00Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7258"/>
     <tag k="is_in" v="Sassari, Sardegna, Italy"/>
@@ -9864,35 +9842,6 @@
     <tag k="wikidata" v="Q390845"/>
     <tag k="wikipedia" v="it:Illorai"/>
     <tag k="wikipedia:sc" v="Illorai"/>
-  </node>
-  <node id="72994388" lat="40.6495610" lon="8.6651160" version="42" timestamp="2023-10-31T15:41:48Z" changeset="143429199" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7236"/>
-    <tag k="name" v="Fiolinas/Florinas"/>
-    <tag k="name:it" v="Florinas"/>
-    <tag k="name:sc" v="Fiolinas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1574"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="ref:LOCODE" v="ITFLS"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.florinas.ss.it/"/>
-    <tag k="wikidata" v="Q390824"/>
-    <tag k="wikipedia" v="it:Florinas"/>
-    <tag k="wikipedia:sc" v="Fiolinas"/>
-  </node>
-  <node id="72994402" lat="40.6572610" lon="8.6798160" version="41" timestamp="2023-10-31T15:41:34Z" changeset="143429182" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7233"/>
-    <tag k="name" v="Codronzanu/Codrongianos"/>
-    <tag k="name:it" v="Codrongianos"/>
-    <tag k="name:sc" v="Codronzanu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1281"/>
-    <tag k="postal_code" v="07040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunecodrongianos.it/"/>
-    <tag k="wikidata" v="Q390687"/>
-    <tag k="wikipedia" v="it:Codrongianos"/>
-    <tag k="wikipedia:sc" v="Codronzanu"/>
   </node>
   <node id="72994414" lat="40.7324650" lon="8.9839210" version="40" timestamp="2023-10-30T17:03:32Z" changeset="143376989" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7282"/>
