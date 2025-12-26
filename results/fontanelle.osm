@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-25T03:23:56Z" areas="2025-12-24T19:43:59Z"/>
+<meta osm_base="2025-12-26T03:27:40Z" areas="2025-12-25T20:33:57Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2606,12 +2606,14 @@
     <tag k="population" v="4367"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778278" lat="45.4904556" lon="11.9730203" version="3" timestamp="2016-10-06T18:22:40Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778278" lat="45.4904556" lon="11.9730203" version="4" timestamp="2025-12-25T23:37:54Z" changeset="176413104" uid="16429077" user="Grazing6603">
     <tag k="gfoss_id" v="3619"/>
     <tag k="name" v="Villanova di Camposampiero"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6139"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q34350"/>
+    <tag k="wikipedia" v="it:Villanova di Camposampiero"/>
   </node>
   <node id="64778299" lat="45.1773324" lon="11.7433722" version="3" timestamp="2016-10-06T18:22:38Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3602"/>
@@ -3066,14 +3068,15 @@
     <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
     <tag k="wikidata" v="Q30025709"/>
   </node>
-  <node id="64778795" lat="45.4559602" lon="12.0301919" version="14" timestamp="2025-10-29T11:33:25Z" changeset="173924880" uid="1717503" user="osm19">
+  <node id="64778795" lat="45.4559602" lon="12.0301919" version="15" timestamp="2025-12-25T23:37:54Z" changeset="176413104" uid="16429077" user="Grazing6603">
     <tag k="gfoss_id" v="350t1"/>
     <tag k="name" v="Pianiga"/>
     <tag k="note" v="12280 (Comune) 3400 (Capoluogo comunale)"/>
     <tag k="place" v="town"/>
     <tag k="population" v="12280"/>
     <tag k="source" v="ISTAT"/>
-    <tag k="wikidata" v="Q30028799"/>
+    <tag k="wikidata" v="Q46950"/>
+    <tag k="wikipedia" v="it:Pianiga"/>
   </node>
   <node id="64778804" lat="45.3856853" lon="12.0481730" version="10" timestamp="2025-07-23T16:19:20Z" changeset="169354244" uid="1717503" user="osm19">
     <tag k="name" v="Fossò"/>
@@ -9954,19 +9957,6 @@
     <tag k="website" v="https://www.comune.stintino.ss.it/"/>
     <tag k="wikidata" v="Q391409"/>
     <tag k="wikipedia" v="sc:Istintinu"/>
-  </node>
-  <node id="72994725" lat="40.6515580" lon="8.3802100" version="44" timestamp="2023-10-28T16:38:14Z" changeset="143271604" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7255"/>
-    <tag k="name" v="S'Ulumedu/Olmedo"/>
-    <tag k="name:be" v="Альмеда"/>
-    <tag k="name:it" v="Olmedo"/>
-    <tag k="name:sc" v="S'Ulumedu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2852"/>
-    <tag k="postal_code" v="07040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.olmedo.ss.it/"/>
-    <tag k="wikidata" v="Q30028341"/>
   </node>
   <node id="72994756" lat="40.9348579" lon="9.1754471" version="43" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7244"/>

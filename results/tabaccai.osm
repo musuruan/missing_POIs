@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-25T03:27:57Z" areas="2025-12-24T19:43:59Z"/>
+<meta osm_base="2025-12-26T03:32:49Z" areas="2025-12-25T17:09:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -18749,12 +18749,14 @@
     <tag k="wikidata" v="Q34545"/>
     <tag k="wikipedia" v="it:Vo'"/>
   </node>
-  <node id="64778278" lat="45.4904556" lon="11.9730203" version="3" timestamp="2016-10-06T18:22:40Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778278" lat="45.4904556" lon="11.9730203" version="4" timestamp="2025-12-25T23:37:54Z" changeset="176413104" uid="16429077" user="Grazing6603">
     <tag k="gfoss_id" v="3619"/>
     <tag k="name" v="Villanova di Camposampiero"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6139"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q34350"/>
+    <tag k="wikipedia" v="it:Villanova di Camposampiero"/>
   </node>
   <node id="64778284" lat="45.5918117" lon="12.0509986" version="6" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3608"/>
@@ -43325,21 +43327,6 @@
     <tag k="wikipedia" v="it:Santa Maria Coghinas"/>
     <tag k="wikipedia:sc" v="Cuzina"/>
   </node>
-  <node id="72994559" lat="40.6394590" lon="8.4854120" version="40" timestamp="2023-10-31T15:41:18Z" changeset="143429161" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7283"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Uri"/>
-    <tag k="name:it" v="Uri"/>
-    <tag k="name:sc" v="Uri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3050"/>
-    <tag k="postal_code" v="07040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.uri.ss.it/"/>
-    <tag k="wikidata" v="Q391683"/>
-    <tag k="wikipedia" v="it:Uri (Italia)"/>
-    <tag k="wikipedia:sc" v="Uri"/>
-  </node>
   <node id="72994583" lat="40.9916247" lon="9.3011094" version="44" timestamp="2023-10-28T07:18:39Z" changeset="143245655" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Sant'Antoni de Calanzanus"/>
     <tag k="gfoss_id" v="7292"/>
@@ -43455,19 +43442,6 @@
     <tag k="wikidata" v="Q391122"/>
     <tag k="wikipedia" v="it:Nulvi"/>
     <tag k="wikipedia:sc" v="Nujvi"/>
-  </node>
-  <node id="72994725" lat="40.6515580" lon="8.3802100" version="44" timestamp="2023-10-28T16:38:14Z" changeset="143271604" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7255"/>
-    <tag k="name" v="S'Ulumedu/Olmedo"/>
-    <tag k="name:be" v="Альмеда"/>
-    <tag k="name:it" v="Olmedo"/>
-    <tag k="name:sc" v="S'Ulumedu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2852"/>
-    <tag k="postal_code" v="07040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.olmedo.ss.it/"/>
-    <tag k="wikidata" v="Q30028341"/>
   </node>
   <node id="72994756" lat="40.9348579" lon="9.1754471" version="43" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7244"/>
