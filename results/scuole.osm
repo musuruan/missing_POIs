@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-28T03:53:17Z" areas="2025-12-27T18:50:31Z"/>
+<meta osm_base="2025-12-29T03:53:27Z" areas="2025-12-28T22:04:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1135,12 +1135,15 @@
     <tag k="population" v="7049"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507646" lat="45.3073780" lon="10.4146770" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507646" lat="45.3074622" lon="10.4115548" version="3" timestamp="2025-12-28T18:21:41Z" changeset="176542547" uid="23653359" user="Perfo6">
     <tag k="gfoss_id" v="2171"/>
     <tag k="name" v="Acquafredda"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1409"/>
+    <tag k="population" v="1551"/>
+    <tag k="population:date" v="2025-09-39"/>
+    <tag k="reg_name" v="Aquafrèda"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="census"/>
   </node>
   <node id="62507659" lat="45.6727860" lon="10.3388690" version="3" timestamp="2024-09-09T17:58:23Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2189"/>
@@ -24165,21 +24168,6 @@
     <tag k="wikidata" v="Q340920"/>
     <tag k="wikipedia" v="it:Monti (Italia)"/>
     <tag k="wikipedia:sc" v="Monti"/>
-  </node>
-  <node id="72994711" lat="40.7837640" lon="8.7437160" version="41" timestamp="2023-10-28T07:23:05Z" changeset="143245838" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Nuivi"/>
-    <tag k="gfoss_id" v="7253"/>
-    <tag k="name" v="Nujvi/Nulvi"/>
-    <tag k="name:it" v="Nulvi"/>
-    <tag k="name:sc" v="Nujvi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3007"/>
-    <tag k="postal_code" v="07032"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.nulvi.ss.it/"/>
-    <tag k="wikidata" v="Q391122"/>
-    <tag k="wikipedia" v="it:Nulvi"/>
-    <tag k="wikipedia:sc" v="Nujvi"/>
   </node>
   <node id="72994756" lat="40.9348579" lon="9.1754471" version="43" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7244"/>

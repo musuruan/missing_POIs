@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-28T03:51:18Z" areas="2025-12-28T00:04:43Z"/>
+<meta osm_base="2025-12-29T03:52:32Z" areas="2025-12-28T22:04:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2662,12 +2662,15 @@
     <tag k="population" v="6840"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507646" lat="45.3073780" lon="10.4146770" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507646" lat="45.3074622" lon="10.4115548" version="3" timestamp="2025-12-28T18:21:41Z" changeset="176542547" uid="23653359" user="Perfo6">
     <tag k="gfoss_id" v="2171"/>
     <tag k="name" v="Acquafredda"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1409"/>
+    <tag k="population" v="1551"/>
+    <tag k="population:date" v="2025-09-39"/>
+    <tag k="reg_name" v="Aquafrèda"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="census"/>
   </node>
   <node id="62507651" lat="45.6506760" lon="10.3533352" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2173"/>
@@ -23724,8 +23727,10 @@
     <tag k="population" v="1855"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67254855" lat="37.7481225" lon="14.3982978" version="19" timestamp="2025-10-01T14:25:04Z" changeset="172709350" uid="22632809" user="KeyTV">
+  <node id="67254855" lat="37.7481225" lon="14.3982978" version="20" timestamp="2025-12-28T23:54:09Z" changeset="176552720" uid="18913526" user="Gurusraouta">
+    <tag k="alt_name:ar" v="النيقشين"/>
     <tag k="name" v="Nicosia"/>
+    <tag k="name:ar" v="نيقوسيا"/>
     <tag k="name:roa-gis" v="Nẹcọscia"/>
     <tag k="name:ru" v="Никозия"/>
     <tag k="name:scn" v="Nicusìa"/>
@@ -43097,21 +43102,6 @@
     <tag k="wikipedia" v="it:Banari"/>
     <tag k="wikipedia:sc" v="Bànari"/>
   </node>
-  <node id="72994365" lat="40.8170650" lon="8.8354170" version="40" timestamp="2023-10-28T07:18:06Z" changeset="143245626" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7241"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Laerru"/>
-    <tag k="name:it" v="Laerru"/>
-    <tag k="name:sc" v="Laerru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1029"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunelaerru.ss.it/"/>
-    <tag k="wikidata" v="Q390875"/>
-    <tag k="wikipedia" v="it:Laerru"/>
-    <tag k="wikipedia:sc" v="Laerru"/>
-  </node>
   <node id="72994380" lat="40.3538580" lon="9.0010270" version="40" timestamp="2023-10-30T08:25:35Z" changeset="143351201" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Illurai"/>
     <tag k="gfoss_id" v="7238"/>
@@ -43373,21 +43363,6 @@
     <tag k="wikidata" v="Q340920"/>
     <tag k="wikipedia" v="it:Monti (Italia)"/>
     <tag k="wikipedia:sc" v="Monti"/>
-  </node>
-  <node id="72994711" lat="40.7837640" lon="8.7437160" version="41" timestamp="2023-10-28T07:23:05Z" changeset="143245838" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Nuivi"/>
-    <tag k="gfoss_id" v="7253"/>
-    <tag k="name" v="Nujvi/Nulvi"/>
-    <tag k="name:it" v="Nulvi"/>
-    <tag k="name:sc" v="Nujvi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3007"/>
-    <tag k="postal_code" v="07032"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.nulvi.ss.it/"/>
-    <tag k="wikidata" v="Q391122"/>
-    <tag k="wikipedia" v="it:Nulvi"/>
-    <tag k="wikipedia:sc" v="Nujvi"/>
   </node>
   <node id="72994756" lat="40.9348579" lon="9.1754471" version="43" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7244"/>

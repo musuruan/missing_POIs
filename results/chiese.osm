@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-28T03:45:05Z" areas="2025-12-27T18:50:31Z"/>
+<meta osm_base="2025-12-29T03:43:15Z" areas="2025-12-28T20:16:56Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -113,12 +113,15 @@
     <tag k="population" v="76"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507646" lat="45.3073780" lon="10.4146770" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507646" lat="45.3074622" lon="10.4115548" version="3" timestamp="2025-12-28T18:21:41Z" changeset="176542547" uid="23653359" user="Perfo6">
     <tag k="gfoss_id" v="2171"/>
     <tag k="name" v="Acquafredda"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1409"/>
+    <tag k="population" v="1551"/>
+    <tag k="population:date" v="2025-09-39"/>
+    <tag k="reg_name" v="Aquafrèda"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="census"/>
   </node>
   <node id="62508062" lat="45.2785132" lon="10.3722097" version="5" timestamp="2019-10-20T21:00:56Z" changeset="75964892" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2330"/>
@@ -6277,21 +6280,6 @@
     <tag k="website" v="https://www.comune.pompu.or.it/"/>
     <tag k="wikidata" v="Q387452"/>
     <tag k="wikipedia" v="it:Pompu"/>
-  </node>
-  <node id="72994365" lat="40.8170650" lon="8.8354170" version="40" timestamp="2023-10-28T07:18:06Z" changeset="143245626" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7241"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Laerru"/>
-    <tag k="name:it" v="Laerru"/>
-    <tag k="name:sc" v="Laerru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1029"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunelaerru.ss.it/"/>
-    <tag k="wikidata" v="Q390875"/>
-    <tag k="wikipedia" v="it:Laerru"/>
-    <tag k="wikipedia:sc" v="Laerru"/>
   </node>
   <node id="72994522" lat="40.7657700" lon="9.5202320" version="42" timestamp="2024-01-12T21:28:10Z" changeset="146196238" uid="12097022" user="conifermapper">
     <tag k="gfoss_id" v="7297"/>
