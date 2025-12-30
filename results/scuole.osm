@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-29T03:53:27Z" areas="2025-12-28T22:04:46Z"/>
+<meta osm_base="2025-12-30T03:39:05Z" areas="2025-12-30T00:36:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1134,16 +1134,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="7049"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62507646" lat="45.3074622" lon="10.4115548" version="3" timestamp="2025-12-28T18:21:41Z" changeset="176542547" uid="23653359" user="Perfo6">
-    <tag k="gfoss_id" v="2171"/>
-    <tag k="name" v="Acquafredda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1551"/>
-    <tag k="population:date" v="2025-09-39"/>
-    <tag k="reg_name" v="Aquafrèda"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="census"/>
   </node>
   <node id="62507659" lat="45.6727860" lon="10.3388690" version="3" timestamp="2024-09-09T17:58:23Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2189"/>
@@ -10735,11 +10725,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q267032"/>
   </node>
-  <node id="66586530" lat="44.3824724" lon="9.3756036" version="4" timestamp="2016-10-01T18:39:51Z" changeset="42568713" uid="743479" user="fayor">
-    <tag k="name" v="Prati di Mezzanego"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="540"/>
-  </node>
   <node id="66586546" lat="44.3544648" lon="9.3151786" version="3" timestamp="2016-10-01T18:39:48Z" changeset="42568713" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1286"/>
     <tag k="name" v="Leivi"/>
@@ -18722,12 +18707,13 @@
     <tag k="population" v="5017"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980534" lat="42.9840387" lon="13.6880521" version="3" timestamp="2022-08-17T04:48:57Z" changeset="124998101" uid="1940323" user="SekeRob">
+  <node id="70980534" lat="42.9840387" lon="13.6880521" version="4" timestamp="2025-12-29T23:20:52Z" changeset="176603204" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="4349"/>
     <tag k="name" v="Cossignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1036"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q35491837"/>
   </node>
   <node id="70980552" lat="42.9799650" lon="13.3560847" version="8" timestamp="2025-05-20T13:10:24Z" changeset="166524368" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="4337"/>
@@ -19109,12 +19095,13 @@
     <tag k="population" v="2457"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981798" lat="43.6964580" lon="12.4978510" version="3" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70981798" lat="43.6964580" lon="12.4978510" version="4" timestamp="2025-12-29T22:33:49Z" changeset="176602041" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="4201"/>
     <tag k="name" v="Peglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="727"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028680"/>
   </node>
   <node id="70981824" lat="43.6473550" lon="12.3366480" version="3" timestamp="2016-09-09T17:36:37Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4185"/>

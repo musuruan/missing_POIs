@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-29T03:42:17Z" areas="2025-12-28T22:04:46Z"/>
+<meta osm_base="2025-12-30T03:23:45Z" areas="2025-12-29T22:36:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14164,12 +14164,13 @@
     <tag k="population" v="5017"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980534" lat="42.9840387" lon="13.6880521" version="3" timestamp="2022-08-17T04:48:57Z" changeset="124998101" uid="1940323" user="SekeRob">
+  <node id="70980534" lat="42.9840387" lon="13.6880521" version="4" timestamp="2025-12-29T23:20:52Z" changeset="176603204" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="4349"/>
     <tag k="name" v="Cossignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1036"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q35491837"/>
   </node>
   <node id="70980560" lat="42.7699440" lon="13.4101850" version="3" timestamp="2016-09-09T17:36:27Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4334"/>
@@ -14417,12 +14418,13 @@
     <tag k="population" v="2457"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70981798" lat="43.6964580" lon="12.4978510" version="3" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70981798" lat="43.6964580" lon="12.4978510" version="4" timestamp="2025-12-29T22:33:49Z" changeset="176602041" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="4201"/>
     <tag k="name" v="Peglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="727"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028680"/>
   </node>
   <node id="70981845" lat="43.8404600" lon="12.4147470" version="3" timestamp="2016-09-09T17:36:39Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4191"/>
@@ -17212,20 +17214,6 @@
     <tag k="wikidata" v="Q283968"/>
     <tag k="wikipedia" v="it:Gergei"/>
     <tag k="wikipedia:sc" v="Gerxei"/>
-  </node>
-  <node id="72992487" lat="40.2288550" lon="8.8964270" version="41" timestamp="2017-03-01T21:24:58Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7314"/>
-    <tag k="name" v="Duarche/Dualchi"/>
-    <tag k="name:it" v="Dualchi"/>
-    <tag k="name:sc" v="Duarche"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="764"/>
-    <tag k="postal_code" v="08010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.dualchi.gov.it/index.asp"/>
-    <tag k="wikidata" v="Q294793"/>
-    <tag k="wikipedia" v="it:Dualchi"/>
-    <tag k="wikipedia:sc" v="Duarche"/>
   </node>
   <node id="72992515" lat="39.7791490" lon="9.2847410" version="44" timestamp="2023-11-07T13:35:15Z" changeset="143737639" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Stersili"/>
