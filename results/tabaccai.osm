@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2025-12-30T03:36:58Z" areas="2025-12-29T22:36:58Z"/>
+<meta osm_base="2025-12-31T03:36:45Z" areas="2025-12-31T00:19:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -20542,9 +20542,10 @@
     <tag k="source" v="Regione Veneto, License IODL-2.0"/>
     <tag k="wikidata" v="Q47342"/>
   </node>
-  <node id="64779110" lat="45.8035167" lon="11.3504042" version="5" timestamp="2016-10-08T21:08:45Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779110" lat="45.8035167" lon="11.3504042" version="6" timestamp="2025-12-30T17:13:52Z" changeset="176638946" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3195"/>
     <tag k="name" v="Arsiero"/>
+    <tag k="name:ru" v="Арсьеро"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3353"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -20808,11 +20809,12 @@
     <tag k="population" v="1234"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779207" lat="45.8753771" lon="11.5106998" version="11" timestamp="2021-09-02T11:12:30Z" changeset="110613980" uid="616774" user="mueschel">
+  <node id="64779207" lat="45.8753771" lon="11.5106998" version="12" timestamp="2025-12-30T16:37:04Z" changeset="176637244" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3197"/>
     <tag k="name" v="Asiago"/>
     <tag k="name:cim" v="Slege"/>
     <tag k="name:it" v="Asiago"/>
+    <tag k="name:ru" v="Азиаго"/>
     <tag k="name:vec" v="Axiago"/>
     <tag k="old_name:de" v="Schlägen"/>
     <tag k="place" v="village"/>
@@ -43593,12 +43595,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="621"/>
   </node>
-  <node id="317401114" lat="45.7826533" lon="11.1188581" version="3" timestamp="2013-09-02T18:14:24Z" changeset="17640743" uid="305001" user="voschix">
+  <node id="317401114" lat="45.7826750" lon="11.1186786" version="4" timestamp="2025-12-30T21:16:17Z" changeset="176648102" uid="19971463" user="LeoBorGiov">
     <tag k="ele" v="724"/>
     <tag k="gfoss_id" v="23635"/>
     <tag k="istat_id" v="2147483647"/>
     <tag k="name" v="Raossi"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="hamlet"/>
     <tag k="population" v="167"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
