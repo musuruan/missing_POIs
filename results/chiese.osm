@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-01T03:46:01Z" areas="2025-12-31T19:31:17Z"/>
+<meta osm_base="2026-01-02T03:32:43Z" areas="2026-01-01T18:32:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -113,12 +113,12 @@
     <tag k="population" v="76"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507646" lat="45.3074622" lon="10.4115548" version="3" timestamp="2025-12-28T18:21:41Z" changeset="176542547" uid="23653359" user="Perfo6">
+  <node id="62507646" lat="45.3074622" lon="10.4115548" version="4" timestamp="2026-01-01T22:15:58Z" changeset="176721209" uid="23653359" user="Perfo6">
     <tag k="gfoss_id" v="2171"/>
     <tag k="name" v="Acquafredda"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1551"/>
-    <tag k="population:date" v="2025-09-39"/>
+    <tag k="population:date" v="2025-09-30"/>
     <tag k="reg_name" v="Aquafrèda"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="census"/>
@@ -357,14 +357,14 @@
     <tag k="postal_code" v="46035"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513390" lat="45.0378617" lon="11.2281660" version="4" timestamp="2018-12-31T15:03:38Z" changeset="65914774" uid="743479" user="fayor">
+  <node id="62513390" lat="45.0378617" lon="11.2281660" version="5" timestamp="2026-01-01T16:00:24Z" changeset="176709142" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2690"/>
     <tag k="name" v="Carbonara di Po"/>
     <tag k="place" v="village"/>
     <tag k="population" v="937"/>
     <tag k="postal_code" v="46020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q42325"/>
+    <tag k="wikidata" v="Q30023731"/>
     <tag k="wikipedia" v="it:Carbonara di Po"/>
   </node>
   <node id="62513451" lat="45.0349397" lon="10.7640229" version="3" timestamp="2024-11-07T07:20:20Z" changeset="158842042" uid="9925732" user="Flight777">
@@ -667,7 +667,7 @@
     <tag k="ref:ISTAT" v="029008"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778480" lat="45.0601694" lon="11.2529005" version="6" timestamp="2017-04-02T21:55:22Z" changeset="47394388" uid="1834719" user="LvdT">
+  <node id="64778480" lat="45.0601694" lon="11.2529005" version="7" timestamp="2026-01-01T16:00:26Z" changeset="176709142" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3627"/>
     <tag k="name" v="Bergantino"/>
     <tag k="name:egl" v="Bergantìn"/>
@@ -675,6 +675,7 @@
     <tag k="population" v="2627"/>
     <tag k="postal_code" v="45032"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022764"/>
   </node>
   <node id="64778481" lat="45.0278273" lon="11.2874453" version="4" timestamp="2017-04-02T21:55:22Z" changeset="47394388" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="3634"/>
@@ -2390,12 +2391,17 @@
     <tag k="population" v="2212"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280536" lat="40.1495090" lon="16.1438810" version="2" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280536" lat="40.1495090" lon="16.1438810" version="3" timestamp="2026-01-01T10:09:27Z" changeset="176697312" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="630"/>
     <tag k="gfoss_id" v="6370"/>
     <tag k="name" v="Calvera"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="584"/>
+    <tag k="population" v="348"/>
+    <tag k="population:date" v="2025-09-30"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q52545"/>
+    <tag k="wikipedia" v="it:Calvera"/>
   </node>
   <node id="67280544" lat="40.4778488" lon="15.6301506" version="25" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6367"/>
@@ -2423,20 +2429,29 @@
     <tag k="population" v="1439"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280597" lat="40.0103050" lon="15.9750790" version="2" timestamp="2016-08-28T18:58:17Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280597" lat="40.0103050" lon="15.9750790" version="3" timestamp="2026-01-01T13:36:32Z" changeset="176703653" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="680"/>
     <tag k="gfoss_id" v="6377"/>
     <tag k="name" v="Castelluccio Superiore"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="987"/>
+    <tag k="population" v="711"/>
+    <tag k="population:date" v="2025-09-30"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q52553"/>
+    <tag k="wikipedia" v="it:Castelluccio Superiore"/>
   </node>
-  <node id="67280613" lat="40.0748070" lon="16.0981810" version="3" timestamp="2021-06-06T01:50:56Z" changeset="105901588" uid="1772368" user="pizzaiolo">
+  <node id="67280613" lat="40.0748070" lon="16.0981810" version="4" timestamp="2026-01-01T18:11:18Z" changeset="176713804" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="530"/>
     <tag k="gfoss_id" v="6384"/>
     <tag k="name" v="Episcopia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1625"/>
+    <tag k="population" v="1210"/>
+    <tag k="population:date" v="2025-09-30"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30025545"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q52567"/>
+    <tag k="wikipedia" v="it:Episcopia"/>
   </node>
   <node id="67280625" lat="40.0470090" lon="16.3493860" version="2" timestamp="2016-08-28T18:58:19Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6381"/>

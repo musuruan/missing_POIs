@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-01T03:49:01Z" areas="2025-12-31T23:14:32Z"/>
+<meta osm_base="2026-01-02T03:38:37Z" areas="2026-01-01T22:08:03Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -878,12 +878,13 @@
     <tag k="population" v="2525"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513485" lat="45.0055780" lon="11.1811000" version="2" timestamp="2019-12-23T00:59:48Z" changeset="78747398" uid="743479" user="fayor">
+  <node id="62513485" lat="45.0055780" lon="11.1811000" version="3" timestamp="2026-01-01T16:00:24Z" changeset="176709142" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="2710"/>
     <tag k="name" v="Magnacavallo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1781"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027108"/>
   </node>
   <node id="62513495" lat="44.9533720" lon="10.6375880" version="5" timestamp="2025-12-04T16:25:59Z" changeset="175504596" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2703"/>
@@ -2790,7 +2791,7 @@
     <tag k="ref:ISTAT" v="029008"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778480" lat="45.0601694" lon="11.2529005" version="6" timestamp="2017-04-02T21:55:22Z" changeset="47394388" uid="1834719" user="LvdT">
+  <node id="64778480" lat="45.0601694" lon="11.2529005" version="7" timestamp="2026-01-01T16:00:26Z" changeset="176709142" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3627"/>
     <tag k="name" v="Bergantino"/>
     <tag k="name:egl" v="Bergantìn"/>
@@ -2798,6 +2799,7 @@
     <tag k="population" v="2627"/>
     <tag k="postal_code" v="45032"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022764"/>
   </node>
   <node id="64778481" lat="45.0278273" lon="11.2874453" version="4" timestamp="2017-04-02T21:55:22Z" changeset="47394388" uid="1834719" user="LvdT">
     <tag k="gfoss_id" v="3634"/>
@@ -3441,10 +3443,11 @@
     <tag k="wikidata" v="Q53276"/>
     <tag k="wikipedia" v="it:Magnano in Riviera"/>
   </node>
-  <node id="66503491" lat="45.9779201" lon="13.4010809" version="7" timestamp="2025-07-15T11:35:25Z" changeset="168960828" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503491" lat="45.9779201" lon="13.4010809" version="8" timestamp="2026-01-01T13:26:23Z" changeset="176703337" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3772"/>
     <tag k="name" v="San Giovanni al Natisone / San Zuan dal Nadison"/>
     <tag k="name:fur" v="San Zuan dal Nadison"/>
+    <tag k="name:it" v="San Giovanni al Natisone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5735"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -4762,12 +4765,17 @@
     <tag k="population" v="3010"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280536" lat="40.1495090" lon="16.1438810" version="2" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67280536" lat="40.1495090" lon="16.1438810" version="3" timestamp="2026-01-01T10:09:27Z" changeset="176697312" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="630"/>
     <tag k="gfoss_id" v="6370"/>
     <tag k="name" v="Calvera"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="584"/>
+    <tag k="population" v="348"/>
+    <tag k="population:date" v="2025-09-30"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q52545"/>
+    <tag k="wikipedia" v="it:Calvera"/>
   </node>
   <node id="67280587" lat="40.0365521" lon="16.3349364" version="6" timestamp="2023-06-04T00:43:11Z" changeset="136918906" uid="543072" user="lamacchiacosta">
     <tag k="gfoss_id" v="6374"/>
@@ -4779,15 +4787,18 @@
     <tag k="wikidata" v="Q52664"/>
     <tag k="wikipedia" v="en:San Paolo Albanese"/>
   </node>
-  <node id="67280603" lat="40.1138090" lon="16.1697820" version="11" timestamp="2024-07-20T06:55:33Z" changeset="154167245" uid="9451067" user="b-jazz-bot">
+  <node id="67280603" lat="40.1138090" lon="16.1697820" version="12" timestamp="2026-01-01T10:09:27Z" changeset="176697312" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="745"/>
     <tag k="fax" v="+39 0973 572003"/>
     <tag k="gfoss_id" v="6385"/>
     <tag k="name" v="Fardella"/>
     <tag k="phone" v="+39 0973 572051"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="765"/>
+    <tag k="population" v="576"/>
+    <tag k="population:date" v="2025-09-30"/>
     <tag k="postal_code" v="85030"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="https://www.comune.fardella.pz.it/"/>
     <tag k="wikidata" v="Q52568"/>
     <tag k="wikipedia" v="it:Fardella"/>
