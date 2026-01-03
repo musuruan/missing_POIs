@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-02T03:40:53Z" areas="2026-01-01T18:32:00Z"/>
+<meta osm_base="2026-01-03T08:50:12Z" areas="2026-01-03T02:18:11Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2104,13 +2104,6 @@
     <tag k="population" v="2103"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025456"/>
-  </node>
-  <node id="62512468" lat="45.7402429" lon="9.3032006" version="8" timestamp="2024-12-01T22:29:34Z" changeset="159822232" uid="69717" user="kaitu">
-    <tag k="gfoss_id" v="7797"/>
-    <tag k="name" v="Cremella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1530"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62512525" lat="45.7443892" lon="9.3750111" version="5" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
     <tag k="gfoss_id" v="7843"/>
@@ -8306,13 +8299,14 @@
     <tag k="population" v="425"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587021" lat="44.1375290" lon="8.1031480" version="3" timestamp="2024-07-28T10:42:58Z" changeset="154514595" uid="21794763" user="N Longo">
+  <node id="66587021" lat="44.1375290" lon="8.1031480" version="4" timestamp="2026-01-02T09:41:10Z" changeset="176734531" uid="4425563" user="Danysan95">
     <tag k="gfoss_id" v="1216"/>
     <tag k="name" v="Erli"/>
     <tag k="name:lij" v="Èrli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="244"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025558"/>
   </node>
   <node id="66587027" lat="44.1781487" lon="9.7234963" version="6" timestamp="2021-07-13T15:03:45Z" changeset="107918891" uid="69259" user="DnaX">
     <tag k="gfoss_id" v="1345"/>
@@ -16258,14 +16252,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18496544"/>
   </node>
-  <node id="70979874" lat="42.8769738" lon="13.7483546" version="4" timestamp="2020-07-28T08:42:49Z" changeset="88607522" uid="10124288" user="damianeue">
+  <node id="70979874" lat="42.8769738" lon="13.7483546" version="6" timestamp="2026-01-03T00:08:10Z" changeset="176765803" uid="123412" user="totera">
     <tag k="gfoss_id" v="4347"/>
     <tag k="name" v="Colli del Tronto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3152"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q56049"/>
-    <tag k="wikipedia" v="it:Colli del Tronto"/>
+    <tag k="wikidata" v="Q30024958"/>
   </node>
   <node id="70979994" lat="43.1364530" lon="13.4684810" version="2" timestamp="2016-09-09T17:36:38Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4366"/>
@@ -21977,20 +21970,6 @@
     <tag k="wikipedia" v="it:Sant'Antonio di Gallura"/>
     <tag k="wikipedia:sc" v="Sant'Antoni de Calanzanus"/>
   </node>
-  <node id="72994606" lat="40.7911660" lon="8.9422190" version="42" timestamp="2023-10-28T07:18:46Z" changeset="143245658" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7295"/>
-    <tag k="name" v="Erula"/>
-    <tag k="name:co" v="Erula"/>
-    <tag k="name:it" v="Erula"/>
-    <tag k="name:sc" v="Èrula"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="807"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunedierula.it/"/>
-    <tag k="wikidata" v="Q390699"/>
-    <tag k="wikipedia" v="sc:Èrula"/>
-  </node>
   <node id="72994620" lat="40.8674650" lon="8.7167140" version="41" timestamp="2023-11-24T01:04:42Z" changeset="144387510" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7293"/>
     <tag k="name" v="Zelgu/Tergu"/>
@@ -22234,12 +22213,13 @@
     <tag k="wikidata" v="Q3903065"/>
     <tag k="wikipedia" v="it:Pieris (San Canzian d'Isonzo)"/>
   </node>
-  <node id="511170265" lat="42.8891265" lon="13.7729827" version="5" timestamp="2020-11-01T19:29:49Z" changeset="93379831" uid="123412" user="totera">
+  <node id="511170265" lat="42.8891265" lon="13.7729827" version="6" timestamp="2026-01-03T00:09:41Z" changeset="176765827" uid="123412" user="totera">
     <tag k="gfoss_id" v="4404"/>
     <tag k="name" v="Spinetoli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5804"/>
     <tag k="source" v="gfoss.it"/>
+    <tag k="wikidata" v="Q30030885"/>
   </node>
   <node id="539318222" lat="41.0850517" lon="16.0777763" version="4" timestamp="2016-08-27T16:24:10Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="name" v="Minervino Murge"/>

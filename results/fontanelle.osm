@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-02T03:38:37Z" areas="2026-01-01T22:08:03Z"/>
+<meta osm_base="2026-01-03T08:48:06Z" areas="2026-01-03T06:09:49Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3498,13 +3498,14 @@
     <tag k="wikidata" v="Q248807"/>
     <tag k="wikipedia" v="it:San Biagio della Cima"/>
   </node>
-  <node id="66587021" lat="44.1375290" lon="8.1031480" version="3" timestamp="2024-07-28T10:42:58Z" changeset="154514595" uid="21794763" user="N Longo">
+  <node id="66587021" lat="44.1375290" lon="8.1031480" version="4" timestamp="2026-01-02T09:41:10Z" changeset="176734531" uid="4425563" user="Danysan95">
     <tag k="gfoss_id" v="1216"/>
     <tag k="name" v="Erli"/>
     <tag k="name:lij" v="Èrli"/>
     <tag k="place" v="village"/>
     <tag k="population" v="244"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025558"/>
   </node>
   <node id="66587078" lat="44.3511944" lon="8.2564515" version="6" timestamp="2016-09-24T23:13:26Z" changeset="42413443" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1238"/>
@@ -7138,12 +7139,13 @@
     <tag k="population" v="1486"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979903" lat="42.8980866" lon="13.7280424" version="3" timestamp="2016-09-09T17:36:32Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979903" lat="42.8980866" lon="13.7280424" version="4" timestamp="2026-01-03T00:05:59Z" changeset="176765750" uid="123412" user="totera">
     <tag k="gfoss_id" v="4346"/>
     <tag k="name" v="Castorano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2036"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024390"/>
   </node>
   <node id="70979969" lat="43.0794694" lon="13.8147864" version="4" timestamp="2016-09-09T17:36:30Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4342"/>
@@ -9821,21 +9823,6 @@
     <tag k="wikipedia" v="it:Illorai"/>
     <tag k="wikipedia:sc" v="Illorai"/>
   </node>
-  <node id="72994414" lat="40.7324650" lon="8.9839210" version="40" timestamp="2023-10-30T17:03:32Z" changeset="143376989" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7282"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Tula"/>
-    <tag k="name:it" v="Tula"/>
-    <tag k="name:sc" v="Tula"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1665"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.tula.ss.it/"/>
-    <tag k="wikidata" v="Q391659"/>
-    <tag k="wikipedia" v="it:Tula (Italia)"/>
-    <tag k="wikipedia:sc" v="Tula"/>
-  </node>
   <node id="72994419" lat="40.5764803" lon="8.7272730" version="42" timestamp="2019-03-23T16:11:57Z" changeset="68448441" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7275"/>
     <tag k="name" v="Sìligo/Siligo"/>
@@ -9894,20 +9881,6 @@
     <tag k="wikidata" v="Q391683"/>
     <tag k="wikipedia" v="it:Uri (Italia)"/>
     <tag k="wikipedia:sc" v="Uri"/>
-  </node>
-  <node id="72994606" lat="40.7911660" lon="8.9422190" version="42" timestamp="2023-10-28T07:18:46Z" changeset="143245658" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7295"/>
-    <tag k="name" v="Erula"/>
-    <tag k="name:co" v="Erula"/>
-    <tag k="name:it" v="Erula"/>
-    <tag k="name:sc" v="Èrula"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="807"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunedierula.it/"/>
-    <tag k="wikidata" v="Q390699"/>
-    <tag k="wikipedia" v="sc:Èrula"/>
   </node>
   <node id="72994670" lat="40.9391620" lon="8.2255030" version="27" timestamp="2025-10-19T12:13:47Z" changeset="173488408" uid="21696131" user="aboc">
     <tag k="gfoss_id" v="7296"/>
