@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-04T03:52:07Z" areas="2026-01-03T19:11:45Z"/>
+<meta osm_base="2026-01-06T03:30:22Z" areas="2026-01-05T22:45:10Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2545,13 +2545,6 @@
     <tag k="population" v="2927"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630693" lat="45.1895918" lon="7.9662734" version="4" timestamp="2023-01-17T19:56:21Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="293"/>
-    <tag k="name" v="Verolengo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4469"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63630756" lat="45.3814570" lon="7.8857200" version="4" timestamp="2023-01-17T20:00:20Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="269"/>
     <tag k="name" v="Strambino"/>
@@ -3519,13 +3512,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="547"/>
   </node>
-  <node id="66587113" lat="44.0702888" lon="8.0500191" version="5" timestamp="2024-08-01T22:07:03Z" changeset="154712550" uid="21800793" user="Arbenganese">
+  <node id="66587113" lat="44.0702888" lon="8.0500191" version="6" timestamp="2026-01-05T19:49:52Z" changeset="176876377" uid="4425563" user="Danysan95">
     <tag k="gfoss_id" v="1231"/>
     <tag k="name" v="Onzo"/>
     <tag k="name:lij" v="Unsu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="219"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028357"/>
   </node>
   <node id="66587134" lat="44.1725509" lon="8.2471878" version="5" timestamp="2024-07-28T11:05:44Z" changeset="154515356" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1219"/>
@@ -7154,12 +7148,13 @@
     <tag k="population" v="1803"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979983" lat="42.9898510" lon="13.6091860" version="4" timestamp="2024-01-08T23:55:30Z" changeset="146046747" uid="123412" user="totera">
+  <node id="70979983" lat="42.9898510" lon="13.6091860" version="5" timestamp="2026-01-04T15:29:19Z" changeset="176823859" uid="123412" user="totera">
     <tag k="gfoss_id" v="4365"/>
     <tag k="name" v="Montalto delle Marche"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2345"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027728"/>
   </node>
   <node id="70979994" lat="43.1364530" lon="13.4684810" version="2" timestamp="2016-09-09T17:36:38Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4366"/>
@@ -7253,12 +7248,13 @@
     <tag k="population" v="1877"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980509" lat="43.0320520" lon="13.6849870" version="2" timestamp="2016-09-09T17:36:31Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980509" lat="43.0320520" lon="13.6849870" version="3" timestamp="2026-01-04T15:24:29Z" changeset="176823648" uid="123412" user="totera">
     <tag k="gfoss_id" v="4343"/>
     <tag k="name" v="Carassai"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1263"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023714"/>
   </node>
   <node id="70980534" lat="42.9840387" lon="13.6880521" version="4" timestamp="2025-12-29T23:20:52Z" changeset="176603204" uid="21748492" user="Yurii Skvortsov">
     <tag k="gfoss_id" v="4349"/>
@@ -7296,12 +7292,13 @@
     <tag k="population" v="12990"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70980777" lat="43.0518954" lon="13.7527903" version="3" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70980777" lat="43.0518954" lon="13.7527903" version="4" timestamp="2026-01-04T15:21:47Z" changeset="176823536" uid="123412" user="totera">
     <tag k="gfoss_id" v="4369"/>
     <tag k="name" v="Montefiore dell'Aso"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2199"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027838"/>
   </node>
   <node id="70980815" lat="42.8993526" lon="13.4582286" version="6" timestamp="2025-05-08T13:24:50Z" changeset="165983610" uid="22299574" user="Alessandra Mercuri">
     <tag k="gfoss_id" v="4389"/>
@@ -9897,21 +9894,6 @@
     <tag k="website" v="https://www.comune.stintino.ss.it/"/>
     <tag k="wikidata" v="Q391409"/>
     <tag k="wikipedia" v="sc:Istintinu"/>
-  </node>
-  <node id="72994756" lat="40.9348579" lon="9.1754471" version="43" timestamp="2017-03-03T19:54:06Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7244"/>
-    <tag k="is_in" v="Olbia-Tempio, Sardegna, Italy"/>
-    <tag k="name" v="Luris/Luras"/>
-    <tag k="name:co" v="Luris"/>
-    <tag k="name:it" v="Luras"/>
-    <tag k="name:sc" v="Luras"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2660"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comunediluras.it"/>
-    <tag k="wikidata" v="Q340916"/>
-    <tag k="wikipedia" v="it:Luras"/>
-    <tag k="wikipedia:sc" v="Luras"/>
   </node>
   <node id="347123635" lat="45.1927143" lon="12.0399128" version="4" timestamp="2025-05-16T14:10:03Z" changeset="166353501" uid="14316347" user="Gicorada">
     <tag k="name" v="Pegolotte"/>
