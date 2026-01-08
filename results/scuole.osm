@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-06T03:39:42Z" areas="2026-01-05T22:45:10Z"/>
+<meta osm_base="2026-01-08T03:46:15Z" areas="2026-01-07T21:48:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -18528,12 +18528,13 @@
     <tag k="population" v="3016"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979174" lat="43.5433754" lon="13.3865869" version="3" timestamp="2017-02-13T14:26:39Z" changeset="46049019" uid="3396329" user="djsip">
+  <node id="70979174" lat="43.5433754" lon="13.3865869" version="4" timestamp="2026-01-06T14:10:39Z" changeset="176904823" uid="123412" user="totera">
     <tag k="gfoss_id" v="4228"/>
     <tag k="name" v="Agugliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4163"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30022021"/>
   </node>
   <node id="70979256" lat="43.3193013" lon="12.9848150" version="4" timestamp="2025-07-06T15:37:19Z" changeset="168567157" uid="4188272" user="dp7">
     <tag k="gfoss_id" v="4240"/>
@@ -18564,12 +18565,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028955"/>
   </node>
-  <node id="70979444" lat="43.5255610" lon="13.3920730" version="2" timestamp="2016-09-09T17:36:44Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979444" lat="43.5255610" lon="13.3920730" version="3" timestamp="2026-01-06T14:10:40Z" changeset="176904823" uid="123412" user="totera">
     <tag k="gfoss_id" v="4265"/>
     <tag k="name" v="Polverigi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3015"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028991"/>
   </node>
   <node id="70979496" lat="43.4545580" lon="13.1727700" version="3" timestamp="2025-01-26T00:26:25Z" changeset="161765546" uid="123412" user="totera">
     <tag k="gfoss_id" v="4269"/>
@@ -23851,21 +23853,6 @@
     <tag k="wikipedia" v="sc:Bessude"/>
     <tag k="wikipedia:it" v="Bessude"/>
   </node>
-  <node id="72994282" lat="40.8913511" lon="9.0430579" version="46" timestamp="2017-03-03T19:54:01Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="alt_name" v="Bultigghjata"/>
-    <tag k="gfoss_id" v="7221"/>
-    <tag k="name" v="Bultiggjata/Bortigiadas"/>
-    <tag k="name:co" v="Bultiggjata"/>
-    <tag k="name:it" v="Bortigiadas"/>
-    <tag k="name:sc" v="Bortigiadas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="896"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bortigiadas.ot.it/"/>
-    <tag k="wikidata" v="Q340665"/>
-    <tag k="wikipedia" v="it:Bortigiadas"/>
-    <tag k="wikipedia:sc" v="Bultigghjata"/>
-  </node>
   <node id="72994342" lat="40.3914590" lon="9.0085270" version="40" timestamp="2023-10-30T08:25:22Z" changeset="143351187" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Botidda"/>
     <tag k="gfoss_id" v="7223"/>
@@ -23980,21 +23967,6 @@
     <tag k="wikidata" v="Q340630"/>
     <tag k="wikipedia" v="it:Aglientu"/>
     <tag k="wikipedia:sc" v="Aglientu"/>
-  </node>
-  <node id="72994522" lat="40.7657700" lon="9.5202320" version="42" timestamp="2024-01-12T21:28:10Z" changeset="146196238" uid="12097022" user="conifermapper">
-    <tag k="gfoss_id" v="7297"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Patru/Padru"/>
-    <tag k="name:co" v="Patru"/>
-    <tag k="name:it" v="Padru"/>
-    <tag k="name:sc" v="Padru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2109"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.padru.ss.it/"/>
-    <tag k="wikidata" v="Q340971"/>
-    <tag k="wikipedia" v="it:Padru"/>
-    <tag k="wikipedia:sc" v="Padru"/>
   </node>
   <node id="72994536" lat="40.9650690" lon="8.8842160" version="40" timestamp="2017-03-03T19:54:03Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7288"/>
@@ -24236,6 +24208,15 @@
     <tag k="name:it" v="Cras"/>
     <tag k="name:sl" v="Kras"/>
     <tag k="place" v="hamlet"/>
+  </node>
+  <node id="391313304" lat="44.9201605" lon="10.2295580" version="6" timestamp="2018-12-31T11:17:37Z" changeset="65909429" uid="2914055" user="Elia Z">
+    <tag k="gfoss_id" v="3920"/>
+    <tag k="name" v="San Secondo Parmense"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5037"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q100919"/>
+    <tag k="wikipedia" v="it:San Secondo Parmense"/>
   </node>
   <node id="395603809" lat="43.9567671" lon="12.1959387" version="5" timestamp="2022-01-27T23:08:19Z" changeset="116685553" uid="554973" user="dgitto">
     <tag k="name" v="Mercato Saraceno"/>
