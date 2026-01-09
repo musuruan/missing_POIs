@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-08T03:44:15Z" areas="2026-01-07T21:48:29Z"/>
+<meta osm_base="2026-01-09T03:38:02Z" areas="2026-01-08T23:18:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -20987,11 +20987,12 @@
     <tag k="population" v="1712"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502748" lat="46.0313230" lon="13.4793349" version="7" timestamp="2025-07-02T12:54:17Z" changeset="168397415" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66502748" lat="46.0313230" lon="13.4793349" version="8" timestamp="2026-01-08T20:45:51Z" changeset="177000546" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3812"/>
     <tag k="loc_name:fur" v="Dolegna dal Cuei"/>
     <tag k="name" v="Dolegna del Collio / Dolegna dal Cuei / Dolenje v Brdih"/>
     <tag k="name:fur" v="Dolegne dal Cuei"/>
+    <tag k="name:it" v="Dolegna del Collio"/>
     <tag k="name:sl" v="Dolenje"/>
     <tag k="place" v="village"/>
     <tag k="population" v="435"/>
@@ -21035,11 +21036,12 @@
     <tag k="population" v="1892"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502785" lat="45.9312174" lon="13.5285489" version="8" timestamp="2025-07-07T15:56:35Z" changeset="168612552" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66502785" lat="45.9312174" lon="13.5285489" version="9" timestamp="2026-01-08T20:45:51Z" changeset="177000546" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3828"/>
     <tag k="loc_name:fur" v="San Lurinz"/>
     <tag k="name" v="San Lorenzo Isontino / San Lurinç Lisuntin"/>
     <tag k="name:fur" v="Sant Lurinç dal Lusinç"/>
+    <tag k="name:it" v="San Lorenzo Isontino"/>
     <tag k="name:sl" v="Šlovrenc"/>
     <tag k="old_name" v="San Lorenzo di Mossa"/>
     <tag k="place" v="village"/>
@@ -21797,10 +21799,11 @@
     <tag k="wikidata" v="Q53319"/>
     <tag k="wikipedia" v="it:Preone"/>
   </node>
-  <node id="66503262" lat="46.0338220" lon="13.3026300" version="5" timestamp="2025-07-15T09:39:24Z" changeset="168954879" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503262" lat="46.0338220" lon="13.3026300" version="6" timestamp="2026-01-08T20:45:51Z" changeset="177000546" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3751"/>
     <tag k="name" v="Pradamano / Pradaman"/>
     <tag k="name:fur" v="Pradaman"/>
+    <tag k="name:it" v="Pradamano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2960"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -35243,13 +35246,14 @@
     <tag k="population" v="3223"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979281" lat="43.4645740" lon="13.5467001" version="9" timestamp="2016-10-27T18:58:17Z" changeset="43225898" uid="2748195" user="karitotp">
+  <node id="70979281" lat="43.4645740" lon="13.5467001" version="11" timestamp="2026-01-08T21:39:43Z" changeset="177002221" uid="123412" user="totera">
     <tag k="gfoss_id" v="4237"/>
     <tag k="name" v="Castelfidardo"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="18733"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q123833"/>
+    <tag k="population" v="14589"/>
+    <tag k="population:source" v="Istat"/>
+    <tag k="poulation:date" v="2021"/>
+    <tag k="wikidata" v="Q30024171"/>
   </node>
   <node id="70979288" lat="43.6077646" lon="12.9761261" version="12" timestamp="2016-09-09T17:36:31Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4238"/>
@@ -38363,26 +38367,6 @@
     <tag k="wikidata" v="Q128139"/>
     <tag k="wikimedia_commons" v="Category:Priverno"/>
     <tag k="wikipedia" v="it:Priverno"/>
-  </node>
-  <node id="72960983" lat="41.5942016" lon="12.6485765" version="34" timestamp="2025-07-21T13:26:39Z" changeset="169244342" uid="22242779" user="notmyproblem1">
-    <tag k="contact:facebook" v="https://www.facebook.com/comunediaprilia/"/>
-    <tag k="contact:instagram" v="https://www.instagram.com/cittadaprilia/"/>
-    <tag k="contact:linkedin" v="https://www.linkedin.com/company/comune-di-aprilia"/>
-    <tag k="contact:twitter" v="https://twitter.com/ComunediAprilia"/>
-    <tag k="contact:youtube" v="http://www.youtube.com/c/ApriliaComunicaWebTv"/>
-    <tag k="gfoss_id" v="5033"/>
-    <tag k="name" v="Aprilia"/>
-    <tag k="name:ru" v="Априлия"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="74615"/>
-    <tag k="population:date" v="2025-01-01"/>
-    <tag k="postal_code" v="04011"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="https://demo.istat.it/app/?i=POS&amp;l=it"/>
-    <tag k="website" v="https://www.comune.aprilia.lt.it/"/>
-    <tag k="wikidata" v="Q128052"/>
-    <tag k="wikimedia_commons" v="Category:Aprilia (comune, Italy)"/>
-    <tag k="wikipedia" v="it:Aprilia (Italia)"/>
   </node>
   <node id="72961005" lat="41.2326171" lon="13.0893977" version="7" timestamp="2024-01-25T21:22:24Z" changeset="146688815" uid="3860151" user="Michele Aquilani">
     <tag k="contact:facebook" v="https://www.facebook.com/circeocomune/"/>
@@ -41550,20 +41534,6 @@
     <tag k="website" v="https://comune.sagama.or.it/"/>
     <tag k="wikidata" v="Q185964"/>
     <tag k="wikipedia" v="it:Sagama"/>
-  </node>
-  <node id="72992121" lat="40.7716378" lon="9.6704225" version="49" timestamp="2023-04-06T20:45:35Z" changeset="134592757" uid="12097022" user="conifermapper">
-    <tag k="gfoss_id" v="7372"/>
-    <tag k="name" v="Santu Diadòru/San Teodoro"/>
-    <tag k="name:co" v="Santu Diadòru"/>
-    <tag k="name:it" v="San Teodoro"/>
-    <tag k="name:sc" v="Santu Tiadòru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3103"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comunesanteodoro.gov.it/"/>
-    <tag k="wikidata" v="Q279933"/>
-    <tag k="wikipedia" v="it:San Teodoro (Sardegna)"/>
-    <tag k="wikipedia:sc" v="Santu Tiadoru"/>
   </node>
   <node id="72992147" lat="39.7017470" lon="9.1441390" version="43" timestamp="2017-03-01T21:24:53Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7374"/>
