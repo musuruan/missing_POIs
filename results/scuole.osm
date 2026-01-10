@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-09T03:38:59Z" areas="2026-01-08T23:18:30Z"/>
+<meta osm_base="2026-01-10T07:50:01Z" areas="2026-01-10T02:32:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6222,16 +6222,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17757"/>
     <tag k="wikipedia" v="it:Bubbio"/>
-  </node>
-  <node id="63623709" lat="45.0226378" lon="7.9507994" version="3" timestamp="2022-12-31T08:31:38Z" changeset="130712105" uid="2976645" user="Jrachi">
-    <tag k="gfoss_id" v="751"/>
-    <tag k="name" v="Buttigliera d'Asti"/>
-    <tag k="name:pms" v="Butijera"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1996"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17758"/>
-    <tag k="wikipedia" v="it:Buttigliera d'Asti"/>
   </node>
   <node id="63624220" lat="44.9615961" lon="8.3062346" version="4" timestamp="2021-02-20T19:49:36Z" changeset="99657910" uid="9006927" user="francians">
     <tag k="gfoss_id" v="762"/>
@@ -16717,6 +16707,16 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1914"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="68579766" lat="41.3261200" lon="14.3340260" version="6" timestamp="2024-10-09T15:55:46Z" changeset="157678876" uid="22048642" user="tafot">
+    <tag k="gfoss_id" v="5158"/>
+    <tag k="name" v="Alife"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="7619"/>
+    <tag k="population:date" v="2017"/>
+    <tag k="source" v="geodati.gfoss.it;https://www.istat.it/"/>
+    <tag k="wikidata" v="Q58433"/>
+    <tag k="wikipedia" v="en:Alife, Campania"/>
   </node>
   <node id="68579812" lat="41.3382180" lon="14.0224190" version="3" timestamp="2018-05-29T17:57:41Z" changeset="59375197" uid="5300343" user="alessandro trekking">
     <tag k="gfoss_id" v="5249"/>
