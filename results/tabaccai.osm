@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-11T03:55:58Z" areas="2026-01-11T00:47:42Z"/>
+<meta osm_base="2026-01-12T03:50:10Z" areas="2026-01-12T00:00:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -16587,14 +16587,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="788"/>
   </node>
-  <node id="64776518" lat="46.1442060" lon="11.2195800" version="7" timestamp="2025-12-01T12:45:17Z" changeset="175356261" uid="4365159" user="wildmaps">
+  <node id="64776518" lat="46.1442060" lon="11.2195800" version="8" timestamp="2026-01-11T19:04:23Z" changeset="177108831" uid="8522139" user="mosis99">
     <tag k="admin_centre:postal_code" v="38040"/>
     <tag k="gfoss_id" v="2972"/>
     <tag k="name" v="Lases"/>
     <tag k="name:de" v="Lazes"/>
     <tag k="place" v="village"/>
     <tag k="population" v="539"/>
-    <tag k="wikidata" v="Q55651739"/>
+    <tag k="wikidata" v="Q18480227"/>
   </node>
   <node id="64776529" lat="46.4148130" lon="11.1777740" version="9" timestamp="2020-01-22T14:50:09Z" changeset="79924060" uid="8445331" user="JuaFritz">
     <tag k="name" v="Ruffré"/>
@@ -17664,7 +17664,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q22022790"/>
   </node>
-  <node id="64777043" lat="46.7354250" lon="12.2242801" version="13" timestamp="2025-11-05T19:22:40Z" changeset="174256015" uid="2385757" user="jeka p">
+  <node id="64777043" lat="46.7355211" lon="12.2229699" version="14" timestamp="2026-01-11T13:18:09Z" changeset="177095700" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="2779"/>
     <tag k="name" v="Toblach - Dobbiaco"/>
     <tag k="name:de" v="Toblach"/>
@@ -18082,7 +18082,7 @@
     <tag k="wikimedia_commons" v="Category:Schlanders"/>
     <tag k="wikipedia" v="de:Schlanders"/>
   </node>
-  <node id="64777157" lat="46.7027433" lon="12.3505440" version="8" timestamp="2025-11-08T12:03:37Z" changeset="174372415" uid="2385757" user="jeka p">
+  <node id="64777157" lat="46.7019004" lon="12.3503959" version="9" timestamp="2026-01-11T13:18:09Z" changeset="177095700" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="2841"/>
     <tag k="name" v="Sexten - Sesto"/>
     <tag k="name:de" v="Sexten"/>
@@ -18091,6 +18091,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1906"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030660"/>
   </node>
   <node id="64777162" lat="46.6645383" lon="10.5848173" version="13" timestamp="2024-11-08T10:03:07Z" changeset="158888173" uid="9925732" user="Flight777">
     <tag k="ele" v="919"/>
@@ -27268,14 +27269,14 @@
     <tag k="population" v="1612"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280472" lat="40.5166150" lon="15.9245710" version="4" timestamp="2021-06-06T01:50:55Z" changeset="105901588" uid="1772368" user="pizzaiolo">
-    <tag k="description" v="Hic Sunt Dracones."/>
+  <node id="67280472" lat="40.5166150" lon="15.9245710" version="6" timestamp="2026-01-11T12:06:03Z" changeset="177093449" uid="8305310" user="Martin Ligabue">
     <tag k="gfoss_id" v="6358"/>
     <tag k="name" v="Anzi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1949"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022259"/>
+    <tag k="wikidata" v="Q52513"/>
+    <tag k="wikipedia" v="it:Anzi (Italia)"/>
   </node>
   <node id="67280490" lat="40.7921210" lon="15.9365680" version="2" timestamp="2016-08-28T18:58:08Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6356"/>
@@ -29691,13 +29692,6 @@
     <tag k="population" v="19283"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51836"/>
-  </node>
-  <node id="68528767" lat="40.7552300" lon="17.3265000" version="9" timestamp="2016-09-09T00:49:43Z" changeset="42015514" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6185"/>
-    <tag k="name" v="Locorotondo"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14162"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68528776" lat="40.8879866" lon="16.9494555" version="5" timestamp="2016-09-09T00:49:49Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6199"/>
@@ -43244,21 +43238,6 @@
     <tag k="wikidata" v="Q391735"/>
     <tag k="wikipedia" v="it:Viddalba"/>
   </node>
-  <node id="72994668" lat="40.8763710" lon="9.3528270" version="40" timestamp="2017-03-03T19:54:05Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7287"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Telti"/>
-    <tag k="name:co" v="Telti"/>
-    <tag k="name:it" v="Telti"/>
-    <tag k="name:sc" v="Telti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1969"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.telti.ot.it/"/>
-    <tag k="wikidata" v="Q341033"/>
-    <tag k="wikipedia" v="it:Telti"/>
-    <tag k="wikipedia:sc" v="Telti"/>
-  </node>
   <node id="72994678" lat="40.8059690" lon="9.3255270" version="42" timestamp="2023-10-28T07:20:58Z" changeset="143245753" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7248"/>
     <tag k="name" v="Monte/Monti"/>
@@ -43376,12 +43355,13 @@
     <tag k="population" v="2176"/>
     <tag k="postal_code" v="60036"/>
   </node>
-  <node id="268802353" lat="46.1331080" lon="11.2460028" version="17" timestamp="2023-05-02T16:06:26Z" changeset="135623523" uid="3277757" user="paganella31">
+  <node id="268802353" lat="46.1331080" lon="11.2460028" version="18" timestamp="2026-01-11T19:04:23Z" changeset="177108831" uid="8522139" user="mosis99">
     <tag k="alt_name:de" v="Wasilig-Pineid"/>
     <tag k="loc_name" v="Baselga"/>
     <tag k="name" v="Baselga di Piné"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5038"/>
+    <tag k="wikidata" v="Q30022638"/>
   </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="9" timestamp="2026-01-01T18:42:49Z" changeset="176714791" uid="1726102" user="AlessioMela">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>

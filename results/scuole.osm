@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-11T03:58:01Z" areas="2026-01-11T00:47:42Z"/>
+<meta osm_base="2026-01-12T03:51:12Z" areas="2026-01-12T00:00:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -13702,14 +13702,14 @@
     <tag k="population" v="1612"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280472" lat="40.5166150" lon="15.9245710" version="4" timestamp="2021-06-06T01:50:55Z" changeset="105901588" uid="1772368" user="pizzaiolo">
-    <tag k="description" v="Hic Sunt Dracones."/>
+  <node id="67280472" lat="40.5166150" lon="15.9245710" version="6" timestamp="2026-01-11T12:06:03Z" changeset="177093449" uid="8305310" user="Martin Ligabue">
     <tag k="gfoss_id" v="6358"/>
     <tag k="name" v="Anzi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1949"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022259"/>
+    <tag k="wikidata" v="Q52513"/>
+    <tag k="wikipedia" v="it:Anzi (Italia)"/>
   </node>
   <node id="67280490" lat="40.7921210" lon="15.9365680" version="2" timestamp="2016-08-28T18:58:08Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6356"/>
@@ -24043,21 +24043,6 @@
     <tag k="wikidata" v="Q391735"/>
     <tag k="wikipedia" v="it:Viddalba"/>
   </node>
-  <node id="72994668" lat="40.8763710" lon="9.3528270" version="40" timestamp="2017-03-03T19:54:05Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7287"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Telti"/>
-    <tag k="name:co" v="Telti"/>
-    <tag k="name:it" v="Telti"/>
-    <tag k="name:sc" v="Telti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1969"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.telti.ot.it/"/>
-    <tag k="wikidata" v="Q341033"/>
-    <tag k="wikipedia" v="it:Telti"/>
-    <tag k="wikipedia:sc" v="Telti"/>
-  </node>
   <node id="72994670" lat="40.9391620" lon="8.2255030" version="27" timestamp="2025-10-19T12:13:47Z" changeset="173488408" uid="21696131" user="aboc">
     <tag k="gfoss_id" v="7296"/>
     <tag k="name" v="Isthintini/Stintino"/>
@@ -24073,20 +24058,6 @@
     <tag k="website" v="https://www.comune.stintino.ss.it/"/>
     <tag k="wikidata" v="Q391409"/>
     <tag k="wikipedia" v="sc:Istintinu"/>
-  </node>
-  <node id="72994678" lat="40.8059690" lon="9.3255270" version="42" timestamp="2023-10-28T07:20:58Z" changeset="143245753" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7248"/>
-    <tag k="name" v="Monte/Monti"/>
-    <tag k="name:co" v="Monti"/>
-    <tag k="name:it" v="Monti"/>
-    <tag k="name:sc" v="Monte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2440"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.monti.ss.it/"/>
-    <tag k="wikidata" v="Q340920"/>
-    <tag k="wikipedia" v="it:Monti (Italia)"/>
-    <tag k="wikipedia:sc" v="Monti"/>
   </node>
   <node id="72994765" lat="40.4095560" lon="8.6388190" version="40" timestamp="2023-11-10T07:52:12Z" changeset="143851255" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7245"/>

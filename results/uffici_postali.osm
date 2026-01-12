@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-11T03:44:38Z" areas="2026-01-10T17:48:12Z"/>
+<meta osm_base="2026-01-12T03:40:59Z" areas="2026-01-11T23:00:19Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6459,14 +6459,14 @@
     <tag k="wikidata" v="Q25166"/>
     <tag k="wikipedia" v="en:Palazzolo Vercellese"/>
   </node>
-  <node id="64776518" lat="46.1442060" lon="11.2195800" version="7" timestamp="2025-12-01T12:45:17Z" changeset="175356261" uid="4365159" user="wildmaps">
+  <node id="64776518" lat="46.1442060" lon="11.2195800" version="8" timestamp="2026-01-11T19:04:23Z" changeset="177108831" uid="8522139" user="mosis99">
     <tag k="admin_centre:postal_code" v="38040"/>
     <tag k="gfoss_id" v="2972"/>
     <tag k="name" v="Lases"/>
     <tag k="name:de" v="Lazes"/>
     <tag k="place" v="village"/>
     <tag k="population" v="539"/>
-    <tag k="wikidata" v="Q55651739"/>
+    <tag k="wikidata" v="Q18480227"/>
   </node>
   <node id="64776529" lat="46.4148130" lon="11.1777740" version="9" timestamp="2020-01-22T14:50:09Z" changeset="79924060" uid="8445331" user="JuaFritz">
     <tag k="name" v="Ruffré"/>
@@ -6804,7 +6804,7 @@
     <tag k="wikidata" v="Q286770"/>
     <tag k="wikipedia" v="it:Faver"/>
   </node>
-  <node id="64776869" lat="46.1181956" lon="11.2065014" version="7" timestamp="2025-12-01T12:45:17Z" changeset="175356261" uid="4365159" user="wildmaps">
+  <node id="64776869" lat="46.1181956" lon="11.2065014" version="8" timestamp="2026-01-11T19:04:23Z" changeset="177108831" uid="8522139" user="mosis99">
     <tag k="admin_centre:postal_code" v="38040"/>
     <tag k="gfoss_id" v="2953"/>
     <tag k="loc_name" v="Fornàs"/>
@@ -6812,6 +6812,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1166"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025825"/>
   </node>
   <node id="64776879" lat="46.0713520" lon="11.4716722" version="5" timestamp="2025-08-26T11:35:39Z" changeset="171024469" uid="20939356" user="marangón">
     <tag k="gfoss_id" v="3053"/>
@@ -9917,14 +9918,14 @@
     <tag k="population" v="1797"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280472" lat="40.5166150" lon="15.9245710" version="4" timestamp="2021-06-06T01:50:55Z" changeset="105901588" uid="1772368" user="pizzaiolo">
-    <tag k="description" v="Hic Sunt Dracones."/>
+  <node id="67280472" lat="40.5166150" lon="15.9245710" version="6" timestamp="2026-01-11T12:06:03Z" changeset="177093449" uid="8305310" user="Martin Ligabue">
     <tag k="gfoss_id" v="6358"/>
     <tag k="name" v="Anzi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1949"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022259"/>
+    <tag k="wikidata" v="Q52513"/>
+    <tag k="wikipedia" v="it:Anzi (Italia)"/>
   </node>
   <node id="67280498" lat="40.6503150" lon="15.5141610" version="2" timestamp="2016-08-28T18:58:11Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6362"/>
@@ -17611,21 +17612,6 @@
     <tag k="wikidata" v="Q340630"/>
     <tag k="wikipedia" v="it:Aglientu"/>
     <tag k="wikipedia:sc" v="Aglientu"/>
-  </node>
-  <node id="72994668" lat="40.8763710" lon="9.3528270" version="40" timestamp="2017-03-03T19:54:05Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7287"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Telti"/>
-    <tag k="name:co" v="Telti"/>
-    <tag k="name:it" v="Telti"/>
-    <tag k="name:sc" v="Telti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1969"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.telti.ot.it/"/>
-    <tag k="wikidata" v="Q341033"/>
-    <tag k="wikipedia" v="it:Telti"/>
-    <tag k="wikipedia:sc" v="Telti"/>
   </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="9" timestamp="2026-01-01T18:42:49Z" changeset="176714791" uid="1726102" user="AlessioMela">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
