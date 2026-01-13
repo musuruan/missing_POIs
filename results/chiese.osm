@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-12T03:43:02Z" areas="2026-01-12T00:00:29Z"/>
+<meta osm_base="2026-01-13T03:29:58Z" areas="2026-01-12T19:21:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2830,12 +2830,13 @@
     <tag k="population" v="387"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284398" lat="41.6110790" lon="14.2819702" version="5" timestamp="2025-09-11T14:18:12Z" changeset="171787447" uid="23103748" user="GroudyBlue">
+  <node id="67284398" lat="41.6110790" lon="14.2819702" version="6" timestamp="2026-01-12T17:18:18Z" changeset="177147582" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="7588"/>
     <tag k="name" v="Pesche"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1312"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028740"/>
   </node>
   <node id="67284413" lat="41.6070292" lon="14.1396262" version="4" timestamp="2023-10-02T11:47:26Z" changeset="142035464" uid="20133984" user="Antonio Petrarca">
     <tag k="gfoss_id" v="7578"/>
@@ -6492,20 +6493,6 @@
     <tag k="name" v="Castel San Vincenzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="244"/>
-  </node>
-  <node id="5007015665" lat="37.9255714" lon="15.7660047" version="5" timestamp="2024-11-22T20:59:12Z" changeset="159475333" uid="21304069" user="paurino24">
-    <tag k="alt_name:it" v="Roghudi Nuovo"/>
-    <tag k="gfoss_id" v="6788"/>
-    <tag k="name" v="Roghudi Nuovo"/>
-    <tag k="name:el" v="Ρογκούντι"/>
-    <tag k="name:it" v="Roghudi Nuovo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1365"/>
-    <tag k="reg_name:el-it" v="Richùdi"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://redazione.cittametropolitana.rc.it/urp/urpinrete/arte-e-cultura/comune-di-roghudi"/>
-    <tag k="wikidata" v="Q54643"/>
-    <tag k="wikipedia" v="it:Roghudi"/>
   </node>
   <node id="5097129050" lat="42.3206768" lon="12.6211875" version="1" timestamp="2017-09-11T07:03:52Z" changeset="51929231" uid="461682" user="Griphon">
     <tag k="name" v="Selci"/>
