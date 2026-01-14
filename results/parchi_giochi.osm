@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-13T03:39:08Z" areas="2026-01-13T00:57:00Z"/>
+<meta osm_base="2026-01-14T03:43:44Z" areas="2026-01-13T21:12:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15125,7 +15125,7 @@
     <tag k="population" v="2357"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581933" lat="40.4183080" lon="15.2271570" version="2" timestamp="2016-08-30T01:07:08Z" changeset="41791239" uid="743479" user="fayor">
+  <node id="68581933" lat="40.4190669" lon="15.2264523" version="3" timestamp="2026-01-13T10:34:05Z" changeset="177173135" uid="23699620" user="ajeje66">
     <tag k="gfoss_id" v="5584"/>
     <tag k="name" v="Castel San Lorenzo"/>
     <tag k="place" v="village"/>
@@ -16146,12 +16146,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027773"/>
   </node>
-  <node id="70979045" lat="43.6125270" lon="13.1580611" version="3" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979045" lat="43.6125270" lon="13.1580611" version="5" timestamp="2026-01-13T14:39:07Z" changeset="177182813" uid="123412" user="totera">
     <tag k="gfoss_id" v="4262"/>
     <tag k="name" v="Ostra"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6028"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="2709"/>
+    <tag k="poulation:date" v="2021"/>
+    <tag k="source:population" v="Istat"/>
+    <tag k="wikidata" v="Q30028460"/>
   </node>
   <node id="70979164" lat="43.5811545" lon="13.0264814" version="7" timestamp="2016-09-09T17:36:29Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4231"/>
@@ -22003,21 +22005,6 @@
     <tag k="website" v="http://www.viddalba.gov.it/"/>
     <tag k="wikidata" v="Q391735"/>
     <tag k="wikipedia" v="it:Viddalba"/>
-  </node>
-  <node id="72994668" lat="40.8763710" lon="9.3528270" version="40" timestamp="2017-03-03T19:54:05Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7287"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Telti"/>
-    <tag k="name:co" v="Telti"/>
-    <tag k="name:it" v="Telti"/>
-    <tag k="name:sc" v="Telti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1969"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.telti.ot.it/"/>
-    <tag k="wikidata" v="Q341033"/>
-    <tag k="wikipedia" v="it:Telti"/>
-    <tag k="wikipedia:sc" v="Telti"/>
   </node>
   <node id="72994670" lat="40.9391620" lon="8.2255030" version="27" timestamp="2025-10-19T12:13:47Z" changeset="173488408" uid="21696131" user="aboc">
     <tag k="gfoss_id" v="7296"/>

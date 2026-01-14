@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.8 e802775f">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-13T03:25:00Z" areas="2026-01-12T18:29:00Z"/>
+<meta osm_base="2026-01-14T03:35:23Z" areas="2026-01-13T22:23:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -13071,7 +13071,7 @@
     <tag k="population" v="2357"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581933" lat="40.4183080" lon="15.2271570" version="2" timestamp="2016-08-30T01:07:08Z" changeset="41791239" uid="743479" user="fayor">
+  <node id="68581933" lat="40.4190669" lon="15.2264523" version="3" timestamp="2026-01-13T10:34:05Z" changeset="177173135" uid="23699620" user="ajeje66">
     <tag k="gfoss_id" v="5584"/>
     <tag k="name" v="Castel San Lorenzo"/>
     <tag k="place" v="village"/>
@@ -14035,12 +14035,14 @@
     <tag k="population" v="1765"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979045" lat="43.6125270" lon="13.1580611" version="3" timestamp="2016-09-09T17:36:43Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979045" lat="43.6125270" lon="13.1580611" version="5" timestamp="2026-01-13T14:39:07Z" changeset="177182813" uid="123412" user="totera">
     <tag k="gfoss_id" v="4262"/>
     <tag k="name" v="Ostra"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6028"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="2709"/>
+    <tag k="poulation:date" v="2021"/>
+    <tag k="source:population" v="Istat"/>
+    <tag k="wikidata" v="Q30028460"/>
   </node>
   <node id="70979145" lat="43.4476829" lon="13.0138605" version="3" timestamp="2019-01-18T00:44:12Z" changeset="66411662" uid="123412" user="totera">
     <tag k="gfoss_id" v="4274"/>
