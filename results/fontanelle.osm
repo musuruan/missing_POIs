@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-23T03:29:34Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-24T03:23:59Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2590,13 +2590,14 @@
     <tag k="population" v="2481"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778274" lat="45.6140864" lon="11.6693937" version="7" timestamp="2016-10-06T18:22:37Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778274" lat="45.6140864" lon="11.6693937" version="8" timestamp="2026-01-23T14:20:40Z" changeset="177611528" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3593"/>
     <tag k="name" v="San Pietro in Gu"/>
     <tag k="name:vec" v="San Piero in Gù"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4367"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030111"/>
   </node>
   <node id="64778278" lat="45.4904556" lon="11.9730203" version="4" timestamp="2025-12-25T23:37:54Z" changeset="176413104" uid="16429077" user="Grazing6603">
     <tag k="gfoss_id" v="3619"/>
@@ -2674,13 +2675,14 @@
     <tag k="population" v="2235"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778370" lat="45.6287707" lon="11.6998606" version="4" timestamp="2016-10-06T18:22:30Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778370" lat="45.6287707" lon="11.6998606" version="5" timestamp="2026-01-23T14:20:40Z" changeset="177611528" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3540"/>
     <tag k="name" v="Carmignano di Brenta"/>
     <tag k="name:vec" v="Carmignan"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7027"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023789"/>
   </node>
   <node id="64778381" lat="45.1211715" lon="11.4535022" version="4" timestamp="2016-10-06T18:22:30Z" changeset="42691939" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3544"/>
@@ -2733,12 +2735,13 @@
     <tag k="population" v="3717"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778429" lat="45.6007750" lon="11.7309556" version="3" timestamp="2020-12-29T12:54:57Z" changeset="96602725" uid="504502" user="kkklllppp">
+  <node id="64778429" lat="45.6007750" lon="11.7309556" version="4" timestamp="2026-01-23T14:20:40Z" changeset="177611528" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3557"/>
     <tag k="name" v="Grantorto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3778"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30026199"/>
   </node>
   <node id="64778445" lat="45.6486593" lon="11.8569804" version="5" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3592"/>
@@ -3218,13 +3221,14 @@
     <tag k="population" v="1721"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779069" lat="45.6925900" lon="11.4290346" version="7" timestamp="2023-05-21T15:16:50Z" changeset="136376607" uid="19304217" user="Carbon Award">
+  <node id="64779069" lat="45.6925900" lon="11.4290346" version="8" timestamp="2026-01-23T16:19:30Z" changeset="177616566" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3244"/>
     <tag k="name" v="Marano Vicentino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="9345"/>
     <tag k="population:date" v="2021-07-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027214"/>
   </node>
   <node id="64779075" lat="45.6657810" lon="11.5633020" version="4" timestamp="2026-01-19T04:39:46Z" changeset="177404946" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="3250"/>
@@ -3280,12 +3284,13 @@
     <tag k="wikidata" v="Q46328"/>
     <tag k="wikipedia" v="it:San Pietro Mussolino"/>
   </node>
-  <node id="64779177" lat="45.6489562" lon="11.6790903" version="5" timestamp="2016-10-08T21:08:51Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779177" lat="45.6489562" lon="11.6790903" version="6" timestamp="2026-01-23T14:20:40Z" changeset="177611528" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3270"/>
     <tag k="name" v="Pozzoleone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2597"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029123"/>
   </node>
   <node id="64779191" lat="45.6977089" lon="11.6442826" version="5" timestamp="2016-10-08T21:08:53Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3287"/>
@@ -3294,12 +3299,13 @@
     <tag k="population" v="2327"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779199" lat="45.7587799" lon="11.5649783" version="3" timestamp="2016-10-08T21:08:52Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779199" lat="45.7587799" lon="11.5649783" version="4" timestamp="2026-01-23T18:59:22Z" changeset="177622356" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3278"/>
     <tag k="name" v="Salcedo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1029"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029704"/>
   </node>
   <node id="64779206" lat="45.4749910" lon="11.3694960" version="2" timestamp="2016-10-08T21:08:55Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3307"/>

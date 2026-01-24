@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-23T03:27:33Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-24T03:20:43Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -576,20 +576,22 @@
     <tag k="population" v="2481"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778274" lat="45.6140864" lon="11.6693937" version="7" timestamp="2016-10-06T18:22:37Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778274" lat="45.6140864" lon="11.6693937" version="8" timestamp="2026-01-23T14:20:40Z" changeset="177611528" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3593"/>
     <tag k="name" v="San Pietro in Gu"/>
     <tag k="name:vec" v="San Piero in Gù"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4367"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030111"/>
   </node>
-  <node id="64778298" lat="45.5636980" lon="11.9064060" version="2" timestamp="2016-10-06T18:22:37Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778298" lat="45.5636980" lon="11.9064060" version="3" timestamp="2026-01-23T14:20:40Z" changeset="177611528" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3595"/>
     <tag k="name" v="Santa Giustina in Colle"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7219"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030244"/>
   </node>
   <node id="64778307" lat="45.4902940" lon="11.7520040" version="4" timestamp="2024-12-24T22:46:44Z" changeset="160589622" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3535"/>

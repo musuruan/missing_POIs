@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-23T03:25:30Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-24T03:19:40Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7218,13 +7218,14 @@
     <tag k="population" v="2507"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778426" lat="45.6628395" lon="11.8284875" version="4" timestamp="2016-10-06T18:22:31Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778426" lat="45.6628395" lon="11.8284875" version="5" timestamp="2026-01-23T14:20:40Z" changeset="177611528" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3554"/>
     <tag k="name" v="Galliera Veneta"/>
     <tag k="name:vec" v="Galiera"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7146"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025969"/>
   </node>
   <node id="64778445" lat="45.6486593" lon="11.8569804" version="5" timestamp="2024-05-29T13:08:32Z" changeset="151988824" uid="10875409" user="Friendly_Ghost">
     <tag k="gfoss_id" v="3592"/>
@@ -7606,13 +7607,13 @@
     <tag k="wikidata" v="Q46836"/>
     <tag k="wikipedia" v="it:Altissimo (Italia)"/>
   </node>
-  <node id="64779002" lat="45.7529864" lon="11.5233854" version="8" timestamp="2022-11-11T10:58:21Z" changeset="128771392" uid="8432340" user="ascanio12">
+  <node id="64779002" lat="45.7529864" lon="11.5233854" version="9" timestamp="2026-01-23T18:59:22Z" changeset="177622356" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3241"/>
     <tag k="name" v="Lugo di Vicenza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3719"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q47422"/>
+    <tag k="wikida" v="Q30026768"/>
     <tag k="wikipedia" v="it:Lugo di Vicenza"/>
   </node>
   <node id="64779005" lat="45.4746344" lon="11.6110489" version="3" timestamp="2016-10-08T21:08:49Z" changeset="42742263" uid="743479" user="fayor">
@@ -7663,12 +7664,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028131"/>
   </node>
-  <node id="64779061" lat="45.6604642" lon="11.3625657" version="5" timestamp="2016-10-08T21:08:49Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779061" lat="45.6604642" lon="11.3625657" version="6" timestamp="2026-01-23T16:19:30Z" changeset="177616566" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3251"/>
     <tag k="name" v="Monte di Malo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2755"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027750"/>
   </node>
   <node id="64779066" lat="45.4363550" lon="11.6708255" version="3" timestamp="2016-10-08T21:08:50Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3253"/>
@@ -7699,12 +7701,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023410"/>
   </node>
-  <node id="64779098" lat="45.7483844" lon="11.4592977" version="3" timestamp="2021-02-05T20:28:13Z" changeset="98790074" uid="504502" user="kkklllppp">
+  <node id="64779098" lat="45.7483844" lon="11.4592977" version="4" timestamp="2026-01-23T18:59:22Z" changeset="177622356" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3212"/>
     <tag k="name" v="Carrè"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3265"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023844"/>
   </node>
   <node id="64779112" lat="45.3045125" lon="11.4462660" version="4" timestamp="2016-10-08T21:08:45Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3198"/>
@@ -8123,10 +8126,11 @@
     <tag k="population" v="4890"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503422" lat="46.1202406" lon="13.1231520" version="8" timestamp="2025-07-15T07:57:23Z" changeset="168950064" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503422" lat="46.1202406" lon="13.1231520" version="9" timestamp="2026-01-23T22:14:06Z" changeset="177628210" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3734"/>
     <tag k="name" v="Moruzzo / Murùs"/>
     <tag k="name:fur" v="Murùs"/>
+    <tag k="name:it" v="Moruzzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2170"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8244,26 +8248,24 @@
     <tag k="wikidata" v="Q268773"/>
     <tag k="wikipedia" v="it:Diano Arentino"/>
   </node>
-  <node id="66586718" lat="43.8906190" lon="7.5996420" version="4" timestamp="2023-11-12T19:22:17Z" changeset="143945451" uid="6408564" user="amadvance">
+  <node id="66586718" lat="43.8906190" lon="7.5996420" version="5" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1172"/>
     <tag k="image" v="https://commons.wikimedia.org/wiki/File:Rocchetta_Nervina.jpg"/>
     <tag k="name" v="Rocchetta Nervina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q269717"/>
+    <tag k="wikidata" v="Q30029511"/>
     <tag k="wikimedia_commons" v="File:Rocchetta Nervina-panorama2.jpg"/>
-    <tag k="wikipedia" v="it:Rocchetta Nervina"/>
   </node>
-  <node id="66586754" lat="43.8523210" lon="7.8983490" version="5" timestamp="2022-06-18T12:33:37Z" changeset="122545205" uid="11220113" user="ivanbranco">
+  <node id="66586754" lat="43.8523210" lon="7.8983490" version="6" timestamp="2026-01-23T10:09:47Z" changeset="177601386" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1181"/>
     <tag k="name" v="Terzorio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="214"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q269827"/>
+    <tag k="wikidata" v="Q30031092"/>
     <tag k="wikimedia_commons" v="Category:Terzorio"/>
-    <tag k="wikipedia" v="it:Terzorio"/>
   </node>
   <node id="66586784" lat="43.9749240" lon="7.9451470" version="3" timestamp="2022-07-02T10:42:19Z" changeset="123115280" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1131"/>
@@ -8292,14 +8294,13 @@
     <tag k="population" v="435"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586814" lat="43.8554210" lon="7.9387490" version="3" timestamp="2022-06-13T07:23:42Z" changeset="122310238" uid="15596130" user="NJH_osm">
+  <node id="66586814" lat="43.8554210" lon="7.9387490" version="4" timestamp="2026-01-23T10:09:47Z" changeset="177601386" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1145"/>
     <tag k="name" v="Costarainera"/>
     <tag k="place" v="village"/>
     <tag k="population" v="718"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q268753"/>
-    <tag k="wikipedia" v="it:Costarainera"/>
+    <tag k="wikidata" v="Q30025230"/>
   </node>
   <node id="66586833" lat="44.0214250" lon="7.8714450" version="13" timestamp="2023-06-14T14:33:14Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="1170"/>
@@ -14107,12 +14108,13 @@
     <tag k="population" v="3016"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979233" lat="43.4872802" lon="13.1452722" version="3" timestamp="2023-12-23T18:05:01Z" changeset="145445437" uid="4188272" user="dp7">
+  <node id="70979233" lat="43.4872802" lon="13.1452722" version="4" timestamp="2026-01-23T23:17:28Z" changeset="177629634" uid="123412" user="totera">
     <tag k="gfoss_id" v="4235"/>
     <tag k="name" v="Castelbellino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3618"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024153"/>
   </node>
   <node id="70979412" lat="43.4813499" lon="13.1383781" version="3" timestamp="2016-09-09T17:36:39Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4256"/>

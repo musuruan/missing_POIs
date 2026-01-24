@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-23T03:31:29Z" areas="2026-01-22T18:45:45Z"/>
+<meta osm_base="2026-01-24T03:24:58Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6396,7 +6396,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="283"/>
   </node>
-  <node id="63631807" lat="45.9597733" lon="8.5666174" version="7" timestamp="2023-05-25T12:49:57Z" changeset="136542756" uid="4982687" user="Francoerbi41">
+  <node id="63631807" lat="45.9597733" lon="8.5666174" version="8" timestamp="2026-01-23T09:20:36Z" changeset="177599262" uid="90379" user="Andrea Musuruane">
     <tag k="gfoss_id" v="8098"/>
     <tag k="is_in" v="Verbano-Cusio-Ossola, Piemonte, Italy"/>
     <tag k="name" v="Vignone"/>
@@ -6405,7 +6405,6 @@
     <tag k="population:date" v="2022 08 31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="Istat"/>
-    <tag k="wikidata" v="Q117253765"/>
   </node>
   <node id="63631867" lat="45.2359501" lon="8.3698748" version="7" timestamp="2023-01-17T19:55:14Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="capital" v="8"/>
@@ -6573,13 +6572,14 @@
     <tag k="population" v="2481"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64778274" lat="45.6140864" lon="11.6693937" version="7" timestamp="2016-10-06T18:22:37Z" changeset="42691939" uid="743479" user="fayor">
+  <node id="64778274" lat="45.6140864" lon="11.6693937" version="8" timestamp="2026-01-23T14:20:40Z" changeset="177611528" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3593"/>
     <tag k="name" v="San Pietro in Gu"/>
     <tag k="name:vec" v="San Piero in Gù"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4367"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030111"/>
   </node>
   <node id="64778276" lat="45.3288991" lon="11.6417347" version="8" timestamp="2017-05-05T05:04:07Z" changeset="48413562" uid="554973" user="dgitto">
     <tag k="alt_name" v="Vo' Euganeo"/>
@@ -7444,12 +7444,13 @@
     <tag k="population" v="2327"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779199" lat="45.7587799" lon="11.5649783" version="3" timestamp="2016-10-08T21:08:52Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779199" lat="45.7587799" lon="11.5649783" version="4" timestamp="2026-01-23T18:59:22Z" changeset="177622356" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3278"/>
     <tag k="name" v="Salcedo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1029"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029704"/>
   </node>
   <node id="64779206" lat="45.4749910" lon="11.3694960" version="2" timestamp="2016-10-08T21:08:55Z" changeset="42742263" uid="743479" user="fayor">
     <tag k="gfoss_id" v="3307"/>
@@ -7839,10 +7840,11 @@
     <tag k="population" v="4890"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503422" lat="46.1202406" lon="13.1231520" version="8" timestamp="2025-07-15T07:57:23Z" changeset="168950064" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503422" lat="46.1202406" lon="13.1231520" version="9" timestamp="2026-01-23T22:14:06Z" changeset="177628210" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3734"/>
     <tag k="name" v="Moruzzo / Murùs"/>
     <tag k="name:fur" v="Murùs"/>
+    <tag k="name:it" v="Moruzzo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2170"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8104,12 +8106,13 @@
     <tag k="wikidata" v="Q269038"/>
     <tag k="wikipedia" v="it:Isolabona"/>
   </node>
-  <node id="66586705" lat="44.0771225" lon="7.8330076" version="13" timestamp="2023-06-14T14:16:19Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
+  <node id="66586705" lat="44.0771225" lon="7.8330076" version="14" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1144"/>
     <tag k="name" v="Cosio di Arroscia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="280"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025195"/>
   </node>
   <node id="66586731" lat="43.8795375" lon="7.5148239" version="7" timestamp="2022-04-19T16:53:04Z" changeset="119916320" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1159"/>
@@ -21368,20 +21371,6 @@
     <tag k="wikidata" v="Q389247"/>
     <tag k="wikipedia" v="it:Tadasuni"/>
   </node>
-  <node id="72993361" lat="39.7126440" lon="8.7748320" version="40" timestamp="2017-03-01T21:25:09Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7670"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Siris"/>
-    <tag k="name:it" v="Siris"/>
-    <tag k="name:sc" v="Siris"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="249"/>
-    <tag k="postal_code" v="09090"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.siris.or.it/"/>
-    <tag k="wikidata" v="Q388533"/>
-    <tag k="wikipedia" v="it:Siris (Italia)"/>
-  </node>
   <node id="72993378" lat="39.9501470" lon="8.6360250" version="42" timestamp="2023-11-06T06:20:07Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Siimajori"/>
     <tag k="gfoss_id" v="7665"/>
@@ -22801,10 +22790,11 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3261"/>
   </node>
-  <node id="2658276650" lat="45.7621733" lon="11.4650759" version="2" timestamp="2016-10-07T16:55:18Z" changeset="42715408" uid="743479" user="fayor">
+  <node id="2658276650" lat="45.7621733" lon="11.4650759" version="3" timestamp="2026-01-23T15:08:16Z" changeset="177613580" uid="18230056" user="AwFi">
     <tag k="name" v="Chiuppano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2598"/>
+    <tag k="wikidata" v="Q30024701"/>
   </node>
   <node id="2663786391" lat="40.5074284" lon="15.8147487" version="4" timestamp="2023-08-22T09:47:17Z" changeset="140219416" uid="361003" user="Cascafico">
     <tag k="gfoss_id" v="6355"/>
