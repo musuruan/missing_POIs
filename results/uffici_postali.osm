@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-24T03:19:40Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-25T03:46:42Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7607,13 +7607,14 @@
     <tag k="wikidata" v="Q46836"/>
     <tag k="wikipedia" v="it:Altissimo (Italia)"/>
   </node>
-  <node id="64779002" lat="45.7529864" lon="11.5233854" version="9" timestamp="2026-01-23T18:59:22Z" changeset="177622356" uid="18230056" user="AwFi">
+  <node id="64779002" lat="45.7529864" lon="11.5233854" version="10" timestamp="2026-01-24T20:55:41Z" changeset="177661350" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3241"/>
     <tag k="name" v="Lugo di Vicenza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3719"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikida" v="Q30026768"/>
+    <tag k="wikidata" v="Q30026768"/>
     <tag k="wikipedia" v="it:Lugo di Vicenza"/>
   </node>
   <node id="64779005" lat="45.4746344" lon="11.6110489" version="3" timestamp="2016-10-08T21:08:49Z" changeset="42742263" uid="743479" user="fayor">
@@ -7686,12 +7687,13 @@
     <tag k="population" v="2034"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779080" lat="45.7395927" lon="11.5482872" version="4" timestamp="2016-10-08T21:08:47Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779080" lat="45.7395927" lon="11.5482872" version="5" timestamp="2026-01-24T20:55:41Z" changeset="177661350" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3228"/>
     <tag k="name" v="Fara Vicentino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3810"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025636"/>
   </node>
   <node id="64779094" lat="45.7659086" lon="11.5121486" version="9" timestamp="2026-01-22T15:20:08Z" changeset="177569149" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3208"/>
@@ -8239,14 +8241,13 @@
     <tag k="population" v="211"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586714" lat="43.9496250" lon="8.0415500" version="4" timestamp="2022-07-01T08:06:45Z" changeset="123074264" uid="15596130" user="NJH_osm">
+  <node id="66586714" lat="43.9496250" lon="8.0415500" version="5" timestamp="2026-01-24T20:36:27Z" changeset="177660870" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1146"/>
     <tag k="name" v="Diano Arentino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="606"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q268773"/>
-    <tag k="wikipedia" v="it:Diano Arentino"/>
+    <tag k="wikidata" v="Q30025423"/>
   </node>
   <node id="66586718" lat="43.8906190" lon="7.5996420" version="5" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1172"/>

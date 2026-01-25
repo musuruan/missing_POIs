@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-24T03:24:58Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-25T03:54:58Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3661,12 +3661,14 @@
     <tag k="population" v="339"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622176" lat="44.5943782" lon="8.3786180" version="5" timestamp="2023-01-17T20:01:12Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63622176" lat="44.5943782" lon="8.3786180" version="6" timestamp="2026-01-24T16:55:55Z" changeset="177654170" uid="90379" user="Andrea Musuruane">
     <tag k="gfoss_id" v="963"/>
     <tag k="name" v="Montechiaro d'Acqui"/>
     <tag k="place" v="village"/>
     <tag k="population" v="585"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q17402"/>
+    <tag k="wikipedia" v="it:Montechiaro d'Acqui"/>
   </node>
   <node id="63622188" lat="44.8483380" lon="8.9936102" version="5" timestamp="2023-01-17T19:53:33Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="965"/>
@@ -4713,12 +4715,13 @@
     <tag k="wikidata" v="Q17862"/>
     <tag k="wikipedia" v="it:San Marzano Oliveto"/>
   </node>
-  <node id="63624994" lat="45.5281920" lon="7.9085570" version="6" timestamp="2023-01-17T20:02:49Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63624994" lat="45.5281920" lon="7.9085570" version="7" timestamp="2026-01-24T11:54:51Z" changeset="177642822" uid="90379" user="Andrea Musuruane">
     <tag k="gfoss_id" v="7711"/>
     <tag k="name" v="Donato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="725"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025470"/>
   </node>
   <node id="63625017" lat="45.5813541" lon="8.0987784" version="5" timestamp="2023-01-17T19:56:34Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="7738"/>
@@ -6283,14 +6286,14 @@
     <tag k="wikidata" v="Q25195"/>
     <tag k="wikipedia" v="it:Rossa (Italia)"/>
   </node>
-  <node id="63631105" lat="45.2129062" lon="8.4177041" version="6" timestamp="2021-06-26T14:17:59Z" changeset="107005070" uid="11220113" user="ivanbranco">
+  <node id="63631105" lat="45.2129062" lon="8.4177041" version="7" timestamp="2026-01-24T12:55:15Z" changeset="177644988" uid="90379" user="Andrea Musuruane">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="378"/>
     <tag k="name" v="Rive"/>
     <tag k="place" v="village"/>
     <tag k="population" v="417"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q25192"/>
+    <tag k="wikidata" v="Q30029409"/>
     <tag k="wikipedia" v="en:Rive, Piedmont"/>
   </node>
   <node id="63631114" lat="45.8588347" lon="8.0629434" version="8" timestamp="2023-01-17T20:01:42Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -7357,12 +7360,13 @@
     <tag k="population" v="2034"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="64779080" lat="45.7395927" lon="11.5482872" version="4" timestamp="2016-10-08T21:08:47Z" changeset="42742263" uid="743479" user="fayor">
+  <node id="64779080" lat="45.7395927" lon="11.5482872" version="5" timestamp="2026-01-24T20:55:41Z" changeset="177661350" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3228"/>
     <tag k="name" v="Fara Vicentino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3810"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025636"/>
   </node>
   <node id="64779104" lat="45.7706147" lon="11.4608005" version="7" timestamp="2026-01-22T15:20:08Z" changeset="177569149" uid="18230056" user="AwFi">
     <tag k="gfoss_id" v="3207"/>
@@ -16156,12 +16160,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022730"/>
   </node>
-  <node id="70978920" lat="43.4455544" lon="13.1155997" version="3" timestamp="2016-09-09T17:36:33Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70978920" lat="43.4455544" lon="13.1155997" version="4" timestamp="2026-01-24T10:32:31Z" changeset="177640226" uid="123412" user="totera">
     <tag k="gfoss_id" v="4243"/>
     <tag k="name" v="Cupramontana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4736"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30025335"/>
   </node>
   <node id="70978954" lat="43.4366590" lon="13.3544740" version="3" timestamp="2026-01-09T15:07:15Z" changeset="177030170" uid="123412" user="totera">
     <tag k="gfoss_id" v="4246"/>
