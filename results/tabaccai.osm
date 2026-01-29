@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-28T03:36:10Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-29T04:07:46Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1435,12 +1435,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031473"/>
   </node>
-  <node id="62506138" lat="45.7162722" lon="9.7081894" version="8" timestamp="2021-01-14T11:40:31Z" changeset="97493203" uid="616481" user="gigi2037">
+  <node id="62506138" lat="45.7162722" lon="9.7081894" version="9" timestamp="2026-01-28T17:13:11Z" changeset="177814460" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2135"/>
     <tag k="name" v="Torre Boldone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="8825"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031181"/>
   </node>
   <node id="62506145" lat="45.7265314" lon="9.8939905" version="5" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2155"/>
@@ -2536,12 +2537,13 @@
     <tag k="population" v="1488"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507346" lat="45.7263379" lon="9.7146629" version="6" timestamp="2021-01-14T13:11:11Z" changeset="97497254" uid="616481" user="gigi2037">
+  <node id="62507346" lat="45.7263379" lon="9.7146629" version="7" timestamp="2026-01-28T17:13:11Z" changeset="177814460" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2100"/>
     <tag k="name" v="Ranica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5966"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029273"/>
   </node>
   <node id="62507354" lat="45.5691748" lon="9.5693448" version="4" timestamp="2022-06-15T15:39:41Z" changeset="122424630" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="2094"/>
@@ -16638,7 +16640,7 @@
     <tag k="population" v="190"/>
     <tag k="wikidata" v="Q18480538"/>
   </node>
-  <node id="64776541" lat="46.1081377" lon="11.3027058" version="14" timestamp="2025-11-17T19:26:14Z" changeset="174787430" uid="1726102" user="AlessioMela">
+  <node id="64776541" lat="46.1081377" lon="11.3027058" version="15" timestamp="2026-01-28T20:55:04Z" changeset="177821467" uid="1726102" user="AlessioMela">
     <tag k="alt_name:de" v="St. Urschl"/>
     <tag k="gfoss_id" v="3032"/>
     <tag k="name" v="Sant'Orsola Terme"/>
@@ -16648,7 +16650,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="906"/>
     <tag k="reg_name" v="Sant'Orsola"/>
-    <tag k="wikidata" v="Q30030398"/>
+    <tag k="wikidata" v="Q18482837"/>
   </node>
   <node id="64776544" lat="46.2654118" lon="11.0868217" version="8" timestamp="2022-02-17T20:09:54Z" changeset="117536338" uid="330007" user="pikappa79">
     <tag k="name" v="Vigo di Ton"/>
@@ -20521,13 +20523,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022023"/>
   </node>
-  <node id="64779002" lat="45.7529864" lon="11.5233854" version="10" timestamp="2026-01-24T20:55:41Z" changeset="177661350" uid="18230056" user="AwFi">
+  <node id="64779002" lat="45.7529864" lon="11.5233854" version="11" timestamp="2026-01-28T11:36:57Z" changeset="177801604" uid="616774" user="mueschel">
     <tag k="gfoss_id" v="3241"/>
     <tag k="name" v="Lugo di Vicenza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3719"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikida" v="Q30026768"/>
     <tag k="wikidata" v="Q30026768"/>
     <tag k="wikipedia" v="it:Lugo di Vicenza"/>
   </node>
@@ -21821,10 +21822,11 @@
     <tag k="population" v="4726"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503187" lat="46.1735947" lon="13.1879335" version="9" timestamp="2025-07-13T12:27:20Z" changeset="168870913" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503187" lat="46.1735947" lon="13.1879335" version="10" timestamp="2026-01-28T21:09:03Z" changeset="177821869" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3690"/>
     <tag k="name" v="Cassacco / Cjassà"/>
     <tag k="name:fur" v="Cjassà"/>
+    <tag k="name:it" v="Cassacco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2849"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -22113,9 +22115,9 @@
     <tag k="population" v="354"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503281" lat="45.8066102" lon="12.9978253" version="6" timestamp="2025-07-09T17:41:41Z" changeset="168707645" uid="20552772" user="user_8y978a">
+  <node id="66503281" lat="45.8066102" lon="12.9978253" version="7" timestamp="2026-01-28T12:22:12Z" changeset="177803213" uid="684800" user="fabiotofy">
     <tag k="gfoss_id" v="3768"/>
-    <tag k="name" v="Ronchis / Roncjis"/>
+    <tag k="name" v="Ronchis"/>
     <tag k="name:fur" v="Roncjis"/>
     <tag k="name:it" v="Ronchis"/>
     <tag k="place" v="village"/>
@@ -22540,10 +22542,11 @@
     <tag k="wikidata" v="Q53402"/>
     <tag k="wikipedia" v="it:Zuglio"/>
   </node>
-  <node id="66503536" lat="46.1906240" lon="13.1581240" version="7" timestamp="2025-07-15T13:14:08Z" changeset="168965094" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503536" lat="46.1906240" lon="13.1581240" version="8" timestamp="2026-01-28T21:09:03Z" changeset="177821869" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3797"/>
     <tag k="name" v="Treppo Grande / Trep Grant"/>
     <tag k="name:fur" v="Trep Grant"/>
+    <tag k="name:it" v="Treppo Grande"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1754"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -23019,16 +23022,15 @@
     <tag k="wikidata" v="Q30031092"/>
     <tag k="wikimedia_commons" v="Category:Terzorio"/>
   </node>
-  <node id="66586765" lat="43.9031088" lon="7.7167756" version="8" timestamp="2022-06-18T12:33:37Z" changeset="122545205" uid="11220113" user="ivanbranco">
+  <node id="66586765" lat="43.9031088" lon="7.7167756" version="9" timestamp="2026-01-28T20:00:56Z" changeset="177819663" uid="20673751" user="LucianoC63">
     <tag k="alt_name" v="Baiardo"/>
     <tag k="gfoss_id" v="1128"/>
     <tag k="name" v="Bajardo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="278"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q268168"/>
+    <tag k="wikidata" v="Q30022530"/>
     <tag k="wikimedia_commons" v="File:Bajardo-panorama1.JPG"/>
-    <tag k="wikipedia" v="it:Bajardo"/>
   </node>
   <node id="66586769" lat="43.9229240" lon="8.1011520" version="3" timestamp="2024-08-04T09:43:03Z" changeset="154803326" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1173"/>
@@ -23153,15 +23155,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024718"/>
   </node>
-  <node id="66586821" lat="43.8807025" lon="7.7745643" version="7" timestamp="2024-05-26T19:32:43Z" changeset="151867190" uid="129060" user="Klenje">
+  <node id="66586821" lat="43.8807025" lon="7.7745643" version="8" timestamp="2026-01-28T20:00:56Z" changeset="177819663" uid="20673751" user="LucianoC63">
     <tag k="name" v="Ceriana"/>
     <tag k="name:lij" v="Seriana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1305"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q268330"/>
+    <tag k="wikidata" v="Q30024565"/>
     <tag k="wikimedia_commons" v="File:Ceriana-P1010175.JPG"/>
-    <tag k="wikipedia" v="it:Ceriana"/>
   </node>
   <node id="66586825" lat="43.9285566" lon="7.6744340" version="6" timestamp="2022-07-08T11:53:51Z" changeset="123359513" uid="10901495" user="Martino Scaglione">
     <tag k="alt_name" v="Castelvittorio"/>
@@ -34880,7 +34881,7 @@
     <tag k="population" v="953"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300993" lat="45.0156770" lon="9.4473636" version="13" timestamp="2026-01-26T16:00:54Z" changeset="177726404" uid="564585" user="wegavision">
+  <node id="69300993" lat="45.0156931" lon="9.4470417" version="14" timestamp="2026-01-28T19:37:21Z" changeset="177818945" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="3845"/>
     <tag k="name" v="Borgonovo Val Tidone"/>
     <tag k="place" v="village"/>
@@ -35531,12 +35532,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024153"/>
   </node>
-  <node id="70979244" lat="43.4930580" lon="13.0818670" version="2" timestamp="2016-09-09T17:36:31Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979244" lat="43.4930580" lon="13.0818670" version="3" timestamp="2026-01-28T22:54:05Z" changeset="177824498" uid="123412" user="totera">
     <tag k="gfoss_id" v="4239"/>
     <tag k="name" v="Castelplanio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3223"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024311"/>
   </node>
   <node id="70979281" lat="43.4645740" lon="13.5467001" version="13" timestamp="2026-01-09T14:59:47Z" changeset="177029850" uid="123412" user="totera">
     <tag k="gfoss_id" v="4237"/>
@@ -42644,20 +42646,6 @@
     <tag k="website" v="http://www.comune.baratilisanpietro.or.it/indixi.php"/>
     <tag k="wikidata" v="Q382644"/>
     <tag k="wikipedia" v="it:Baratili San Pietro"/>
-  </node>
-  <node id="72993243" lat="39.7127450" lon="8.8753340" version="43" timestamp="2023-11-07T21:09:15Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7621"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Aressa/Baressa"/>
-    <tag k="name:it" v="Baressa"/>
-    <tag k="name:sc" v="Aressa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="849"/>
-    <tag k="postal_code" v="09090"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.baressa.or.it/index.asp"/>
-    <tag k="wikidata" v="Q382651"/>
-    <tag k="wikipedia" v="it:Baressa"/>
   </node>
   <node id="72993260" lat="40.1707530" lon="8.8565270" version="41" timestamp="2017-03-01T21:25:08Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="alt_name" v="Bidumajore"/>

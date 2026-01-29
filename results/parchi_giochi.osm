@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-28T03:35:14Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-29T04:05:43Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -833,12 +833,13 @@
     <tag k="population" v="1429"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507346" lat="45.7263379" lon="9.7146629" version="6" timestamp="2021-01-14T13:11:11Z" changeset="97497254" uid="616481" user="gigi2037">
+  <node id="62507346" lat="45.7263379" lon="9.7146629" version="7" timestamp="2026-01-28T17:13:11Z" changeset="177814460" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2100"/>
     <tag k="name" v="Ranica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5966"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029273"/>
   </node>
   <node id="62507354" lat="45.5691748" lon="9.5693448" version="4" timestamp="2022-06-15T15:39:41Z" changeset="122424630" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="2094"/>
@@ -7852,9 +7853,9 @@
     <tag k="population" v="1202"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503281" lat="45.8066102" lon="12.9978253" version="6" timestamp="2025-07-09T17:41:41Z" changeset="168707645" uid="20552772" user="user_8y978a">
+  <node id="66503281" lat="45.8066102" lon="12.9978253" version="7" timestamp="2026-01-28T12:22:12Z" changeset="177803213" uid="684800" user="fabiotofy">
     <tag k="gfoss_id" v="3768"/>
-    <tag k="name" v="Ronchis / Roncjis"/>
+    <tag k="name" v="Ronchis"/>
     <tag k="name:fur" v="Roncjis"/>
     <tag k="name:it" v="Ronchis"/>
     <tag k="place" v="village"/>
@@ -8297,15 +8298,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024718"/>
   </node>
-  <node id="66586821" lat="43.8807025" lon="7.7745643" version="7" timestamp="2024-05-26T19:32:43Z" changeset="151867190" uid="129060" user="Klenje">
+  <node id="66586821" lat="43.8807025" lon="7.7745643" version="8" timestamp="2026-01-28T20:00:56Z" changeset="177819663" uid="20673751" user="LucianoC63">
     <tag k="name" v="Ceriana"/>
     <tag k="name:lij" v="Seriana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1305"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q268330"/>
+    <tag k="wikidata" v="Q30024565"/>
     <tag k="wikimedia_commons" v="File:Ceriana-P1010175.JPG"/>
-    <tag k="wikipedia" v="it:Ceriana"/>
   </node>
   <node id="66586825" lat="43.9285566" lon="7.6744340" version="6" timestamp="2022-07-08T11:53:51Z" changeset="123359513" uid="10901495" user="Martino Scaglione">
     <tag k="alt_name" v="Castelvittorio"/>
@@ -12185,13 +12185,6 @@
     <tag k="wikidata" v="Q30028837"/>
     <tag k="wikimedia_commons" v="Category:Pietracupa"/>
     <tag k="wikipedia" v="it:Pietracupa"/>
-  </node>
-  <node id="67284116" lat="41.6110290" lon="14.6627290" version="2" timestamp="2016-09-03T02:35:25Z" changeset="41880656" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6071"/>
-    <tag k="name" v="Ripalimosani"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2588"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67284126" lat="41.9417360" lon="14.7132260" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6048"/>
@@ -16270,12 +16263,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023441"/>
   </node>
-  <node id="70979244" lat="43.4930580" lon="13.0818670" version="2" timestamp="2016-09-09T17:36:31Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979244" lat="43.4930580" lon="13.0818670" version="3" timestamp="2026-01-28T22:54:05Z" changeset="177824498" uid="123412" user="totera">
     <tag k="gfoss_id" v="4239"/>
     <tag k="name" v="Castelplanio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3223"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024311"/>
   </node>
   <node id="70979256" lat="43.3193013" lon="12.9848150" version="4" timestamp="2025-07-06T15:37:19Z" changeset="168567157" uid="4188272" user="dp7">
     <tag k="gfoss_id" v="4240"/>
