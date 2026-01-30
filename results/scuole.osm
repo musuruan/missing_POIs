@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-29T04:08:50Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-30T04:09:29Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -665,15 +665,6 @@
     <tag k="population" v="933"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025120"/>
-  </node>
-  <node id="62506414" lat="45.5548790" lon="9.8309600" version="3" timestamp="2025-08-01T09:00:53Z" changeset="169806028" uid="1950277" user="Mannivu">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="2000"/>
-    <tag k="name" v="Cividate al Piano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4869"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024829"/>
   </node>
   <node id="62506427" lat="45.7578026" lon="10.0202068" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2025"/>
@@ -3373,16 +3364,6 @@
     <tag k="name" v="Barbianello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="816"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515371" lat="45.1131110" lon="8.9587996" version="8" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="ele" v="85"/>
-    <tag k="gfoss_id" v="2488"/>
-    <tag k="name" v="Pieve Albignola"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="909"/>
-    <tag k="postal_code" v="27030"/>
-    <tag k="ref:ISTAT" v="018112"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515372" lat="45.1093640" lon="9.4357590" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
@@ -18562,12 +18543,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030445"/>
   </node>
-  <node id="70979097" lat="43.5433100" lon="13.0371913" version="6" timestamp="2016-09-09T17:36:48Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979097" lat="43.5433100" lon="13.0371913" version="7" timestamp="2026-01-29T17:31:20Z" changeset="177858786" uid="123412" user="totera">
     <tag k="gfoss_id" v="4273"/>
     <tag k="name" v="Serra de' Conti"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3464"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30030614"/>
   </node>
   <node id="70979145" lat="43.4476829" lon="13.0138605" version="3" timestamp="2019-01-18T00:44:12Z" changeset="66411662" uid="123412" user="totera">
     <tag k="gfoss_id" v="4274"/>
@@ -18591,12 +18573,13 @@
     <tag k="population" v="3308"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979353" lat="43.4723570" lon="13.0367660" version="2" timestamp="2016-09-09T17:36:37Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979353" lat="43.4723570" lon="13.0367660" version="3" timestamp="2026-01-29T14:44:43Z" changeset="177851435" uid="123412" user="totera">
     <tag k="gfoss_id" v="4251"/>
     <tag k="name" v="Mergo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="970"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027472"/>
   </node>
   <node id="70979368" lat="43.6010966" lon="13.2138462" version="4" timestamp="2026-01-22T15:19:34Z" changeset="177569120" uid="123412" user="totera">
     <tag k="gfoss_id" v="4258"/>
@@ -23570,6 +23553,17 @@
     <tag k="wikidata" v="Q388325"/>
     <tag k="wikipedia" v="it:Siamaggiore"/>
   </node>
+  <node id="72993388" lat="39.8241470" lon="8.9400330" version="41" timestamp="2026-01-23T01:42:51Z" changeset="177589460" uid="4365159" user="wildmaps">
+    <tag k="gfoss_id" v="7663"/>
+    <tag k="name" v="Senis"/>
+    <tag k="name:it" v="Senis"/>
+    <tag k="name:sc" v="Senis"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="576"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.senis.or.it/"/>
+    <tag k="wikidata" v="Q30030584"/>
+  </node>
   <node id="72993408" lat="40.2163299" lon="8.5840920" version="49" timestamp="2019-03-23T16:10:18Z" changeset="68448396" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7660"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -24065,11 +24059,12 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q18492362"/>
   </node>
-  <node id="268788418" lat="43.5263107" lon="13.0630099" version="13" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="268788418" lat="43.5263107" lon="13.0630099" version="14" timestamp="2026-01-29T17:22:06Z" changeset="177858416" uid="123412" user="totera">
     <tag k="name" v="Montecarotto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2176"/>
     <tag k="postal_code" v="60036"/>
+    <tag k="wikidata" v="Q30027791"/>
   </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="9" timestamp="2026-01-01T18:42:49Z" changeset="176714791" uid="1726102" user="AlessioMela">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-29T04:05:43Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-30T04:06:25Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -16200,12 +16200,13 @@
     <tag k="wikidata" v="Q111856"/>
     <tag k="wikipedia" v="it:Montegridolfo"/>
   </node>
-  <node id="70978863" lat="43.4832580" lon="13.0688670" version="2" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70978863" lat="43.4832580" lon="13.0688670" version="3" timestamp="2026-01-29T17:27:13Z" changeset="177858603" uid="123412" user="totera">
     <tag k="gfoss_id" v="4267"/>
     <tag k="name" v="Rosora"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1748"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029604"/>
   </node>
   <node id="70978886" lat="43.5804949" lon="13.1661271" version="4" timestamp="2026-01-21T17:24:07Z" changeset="177533120" uid="123412" user="totera">
     <tag k="gfoss_id" v="4232"/>
@@ -16278,12 +16279,13 @@
     <tag k="population" v="3308"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70979353" lat="43.4723570" lon="13.0367660" version="2" timestamp="2016-09-09T17:36:37Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979353" lat="43.4723570" lon="13.0367660" version="3" timestamp="2026-01-29T14:44:43Z" changeset="177851435" uid="123412" user="totera">
     <tag k="gfoss_id" v="4251"/>
     <tag k="name" v="Mergo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="970"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027472"/>
   </node>
   <node id="70979368" lat="43.6010966" lon="13.2138462" version="4" timestamp="2026-01-22T15:19:34Z" changeset="177569120" uid="123412" user="totera">
     <tag k="gfoss_id" v="4258"/>
@@ -21392,20 +21394,6 @@
     <tag k="wikidata" v="Q385660"/>
     <tag k="wikipedia" v="it:Curcuris"/>
   </node>
-  <node id="72993291" lat="39.8096460" lon="8.8507320" version="41" timestamp="2017-03-01T21:25:08Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7679"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Useddus/Usellus"/>
-    <tag k="name:it" v="Usellus"/>
-    <tag k="name:sc" v="Useddus"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="933"/>
-    <tag k="postal_code" v="09090"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.usellus.or.it/index.asp"/>
-    <tag k="wikidata" v="Q389355"/>
-    <tag k="wikipedia" v="it:Usellus"/>
-  </node>
   <node id="72993312" lat="40.1064530" lon="8.9330290" version="41" timestamp="2023-11-10T18:39:52Z" changeset="143875216" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7672"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -21448,17 +21436,6 @@
     <tag k="website" v="https://www.comune.siamaggiore.or.it/"/>
     <tag k="wikidata" v="Q388325"/>
     <tag k="wikipedia" v="it:Siamaggiore"/>
-  </node>
-  <node id="72993388" lat="39.8241470" lon="8.9400330" version="41" timestamp="2026-01-23T01:42:51Z" changeset="177589460" uid="4365159" user="wildmaps">
-    <tag k="gfoss_id" v="7663"/>
-    <tag k="name" v="Senis"/>
-    <tag k="name:it" v="Senis"/>
-    <tag k="name:sc" v="Senis"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="576"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.senis.or.it/"/>
-    <tag k="wikidata" v="Q30030584"/>
   </node>
   <node id="72993538" lat="39.9207820" lon="8.7610449" version="42" timestamp="2023-11-06T06:20:09Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7666"/>

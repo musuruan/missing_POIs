@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-29T04:04:44Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-30T04:05:18Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1163,16 +1163,6 @@
     <tag k="population" v="2753"/>
     <tag k="postal_code" v="27017"/>
     <tag k="ref:ISTAT" v="018114"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515409" lat="45.1269219" lon="8.6235671" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="ele" v="101"/>
-    <tag k="gfoss_id" v="2398"/>
-    <tag k="name" v="Breme"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="847"/>
-    <tag k="postal_code" v="27020"/>
-    <tag k="ref:ISTAT" v="018022"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515416" lat="45.0643632" lon="9.3584773" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
@@ -7173,12 +7163,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023441"/>
   </node>
-  <node id="70979353" lat="43.4723570" lon="13.0367660" version="2" timestamp="2016-09-09T17:36:37Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70979353" lat="43.4723570" lon="13.0367660" version="3" timestamp="2026-01-29T14:44:43Z" changeset="177851435" uid="123412" user="totera">
     <tag k="gfoss_id" v="4251"/>
     <tag k="name" v="Mergo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="970"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30027472"/>
   </node>
   <node id="70979368" lat="43.6010966" lon="13.2138462" version="4" timestamp="2026-01-22T15:19:34Z" changeset="177569120" uid="123412" user="totera">
     <tag k="gfoss_id" v="4258"/>
@@ -9414,21 +9405,6 @@
     <tag k="wikidata" v="Q385515"/>
     <tag k="wikipedia" v="it:Boroneddu"/>
   </node>
-  <node id="72992829" lat="39.8099470" lon="8.9182330" version="41" timestamp="2017-03-01T21:25:02Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="alt_name" v="Assou"/>
-    <tag k="gfoss_id" v="7617"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Assolu/Assolo"/>
-    <tag k="name:it" v="Assolo"/>
-    <tag k="name:sc" v="Assolu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="485"/>
-    <tag k="postal_code" v="09080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.assolo.or.it/Default.aspx"/>
-    <tag k="wikidata" v="Q382585"/>
-    <tag k="wikipedia" v="it:Assolo (Italia)"/>
-  </node>
   <node id="72992837" lat="39.8724480" lon="8.9464330" version="40" timestamp="2026-01-23T01:42:57Z" changeset="177589466" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="7618"/>
     <tag k="name" v="Asuni"/>
@@ -9522,19 +9498,6 @@
     <tag k="website" v="http://www.comune.baratilisanpietro.or.it/indixi.php"/>
     <tag k="wikidata" v="Q382644"/>
     <tag k="wikipedia" v="it:Baratili San Pietro"/>
-  </node>
-  <node id="72993270" lat="39.7876460" lon="8.8620320" version="41" timestamp="2017-03-01T21:25:08Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7612"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Ollasta Useddus/Albagiara"/>
-    <tag k="name:it" v="Albagiara"/>
-    <tag k="name:sc" v="Ollasta Useddus"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="289"/>
-    <tag k="postal_code" v="09090"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q382496"/>
-    <tag k="wikipedia" v="it:Albagiara"/>
   </node>
   <node id="72993285" lat="39.7461450" lon="8.8306320" version="42" timestamp="2024-06-30T00:03:38Z" changeset="153351299" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7686"/>

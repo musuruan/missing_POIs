@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-29T04:07:46Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-30T04:08:28Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2283,12 +2283,12 @@
     <tag k="website" v="https://www.comune.roncola.bg.it/"/>
     <tag k="wikipedia" v="it:Roncola (Italia)"/>
   </node>
-  <node id="62507018" lat="45.7439737" lon="9.7592752" version="7" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62507018" lat="45.7439737" lon="9.7592752" version="8" timestamp="2026-01-29T17:24:41Z" changeset="177858493" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2066"/>
     <tag k="name" v="Nembro"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11514"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028165"/>
   </node>
   <node id="62507029" lat="45.4760760" lon="9.6892580" version="3" timestamp="2025-04-01T16:06:29Z" changeset="164382491" uid="1950277" user="Mannivu">
     <tag k="created_by" v="JOSM"/>
@@ -2556,12 +2556,12 @@
     <tag k="wikidata" v="Q101466"/>
     <tag k="wikipedia" v="it:Pontirolo Nuovo"/>
   </node>
-  <node id="62507362" lat="45.7467328" lon="9.7831294" version="5" timestamp="2021-01-14T13:11:11Z" changeset="97497254" uid="616481" user="gigi2037">
+  <node id="62507362" lat="45.7467328" lon="9.7831294" version="6" timestamp="2026-01-29T17:24:41Z" changeset="177858493" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2095"/>
     <tag k="name" v="Pradalunga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4592"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029130"/>
   </node>
   <node id="62507373" lat="45.9477858" lon="9.6756230" version="5" timestamp="2021-04-28T14:38:48Z" changeset="103784454" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="2086"/>
@@ -3573,15 +3573,6 @@
     <tag k="population" v="1714"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509046" lat="45.7560279" lon="9.0728889" version="8" timestamp="2026-01-19T05:43:51Z" changeset="177407245" uid="4365159" user="wildmaps">
-    <tag k="gfoss_id" v="1536"/>
-    <tag k="name" v="Casnate"/>
-    <tag k="name:lmo" v="Casnaa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4382"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q49281769"/>
-  </node>
   <node id="62509061" lat="45.6836574" lon="8.9400155" version="3" timestamp="2020-04-23T16:27:17Z" changeset="84013030" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1530"/>
     <tag k="name" v="Carbonate"/>
@@ -4389,16 +4380,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1971"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62510880" lat="45.8428272" lon="9.0471960" version="5" timestamp="2025-12-24T17:01:08Z" changeset="176370007" uid="69717" user="kaitu">
-    <tag k="ele" v="230"/>
-    <tag k="gfoss_id" v="1597"/>
-    <tag k="name" v="Maslianico"/>
-    <tag k="name:lmo" v="Maslianigh"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3464"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30027340"/>
   </node>
   <node id="62510908" lat="45.6751880" lon="8.9557618" version="6" timestamp="2023-06-15T07:47:45Z" changeset="137357936" uid="19497998" user="branco-revert">
     <tag k="gfoss_id" v="1606"/>
@@ -30185,13 +30166,6 @@
     <tag k="wikidata" v="Q51969"/>
     <tag k="wikipedia" v="it:Volturino"/>
   </node>
-  <node id="68529011" lat="41.7839380" lon="15.4437440" version="5" timestamp="2023-06-14T22:33:12Z" changeset="137347147" uid="19497998" user="branco-revert">
-    <tag k="gfoss_id" v="6100"/>
-    <tag k="name" v="Apricena"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="13328"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68529019" lat="41.4957884" lon="15.0520334" version="3" timestamp="2024-11-06T09:15:51Z" changeset="158809003" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6157"/>
     <tag k="name" v="Volturara Appula"/>
@@ -35455,12 +35429,13 @@
     <tag k="population" v="1765"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70978863" lat="43.4832580" lon="13.0688670" version="2" timestamp="2016-09-09T17:36:46Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="70978863" lat="43.4832580" lon="13.0688670" version="3" timestamp="2026-01-29T17:27:13Z" changeset="177858603" uid="123412" user="totera">
     <tag k="gfoss_id" v="4267"/>
     <tag k="name" v="Rosora"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1748"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029604"/>
   </node>
   <node id="70978886" lat="43.5804949" lon="13.1661271" version="4" timestamp="2026-01-21T17:24:07Z" changeset="177533120" uid="123412" user="totera">
     <tag k="gfoss_id" v="4232"/>
@@ -42759,17 +42734,6 @@
     <tag k="wikidata" v="Q388533"/>
     <tag k="wikipedia" v="it:Siris (Italia)"/>
   </node>
-  <node id="72993388" lat="39.8241470" lon="8.9400330" version="41" timestamp="2026-01-23T01:42:51Z" changeset="177589460" uid="4365159" user="wildmaps">
-    <tag k="gfoss_id" v="7663"/>
-    <tag k="name" v="Senis"/>
-    <tag k="name:it" v="Senis"/>
-    <tag k="name:sc" v="Senis"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="576"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.senis.or.it/"/>
-    <tag k="wikidata" v="Q30030584"/>
-  </node>
   <node id="72993538" lat="39.9207820" lon="8.7610449" version="42" timestamp="2023-11-06T06:20:09Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7666"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -43515,11 +43479,12 @@
     <tag k="population" v="1106"/>
     <tag k="wikidata" v="Q18478844"/>
   </node>
-  <node id="268788418" lat="43.5263107" lon="13.0630099" version="13" timestamp="2016-09-09T17:36:40Z" changeset="42039680" uid="743479" user="fayor">
+  <node id="268788418" lat="43.5263107" lon="13.0630099" version="14" timestamp="2026-01-29T17:22:06Z" changeset="177858416" uid="123412" user="totera">
     <tag k="name" v="Montecarotto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2176"/>
     <tag k="postal_code" v="60036"/>
+    <tag k="wikidata" v="Q30027791"/>
   </node>
   <node id="268802353" lat="46.1331080" lon="11.2460028" version="18" timestamp="2026-01-11T19:04:23Z" changeset="177108831" uid="8522139" user="mosis99">
     <tag k="alt_name:de" v="Wasilig-Pineid"/>

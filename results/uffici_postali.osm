@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-29T03:59:44Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-30T04:00:00Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -702,12 +702,12 @@
     <tag k="website" v="https://www.comune.roncola.bg.it/"/>
     <tag k="wikipedia" v="it:Roncola (Italia)"/>
   </node>
-  <node id="62507018" lat="45.7439737" lon="9.7592752" version="7" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
+  <node id="62507018" lat="45.7439737" lon="9.7592752" version="8" timestamp="2026-01-29T17:24:41Z" changeset="177858493" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2066"/>
     <tag k="name" v="Nembro"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11514"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028165"/>
   </node>
   <node id="62507034" lat="45.8576650" lon="10.1335450" version="5" timestamp="2021-01-04T13:50:48Z" changeset="96913277" uid="1476146" user="Alecs01">
     <tag k="gfoss_id" v="2103"/>
@@ -873,12 +873,12 @@
     <tag k="wikidata" v="Q101466"/>
     <tag k="wikipedia" v="it:Pontirolo Nuovo"/>
   </node>
-  <node id="62507362" lat="45.7467328" lon="9.7831294" version="5" timestamp="2021-01-14T13:11:11Z" changeset="97497254" uid="616481" user="gigi2037">
+  <node id="62507362" lat="45.7467328" lon="9.7831294" version="6" timestamp="2026-01-29T17:24:41Z" changeset="177858493" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2095"/>
     <tag k="name" v="Pradalunga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4592"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029130"/>
   </node>
   <node id="62507399" lat="45.8745870" lon="9.8908550" version="5" timestamp="2024-09-09T17:59:00Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2080"/>
@@ -17485,19 +17485,6 @@
     <tag k="website" v="https://comune.gonnosno.or.it/"/>
     <tag k="wikidata" v="Q30026150"/>
   </node>
-  <node id="72993270" lat="39.7876460" lon="8.8620320" version="41" timestamp="2017-03-01T21:25:08Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7612"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Ollasta Useddus/Albagiara"/>
-    <tag k="name:it" v="Albagiara"/>
-    <tag k="name:sc" v="Ollasta Useddus"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="289"/>
-    <tag k="postal_code" v="09090"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q382496"/>
-    <tag k="wikipedia" v="it:Albagiara"/>
-  </node>
   <node id="72993285" lat="39.7461450" lon="8.8306320" version="42" timestamp="2024-06-30T00:03:38Z" changeset="153351299" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7686"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -18044,13 +18031,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="688"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="1520890976" lat="45.2723159" lon="11.2477997" version="6" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
-    <tag k="name" v="Roverchiara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2771"/>
-    <tag k="wikidata" v="Q30029633"/>
-    <tag k="wikipedia" v="it:Roverchiara"/>
   </node>
   <node id="1545004822" lat="45.1812743" lon="9.4893475" version="7" timestamp="2023-10-16T10:26:10Z" changeset="142657648" uid="20456925" user="pavia212">
     <tag k="addr:city" v="San Colombano al Lambro"/>
