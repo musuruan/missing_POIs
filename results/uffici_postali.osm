@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-30T04:00:00Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-01-31T03:57:14Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1011,12 +1011,12 @@
     <tag k="population" v="780"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507811" lat="45.4206595" lon="9.9617289" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507811" lat="45.4206595" lon="9.9617289" version="5" timestamp="2026-01-30T21:05:46Z" changeset="177906755" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2296"/>
     <tag k="name" v="Orzivecchi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2286"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028425"/>
   </node>
   <node id="62507827" lat="45.5891866" lon="10.0764110" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2300"/>
@@ -1305,12 +1305,12 @@
     <tag k="wikidata" v="Q111589"/>
     <tag k="wikipedia" v="it:Quinzano d'Oglio"/>
   </node>
-  <node id="62508814" lat="45.4885780" lon="9.8870620" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508814" lat="45.4885780" lon="9.8870620" version="3" timestamp="2026-01-30T20:36:16Z" changeset="177905705" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2337"/>
     <tag k="name" v="Rudiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4610"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029651"/>
   </node>
   <node id="62508825" lat="45.7154530" lon="10.1111391" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2339"/>
@@ -17402,21 +17402,6 @@
     <tag k="wikidata" v="Q187513"/>
     <tag k="wikipedia" v="it:Bidonì"/>
   </node>
-  <node id="72992829" lat="39.8099470" lon="8.9182330" version="41" timestamp="2017-03-01T21:25:02Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="alt_name" v="Assou"/>
-    <tag k="gfoss_id" v="7617"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Assolu/Assolo"/>
-    <tag k="name:it" v="Assolo"/>
-    <tag k="name:sc" v="Assolu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="485"/>
-    <tag k="postal_code" v="09080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.assolo.or.it/Default.aspx"/>
-    <tag k="wikidata" v="Q382585"/>
-    <tag k="wikipedia" v="it:Assolo (Italia)"/>
-  </node>
   <node id="72992914" lat="39.8105520" lon="9.4990450" version="42" timestamp="2023-11-10T22:23:55Z" changeset="143881488" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7391"/>
     <tag k="name" v="Ulassa/Ulassai"/>
@@ -18634,6 +18619,13 @@
     <tag k="name" v="Pizzoni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="974"/>
+  </node>
+  <node id="11361420336" lat="40.8467115" lon="16.0313301" version="1" timestamp="2023-11-19T09:06:17Z" changeset="144200108" uid="18391604" user="FrankiePolo">
+    <tag k="name" v="Genzano di Lucania"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5262"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
 
 </osm>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-30T04:05:18Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-31T04:01:19Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -224,12 +224,12 @@
     <tag k="population" v="1124"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507811" lat="45.4206595" lon="9.9617289" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507811" lat="45.4206595" lon="9.9617289" version="5" timestamp="2026-01-30T21:05:46Z" changeset="177906755" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2296"/>
     <tag k="name" v="Orzivecchi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2286"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028425"/>
   </node>
   <node id="62508071" lat="45.6848636" lon="10.4366014" version="4" timestamp="2024-10-31T06:32:58Z" changeset="158567829" uid="9925732" user="Flight777">
     <tag k="created_by" v="Potlatch 0.7b"/>
@@ -10295,6 +10295,13 @@
     <tag k="name" v="Pizzoni"/>
     <tag k="place" v="village"/>
     <tag k="population" v="974"/>
+  </node>
+  <node id="11361420336" lat="40.8467115" lon="16.0313301" version="1" timestamp="2023-11-19T09:06:17Z" changeset="144200108" uid="18391604" user="FrankiePolo">
+    <tag k="name" v="Genzano di Lucania"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5262"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
 
 </osm>

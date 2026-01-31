@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-30T04:09:29Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-31T04:06:27Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1179,12 +1179,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027541"/>
   </node>
-  <node id="62507811" lat="45.4206595" lon="9.9617289" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507811" lat="45.4206595" lon="9.9617289" version="5" timestamp="2026-01-30T21:05:46Z" changeset="177906755" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2296"/>
     <tag k="name" v="Orzivecchi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2286"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028425"/>
   </node>
   <node id="62507833" lat="45.5095840" lon="10.5063760" version="2" timestamp="2020-05-05T02:39:39Z" changeset="84656251" uid="219297" user="ZeLonewolf">
     <tag k="gfoss_id" v="2299"/>
@@ -1318,15 +1318,14 @@
     <tag k="population" v="2485"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508149" lat="45.4642998" lon="9.9140564" version="3" timestamp="2022-02-04T16:39:35Z" changeset="117013786" uid="10901495" user="Martino Scaglione">
+  <node id="62508149" lat="45.4642998" lon="9.9140564" version="4" timestamp="2026-01-30T20:40:03Z" changeset="177905841" uid="1950277" user="Mannivu">
     <tag k="ele" v="117"/>
     <tag k="loc_name" v="Ròcafranca"/>
     <tag k="name" v="Roccafranca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3746"/>
-    <tag k="wikidata" v="Q111606"/>
+    <tag k="wikidata" v="Q30029469"/>
     <tag k="wikimedia_commons" v="Category:Roccafranca"/>
-    <tag k="wikipedia" v="it:Roccafranca"/>
   </node>
   <node id="62508158" lat="45.6585870" lon="10.4205710" version="2" timestamp="2022-01-10T17:12:53Z" changeset="115990688" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2338"/>
@@ -8650,13 +8649,6 @@
     <tag k="wikidata" v="Q30028229"/>
     <tag k="wikipedia" v="it:Nole"/>
   </node>
-  <node id="63630469" lat="44.8493681" lon="7.3432431" version="5" timestamp="2023-01-17T19:53:04Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="173"/>
-    <tag k="name" v="Osasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="944"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63630481" lat="45.2686519" lon="7.7636388" version="6" timestamp="2024-01-24T18:05:50Z" changeset="146641044" uid="6645382" user="canfe">
     <tag k="gfoss_id" v="33"/>
     <tag k="name" v="Bosconero"/>
@@ -10763,17 +10755,16 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q266352"/>
   </node>
-  <node id="66586656" lat="43.8710380" lon="7.5541812" version="6" timestamp="2022-06-18T12:33:37Z" changeset="122545205" uid="11220113" user="ivanbranco">
+  <node id="66586656" lat="43.8710380" lon="7.5541812" version="7" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1122"/>
     <tag k="name" v="Airole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="456"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q264583"/>
+    <tag k="wikidata" v="Q30022042"/>
     <tag k="wikimedia_commons" v="Category:Airole"/>
-    <tag k="wikipedia" v="it:Airole"/>
   </node>
-  <node id="66586658" lat="43.8804326" lon="7.6602391" version="8" timestamp="2025-01-27T15:37:40Z" changeset="161823499" uid="16472431" user="Mertlík Vojtěch">
+  <node id="66586658" lat="43.8804326" lon="7.6602391" version="9" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1123"/>
     <tag k="loc_name:lij" v="Bligal"/>
     <tag k="name" v="Apricale"/>
@@ -10781,8 +10772,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="578"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q268067"/>
-    <tag k="wikipedia" v="it:Apricale"/>
+    <tag k="wikidata" v="Q30022275"/>
   </node>
   <node id="66586666" lat="44.6012449" lon="9.0386677" version="5" timestamp="2018-03-23T16:51:27Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
     <tag k="gfoss_id" v="1323"/>
@@ -10832,12 +10822,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022432"/>
   </node>
-  <node id="66586689" lat="43.8788708" lon="7.6400263" version="5" timestamp="2022-08-16T11:16:49Z" changeset="124967020" uid="10901495" user="Martino Scaglione">
+  <node id="66586689" lat="43.8788708" lon="7.6400263" version="6" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
     <tag k="name" v="Isolabona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="643"/>
-    <tag k="wikidata" v="Q269038"/>
-    <tag k="wikipedia" v="it:Isolabona"/>
+    <tag k="wikidata" v="Q30026395"/>
   </node>
   <node id="66586701" lat="44.0763792" lon="7.8056411" version="16" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1155"/>
@@ -25684,6 +25673,13 @@
     <tag k="postal_code" v="89020"/>
     <tag k="wikidata" v="Q54651"/>
     <tag k="wikipedia" v="it:San Pietro di Caridà"/>
+  </node>
+  <node id="11361420336" lat="40.8467115" lon="16.0313301" version="1" timestamp="2023-11-19T09:06:17Z" changeset="144200108" uid="18391604" user="FrankiePolo">
+    <tag k="name" v="Genzano di Lucania"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5262"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="13020273867" lat="42.2625974" lon="14.0285749" version="1" timestamp="2025-07-24T06:26:59Z" changeset="169378533" uid="10124288" user="damianeue">
     <tag k="gfoss_id" v="5906"/>

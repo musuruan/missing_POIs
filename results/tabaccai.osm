@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-30T04:08:28Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-31T04:04:30Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2789,12 +2789,12 @@
     <tag k="population" v="780"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507811" lat="45.4206595" lon="9.9617289" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507811" lat="45.4206595" lon="9.9617289" version="5" timestamp="2026-01-30T21:05:46Z" changeset="177906755" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2296"/>
     <tag k="name" v="Orzivecchi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2286"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028425"/>
   </node>
   <node id="62507827" lat="45.5891866" lon="10.0764110" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2300"/>
@@ -3003,15 +3003,14 @@
     <tag k="population" v="2485"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508149" lat="45.4642998" lon="9.9140564" version="3" timestamp="2022-02-04T16:39:35Z" changeset="117013786" uid="10901495" user="Martino Scaglione">
+  <node id="62508149" lat="45.4642998" lon="9.9140564" version="4" timestamp="2026-01-30T20:40:03Z" changeset="177905841" uid="1950277" user="Mannivu">
     <tag k="ele" v="117"/>
     <tag k="loc_name" v="Ròcafranca"/>
     <tag k="name" v="Roccafranca"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3746"/>
-    <tag k="wikidata" v="Q111606"/>
+    <tag k="wikidata" v="Q30029469"/>
     <tag k="wikimedia_commons" v="Category:Roccafranca"/>
-    <tag k="wikipedia" v="it:Roccafranca"/>
   </node>
   <node id="62508158" lat="45.6585870" lon="10.4205710" version="2" timestamp="2022-01-10T17:12:53Z" changeset="115990688" uid="350864" user="demon_box">
     <tag k="gfoss_id" v="2338"/>
@@ -3410,12 +3409,12 @@
     <tag k="population" v="14376"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508814" lat="45.4885780" lon="9.8870620" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508814" lat="45.4885780" lon="9.8870620" version="3" timestamp="2026-01-30T20:36:16Z" changeset="177905705" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2337"/>
     <tag k="name" v="Rudiano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4610"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30029651"/>
   </node>
   <node id="62508825" lat="45.7154530" lon="10.1111391" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2339"/>
@@ -21683,9 +21682,9 @@
     <tag k="wikidata" v="Q1520816"/>
     <tag k="wikipedia" v="it:Campolongo al Torre"/>
   </node>
-  <node id="66503091" lat="46.2066766" lon="13.1185570" version="10" timestamp="2025-07-10T18:14:38Z" changeset="168755768" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503091" lat="46.2066766" lon="13.1185570" version="11" timestamp="2026-01-30T08:40:30Z" changeset="177879347" uid="684800" user="fabiotofy">
     <tag k="gfoss_id" v="3684"/>
-    <tag k="name" v="Buja / Buie"/>
+    <tag k="name" v="Buja"/>
     <tag k="name:fur" v="Buie"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6674"/>
@@ -22832,15 +22831,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q266592"/>
   </node>
-  <node id="66586656" lat="43.8710380" lon="7.5541812" version="6" timestamp="2022-06-18T12:33:37Z" changeset="122545205" uid="11220113" user="ivanbranco">
+  <node id="66586656" lat="43.8710380" lon="7.5541812" version="7" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1122"/>
     <tag k="name" v="Airole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="456"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q264583"/>
+    <tag k="wikidata" v="Q30022042"/>
     <tag k="wikimedia_commons" v="Category:Airole"/>
-    <tag k="wikipedia" v="it:Airole"/>
   </node>
   <node id="66586664" lat="44.5641434" lon="8.9895956" version="8" timestamp="2018-03-23T16:51:27Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
     <tag k="gfoss_id" v="1314"/>
@@ -22898,12 +22896,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022432"/>
   </node>
-  <node id="66586689" lat="43.8788708" lon="7.6400263" version="5" timestamp="2022-08-16T11:16:49Z" changeset="124967020" uid="10901495" user="Martino Scaglione">
+  <node id="66586689" lat="43.8788708" lon="7.6400263" version="6" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
     <tag k="name" v="Isolabona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="643"/>
-    <tag k="wikidata" v="Q269038"/>
-    <tag k="wikipedia" v="it:Isolabona"/>
+    <tag k="wikidata" v="Q30026395"/>
   </node>
   <node id="66586701" lat="44.0763792" lon="7.8056411" version="16" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1155"/>
@@ -42323,21 +42320,6 @@
     <tag k="wikidata" v="Q385515"/>
     <tag k="wikipedia" v="it:Boroneddu"/>
   </node>
-  <node id="72992829" lat="39.8099470" lon="8.9182330" version="41" timestamp="2017-03-01T21:25:02Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="alt_name" v="Assou"/>
-    <tag k="gfoss_id" v="7617"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Assolu/Assolo"/>
-    <tag k="name:it" v="Assolo"/>
-    <tag k="name:sc" v="Assolu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="485"/>
-    <tag k="postal_code" v="09080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.assolo.or.it/Default.aspx"/>
-    <tag k="wikidata" v="Q382585"/>
-    <tag k="wikipedia" v="it:Assolo (Italia)"/>
-  </node>
   <node id="72992837" lat="39.8724480" lon="8.9464330" version="40" timestamp="2026-01-23T01:42:57Z" changeset="177589466" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="7618"/>
     <tag k="name" v="Asuni"/>
@@ -47235,6 +47217,13 @@
     <tag k="postal_code" v="89020"/>
     <tag k="wikidata" v="Q54651"/>
     <tag k="wikipedia" v="it:San Pietro di Caridà"/>
+  </node>
+  <node id="11361420336" lat="40.8467115" lon="16.0313301" version="1" timestamp="2023-11-19T09:06:17Z" changeset="144200108" uid="18391604" user="FrankiePolo">
+    <tag k="name" v="Genzano di Lucania"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5262"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="12224173792" lat="45.8935664" lon="9.4227250" version="3" timestamp="2025-07-13T10:02:17Z" changeset="168866111" uid="14476883" user="Daniel Vincenc">
     <tag k="alt_name" v="Ballabio Sotto"/>

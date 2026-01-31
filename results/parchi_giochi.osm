@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-30T04:06:25Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-01-31T04:03:21Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -916,12 +916,12 @@
     <tag k="population" v="780"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507811" lat="45.4206595" lon="9.9617289" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62507811" lat="45.4206595" lon="9.9617289" version="5" timestamp="2026-01-30T21:05:46Z" changeset="177906755" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2296"/>
     <tag k="name" v="Orzivecchi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2286"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028425"/>
   </node>
   <node id="62507839" lat="45.3705760" lon="10.0267670" version="3" timestamp="2025-05-05T17:46:01Z" changeset="165858143" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2308"/>
@@ -8132,17 +8132,16 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q266352"/>
   </node>
-  <node id="66586656" lat="43.8710380" lon="7.5541812" version="6" timestamp="2022-06-18T12:33:37Z" changeset="122545205" uid="11220113" user="ivanbranco">
+  <node id="66586656" lat="43.8710380" lon="7.5541812" version="7" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1122"/>
     <tag k="name" v="Airole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="456"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q264583"/>
+    <tag k="wikidata" v="Q30022042"/>
     <tag k="wikimedia_commons" v="Category:Airole"/>
-    <tag k="wikipedia" v="it:Airole"/>
   </node>
-  <node id="66586658" lat="43.8804326" lon="7.6602391" version="8" timestamp="2025-01-27T15:37:40Z" changeset="161823499" uid="16472431" user="Mertlík Vojtěch">
+  <node id="66586658" lat="43.8804326" lon="7.6602391" version="9" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1123"/>
     <tag k="loc_name:lij" v="Bligal"/>
     <tag k="name" v="Apricale"/>
@@ -8150,8 +8149,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="578"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q268067"/>
-    <tag k="wikipedia" v="it:Apricale"/>
+    <tag k="wikidata" v="Q30022275"/>
   </node>
   <node id="66586670" lat="43.9930250" lon="7.9580470" version="4" timestamp="2026-01-26T21:15:29Z" changeset="177738821" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1133"/>
@@ -8185,12 +8183,11 @@
     <tag k="population" v="211"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586689" lat="43.8788708" lon="7.6400263" version="5" timestamp="2022-08-16T11:16:49Z" changeset="124967020" uid="10901495" user="Martino Scaglione">
+  <node id="66586689" lat="43.8788708" lon="7.6400263" version="6" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
     <tag k="name" v="Isolabona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="643"/>
-    <tag k="wikidata" v="Q269038"/>
-    <tag k="wikipedia" v="it:Isolabona"/>
+    <tag k="wikidata" v="Q30026395"/>
   </node>
   <node id="66586705" lat="44.0771225" lon="7.8330076" version="14" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1144"/>
