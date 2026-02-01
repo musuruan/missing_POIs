@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-31T03:57:14Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-02-01T04:22:29Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -150,12 +150,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023351"/>
   </node>
-  <node id="62505654" lat="45.4949814" lon="9.6012863" version="3" timestamp="2019-04-28T08:57:42Z" changeset="69658059" uid="1950277" user="Mannivu">
+  <node id="62505654" lat="45.4949814" lon="9.6012863" version="4" timestamp="2026-01-31T14:02:54Z" changeset="177926995" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="1972"/>
     <tag k="name" v="Calvenzano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3447"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023412"/>
   </node>
   <node id="62505706" lat="45.6651820" lon="9.8291580" version="4" timestamp="2025-03-22T23:02:35Z" changeset="163966889" uid="22582138" user="Luca Foglieni">
     <tag k="created_by" v="JOSM"/>
@@ -1983,12 +1983,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029245"/>
   </node>
-  <node id="62511749" lat="45.4257937" lon="9.6103764" version="3" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511749" lat="45.4257937" lon="9.6103764" version="4" timestamp="2026-01-31T14:24:58Z" changeset="177927834" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2639"/>
     <tag k="name" v="Pieranica"/>
     <tag k="place" v="village"/>
     <tag k="population" v="900"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028828"/>
   </node>
   <node id="62511768" lat="45.4706593" lon="9.5125510" version="14" timestamp="2023-10-24T18:06:38Z" changeset="143077383" uid="20500231" user="fabiotolni">
     <tag k="ele" v="101"/>
@@ -2024,12 +2025,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028305"/>
   </node>
-  <node id="62511917" lat="45.4179618" lon="9.5947015" version="4" timestamp="2025-08-01T09:25:00Z" changeset="169807182" uid="1950277" user="Mannivu">
+  <node id="62511917" lat="45.4179618" lon="9.5947015" version="5" timestamp="2026-01-31T14:35:17Z" changeset="177928226" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2671"/>
     <tag k="name" v="Torlino Vimercati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="296"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031164"/>
   </node>
   <node id="62511937" lat="45.0196019" lon="10.2926531" version="4" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
@@ -3946,11 +3946,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029121"/>
   </node>
-  <node id="63621886" lat="44.7849540" lon="9.1475590" version="5" timestamp="2024-09-01T10:22:43Z" changeset="156047667" uid="13857163" user="ulore22">
+  <node id="63621886" lat="44.7849540" lon="9.1475590" version="6" timestamp="2026-01-31T16:28:27Z" changeset="177932652" uid="90379" user="Andrea Musuruane">
     <tag k="name" v="Fabbrica Curone"/>
     <tag k="place" v="village"/>
     <tag k="population" v="570"/>
-    <tag k="wikidata" v="Q17354"/>
+    <tag k="wikidata" v="Q33435730"/>
   </node>
   <node id="63621890" lat="44.8417760" lon="8.9630083" version="5" timestamp="2023-01-17T19:52:54Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="964"/>
@@ -4792,15 +4792,14 @@
     <tag k="wikidata" v="Q17877"/>
     <tag k="wikipedia" v="it:Vesime"/>
   </node>
-  <node id="63624693" lat="45.0007446" lon="8.0501201" version="4" timestamp="2020-10-10T23:32:28Z" changeset="92289096" uid="478872" user="mcheck">
+  <node id="63624693" lat="45.0007446" lon="8.0501201" version="5" timestamp="2026-01-31T16:28:27Z" changeset="177932652" uid="90379" user="Andrea Musuruane">
     <tag k="gfoss_id" v="850"/>
     <tag k="name" v="Viale"/>
     <tag k="name:pms" v="Vial"/>
     <tag k="place" v="village"/>
     <tag k="population" v="267"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17878"/>
-    <tag k="wikipedia" v="it:Viale (Italia)"/>
+    <tag k="wikidata" v="Q18503827"/>
   </node>
   <node id="63624722" lat="45.6897517" lon="8.2162595" version="7" timestamp="2023-01-17T20:02:26Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="ele" v="559"/>
@@ -17359,19 +17358,6 @@
     <tag k="wikidata" v="Q295399"/>
     <tag k="wikipedia" v="it:Oniferi"/>
   </node>
-  <node id="72992727" lat="39.8526490" lon="9.0504350" version="46" timestamp="2019-05-15T06:07:09Z" changeset="70261203" uid="2888253" user="mapman44">
-    <tag k="gfoss_id" v="7332"/>
-    <tag k="name" v="Làconi/Laconi"/>
-    <tag k="name:it" v="Laconi"/>
-    <tag k="name:sc" v="Làconi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2302"/>
-    <tag k="postal_code" v="08034"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.laconi.or.it/home_sar.php?lang=sar&amp;inc=home_sar"/>
-    <tag k="wikidata" v="Q385883"/>
-    <tag k="wikipedia" v="it:Laconi"/>
-  </node>
   <node id="72992772" lat="39.7213450" lon="8.8974340" version="42" timestamp="2023-11-07T21:09:03Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Baradile"/>
     <tag k="gfoss_id" v="7619"/>
@@ -17456,19 +17442,6 @@
     <tag k="website" v="https://www.comune.masullas.or.it/"/>
     <tag k="wikidata" v="Q386350"/>
     <tag k="wikipedia" v="it:Masullas"/>
-  </node>
-  <node id="72993159" lat="39.7611763" lon="8.8723284" version="43" timestamp="2026-01-23T01:42:30Z" changeset="177589440" uid="4365159" user="wildmaps">
-    <tag k="alt_name" v="Gonnonò"/>
-    <tag k="gfoss_id" v="7632"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Gonnonnò/Gonnosnò"/>
-    <tag k="name:it" v="Gonnosnò"/>
-    <tag k="name:sc" v="Gonnonnò"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="900"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://comune.gonnosno.or.it/"/>
-    <tag k="wikidata" v="Q30026150"/>
   </node>
   <node id="72993285" lat="39.7461450" lon="8.8306320" version="42" timestamp="2024-06-30T00:03:38Z" changeset="153351299" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7686"/>
@@ -17569,19 +17542,6 @@
     <tag k="website" v="https://www.comune.norbello.or.it/index.asp"/>
     <tag k="wikidata" v="Q386875"/>
     <tag k="wikipedia" v="it:Norbello"/>
-  </node>
-  <node id="72993688" lat="39.8233480" lon="8.9738340" version="42" timestamp="2023-11-10T05:01:09Z" changeset="143847164" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7645"/>
-    <tag k="name" v="Nureci"/>
-    <tag k="name:it" v="Nureci"/>
-    <tag k="name:sc" v="Nureci"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="393"/>
-    <tag k="postal_code" v="09080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.nureci.or.it/"/>
-    <tag k="wikidata" v="Q387019"/>
-    <tag k="wikipedia" v="it:Nureci"/>
   </node>
   <node id="72993925" lat="40.6780610" lon="8.6173150" version="42" timestamp="2023-10-31T15:41:15Z" changeset="143429158" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7250"/>

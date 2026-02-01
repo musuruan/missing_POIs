@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-01-31T04:03:21Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-02-01T04:27:43Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1939,12 +1939,11 @@
     <tag k="population" v="931"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62511917" lat="45.4179618" lon="9.5947015" version="4" timestamp="2025-08-01T09:25:00Z" changeset="169807182" uid="1950277" user="Mannivu">
+  <node id="62511917" lat="45.4179618" lon="9.5947015" version="5" timestamp="2026-01-31T14:35:17Z" changeset="177928226" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2671"/>
     <tag k="name" v="Torlino Vimercati"/>
     <tag k="place" v="village"/>
     <tag k="population" v="296"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031164"/>
   </node>
   <node id="62511937" lat="45.0196019" lon="10.2926531" version="4" timestamp="2021-09-10T15:33:31Z" changeset="111030033" uid="1834719" user="LvdT">
@@ -4635,15 +4634,14 @@
     <tag k="wikidata" v="Q17880"/>
     <tag k="wikipedia" v="it:Vigliano d'Asti"/>
   </node>
-  <node id="63624693" lat="45.0007446" lon="8.0501201" version="4" timestamp="2020-10-10T23:32:28Z" changeset="92289096" uid="478872" user="mcheck">
+  <node id="63624693" lat="45.0007446" lon="8.0501201" version="5" timestamp="2026-01-31T16:28:27Z" changeset="177932652" uid="90379" user="Andrea Musuruane">
     <tag k="gfoss_id" v="850"/>
     <tag k="name" v="Viale"/>
     <tag k="name:pms" v="Vial"/>
     <tag k="place" v="village"/>
     <tag k="population" v="267"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q17878"/>
-    <tag k="wikipedia" v="it:Viale (Italia)"/>
+    <tag k="wikidata" v="Q18503827"/>
   </node>
   <node id="63624716" lat="45.6313650" lon="8.0972200" version="2" timestamp="2020-07-14T14:44:24Z" changeset="87984173" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="7695"/>
@@ -21548,19 +21546,6 @@
     <tag k="wikidata" v="Q386875"/>
     <tag k="wikipedia" v="it:Norbello"/>
   </node>
-  <node id="72993688" lat="39.8233480" lon="8.9738340" version="42" timestamp="2023-11-10T05:01:09Z" changeset="143847164" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7645"/>
-    <tag k="name" v="Nureci"/>
-    <tag k="name:it" v="Nureci"/>
-    <tag k="name:sc" v="Nureci"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="393"/>
-    <tag k="postal_code" v="09080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.nureci.or.it/"/>
-    <tag k="wikidata" v="Q387019"/>
-    <tag k="wikipedia" v="it:Nureci"/>
-  </node>
   <node id="72993739" lat="39.9071480" lon="8.8976310" version="41" timestamp="2017-03-01T21:25:13Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="alt_name" v="Arruìasa"/>
     <tag k="gfoss_id" v="7653"/>
@@ -22767,9 +22752,10 @@
     <tag k="name" v="Trebbio"/>
     <tag k="place" v="hamlet"/>
   </node>
-  <node id="2172442572" lat="44.5806808" lon="7.0170114" version="1" timestamp="2013-02-24T22:51:10Z" changeset="15155346" uid="348712" user="lukasbrunner">
+  <node id="2172442572" lat="44.5806808" lon="7.0170114" version="2" timestamp="2026-01-31T14:31:09Z" changeset="177928070" uid="90379" user="Andrea Musuruane">
     <tag k="name" v="Pleyne"/>
     <tag k="place" v="hamlet"/>
+    <tag k="wikidata" v="Q18440181"/>
   </node>
   <node id="2189083163" lat="46.3860814" lon="12.1739405" version="7" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3378"/>
