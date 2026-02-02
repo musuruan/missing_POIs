@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-01T04:27:43Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-02-02T04:21:15Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2813,16 +2813,6 @@
     <tag k="name" v="Calvignano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="130"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62515409" lat="45.1269219" lon="8.6235671" version="4" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="ele" v="101"/>
-    <tag k="gfoss_id" v="2398"/>
-    <tag k="name" v="Breme"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="847"/>
-    <tag k="postal_code" v="27020"/>
-    <tag k="ref:ISTAT" v="018022"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62515449" lat="45.2065660" lon="9.3596560" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
@@ -8266,14 +8256,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30031666"/>
   </node>
-  <node id="66586810" lat="43.9237407" lon="8.0671862" version="4" timestamp="2025-09-16T19:33:42Z" changeset="172032149" uid="20673751" user="LucianoC63">
+  <node id="66586810" lat="43.9237407" lon="8.0671862" version="5" timestamp="2026-02-01T21:29:50Z" changeset="177982100" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1147"/>
     <tag k="name" v="Diano Castello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1885"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q268902"/>
-    <tag k="wikipedia" v="it:Diano Castello"/>
+    <tag k="wikidata" v="Q30025425"/>
   </node>
   <node id="66586816" lat="43.8798564" lon="7.9513674" version="3" timestamp="2022-07-11T15:24:31Z" changeset="123480521" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1143"/>
