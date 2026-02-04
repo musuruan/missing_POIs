@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-03T04:17:44Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-02-04T04:12:56Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -175,6 +175,13 @@
     <tag k="name" v="Castiglion Fibocchi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1985"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="61753411" lat="43.4856312" lon="12.1116812" version="5" timestamp="2019-08-31T02:00:29Z" changeset="73941017" uid="478872" user="mcheck">
+    <tag k="gfoss_id" v="4607"/>
+    <tag k="name" v="Monterchi"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1880"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753412" lat="43.3314232" lon="11.7253508" version="6" timestamp="2025-03-30T14:24:55Z" changeset="164289882" uid="1950277" user="Mannivu">
@@ -6128,12 +6135,13 @@
     <tag k="postal_code" v="46030"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62513208" lat="44.9918730" lon="10.7430900" version="5" timestamp="2024-11-07T07:20:41Z" changeset="158842042" uid="9925732" user="Flight777">
+  <node id="62513208" lat="44.9918730" lon="10.7430900" version="6" timestamp="2026-02-03T11:14:31Z" changeset="178045664" uid="12495047" user="Yan Bakhmat">
     <tag k="contact:email" v="info@comune.suzzara.mn.it"/>
     <tag k="contact:phone" v="+39 0376 5131"/>
     <tag k="contact:website" v="http://www.comune.suzzara.mn.it/servizi/notizie/notizie_homepage.aspx"/>
     <tag k="gfoss_id" v="2746"/>
     <tag k="name" v="Suzzara"/>
+    <tag k="name:uk" v="Суцара"/>
     <tag k="place" v="town"/>
     <tag k="population" v="21049"/>
     <tag k="postal_code" v="46029"/>
@@ -19033,7 +19041,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022877"/>
   </node>
-  <node id="64778397" lat="45.2728605" lon="12.0539440" version="5" timestamp="2025-05-12T20:45:31Z" changeset="166172730" uid="14316347" user="Gicorada">
+  <node id="64778397" lat="45.2728817" lon="12.0540870" version="6" timestamp="2026-02-03T15:21:43Z" changeset="178055866" uid="1717503" user="osm19">
     <tag k="gfoss_id" v="3524"/>
     <tag k="name" v="Arzergrande"/>
     <tag k="place" v="village"/>
@@ -22517,10 +22525,10 @@
     <tag k="population" v="1754"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503541" lat="46.4140956" lon="12.9207476" version="11" timestamp="2025-11-17T21:08:13Z" changeset="174791824" uid="129060" user="Klenje">
+  <node id="66503541" lat="46.4140956" lon="12.9207476" version="12" timestamp="2026-02-03T13:05:53Z" changeset="178049806" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="3804"/>
     <tag k="loc_name:fur" v="Vile"/>
-    <tag k="name" v="Villa Santina"/>
+    <tag k="name" v="Villa Santina / Vile"/>
     <tag k="name:fur" v="Vile di Cjargne"/>
     <tag k="name:it" v="Villa Santina"/>
     <tag k="place" v="village"/>
@@ -32662,11 +32670,12 @@
     <tag k="population" v="5303"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68581097" lat="40.5493030" lon="14.2435340" version="48" timestamp="2024-09-06T00:21:22Z" changeset="156252076" uid="6251065" user="carlosassuncao92">
+  <node id="68581097" lat="40.5493030" lon="14.2435340" version="49" timestamp="2026-02-03T10:48:49Z" changeset="178044568" uid="12495047" user="Yan Bakhmat">
     <tag k="gfoss_id" v="5352"/>
     <tag k="name" v="Capri"/>
     <tag k="name:pt" v="Cápri"/>
     <tag k="name:ru" v="Капри"/>
+    <tag k="name:uk" v="Капрі"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7064"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -42504,20 +42513,6 @@
     <tag k="wikidata" v="Q386374"/>
     <tag k="wikipedia" v="it:Milis"/>
   </node>
-  <node id="72993122" lat="39.6995595" lon="8.7827237" version="44" timestamp="2024-06-30T00:03:49Z" changeset="153351299" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7635"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Masuddas/Masullas"/>
-    <tag k="name:it" v="Masullas"/>
-    <tag k="name:sc" v="Masuddas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1196"/>
-    <tag k="postal_code" v="09090"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.masullas.or.it/"/>
-    <tag k="wikidata" v="Q386350"/>
-    <tag k="wikipedia" v="it:Masullas"/>
-  </node>
   <node id="72993172" lat="40.0326510" lon="8.8967290" version="41" timestamp="2017-03-01T21:25:06Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7626"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -45232,20 +45227,6 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30029684"/>
   </node>
-  <node id="1805561779" lat="39.6811693" lon="8.8338449" version="40" timestamp="2017-03-01T21:25:43Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7633"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Gonnostramatza"/>
-    <tag k="name:it" v="Gonnostramatza"/>
-    <tag k="name:sc" v="Gonnostramatza"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="959"/>
-    <tag k="postal_code" v="09093"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.gonnostramatza.or.gov.it/portale/"/>
-    <tag k="wikidata" v="Q385865"/>
-    <tag k="wikipedia" v="it:Gonnostramatza"/>
-  </node>
   <node id="1805561780" lat="39.6847105" lon="8.7770879" version="42" timestamp="2017-03-01T21:25:43Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7638"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -45664,9 +45645,10 @@
     <tag k="population" v="961"/>
     <tag k="wikidata" v="Q30026071"/>
   </node>
-  <node id="2322888747" lat="45.0940564" lon="11.4934621" version="4" timestamp="2025-10-09T17:33:37Z" changeset="173061805" uid="22632809" user="KeyTV">
+  <node id="2322888747" lat="45.0940564" lon="11.4934621" version="5" timestamp="2026-02-03T11:11:03Z" changeset="178045512" uid="12495047" user="Yan Bakhmat">
     <tag k="name" v="Badia Polesine"/>
     <tag k="name:ru" v="Бадия-Полезине"/>
+    <tag k="name:uk" v="Бадія-Полезіне"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10509"/>
     <tag k="wikidata" v="Q30022483"/>
