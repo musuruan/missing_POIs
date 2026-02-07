@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-06T04:13:41Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-02-07T04:08:37Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7804,10 +7804,11 @@
     <tag k="population" v="2597"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503244" lat="46.2006712" lon="13.2662536" version="6" timestamp="2020-05-16T15:17:35Z" changeset="85307488" uid="129060" user="Klenje">
+  <node id="66503244" lat="46.2006712" lon="13.2662536" version="7" timestamp="2026-02-06T17:00:51Z" changeset="178197202" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3736"/>
     <tag k="name" v="Nimis"/>
     <tag k="name:fur" v="Nimis"/>
+    <tag k="name:it" v="Nimis"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2825"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -20769,20 +20770,6 @@
     <tag k="website" v="https://www.comune.talana.og.it/index.asp"/>
     <tag k="wikidata" v="Q340610"/>
     <tag k="wikipedia" v="it:Talana"/>
-  </node>
-  <node id="72992404" lat="39.7946470" lon="9.0080350" version="45" timestamp="2017-03-03T19:53:57Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7325"/>
-    <tag k="is_in" v="Sud Sardegna, Sardegna, Italy"/>
-    <tag k="name" v="Genoni"/>
-    <tag k="name:it" v="Genoni"/>
-    <tag k="name:sc" v="Geroni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1006"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.genoni.or.it/"/>
-    <tag k="wikidata" v="Q385722"/>
-    <tag k="wikipedia" v="it:Genoni"/>
   </node>
   <node id="72992412" lat="39.9134510" lon="9.1858370" version="44" timestamp="2023-11-08T07:24:15Z" changeset="143766427" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Adoni"/>
