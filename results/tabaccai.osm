@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-12T04:25:36Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-02-13T04:19:30Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14,6 +14,16 @@
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
+  </node>
+  <node id="26695251" lat="45.2015369" lon="6.6728169" version="15" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="73500"/>
+    <tag k="name" v="Modane"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2944"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikidata" v="Q537113"/>
+    <tag k="wikipedia" v="fr:Modane"/>
   </node>
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="52" timestamp="2025-09-09T16:15:53Z" changeset="171694784" uid="12495047" user="Yan Bakhmat">
     <tag k="alt_name" v="Chamonix"/>
@@ -34929,7 +34939,7 @@
     <tag k="population" v="500"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301152" lat="44.7227223" lon="9.7027278" version="6" timestamp="2026-02-11T19:26:00Z" changeset="178422257" uid="21026245" user="DBBBL">
+  <node id="69301152" lat="44.7228023" lon="9.7024679" version="7" timestamp="2026-02-12T18:03:19Z" changeset="178469968" uid="21026245" user="DBBBL">
     <tag k="gfoss_id" v="3867"/>
     <tag k="name" v="Morfasso"/>
     <tag k="place" v="village"/>
@@ -35497,15 +35507,6 @@
     <tag k="population" v="3223"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024311"/>
-  </node>
-  <node id="70979281" lat="43.4645740" lon="13.5467001" version="13" timestamp="2026-01-09T14:59:47Z" changeset="177029850" uid="123412" user="totera">
-    <tag k="gfoss_id" v="4237"/>
-    <tag k="name" v="Castelfidardo"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14589"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="source:population" v="Istat"/>
-    <tag k="wikidata" v="Q30024171"/>
   </node>
   <node id="70979288" lat="43.6077646" lon="12.9761261" version="13" timestamp="2026-01-15T23:08:31Z" changeset="177277993" uid="123412" user="totera">
     <tag k="gfoss_id" v="4238"/>
