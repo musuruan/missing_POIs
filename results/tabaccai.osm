@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-14T04:09:36Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-02-15T04:22:35Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -22087,10 +22087,11 @@
     <tag k="population" v="1202"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503271" lat="46.5528310" lon="12.8521100" version="5" timestamp="2025-07-15T11:08:09Z" changeset="168959602" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503271" lat="46.5528310" lon="12.8521100" version="6" timestamp="2026-02-14T13:53:41Z" changeset="178545209" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3765"/>
     <tag k="name" v="Rigolato / Rigulât"/>
     <tag k="name:fur" v="Rigulât"/>
+    <tag k="name:it" v="Rigolato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="641"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -26000,9 +26001,10 @@
     <tag k="population" v="4192"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274511" lat="39.5951730" lon="16.5175366" version="7" timestamp="2024-03-03T09:32:02Z" changeset="148158195" uid="3860151" user="Michele Aquilani">
+  <node id="67274511" lat="39.5951730" lon="16.5175366" version="8" timestamp="2026-02-14T20:36:42Z" changeset="178560251" uid="12495047" user="Yan Bakhmat">
     <tag k="gfoss_id" v="6529"/>
     <tag k="name" v="Corigliano Calabro"/>
+    <tag k="name:uk" v="Корильяно-Россано"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5402"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -40479,22 +40481,6 @@
     <tag k="wikipedia" v="it:Goni"/>
     <tag k="wikipedia:sc" v="Goni"/>
   </node>
-  <node id="72990899" lat="39.5413400" lon="8.6331310" version="48" timestamp="2018-07-16T19:06:14Z" changeset="60773809" uid="2589877" user="kent1D">
-    <tag k="gfoss_id" v="7429"/>
-    <tag k="int_name" v="Guspini"/>
-    <tag k="name" v="Gùspini/Guspini"/>
-    <tag k="name:it" v="Guspini"/>
-    <tag k="name:sc" v="Gùspini"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12695"/>
-    <tag k="postal_code" v="09036"/>
-    <tag k="ref:LOCODE" v="ITZKC"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.guspini.vs.it/"/>
-    <tag k="wikidata" v="Q287739"/>
-    <tag k="wikipedia" v="it:Guspini"/>
-    <tag k="wikipedia:sc" v="Gùspini"/>
-  </node>
   <node id="72990909" lat="39.5618430" lon="9.0454390" version="39" timestamp="2017-03-03T19:53:46Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="alt_name" v="Guasiba"/>
     <tag k="alt_name_1" v="Guasìlle"/>
@@ -41169,20 +41155,6 @@
     <tag k="website" v="http://www.comune.pauliarbarei.vs.it/"/>
     <tag k="wikidata" v="Q287917"/>
     <tag k="wikipedia" v="sc:Pauli Arbarei"/>
-  </node>
-  <node id="72991488" lat="39.5911591" lon="8.7209531" version="45" timestamp="2021-01-27T14:15:48Z" changeset="98235094" uid="262956" user="Andrea Maccis">
-    <tag k="gfoss_id" v="7442"/>
-    <tag k="name" v="Pabillonis/Pabillonis"/>
-    <tag k="name:it" v="Pabillonis"/>
-    <tag k="name:sc" v="Pabillonis"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3044"/>
-    <tag k="postal_code" v="09030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.pabillonis.vs.it/"/>
-    <tag k="wikidata" v="Q287900"/>
-    <tag k="wikipedia" v="sc:Pabillonis"/>
-    <tag k="wikipedia:sc" v="Pabillois"/>
   </node>
   <node id="72991508" lat="39.5678440" lon="9.1041400" version="41" timestamp="2023-11-07T21:09:05Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7466"/>
@@ -42479,24 +42451,6 @@
     <tag k="website" v="http://2.228.158.59/busachi/hh/index.php"/>
     <tag k="wikidata" v="Q385556"/>
     <tag k="wikipedia" v="it:Busachi"/>
-  </node>
-  <node id="72993222" lat="39.9303142" lon="8.5320543" version="51" timestamp="2026-01-19T18:04:18Z" changeset="177442551" uid="4365159" user="wildmaps">
-    <tag k="gfoss_id" v="7627"/>
-    <tag k="name" v="Crabas/Cabras"/>
-    <tag k="name:de" v="Cabras"/>
-    <tag k="name:en" v="Cabras"/>
-    <tag k="name:es" v="Cabras"/>
-    <tag k="name:fr" v="Cabras"/>
-    <tag k="name:it" v="Cabras"/>
-    <tag k="name:sc" v="Crabas"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="8804"/>
-    <tag k="postal_code" v="09072"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comunedicabras.it/"/>
-    <tag k="wikidata" v="Q30023290"/>
-    <tag k="wikipedia" v="sc:Crabas"/>
-    <tag k="wikipedia:it" v="Cabras"/>
   </node>
   <node id="72993233" lat="39.9928313" lon="8.5557841" version="42" timestamp="2017-03-01T21:25:07Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7620"/>
@@ -46998,18 +46952,6 @@
     <tag k="population" v="1900"/>
     <tag k="wikidata" v="Q40903"/>
     <tag k="wikipedia" v="it:Castelveccana"/>
-  </node>
-  <node id="9626048074" lat="45.5586454" lon="9.2141955" version="3" timestamp="2022-07-25T15:54:52Z" changeset="124058797" uid="10901495" user="Martino Scaglione">
-    <tag k="ele" v="154"/>
-    <tag k="name" v="Cinisello Balsamo"/>
-    <tag k="name:lmo" v="Cinisell Balsom"/>
-    <tag k="name:lmo:pronunciation" v="tʃiniˈzɛl ˈbɑːlsum"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="73500"/>
-    <tag k="start_date" v="1928"/>
-    <tag k="wikidata" v="Q30024766"/>
-    <tag k="wikimedia_commons" v="Category:Cinisello Balsamo"/>
-    <tag k="wikipedia" v="it:Cinisello Balsamo"/>
   </node>
   <node id="11117760678" lat="42.8809558" lon="11.6723792" version="9" timestamp="2025-08-10T19:05:26Z" changeset="170260763" uid="17965418" user="DabMK">
     <tag k="ele" v="822"/>
