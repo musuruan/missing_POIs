@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-15T04:15:25Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-02-16T04:17:36Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -43,6 +43,18 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="36257528" lat="44.5150043" lon="6.7511484" version="20" timestamp="2024-11-08T02:55:45Z" changeset="158879160" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Saint-Paul-sur-Ubaye"/>
+    <tag k="name:oc" v="Sant Pau d'Ubaia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="176"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="04530"/>
+    <tag k="ref:FR:SIREN" v="210401931"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikipedia" v="fr:Saint-Paul-sur-Ubaye"/>
   </node>
   <node id="61753394" lat="43.2524545" lon="11.8187597" version="8" timestamp="2019-08-11T23:53:54Z" changeset="73252608" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="4601"/>
@@ -6334,6 +6346,17 @@
     <tag k="population" v="2176"/>
     <tag k="postal_code" v="60036"/>
     <tag k="wikidata" v="Q30027791"/>
+  </node>
+  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Abriès"/>
+    <tag k="name:oc" v="Abriers"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="382"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="05460"/>
+    <tag k="ref:FR:SIREN" v="210500013"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="395603809" lat="43.9567671" lon="12.1959387" version="5" timestamp="2022-01-27T23:08:19Z" changeset="116685553" uid="554973" user="dgitto">
     <tag k="name" v="Mercato Saraceno"/>

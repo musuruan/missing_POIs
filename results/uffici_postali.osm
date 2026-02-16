@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-15T04:13:33Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-02-16T04:16:32Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -43,6 +43,18 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="36257528" lat="44.5150043" lon="6.7511484" version="20" timestamp="2024-11-08T02:55:45Z" changeset="158879160" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Saint-Paul-sur-Ubaye"/>
+    <tag k="name:oc" v="Sant Pau d'Ubaia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="176"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="04530"/>
+    <tag k="ref:FR:SIREN" v="210401931"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikipedia" v="fr:Saint-Paul-sur-Ubaye"/>
   </node>
   <node id="61753389" lat="43.6405741" lon="11.9874471" version="3" timestamp="2024-11-07T10:26:07Z" changeset="158847503" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="4590"/>
@@ -16708,21 +16720,6 @@
     <tag k="wikipedia" v="it:Las Plassas"/>
     <tag k="wikipedia:sc" v="Is Pratzas"/>
   </node>
-  <node id="72991403" lat="39.6505440" lon="8.8993350" version="41" timestamp="2017-03-01T21:24:45Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7432"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Lunamatrona"/>
-    <tag k="name:it" v="Lunamatrona"/>
-    <tag k="name:sc" v="Lunamatrona"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1858"/>
-    <tag k="postal_code" v="09022"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.lunamatrona.ca.it/"/>
-    <tag k="wikidata" v="Q287856"/>
-    <tag k="wikipedia" v="it:Lunamatrona"/>
-    <tag k="wikipedia:sc" v="Lunamatrona"/>
-  </node>
   <node id="72991443" lat="39.5509410" lon="8.7919340" version="43" timestamp="2023-11-07T21:08:57Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Santu 'Ainju"/>
     <tag k="gfoss_id" v="7452"/>
@@ -17469,6 +17466,17 @@
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
+  </node>
+  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Abriès"/>
+    <tag k="name:oc" v="Abriers"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="382"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="05460"/>
+    <tag k="ref:FR:SIREN" v="210500013"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="287896814" lat="45.9216649" lon="11.3242901" version="12" timestamp="2026-01-19T14:37:00Z" changeset="177432087" uid="4365159" user="wildmaps">
     <tag k="name" v="Lusérn - Luserna"/>

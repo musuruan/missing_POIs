@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-15T04:23:45Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-02-16T04:32:58Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -43,6 +43,18 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="36257528" lat="44.5150043" lon="6.7511484" version="20" timestamp="2024-11-08T02:55:45Z" changeset="158879160" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Saint-Paul-sur-Ubaye"/>
+    <tag k="name:oc" v="Sant Pau d'Ubaia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="176"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="04530"/>
+    <tag k="ref:FR:SIREN" v="210401931"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikipedia" v="fr:Saint-Paul-sur-Ubaye"/>
   </node>
   <node id="61753374" lat="43.6540276" lon="11.7884391" version="4" timestamp="2026-01-19T14:40:19Z" changeset="177432276" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="4591"/>
@@ -14379,15 +14391,6 @@
     <tag k="population" v="1120"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284013" lat="41.4080240" lon="14.6183310" version="3" timestamp="2024-08-16T22:23:25Z" changeset="155349180" uid="12638075" user="elucci">
-    <tag k="gfoss_id" v="6087"/>
-    <tag k="name" v="Sepino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2177"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q278225"/>
-    <tag k="wikipedia" v="it:Sepino"/>
-  </node>
   <node id="67284023" lat="41.7045330" lon="14.9333340" version="2" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6016"/>
     <tag k="name" v="Bonefro"/>
@@ -22799,21 +22802,6 @@
     <tag k="wikipedia" v="it:Villasimius"/>
     <tag k="wikipedia:sc" v="Crabonaxa"/>
   </node>
-  <node id="72991688" lat="39.6318430" lon="8.8690350" version="40" timestamp="2017-03-01T21:24:48Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="alt_name" v="Biddanoa Forru"/>
-    <tag k="gfoss_id" v="7492"/>
-    <tag k="name" v="Biddanoa de Forru/Villanovaforru"/>
-    <tag k="name:it" v="Villanovaforru"/>
-    <tag k="name:sc" v="Biddanoa de Forru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="700"/>
-    <tag k="postal_code" v="09020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.villanovaforru.ca.it/"/>
-    <tag k="wikidata" v="Q288478"/>
-    <tag k="wikipedia" v="it:Villanovaforru"/>
-    <tag k="wikipedia:sc" v="Biddanoa de Forru"/>
-  </node>
   <node id="72991755" lat="39.8470520" lon="9.5072440" version="44" timestamp="2023-11-10T22:23:56Z" changeset="143881488" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name:it" v="Gairo"/>
     <tag k="gfoss_id" v="7322"/>
@@ -24016,6 +24004,17 @@
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
+  </node>
+  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
+    <tag k="name" v="Abriès"/>
+    <tag k="name:oc" v="Abriers"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="382"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="postal_code" v="05460"/>
+    <tag k="ref:FR:SIREN" v="210500013"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="291647121" lat="43.8402291" lon="12.3591843" version="5" timestamp="2026-01-19T17:21:08Z" changeset="177440571" uid="4365159" user="wildmaps">
     <tag k="name" v="Villagrande"/>
