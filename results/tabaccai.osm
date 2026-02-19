@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-18T04:33:28Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-02-19T04:26:13Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6745,16 +6745,6 @@
     <tag k="population" v="12249"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62514249" lat="45.5761376" lon="9.1244464" version="8" timestamp="2022-06-09T19:51:15Z" changeset="122181338" uid="668137" user="Ramying">
-    <tag k="ele" v="170"/>
-    <tag k="name" v="Senago"/>
-    <tag k="name:lmo" v="Senagh"/>
-    <tag k="name:lmo:pronunciation" v="seˈnɑːk"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="19000"/>
-    <tag k="wikidata" v="Q43079"/>
-    <tag k="wikipedia" v="it:Senago"/>
-  </node>
   <node id="62514255" lat="45.6675633" lon="9.4006983" version="3" timestamp="2016-03-15T08:28:38Z" changeset="37837537" uid="579545" user="Aury88">
     <tag k="gfoss_id" v="1879"/>
     <tag k="name" v="Ronco Briantino"/>
@@ -6907,14 +6897,6 @@
     <tag k="wikidata" v="Q30025351"/>
     <tag k="wikimedia_commons" v="Category:Cusago"/>
     <tag k="wikipedia" v="it:Cusago"/>
-  </node>
-  <node id="62514467" lat="45.5896750" lon="9.3359480" version="5" timestamp="2016-06-15T17:12:30Z" changeset="40042465" uid="668137" user="Ramying">
-    <tag k="gfoss_id" v="1801"/>
-    <tag k="lmo:name" v="Concores"/>
-    <tag k="name" v="Concorezzo"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14204"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62514482" lat="45.4659366" lon="8.9200896" version="3" timestamp="2021-07-16T08:58:34Z" changeset="108102728" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="1802"/>
@@ -21918,10 +21900,11 @@
     <tag k="population" v="3308"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503206" lat="46.5152338" lon="12.8678035" version="8" timestamp="2025-07-13T16:31:21Z" changeset="168881399" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503206" lat="46.5152338" lon="12.8678035" version="9" timestamp="2026-02-18T20:24:54Z" changeset="178742102" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3700"/>
     <tag k="name" v="Comeglians / Comelians"/>
     <tag k="name:fur" v="Comelians"/>
+    <tag k="name:it" v="Comeglians"/>
     <tag k="place" v="village"/>
     <tag k="population" v="637"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -22478,10 +22461,11 @@
     <tag k="population" v="8013"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503494" lat="46.4344280" lon="12.8711130" version="5" timestamp="2025-07-15T10:37:31Z" changeset="168958234" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503494" lat="46.4344280" lon="12.8711130" version="6" timestamp="2026-02-18T20:24:54Z" changeset="178742102" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3760"/>
     <tag k="name" v="Raveo / Raviei"/>
     <tag k="name:fur" v="Raviei"/>
+    <tag k="name:it" v="Raveo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="490"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -24602,12 +24586,6 @@
     <tag k="name:scn" v="Chiusa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2461"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67256550" lat="37.8968159" lon="13.5623449" version="11" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Ciminna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3356"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67256570" lat="37.7309803" lon="13.1831444" version="17" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
@@ -45314,9 +45292,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1674"/>
   </node>
-  <node id="1976768775" lat="46.5203060" lon="12.7972483" version="7" timestamp="2025-07-15T09:52:44Z" changeset="168955787" uid="14202171" user="Alessandro Ambrosino">
+  <node id="1976768775" lat="46.5203060" lon="12.7972483" version="8" timestamp="2026-02-18T20:24:54Z" changeset="178742102" uid="129060" user="Klenje">
     <tag k="name" v="Pieria / Pierie"/>
     <tag k="name:fur" v="Pierie"/>
+    <tag k="name:it" v="Pieria"/>
     <tag k="official_name" v="Frazione Pieria"/>
     <tag k="place" v="hamlet"/>
   </node>
