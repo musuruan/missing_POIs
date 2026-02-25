@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-24T04:17:58Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-02-25T04:21:47Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -12118,10 +12118,10 @@
     <tag k="population" v="850"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63625469" lat="44.4171378" lon="8.0223427" version="5" timestamp="2023-07-14T19:34:01Z" changeset="138521223" uid="14257573" user="toponomastica_comune_arenzano">
+  <node id="63625469" lat="44.4171378" lon="8.0223427" version="6" timestamp="2026-02-24T16:30:16Z" changeset="178997785" uid="20900475" user="Paolitosss">
     <tag k="gfoss_id" v="673"/>
     <tag k="name" v="Roascio"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="hamlet"/>
     <tag k="population" v="85"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -14890,9 +14890,10 @@
     <tag k="wikidata" v="Q10215"/>
     <tag k="wikipedia" v="it:Reano"/>
   </node>
-  <node id="63629734" lat="45.4326987" lon="7.5025536" version="5" timestamp="2019-12-29T12:43:43Z" changeset="78977714" uid="2976645" user="Jrachi">
+  <node id="63629734" lat="45.4326987" lon="7.5025536" version="6" timestamp="2026-02-24T22:02:14Z" changeset="179010070" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="212"/>
     <tag k="name" v="Gabbadone"/>
+    <tag k="name:frp" v="Gabadoun"/>
     <tag k="place" v="hamlet"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
@@ -41027,21 +41028,6 @@
     <tag k="wikipedia" v="it:San Giovanni Suergiu"/>
     <tag k="wikipedia:sc" v="Santu Giuanni Suèrgiu"/>
   </node>
-  <node id="72991443" lat="39.5509410" lon="8.7919340" version="43" timestamp="2023-11-07T21:08:57Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Santu 'Ainju"/>
-    <tag k="gfoss_id" v="7452"/>
-    <tag k="name" v="Santu 'Èngiu/San Gavino Monreale"/>
-    <tag k="name:it" v="San Gavino Monreale"/>
-    <tag k="name:sc" v="Santu 'Èngiu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9460"/>
-    <tag k="postal_code" v="09037"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.sangavinomonreale.vs.it/"/>
-    <tag k="wikidata" v="Q287986"/>
-    <tag k="wikipedia" v="it:San Gavino Monreale"/>
-    <tag k="wikipedia:sc" v="Santu 'Èngiu"/>
-  </node>
   <node id="72991455" lat="39.5391475" lon="9.0835262" version="41" timestamp="2023-11-10T02:45:37Z" changeset="143844984" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7441"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
@@ -43173,6 +43159,17 @@
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
+  </node>
+  <node id="285062960" lat="44.7298050" lon="6.8448169" version="15" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="05350"/>
+    <tag k="name" v="Molines-en-Queyras"/>
+    <tag k="name:oc" v="Molinas de Cairàs"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="304"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="ref:FR:SIREN" v="210500773"/>
+    <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
     <tag k="name" v="Abriès"/>
