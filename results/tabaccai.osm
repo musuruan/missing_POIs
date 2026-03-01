@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-02-28T03:52:42Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-03-01T04:23:02Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -25047,13 +25047,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026844"/>
   </node>
-  <node id="67273468" lat="38.8461800" lon="16.3800424" version="3" timestamp="2018-02-11T23:25:50Z" changeset="56277570" uid="554973" user="dgitto">
-    <tag k="gfoss_id" v="6675"/>
-    <tag k="name" v="Jacurso"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="839"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67273472" lat="38.9489860" lon="16.4719316" version="4" timestamp="2016-08-28T18:58:31Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6682"/>
     <tag k="name" v="Miglierina"/>
@@ -40942,20 +40935,6 @@
     <tag k="wikipedia" v="it:Guamaggiore"/>
     <tag k="wikipedia:sc" v="Gomajori"/>
   </node>
-  <node id="72991388" lat="39.6801450" lon="8.9849360" version="40" timestamp="2017-03-03T19:53:52Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7431"/>
-    <tag k="name" v="Is Pratzas/Las Plassas"/>
-    <tag k="name:it" v="Las Plassas"/>
-    <tag k="name:sc" v="Is Pratzas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="269"/>
-    <tag k="postal_code" v="09020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.lasplassas.vs.it/"/>
-    <tag k="wikidata" v="Q287794"/>
-    <tag k="wikipedia" v="it:Las Plassas"/>
-    <tag k="wikipedia:sc" v="Is Pratzas"/>
-  </node>
   <node id="72991414" lat="39.0074330" lon="9.0016460" version="47" timestamp="2023-09-06T14:40:21Z" changeset="140898343" uid="8726248" user="traveleditor">
     <tag k="addr:postcode" v="09050"/>
     <tag k="gfoss_id" v="7447"/>
@@ -41108,36 +41087,6 @@
     <tag k="wikidata" v="Q288178"/>
     <tag k="wikipedia" v="it:Segariu"/>
     <tag k="wikipedia:sc" v="Segariu"/>
-  </node>
-  <node id="72991577" lat="39.7139877" lon="8.9603418" version="40" timestamp="2017-03-01T21:24:47Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7483"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Tuili"/>
-    <tag k="name:it" v="Tuili"/>
-    <tag k="name:sc" v="Tuili"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1185"/>
-    <tag k="postal_code" v="09029"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.tuili.vs.it/"/>
-    <tag k="wikidata" v="Q278730"/>
-    <tag k="wikipedia" v="it:Tuili"/>
-    <tag k="wikipedia:sc" v="Tuili"/>
-  </node>
-  <node id="72991580" lat="39.7048450" lon="8.9165340" version="39" timestamp="2017-03-01T21:24:47Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7484"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Turri"/>
-    <tag k="name:it" v="Turri"/>
-    <tag k="name:sc" v="Turri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="533"/>
-    <tag k="postal_code" v="09020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.turri.vs.it/"/>
-    <tag k="wikidata" v="Q288392"/>
-    <tag k="wikipedia" v="it:Turri"/>
-    <tag k="wikipedia:sc" v="Turri"/>
   </node>
   <node id="72991587" lat="39.5627440" lon="9.1321410" version="41" timestamp="2024-06-30T00:03:37Z" changeset="153351299" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7480"/>
@@ -42173,20 +42122,6 @@
     <tag k="wikidata" v="Q389369"/>
     <tag k="wikipedia" v="it:Villa Sant'Antonio"/>
   </node>
-  <node id="72992995" lat="39.9941018" lon="8.5386732" version="43" timestamp="2023-11-06T06:20:11Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7652"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Arriora/Riola Sardo"/>
-    <tag k="name:it" v="Riola Sardo"/>
-    <tag k="name:sc" v="Arriora"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2137"/>
-    <tag k="postal_code" v="09070"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.riolasardo.or.it/"/>
-    <tag k="wikidata" v="Q177161"/>
-    <tag k="wikipedia" v="it:Riola Sardo"/>
-  </node>
   <node id="72993005" lat="39.7915460" lon="8.8023310" version="40" timestamp="2017-03-01T21:25:05Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7649"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -42271,20 +42206,6 @@
     <tag k="website" v="http://2.228.158.59/busachi/hh/index.php"/>
     <tag k="wikidata" v="Q385556"/>
     <tag k="wikipedia" v="it:Busachi"/>
-  </node>
-  <node id="72993233" lat="39.9928313" lon="8.5557841" version="42" timestamp="2017-03-01T21:25:07Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7620"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Boàtiri/Baratili San Pietro"/>
-    <tag k="name:it" v="Baratili San Pietro"/>
-    <tag k="name:sc" v="Boàtiri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1251"/>
-    <tag k="postal_code" v="09070"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.baratilisanpietro.or.it/indixi.php"/>
-    <tag k="wikidata" v="Q382644"/>
-    <tag k="wikipedia" v="it:Baratili San Pietro"/>
   </node>
   <node id="72993260" lat="40.1707530" lon="8.8565270" version="41" timestamp="2017-03-01T21:25:08Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="alt_name" v="Bidumajore"/>
@@ -42441,21 +42362,6 @@
     <tag k="website" v="https://www.comune.villaverde.or.it/"/>
     <tag k="wikidata" v="Q389383"/>
     <tag k="wikipedia" v="it:Villa Verde"/>
-  </node>
-  <node id="72993629" lat="39.8856470" lon="8.7774290" version="42" timestamp="2023-11-06T13:09:12Z" changeset="143692989" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Biddaubrana"/>
-    <tag k="gfoss_id" v="7681"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Biddobrana/Villaurbana"/>
-    <tag k="name:it" v="Villaurbana"/>
-    <tag k="name:sc" v="Biddobrana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1794"/>
-    <tag k="postal_code" v="09080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.villaurbana.or.it/index.asp"/>
-    <tag k="wikidata" v="Q389453"/>
-    <tag k="wikipedia" v="it:Villaurbana"/>
   </node>
   <node id="72993661" lat="39.8645981" lon="8.8579312" version="42" timestamp="2017-03-01T21:25:12Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7637"/>
