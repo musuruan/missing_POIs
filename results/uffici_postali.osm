@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-01T04:14:47Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-03-02T04:04:29Z" areas="2026-01-23T01:22:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -16571,21 +16571,6 @@
     <tag k="wikipedia" v="it:Villaperuccio"/>
     <tag k="wikipedia:sc" v="Sa Baronia"/>
   </node>
-  <node id="72991238" lat="39.7442460" lon="8.9233340" version="40" timestamp="2017-03-01T21:24:44Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="alt_name" v="Jauni"/>
-    <tag k="gfoss_id" v="7420"/>
-    <tag k="name" v="Giauni/Genuri"/>
-    <tag k="name:it" v="Genuri"/>
-    <tag k="name:sc" v="Giauni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="386"/>
-    <tag k="postal_code" v="09020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.genuri.vs.it/"/>
-    <tag k="wikidata" v="Q287516"/>
-    <tag k="wikipedia" v="it:Genuri"/>
-    <tag k="wikipedia:sc" v="Giauni"/>
-  </node>
   <node id="72991259" lat="39.0718310" lon="8.6356380" version="41" timestamp="2023-04-22T19:44:01Z" changeset="135241401" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7423"/>
     <tag k="name" v="Giba"/>
@@ -17310,6 +17295,17 @@
     <tag k="name:lld" v="Fontanac' de Sot"/>
     <tag k="place" v="neighbourhood"/>
     <tag k="wikidata" v="Q18479754"/>
+  </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="12" timestamp="2025-05-18T21:42:30Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3048"/>
