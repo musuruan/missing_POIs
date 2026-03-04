@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-03T04:31:29Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-03-04T04:26:59Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -19941,14 +19941,6 @@
     <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q30024774"/>
   </node>
-  <node id="64778754" lat="45.6864366" lon="12.6375286" version="11" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
-    <tag k="gfoss_id" v="3480"/>
-    <tag k="name" v="Ceggia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6145"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024477"/>
-  </node>
   <node id="64778757" lat="45.1360987" lon="12.0812854" version="6" timestamp="2025-11-16T20:18:44Z" changeset="174744134" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="3479"/>
     <tag k="name" v="Cavarzere"/>
@@ -22301,10 +22293,11 @@
     <tag k="population" v="1832"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503388" lat="46.2390964" lon="13.1556513" version="8" timestamp="2026-01-01T16:22:04Z" changeset="176709925" uid="12294600" user="alessandrocarmeli">
+  <node id="66503388" lat="46.2390964" lon="13.1556513" version="9" timestamp="2026-03-03T20:51:45Z" changeset="179322576" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3677"/>
     <tag k="name" v="Artegna / Dartigne"/>
     <tag k="name:fur" v="Dartigne"/>
+    <tag k="name:it" v="Artegna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2904"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -41043,21 +41036,6 @@
     <tag k="wikipedia" v="it:San Nicolò Gerrei"/>
     <tag k="wikipedia:sc" v="Pauli Gerrei"/>
   </node>
-  <node id="72991564" lat="39.5644430" lon="8.9816380" version="40" timestamp="2023-11-07T21:09:01Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7464"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Segariu"/>
-    <tag k="name:it" v="Segariu"/>
-    <tag k="name:sc" v="Segariu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1358"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.segariu.ca.it/"/>
-    <tag k="wikidata" v="Q288178"/>
-    <tag k="wikipedia" v="it:Segariu"/>
-    <tag k="wikipedia:sc" v="Segariu"/>
-  </node>
   <node id="72991587" lat="39.5627440" lon="9.1321410" version="41" timestamp="2024-06-30T00:03:37Z" changeset="153351299" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7480"/>
     <tag k="name" v="Sueddi/Suelli"/>
@@ -42091,20 +42069,6 @@
     <tag k="website" v="http://www.comune.pau.or.it/"/>
     <tag k="wikidata" v="Q387187"/>
     <tag k="wikipedia" v="it:Pau (Italia)"/>
-  </node>
-  <node id="72993033" lat="39.9733936" lon="8.5401647" version="42" timestamp="2023-11-06T06:20:53Z" changeset="143677607" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7644"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Nurachi"/>
-    <tag k="name:it" v="Nurachi"/>
-    <tag k="name:sc" v="Nurachi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1619"/>
-    <tag k="postal_code" v="09070"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.nurachi.or.it/index.asp"/>
-    <tag k="wikidata" v="Q386989"/>
-    <tag k="wikipedia" v="it:Nurachi"/>
   </node>
   <node id="72993069" lat="40.1020753" lon="8.9535080" version="44" timestamp="2023-11-10T18:39:51Z" changeset="143875216" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7643"/>
@@ -44982,20 +44946,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="5507"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="1963394163" lat="39.6163372" lon="9.1064572" version="39" timestamp="2017-03-03T19:54:13Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7421"/>
-    <tag k="name" v="Gèsigu/Gesico"/>
-    <tag k="name:it" v="Gesico"/>
-    <tag k="name:sc" v="Gèsigu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="988"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.gesico.ca.it/"/>
-    <tag k="wikidata" v="Q283985"/>
-    <tag k="wikipedia" v="it:Gesico"/>
-    <tag k="wikipedia:sc" v="Gèsigu"/>
   </node>
   <node id="1969045732" lat="40.4716215" lon="8.5602991" version="41" timestamp="2023-11-07T14:20:23Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7247"/>
