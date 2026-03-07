@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-06T04:30:07Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-03-07T04:15:18Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10516,11 +10516,12 @@
     <tag k="population" v="419"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502972" lat="46.1449800" lon="12.7914003" version="8" timestamp="2025-07-07T16:18:02Z" changeset="168613429" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66502972" lat="46.1449800" lon="12.7914003" version="9" timestamp="2026-03-06T18:43:38Z" changeset="179459915" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7508"/>
     <tag k="loc_name:fur" v="Darba"/>
     <tag k="name" v="Arba / Darbe"/>
     <tag k="name:fur" v="Darbe"/>
+    <tag k="name:it" v="Arba"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1228"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -15190,21 +15191,6 @@
     <tag k="wikidata" v="Q6321"/>
     <tag k="wikipedia" v="it:Calvi dell'Umbria"/>
   </node>
-  <node id="68507850" lat="42.7078943" lon="11.9793909" version="13" timestamp="2024-09-02T15:12:58Z" changeset="156103737" uid="1211510" user="arcanma">
-    <tag k="ele" v="559"/>
-    <tag k="gfoss_id" v="50515"/>
-    <tag k="istat_id" v="5500910003"/>
-    <tag k="name" v="Castel Giorgio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1534"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="https://www.comune.castelgiorgio.tr.it/"/>
-    <tag k="wikidata" v="Q6340"/>
-    <tag k="wikipedia" v="it:Castel Giorgio"/>
-  </node>
   <node id="68507854" lat="42.6207678" lon="12.7887263" version="14" timestamp="2024-09-03T11:53:29Z" changeset="156139007" uid="1211510" user="arcanma">
     <tag k="ele" v="260"/>
     <tag k="gfoss_id" v="50547"/>
@@ -18386,7 +18372,7 @@
     <tag k="ref:LOCODE" v="ITCDX"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301539" lat="44.8429700" lon="10.7274920" version="4" timestamp="2017-09-01T18:01:36Z" changeset="51651638" uid="1834719" user="LvdT">
+  <node id="69301539" lat="44.8449819" lon="10.7316465" version="5" timestamp="2026-03-06T20:27:28Z" changeset="179463042" uid="10415664" user="Staliom">
     <tag k="gfoss_id" v="3962"/>
     <tag k="name" v="Novellara"/>
     <tag k="name:egl" v="Nuvalêra"/>
