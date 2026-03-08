@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-07T04:03:01Z" areas="2026-01-22T23:45:51Z"/>
+<meta osm_base="2026-03-08T04:10:52Z" areas="2026-01-22T23:45:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -518,7 +518,7 @@
     <tag k="population" v="1169"/>
     <tag k="wikidata" v="Q30025998"/>
   </node>
-  <node id="62511626" lat="45.7707810" lon="9.4549465" version="4" timestamp="2025-12-13T22:10:42Z" changeset="175900681" uid="34088" user="Tri28">
+  <node id="62511626" lat="45.7707810" lon="9.4549465" version="4" timestamp="2025-12-13T22:10:42Z" changeset="175900681" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="7821"/>
     <tag k="name" v="Monte Marenzo"/>
     <tag k="place" v="village"/>
@@ -654,7 +654,7 @@
     <tag k="population" v="1995"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512657" lat="46.0244860" lon="9.3639400" version="5" timestamp="2025-12-12T12:41:31Z" changeset="175844627" uid="34088" user="Tri28">
+  <node id="62512657" lat="46.0244860" lon="9.3639400" version="5" timestamp="2025-12-12T12:41:31Z" changeset="175844627" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="7848"/>
     <tag k="name" v="Taceno"/>
     <tag k="place" v="village"/>
@@ -1144,7 +1144,7 @@
     <tag k="population" v="2378"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515342" lat="45.0598580" lon="8.8484470" version="4" timestamp="2025-12-08T14:12:52Z" changeset="175669694" uid="34088" user="Tri28">
+  <node id="62515342" lat="45.0598580" lon="8.8484470" version="4" timestamp="2025-12-08T14:12:52Z" changeset="175669694" uid="34088" user="Tri38">
     <tag k="ele" v="76"/>
     <tag k="gfoss_id" v="2466"/>
     <tag k="name" v="Mezzana Bigli"/>
@@ -1258,7 +1258,7 @@
     <tag k="population" v="379"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515652" lat="45.0374456" lon="9.2039179" version="4" timestamp="2025-12-08T23:19:23Z" changeset="175690507" uid="34088" user="Tri28">
+  <node id="62515652" lat="45.0374456" lon="9.2039179" version="4" timestamp="2025-12-08T23:19:23Z" changeset="175690507" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="2496"/>
     <tag k="name" v="Redavalle"/>
     <tag k="place" v="village"/>
@@ -5098,7 +5098,7 @@
     <tag k="population" v="995"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="Tri28">
+  <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="6094"/>
     <tag k="name" v="Tufara"/>
     <tag k="place" v="village"/>
@@ -5332,7 +5332,7 @@
     <tag k="population" v="1440"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284360" lat="41.7671539" lon="14.3974582" version="3" timestamp="2025-09-25T18:30:26Z" changeset="172453512" uid="34088" user="Tri28">
+  <node id="67284360" lat="41.7671539" lon="14.3974582" version="3" timestamp="2025-09-25T18:30:26Z" changeset="172453512" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="7570"/>
     <tag k="name" v="Castelverrino"/>
     <tag k="place" v="village"/>
@@ -5855,7 +5855,7 @@
     <tag k="population" v="3011"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566522" lat="40.9281486" lon="14.8727070" version="4" timestamp="2025-09-16T12:25:46Z" changeset="172012352" uid="34088" user="Tri28">
+  <node id="68566522" lat="40.9281486" lon="14.8727070" version="4" timestamp="2025-09-16T12:25:46Z" changeset="172012352" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="5516"/>
     <tag k="name" v="San Potito Ultra"/>
     <tag k="place" v="village"/>
@@ -9883,6 +9883,41 @@
     <tag k="wikidata" v="Q286187"/>
     <tag k="wikipedia" v="it:Calasetta"/>
   </node>
+  <node id="1376769424" lat="46.1920538" lon="9.0205888" version="27" timestamp="2025-08-24T17:42:01Z" changeset="170938066" uid="17860844" user="hangukhistory">
+    <tag k="admin_centre:4" v="yes"/>
+    <tag k="admin_centre:6" v="yes"/>
+    <tag k="ele" v="230"/>
+    <tag k="name" v="Bellinzona"/>
+    <tag k="name:fr" v="Bellinzone"/>
+    <tag k="name:ko" v="벨린초나"/>
+    <tag k="name:lt" v="Belincona"/>
+    <tag k="name:ru" v="Беллинцона"/>
+    <tag k="name:uk" v="Беллінцона"/>
+    <tag k="old_name:de" v="Bellenz"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="43785"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="postal_code" v="6500, 6503, 6512, 6513, 6514, 6515, 6518, 6523, 6524, 6525, 6528, 6582, 6583, 6702"/>
+    <tag k="website" v="https://www.bellinzona.ch/"/>
+    <tag k="wikidata" v="Q64044"/>
+    <tag k="wikipedia" v="it:Bellinzona"/>
+  </node>
+  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="28" timestamp="2025-07-17T18:49:18Z" changeset="169076016" uid="12495047" user="Yan Bakhmat">
+    <tag k="capital" v="6"/>
+    <tag k="ele" v="273"/>
+    <tag k="name" v="Lugano"/>
+    <tag k="name:lt" v="Luganas"/>
+    <tag k="name:ru" v="Лугано"/>
+    <tag k="name:uk" v="Лугано"/>
+    <tag k="old_name:de" v="Lauis"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="67000"/>
+    <tag k="population:date" v="2020"/>
+    <tag k="website" v="https://www.lugano.ch/"/>
+    <tag k="wikidata" v="Q7024"/>
+    <tag k="wikimedia_commons" v="Category:Lugano"/>
+    <tag k="wikipedia" v="it:Lugano"/>
+  </node>
   <node id="1520890976" lat="45.2723159" lon="11.2477997" version="6" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
     <tag k="name" v="Roverchiara"/>
     <tag k="place" v="village"/>
@@ -10004,12 +10039,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1214"/>
   </node>
-  <node id="2646453006" lat="45.2120721" lon="9.2554631" version="2" timestamp="2025-12-08T23:10:22Z" changeset="175690340" uid="34088" user="Tri28">
+  <node id="2646453006" lat="45.2120721" lon="9.2554631" version="2" timestamp="2025-12-08T23:10:22Z" changeset="175690340" uid="34088" user="Tri38">
     <tag k="name" v="Cura Carpignano"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30025336"/>
   </node>
-  <node id="2649514075" lat="45.1374750" lon="8.7292673" version="3" timestamp="2025-12-08T13:12:45Z" changeset="175667086" uid="34088" user="Tri28">
+  <node id="2649514075" lat="45.1374750" lon="8.7292673" version="3" timestamp="2025-12-08T13:12:45Z" changeset="175667086" uid="34088" user="Tri38">
     <tag k="name" v="Semiana"/>
     <tag k="place" v="village"/>
     <tag k="population" v="251"/>
