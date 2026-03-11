@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-10T04:05:29Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-03-11T04:04:59Z" areas="2026-03-10T15:41:07Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14,16 +14,6 @@
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
-  </node>
-  <node id="26695251" lat="45.2015369" lon="6.6728169" version="15" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
-    <tag k="addr:postcode" v="73500"/>
-    <tag k="name" v="Modane"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2944"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="source:population" v="INSEE 2024"/>
-    <tag k="wikidata" v="Q537113"/>
-    <tag k="wikipedia" v="fr:Modane"/>
   </node>
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="52" timestamp="2025-09-09T16:15:53Z" changeset="171694784" uid="12495047" user="Yan Bakhmat">
     <tag k="alt_name" v="Chamonix"/>
@@ -43,18 +33,6 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
-  </node>
-  <node id="36257528" lat="44.5150043" lon="6.7511484" version="20" timestamp="2024-11-08T02:55:45Z" changeset="158879160" uid="587556" user="Cyrille37Bot">
-    <tag k="name" v="Saint-Paul-sur-Ubaye"/>
-    <tag k="name:oc" v="Sant Pau d'Ubaia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="176"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="postal_code" v="04530"/>
-    <tag k="ref:FR:SIREN" v="210401931"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2024"/>
-    <tag k="wikipedia" v="fr:Saint-Paul-sur-Ubaye"/>
   </node>
   <node id="61753394" lat="43.2524545" lon="11.8187597" version="8" timestamp="2019-08-11T23:53:54Z" changeset="73252608" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="4601"/>
@@ -6316,39 +6294,6 @@
     <tag k="postal_code" v="60036"/>
     <tag k="wikidata" v="Q30027791"/>
   </node>
-  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
-    <tag k="ele" v="452"/>
-    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
-    <tag k="name" v="Morbio Superiore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="687"/>
-    <tag k="postal_code" v="6835"/>
-    <tag k="website" v="http://www.comunebreggia.ch"/>
-    <tag k="wikidata" v="Q668726"/>
-    <tag k="wikipedia" v="it:Morbio Superiore"/>
-  </node>
-  <node id="285062960" lat="44.7298050" lon="6.8448169" version="15" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
-    <tag k="addr:postcode" v="05350"/>
-    <tag k="name" v="Molines-en-Queyras"/>
-    <tag k="name:oc" v="Molinas de Cairàs"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="304"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="ref:FR:SIREN" v="210500773"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2024"/>
-  </node>
-  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
-    <tag k="name" v="Abriès"/>
-    <tag k="name:oc" v="Abriers"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="382"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="postal_code" v="05460"/>
-    <tag k="ref:FR:SIREN" v="210500013"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2024"/>
-  </node>
   <node id="395603809" lat="43.9567671" lon="12.1959387" version="5" timestamp="2022-01-27T23:08:19Z" changeset="116685553" uid="554973" user="dgitto">
     <tag k="name" v="Mercato Saraceno"/>
     <tag k="place" v="village"/>
@@ -6409,22 +6354,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="809"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="28" timestamp="2025-07-17T18:49:18Z" changeset="169076016" uid="12495047" user="Yan Bakhmat">
-    <tag k="capital" v="6"/>
-    <tag k="ele" v="273"/>
-    <tag k="name" v="Lugano"/>
-    <tag k="name:lt" v="Luganas"/>
-    <tag k="name:ru" v="Лугано"/>
-    <tag k="name:uk" v="Лугано"/>
-    <tag k="old_name:de" v="Lauis"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="67000"/>
-    <tag k="population:date" v="2020"/>
-    <tag k="website" v="https://www.lugano.ch/"/>
-    <tag k="wikidata" v="Q7024"/>
-    <tag k="wikimedia_commons" v="Category:Lugano"/>
-    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1402414092" lat="45.7434637" lon="12.0924600" version="9" timestamp="2023-03-17T08:45:08Z" changeset="133778688" uid="1801173" user="Pucciotrex30">
     <tag k="name" v="Falzè"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.10 2d4cfc48">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-10T04:13:45Z" areas="2026-01-23T01:22:35Z"/>
+<meta osm_base="2026-03-11T04:13:13Z" areas="2026-03-10T15:41:07Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14,16 +14,6 @@
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
-  </node>
-  <node id="26695251" lat="45.2015369" lon="6.6728169" version="15" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
-    <tag k="addr:postcode" v="73500"/>
-    <tag k="name" v="Modane"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2944"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="source:population" v="INSEE 2024"/>
-    <tag k="wikidata" v="Q537113"/>
-    <tag k="wikipedia" v="fr:Modane"/>
   </node>
   <node id="26696275" lat="45.9246705" lon="6.8727506" version="52" timestamp="2025-09-09T16:15:53Z" changeset="171694784" uid="12495047" user="Yan Bakhmat">
     <tag k="alt_name" v="Chamonix"/>
@@ -43,18 +33,6 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
-  </node>
-  <node id="36257528" lat="44.5150043" lon="6.7511484" version="20" timestamp="2024-11-08T02:55:45Z" changeset="158879160" uid="587556" user="Cyrille37Bot">
-    <tag k="name" v="Saint-Paul-sur-Ubaye"/>
-    <tag k="name:oc" v="Sant Pau d'Ubaia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="176"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="postal_code" v="04530"/>
-    <tag k="ref:FR:SIREN" v="210401931"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2024"/>
-    <tag k="wikipedia" v="fr:Saint-Paul-sur-Ubaye"/>
   </node>
   <node id="61753374" lat="43.6540276" lon="11.7884391" version="4" timestamp="2026-01-19T14:40:19Z" changeset="177432276" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="4591"/>
@@ -7808,18 +7786,19 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026354"/>
   </node>
-  <node id="63628521" lat="45.4205265" lon="7.5968553" version="6" timestamp="2023-01-17T19:54:46Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63628521" lat="45.4205265" lon="7.5968553" version="7" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="199"/>
     <tag k="name" v="Pont Canavese"/>
+    <tag k="name:frp" v="Pont"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3778"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628561" lat="45.1420677" lon="7.0644111" version="9" timestamp="2024-01-18T21:51:09Z" changeset="146421987" uid="3464634" user="Marco Caparello">
+  <node id="63628561" lat="45.1420677" lon="7.0644111" version="10" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="154"/>
     <tag k="name" v="Mompantero"/>
     <tag k="name:fr" v="Montpantier"/>
-    <tag k="name:frp" v="Moumpantìa"/>
+    <tag k="name:frp" v="Moumpantìa;Mumpantia"/>
     <tag k="name:pms" v="Mompantè"/>
     <tag k="place" v="village"/>
     <tag k="population" v="668"/>
@@ -7843,9 +7822,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022218"/>
   </node>
-  <node id="63628694" lat="45.2706125" lon="7.4288577" version="3" timestamp="2019-06-30T11:24:14Z" changeset="71754026" uid="2976645" user="Jrachi">
+  <node id="63628694" lat="45.2706125" lon="7.4288577" version="4" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="279"/>
     <tag k="name" v="Traves"/>
+    <tag k="name:frp" v="Tràves"/>
     <tag k="place" v="village"/>
     <tag k="population" v="545"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7857,9 +7837,10 @@
     <tag k="population" v="2815"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628718" lat="45.1168763" lon="7.3945500" version="8" timestamp="2022-12-15T16:35:44Z" changeset="130122811" uid="675302" user="Martj9">
+  <node id="63628718" lat="45.1168763" lon="7.3945500" version="9" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="6"/>
     <tag k="name" v="Almese"/>
+    <tag k="name:frp" v="Almèis"/>
     <tag k="name:pms" v="Almèis"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5658"/>
@@ -7933,9 +7914,10 @@
     <tag k="population" v="988"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628923" lat="45.4664675" lon="7.5709170" version="7" timestamp="2023-01-17T19:58:27Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63628923" lat="45.4664675" lon="7.5709170" version="8" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="121"/>
     <tag k="name" v="Ingria"/>
+    <tag k="name:frp" v="L'Éngri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="61"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -7970,16 +7952,18 @@
     <tag k="population" v="331"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629071" lat="45.4371418" lon="7.6067428" version="5" timestamp="2023-01-17T20:03:36Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629071" lat="45.4371418" lon="7.6067428" version="6" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="108"/>
     <tag k="name" v="Frassinetto"/>
+    <tag k="name:frp" v="Frasinei"/>
     <tag k="place" v="village"/>
     <tag k="population" v="287"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629076" lat="45.2638716" lon="7.4694832" version="5" timestamp="2023-01-17T19:57:32Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629076" lat="45.2638716" lon="7.4694832" version="6" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="113"/>
     <tag k="name" v="Germagnano"/>
+    <tag k="name:frp" v="Sen German"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1294"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8021,9 +8005,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:name:oc" v="ieo-bdtopoc"/>
   </node>
-  <node id="63629197" lat="45.4324775" lon="7.2324010" version="7" timestamp="2023-07-17T23:21:25Z" changeset="138641845" uid="4795149" user="Fedurli">
+  <node id="63629197" lat="45.4324775" lon="7.2324010" version="8" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="73"/>
     <tag k="name" v="Ceresole Reale"/>
+    <tag k="name:frp" v="Sérisoles"/>
     <tag k="old_name:fr" v="Cérisoles"/>
     <tag k="place" v="village"/>
     <tag k="population" v="160"/>
@@ -8077,10 +8062,11 @@
     <tag k="wikidata" v="Q9084"/>
     <tag k="wikipedia" v="it:Brosso"/>
   </node>
-  <node id="63629365" lat="45.3025045" lon="7.2154316" version="11" timestamp="2023-01-17T19:54:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629365" lat="45.3025045" lon="7.2154316" version="12" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="19"/>
     <tag k="name" v="Balme"/>
     <tag k="name:fr" v="Barmes"/>
+    <tag k="name:frp" v="Bârmes"/>
     <tag k="place" v="village"/>
     <tag k="population" v="101"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8180,9 +8166,10 @@
     <tag k="population" v="5283"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629509" lat="45.3636694" lon="7.3414713" version="8" timestamp="2023-01-17T19:56:02Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629509" lat="45.3636694" lon="7.3414713" version="9" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="75"/>
     <tag k="name" v="Chialamberto"/>
+    <tag k="name:frp" v="Tchialambèrt"/>
     <tag k="place" v="village"/>
     <tag k="population" v="362"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8258,9 +8245,10 @@
     <tag k="population" v="1008"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629705" lat="45.3433486" lon="7.3801242" version="7" timestamp="2023-01-17T19:58:54Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629705" lat="45.3433486" lon="7.3801242" version="8" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="54"/>
     <tag k="name" v="Cantoira"/>
+    <tag k="name:frp" v="Centuèiri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="544"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8358,9 +8346,10 @@
     <tag k="population" v="361"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629870" lat="45.4997374" lon="7.5468552" version="5" timestamp="2023-01-17T20:04:46Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629870" lat="45.4997374" lon="7.5468552" version="6" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="224"/>
     <tag k="name" v="Ronco Canavese"/>
+    <tag k="name:frp" v="Ronc"/>
     <tag k="place" v="village"/>
     <tag k="population" v="377"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8475,9 +8464,10 @@
     <tag k="population" v="1291"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630126" lat="45.4539721" lon="7.3145537" version="5" timestamp="2023-01-17T19:54:08Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630126" lat="45.4539721" lon="7.3145537" version="6" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="165"/>
     <tag k="name" v="Noasca"/>
+    <tag k="name:frp" v="Nuachi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="202"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8510,14 +8500,14 @@
     <tag k="population" v="589"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630164" lat="45.2052852" lon="6.9824996" version="12" timestamp="2026-03-02T14:54:24Z" changeset="179258711" uid="675302" user="Martj9">
+  <node id="63630164" lat="45.2052852" lon="6.9824996" version="13" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="alt_name" v="Ferrera Cenisio"/>
     <tag k="ele" v="1460"/>
     <tag k="gfoss_id" v="157"/>
     <tag k="loc_name" v="Mueini"/>
     <tag k="name" v="Moncenisio"/>
     <tag k="name:fr" v="Montcenis"/>
-    <tag k="name:frp" v="Mueini"/>
+    <tag k="name:frp" v="Frere Cenisio;Mueini"/>
     <tag k="name:pms" v="Monsnis"/>
     <tag k="place" v="village"/>
     <tag k="population" v="37"/>
@@ -8525,9 +8515,10 @@
     <tag k="wikidata" v="Q9477"/>
     <tag k="wikipedia" v="it:Moncenisio (Italia)"/>
   </node>
-  <node id="63630174" lat="45.3018726" lon="7.4396812" version="7" timestamp="2023-01-17T20:06:43Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630174" lat="45.3018726" lon="7.4396812" version="8" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="155"/>
     <tag k="name" v="Monastero di Lanzo"/>
+    <tag k="name:frp" v="Moutier"/>
     <tag k="place" v="village"/>
     <tag k="population" v="428"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -8745,10 +8736,11 @@
     <tag k="population" v="963"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630655" lat="45.2331973" lon="7.2177346" version="8" timestamp="2023-01-17T19:58:42Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630655" lat="45.2331973" lon="7.2177346" version="9" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="282"/>
     <tag k="name" v="Usseglio"/>
     <tag k="name:fr" v="Ussel"/>
+    <tag k="name:frp" v="Usei"/>
     <tag k="place" v="village"/>
     <tag k="population" v="200"/>
     <tag k="population:date" v="01-01-2018"/>
@@ -9081,9 +9073,10 @@
     <tag k="wikidata" v="Q24852"/>
     <tag k="wikipedia" v="en:Alice Castello"/>
   </node>
-  <node id="63631263" lat="45.5214814" lon="7.5493546" version="5" timestamp="2023-01-17T19:56:08Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63631263" lat="45.5214814" lon="7.5493546" version="6" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="288"/>
     <tag k="name" v="Valprato Soana"/>
+    <tag k="name:frp" v="Vâlprà"/>
     <tag k="place" v="village"/>
     <tag k="population" v="127"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9109,9 +9102,10 @@
     <tag k="population" v="522"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63631309" lat="45.4138540" lon="7.5434120" version="4" timestamp="2023-01-17T19:56:17Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63631309" lat="45.4138540" lon="7.5434120" version="5" timestamp="2026-03-10T22:40:54Z" changeset="179661786" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="267"/>
     <tag k="name" v="Sparone"/>
+    <tag k="name:frp" v="Sparon"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1174"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -17743,21 +17737,6 @@
     <tag k="wikidata" v="Q95106"/>
     <tag k="wikipedia" v="it:Jolanda di Savoia (Italia)"/>
   </node>
-  <node id="69300263" lat="44.8508830" lon="12.2949270" version="9" timestamp="2023-11-04T06:30:01Z" changeset="143600049" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="1"/>
-    <tag k="gfoss_id" v="4111"/>
-    <tag k="name" v="Goro"/>
-    <tag k="name:egl" v="Gòr"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3945"/>
-    <tag k="postal_code" v="44020"/>
-    <tag k="ref:ISTAT" v="038025"/>
-    <tag k="ref:catasto" v="E107"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.goro.fe.it/"/>
-    <tag k="wikidata" v="Q95104"/>
-    <tag k="wikipedia" v="it:Goro"/>
-  </node>
   <node id="69300288" lat="44.7945780" lon="11.8018170" version="8" timestamp="2023-11-09T18:12:31Z" changeset="143833874" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="3"/>
     <tag k="gfoss_id" v="4098"/>
@@ -17772,21 +17751,6 @@
     <tag k="website" v="https://www.comune.masitorello.fe.it/"/>
     <tag k="wikidata" v="Q95109"/>
     <tag k="wikipedia" v="it:Masi Torello"/>
-  </node>
-  <node id="69300292" lat="44.7619800" lon="12.1428250" version="7" timestamp="2023-11-05T19:37:12Z" changeset="143663534" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="0"/>
-    <tag k="gfoss_id" v="4097"/>
-    <tag k="name" v="Lagosanto"/>
-    <tag k="name:egl" v="Lagh"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5013"/>
-    <tag k="postal_code" v="44023"/>
-    <tag k="ref:ISTAT" v="038011"/>
-    <tag k="ref:catasto" v="E410"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.lagosanto.fe.it/"/>
-    <tag k="wikidata" v="Q95107"/>
-    <tag k="wikipedia" v="it:Lagosanto"/>
   </node>
   <node id="69300296" lat="44.9771840" lon="11.9785180" version="12" timestamp="2019-01-01T22:45:24Z" changeset="65944642" uid="743479" user="fayor">
     <tag k="ele" v="2"/>
@@ -23869,17 +23833,6 @@
     <tag k="place" v="neighbourhood"/>
     <tag k="wikidata" v="Q18479754"/>
   </node>
-  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
-    <tag k="ele" v="452"/>
-    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
-    <tag k="name" v="Morbio Superiore"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="687"/>
-    <tag k="postal_code" v="6835"/>
-    <tag k="website" v="http://www.comunebreggia.ch"/>
-    <tag k="wikidata" v="Q668726"/>
-    <tag k="wikipedia" v="it:Morbio Superiore"/>
-  </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="12" timestamp="2025-05-18T21:42:30Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3048"/>
     <tag k="name" v="Strembo"/>
@@ -23887,28 +23840,6 @@
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
-  </node>
-  <node id="285062960" lat="44.7298050" lon="6.8448169" version="15" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
-    <tag k="addr:postcode" v="05350"/>
-    <tag k="name" v="Molines-en-Queyras"/>
-    <tag k="name:oc" v="Molinas de Cairàs"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="304"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="ref:FR:SIREN" v="210500773"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2024"/>
-  </node>
-  <node id="285073587" lat="44.7940562" lon="6.9279072" version="22" timestamp="2024-11-08T03:20:05Z" changeset="158879494" uid="587556" user="Cyrille37Bot">
-    <tag k="name" v="Abriès"/>
-    <tag k="name:oc" v="Abriers"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="382"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="postal_code" v="05460"/>
-    <tag k="ref:FR:SIREN" v="210500013"/>
-    <tag k="source:name:oc" v="ieo-bdtopoc"/>
-    <tag k="source:population" v="INSEE 2024"/>
   </node>
   <node id="291647121" lat="43.8402291" lon="12.3591843" version="5" timestamp="2026-01-19T17:21:08Z" changeset="177440571" uid="4365159" user="wildmaps">
     <tag k="name" v="Villagrande"/>
@@ -24444,41 +24375,6 @@
     <tag k="name:frp" v="Polèn;Pollèn"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30028981"/>
-  </node>
-  <node id="1376769424" lat="46.1920538" lon="9.0205888" version="27" timestamp="2025-08-24T17:42:01Z" changeset="170938066" uid="17860844" user="hangukhistory">
-    <tag k="admin_centre:4" v="yes"/>
-    <tag k="admin_centre:6" v="yes"/>
-    <tag k="ele" v="230"/>
-    <tag k="name" v="Bellinzona"/>
-    <tag k="name:fr" v="Bellinzone"/>
-    <tag k="name:ko" v="벨린초나"/>
-    <tag k="name:lt" v="Belincona"/>
-    <tag k="name:ru" v="Беллинцона"/>
-    <tag k="name:uk" v="Беллінцона"/>
-    <tag k="old_name:de" v="Bellenz"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="43785"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="postal_code" v="6500, 6503, 6512, 6513, 6514, 6515, 6518, 6523, 6524, 6525, 6528, 6582, 6583, 6702"/>
-    <tag k="website" v="https://www.bellinzona.ch/"/>
-    <tag k="wikidata" v="Q64044"/>
-    <tag k="wikipedia" v="it:Bellinzona"/>
-  </node>
-  <node id="1376769426" lat="46.0050102" lon="8.9520281" version="28" timestamp="2025-07-17T18:49:18Z" changeset="169076016" uid="12495047" user="Yan Bakhmat">
-    <tag k="capital" v="6"/>
-    <tag k="ele" v="273"/>
-    <tag k="name" v="Lugano"/>
-    <tag k="name:lt" v="Luganas"/>
-    <tag k="name:ru" v="Лугано"/>
-    <tag k="name:uk" v="Лугано"/>
-    <tag k="old_name:de" v="Lauis"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="67000"/>
-    <tag k="population:date" v="2020"/>
-    <tag k="website" v="https://www.lugano.ch/"/>
-    <tag k="wikidata" v="Q7024"/>
-    <tag k="wikimedia_commons" v="Category:Lugano"/>
-    <tag k="wikipedia" v="it:Lugano"/>
   </node>
   <node id="1393763096" lat="45.7400916" lon="7.4167988" version="7" timestamp="2026-01-19T13:09:38Z" changeset="177427585" uid="4365159" user="wildmaps">
     <tag k="name" v="Villefranche"/>
