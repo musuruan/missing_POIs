@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-12T04:12:45Z" areas="2026-03-10T15:33:00Z"/>
+<meta osm_base="2026-03-13T04:12:03Z" areas="2026-03-12T23:22:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8657,14 +8657,6 @@
     <tag k="population" v="909"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516885" lat="44.9307667" lon="9.0141590" version="5" timestamp="2024-09-02T11:07:50Z" changeset="156092747" uid="13857163" user="ulore22">
-    <tag k="gfoss_id" v="2498"/>
-    <tag k="name" v="Rivanazzano Terme"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5094"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q40100"/>
-  </node>
   <node id="62516897" lat="45.1022590" lon="8.9063480" version="13" timestamp="2025-06-23T15:50:01Z" changeset="168010234" uid="22632809" user="KeyTV">
     <tag k="ele" v="87"/>
     <tag k="gfoss_id" v="2514"/>
@@ -10154,13 +10146,6 @@
     <tag k="name" v="Vignale Monferrato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1141"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63622379" lat="44.9055070" lon="8.9186164" version="8" timestamp="2023-01-17T19:56:45Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="1038"/>
-    <tag k="name" v="Viguzzolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2884"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63622383" lat="45.0968540" lon="8.3595360" version="5" timestamp="2023-01-17T20:02:27Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -41222,20 +41207,6 @@
     <tag k="wikipedia" v="it:Quartucciu"/>
     <tag k="wikipedia:sc" v="Quartùcciu"/>
   </node>
-  <node id="72991840" lat="39.6984460" lon="9.1215390" version="44" timestamp="2019-03-20T06:17:50Z" changeset="68320447" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7317"/>
-    <tag k="name" v="Iscroca/Escolca"/>
-    <tag k="name:it" v="Escolca"/>
-    <tag k="name:sc" v="Iscroca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="692"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.escolca.ca.it/"/>
-    <tag k="wikidata" v="Q283927"/>
-    <tag k="wikipedia" v="it:Escolca"/>
-    <tag k="wikipedia:sc" v="Iscroca"/>
-  </node>
   <node id="72991877" lat="40.0107563" lon="9.2282957" version="51" timestamp="2023-11-08T07:24:28Z" changeset="143766427" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7312"/>
     <tag k="name" v="Dèsulu/Desulo"/>
@@ -41262,21 +41233,6 @@
     <tag k="website" v="https://www.comune.bitti.nu.it/index.asp"/>
     <tag k="wikidata" v="Q294729"/>
     <tag k="wikipedia" v="it:Bitti"/>
-  </node>
-  <node id="72991940" lat="39.7762470" lon="9.0381360" version="41" timestamp="2017-03-03T19:53:55Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7348"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Nuragus"/>
-    <tag k="name:it" v="Nuragus"/>
-    <tag k="name:sc" v="Nuragus"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1025"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.nuragus.ca.it/"/>
-    <tag k="wikidata" v="Q284383"/>
-    <tag k="wikipedia" v="it:Nuragus"/>
-    <tag k="wikipedia:sc" v="Nuragus"/>
   </node>
   <node id="72991976" lat="40.1828560" lon="9.1483320" version="45" timestamp="2023-11-09T05:18:01Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7353"/>
@@ -41600,20 +41556,6 @@
     <tag k="wikidata" v="Q294837"/>
     <tag k="wikipedia" v="sc:Irgoli"/>
     <tag k="wikipedia:it" v="Irgoli"/>
-  </node>
-  <node id="72992449" lat="39.6996460" lon="9.1004380" version="43" timestamp="2023-11-07T21:09:07Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7326"/>
-    <tag k="name" v="Gerxei/Gergei"/>
-    <tag k="name:it" v="Gergei"/>
-    <tag k="name:sc" v="Gerxei"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1457"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.gergei.ca.it/"/>
-    <tag k="wikidata" v="Q283968"/>
-    <tag k="wikipedia" v="it:Gergei"/>
-    <tag k="wikipedia:sc" v="Gerxei"/>
   </node>
   <node id="72992487" lat="40.2288550" lon="8.8964270" version="41" timestamp="2017-03-01T21:24:58Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7314"/>

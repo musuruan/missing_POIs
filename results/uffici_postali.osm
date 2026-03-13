@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-12T04:05:35Z" areas="2026-03-12T01:22:32Z"/>
+<meta osm_base="2026-03-13T04:03:53Z" areas="2026-03-13T01:28:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4178,13 +4178,6 @@
     <tag k="postal_code" v="15046"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622379" lat="44.9055070" lon="8.9186164" version="8" timestamp="2023-01-17T19:56:45Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="1038"/>
-    <tag k="name" v="Viguzzolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2884"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63622391" lat="45.0822550" lon="8.4432380" version="4" timestamp="2023-01-17T19:58:02Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="1028"/>
     <tag k="name" v="Terruggia"/>
@@ -6171,7 +6164,7 @@
     <tag k="population" v="1153"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630259" lat="45.1596077" lon="7.9941510" version="5" timestamp="2026-03-11T16:24:26Z" changeset="179711907" uid="697108" user="Emere Arco">
+  <node id="63630259" lat="45.1646550" lon="7.9947346" version="6" timestamp="2026-03-12T16:56:49Z" changeset="179767355" uid="697108" user="Emere Arco">
     <tag k="gfoss_id" v="129"/>
     <tag k="name" v="Lauriano"/>
     <tag k="place" v="village"/>
@@ -16748,35 +16741,6 @@
     <tag k="wikipedia" v="it:Quartucciu"/>
     <tag k="wikipedia:sc" v="Quartùcciu"/>
   </node>
-  <node id="72991840" lat="39.6984460" lon="9.1215390" version="44" timestamp="2019-03-20T06:17:50Z" changeset="68320447" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7317"/>
-    <tag k="name" v="Iscroca/Escolca"/>
-    <tag k="name:it" v="Escolca"/>
-    <tag k="name:sc" v="Iscroca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="692"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.escolca.ca.it/"/>
-    <tag k="wikidata" v="Q283927"/>
-    <tag k="wikipedia" v="it:Escolca"/>
-    <tag k="wikipedia:sc" v="Iscroca"/>
-  </node>
-  <node id="72991940" lat="39.7762470" lon="9.0381360" version="41" timestamp="2017-03-03T19:53:55Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7348"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Nuragus"/>
-    <tag k="name:it" v="Nuragus"/>
-    <tag k="name:sc" v="Nuragus"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1025"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.nuragus.ca.it/"/>
-    <tag k="wikidata" v="Q284383"/>
-    <tag k="wikipedia" v="it:Nuragus"/>
-    <tag k="wikipedia:sc" v="Nuragus"/>
-  </node>
   <node id="72991976" lat="40.1828560" lon="9.1483320" version="45" timestamp="2023-11-09T05:18:01Z" changeset="143806321" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7353"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
@@ -16907,20 +16871,6 @@
     <tag k="wikidata" v="Q294837"/>
     <tag k="wikipedia" v="sc:Irgoli"/>
     <tag k="wikipedia:it" v="Irgoli"/>
-  </node>
-  <node id="72992449" lat="39.6996460" lon="9.1004380" version="43" timestamp="2023-11-07T21:09:07Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7326"/>
-    <tag k="name" v="Gerxei/Gergei"/>
-    <tag k="name:it" v="Gergei"/>
-    <tag k="name:sc" v="Gerxei"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1457"/>
-    <tag k="postal_code" v="08030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.gergei.ca.it/"/>
-    <tag k="wikidata" v="Q283968"/>
-    <tag k="wikipedia" v="it:Gergei"/>
-    <tag k="wikipedia:sc" v="Gerxei"/>
   </node>
   <node id="72992515" lat="39.7791490" lon="9.2847410" version="44" timestamp="2023-11-07T13:35:15Z" changeset="143737639" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Stersili"/>
