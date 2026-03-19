@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-17T04:18:44Z" areas="2026-03-16T17:51:56Z"/>
+<meta osm_base="2026-03-19T04:20:24Z" areas="2026-03-18T21:13:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -106,7 +106,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q82647"/>
   </node>
-  <node id="61753452" lat="43.9332548" lon="11.4654055" version="5" timestamp="2024-04-23T20:52:56Z" changeset="150415531" uid="8305310" user="Martin Ligabue">
+  <node id="61753452" lat="43.9332548" lon="11.4654055" version="5" timestamp="2024-04-23T20:52:56Z" changeset="150415531" uid="8305310" user="Martinligabue">
     <tag k="gfoss_id" v="4523"/>
     <tag k="name" v="Vicchio"/>
     <tag k="place" v="village"/>
@@ -1521,7 +1521,7 @@
     <tag k="wikidata" v="Q47341"/>
     <tag k="wikipedia" v="it:Laglio"/>
   </node>
-  <node id="62510836" lat="45.7057750" lon="8.9813380" version="4" timestamp="2023-06-14T22:56:22Z" changeset="137347579" uid="19497998" user="branco-revert">
+  <node id="62510836" lat="45.7057750" lon="8.9813380" version="4" timestamp="2023-06-14T22:56:22Z" changeset="137347579" uid="19497998" user="branco-josm">
     <tag k="gfoss_id" v="1593"/>
     <tag k="name" v="Lurago Marinone"/>
     <tag k="place" v="village"/>
@@ -2059,7 +2059,7 @@
     <tag k="population" v="4207"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512294" lat="45.6911341" lon="9.4413225" version="5" timestamp="2023-06-15T07:46:12Z" changeset="137357878" uid="19497998" user="branco-revert">
+  <node id="62512294" lat="45.6911341" lon="9.4413225" version="5" timestamp="2023-06-15T07:46:12Z" changeset="137357878" uid="19497998" user="branco-josm">
     <tag k="gfoss_id" v="7840"/>
     <tag k="name" v="Robbiate"/>
     <tag k="place" v="village"/>
@@ -2451,20 +2451,6 @@
     <tag k="postal_code" v="46030"/>
     <tag k="ref:ISTAT" v="020043"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62513274" lat="44.9984358" lon="10.4885871" version="16" timestamp="2023-06-14T14:24:19Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="2735"/>
-    <tag k="heritage" v="1"/>
-    <tag k="heritage:operator" v="whc"/>
-    <tag k="name" v="Sabbioneta"/>
-    <tag k="name:egl" v="Sabiùnèda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4288"/>
-    <tag k="postal_code" v="46018"/>
-    <tag k="ref:ISTAT" v="020054"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q43014"/>
-    <tag k="wikipedia" v="it:Sabbioneta"/>
   </node>
   <node id="62513277" lat="45.1359287" lon="10.9513541" version="4" timestamp="2021-02-24T21:52:01Z" changeset="99932176" uid="10376533" user="eddye_89">
     <tag k="gfoss_id" v="2733"/>
@@ -2977,7 +2963,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024077"/>
   </node>
-  <node id="62515969" lat="45.2349690" lon="8.9133606" version="4" timestamp="2025-05-21T21:11:32Z" changeset="166586884" uid="8305310" user="Martin Ligabue">
+  <node id="62515969" lat="45.2349690" lon="8.9133606" version="4" timestamp="2025-05-21T21:11:32Z" changeset="166586884" uid="8305310" user="Martinligabue">
     <tag k="gfoss_id" v="2394"/>
     <tag k="name" v="Borgo San Siro"/>
     <tag k="place" v="village"/>
@@ -3177,7 +3163,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="341"/>
   </node>
-  <node id="62516943" lat="46.0823080" lon="9.5496877" version="6" timestamp="2023-06-14T22:47:31Z" changeset="137347441" uid="19497998" user="branco-revert">
+  <node id="62516943" lat="46.0823080" lon="9.5496877" version="6" timestamp="2023-06-14T22:47:31Z" changeset="137347441" uid="19497998" user="branco-josm">
     <tag k="ele" v="1032"/>
     <tag k="loc_name" v="Pedesina"/>
     <tag k="name" v="Pedesina"/>
@@ -6329,7 +6315,7 @@
     <tag k="population" v="441"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63631704" lat="46.1399790" lon="8.3234150" version="3" timestamp="2023-12-20T10:57:45Z" changeset="145326073" uid="19497998" user="branco-revert">
+  <node id="63631704" lat="46.1399790" lon="8.3234150" version="3" timestamp="2023-12-20T10:57:45Z" changeset="145326073" uid="19497998" user="branco-josm">
     <tag k="created_by" v="JOSM"/>
     <tag k="gfoss_id" v="8066"/>
     <tag k="is_in" v="Verbano-Cusio-Ossola, Piemonte, Italy"/>
@@ -11398,7 +11384,7 @@
     <tag k="population" v="1612"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280472" lat="40.5166150" lon="15.9245710" version="6" timestamp="2026-01-11T12:06:03Z" changeset="177093449" uid="8305310" user="Martin Ligabue">
+  <node id="67280472" lat="40.5166150" lon="15.9245710" version="6" timestamp="2026-01-11T12:06:03Z" changeset="177093449" uid="8305310" user="Martinligabue">
     <tag k="gfoss_id" v="6358"/>
     <tag k="name" v="Anzi"/>
     <tag k="place" v="village"/>
@@ -12910,7 +12896,7 @@
     <tag k="wikidata" v="Q51902"/>
     <tag k="wikipedia" v="it:Casalnuovo Monterotaro"/>
   </node>
-  <node id="68528909" lat="41.8384462" lon="15.5653375" version="8" timestamp="2023-06-14T22:07:56Z" changeset="137346710" uid="19497998" user="branco-revert">
+  <node id="68528909" lat="41.8384462" lon="15.5653375" version="8" timestamp="2023-06-14T22:07:56Z" changeset="137346710" uid="19497998" user="branco-josm">
     <tag k="gfoss_id" v="6145"/>
     <tag k="name" v="San Nicandro Garganico"/>
     <tag k="old_name" v="Sannicandro Garganico"/>
@@ -13073,7 +13059,7 @@
     <tag k="population" v="13381"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529136" lat="41.9287450" lon="15.8810520" version="5" timestamp="2023-06-14T22:17:18Z" changeset="137346887" uid="19497998" user="branco-revert">
+  <node id="68529136" lat="41.9287450" lon="15.8810520" version="5" timestamp="2023-06-14T22:17:18Z" changeset="137346887" uid="19497998" user="branco-josm">
     <tag k="gfoss_id" v="6139"/>
     <tag k="name" v="Rodi Garganico"/>
     <tag k="place" v="village"/>
@@ -13104,7 +13090,7 @@
     <tag k="population" v="2584"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68529293" lat="39.8442180" lon="18.3695340" version="9" timestamp="2023-06-14T20:45:14Z" changeset="137344815" uid="19497998" user="branco-revert">
+  <node id="68529293" lat="39.8442180" lon="18.3695340" version="9" timestamp="2023-06-14T20:45:14Z" changeset="137344815" uid="19497998" user="branco-josm">
     <tag k="gfoss_id" v="6285"/>
     <tag k="name" v="Gagliano del Capo"/>
     <tag k="place" v="village"/>
@@ -14615,10 +14601,7 @@
     <tag k="population" v="12573"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580493" lat="40.9151120" lon="14.4062330" version="3" timestamp="2021-09-19T18:44:31Z" changeset="111420670" uid="14064622" user="Vesevius">
-    <tag k="addr:city" v="Castello di Cisterna"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Via Vittorio Emanuele"/>
+  <node id="68580493" lat="40.9151120" lon="14.4062330" version="4" timestamp="2026-03-18T08:02:11Z" changeset="180044532" uid="2551551" user="rsippl">
     <tag k="gfoss_id" v="5363"/>
     <tag k="name" v="Castello di Cisterna"/>
     <tag k="place" v="village"/>
@@ -15899,7 +15882,7 @@
     <tag k="population" v="4202"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301262" lat="45.0873218" lon="9.5974792" version="10" timestamp="2023-06-15T07:44:50Z" changeset="137357838" uid="19497998" user="branco-revert">
+  <node id="69301262" lat="45.0873218" lon="9.5974792" version="10" timestamp="2023-06-15T07:44:50Z" changeset="137357838" uid="19497998" user="branco-josm">
     <tag k="name" v="Calendasco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="781"/>
@@ -17151,14 +17134,12 @@
     <tag k="population" v="564"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70992135" lat="42.2977539" lon="14.2328169" version="4" timestamp="2021-12-08T14:53:34Z" changeset="114706786" uid="1940323" user="SekeRob">
-    <tag k="addr:housenumber" v="113"/>
-    <tag k="addr:postcode" v="66010"/>
-    <tag k="addr:street" v="Corso Umberto I"/>
+  <node id="70992135" lat="42.2977539" lon="14.2328169" version="5" timestamp="2026-03-18T08:03:55Z" changeset="180044591" uid="2551551" user="rsippl">
     <tag k="gfoss_id" v="6006"/>
     <tag k="name" v="Vacri"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1756"/>
+    <tag k="postal_code" v="66010"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q51312"/>
     <tag k="wikipedia" v="it:Vacri"/>
@@ -22867,7 +22848,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4952"/>
   </node>
-  <node id="4528229038" lat="46.1566932" lon="9.5822934" version="6" timestamp="2023-06-14T22:23:48Z" changeset="137347004" uid="19497998" user="branco-revert">
+  <node id="4528229038" lat="46.1566932" lon="9.5822934" version="6" timestamp="2023-06-14T22:23:48Z" changeset="137347004" uid="19497998" user="branco-josm">
     <tag k="ele" v="730"/>
     <tag k="name" v="Serone"/>
     <tag k="place" v="hamlet"/>

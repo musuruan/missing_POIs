@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-17T04:17:40Z" areas="2026-03-16T17:51:56Z"/>
+<meta osm_base="2026-03-19T04:18:26Z" areas="2026-03-18T21:13:24Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -602,7 +602,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q4011328"/>
   </node>
-  <node id="62512294" lat="45.6911341" lon="9.4413225" version="5" timestamp="2023-06-15T07:46:12Z" changeset="137357878" uid="19497998" user="branco-revert">
+  <node id="62512294" lat="45.6911341" lon="9.4413225" version="5" timestamp="2023-06-15T07:46:12Z" changeset="137357878" uid="19497998" user="branco-josm">
     <tag k="gfoss_id" v="7840"/>
     <tag k="name" v="Robbiate"/>
     <tag k="place" v="village"/>
@@ -3359,10 +3359,11 @@
     <tag k="population" v="1412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502868" lat="45.9881831" lon="12.7067897" version="10" timestamp="2025-10-31T13:22:15Z" changeset="174021065" uid="20552772" user="user_8y978a">
+  <node id="66502868" lat="45.9881831" lon="12.7067897" version="11" timestamp="2026-03-17T19:39:19Z" changeset="180025614" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7523"/>
     <tag k="name" v="Cordenons"/>
     <tag k="name:fur" v="Cordenons"/>
+    <tag k="name:it" v="Cordenons"/>
     <tag k="note" v="riclassificato da &quot;suburb&quot; a &quot;town&quot; in quanto nonostante Cordenons sia conurbata con Pordenone è un comune a sé stante. (https://wiki.openstreetmap.org/wiki/IT:Tag:place=suburb)"/>
     <tag k="place" v="town"/>
     <tag k="population" v="18308"/>
@@ -5424,7 +5425,7 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q18447674"/>
   </node>
-  <node id="68528909" lat="41.8384462" lon="15.5653375" version="8" timestamp="2023-06-14T22:07:56Z" changeset="137346710" uid="19497998" user="branco-revert">
+  <node id="68528909" lat="41.8384462" lon="15.5653375" version="8" timestamp="2023-06-14T22:07:56Z" changeset="137346710" uid="19497998" user="branco-josm">
     <tag k="gfoss_id" v="6145"/>
     <tag k="name" v="San Nicandro Garganico"/>
     <tag k="old_name" v="Sannicandro Garganico"/>
@@ -6605,10 +6606,7 @@
     <tag k="population" v="12573"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580493" lat="40.9151120" lon="14.4062330" version="3" timestamp="2021-09-19T18:44:31Z" changeset="111420670" uid="14064622" user="Vesevius">
-    <tag k="addr:city" v="Castello di Cisterna"/>
-    <tag k="addr:housenumber" v="88"/>
-    <tag k="addr:street" v="Via Vittorio Emanuele"/>
+  <node id="68580493" lat="40.9151120" lon="14.4062330" version="4" timestamp="2026-03-18T08:02:11Z" changeset="180044532" uid="2551551" user="rsippl">
     <tag k="gfoss_id" v="5363"/>
     <tag k="name" v="Castello di Cisterna"/>
     <tag k="place" v="village"/>
@@ -9670,10 +9668,11 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2732"/>
   </node>
-  <node id="461666872" lat="45.9892108" lon="12.5473156" version="6" timestamp="2025-07-10T09:26:57Z" changeset="168732990" uid="14202171" user="Alessandro Ambrosino">
+  <node id="461666872" lat="45.9892108" lon="12.5473156" version="7" timestamp="2026-03-17T19:39:19Z" changeset="180025614" uid="129060" user="Klenje">
     <tag k="loc_name:fur" v="Vinouf"/>
     <tag k="name" v="Vigonovo / Vinûf"/>
     <tag k="name:fur" v="Vinûf"/>
+    <tag k="name:it" v="Vigonovo"/>
     <tag k="place" v="village"/>
   </node>
   <node id="484121480" lat="40.8604005" lon="14.5291676" version="3" timestamp="2016-08-31T23:04:18Z" changeset="41838072" uid="743479" user="fayor">
