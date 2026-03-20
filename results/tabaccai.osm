@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-19T04:21:30Z" areas="2026-03-18T19:08:58Z"/>
+<meta osm_base="2026-03-20T04:14:39Z" areas="2026-03-19T18:30:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -22349,10 +22349,11 @@
     <tag k="population" v="4606"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503448" lat="46.2313297" lon="13.1767687" version="8" timestamp="2025-07-14T15:46:20Z" changeset="168924398" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503448" lat="46.2313297" lon="13.1767687" version="9" timestamp="2026-03-19T19:10:43Z" changeset="180126020" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3723"/>
     <tag k="name" v="Magnano in Riviera / Magnan"/>
     <tag k="name:fur" v="Magnan"/>
+    <tag k="name:it" v="Magnano in Riviera"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2288"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -40797,21 +40798,6 @@
     <tag k="wikipedia" v="it:Sant'Anna Arresi"/>
     <tag k="wikipedia:sc" v="Arresi"/>
   </node>
-  <node id="72991556" lat="39.4974440" lon="9.3071450" version="40" timestamp="2017-03-03T19:53:53Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="alt_name" v="Paùli Xrexèi"/>
-    <tag k="gfoss_id" v="7455"/>
-    <tag k="name" v="Pauli Gerrei/San Nicolò Gerrei"/>
-    <tag k="name:it" v="San Nicolò Gerrei"/>
-    <tag k="name:sc" v="Pauli Gerrei"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="977"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sannicologerrei.ca.it/"/>
-    <tag k="wikidata" v="Q284833"/>
-    <tag k="wikipedia" v="it:San Nicolò Gerrei"/>
-    <tag k="wikipedia:sc" v="Pauli Gerrei"/>
-  </node>
   <node id="72991597" lat="39.5167450" lon="9.2935450" version="40" timestamp="2023-11-08T15:07:15Z" changeset="143785150" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7476"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
@@ -45657,12 +45643,6 @@
     <tag k="name" v="Aliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1009"/>
-  </node>
-  <node id="4365479398" lat="40.2340242" lon="14.9846810" version="1" timestamp="2016-08-24T21:50:39Z" changeset="41674017" uid="743479" user="fayor">
-    <tag k="name" v="Montecorice"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2626"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="4369955448" lat="41.0241649" lon="16.7095806" version="2" timestamp="2016-09-09T00:49:37Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="name" v="Binetto"/>
