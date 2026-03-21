@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-20T04:14:39Z" areas="2026-03-19T18:30:43Z"/>
+<meta osm_base="2026-03-21T04:07:55Z" areas="2026-03-20T23:02:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -16389,6 +16389,13 @@
     <tag k="wikidata" v="Q25208"/>
     <tag k="wikipedia" v="it:Scopa (Italia)"/>
   </node>
+  <node id="63632039" lat="45.6856289" lon="8.3121471" version="5" timestamp="2025-09-10T21:12:00Z" changeset="171756482" uid="564585" user="wegavision">
+    <tag k="gfoss_id" v="391"/>
+    <tag k="name" v="Serravalle Sesia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5008"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="63632055" lat="45.2357570" lon="8.3253330" version="6" timestamp="2023-01-17T19:55:19Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="393"/>
@@ -18836,7 +18843,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025144"/>
   </node>
-  <node id="64778335" lat="45.2673516" lon="12.1013012" version="5" timestamp="2025-05-12T20:45:26Z" changeset="166172730" uid="14316347" user="Gicorada">
+  <node id="64778335" lat="45.2677006" lon="12.1012862" version="6" timestamp="2026-03-20T09:55:29Z" changeset="180150087" uid="1717503" user="osm19">
     <tag k="gfoss_id" v="3548"/>
     <tag k="name" v="Codevigo"/>
     <tag k="place" v="village"/>
@@ -40872,20 +40879,6 @@
     <tag k="wikipedia" v="it:Villaputzu"/>
     <tag k="wikipedia:sc" v="Biddeputzi"/>
   </node>
-  <node id="72991665" lat="39.4921450" lon="9.3930470" version="41" timestamp="2024-06-30T00:03:29Z" changeset="153351299" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7495"/>
-    <tag k="name" v="Biddesatu/Villasalto"/>
-    <tag k="name:it" v="Villasalto"/>
-    <tag k="name:sc" v="Biddesatu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1353"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.villasalto.ca.it/"/>
-    <tag k="wikidata" v="Q285560"/>
-    <tag k="wikipedia" v="it:Villasalto"/>
-    <tag k="wikipedia:sc" v="Biddesatu"/>
-  </node>
   <node id="72991677" lat="39.2758994" lon="8.6404754" version="44" timestamp="2023-04-22T19:34:33Z" changeset="135241013" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Bidda Matzràxa"/>
     <tag k="alt_name_1" v="Biddamassàrgia"/>
@@ -45643,6 +45636,12 @@
     <tag k="name" v="Aliano"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1009"/>
+  </node>
+  <node id="4365479398" lat="40.2340242" lon="14.9846810" version="1" timestamp="2016-08-24T21:50:39Z" changeset="41674017" uid="743479" user="fayor">
+    <tag k="name" v="Montecorice"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2626"/>
+    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="4369955448" lat="41.0241649" lon="16.7095806" version="2" timestamp="2016-09-09T00:49:37Z" changeset="42015514" uid="743479" user="fayor">
     <tag k="name" v="Binetto"/>
