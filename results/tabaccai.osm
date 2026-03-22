@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-21T04:07:55Z" areas="2026-03-20T23:02:43Z"/>
+<meta osm_base="2026-03-22T04:19:32Z" areas="2026-03-21T22:42:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -21327,11 +21327,12 @@
     <tag k="population" v="323"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502865" lat="46.2299006" lon="12.9155542" version="8" timestamp="2025-07-09T13:09:11Z" changeset="168695597" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66502865" lat="46.2299006" lon="12.9155542" version="9" timestamp="2026-03-21T17:29:04Z" changeset="180218437" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7522"/>
     <tag k="loc_name:fur" v="Clausiet"/>
     <tag k="name" v="Clauzetto / Clausêt"/>
     <tag k="name:fur" v="Clausêt"/>
+    <tag k="name:it" v="Clauzetto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="419"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -40863,21 +40864,6 @@
     <tag k="wikidata" v="Q285590"/>
     <tag k="wikipedia" v="it:Villasimius"/>
     <tag k="wikipedia:sc" v="Crabonaxa"/>
-  </node>
-  <node id="72991653" lat="39.4410450" lon="9.5739510" version="40" timestamp="2017-03-03T19:53:54Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7494"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Biddeputzi/Villaputzu"/>
-    <tag k="name:it" v="Villaputzu"/>
-    <tag k="name:sc" v="Biddeputzi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4831"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.villaputzu.ca.it"/>
-    <tag k="wikidata" v="Q285528"/>
-    <tag k="wikipedia" v="it:Villaputzu"/>
-    <tag k="wikipedia:sc" v="Biddeputzi"/>
   </node>
   <node id="72991677" lat="39.2758994" lon="8.6404754" version="44" timestamp="2023-04-22T19:34:33Z" changeset="135241013" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Bidda Matzràxa"/>
