@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-22T04:19:32Z" areas="2026-03-21T22:42:15Z"/>
+<meta osm_base="2026-03-23T04:29:44Z" areas="2026-03-22T18:23:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -21396,10 +21396,11 @@
     <tag k="population" v="4316"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502926" lat="46.1830744" lon="12.9454465" version="9" timestamp="2026-02-06T19:02:27Z" changeset="178201807" uid="23250728" user="Nilde75">
+  <node id="66502926" lat="46.1830744" lon="12.9454465" version="10" timestamp="2026-03-22T11:06:24Z" changeset="180243852" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="7535"/>
     <tag k="name" v="Pinzano al Tagliamento / Pinçan"/>
     <tag k="name:fur" v="Pinçan"/>
+    <tag k="name:it" v="Pinzano al Tagliamento"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1608"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -34260,20 +34261,6 @@
     <tag k="wikidata" v="Q100046"/>
     <tag k="wikipedia" v="it:Cavezzo"/>
   </node>
-  <node id="69300503" lat="44.4281931" lon="10.9569048" version="11" timestamp="2024-06-26T09:33:09Z" changeset="153193991" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="490"/>
-    <tag k="gfoss_id" v="3996"/>
-    <tag k="name" v="Guiglia"/>
-    <tag k="name:egl" v="Guîa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4095"/>
-    <tag k="postal_code" v="41052"/>
-    <tag k="ref:ISTAT" v="036017"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.guiglia.mo.it/"/>
-    <tag k="wikidata" v="Q100057"/>
-    <tag k="wikipedia" v="it:Guiglia"/>
-  </node>
   <node id="69300506" lat="44.2957717" lon="10.5730460" version="10" timestamp="2023-10-31T22:02:27Z" changeset="143444772" uid="1834719" user="LvdT">
     <tag k="ele" v="1131"/>
     <tag k="gfoss_id" v="3995"/>
@@ -40712,10 +40699,9 @@
     <tag k="wikipedia" v="it:Narcao"/>
     <tag k="wikipedia:sc" v="Narcau"/>
   </node>
-  <node id="72991414" lat="39.0074330" lon="9.0016460" version="47" timestamp="2023-09-06T14:40:21Z" changeset="140898343" uid="8726248" user="traveleditor">
+  <node id="72991414" lat="39.0074330" lon="9.0016460" version="48" timestamp="2026-03-22T23:13:00Z" changeset="180275780" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="addr:postcode" v="09050"/>
     <tag k="gfoss_id" v="7447"/>
-    <tag k="is_in:country" v="Italy"/>
     <tag k="is_in:country_code" v="IT"/>
     <tag k="name" v="Pula"/>
     <tag k="name:it" v="Pula"/>
