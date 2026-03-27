@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-26T04:36:30Z" areas="2026-03-25T21:32:54Z"/>
+<meta osm_base="2026-03-27T04:46:34Z" areas="2026-03-26T19:03:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -926,15 +926,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="https://www.comune.roncola.bg.it/"/>
     <tag k="wikipedia" v="it:Roncola (Italia)"/>
-  </node>
-  <node id="62507029" lat="45.4760760" lon="9.6892580" version="3" timestamp="2025-04-01T16:06:29Z" changeset="164382491" uid="1950277" user="Mannivu">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="2064"/>
-    <tag k="name" v="Mozzanica"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3921"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30028093"/>
   </node>
   <node id="62507042" lat="45.7892293" lon="9.9357249" version="7" timestamp="2025-08-01T09:48:06Z" changeset="169808317" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2101"/>
@@ -2674,13 +2665,14 @@
     <tag k="source" v="ISTAT 2013 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022627"/>
   </node>
-  <node id="62512397" lat="45.8073199" lon="9.3325797" version="5" timestamp="2021-12-01T19:04:46Z" changeset="114454742" uid="10901495" user="Martino Scaglione">
+  <node id="62512397" lat="45.8073199" lon="9.3325797" version="6" timestamp="2026-03-26T15:40:19Z" changeset="180460277" uid="69717" user="kaitu">
     <tag k="ele" v="265"/>
     <tag k="loc_name" v="Anón"/>
     <tag k="name" v="Annone di Brianza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2300"/>
     <tag k="short_name" v="Annone"/>
+    <tag k="wikidata" v="Q30022241"/>
   </node>
   <node id="62512428" lat="46.1018115" lon="9.3192704" version="2" timestamp="2012-10-01T20:09:04Z" changeset="13327091" uid="161939" user="Hacki">
     <tag k="gfoss_id" v="7801"/>
@@ -22442,21 +22434,6 @@
     <tag k="website" v="https://www.comune.domusdemaria.ca.it/"/>
     <tag k="wikidata" v="Q283882"/>
     <tag k="wikipedia" v="it:Domus de Maria"/>
-  </node>
-  <node id="72991294" lat="39.4317971" lon="9.1271532" version="41" timestamp="2019-03-16T23:04:19Z" changeset="68216006" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7417"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Donori"/>
-    <tag k="name:it" v="Donori"/>
-    <tag k="name:sc" v="Donori"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2138"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.donori.ca.it/"/>
-    <tag k="wikidata" v="Q283894"/>
-    <tag k="wikipedia" v="it:Donori"/>
-    <tag k="wikipedia:sc" v="Donori"/>
   </node>
   <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7438"/>

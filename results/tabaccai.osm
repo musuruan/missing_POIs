@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-26T04:34:25Z" areas="2026-03-25T18:44:15Z"/>
+<meta osm_base="2026-03-27T04:42:24Z" areas="2026-03-26T23:03:20Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5517,13 +5517,14 @@
     <tag k="source" v="ISTAT 2013 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022627"/>
   </node>
-  <node id="62512397" lat="45.8073199" lon="9.3325797" version="5" timestamp="2021-12-01T19:04:46Z" changeset="114454742" uid="10901495" user="Martino Scaglione">
+  <node id="62512397" lat="45.8073199" lon="9.3325797" version="6" timestamp="2026-03-26T15:40:19Z" changeset="180460277" uid="69717" user="kaitu">
     <tag k="ele" v="265"/>
     <tag k="loc_name" v="Anón"/>
     <tag k="name" v="Annone di Brianza"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2300"/>
     <tag k="short_name" v="Annone"/>
+    <tag k="wikidata" v="Q30022241"/>
   </node>
   <node id="62512404" lat="45.7538800" lon="9.4242470" version="2" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
     <tag k="gfoss_id" v="7771"/>
@@ -40252,22 +40253,6 @@
     <tag k="wikidata" v="Q120399"/>
     <tag k="wikipedia" v="it:Carloforte"/>
   </node>
-  <node id="72990863" lat="39.3782410" lon="9.1786440" version="41" timestamp="2017-03-01T21:24:41Z" changeset="46505334" uid="454589" user="sabas88">
-    <tag k="alt_name" v="Partiolla"/>
-    <tag k="gfoss_id" v="7414"/>
-    <tag k="name" v="Patiolla/Dolianova"/>
-    <tag k="name:it" v="Dolianova"/>
-    <tag k="name:sc" v="Patiolla"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7979"/>
-    <tag k="postal_code" v="09041"/>
-    <tag k="ref:LOCODE" v="ITOLI"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.dolianova.ca.it/"/>
-    <tag k="wikidata" v="Q283870"/>
-    <tag k="wikipedia" v="it:Dolianova"/>
-    <tag k="wikipedia:sc" v="Patiolla"/>
-  </node>
   <node id="72990920" lat="39.3847400" lon="9.0448410" version="43" timestamp="2023-11-10T02:45:53Z" changeset="143844984" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7435"/>
     <tag k="name" v="Muristenis/Monastir"/>
@@ -40637,21 +40622,6 @@
     <tag k="website" v="https://www.comune.domusdemaria.ca.it/"/>
     <tag k="wikidata" v="Q283882"/>
     <tag k="wikipedia" v="it:Domus de Maria"/>
-  </node>
-  <node id="72991294" lat="39.4317971" lon="9.1271532" version="41" timestamp="2019-03-16T23:04:19Z" changeset="68216006" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7417"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Donori"/>
-    <tag k="name:it" v="Donori"/>
-    <tag k="name:sc" v="Donori"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2138"/>
-    <tag k="postal_code" v="09040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.donori.ca.it/"/>
-    <tag k="wikidata" v="Q283894"/>
-    <tag k="wikipedia" v="it:Donori"/>
-    <tag k="wikipedia:sc" v="Donori"/>
   </node>
   <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7438"/>
@@ -44244,6 +44214,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q290754"/>
     <tag k="wikipedia" v="it:Isera"/>
+  </node>
+  <node id="1778353076" lat="45.9120887" lon="11.0230464" version="4" timestamp="2017-03-12T14:06:47Z" changeset="46785750" uid="354284" user="sbiribizio">
+    <tag k="name" v="Nogaredo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1220"/>
+    <tag k="wikidata" v="Q175406"/>
+    <tag k="wikipedia" v="it:Nogaredo"/>
   </node>
   <node id="1789157479" lat="40.2750467" lon="8.5291795" version="40" timestamp="2026-01-23T01:42:21Z" changeset="177589432" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="7344"/>
