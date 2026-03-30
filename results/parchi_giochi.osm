@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-03-29T04:42:46Z" areas="2026-03-28T23:55:24Z"/>
+<meta osm_base="2026-03-30T04:52:23Z" areas="2026-03-29T18:15:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -105,13 +105,6 @@
     <tag k="postal_code" v="50062"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q82647"/>
-  </node>
-  <node id="61753452" lat="43.9332548" lon="11.4654055" version="5" timestamp="2024-04-23T20:52:56Z" changeset="150415531" uid="8305310" user="Martinligabue">
-    <tag k="gfoss_id" v="4523"/>
-    <tag k="name" v="Vicchio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7145"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753482" lat="42.8715131" lon="11.5387645" version="5" timestamp="2023-04-16T20:54:29Z" changeset="134991699" uid="178610" user="Pab09">
     <tag k="gfoss_id" v="4659"/>
@@ -1235,14 +1228,6 @@
     <tag k="name" v="Carbonate"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2575"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62509097" lat="45.9595225" lon="9.0974900" version="2" timestamp="2012-12-10T21:55:15Z" changeset="14231925" uid="69717" user="kaitu">
-    <tag k="gfoss_id" v="1514"/>
-    <tag k="is_in" v="Como, Lombardia, Italy"/>
-    <tag k="name" v="Blessagno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="253"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62509100" lat="45.8342780" lon="8.9427350" version="5" timestamp="2024-09-09T10:39:38Z" changeset="156388052" uid="30587" user="IknowJoseph">
@@ -19427,20 +19412,6 @@
     <tag k="wikidata" v="Q287739"/>
     <tag k="wikipedia" v="it:Guspini"/>
     <tag k="wikipedia:sc" v="Gùspini"/>
-  </node>
-  <node id="72990920" lat="39.3847400" lon="9.0448410" version="43" timestamp="2023-11-10T02:45:53Z" changeset="143844984" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7435"/>
-    <tag k="name" v="Muristenis/Monastir"/>
-    <tag k="name:it" v="Monastir"/>
-    <tag k="name:sc" v="Muristenis"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4496"/>
-    <tag k="postal_code" v="09023"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.monastir.ca.it/"/>
-    <tag k="wikidata" v="Q284304"/>
-    <tag k="wikipedia" v="it:Monastir (Italia)"/>
-    <tag k="wikipedia:sc" v="Muristenis"/>
   </node>
   <node id="72990947" lat="39.1529330" lon="8.7381390" version="40" timestamp="2023-10-23T17:03:06Z" changeset="143027498" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7440"/>
