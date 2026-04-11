@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-07T04:43:15Z" areas="2026-04-06T23:54:00Z"/>
+<meta osm_base="2026-04-11T04:38:15Z" areas="2026-04-10T20:27:20Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2740,7 +2740,7 @@
     <tag k="population" v="3021"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62512648" lat="45.8167810" lon="9.3115430" version="3" timestamp="2024-09-09T17:59:12Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62512648" lat="45.8189217" lon="9.3087602" version="4" timestamp="2026-04-10T15:46:28Z" changeset="181155031" uid="9616185" user="LukeDH">
     <tag k="gfoss_id" v="7847"/>
     <tag k="name" v="Suello"/>
     <tag k="place" v="village"/>
@@ -4054,12 +4054,11 @@
     <tag k="population" v="276"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516789" lat="44.8235397" lon="9.1969039" version="13" timestamp="2024-09-02T11:21:58Z" changeset="156093387" uid="13857163" user="ulore22">
-    <tag k="gfoss_id" v="2547"/>
+  <node id="62516789" lat="44.8235397" lon="9.1969039" version="14" timestamp="2026-04-09T07:16:20Z" changeset="181082014" uid="10901495" user="user_10901495">
+    <tag k="ele" v="416"/>
     <tag k="name" v="Varzi"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="3539"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q40474"/>
   </node>
   <node id="62516810" lat="45.1716620" lon="9.0423490" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
@@ -11008,17 +11007,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024718"/>
   </node>
-  <node id="66586820" lat="43.9257729" lon="8.1151521" version="7" timestamp="2026-04-05T20:14:19Z" changeset="180914411" uid="20673751" user="LucianoC63">
-    <tag k="addr:postcode" v="18010"/>
-    <tag k="gfoss_id" v="1138"/>
-    <tag k="name" v="Cervo"/>
-    <tag k="name:lij" v="U Sêrvu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1128"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.cervo.com/"/>
-    <tag k="wikidata" v="Q30024617"/>
-  </node>
   <node id="66586821" lat="43.8807025" lon="7.7745643" version="8" timestamp="2026-01-28T20:00:56Z" changeset="177819663" uid="20673751" user="LucianoC63">
     <tag k="name" v="Ceriana"/>
     <tag k="name:lij" v="Seriana"/>
@@ -17366,13 +17354,6 @@
     <tag k="wikidata" v="Q80661"/>
     <tag k="wikipedia" v="it:Bellosguardo"/>
   </node>
-  <node id="68582231" lat="40.6326259" lon="15.3700696" version="3" timestamp="2026-01-12T18:48:25Z" changeset="177150635" uid="23483330" user="PasZnn">
-    <tag k="gfoss_id" v="5566"/>
-    <tag k="name" v="Buccino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5659"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68582237" lat="40.8235120" lon="14.7054410" version="2" timestamp="2016-08-30T01:07:07Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5565"/>
     <tag k="name" v="Bracigliano"/>
@@ -17730,12 +17711,10 @@
     <tag k="population" v="2034"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300364" lat="44.1823650" lon="11.9556310" version="4" timestamp="2023-06-14T22:11:16Z" changeset="137346773" uid="19497998" user="branco-josm">
-    <tag k="gfoss_id" v="4134"/>
-    <tag k="name" v="Castrocaro Terme e Terra del Sole"/>
+  <node id="69300364" lat="44.1711268" lon="11.9472808" version="5" timestamp="2026-04-08T21:18:09Z" changeset="181070274" uid="10901495" user="user_10901495">
+    <tag k="name" v="Castrocaro Terme"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6426"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69300389" lat="43.9187582" lon="12.1432584" version="6" timestamp="2022-12-24T09:10:05Z" changeset="130448578" uid="4425563" user="Danysan95">
     <tag k="ele" v="243"/>
@@ -17938,13 +17917,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q100761"/>
   </node>
-  <node id="69300637" lat="44.5036306" lon="9.6298851" version="7" timestamp="2026-02-25T17:51:42Z" changeset="179049248" uid="3671150" user="Roma Megalopolis">
-    <tag k="gfoss_id" v="3890"/>
+  <node id="69300637" lat="44.5029585" lon="9.6291043" version="9" timestamp="2026-04-09T21:25:09Z" changeset="181118143" uid="10901495" user="user_10901495">
     <tag k="local_name" v="à Piéve"/>
     <tag k="name" v="Bedonia"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="3823"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2136"/>
   </node>
   <node id="69300646" lat="44.3209570" lon="10.6461000" version="9" timestamp="2019-04-15T21:19:50Z" changeset="69250019" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="705"/>
@@ -22321,20 +22298,6 @@
     <tag k="wikidata" v="Q286283"/>
     <tag k="wikipedia" v="it:Giba"/>
     <tag k="wikipedia:sc" v="Giba"/>
-  </node>
-  <node id="72991279" lat="38.9440310" lon="8.8635440" version="41" timestamp="2019-03-17T12:47:02Z" changeset="68227441" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7415"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Domus de Maria"/>
-    <tag k="name:it" v="Domus de Maria"/>
-    <tag k="name:sc" v="Domus de Maria"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1545"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.domusdemaria.ca.it/"/>
-    <tag k="wikidata" v="Q283882"/>
-    <tag k="wikipedia" v="it:Domus de Maria"/>
   </node>
   <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7438"/>
