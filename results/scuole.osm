@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-11T04:38:15Z" areas="2026-04-10T20:27:20Z"/>
+<meta osm_base="2026-04-12T05:03:00Z" areas="2026-04-11T22:26:34Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4017,10 +4017,10 @@
     <tag k="wikidata" v="Q30029909"/>
     <tag k="wikipedia" v="it:San Giacomo Filippo"/>
   </node>
-  <node id="62516755" lat="46.2197715" lon="9.8648304" version="46" timestamp="2025-08-02T09:13:21Z" changeset="169853071" uid="20434376" user="Aaaa002">
+  <node id="62516755" lat="46.2197715" lon="9.8648304" version="47" timestamp="2026-04-11T21:01:03Z" changeset="181207755" uid="10901495" user="user_10901495">
     <tag k="ele" v="754"/>
     <tag k="name" v="Spriana"/>
-    <tag k="place" v="hamlet"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="79"/>
     <tag k="wikidata" v="Q40703"/>
     <tag k="wikipedia" v="it:Spriana"/>
@@ -4185,18 +4185,18 @@
     <tag k="wikidata" v="Q40889"/>
     <tag k="wikipedia" v="it:Grosotto"/>
   </node>
-  <node id="62516940" lat="46.0593815" lon="9.5508018" version="6" timestamp="2023-06-14T22:47:31Z" changeset="137347441" uid="19497998" user="branco-josm">
+  <node id="62516940" lat="46.0593815" lon="9.5508018" version="7" timestamp="2026-04-11T19:28:07Z" changeset="181204920" uid="10901495" user="user_10901495">
     <tag k="ele" v="1050"/>
     <tag k="loc_name" v="Giaröla;Piazza"/>
     <tag k="name" v="Gerola Alta"/>
-    <tag k="place" v="hamlet"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="100"/>
   </node>
-  <node id="62516943" lat="46.0823080" lon="9.5496877" version="6" timestamp="2023-06-14T22:47:31Z" changeset="137347441" uid="19497998" user="branco-josm">
+  <node id="62516943" lat="46.0823080" lon="9.5496877" version="7" timestamp="2026-04-11T19:27:43Z" changeset="181204901" uid="10901495" user="user_10901495">
     <tag k="ele" v="1032"/>
     <tag k="loc_name" v="Pedesina"/>
     <tag k="name" v="Pedesina"/>
-    <tag k="place" v="hamlet"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="34"/>
     <tag k="population:date" v="2020"/>
     <tag k="wikidata" v="Q39060"/>
@@ -4222,12 +4222,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029292"/>
   </node>
-  <node id="62516976" lat="46.1082011" lon="9.5641665" version="4" timestamp="2024-09-09T17:58:22Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62516976" lat="46.1080922" lon="9.5643997" version="5" timestamp="2026-04-11T19:31:31Z" changeset="181205037" uid="10901495" user="user_10901495">
     <tag k="ele" v="800"/>
-    <tag k="fixme" v="Verificare se tutti gli abitanti di Bema vivono nel capoluogo o ci sono dei paesini montani con almeno 1 abitante stabile"/>
     <tag k="loc_name" v="Béma"/>
     <tag k="name" v="Bema"/>
-    <tag k="place" v="hamlet"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="115"/>
     <tag k="wikidata" v="Q30022736"/>
   </node>
@@ -6952,13 +6951,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023141"/>
   </node>
-  <node id="63625860" lat="44.0833358" lon="7.7491191" version="39" timestamp="2024-11-05T11:13:45Z" changeset="158774660" uid="21794763" user="N Longo">
-    <tag k="gfoss_id" v="520"/>
+  <node id="63625860" lat="44.0826174" lon="7.7489241" version="40" timestamp="2026-04-11T21:17:23Z" changeset="181208236" uid="10901495" user="user_10901495">
+    <tag k="alt_name" v="Briga Alta"/>
+    <tag k="ele" v="1310"/>
     <tag k="name" v="Piaggia"/>
     <tag k="name:lij" v="A Ciàgia"/>
-    <tag k="place" v="hamlet"/>
-    <tag k="population" v="62"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="23"/>
     <tag k="wikidata" v="Q3901838"/>
     <tag k="wikipedia" v="it:Piaggia (Briga Alta)"/>
   </node>
@@ -24734,11 +24733,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1243"/>
   </node>
-  <node id="4318757045" lat="42.6269800" lon="12.0908718" version="7" timestamp="2023-09-25T09:41:15Z" changeset="141722513" uid="3860151" user="Michele Aquilani">
+  <node id="4318757045" lat="42.6270611" lon="12.0907844" version="8" timestamp="2026-04-11T21:40:51Z" changeset="181208769" uid="10901495" user="user_10901495">
     <tag k="name" v="Bagnoregio"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="3614"/>
-    <tag k="postal_code" v="01022"/>
     <tag k="website" v="http://www.comune.bagnoregio.vt.it/"/>
     <tag k="wikidata" v="Q159498"/>
     <tag k="wikimedia_commons" v="Category:Bagnoregio"/>
