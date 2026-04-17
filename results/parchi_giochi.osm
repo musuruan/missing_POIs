@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-16T05:04:59Z" areas="2026-04-15T19:40:15Z"/>
+<meta osm_base="2026-04-17T04:56:36Z" areas="2026-04-16T15:17:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9769,13 +9769,6 @@
     <tag k="wikimedia_commons" v="Category:Crosia"/>
     <tag k="wikipedia" v="it:Crosia"/>
   </node>
-  <node id="67273947" lat="39.2196910" lon="16.2060930" version="2" timestamp="2016-08-28T18:58:23Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6535"/>
-    <tag k="name" v="Domanico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="926"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67273951" lat="39.1190910" lon="16.3996980" version="2" timestamp="2016-08-28T18:58:20Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6528"/>
     <tag k="name" v="Colosimi"/>
@@ -11691,12 +11684,18 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q277362"/>
   </node>
-  <node id="67283781" lat="41.6324794" lon="14.7654374" version="3" timestamp="2016-09-03T02:35:18Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283781" lat="41.6324794" lon="14.7654374" version="4" timestamp="2026-04-16T12:49:26Z" changeset="181412317" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="735"/>
     <tag k="gfoss_id" v="6021"/>
     <tag k="name" v="Campolieto"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1062"/>
+    <tag k="population" v="793"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.campolieto.cb.it/"/>
+    <tag k="wikidata" v="Q277413"/>
+    <tag k="wikipedia" v="it:Campolieto"/>
   </node>
   <node id="67283792" lat="41.8290511" lon="14.7102914" version="3" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6027"/>
@@ -11750,12 +11749,18 @@
     <tag k="population" v="783"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283827" lat="41.5179280" lon="14.7987340" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283827" lat="41.5179280" lon="14.7987340" version="3" timestamp="2026-04-16T20:10:53Z" changeset="181430358" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="580"/>
     <tag k="gfoss_id" v="6042"/>
     <tag k="name" v="Jelsi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1917"/>
+    <tag k="population" v="1530"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.jelsi.cb.it/"/>
+    <tag k="wikidata" v="Q277635"/>
+    <tag k="wikipedia" v="it:Jelsi"/>
   </node>
   <node id="67283836" lat="41.6763300" lon="14.6224280" version="3" timestamp="2026-01-20T16:00:51Z" changeset="177482794" uid="4425563" user="Danysan95">
     <tag k="gfoss_id" v="6044"/>
@@ -11776,14 +11781,19 @@
     <tag k="wikidata" v="Q277643"/>
     <tag k="wikipedia" v="it:Larino"/>
   </node>
-  <node id="67283853" lat="41.5950300" lon="14.9117350" version="4" timestamp="2025-09-13T17:37:11Z" changeset="171886636" uid="14617702" user="Đuro Jiří">
+  <node id="67283853" lat="41.5950300" lon="14.9117350" version="5" timestamp="2026-04-16T08:45:47Z" changeset="181401960" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="477"/>
     <tag k="gfoss_id" v="6047"/>
     <tag k="name" v="Macchia Valfortore"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="757"/>
+    <tag k="population" v="439"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026814"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.macchiavalfortore.cb.it/"/>
+    <tag k="wikidata" v="Q277667"/>
     <tag k="wikimedia_commons" v="Category:Macchia Valfortore"/>
+    <tag k="wikipedia" v="it:Macchia Valfortore"/>
   </node>
   <node id="67283860" lat="41.6449290" lon="14.6751290" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6053"/>
@@ -11874,12 +11884,17 @@
     <tag k="wikidata" v="Q221011"/>
     <tag k="wikipedia" v="it:Ripabottoni"/>
   </node>
-  <node id="67283929" lat="41.5811599" lon="14.8737322" version="3" timestamp="2016-09-03T02:35:24Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283929" lat="41.5811599" lon="14.8737322" version="4" timestamp="2026-04-16T12:53:35Z" changeset="181412521" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="666"/>
     <tag k="gfoss_id" v="6065"/>
     <tag k="name" v="Pietracatella"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1600"/>
+    <tag k="population" v="1192"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q122360"/>
+    <tag k="wikipedia" v="it:Pietracatella"/>
   </node>
   <node id="67283947" lat="41.7475300" lon="14.5101240" version="3" timestamp="2016-09-03T02:35:26Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6074"/>
@@ -12095,12 +12110,18 @@
     <tag k="wikidata" v="Q30027620"/>
     <tag k="wikipedia" v="it:Molise (comune)"/>
   </node>
-  <node id="67284138" lat="41.6099300" lon="14.8085330" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284138" lat="41.6099300" lon="14.8085330" version="3" timestamp="2026-04-16T09:37:54Z" changeset="181404126" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="606"/>
     <tag k="gfoss_id" v="6052"/>
     <tag k="name" v="Monacilioni"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="680"/>
+    <tag k="population" v="439"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.monacilioni.cb.it/hh/index.php"/>
+    <tag k="wikidata" v="Q277706"/>
+    <tag k="wikipedia" v="it:Monacilioni"/>
   </node>
   <node id="67284148" lat="41.8666340" lon="14.6382250" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6055"/>
@@ -12152,12 +12173,18 @@
     <tag k="population" v="468"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284199" lat="41.5724280" lon="14.7649320" version="2" timestamp="2016-09-03T02:35:28Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284199" lat="41.5724280" lon="14.7649320" version="3" timestamp="2026-04-16T12:58:09Z" changeset="181412769" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="588"/>
     <tag k="gfoss_id" v="6092"/>
     <tag k="name" v="Toro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1538"/>
+    <tag k="population" v="1209"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.toro.cb.it/"/>
+    <tag k="wikidata" v="Q278344"/>
+    <tag k="wikipedia" v="it:Toro (Italia)"/>
   </node>
   <node id="67284208" lat="41.6398280" lon="14.5195260" version="3" timestamp="2026-01-20T16:09:18Z" changeset="177483102" uid="4425563" user="Danysan95">
     <tag k="gfoss_id" v="6091"/>
@@ -12865,7 +12892,7 @@
     <tag k="wikidata" v="Q51902"/>
     <tag k="wikipedia" v="it:Casalnuovo Monterotaro"/>
   </node>
-  <node id="68528909" lat="41.8384462" lon="15.5653375" version="9" timestamp="2026-04-14T07:32:38Z" changeset="181307866" uid="20397427" user="RUGGERO DEL VECCHIO">
+  <node id="68528909" lat="41.8384462" lon="15.5653375" version="10" timestamp="2026-04-16T13:18:03Z" changeset="181413746" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="gfoss_id" v="6145"/>
     <tag k="name" v="San Nicandro Garganico"/>
     <tag k="old_name" v="Sannicandro Garganico"/>
@@ -12874,6 +12901,7 @@
     <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.sannicandrogarganico.fg.it/"/>
     <tag k="wikidata" v="Q51955"/>
     <tag k="wikipedia" v="it:San Nicandro Garganico"/>
   </node>
@@ -12994,7 +13022,7 @@
     <tag k="wikidata" v="Q51943"/>
     <tag k="wikipedia" v="it:Panni"/>
   </node>
-  <node id="68529006" lat="41.4771501" lon="15.1243282" version="4" timestamp="2026-04-14T17:20:34Z" changeset="181334149" uid="20397427" user="RUGGERO DEL VECCHIO">
+  <node id="68529006" lat="41.4771501" lon="15.1243282" version="5" timestamp="2026-04-16T20:29:19Z" changeset="181430922" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="735"/>
     <tag k="gfoss_id" v="6158"/>
     <tag k="name" v="Volturino"/>
@@ -13003,7 +13031,7 @@
     <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
-    <tag k="website" v="https://www.comune.volturino.fg.it/volturino/hh/index.php"/>
+    <tag k="website" v="https://www.comune.volturino.fg.it/"/>
     <tag k="wikidata" v="Q51969"/>
     <tag k="wikipedia" v="it:Volturino"/>
   </node>
@@ -13071,7 +13099,7 @@
     <tag k="wikidata" v="Q51940"/>
     <tag k="wikipedia" v="it:Orta Nova"/>
   </node>
-  <node id="68529089" lat="41.9043440" lon="15.8994530" version="6" timestamp="2026-04-14T07:16:34Z" changeset="181307314" uid="20397427" user="RUGGERO DEL VECCHIO">
+  <node id="68529089" lat="41.9043440" lon="15.8994530" version="7" timestamp="2026-04-16T13:06:09Z" changeset="181413137" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="314"/>
     <tag k="gfoss_id" v="6121"/>
     <tag k="name" v="Ischitella"/>
@@ -13080,6 +13108,7 @@
     <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.ischitella.fg.it/"/>
     <tag k="wikidata" v="Q51929"/>
     <tag k="wikipedia" v="it:Ischitella"/>
   </node>
@@ -13122,7 +13151,7 @@
     <tag k="wikidata" v="Q51952"/>
     <tag k="wikipedia" v="it:San Marco in Lamis"/>
   </node>
-  <node id="68529136" lat="41.9287450" lon="15.8810520" version="6" timestamp="2026-04-14T07:12:55Z" changeset="181307197" uid="20397427" user="RUGGERO DEL VECCHIO">
+  <node id="68529136" lat="41.9287450" lon="15.8810520" version="7" timestamp="2026-04-16T13:11:14Z" changeset="181413391" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="42"/>
     <tag k="gfoss_id" v="6139"/>
     <tag k="name" v="Rodi Garganico"/>
@@ -13131,6 +13160,7 @@
     <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.rodigarganico.fg.it/"/>
     <tag k="wikidata" v="Q51949"/>
     <tag k="wikimedia_commons" v="Category:Rodi Garganico"/>
     <tag k="wikipedia" v="it:Rodi Garganico"/>
