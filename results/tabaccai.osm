@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-20T05:00:54Z" areas="2026-04-19T14:33:56Z"/>
+<meta osm_base="2026-04-21T04:47:54Z" areas="2026-04-20T23:22:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -22533,15 +22533,6 @@
     <tag k="population" v="564"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586379" lat="44.4529968" lon="9.2595603" version="5" timestamp="2017-02-25T16:29:02Z" changeset="46397292" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="1280"/>
-    <tag k="name" v="Favale di Malvaro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="480"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q267241"/>
-    <tag k="wikipedia" v="it:Favale di Malvaro"/>
-  </node>
   <node id="66586386" lat="44.5460500" lon="9.3044660" version="3" timestamp="2018-03-23T16:51:28Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
     <tag k="gfoss_id" v="1281"/>
     <tag k="name" v="Fontanigorda"/>
@@ -28291,13 +28282,18 @@
     <tag k="wikidata" v="Q277827"/>
     <tag k="wikipedia" v="it:Morrone del Sannio"/>
   </node>
-  <node id="67283914" lat="41.6917557" lon="14.6954495" version="4" timestamp="2024-08-19T08:29:09Z" changeset="155448226" uid="12638075" user="elucci">
+  <node id="67283914" lat="41.6917557" lon="14.6954495" version="5" timestamp="2026-04-20T16:53:11Z" changeset="181593069" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="651"/>
     <tag k="gfoss_id" v="6064"/>
     <tag k="name" v="Petrella Tifernina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1305"/>
+    <tag k="population" v="990"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.petrellatifernina.cb.it/hh/index.php"/>
     <tag k="wikidata" v="Q277869"/>
+    <tag k="wikipedia" v="it:Petrella Tifernina"/>
   </node>
   <node id="67283917" lat="42.0114390" lon="14.8609280" version="3" timestamp="2026-04-18T13:02:26Z" changeset="181497596" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="225"/>

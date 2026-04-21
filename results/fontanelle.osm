@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-20T04:56:57Z" areas="2026-04-19T18:11:39Z"/>
+<meta osm_base="2026-04-21T04:45:01Z" areas="2026-04-20T23:22:42Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4143,18 +4143,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q53903"/>
     <tag k="wikipedia" v="it:Malito"/>
-  </node>
-  <node id="67274134" lat="39.7422654" lon="16.1228246" version="8" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
-    <tag k="ele" v="580"/>
-    <tag k="gfoss_id" v="6554"/>
-    <tag k="is_in" v="Cosenza, Calabria, Italy"/>
-    <tag k="name" v="Lungro"/>
-    <tag k="name:aae" v="Ungra"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3145"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53897"/>
-    <tag k="wikipedia" v="it:Lungro"/>
   </node>
   <node id="67274140" lat="39.4633777" lon="16.1378293" version="4" timestamp="2024-08-24T09:55:39Z" changeset="155687197" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="6551"/>
@@ -8431,13 +8419,17 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022345"/>
   </node>
-  <node id="72990724" lat="39.5626420" lon="8.8986360" version="54" timestamp="2026-04-15T15:04:08Z" changeset="181372001" uid="10901495" user="user_10901495">
-    <tag k="capital" v="6"/>
+  <node id="72990724" lat="39.5626420" lon="8.8986360" version="55" timestamp="2026-04-20T09:00:33Z" changeset="181571547" uid="21696131" user="aboc">
+    <tag k="capital" v="8"/>
+    <tag k="gfoss_id" v="7454"/>
     <tag k="name" v="Seddori/Sanluri"/>
     <tag k="name:it" v="Sanluri"/>
     <tag k="name:sc" v="Seddori"/>
-    <tag k="place" v="town"/>
+    <tag k="name:zh" v="桑卢里"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="8519"/>
+    <tag k="postal_code" v="09025"/>
+    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="website" v="http://www.comune.sanluri.vs.it/"/>
     <tag k="wikidata" v="Q13656"/>
     <tag k="wikipedia" v="it:Sanluri"/>
