@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-21T04:45:01Z" areas="2026-04-20T23:22:42Z"/>
+<meta osm_base="2026-04-22T04:42:15Z" areas="2026-04-22T01:34:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5053,14 +5053,18 @@
     <tag k="wikidata" v="Q278166"/>
     <tag k="wikipedia" v="it:San Martino in Pensilis"/>
   </node>
-  <node id="67283998" lat="41.9086360" lon="14.7625270" version="1" timestamp="2007-10-12T22:48:59Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="67283998" lat="41.9086360" lon="14.7625270" version="2" timestamp="2026-04-21T09:00:37Z" changeset="181616405" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="550"/>
     <tag k="gfoss_id" v="6089"/>
     <tag k="is_in" v="Campobasso, Molise, Italy"/>
     <tag k="name" v="Tavenna"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="995"/>
+    <tag k="population" v="545"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q278259"/>
+    <tag k="wikipedia" v="it:Tavenna"/>
   </node>
   <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="6094"/>
@@ -8419,8 +8423,8 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022345"/>
   </node>
-  <node id="72990724" lat="39.5626420" lon="8.8986360" version="55" timestamp="2026-04-20T09:00:33Z" changeset="181571547" uid="21696131" user="aboc">
-    <tag k="capital" v="8"/>
+  <node id="72990724" lat="39.5626420" lon="8.8986360" version="56" timestamp="2026-04-21T08:56:37Z" changeset="181616278" uid="21696131" user="aboc">
+    <tag k="capital" v="6"/>
     <tag k="gfoss_id" v="7454"/>
     <tag k="name" v="Seddori/Sanluri"/>
     <tag k="name:it" v="Sanluri"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-21T04:46:59Z" areas="2026-04-20T23:22:42Z"/>
+<meta osm_base="2026-04-22T04:44:12Z" areas="2026-04-22T01:34:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8276,13 +8276,6 @@
     <tag k="population" v="650"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587040" lat="44.0056260" lon="8.0292490" version="2" timestamp="2016-09-24T23:13:28Z" changeset="42413443" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="1248"/>
-    <tag k="name" v="Testico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="200"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66587044" lat="44.2782607" lon="8.2341987" version="4" timestamp="2017-07-17T19:50:38Z" changeset="50361341" uid="195228" user="vancori">
     <tag k="gfoss_id" v="1202"/>
     <tag k="name" v="Bormida"/>
@@ -11968,14 +11961,18 @@
     <tag k="wikidata" v="Q278188"/>
     <tag k="wikipedia" v="it:San Polo Matese"/>
   </node>
-  <node id="67283998" lat="41.9086360" lon="14.7625270" version="1" timestamp="2007-10-12T22:48:59Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="67283998" lat="41.9086360" lon="14.7625270" version="2" timestamp="2026-04-21T09:00:37Z" changeset="181616405" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="550"/>
     <tag k="gfoss_id" v="6089"/>
     <tag k="is_in" v="Campobasso, Molise, Italy"/>
     <tag k="name" v="Tavenna"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="995"/>
+    <tag k="population" v="545"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q278259"/>
+    <tag k="wikipedia" v="it:Tavenna"/>
   </node>
   <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="6094"/>
@@ -19465,10 +19462,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026517"/>
   </node>
-  <node id="72990733" lat="39.4569925" lon="8.7367219" version="60" timestamp="2023-11-01T05:43:28Z" changeset="143455226" uid="9451067" user="b-jazz-bot">
+  <node id="72990733" lat="39.4569925" lon="8.7367219" version="61" timestamp="2026-04-21T08:56:37Z" changeset="181616278" uid="21696131" user="aboc">
     <tag k="alt_name" v="Bidda de Cidru"/>
     <tag k="alt_name_1" v="Biddexidru"/>
-    <tag k="capital" v="8"/>
+    <tag k="capital" v="6"/>
     <tag k="gfoss_id" v="7489"/>
     <tag k="int_name" v="Villacidro"/>
     <tag k="name" v="Biddacidru/Villacidro"/>

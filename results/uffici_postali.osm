@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-21T04:41:57Z" areas="2026-04-20T23:13:40Z"/>
+<meta osm_base="2026-04-22T04:39:01Z" areas="2026-04-22T01:34:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8724,6 +8724,16 @@
     <tag k="population" v="1784"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="67273904" lat="39.1304900" lon="16.2526950" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
+    <tag k="gfoss_id" v="6493"/>
+    <tag k="name" v="Altilia"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="775"/>
+    <tag k="postal_code" v="87040"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q53825"/>
+    <tag k="wikipedia" v="it:Altilia"/>
+  </node>
   <node id="67273915" lat="39.2843940" lon="16.3364950" version="3" timestamp="2017-05-10T15:47:07Z" changeset="48565526" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6513"/>
     <tag k="name" v="Casole Bruzio"/>
@@ -10448,14 +10458,18 @@
     <tag k="wikidata" v="Q278188"/>
     <tag k="wikipedia" v="it:San Polo Matese"/>
   </node>
-  <node id="67283998" lat="41.9086360" lon="14.7625270" version="1" timestamp="2007-10-12T22:48:59Z" changeset="137044" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="67283998" lat="41.9086360" lon="14.7625270" version="2" timestamp="2026-04-21T09:00:37Z" changeset="181616405" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="550"/>
     <tag k="gfoss_id" v="6089"/>
     <tag k="is_in" v="Campobasso, Molise, Italy"/>
     <tag k="name" v="Tavenna"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="995"/>
+    <tag k="population" v="545"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q278259"/>
+    <tag k="wikipedia" v="it:Tavenna"/>
   </node>
   <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="6094"/>
@@ -10713,14 +10727,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1644"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67284377" lat="41.5218250" lon="14.3929250" version="3" timestamp="2026-01-18T18:57:31Z" changeset="177387327" uid="4425563" user="Danysan95">
-    <tag k="gfoss_id" v="7562"/>
-    <tag k="name" v="Cantalupo nel Sannio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="736"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023613"/>
   </node>
   <node id="67284385" lat="41.5731250" lon="14.2775210" version="2" timestamp="2016-09-03T02:35:24Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7591"/>
@@ -16391,21 +16397,6 @@
     <tag k="wikidata" v="Q286824"/>
     <tag k="wikipedia" v="it:Villaperuccio"/>
     <tag k="wikipedia:sc" v="Sa Baronia"/>
-  </node>
-  <node id="72991271" lat="39.2666261" lon="8.4717404" version="41" timestamp="2023-04-22T19:31:11Z" changeset="135240867" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7425"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Gonnesa"/>
-    <tag k="name:it" v="Gonnesa"/>
-    <tag k="name:sc" v="Gonnesa"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5169"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.gonnesa.ca.it/"/>
-    <tag k="wikidata" v="Q286304"/>
-    <tag k="wikipedia" v="it:Gonnesa"/>
-    <tag k="wikipedia:sc" v="Gonnesa"/>
   </node>
   <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7438"/>
