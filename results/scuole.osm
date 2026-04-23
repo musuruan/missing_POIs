@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-22T04:46:15Z" areas="2026-04-22T01:34:02Z"/>
+<meta osm_base="2026-04-23T04:50:22Z" areas="2026-04-22T22:11:57Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14360,12 +14360,18 @@
     <tag k="wikidata" v="Q277378"/>
     <tag k="wikipedia" v="it:Bonefro"/>
   </node>
-  <node id="67284030" lat="41.7531249" lon="14.7066085" version="2" timestamp="2019-12-15T16:13:30Z" changeset="78433524" uid="554973" user="dgitto">
+  <node id="67284030" lat="41.7531249" lon="14.7066085" version="3" timestamp="2026-04-22T18:16:00Z" changeset="181685794" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="617"/>
     <tag k="gfoss_id" v="6025"/>
     <tag k="name" v="Castelbottaccio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="422"/>
+    <tag k="population" v="219"/>
+    <tag k="population:date" v="2026-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.castelbottaccio.cb.it/"/>
+    <tag k="wikidata" v="Q277437"/>
+    <tag k="wikipedia" v="it:Castelbottaccio"/>
   </node>
   <node id="67284031" lat="41.9562688" lon="15.0343440" version="11" timestamp="2026-04-15T12:17:15Z" changeset="181364101" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="52"/>
@@ -14412,12 +14418,18 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024408"/>
   </node>
-  <node id="67284065" lat="41.7627311" lon="14.7330086" version="3" timestamp="2021-05-22T09:08:12Z" changeset="105124366" uid="1864682" user="ualios">
+  <node id="67284065" lat="41.7627311" lon="14.7330086" version="4" timestamp="2026-04-22T18:20:46Z" changeset="181685984" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="505"/>
     <tag k="gfoss_id" v="6046"/>
     <tag k="name" v="Lupara"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="651"/>
+    <tag k="population" v="388"/>
+    <tag k="population:date" v="2026-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.lupara.cb.it/"/>
+    <tag k="wikidata" v="Q176281"/>
+    <tag k="wikipedia" v="it:Lupara (Italia)"/>
   </node>
   <node id="67284075" lat="41.5101270" lon="14.7392320" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6038"/>
@@ -22413,21 +22425,6 @@
     <tag k="wikidata" v="Q287416"/>
     <tag k="wikipedia" v="it:Collinas"/>
     <tag k="wikipedia:sc" v="Forru"/>
-  </node>
-  <node id="72991224" lat="39.3973967" lon="8.4021815" version="44" timestamp="2020-11-24T13:26:59Z" changeset="94709545" uid="554973" user="dgitto">
-    <tag k="alt_name" v="Bujèrru"/>
-    <tag k="gfoss_id" v="7404"/>
-    <tag k="name" v="Bugerru/Buggerru"/>
-    <tag k="name:it" v="Buggerru"/>
-    <tag k="name:sc" v="Bugerru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1163"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.buggerru.ci.it/"/>
-    <tag k="wikidata" v="Q286155"/>
-    <tag k="wikipedia" v="it:Buggerru"/>
-    <tag k="wikipedia:sc" v="Bugerru"/>
   </node>
   <node id="72991238" lat="39.7442460" lon="8.9233340" version="40" timestamp="2017-03-01T21:24:44Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="alt_name" v="Jauni"/>

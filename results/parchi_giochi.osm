@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-22T04:44:12Z" areas="2026-04-22T01:34:02Z"/>
+<meta osm_base="2026-04-23T04:48:07Z" areas="2026-04-22T23:40:06Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -12006,12 +12006,18 @@
     <tag k="population" v="2653"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284030" lat="41.7531249" lon="14.7066085" version="2" timestamp="2019-12-15T16:13:30Z" changeset="78433524" uid="554973" user="dgitto">
+  <node id="67284030" lat="41.7531249" lon="14.7066085" version="3" timestamp="2026-04-22T18:16:00Z" changeset="181685794" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="617"/>
     <tag k="gfoss_id" v="6025"/>
     <tag k="name" v="Castelbottaccio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="422"/>
+    <tag k="population" v="219"/>
+    <tag k="population:date" v="2026-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.castelbottaccio.cb.it/"/>
+    <tag k="wikidata" v="Q277437"/>
+    <tag k="wikipedia" v="it:Castelbottaccio"/>
   </node>
   <node id="67284038" lat="41.4475240" lon="14.5089280" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
     <tag k="gfoss_id" v="6019"/>
@@ -12057,19 +12063,31 @@
     <tag k="wikidata" v="Q277442"/>
     <tag k="wikipedia" v="it:Castellino del Biferno"/>
   </node>
-  <node id="67284065" lat="41.7627311" lon="14.7330086" version="3" timestamp="2021-05-22T09:08:12Z" changeset="105124366" uid="1864682" user="ualios">
+  <node id="67284065" lat="41.7627311" lon="14.7330086" version="4" timestamp="2026-04-22T18:20:46Z" changeset="181685984" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="505"/>
     <tag k="gfoss_id" v="6046"/>
     <tag k="name" v="Lupara"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="651"/>
+    <tag k="population" v="388"/>
+    <tag k="population:date" v="2026-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.lupara.cb.it/"/>
+    <tag k="wikidata" v="Q176281"/>
+    <tag k="wikipedia" v="it:Lupara (Italia)"/>
   </node>
-  <node id="67284067" lat="41.7319310" lon="14.6872280" version="3" timestamp="2024-10-15T22:18:04Z" changeset="157940553" uid="21859044" user="Data 7">
+  <node id="67284067" lat="41.7319310" lon="14.6872280" version="5" timestamp="2026-04-22T18:17:41Z" changeset="181685866" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="480"/>
     <tag k="gfoss_id" v="6045"/>
     <tag k="name" v="Lucito"/>
     <tag k="place" v="hamlet"/>
-    <tag k="population" v="959"/>
+    <tag k="population" v="614"/>
+    <tag k="population:date" v="2026-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.lucito.cb.it/"/>
+    <tag k="wikidata" v="Q176292"/>
+    <tag k="wikipedia" v="it:Lucito"/>
   </node>
   <node id="67284075" lat="41.5101270" lon="14.7392320" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6038"/>
@@ -13165,20 +13183,6 @@
     <tag k="website" v="https://www.comune.sanmarcoinlamis.fg.it/"/>
     <tag k="wikidata" v="Q51952"/>
     <tag k="wikipedia" v="it:San Marco in Lamis"/>
-  </node>
-  <node id="68529136" lat="41.9287450" lon="15.8810520" version="7" timestamp="2026-04-16T13:11:14Z" changeset="181413391" uid="20397427" user="RUGGERO DEL VECCHIO">
-    <tag k="ele" v="42"/>
-    <tag k="gfoss_id" v="6139"/>
-    <tag k="name" v="Rodi Garganico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3306"/>
-    <tag k="population:date" v="2025-12-31"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia"/>
-    <tag k="website" v="https://www.comune.rodigarganico.fg.it/"/>
-    <tag k="wikidata" v="Q51949"/>
-    <tag k="wikimedia_commons" v="Category:Rodi Garganico"/>
-    <tag k="wikipedia" v="it:Rodi Garganico"/>
   </node>
   <node id="68529140" lat="41.1035240" lon="15.4617540" version="3" timestamp="2026-04-15T08:50:16Z" changeset="181355923" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="633"/>
