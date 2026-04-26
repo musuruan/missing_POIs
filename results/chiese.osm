@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-25T04:29:51Z" areas="2026-04-25T01:44:58Z"/>
+<meta osm_base="2026-04-26T04:53:37Z" areas="2026-04-25T21:17:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2692,16 +2692,21 @@
     <tag k="population" v="969"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283760" lat="41.8675905" lon="14.7467926" version="10" timestamp="2025-05-16T09:54:11Z" changeset="166341118" uid="12638075" user="elucci">
+  <node id="67283760" lat="41.8675905" lon="14.7467926" version="11" timestamp="2026-04-25T10:56:14Z" changeset="181800759" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="425"/>
     <tag k="gfoss_id" v="6013"/>
     <tag k="name" v="Acquaviva Collecroce - Živavoda Kruč"/>
     <tag k="name:hr" v="Živavoda Kruč"/>
     <tag k="name:it" v="Acquaviva Collecroce"/>
     <tag k="name:svm" v="Živavoda Kruč"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="800"/>
+    <tag k="population" v="535"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.acquavivacollecroce.cb.it/it"/>
     <tag k="wikidata" v="Q277362"/>
+    <tag k="wikipedia" v="it:Acquaviva Collecroce"/>
   </node>
   <node id="67283798" lat="41.4601250" lon="14.6654310" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6030"/>
@@ -2797,12 +2802,18 @@
     <tag k="population" v="1619"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284148" lat="41.8666340" lon="14.6382250" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284148" lat="41.8666340" lon="14.6382250" version="3" timestamp="2026-04-25T10:46:07Z" changeset="181800474" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="659"/>
     <tag k="gfoss_id" v="6055"/>
     <tag k="name" v="Montefalcone nel Sannio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1866"/>
+    <tag k="population" v="1309"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.montefalconenelsannio.cb.it/"/>
+    <tag k="wikidata" v="Q277714"/>
+    <tag k="wikipedia" v="it:Montefalcone nel Sannio"/>
   </node>
   <node id="67284159" lat="41.4929240" lon="14.4102250" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
     <tag k="gfoss_id" v="6082"/>

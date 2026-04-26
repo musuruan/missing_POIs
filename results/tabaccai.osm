@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-25T04:35:02Z" areas="2026-04-24T22:20:01Z"/>
+<meta osm_base="2026-04-26T05:00:46Z" areas="2026-04-26T01:02:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -735,13 +735,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q103095"/>
     <tag k="wikipedia" v="it:Guardistallo"/>
-  </node>
-  <node id="61753633" lat="43.4125688" lon="10.5761772" version="3" timestamp="2017-04-09T12:58:02Z" changeset="47592469" uid="1751908" user="Blues Brothers">
-    <tag k="gfoss_id" v="4554"/>
-    <tag k="name" v="Castellina Marittima"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1817"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753634" lat="43.3928165" lon="10.7490933" version="4" timestamp="2019-08-15T19:37:37Z" changeset="73390038" uid="8331873" user="deizenov">
     <tag k="ele" v="416"/>
@@ -23527,10 +23520,10 @@
     <tag k="population" v="934"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67253728" lat="35.5035259" lon="12.6066887" version="20" timestamp="2026-01-07T08:47:52Z" changeset="176934178" uid="23638457" user="Yovân El-Mekh">
+  <node id="67253728" lat="35.5035259" lon="12.6066887" version="21" timestamp="2026-04-25T21:41:56Z" changeset="181824396" uid="9379362" user="ABDULLAH AL WERFALLI">
     <tag k="alt_name:ar" v="لامبيدوسا"/>
     <tag k="name" v="Lampedusa"/>
-    <tag k="name:ar" v="لنبذوشة"/>
+    <tag k="name:ar" v="لمبيدوزا"/>
     <tag k="name:he" v="למפדוזה"/>
     <tag k="name:it" v="Lampedusa"/>
     <tag k="name:ru" v="Лампедуза"/>
@@ -28068,12 +28061,18 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023899"/>
   </node>
-  <node id="67283792" lat="41.8290511" lon="14.7102914" version="3" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283792" lat="41.8290511" lon="14.7102914" version="4" timestamp="2026-04-25T11:07:43Z" changeset="181801267" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="692"/>
     <tag k="gfoss_id" v="6027"/>
     <tag k="name" v="Castelmauro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1902"/>
+    <tag k="population" v="1074"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.castelmauro.cb.it/"/>
+    <tag k="wikidata" v="Q277449"/>
+    <tag k="wikipedia" v="it:Castelmauro"/>
   </node>
   <node id="67283794" lat="41.4613260" lon="14.7231330" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6029"/>
@@ -28089,12 +28088,18 @@
     <tag k="population" v="727"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283799" lat="41.7807189" lon="14.6890111" version="6" timestamp="2022-06-26T11:22:37Z" changeset="122864055" uid="2183311" user="Papirollo">
+  <node id="67283799" lat="41.7807189" lon="14.6890111" version="7" timestamp="2026-04-25T11:10:37Z" changeset="181801404" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="520"/>
     <tag k="gfoss_id" v="6031"/>
     <tag k="name" v="Civitacampomarano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="676"/>
+    <tag k="population" v="277"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.civitacampomarano.cb.it/"/>
+    <tag k="wikidata" v="Q277467"/>
+    <tag k="wikipedia" v="it:Civitacampomarano"/>
   </node>
   <node id="67283804" lat="41.6629186" lon="14.9733645" version="4" timestamp="2026-04-15T12:31:47Z" changeset="181364739" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="515"/>
@@ -28249,20 +28254,32 @@
     <tag k="wikidata" v="Q277825"/>
     <tag k="wikipedia" v="it:Montorio nei Frentani"/>
   </node>
-  <node id="67283897" lat="41.8880266" lon="14.6467497" version="4" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283897" lat="41.8880266" lon="14.6467497" version="5" timestamp="2026-04-25T10:49:11Z" changeset="181800555" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="508"/>
     <tag k="gfoss_id" v="6057"/>
     <tag k="name" v="Montemitro"/>
     <tag k="name:hr" v="Mundimitar"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="468"/>
+    <tag k="population" v="279"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.montemitro.cb.it/it"/>
+    <tag k="wikidata" v="Q277818"/>
+    <tag k="wikipedia" v="it:Montemitro"/>
   </node>
-  <node id="67283902" lat="41.8905148" lon="14.7853570" version="4" timestamp="2016-09-28T12:18:16Z" changeset="42492926" uid="469087" user="slg">
+  <node id="67283902" lat="41.8905148" lon="14.7853570" version="5" timestamp="2026-04-25T10:58:55Z" changeset="181800892" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="520"/>
     <tag k="gfoss_id" v="6062"/>
     <tag k="name" v="Palata"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1940"/>
+    <tag k="population" v="1448"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.palata.cb.it/"/>
+    <tag k="wikidata" v="Q277847"/>
+    <tag k="wikipedia" v="it:Palata"/>
   </node>
   <node id="67283909" lat="41.7115320" lon="14.7798310" version="3" timestamp="2026-04-15T12:51:37Z" changeset="181365751" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="839"/>
@@ -28381,14 +28398,20 @@
     <tag k="wikidata" v="Q278157"/>
     <tag k="wikipedia" v="it:San Giuliano di Puglia"/>
   </node>
-  <node id="67283956" lat="41.8910350" lon="14.7005260" version="2" timestamp="2016-09-03T02:35:26Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283956" lat="41.8910350" lon="14.7005260" version="3" timestamp="2026-04-25T10:52:09Z" changeset="181800644" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="alt_name:hr" v="Filič"/>
+    <tag k="ele" v="546"/>
     <tag k="gfoss_id" v="6076"/>
     <tag k="name" v="San Felice del Molise"/>
     <tag k="name:hr" v="Štifilić"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="813"/>
+    <tag k="population" v="526"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.sanfelicedelmolise.cb.it/"/>
+    <tag k="wikidata" v="Q278012"/>
+    <tag k="wikipedia" v="it:San Felice del Molise"/>
   </node>
   <node id="67283967" lat="41.7124096" lon="14.9933783" version="5" timestamp="2026-04-15T12:05:31Z" changeset="181363539" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="608"/>
@@ -28420,16 +28443,17 @@
     <tag k="wikidata" v="Q278188"/>
     <tag k="wikipedia" v="it:San Polo Matese"/>
   </node>
-  <node id="67283998" lat="41.9086360" lon="14.7625270" version="2" timestamp="2026-04-21T09:00:37Z" changeset="181616405" uid="20397427" user="RUGGERO DEL VECCHIO">
+  <node id="67283998" lat="41.9086360" lon="14.7625270" version="3" timestamp="2026-04-25T11:01:51Z" changeset="181801042" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="550"/>
     <tag k="gfoss_id" v="6089"/>
     <tag k="is_in" v="Campobasso, Molise, Italy"/>
     <tag k="name" v="Tavenna"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="545"/>
-    <tag k="population:date" v="2025-12-31"/>
+    <tag k="population" v="547"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.tavenna.cb.it/it"/>
     <tag k="wikidata" v="Q278259"/>
     <tag k="wikipedia" v="it:Tavenna"/>
   </node>
@@ -28482,13 +28506,13 @@
     <tag k="population" v="2653"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284030" lat="41.7531249" lon="14.7066085" version="3" timestamp="2026-04-22T18:16:00Z" changeset="181685794" uid="20397427" user="RUGGERO DEL VECCHIO">
+  <node id="67284030" lat="41.7531249" lon="14.7066085" version="4" timestamp="2026-04-25T11:12:33Z" changeset="181801467" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="617"/>
     <tag k="gfoss_id" v="6025"/>
     <tag k="name" v="Castelbottaccio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="219"/>
-    <tag k="population:date" v="2026-01-01"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="https://comune.castelbottaccio.cb.it/"/>
@@ -28566,13 +28590,13 @@
     <tag k="wikidata" v="Q277442"/>
     <tag k="wikipedia" v="it:Castellino del Biferno"/>
   </node>
-  <node id="67284065" lat="41.7627311" lon="14.7330086" version="4" timestamp="2026-04-22T18:20:46Z" changeset="181685984" uid="20397427" user="RUGGERO DEL VECCHIO">
+  <node id="67284065" lat="41.7627311" lon="14.7330086" version="5" timestamp="2026-04-25T11:13:43Z" changeset="181801529" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="505"/>
     <tag k="gfoss_id" v="6046"/>
     <tag k="name" v="Lupara"/>
     <tag k="place" v="village"/>
     <tag k="population" v="388"/>
-    <tag k="population:date" v="2026-01-01"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="https://www.comune.lupara.cb.it/"/>
@@ -28618,12 +28642,18 @@
     <tag k="population" v="2588"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284126" lat="41.9417360" lon="14.7132260" version="2" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284126" lat="41.9417360" lon="14.7132260" version="3" timestamp="2026-04-25T11:04:50Z" changeset="181801146" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="460"/>
     <tag k="gfoss_id" v="6048"/>
     <tag k="name" v="Mafalda"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1340"/>
+    <tag k="population" v="1072"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.mafalda.cb.it/it"/>
+    <tag k="wikidata" v="Q277675"/>
+    <tag k="wikipedia" v="it:Mafalda (Italia)"/>
   </node>
   <node id="67284134" lat="41.6308280" lon="14.4929250" version="5" timestamp="2026-01-22T17:11:52Z" changeset="177573465" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="6051"/>
@@ -28671,12 +28701,18 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030883"/>
   </node>
-  <node id="67284166" lat="41.8342330" lon="14.5999250" version="2" timestamp="2016-09-03T02:35:26Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284166" lat="41.8342330" lon="14.5999250" version="3" timestamp="2026-04-25T10:41:52Z" changeset="181800321" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="652"/>
     <tag k="gfoss_id" v="6072"/>
     <tag k="name" v="Roccavivara"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="954"/>
+    <tag k="population" v="567"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.roccavivara.cb.it/"/>
+    <tag k="wikidata" v="Q277958"/>
+    <tag k="wikipedia" v="it:Roccavivara"/>
   </node>
   <node id="67284169" lat="41.7473851" lon="15.0051885" version="6" timestamp="2026-04-14T20:03:07Z" changeset="181339777" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="360"/>
@@ -43113,11 +43149,11 @@
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022737"/>
   </node>
-  <node id="693237875" lat="46.0795780" lon="8.2997160" version="8" timestamp="2023-12-20T10:57:45Z" changeset="145326073" uid="19497998" user="branco-josm">
+  <node id="693237875" lat="46.0795674" lon="8.2996775" version="9" timestamp="2026-04-25T16:44:07Z" changeset="181814706" uid="10672736" user="3Pappa3">
     <tag k="ele" v="257"/>
     <tag k="gfoss_id" v="8035"/>
     <tag k="name" v="Beura-Cardezza"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="locality"/>
     <tag k="population" v="1372"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>

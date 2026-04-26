@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-25T04:27:49Z" areas="2026-04-24T22:20:01Z"/>
+<meta osm_base="2026-04-26T04:51:30Z" areas="2026-04-26T01:02:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -795,13 +795,19 @@
     <tag k="wikidata" v="Q277722"/>
     <tag k="wikipedia" v="it:Montelongo"/>
   </node>
-  <node id="67283897" lat="41.8880266" lon="14.6467497" version="4" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283897" lat="41.8880266" lon="14.6467497" version="5" timestamp="2026-04-25T10:49:11Z" changeset="181800555" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="508"/>
     <tag k="gfoss_id" v="6057"/>
     <tag k="name" v="Montemitro"/>
     <tag k="name:hr" v="Mundimitar"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="468"/>
+    <tag k="population" v="279"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.montemitro.cb.it/it"/>
+    <tag k="wikidata" v="Q277818"/>
+    <tag k="wikipedia" v="it:Montemitro"/>
   </node>
   <node id="67283909" lat="41.7115320" lon="14.7798310" version="3" timestamp="2026-04-15T12:51:37Z" changeset="181365751" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="839"/>
@@ -816,13 +822,13 @@
     <tag k="wikidata" v="Q277827"/>
     <tag k="wikipedia" v="it:Morrone del Sannio"/>
   </node>
-  <node id="67284030" lat="41.7531249" lon="14.7066085" version="3" timestamp="2026-04-22T18:16:00Z" changeset="181685794" uid="20397427" user="RUGGERO DEL VECCHIO">
+  <node id="67284030" lat="41.7531249" lon="14.7066085" version="4" timestamp="2026-04-25T11:12:33Z" changeset="181801467" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="617"/>
     <tag k="gfoss_id" v="6025"/>
     <tag k="name" v="Castelbottaccio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="219"/>
-    <tag k="population:date" v="2026-01-01"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="https://comune.castelbottaccio.cb.it/"/>
