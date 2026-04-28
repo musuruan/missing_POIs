@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-27T05:20:12Z" areas="2026-04-27T01:53:15Z"/>
+<meta osm_base="2026-04-28T05:27:59Z" areas="2026-04-28T01:06:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -11924,13 +11924,19 @@
     <tag k="wikidata" v="Q122360"/>
     <tag k="wikipedia" v="it:Pietracatella"/>
   </node>
-  <node id="67283947" lat="41.7475300" lon="14.5101240" version="3" timestamp="2016-09-03T02:35:26Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283947" lat="41.7475300" lon="14.5101240" version="4" timestamp="2026-04-27T16:48:49Z" changeset="181900899" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="678"/>
     <tag k="gfoss_id" v="6074"/>
     <tag k="name" v="Salcito"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="620"/>
+    <tag k="population" v="636"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="postal_code" v="86026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.salcito.cb.it/it"/>
+    <tag k="wikidata" v="Q277981"/>
+    <tag k="wikipedia" v="it:Salcito"/>
   </node>
   <node id="67283956" lat="41.8910350" lon="14.7005260" version="3" timestamp="2026-04-25T10:52:09Z" changeset="181800644" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="alt_name:hr" v="Filič"/>

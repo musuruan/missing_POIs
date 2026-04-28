@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-27T05:16:01Z" areas="2026-04-27T01:53:15Z"/>
+<meta osm_base="2026-04-28T05:22:52Z" areas="2026-04-28T00:23:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9067,13 +9067,6 @@
     <tag k="population" v="745"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274469" lat="39.1174689" lon="16.1666633" version="3" timestamp="2016-08-28T18:58:08Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6489"/>
-    <tag k="name" v="Aiello Calabro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2446"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274539" lat="39.9924080" lon="16.4775900" version="3" timestamp="2016-09-05T17:33:16Z" changeset="41936675" uid="354689" user="Francesco Placco">
     <tag k="gfoss_id" v="6517"/>
     <tag k="name" v="Castroregio"/>
@@ -10677,12 +10670,18 @@
     <tag k="population" v="2780"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284224" lat="41.7814070" lon="14.5511246" version="12" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
+  <node id="67284224" lat="41.7814070" lon="14.5511246" version="13" timestamp="2026-04-27T16:45:02Z" changeset="181900716" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="599"/>
     <tag k="gfoss_id" v="6093"/>
     <tag k="name" v="Trivento"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="5313"/>
+    <tag k="population" v="4295"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.trivento.cb.it/"/>
+    <tag k="wikidata" v="Q278361"/>
+    <tag k="wikipedia" v="it:Trivento"/>
   </node>
   <node id="67284231" lat="41.5217240" lon="14.2923220" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7568"/>
