@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-28T05:22:52Z" areas="2026-04-28T00:23:29Z"/>
+<meta osm_base="2026-04-29T05:18:58Z" areas="2026-04-28T23:00:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3674,13 +3674,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4000"/>
   </node>
-  <node id="62516980" lat="46.1827877" lon="9.6748279" version="7" timestamp="2021-11-13T11:00:40Z" changeset="113725893" uid="1778799" user="SomeoneElse_Revert">
+  <node id="62516980" lat="46.1830555" lon="9.6765266" version="8" timestamp="2026-04-29T00:02:32Z" changeset="181964172" uid="10901495" user="user_10901495">
     <tag k="ele" v="577"/>
-    <tag k="fixme" v="Verificare se tutti gli abitanti di Buglio in Monte vivono nel capoluogo o ci sono dei paesini montani con almeno 1 abitante stabile"/>
     <tag k="loc_name" v="Böi"/>
     <tag k="name" v="Buglio in Monte"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1982"/>
+    <tag k="population" v="720"/>
   </node>
   <node id="62516993" lat="46.1708212" lon="9.9893554" version="5" timestamp="2025-10-16T14:05:07Z" changeset="173367971" uid="20601540" user="IlCreeper08">
     <tag k="ele" v="389"/>
@@ -8796,13 +8795,6 @@
     <tag k="population" v="1467"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274013" lat="39.1667584" lon="16.1491424" version="5" timestamp="2024-11-07T13:18:59Z" changeset="158855745" uid="18785499" user="DaveMzp">
-    <tag k="gfoss_id" v="6547"/>
-    <tag k="name" v="Villa di Lago"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3096"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274054" lat="39.7214010" lon="16.1701860" version="5" timestamp="2018-05-08T19:46:35Z" changeset="58798710" uid="1293386" user="Sal73x">
     <tag k="gfoss_id" v="6539"/>
     <tag k="is_in" v="Cosenza, Calabria, Italy"/>
@@ -9028,16 +9020,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="1543"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274383" lat="39.1771910" lon="16.2882950" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6499"/>
-    <tag k="name" v="Belsito"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="930"/>
-    <tag k="postal_code" v="87030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q53837"/>
-    <tag k="wikipedia" v="it:Belsito"/>
   </node>
   <node id="67274389" lat="39.9524383" lon="16.5822838" version="3" timestamp="2016-08-28T18:58:10Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6496"/>
@@ -10289,13 +10271,18 @@
     <tag k="population" v="783"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283836" lat="41.6763300" lon="14.6224280" version="3" timestamp="2026-01-20T16:00:51Z" changeset="177482794" uid="4425563" user="Danysan95">
+  <node id="67283836" lat="41.6763300" lon="14.6224280" version="4" timestamp="2026-04-28T12:35:55Z" changeset="181938719" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="586"/>
     <tag k="gfoss_id" v="6044"/>
     <tag k="name" v="Limosano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="926"/>
+    <tag k="population" v="661"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026661"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.limosano.cb.it/"/>
+    <tag k="wikidata" v="Q277651"/>
+    <tag k="wikipedia" v="it:Limosano"/>
   </node>
   <node id="67283853" lat="41.5950300" lon="14.9117350" version="5" timestamp="2026-04-16T08:45:47Z" changeset="181401960" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="477"/>
@@ -10311,12 +10298,18 @@
     <tag k="wikimedia_commons" v="Category:Macchia Valfortore"/>
     <tag k="wikipedia" v="it:Macchia Valfortore"/>
   </node>
-  <node id="67283860" lat="41.6449290" lon="14.6751290" version="2" timestamp="2016-09-03T02:35:23Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283860" lat="41.6449290" lon="14.6751290" version="3" timestamp="2026-04-28T13:02:44Z" changeset="181940005" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="801"/>
     <tag k="gfoss_id" v="6053"/>
     <tag k="name" v="Montagano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1248"/>
+    <tag k="population" v="949"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.montagano.cb.it/"/>
+    <tag k="wikidata" v="Q277709"/>
+    <tag k="wikipedia" v="it:Montagano"/>
   </node>
   <node id="67283874" lat="41.7366398" lon="14.9529770" version="4" timestamp="2026-04-15T11:59:14Z" changeset="181363291" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="592"/>
@@ -10439,13 +10432,18 @@
     <tag k="wikidata" v="Q278012"/>
     <tag k="wikipedia" v="it:San Felice del Molise"/>
   </node>
-  <node id="67283971" lat="41.6933300" lon="14.6034270" version="3" timestamp="2026-01-20T16:00:50Z" changeset="177482794" uid="4425563" user="Danysan95">
+  <node id="67283971" lat="41.6933300" lon="14.6034270" version="4" timestamp="2026-04-28T12:32:04Z" changeset="181938539" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="894"/>
     <tag k="gfoss_id" v="6085"/>
     <tag k="name" v="Sant'Angelo Limosano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="397"/>
+    <tag k="population" v="302"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030327"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.santangelolimosano.cb.it/hh/index.php"/>
+    <tag k="wikidata" v="Q278199"/>
+    <tag k="wikipedia" v="it:Sant'Angelo Limosano"/>
   </node>
   <node id="67283975" lat="41.8704370" lon="15.0111506" version="9" timestamp="2026-04-15T12:10:06Z" changeset="181363775" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="281"/>
@@ -10636,12 +10634,18 @@
     <tag k="wikidata" v="Q277958"/>
     <tag k="wikipedia" v="it:Roccavivara"/>
   </node>
-  <node id="67284175" lat="41.7155110" lon="14.5887760" version="3" timestamp="2019-01-02T22:17:46Z" changeset="65972772" uid="166489" user="Fintocubano">
+  <node id="67284175" lat="41.7155110" lon="14.5887760" version="4" timestamp="2026-04-28T12:27:58Z" changeset="181938348" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="820"/>
     <tag k="gfoss_id" v="6075"/>
     <tag k="name" v="San Biase"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="271"/>
+    <tag k="population" v="117"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.sanbiase.cb.it/"/>
+    <tag k="wikidata" v="Q277999"/>
+    <tag k="wikipedia" v="it:San Biase"/>
   </node>
   <node id="67284193" lat="41.6721260" lon="14.1489170" version="2" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7558"/>
@@ -10814,14 +10818,6 @@
     <tag k="population" v="277"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030351"/>
-  </node>
-  <node id="67284450" lat="41.5531653" lon="14.3670565" version="4" timestamp="2026-03-17T14:44:00Z" changeset="180011616" uid="18333457" user="MicheleExplorer">
-    <tag k="gfoss_id" v="7602"/>
-    <tag k="name" v="Santa Maria del Molise"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="654"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030261"/>
   </node>
   <node id="68507518" lat="42.8335595" lon="12.5777971" version="13" timestamp="2025-12-16T12:15:24Z" changeset="176002955" uid="21372887" user="pat-pat">
     <tag k="ele" v="546"/>

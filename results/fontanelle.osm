@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-28T05:25:59Z" areas="2026-04-28T01:06:23Z"/>
+<meta osm_base="2026-04-29T05:21:58Z" areas="2026-04-29T03:18:23Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3389,15 +3389,6 @@
     <tag k="population" v="1617"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503386" lat="45.9357130" lon="13.2511661" version="7" timestamp="2025-07-05T20:38:41Z" changeset="168538657" uid="20552772" user="user_8y978a">
-    <tag k="gfoss_id" v="3682"/>
-    <tag k="name" v="Bicinicco / Bicinins"/>
-    <tag k="name:fur" v="Bicinins"/>
-    <tag k="name:it" v="Bicinicco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1832"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66503417" lat="45.9458064" lon="13.1727963" version="9" timestamp="2025-07-05T20:38:41Z" changeset="168538657" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3733"/>
     <tag k="name" v="Mortegliano / Mortean"/>
@@ -4948,13 +4939,18 @@
     <tag k="population" v="783"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283836" lat="41.6763300" lon="14.6224280" version="3" timestamp="2026-01-20T16:00:51Z" changeset="177482794" uid="4425563" user="Danysan95">
+  <node id="67283836" lat="41.6763300" lon="14.6224280" version="4" timestamp="2026-04-28T12:35:55Z" changeset="181938719" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="586"/>
     <tag k="gfoss_id" v="6044"/>
     <tag k="name" v="Limosano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="926"/>
+    <tag k="population" v="661"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026661"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.limosano.cb.it/"/>
+    <tag k="wikidata" v="Q277651"/>
+    <tag k="wikipedia" v="it:Limosano"/>
   </node>
   <node id="67283889" lat="41.7596340" lon="14.9327330" version="3" timestamp="2026-04-15T11:55:34Z" changeset="181363145" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="654"/>
@@ -5050,13 +5046,18 @@
     <tag k="wikidata" v="Q278012"/>
     <tag k="wikipedia" v="it:San Felice del Molise"/>
   </node>
-  <node id="67283971" lat="41.6933300" lon="14.6034270" version="3" timestamp="2026-01-20T16:00:50Z" changeset="177482794" uid="4425563" user="Danysan95">
+  <node id="67283971" lat="41.6933300" lon="14.6034270" version="4" timestamp="2026-04-28T12:32:04Z" changeset="181938539" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="894"/>
     <tag k="gfoss_id" v="6085"/>
     <tag k="name" v="Sant'Angelo Limosano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="397"/>
+    <tag k="population" v="302"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030327"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.santangelolimosano.cb.it/hh/index.php"/>
+    <tag k="wikidata" v="Q278199"/>
+    <tag k="wikipedia" v="it:Sant'Angelo Limosano"/>
   </node>
   <node id="67283975" lat="41.8704370" lon="15.0111506" version="9" timestamp="2026-04-15T12:10:06Z" changeset="181363775" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="281"/>
@@ -5245,12 +5246,18 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030883"/>
   </node>
-  <node id="67284175" lat="41.7155110" lon="14.5887760" version="3" timestamp="2019-01-02T22:17:46Z" changeset="65972772" uid="166489" user="Fintocubano">
+  <node id="67284175" lat="41.7155110" lon="14.5887760" version="4" timestamp="2026-04-28T12:27:58Z" changeset="181938348" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="820"/>
     <tag k="gfoss_id" v="6075"/>
     <tag k="name" v="San Biase"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="271"/>
+    <tag k="population" v="117"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.sanbiase.cb.it/"/>
+    <tag k="wikidata" v="Q277999"/>
+    <tag k="wikipedia" v="it:San Biase"/>
   </node>
   <node id="67284178" lat="41.9632380" lon="14.9464310" version="8" timestamp="2026-04-18T13:06:28Z" changeset="181497764" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="169"/>
