@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-04-29T05:20:00Z" areas="2026-04-29T03:18:23Z"/>
+<meta osm_base="2026-04-30T05:23:22Z" areas="2026-04-29T22:27:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2786,12 +2786,18 @@
     <tag k="wikidata" v="Q277400"/>
     <tag k="wikipedia" v="it:Campodipietra"/>
   </node>
-  <node id="67284042" lat="41.6589280" lon="14.4584240" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284042" lat="41.6589280" lon="14.4584240" version="3" timestamp="2026-04-29T12:13:05Z" changeset="181985448" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="918"/>
     <tag k="gfoss_id" v="6034"/>
     <tag k="name" v="Duronia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="507"/>
+    <tag k="population" v="377"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.duronia.cb.it/"/>
+    <tag k="wikidata" v="Q277486"/>
+    <tag k="wikipedia" v="it:Duronia"/>
   </node>
   <node id="67284045" lat="41.5063250" lon="14.5168270" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6032"/>
@@ -2800,12 +2806,18 @@
     <tag k="population" v="818"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284086" lat="41.6729290" lon="14.5457260" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284086" lat="41.6729290" lon="14.5457260" version="3" timestamp="2026-04-29T09:43:04Z" changeset="181979361" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="511"/>
     <tag k="gfoss_id" v="6036"/>
     <tag k="name" v="Fossalto"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1619"/>
+    <tag k="population" v="1094"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.fossalto.cb.it/"/>
+    <tag k="wikidata" v="Q277580"/>
+    <tag k="wikipedia" v="it:Fossalto"/>
   </node>
   <node id="67284148" lat="41.8666340" lon="14.6382250" version="3" timestamp="2026-04-25T10:46:07Z" changeset="181800474" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="659"/>
@@ -2849,13 +2861,18 @@
     <tag k="population" v="468"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284208" lat="41.6398280" lon="14.5195260" version="3" timestamp="2026-01-20T16:09:18Z" changeset="177483102" uid="4425563" user="Danysan95">
+  <node id="67284208" lat="41.6398280" lon="14.5195260" version="4" timestamp="2026-04-29T10:46:31Z" changeset="181981771" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="837"/>
     <tag k="gfoss_id" v="6091"/>
     <tag k="name" v="Torella del Sannio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="897"/>
+    <tag k="population" v="676"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031159"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.torelladelsannio.cb.it/"/>
+    <tag k="wikidata" v="Q278282"/>
+    <tag k="wikipedia" v="it:Torella del Sannio"/>
   </node>
   <node id="67284238" lat="41.6679280" lon="14.4038230" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7573"/>
@@ -4045,12 +4062,11 @@
     <tag k="place" v="village"/>
     <tag k="population" v="575"/>
   </node>
-  <node id="68579648" lat="41.3029190" lon="14.2521240" version="3" timestamp="2024-06-09T12:46:45Z" changeset="152453348" uid="10622815" user="Umbyone">
-    <tag k="gfoss_id" v="5162"/>
-    <tag k="name" v="Baia e Latina"/>
+  <node id="68579648" lat="41.3004047" lon="14.2513235" version="4" timestamp="2026-04-29T16:06:22Z" changeset="181996824" uid="10901495" user="user_10901495">
+    <tag k="ele" v="123"/>
+    <tag k="name" v="Baia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2197"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="1145"/>
     <tag k="wikidata" v="Q58450"/>
     <tag k="wikipedia" v="it:Baia e Latina"/>
   </node>
