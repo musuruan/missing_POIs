@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-01T05:35:28Z" areas="2026-05-01T01:15:26Z"/>
+<meta osm_base="2026-05-02T04:53:15Z" areas="2026-05-01T23:43:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2799,12 +2799,18 @@
     <tag k="wikidata" v="Q277486"/>
     <tag k="wikipedia" v="it:Duronia"/>
   </node>
-  <node id="67284045" lat="41.5063250" lon="14.5168270" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284045" lat="41.5063250" lon="14.5168270" version="3" timestamp="2026-05-01T17:02:11Z" changeset="182084870" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="649"/>
     <tag k="gfoss_id" v="6032"/>
     <tag k="name" v="Colle d'Anchise"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="818"/>
+    <tag k="population" v="707"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.colledanchise.cb.it/"/>
+    <tag k="wikidata" v="Q277474"/>
+    <tag k="wikipedia" v="it:Colle d'Anchise"/>
   </node>
   <node id="67284086" lat="41.6729290" lon="14.5457260" version="3" timestamp="2026-04-29T09:43:04Z" changeset="181979361" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="511"/>
@@ -6302,21 +6308,6 @@
     <tag k="wikidata" v="Q286824"/>
     <tag k="wikipedia" v="it:Villaperuccio"/>
     <tag k="wikipedia:sc" v="Sa Baronia"/>
-  </node>
-  <node id="72991420" lat="39.1610330" lon="8.6114360" version="40" timestamp="2023-10-23T17:03:29Z" changeset="143027520" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7444"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Perdaxius"/>
-    <tag k="name:it" v="Perdaxius"/>
-    <tag k="name:sc" v="Perdaxius"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1465"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.perdaxius.ci.it/"/>
-    <tag k="wikidata" v="Q286601"/>
-    <tag k="wikipedia" v="it:Perdaxius"/>
-    <tag k="wikipedia:sc" v="Perdaxius"/>
   </node>
   <node id="72991768" lat="39.2680862" lon="9.0496306" version="43" timestamp="2023-04-22T19:52:31Z" changeset="135241741" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7505"/>

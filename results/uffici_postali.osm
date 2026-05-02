@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-01T05:34:28Z" areas="2026-04-30T23:21:36Z"/>
+<meta osm_base="2026-05-02T04:52:10Z" areas="2026-05-01T23:47:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10229,12 +10229,18 @@
     <tag k="population" v="969"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67283771" lat="41.5562506" lon="14.5585312" version="3" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283771" lat="41.5562506" lon="14.5585312" version="4" timestamp="2026-05-01T11:03:49Z" changeset="182068514" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="756"/>
     <tag k="gfoss_id" v="6017"/>
     <tag k="name" v="Busso"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1412"/>
+    <tag k="population" v="1134"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.busso.cb.it/"/>
+    <tag k="wikidata" v="Q277383"/>
+    <tag k="wikipedia" v="it:Busso"/>
   </node>
   <node id="67283781" lat="41.6324794" lon="14.7654374" version="4" timestamp="2026-04-16T12:49:26Z" changeset="181412317" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="735"/>
@@ -10249,13 +10255,18 @@
     <tag k="wikidata" v="Q277413"/>
     <tag k="wikipedia" v="it:Campolieto"/>
   </node>
-  <node id="67283790" lat="41.5803583" lon="14.5281165" version="4" timestamp="2026-01-22T17:11:47Z" changeset="177573465" uid="1950277" user="Mannivu">
+  <node id="67283790" lat="41.5803583" lon="14.5281165" version="5" timestamp="2026-05-01T09:49:32Z" changeset="182065491" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="662"/>
     <tag k="gfoss_id" v="6024"/>
     <tag k="name" v="Casalciprano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="635"/>
+    <tag k="population" v="422"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023899"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.casalciprano.cb.it/"/>
+    <tag k="wikidata" v="Q277431"/>
+    <tag k="wikipedia" v="it:Casalciprano"/>
   </node>
   <node id="67283794" lat="41.4613260" lon="14.7231330" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6029"/>
@@ -10550,12 +10561,18 @@
     <tag k="wikidata" v="Q277486"/>
     <tag k="wikipedia" v="it:Duronia"/>
   </node>
-  <node id="67284045" lat="41.5063250" lon="14.5168270" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284045" lat="41.5063250" lon="14.5168270" version="3" timestamp="2026-05-01T17:02:11Z" changeset="182084870" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="649"/>
     <tag k="gfoss_id" v="6032"/>
     <tag k="name" v="Colle d'Anchise"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="818"/>
+    <tag k="population" v="707"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.colledanchise.cb.it/"/>
+    <tag k="wikidata" v="Q277474"/>
+    <tag k="wikipedia" v="it:Colle d'Anchise"/>
   </node>
   <node id="67284065" lat="41.7627311" lon="14.7330086" version="5" timestamp="2026-04-25T11:13:43Z" changeset="181801529" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="505"/>
@@ -10619,13 +10636,18 @@
     <tag k="wikidata" v="Q278175"/>
     <tag k="wikipedia" v="it:San Massimo (Italia)"/>
   </node>
-  <node id="67284163" lat="41.5449260" lon="14.4862260" version="3" timestamp="2026-01-22T17:11:47Z" changeset="177573465" uid="1950277" user="Mannivu">
+  <node id="67284163" lat="41.5449260" lon="14.4862260" version="4" timestamp="2026-05-01T11:21:27Z" changeset="182069175" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="600"/>
     <tag k="gfoss_id" v="6088"/>
     <tag k="name" v="Spinete"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1432"/>
+    <tag k="population" v="1126"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30030883"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.spinete.cb.it/"/>
+    <tag k="wikidata" v="Q278237"/>
+    <tag k="wikipedia" v="it:Spinete"/>
   </node>
   <node id="67284166" lat="41.8342330" lon="14.5999250" version="3" timestamp="2026-04-25T10:41:52Z" changeset="181800321" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="652"/>
@@ -11741,15 +11763,6 @@
     <tag k="population" v="15155"/>
     <tag k="source" v="http://www.tuttitalia.it/puglia/38-surbo/"/>
     <tag k="wikidata" v="Q52204"/>
-  </node>
-  <node id="68529781" lat="39.9835190" lon="18.0868260" version="4" timestamp="2025-01-15T20:18:10Z" changeset="161394465" uid="22387533" user="captaincam">
-    <tag k="gfoss_id" v="6342"/>
-    <tag k="name" v="Taviano"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11376"/>
-    <tag k="population:date" v="2024-10-31"/>
-    <tag k="reg_name" v="Tajanu"/>
-    <tag k="source" v="geodati.gfoss.it;https://demo.istat.it/app/?l=it&amp;a=2024&amp;i=D7B"/>
   </node>
   <node id="68529797" lat="40.1311102" lon="18.1026358" version="6" timestamp="2025-08-19T11:35:21Z" changeset="170664879" uid="1725439" user="Begavil84">
     <tag k="gfoss_id" v="6331"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-01T05:42:35Z" areas="2026-04-30T23:21:36Z"/>
+<meta osm_base="2026-05-02T05:00:29Z" areas="2026-05-01T23:47:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9181,7 +9181,7 @@
     <tag k="population" v="276"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63631867" lat="45.2359501" lon="8.3698748" version="7" timestamp="2023-01-17T19:55:14Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63631867" lat="45.2359665" lon="8.3698729" version="8" timestamp="2026-05-01T07:56:37Z" changeset="182061259" uid="4982687" user="Francoerbi41">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="342"/>
     <tag k="name" v="Costanzana"/>
@@ -14029,20 +14029,31 @@
     <tag k="wikidata" v="Q277362"/>
     <tag k="wikipedia" v="it:Acquaviva Collecroce"/>
   </node>
-  <node id="67283771" lat="41.5562506" lon="14.5585312" version="3" timestamp="2016-09-03T02:35:17Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283771" lat="41.5562506" lon="14.5585312" version="4" timestamp="2026-05-01T11:03:49Z" changeset="182068514" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="756"/>
     <tag k="gfoss_id" v="6017"/>
     <tag k="name" v="Busso"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1412"/>
+    <tag k="population" v="1134"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.busso.cb.it/"/>
+    <tag k="wikidata" v="Q277383"/>
+    <tag k="wikipedia" v="it:Busso"/>
   </node>
-  <node id="67283790" lat="41.5803583" lon="14.5281165" version="4" timestamp="2026-01-22T17:11:47Z" changeset="177573465" uid="1950277" user="Mannivu">
+  <node id="67283790" lat="41.5803583" lon="14.5281165" version="5" timestamp="2026-05-01T09:49:32Z" changeset="182065491" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="662"/>
     <tag k="gfoss_id" v="6024"/>
     <tag k="name" v="Casalciprano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="635"/>
+    <tag k="population" v="422"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023899"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.casalciprano.cb.it/"/>
+    <tag k="wikidata" v="Q277431"/>
+    <tag k="wikipedia" v="it:Casalciprano"/>
   </node>
   <node id="67283792" lat="41.8290511" lon="14.7102914" version="4" timestamp="2026-04-25T11:07:43Z" changeset="181801267" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="692"/>
@@ -14441,12 +14452,18 @@
     <tag k="wikidata" v="Q277486"/>
     <tag k="wikipedia" v="it:Duronia"/>
   </node>
-  <node id="67284045" lat="41.5063250" lon="14.5168270" version="2" timestamp="2016-09-03T02:35:20Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284045" lat="41.5063250" lon="14.5168270" version="3" timestamp="2026-05-01T17:02:11Z" changeset="182084870" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="649"/>
     <tag k="gfoss_id" v="6032"/>
     <tag k="name" v="Colle d'Anchise"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="818"/>
+    <tag k="population" v="707"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.colledanchise.cb.it/"/>
+    <tag k="wikidata" v="Q277474"/>
+    <tag k="wikipedia" v="it:Colle d'Anchise"/>
   </node>
   <node id="67284052" lat="41.6183280" lon="14.5598270" version="4" timestamp="2026-04-29T16:23:40Z" changeset="181997562" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="612"/>
@@ -25224,9 +25241,9 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30024853"/>
   </node>
-  <node id="8222523703" lat="46.1575898" lon="9.6619816" version="4" timestamp="2026-04-29T00:09:07Z" changeset="181964283" uid="10901495" user="user_10901495">
-    <tag k="alt_name" v="Forcola"/>
+  <node id="8222523703" lat="46.1582923" lon="9.6617882" version="5" timestamp="2026-05-01T15:31:06Z" changeset="182080486" uid="10901495" user="user_10901495">
     <tag k="ele" v="285"/>
+    <tag k="fixme" v="Popolare di building questo villaggio"/>
     <tag k="name" v="Sirta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="438"/>
