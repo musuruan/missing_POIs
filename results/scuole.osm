@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-02T05:00:29Z" areas="2026-05-01T23:47:59Z"/>
+<meta osm_base="2026-05-03T05:30:58Z" areas="2026-05-02T22:05:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14100,12 +14100,18 @@
     <tag k="wikidata" v="Q277613"/>
     <tag k="wikipedia" v="it:Guardialfiera"/>
   </node>
-  <node id="67283820" lat="41.4350240" lon="14.5417290" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283820" lat="41.4350240" lon="14.5417290" version="3" timestamp="2026-05-02T19:48:47Z" changeset="182133127" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="730"/>
     <tag k="gfoss_id" v="6040"/>
     <tag k="name" v="Guardiaregia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="783"/>
+    <tag k="population" v="658"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.guardiaregia.cb.it/"/>
+    <tag k="wikidata" v="Q277618"/>
+    <tag k="wikipedia" v="it:Guardiaregia"/>
   </node>
   <node id="67283827" lat="41.5179280" lon="14.7987340" version="3" timestamp="2026-04-16T20:10:53Z" changeset="181430358" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="580"/>
@@ -14360,12 +14366,16 @@
     <tag k="wikidata" v="Q278166"/>
     <tag k="wikipedia" v="it:San Martino in Pensilis"/>
   </node>
-  <node id="67283985" lat="41.4593240" lon="14.4934280" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67283985" lat="41.4593240" lon="14.4934280" version="6" timestamp="2026-05-02T18:16:52Z" changeset="182129671" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="751"/>
     <tag k="gfoss_id" v="6083"/>
     <tag k="name" v="San Polo Matese"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="445"/>
+    <tag k="population" v="483"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.sanpolomatese.cb.it/"/>
     <tag k="wikidata" v="Q278188"/>
     <tag k="wikipedia" v="it:San Polo Matese"/>
   </node>
@@ -14430,12 +14440,16 @@
     <tag k="wikidata" v="Q277418"/>
     <tag k="wikipedia" v="it:Campomarino"/>
   </node>
-  <node id="67284038" lat="41.4475240" lon="14.5089280" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67284038" lat="41.4475240" lon="14.5089280" version="5" timestamp="2026-05-02T18:01:53Z" changeset="182129015" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="750"/>
     <tag k="gfoss_id" v="6019"/>
     <tag k="name" v="Campochiaro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="634"/>
+    <tag k="population" v="554"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.campochiaro.cb.it/"/>
     <tag k="wikidata" v="Q277394"/>
     <tag k="wikipedia" v="it:Campochiaro"/>
   </node>
@@ -14632,12 +14646,18 @@
     <tag k="wikidata" v="Q278282"/>
     <tag k="wikipedia" v="it:Torella del Sannio"/>
   </node>
-  <node id="67284221" lat="41.4929250" lon="14.5907290" version="2" timestamp="2016-09-03T02:35:29Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284221" lat="41.4929250" lon="14.5907290" version="3" timestamp="2026-05-02T12:29:40Z" changeset="182114329" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="620"/>
     <tag k="gfoss_id" v="6096"/>
     <tag k="name" v="Vinchiaturo"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2780"/>
+    <tag k="population" v="3304"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.vinchiaturo.cb.it/"/>
+    <tag k="wikidata" v="Q278271"/>
+    <tag k="wikipedia" v="it:Vinchiaturo"/>
   </node>
   <node id="67284231" lat="41.5217240" lon="14.2923220" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7568"/>
@@ -22536,22 +22556,6 @@
     <tag k="wikipedia" v="it:Genuri"/>
     <tag k="wikipedia:sc" v="Giauni"/>
   </node>
-  <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7438"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Narcau/Narcao"/>
-    <tag k="name:it" v="Narcao"/>
-    <tag k="name:sc" v="Narcau"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3365"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.narcao.ci.it/"/>
-    <tag k="website_1" v="http://www.comunenarcao.it/"/>
-    <tag k="wikidata" v="Q286398"/>
-    <tag k="wikipedia" v="it:Narcao"/>
-    <tag k="wikipedia:sc" v="Narcau"/>
-  </node>
   <node id="72991388" lat="39.6801450" lon="8.9849360" version="40" timestamp="2017-03-03T19:53:52Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7431"/>
     <tag k="name" v="Is Pratzas/Las Plassas"/>
@@ -25224,11 +25228,6 @@
     <tag k="name:it" v="Frassilongo"/>
     <tag k="name:mhn" v="Auserpèrg"/>
     <tag k="place" v="village"/>
-  </node>
-  <node id="7402255447" lat="40.9384755" lon="15.3277502" version="1" timestamp="2020-04-14T14:11:58Z" changeset="83539816" uid="222520" user="Beneretta80">
-    <tag k="name" v="Andretta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1700"/>
   </node>
   <node id="7757111115" lat="38.8233552" lon="16.4263838" version="2" timestamp="2023-04-17T14:34:43Z" changeset="135017967" uid="14295845" user="Rocco_I">
     <tag k="addr:postcode" v="88024"/>

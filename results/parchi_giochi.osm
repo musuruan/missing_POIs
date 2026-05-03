@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-02T04:58:22Z" areas="2026-05-01T23:47:59Z"/>
+<meta osm_base="2026-05-03T05:28:00Z" areas="2026-05-03T00:50:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6086,14 +6086,6 @@
     <tag k="population" v="2927"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630506" lat="44.8031370" lon="7.2467180" version="5" timestamp="2025-09-05T11:59:29Z" changeset="171494950" uid="21748492" user="Yurii Skvortsov">
-    <tag k="gfoss_id" v="140"/>
-    <tag k="name" v="Lusernetta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="496"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026795"/>
-  </node>
   <node id="63630514" lat="45.0579638" lon="7.8736947" version="6" timestamp="2025-12-01T15:43:44Z" changeset="175364583" uid="9265159" user="grawal">
     <tag k="gfoss_id" v="144"/>
     <tag k="name" v="Marentino"/>
@@ -11735,12 +11727,18 @@
     <tag k="wikidata" v="Q277613"/>
     <tag k="wikipedia" v="it:Guardialfiera"/>
   </node>
-  <node id="67283820" lat="41.4350240" lon="14.5417290" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283820" lat="41.4350240" lon="14.5417290" version="3" timestamp="2026-05-02T19:48:47Z" changeset="182133127" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="730"/>
     <tag k="gfoss_id" v="6040"/>
     <tag k="name" v="Guardiaregia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="783"/>
+    <tag k="population" v="658"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.guardiaregia.cb.it/"/>
+    <tag k="wikidata" v="Q277618"/>
+    <tag k="wikipedia" v="it:Guardiaregia"/>
   </node>
   <node id="67283827" lat="41.5179280" lon="14.7987340" version="3" timestamp="2026-04-16T20:10:53Z" changeset="181430358" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="580"/>
@@ -11992,12 +11990,16 @@
     <tag k="wikidata" v="Q278166"/>
     <tag k="wikipedia" v="it:San Martino in Pensilis"/>
   </node>
-  <node id="67283985" lat="41.4593240" lon="14.4934280" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67283985" lat="41.4593240" lon="14.4934280" version="6" timestamp="2026-05-02T18:16:52Z" changeset="182129671" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="751"/>
     <tag k="gfoss_id" v="6083"/>
     <tag k="name" v="San Polo Matese"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="445"/>
+    <tag k="population" v="483"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.sanpolomatese.cb.it/"/>
     <tag k="wikidata" v="Q278188"/>
     <tag k="wikipedia" v="it:San Polo Matese"/>
   </node>
@@ -12069,12 +12071,16 @@
     <tag k="wikidata" v="Q277437"/>
     <tag k="wikipedia" v="it:Castelbottaccio"/>
   </node>
-  <node id="67284038" lat="41.4475240" lon="14.5089280" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67284038" lat="41.4475240" lon="14.5089280" version="5" timestamp="2026-05-02T18:01:53Z" changeset="182129015" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="750"/>
     <tag k="gfoss_id" v="6019"/>
     <tag k="name" v="Campochiaro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="634"/>
+    <tag k="population" v="554"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.campochiaro.cb.it/"/>
     <tag k="wikidata" v="Q277394"/>
     <tag k="wikipedia" v="it:Campochiaro"/>
   </node>
@@ -12336,12 +12342,18 @@
     <tag k="wikidata" v="Q278282"/>
     <tag k="wikipedia" v="it:Torella del Sannio"/>
   </node>
-  <node id="67284221" lat="41.4929250" lon="14.5907290" version="2" timestamp="2016-09-03T02:35:29Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284221" lat="41.4929250" lon="14.5907290" version="3" timestamp="2026-05-02T12:29:40Z" changeset="182114329" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="620"/>
     <tag k="gfoss_id" v="6096"/>
     <tag k="name" v="Vinchiaturo"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2780"/>
+    <tag k="population" v="3304"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.vinchiaturo.cb.it/"/>
+    <tag k="wikidata" v="Q278271"/>
+    <tag k="wikipedia" v="it:Vinchiaturo"/>
   </node>
   <node id="67284231" lat="41.5217240" lon="14.2923220" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7568"/>

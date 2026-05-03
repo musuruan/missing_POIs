@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-02T04:56:17Z" areas="2026-05-01T23:43:00Z"/>
+<meta osm_base="2026-05-03T05:27:00Z" areas="2026-05-03T00:50:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4930,12 +4930,18 @@
     <tag k="wikidata" v="Q277613"/>
     <tag k="wikipedia" v="it:Guardialfiera"/>
   </node>
-  <node id="67283820" lat="41.4350240" lon="14.5417290" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283820" lat="41.4350240" lon="14.5417290" version="3" timestamp="2026-05-02T19:48:47Z" changeset="182133127" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="730"/>
     <tag k="gfoss_id" v="6040"/>
     <tag k="name" v="Guardiaregia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="783"/>
+    <tag k="population" v="658"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.guardiaregia.cb.it/"/>
+    <tag k="wikidata" v="Q277618"/>
+    <tag k="wikipedia" v="it:Guardiaregia"/>
   </node>
   <node id="67283836" lat="41.6763300" lon="14.6224280" version="4" timestamp="2026-04-28T12:35:55Z" changeset="181938719" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="586"/>
@@ -5158,12 +5164,16 @@
     <tag k="wikidata" v="Q277400"/>
     <tag k="wikipedia" v="it:Campodipietra"/>
   </node>
-  <node id="67284038" lat="41.4475240" lon="14.5089280" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67284038" lat="41.4475240" lon="14.5089280" version="5" timestamp="2026-05-02T18:01:53Z" changeset="182129015" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="750"/>
     <tag k="gfoss_id" v="6019"/>
     <tag k="name" v="Campochiaro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="634"/>
+    <tag k="population" v="554"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.campochiaro.cb.it/"/>
     <tag k="wikidata" v="Q277394"/>
     <tag k="wikipedia" v="it:Campochiaro"/>
   </node>
@@ -7095,12 +7105,13 @@
     <tag k="population" v="4115"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582361" lat="40.2659861" lon="15.0154990" version="3" timestamp="2016-08-30T01:07:13Z" changeset="41791239" uid="743479" user="fayor">
+  <node id="68582361" lat="40.2659861" lon="15.0154990" version="4" timestamp="2026-05-02T20:22:54Z" changeset="182134155" uid="7295" user="elgolfo">
     <tag k="gfoss_id" v="5640"/>
     <tag k="name" v="Perdifumo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1866"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q81283"/>
   </node>
   <node id="68582371" lat="40.2977050" lon="15.1476570" version="2" timestamp="2016-08-30T01:07:13Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5641"/>

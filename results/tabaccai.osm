@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-02T04:59:25Z" areas="2026-05-01T23:47:59Z"/>
+<meta osm_base="2026-05-03T05:30:00Z" areas="2026-05-03T00:50:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -28142,12 +28142,18 @@
     <tag k="wikidata" v="Q277613"/>
     <tag k="wikipedia" v="it:Guardialfiera"/>
   </node>
-  <node id="67283820" lat="41.4350240" lon="14.5417290" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283820" lat="41.4350240" lon="14.5417290" version="3" timestamp="2026-05-02T19:48:47Z" changeset="182133127" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="730"/>
     <tag k="gfoss_id" v="6040"/>
     <tag k="name" v="Guardiaregia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="783"/>
+    <tag k="population" v="658"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.guardiaregia.cb.it/"/>
+    <tag k="wikidata" v="Q277618"/>
+    <tag k="wikipedia" v="it:Guardiaregia"/>
   </node>
   <node id="67283827" lat="41.5179280" lon="14.7987340" version="3" timestamp="2026-04-16T20:10:53Z" changeset="181430358" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="580"/>
@@ -28451,12 +28457,16 @@
     <tag k="wikidata" v="Q278199"/>
     <tag k="wikipedia" v="it:Sant'Angelo Limosano"/>
   </node>
-  <node id="67283985" lat="41.4593240" lon="14.4934280" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67283985" lat="41.4593240" lon="14.4934280" version="6" timestamp="2026-05-02T18:16:52Z" changeset="182129671" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="751"/>
     <tag k="gfoss_id" v="6083"/>
     <tag k="name" v="San Polo Matese"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="445"/>
+    <tag k="population" v="483"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.sanpolomatese.cb.it/"/>
     <tag k="wikidata" v="Q278188"/>
     <tag k="wikipedia" v="it:San Polo Matese"/>
   </node>
@@ -28572,12 +28582,16 @@
     <tag k="wikidata" v="Q277400"/>
     <tag k="wikipedia" v="it:Campodipietra"/>
   </node>
-  <node id="67284038" lat="41.4475240" lon="14.5089280" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67284038" lat="41.4475240" lon="14.5089280" version="5" timestamp="2026-05-02T18:01:53Z" changeset="182129015" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="750"/>
     <tag k="gfoss_id" v="6019"/>
     <tag k="name" v="Campochiaro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="634"/>
+    <tag k="population" v="554"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.campochiaro.cb.it/"/>
     <tag k="wikidata" v="Q277394"/>
     <tag k="wikipedia" v="it:Campochiaro"/>
   </node>
@@ -28872,12 +28886,18 @@
     <tag k="wikidata" v="Q278282"/>
     <tag k="wikipedia" v="it:Torella del Sannio"/>
   </node>
-  <node id="67284221" lat="41.4929250" lon="14.5907290" version="2" timestamp="2016-09-03T02:35:29Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284221" lat="41.4929250" lon="14.5907290" version="3" timestamp="2026-05-02T12:29:40Z" changeset="182114329" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="620"/>
     <tag k="gfoss_id" v="6096"/>
     <tag k="name" v="Vinchiaturo"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2780"/>
+    <tag k="population" v="3304"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.vinchiaturo.cb.it/"/>
+    <tag k="wikidata" v="Q278271"/>
+    <tag k="wikipedia" v="it:Vinchiaturo"/>
   </node>
   <node id="67284224" lat="41.7814070" lon="14.5511246" version="13" timestamp="2026-04-27T16:45:02Z" changeset="181900716" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="599"/>
@@ -33774,12 +33794,13 @@
     <tag k="population" v="10965"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68582361" lat="40.2659861" lon="15.0154990" version="3" timestamp="2016-08-30T01:07:13Z" changeset="41791239" uid="743479" user="fayor">
+  <node id="68582361" lat="40.2659861" lon="15.0154990" version="4" timestamp="2026-05-02T20:22:54Z" changeset="182134155" uid="7295" user="elgolfo">
     <tag k="gfoss_id" v="5640"/>
     <tag k="name" v="Perdifumo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1866"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q81283"/>
   </node>
   <node id="68582371" lat="40.2977050" lon="15.1476570" version="2" timestamp="2016-08-30T01:07:13Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5641"/>
@@ -36904,7 +36925,7 @@
     <tag k="population" v="3913"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70991733" lat="42.2282241" lon="14.2450948" version="4" timestamp="2024-08-25T11:05:22Z" changeset="155731433" uid="1940323" user="SekeRob">
+  <node id="70991733" lat="42.2282241" lon="14.2450948" version="5" timestamp="2026-05-02T08:44:10Z" changeset="182105872" uid="9451067" user="b-jazz-bot">
     <tag k="check_date" v="2022-12-31"/>
     <tag k="ele" v="403"/>
     <tag k="gfoss_id" v="5940"/>
@@ -36912,7 +36933,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="854"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.filetto.ch.it/hh/index.php"/>
+    <tag k="website" v="https://www.comune.filetto.ch.it/hh/index.php"/>
     <tag k="wikidata" v="Q51222"/>
     <tag k="wikipedia" v="it:Filetto (Italia)"/>
   </node>
@@ -40596,21 +40617,6 @@
     <tag k="wikidata" v="Q284481"/>
     <tag k="wikipedia" v="sc:Pramantellu"/>
   </node>
-  <node id="72990947" lat="39.1529330" lon="8.7381390" version="40" timestamp="2023-10-23T17:03:06Z" changeset="143027498" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7440"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Nuxis"/>
-    <tag k="name:it" v="Nuxis"/>
-    <tag k="name:sc" v="Nuxis"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1703"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.nuxis.ci.it/"/>
-    <tag k="wikidata" v="Q286411"/>
-    <tag k="wikipedia" v="it:Nuxis"/>
-    <tag k="wikipedia:sc" v="Nuxis"/>
-  </node>
   <node id="72990967" lat="39.2070310" lon="8.3809310" version="42" timestamp="2023-04-22T19:47:35Z" changeset="135241553" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7446"/>
     <tag k="name" v="Portescusi/Portoscuso"/>
@@ -40655,21 +40661,6 @@
     <tag k="wikidata" v="Q288155"/>
     <tag k="wikipedia" v="it:Sardara"/>
     <tag k="wikipedia:sc" v="Sàrdara"/>
-  </node>
-  <node id="72991030" lat="39.0918320" lon="8.7164390" version="40" timestamp="2017-03-03T19:53:48Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7457"/>
-    <tag k="name" v="Santadi"/>
-    <tag k="name:it" v="Santadi"/>
-    <tag k="name:sc" v="Santadi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3767"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="ref:LOCODE" v="ITZTH"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.santadi.ci.it"/>
-    <tag k="wikidata" v="Q286671"/>
-    <tag k="wikipedia" v="it:Santadi"/>
-    <tag k="wikipedia:sc" v="Santadi"/>
   </node>
   <node id="72991035" lat="39.4778583" lon="9.1702544" version="42" timestamp="2023-11-08T15:07:14Z" changeset="143785150" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7458"/>
@@ -40803,22 +40794,6 @@
     <tag k="website" v="https://www.comune.domusdemaria.ca.it/"/>
     <tag k="wikidata" v="Q283882"/>
     <tag k="wikipedia" v="it:Domus de Maria"/>
-  </node>
-  <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7438"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Narcau/Narcao"/>
-    <tag k="name:it" v="Narcao"/>
-    <tag k="name:sc" v="Narcau"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3365"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.narcao.ci.it/"/>
-    <tag k="website_1" v="http://www.comunenarcao.it/"/>
-    <tag k="wikidata" v="Q286398"/>
-    <tag k="wikipedia" v="it:Narcao"/>
-    <tag k="wikipedia:sc" v="Narcau"/>
   </node>
   <node id="72991414" lat="39.0074330" lon="9.0016460" version="48" timestamp="2026-03-22T23:13:00Z" changeset="180275780" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="addr:postcode" v="09050"/>
@@ -45075,17 +45050,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="7310"/>
     <tag k="reg_name:el-it" v="Kalimèra"/>
-  </node>
-  <node id="2670867786" lat="41.2886250" lon="15.7680575" version="3" timestamp="2026-04-15T10:35:52Z" changeset="181359849" uid="20397427" user="RUGGERO DEL VECCHIO">
-    <tag k="ele" v="107"/>
-    <tag k="name" v="Stornara"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5778"/>
-    <tag k="population:date" v="2025-12-31"/>
-    <tag k="source:population" v="wikipedia"/>
-    <tag k="website" v="https://www.comune.stornara.fg.it/it"/>
-    <tag k="wikidata" v="Q51962"/>
-    <tag k="wikipedia" v="it:Stornara"/>
   </node>
   <node id="2670875919" lat="42.4187606" lon="12.2343075" version="4" timestamp="2023-10-11T08:01:22Z" changeset="142424527" uid="3860151" user="Michele Aquilani">
     <tag k="name" v="Soriano nel Cimino"/>
