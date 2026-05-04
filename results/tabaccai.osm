@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-03T05:30:00Z" areas="2026-05-03T00:50:15Z"/>
+<meta osm_base="2026-05-04T05:33:58Z" areas="2026-05-04T02:45:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1651,12 +1651,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025120"/>
   </node>
-  <node id="62506394" lat="45.6229111" lon="9.6631272" version="4" timestamp="2020-05-27T05:02:18Z" changeset="85805667" uid="478872" user="mcheck">
+  <node id="62506394" lat="45.6229111" lon="9.6631272" version="5" timestamp="2026-05-03T16:07:19Z" changeset="182167316" uid="1950277" user="Mannivu">
     <tag k="name" v="Comun Nuovo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4397"/>
-    <tag k="wikidata" v="Q100404"/>
-    <tag k="wikipedia" v="it:Comun Nuovo"/>
+    <tag k="wikidata" v="Q30025014"/>
   </node>
   <node id="62506402" lat="45.8160270" lon="9.8558653" version="6" timestamp="2025-10-11T14:02:45Z" changeset="173138910" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2004"/>
@@ -28075,19 +28074,31 @@
     <tag k="wikidata" v="Q277449"/>
     <tag k="wikipedia" v="it:Castelmauro"/>
   </node>
-  <node id="67283794" lat="41.4613260" lon="14.7231330" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283794" lat="41.4613260" lon="14.7231330" version="3" timestamp="2026-05-03T10:41:05Z" changeset="182153021" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="930"/>
     <tag k="gfoss_id" v="6029"/>
     <tag k="name" v="Cercemaggiore"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4272"/>
+    <tag k="population" v="3521"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.cercemaggiore.cb.it/"/>
+    <tag k="wikidata" v="Q277460"/>
+    <tag k="wikipedia" v="it:Cercemaggiore"/>
   </node>
-  <node id="67283798" lat="41.4601250" lon="14.6654310" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283798" lat="41.4601250" lon="14.6654310" version="3" timestamp="2026-05-03T20:53:23Z" changeset="182178620" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="680"/>
     <tag k="gfoss_id" v="6030"/>
     <tag k="name" v="Cercepiccola"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="727"/>
+    <tag k="population" v="665"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.cercepiccola.cb.it/"/>
+    <tag k="wikidata" v="Q277464"/>
+    <tag k="wikipedia" v="it:Cercepiccola"/>
   </node>
   <node id="67283799" lat="41.7807189" lon="14.6890111" version="7" timestamp="2026-04-25T11:10:37Z" changeset="181801404" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="520"/>
@@ -45165,12 +45176,18 @@
     <tag k="wikidata" v="Q157880"/>
     <tag k="wikipedia" v="it:Sassetta (Italia)"/>
   </node>
-  <node id="2856932945" lat="41.4839760" lon="14.8350835" version="14" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
+  <node id="2856932945" lat="41.4839760" lon="14.8350835" version="15" timestamp="2026-05-03T12:07:39Z" changeset="182156472" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="665"/>
     <tag k="gfoss_id" v="6069"/>
     <tag k="name" v="Riccia"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="5701"/>
+    <tag k="population" v="4641"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.riccia.cb.it/"/>
+    <tag k="wikidata" v="Q277925"/>
+    <tag k="wikipedia" v="it:Riccia"/>
   </node>
   <node id="2889953902" lat="45.8128922" lon="8.9286792" version="3" timestamp="2022-07-26T09:55:43Z" changeset="124087284" uid="11220113" user="ivanbranco">
     <tag k="name" v="Caversaccio"/>

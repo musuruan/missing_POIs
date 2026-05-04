@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-03T05:28:00Z" areas="2026-05-03T00:50:15Z"/>
+<meta osm_base="2026-05-04T05:33:02Z" areas="2026-05-04T02:45:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8770,16 +8770,6 @@
     <tag k="population" v="851"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67255125" lat="37.9876331" lon="14.9096799" version="16" timestamp="2025-04-13T06:17:08Z" changeset="164880366" uid="923271" user="aldoct">
-    <tag k="alt_name:scn" v="Fluresta"/>
-    <tag k="ele" v="1270"/>
-    <tag k="name" v="Floresta"/>
-    <tag k="name:scn" v="a Furesta"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="472"/>
-    <tag k="short_name:scn" v="Furesta"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
   <node id="67255220" lat="38.1234806" lon="15.0608492" version="18" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
     <tag k="ele" v="5"/>
     <tag k="name" v="Oliveri"/>
@@ -11689,19 +11679,31 @@
     <tag k="wikidata" v="Q277449"/>
     <tag k="wikipedia" v="it:Castelmauro"/>
   </node>
-  <node id="67283794" lat="41.4613260" lon="14.7231330" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283794" lat="41.4613260" lon="14.7231330" version="3" timestamp="2026-05-03T10:41:05Z" changeset="182153021" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="930"/>
     <tag k="gfoss_id" v="6029"/>
     <tag k="name" v="Cercemaggiore"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4272"/>
+    <tag k="population" v="3521"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.cercemaggiore.cb.it/"/>
+    <tag k="wikidata" v="Q277460"/>
+    <tag k="wikipedia" v="it:Cercemaggiore"/>
   </node>
-  <node id="67283798" lat="41.4601250" lon="14.6654310" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283798" lat="41.4601250" lon="14.6654310" version="3" timestamp="2026-05-03T20:53:23Z" changeset="182178620" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="680"/>
     <tag k="gfoss_id" v="6030"/>
     <tag k="name" v="Cercepiccola"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="727"/>
+    <tag k="population" v="665"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.cercepiccola.cb.it/"/>
+    <tag k="wikidata" v="Q277464"/>
+    <tag k="wikipedia" v="it:Cercepiccola"/>
   </node>
   <node id="67283804" lat="41.6629186" lon="14.9733645" version="4" timestamp="2026-04-15T12:31:47Z" changeset="181364739" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="515"/>
@@ -12024,12 +12026,16 @@
     <tag k="population" v="1120"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67284013" lat="41.4080240" lon="14.6183310" version="3" timestamp="2024-08-16T22:23:25Z" changeset="155349180" uid="12638075" user="elucci">
+  <node id="67284013" lat="41.4080240" lon="14.6183310" version="4" timestamp="2026-05-03T09:12:33Z" changeset="182149731" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="698"/>
     <tag k="gfoss_id" v="6087"/>
     <tag k="name" v="Sepino"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2177"/>
+    <tag k="population" v="1809"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.sepino.cb.it/"/>
     <tag k="wikidata" v="Q278225"/>
     <tag k="wikipedia" v="it:Sepino"/>
   </node>
@@ -19756,21 +19762,6 @@
     <tag k="wikidata" v="Q284802"/>
     <tag k="wikipedia" v="sc:Samatzai"/>
     <tag k="wikipedia:it" v="Samatzai"/>
-  </node>
-  <node id="72991030" lat="39.0918320" lon="8.7164390" version="40" timestamp="2017-03-03T19:53:48Z" changeset="46557134" uid="454589" user="sabas88">
-    <tag k="gfoss_id" v="7457"/>
-    <tag k="name" v="Santadi"/>
-    <tag k="name:it" v="Santadi"/>
-    <tag k="name:sc" v="Santadi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3767"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="ref:LOCODE" v="ITZTH"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.santadi.ci.it"/>
-    <tag k="wikidata" v="Q286671"/>
-    <tag k="wikipedia" v="it:Santadi"/>
-    <tag k="wikipedia:sc" v="Santadi"/>
   </node>
   <node id="72991035" lat="39.4778583" lon="9.1702544" version="42" timestamp="2023-11-08T15:07:14Z" changeset="143785150" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7458"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-03T05:23:51Z" areas="2026-05-02T22:05:44Z"/>
+<meta osm_base="2026-05-04T05:26:59Z" areas="2026-05-04T02:45:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2708,12 +2708,18 @@
     <tag k="wikidata" v="Q277362"/>
     <tag k="wikipedia" v="it:Acquaviva Collecroce"/>
   </node>
-  <node id="67283798" lat="41.4601250" lon="14.6654310" version="2" timestamp="2016-09-03T02:35:19Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67283798" lat="41.4601250" lon="14.6654310" version="3" timestamp="2026-05-03T20:53:23Z" changeset="182178620" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="680"/>
     <tag k="gfoss_id" v="6030"/>
     <tag k="name" v="Cercepiccola"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="727"/>
+    <tag k="population" v="665"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.cercepiccola.cb.it/"/>
+    <tag k="wikidata" v="Q277464"/>
+    <tag k="wikipedia" v="it:Cercepiccola"/>
   </node>
   <node id="67283836" lat="41.6763300" lon="14.6224280" version="4" timestamp="2026-04-28T12:35:55Z" changeset="181938719" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="586"/>
@@ -6468,12 +6474,18 @@
     <tag k="wikidata" v="Q54621"/>
     <tag k="wikipedia" v="it:Marina di Gioiosa Ionica"/>
   </node>
-  <node id="2856932945" lat="41.4839760" lon="14.8350835" version="14" timestamp="2020-08-31T05:27:50Z" changeset="90167146" uid="7022493" user="Fra00">
+  <node id="2856932945" lat="41.4839760" lon="14.8350835" version="15" timestamp="2026-05-03T12:07:39Z" changeset="182156472" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="665"/>
     <tag k="gfoss_id" v="6069"/>
     <tag k="name" v="Riccia"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="5701"/>
+    <tag k="population" v="4641"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.riccia.cb.it/"/>
+    <tag k="wikidata" v="Q277925"/>
+    <tag k="wikipedia" v="it:Riccia"/>
   </node>
   <node id="3007609238" lat="40.9494876" lon="14.7448045" version="3" timestamp="2020-10-29T12:02:49Z" changeset="93235365" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="5534"/>
