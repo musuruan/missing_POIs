@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-04T05:35:02Z" areas="2026-05-04T02:45:46Z"/>
+<meta osm_base="2026-05-05T05:03:15Z" areas="2026-05-05T02:43:58Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14537,6 +14537,19 @@
     <tag k="wikidata" v="Q277580"/>
     <tag k="wikipedia" v="it:Fossalto"/>
   </node>
+  <node id="67284097" lat="41.5847646" lon="14.5875020" version="5" timestamp="2026-05-01T09:43:14Z" changeset="182065264" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="795"/>
+    <tag k="gfoss_id" v="6061"/>
+    <tag k="name" v="Oratino"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1667"/>
+    <tag k="population:date" v="2026-01-31"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.oratino.cb.it/"/>
+    <tag k="wikidata" v="Q277839"/>
+    <tag k="wikipedia" v="it:Oratino"/>
+  </node>
   <node id="67284103" lat="41.6825290" lon="14.5193250" version="4" timestamp="2026-04-29T09:28:37Z" changeset="181978778" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="695"/>
     <tag k="gfoss_id" v="6066"/>
@@ -16731,13 +16744,6 @@
     <tag k="name" v="San Lupo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="877"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68569133" lat="41.3106067" lon="14.8789437" version="5" timestamp="2023-12-01T14:41:53Z" changeset="144665033" uid="3731185" user="giorgio92">
-    <tag k="gfoss_id" v="5324"/>
-    <tag k="name" v="San Marco dei Cavoti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3752"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68569197" lat="41.0691180" lon="14.8037400" version="2" timestamp="2016-09-01T23:10:13Z" changeset="41859282" uid="743479" user="fayor">
