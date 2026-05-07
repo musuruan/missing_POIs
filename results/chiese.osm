@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-06T05:23:44Z" areas="2026-05-06T03:41:15Z"/>
+<meta osm_base="2026-05-07T05:30:49Z" areas="2026-05-06T21:53:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2772,12 +2772,18 @@
     <tag k="wikidata" v="Q278166"/>
     <tag k="wikipedia" v="it:San Martino in Pensilis"/>
   </node>
-  <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="Tri38">
+  <node id="67284001" lat="41.4817302" lon="14.9467897" version="5" timestamp="2026-05-06T07:31:57Z" changeset="182281520" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="420"/>
     <tag k="gfoss_id" v="6094"/>
     <tag k="name" v="Tufara"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1120"/>
+    <tag k="population" v="743"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.tufara.cb.it/"/>
+    <tag k="wikidata" v="Q278381"/>
+    <tag k="wikipedia" v="it:Tufara"/>
   </node>
   <node id="67284032" lat="41.5570280" lon="14.7460320" version="3" timestamp="2026-04-16T13:02:51Z" changeset="181412974" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="520"/>
@@ -6494,12 +6500,18 @@
     <tag k="population" v="1563"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="3188242765" lat="41.5159688" lon="14.6725087" version="5" timestamp="2016-09-03T02:35:22Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="3188242765" lat="41.5159688" lon="14.6725087" version="6" timestamp="2026-05-06T17:40:16Z" changeset="182306524" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="593"/>
     <tag k="gfoss_id" v="6050"/>
     <tag k="name" v="Mirabello Sannitico"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1812"/>
+    <tag k="population" v="2030"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.mirabellosannitico.cb.it/"/>
+    <tag k="wikidata" v="Q277693"/>
+    <tag k="wikipedia" v="it:Mirabello Sannitico"/>
   </node>
   <node id="3914315265" lat="45.8603334" lon="11.8952132" version="4" timestamp="2026-01-19T15:15:20Z" changeset="177434270" uid="4365159" user="wildmaps">
     <tag k="ele" v="265"/>

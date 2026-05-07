@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-06T05:26:42Z" areas="2026-05-06T03:41:15Z"/>
+<meta osm_base="2026-05-07T05:35:59Z" areas="2026-05-06T21:53:01Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -12007,12 +12007,18 @@
     <tag k="wikidata" v="Q278259"/>
     <tag k="wikipedia" v="it:Tavenna"/>
   </node>
-  <node id="67284001" lat="41.4817302" lon="14.9467897" version="4" timestamp="2025-09-24T18:58:46Z" changeset="172408492" uid="34088" user="Tri38">
+  <node id="67284001" lat="41.4817302" lon="14.9467897" version="5" timestamp="2026-05-06T07:31:57Z" changeset="182281520" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="420"/>
     <tag k="gfoss_id" v="6094"/>
     <tag k="name" v="Tufara"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1120"/>
+    <tag k="population" v="743"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.tufara.cb.it/"/>
+    <tag k="wikidata" v="Q278381"/>
+    <tag k="wikipedia" v="it:Tufara"/>
   </node>
   <node id="67284013" lat="41.4080240" lon="14.6183310" version="4" timestamp="2026-05-03T09:12:33Z" changeset="182149731" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="698"/>
