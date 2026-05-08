@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-07T05:33:54Z" areas="2026-05-06T21:53:01Z"/>
+<meta osm_base="2026-05-08T04:53:06Z" areas="2026-05-07T21:32:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4921,19 +4921,6 @@
     <tag k="wikidata" v="Q277613"/>
     <tag k="wikipedia" v="it:Guardialfiera"/>
   </node>
-  <node id="67283820" lat="41.4350240" lon="14.5417290" version="3" timestamp="2026-05-02T19:48:47Z" changeset="182133127" uid="20397427" user="RUGGERO DEL VECCHIO">
-    <tag k="ele" v="730"/>
-    <tag k="gfoss_id" v="6040"/>
-    <tag k="name" v="Guardiaregia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="658"/>
-    <tag k="population:date" v="2026-01-31"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia"/>
-    <tag k="website" v="https://www.comune.guardiaregia.cb.it/"/>
-    <tag k="wikidata" v="Q277618"/>
-    <tag k="wikipedia" v="it:Guardiaregia"/>
-  </node>
   <node id="67283836" lat="41.6763300" lon="14.6224280" version="4" timestamp="2026-04-28T12:35:55Z" changeset="181938719" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="586"/>
     <tag k="gfoss_id" v="6044"/>
@@ -5174,12 +5161,18 @@
     <tag k="wikidata" v="Q277394"/>
     <tag k="wikipedia" v="it:Campochiaro"/>
   </node>
-  <node id="67284075" lat="41.5101270" lon="14.7392320" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284075" lat="41.5101270" lon="14.7392320" version="3" timestamp="2026-05-07T12:56:12Z" changeset="182337947" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="608"/>
     <tag k="gfoss_id" v="6038"/>
     <tag k="name" v="Gildone"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="859"/>
+    <tag k="population" v="703"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.gildone.cb.it/"/>
+    <tag k="wikidata" v="Q277596"/>
+    <tag k="wikipedia" v="it:Gildone (Italia)"/>
   </node>
   <node id="67284086" lat="41.6729290" lon="14.5457260" version="3" timestamp="2026-04-29T09:43:04Z" changeset="181979361" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="511"/>
@@ -8370,13 +8363,13 @@
     <tag k="wikimedia_commons" v="Category:Affile"/>
     <tag k="wikipedia" v="it:Affile"/>
   </node>
-  <node id="72963163" lat="42.1401497" lon="12.5402010" version="5" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
+  <node id="72963163" lat="42.1401497" lon="12.5402010" version="6" timestamp="2026-05-07T09:14:49Z" changeset="182328823" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="4929"/>
     <tag k="name" v="Capena"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10592"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.capena.rm.it/"/>
+    <tag k="website" v="https://www.comune.capena.rm.it/"/>
     <tag k="wikidata" v="Q241968"/>
     <tag k="wikimedia_commons" v="Category:Capena"/>
     <tag k="wikipedia" v="it:Capena"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-07T05:29:43Z" areas="2026-05-06T21:49:59Z"/>
+<meta osm_base="2026-05-08T04:47:00Z" areas="2026-05-07T23:24:27Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10604,12 +10604,18 @@
     <tag k="wikidata" v="Q176281"/>
     <tag k="wikipedia" v="it:Lupara (Italia)"/>
   </node>
-  <node id="67284075" lat="41.5101270" lon="14.7392320" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284075" lat="41.5101270" lon="14.7392320" version="3" timestamp="2026-05-07T12:56:12Z" changeset="182337947" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="608"/>
     <tag k="gfoss_id" v="6038"/>
     <tag k="name" v="Gildone"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="859"/>
+    <tag k="population" v="703"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.gildone.cb.it/"/>
+    <tag k="wikidata" v="Q277596"/>
+    <tag k="wikipedia" v="it:Gildone (Italia)"/>
   </node>
   <node id="67284126" lat="41.9417360" lon="14.7132260" version="3" timestamp="2026-04-25T11:04:50Z" changeset="181801146" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="460"/>
@@ -13584,7 +13590,7 @@
     <tag k="population" v="7126"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300461" lat="44.6776083" lon="11.0436236" version="9" timestamp="2017-09-10T08:19:13Z" changeset="51900579" uid="339581" user="nyuriks">
+  <node id="69300461" lat="44.6776083" lon="11.0436236" version="10" timestamp="2026-05-07T05:53:39Z" changeset="182322148" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="20"/>
     <tag k="gfoss_id" v="4006"/>
     <tag k="name" v="Nonantola"/>
@@ -13595,7 +13601,7 @@
     <tag k="ref:ISTAT" v="036027"/>
     <tag k="ref:catasto" v="F930"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.nonantola.mo.it/"/>
+    <tag k="website" v="https://www.comune.nonantola.mo.it/"/>
     <tag k="wikidata" v="Q100080"/>
     <tag k="wikipedia" v="it:Nonantola"/>
   </node>
@@ -13754,7 +13760,7 @@
     <tag k="wikidata" v="Q100108"/>
     <tag k="wikipedia" v="it:Soliera"/>
   </node>
-  <node id="69300594" lat="44.7269690" lon="10.9986000" version="9" timestamp="2017-03-07T17:05:59Z" changeset="46657212" uid="354284" user="sbiribizio">
+  <node id="69300594" lat="44.7269690" lon="10.9986000" version="10" timestamp="2026-05-07T05:57:46Z" changeset="182322254" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="27"/>
     <tag k="gfoss_id" v="3980"/>
     <tag k="name" v="Bastiglia"/>
@@ -13766,7 +13772,7 @@
     <tag k="ref:LOCODE" v="ITBTG"/>
     <tag k="ref:catasto" v="A713"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bastiglia.mo.it/"/>
+    <tag k="website" v="https://www.comune.bastiglia.mo.it/"/>
     <tag k="wikidata" v="Q100036"/>
     <tag k="wikipedia" v="it:Bastiglia (Italia)"/>
   </node>
@@ -13778,7 +13784,7 @@
     <tag k="population" v="2719"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300640" lat="44.7240342" lon="11.0998110" version="10" timestamp="2022-02-19T22:34:47Z" changeset="117621453" uid="1834719" user="LvdT">
+  <node id="69300640" lat="44.7240342" lon="11.0998110" version="11" timestamp="2026-05-07T05:57:09Z" changeset="182322232" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="23"/>
     <tag k="gfoss_id" v="4013"/>
     <tag k="name" v="Ravarino"/>
@@ -13790,7 +13796,7 @@
     <tag k="ref:LOCODE" v="ITRAV"/>
     <tag k="ref:catasto" v="H195"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.ravarino.mo.it/"/>
+    <tag k="website" v="https://www.comune.ravarino.mo.it/"/>
     <tag k="wikidata" v="Q100089"/>
     <tag k="wikipedia" v="it:Ravarino"/>
   </node>
@@ -13809,7 +13815,7 @@
     <tag k="wikidata" v="Q100083"/>
     <tag k="wikipedia" v="it:Palagano"/>
   </node>
-  <node id="69300679" lat="44.5611362" lon="11.0332180" version="11" timestamp="2017-09-10T08:19:19Z" changeset="51900579" uid="339581" user="nyuriks">
+  <node id="69300679" lat="44.5611362" lon="11.0332180" version="12" timestamp="2026-05-07T05:58:54Z" changeset="182322278" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="54"/>
     <tag k="gfoss_id" v="4015"/>
     <tag k="name" v="San Cesario sul Panaro"/>
@@ -13821,7 +13827,7 @@
     <tag k="ref:LOCODE" v="ITSCS"/>
     <tag k="ref:catasto" v="H794"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.sancesariosulpanaro.mo.it/"/>
+    <tag k="website" v="https://www.comune.sancesariosulpanaro.mo.it/"/>
     <tag k="wikidata" v="Q100092"/>
     <tag k="wikipedia" v="it:San Cesario sul Panaro"/>
   </node>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-07T05:43:00Z" areas="2026-05-06T21:53:01Z"/>
+<meta osm_base="2026-05-08T05:02:15Z" areas="2026-05-07T21:32:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -14131,13 +14131,13 @@
     <tag k="wikidata" v="Q277618"/>
     <tag k="wikipedia" v="it:Guardiaregia"/>
   </node>
-  <node id="67283827" lat="41.5179280" lon="14.7987340" version="3" timestamp="2026-04-16T20:10:53Z" changeset="181430358" uid="20397427" user="RUGGERO DEL VECCHIO">
+  <node id="67283827" lat="41.5179280" lon="14.7987340" version="4" timestamp="2026-05-07T15:32:50Z" changeset="182344921" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="580"/>
     <tag k="gfoss_id" v="6042"/>
     <tag k="name" v="Jelsi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1530"/>
-    <tag k="population:date" v="2025-12-31"/>
+    <tag k="population" v="1520"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
     <tag k="website" v="https://www.comune.jelsi.cb.it/"/>
@@ -14529,12 +14529,18 @@
     <tag k="wikidata" v="Q176281"/>
     <tag k="wikipedia" v="it:Lupara (Italia)"/>
   </node>
-  <node id="67284075" lat="41.5101270" lon="14.7392320" version="2" timestamp="2016-09-03T02:35:21Z" changeset="41880656" uid="743479" user="fayor">
+  <node id="67284075" lat="41.5101270" lon="14.7392320" version="3" timestamp="2026-05-07T12:56:12Z" changeset="182337947" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="608"/>
     <tag k="gfoss_id" v="6038"/>
     <tag k="name" v="Gildone"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="859"/>
+    <tag k="population" v="703"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.gildone.cb.it/"/>
+    <tag k="wikidata" v="Q277596"/>
+    <tag k="wikipedia" v="it:Gildone (Italia)"/>
   </node>
   <node id="67284086" lat="41.6729290" lon="14.5457260" version="3" timestamp="2026-04-29T09:43:04Z" changeset="181979361" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="511"/>
@@ -17843,7 +17849,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030389"/>
   </node>
-  <node id="69300028" lat="44.2573596" lon="11.1528895" version="9" timestamp="2017-05-02T18:11:45Z" changeset="48342986" uid="1834719" user="LvdT">
+  <node id="69300028" lat="44.2573596" lon="11.1528895" version="10" timestamp="2026-05-07T05:55:12Z" changeset="182322184" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="547"/>
     <tag k="gfoss_id" v="4060"/>
     <tag k="name" v="Grizzana Morandi"/>
@@ -17854,7 +17860,7 @@
     <tag k="ref:ISTAT" v="037031"/>
     <tag k="ref:catasto" v="E187"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.grizzanamorandi.bo.it/"/>
+    <tag k="website" v="https://www.comune.grizzanamorandi.bo.it/"/>
     <tag k="wikidata" v="Q94898"/>
     <tag k="wikipedia" v="it:Grizzana Morandi"/>
   </node>
@@ -17903,7 +17909,7 @@
     <tag k="wikidata" v="Q94935"/>
     <tag k="wikipedia" v="it:Malalbergo"/>
   </node>
-  <node id="69300101" lat="44.1618295" lon="10.8940436" version="10" timestamp="2017-09-10T08:19:11Z" changeset="51900579" uid="339581" user="nyuriks">
+  <node id="69300101" lat="44.1618295" lon="10.8940436" version="11" timestamp="2026-05-07T05:55:43Z" changeset="182322184" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="640"/>
     <tag k="gfoss_id" v="4059"/>
     <tag k="name" v="Lizzano in Belvedere"/>
@@ -17914,7 +17920,7 @@
     <tag k="ref:ISTAT" v="037033"/>
     <tag k="ref:catasto" v="A771"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.lizzano.bo.it/"/>
+    <tag k="website" v="https://www.comune.lizzano.bo.it/"/>
     <tag k="wikidata" v="Q94929"/>
     <tag k="wikipedia" v="it:Lizzano in Belvedere"/>
   </node>
@@ -18092,7 +18098,7 @@
     <tag k="wikidata" v="Q100088"/>
     <tag k="wikipedia" v="it:Prignano sulla Secchia"/>
   </node>
-  <node id="69300448" lat="44.3072628" lon="10.7317768" version="10" timestamp="2017-07-31T21:43:05Z" changeset="50734095" uid="5509234" user="Ben97">
+  <node id="69300448" lat="44.3072628" lon="10.7317768" version="11" timestamp="2026-05-07T05:53:48Z" changeset="182322148" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="842"/>
     <tag k="gfoss_id" v="3997"/>
     <tag k="name" v="Lama Mocogno"/>
@@ -18103,7 +18109,7 @@
     <tag k="ref:ISTAT" v="036018"/>
     <tag k="ref:catasto" v="E426"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.lamamocogno.mo.it/"/>
+    <tag k="website" v="https://www.comune.lamamocogno.mo.it/"/>
     <tag k="wikidata" v="Q100058"/>
     <tag k="wikipedia" v="it:Lama Mocogno"/>
   </node>
@@ -18114,7 +18120,7 @@
     <tag k="population" v="4136"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69300465" lat="44.2685063" lon="10.9411886" version="9" timestamp="2017-03-07T17:05:54Z" changeset="46657212" uid="354284" user="sbiribizio">
+  <node id="69300465" lat="44.2685063" lon="10.9411886" version="10" timestamp="2026-05-07T05:58:16Z" changeset="182322278" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="842"/>
     <tag k="gfoss_id" v="4005"/>
     <tag k="name" v="Montese"/>
@@ -18125,7 +18131,7 @@
     <tag k="ref:ISTAT" v="036026"/>
     <tag k="ref:catasto" v="F642"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.montese.mo.it/home/home.aspx"/>
+    <tag k="website" v="https://www.comune.montese.mo.it/home/home.aspx"/>
     <tag k="wikidata" v="Q100072"/>
     <tag k="wikipedia" v="it:Montese"/>
   </node>
@@ -18204,7 +18210,7 @@
     <tag k="wikidata" v="Q100064"/>
     <tag k="wikipedia" v="it:Medolla"/>
   </node>
-  <node id="69300594" lat="44.7269690" lon="10.9986000" version="9" timestamp="2017-03-07T17:05:59Z" changeset="46657212" uid="354284" user="sbiribizio">
+  <node id="69300594" lat="44.7269690" lon="10.9986000" version="10" timestamp="2026-05-07T05:57:46Z" changeset="182322254" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="27"/>
     <tag k="gfoss_id" v="3980"/>
     <tag k="name" v="Bastiglia"/>
@@ -18216,7 +18222,7 @@
     <tag k="ref:LOCODE" v="ITBTG"/>
     <tag k="ref:catasto" v="A713"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.bastiglia.mo.it/"/>
+    <tag k="website" v="https://www.comune.bastiglia.mo.it/"/>
     <tag k="wikidata" v="Q100036"/>
     <tag k="wikipedia" v="it:Bastiglia (Italia)"/>
   </node>
@@ -21752,7 +21758,7 @@
     <tag k="wikimedia_commons" v="Category:Castel Madama"/>
     <tag k="wikipedia" v="it:Castel Madama"/>
   </node>
-  <node id="72962554" lat="42.1253987" lon="12.5007367" version="5" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
+  <node id="72962554" lat="42.1253987" lon="12.5007367" version="6" timestamp="2026-05-07T09:12:09Z" changeset="182328738" uid="9451067" user="b-jazz-bot">
     <tag k="contact:facebook" v="https://www.facebook.com/comunecastelnuovodiporto/"/>
     <tag k="contact:instagram" v="https://www.instagram.com/comune_castelnuovodiporto/"/>
     <tag k="contact:twitter" v="https://mobile.twitter.com/castelnuovodp"/>
@@ -21762,7 +21768,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="8630"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.castelnuovodiporto.rm.it/"/>
+    <tag k="website" v="https://www.comune.castelnuovodiporto.rm.it/"/>
     <tag k="wikidata" v="Q242126"/>
     <tag k="wikimedia_commons" v="Category:Castelnuovo di Porto"/>
     <tag k="wikipedia" v="it:Castelnuovo di Porto"/>
@@ -22001,13 +22007,13 @@
     <tag k="wikimedia_commons" v="Category:Capranica Prenestina"/>
     <tag k="wikipedia" v="it:Capranica Prenestina"/>
   </node>
-  <node id="72963163" lat="42.1401497" lon="12.5402010" version="5" timestamp="2024-01-22T11:09:13Z" changeset="146548369" uid="3860151" user="Michele Aquilani">
+  <node id="72963163" lat="42.1401497" lon="12.5402010" version="6" timestamp="2026-05-07T09:14:49Z" changeset="182328823" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="4929"/>
     <tag k="name" v="Capena"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10592"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.capena.rm.it/"/>
+    <tag k="website" v="https://www.comune.capena.rm.it/"/>
     <tag k="wikidata" v="Q241968"/>
     <tag k="wikimedia_commons" v="Category:Capena"/>
     <tag k="wikipedia" v="it:Capena"/>
@@ -25081,10 +25087,6 @@
     <tag k="website" v="https://www.comune.bevagna.pg.it/"/>
     <tag k="wikidata" v="Q20144"/>
     <tag k="wikipedia" v="it:Bevagna"/>
-  </node>
-  <node id="4705578405" lat="45.6628077" lon="7.9999421" version="1" timestamp="2017-02-25T19:11:19Z" changeset="46400727" uid="4058355" user="Baba Vanga">
-    <tag k="name" v="Campiglia Cervo"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="4723287243" lat="45.8085765" lon="7.2722467" version="5" timestamp="2023-04-15T22:51:20Z" changeset="134957953" uid="18892689" user="ComitéNosAccents">
     <tag k="alt_name_1" v="Chef-Lieu"/>
