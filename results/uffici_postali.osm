@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-08T04:47:00Z" areas="2026-05-07T23:24:27Z"/>
+<meta osm_base="2026-05-09T05:14:42Z" areas="2026-05-09T01:48:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1932,17 +1932,6 @@
     <tag k="name" v="Vassena"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q18489321"/>
-  </node>
-  <node id="62511607" lat="45.6679780" lon="9.3760470" version="4" timestamp="2026-03-27T16:21:42Z" changeset="180511084" uid="4470205" user="lollone">
-    <tag k="ele" v="255"/>
-    <tag k="gfoss_id" v="7813"/>
-    <tag k="name" v="Lomagna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5115"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.lomagna.lc.it"/>
-    <tag k="wikidata" v="Q43000"/>
-    <tag k="wikipedia" v="en:Lomagna"/>
   </node>
   <node id="62511611" lat="45.7062617" lon="9.4452187" version="5" timestamp="2025-07-21T08:38:56Z" changeset="169230273" uid="69717" user="kaitu">
     <tag k="gfoss_id" v="7808"/>
@@ -5118,14 +5107,6 @@
     <tag k="population" v="121"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024287"/>
-  </node>
-  <node id="63626363" lat="44.7970224" lon="7.9911864" version="6" timestamp="2023-01-17T19:47:39Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="526"/>
-    <tag k="name" v="Canale"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5215"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023555"/>
   </node>
   <node id="63626367" lat="44.4558270" lon="7.0827210" version="5" timestamp="2023-01-17T19:48:43Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="527"/>
@@ -10656,12 +10637,16 @@
     <tag k="wikidata" v="Q278129"/>
     <tag k="wikipedia" v="it:San Giuliano del Sannio"/>
   </node>
-  <node id="67284159" lat="41.4929240" lon="14.4102250" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67284159" lat="41.4929240" lon="14.4102250" version="5" timestamp="2026-05-08T17:06:00Z" changeset="182392736" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="630"/>
     <tag k="gfoss_id" v="6082"/>
     <tag k="name" v="San Massimo"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="723"/>
+    <tag k="population" v="824"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.sanmassimo.cb.it/"/>
     <tag k="wikidata" v="Q278175"/>
     <tag k="wikipedia" v="it:San Massimo (Italia)"/>
   </node>
@@ -16474,20 +16459,6 @@
     <tag k="wikidata" v="Q288302"/>
     <tag k="wikipedia" v="it:Setzu"/>
     <tag k="wikipedia:sc" v="Setzu"/>
-  </node>
-  <node id="72991196" lat="39.1118320" lon="8.6700380" version="41" timestamp="2019-09-16T14:28:53Z" changeset="74536016" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="7501"/>
-    <tag k="name" v="Sa Baronia/Villaperuccio"/>
-    <tag k="name:it" v="Villaperuccio"/>
-    <tag k="name:sc" v="Sa Baronia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1117"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.villaperuccio.ci.it"/>
-    <tag k="wikidata" v="Q286824"/>
-    <tag k="wikipedia" v="it:Villaperuccio"/>
-    <tag k="wikipedia:sc" v="Sa Baronia"/>
   </node>
   <node id="72991388" lat="39.6801450" lon="8.9849360" version="40" timestamp="2017-03-03T19:53:52Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7431"/>

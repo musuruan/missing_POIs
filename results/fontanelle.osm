@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-08T04:53:06Z" areas="2026-05-07T21:32:44Z"/>
+<meta osm_base="2026-05-09T05:18:41Z" areas="2026-05-09T00:31:57Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5253,12 +5253,16 @@
     <tag k="wikidata" v="Q278129"/>
     <tag k="wikipedia" v="it:San Giuliano del Sannio"/>
   </node>
-  <node id="67284159" lat="41.4929240" lon="14.4102250" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67284159" lat="41.4929240" lon="14.4102250" version="5" timestamp="2026-05-08T17:06:00Z" changeset="182392736" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="630"/>
     <tag k="gfoss_id" v="6082"/>
     <tag k="name" v="San Massimo"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="723"/>
+    <tag k="population" v="824"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.sanmassimo.cb.it/"/>
     <tag k="wikidata" v="Q278175"/>
     <tag k="wikipedia" v="it:San Massimo (Italia)"/>
   </node>

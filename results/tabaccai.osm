@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-08T05:00:15Z" areas="2026-05-07T23:24:27Z"/>
+<meta osm_base="2026-05-09T05:21:44Z" areas="2026-05-09T01:48:14Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -23443,13 +23443,14 @@
     <tag k="population" v="289"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66587195" lat="44.0468362" lon="8.1428461" version="4" timestamp="2025-03-15T17:33:26Z" changeset="163660957" uid="21794763" user="N Longo">
+  <node id="66587195" lat="44.0468362" lon="8.1428461" version="5" timestamp="2026-05-08T10:37:49Z" changeset="182376009" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1256"/>
     <tag k="name" v="Villanova d'Albenga"/>
     <tag k="name:lij" v="Villanöva"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1991"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30031832"/>
   </node>
   <node id="66587202" lat="44.1764742" lon="8.2684492" version="7" timestamp="2024-07-28T10:36:32Z" changeset="154514381" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1250"/>
@@ -28764,12 +28765,16 @@
     <tag k="wikidata" v="Q278129"/>
     <tag k="wikipedia" v="it:San Giuliano del Sannio"/>
   </node>
-  <node id="67284159" lat="41.4929240" lon="14.4102250" version="4" timestamp="2017-03-02T09:57:27Z" changeset="46517635" uid="3084054" user="agnostico">
+  <node id="67284159" lat="41.4929240" lon="14.4102250" version="5" timestamp="2026-05-08T17:06:00Z" changeset="182392736" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="630"/>
     <tag k="gfoss_id" v="6082"/>
     <tag k="name" v="San Massimo"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="723"/>
+    <tag k="population" v="824"/>
+    <tag k="population:date" v="2026-01-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.sanmassimo.cb.it/"/>
     <tag k="wikidata" v="Q278175"/>
     <tag k="wikipedia" v="it:San Massimo (Italia)"/>
   </node>
@@ -36761,7 +36766,7 @@
     <tag k="population" v="2060"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70990781" lat="42.1520551" lon="14.1947600" version="6" timestamp="2021-10-27T09:47:15Z" changeset="113028760" uid="1940323" user="SekeRob">
+  <node id="70990781" lat="42.1520551" lon="14.1947600" version="7" timestamp="2026-05-08T17:13:41Z" changeset="182393023" uid="9451067" user="b-jazz-bot">
     <tag k="contact:email" v="info@comune.pennapiedimonte.ch.it"/>
     <tag k="fax" v="+39 0871 897 251"/>
     <tag k="gfoss_id" v="5972"/>
@@ -36770,7 +36775,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="556"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.pennapiedimonte.ch.it"/>
+    <tag k="website" v="https://www.comune.pennapiedimonte.ch.it/"/>
   </node>
   <node id="70990805" lat="42.1031370" lon="14.3940170" version="2" timestamp="2016-09-07T16:52:24Z" changeset="41983597" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5973"/>
@@ -40771,20 +40776,6 @@
     <tag k="wikidata" v="Q284342"/>
     <tag k="wikipedia" v="it:Monserrato"/>
   </node>
-  <node id="72991196" lat="39.1118320" lon="8.6700380" version="41" timestamp="2019-09-16T14:28:53Z" changeset="74536016" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="7501"/>
-    <tag k="name" v="Sa Baronia/Villaperuccio"/>
-    <tag k="name:it" v="Villaperuccio"/>
-    <tag k="name:sc" v="Sa Baronia"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1117"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.villaperuccio.ci.it"/>
-    <tag k="wikidata" v="Q286824"/>
-    <tag k="wikipedia" v="it:Villaperuccio"/>
-    <tag k="wikipedia:sc" v="Sa Baronia"/>
-  </node>
   <node id="72991279" lat="38.9440310" lon="8.8635440" version="41" timestamp="2019-03-17T12:47:02Z" changeset="68227441" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7415"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
@@ -40966,21 +40957,6 @@
     <tag k="wikidata" v="Q283906"/>
     <tag k="wikipedia" v="it:Elmas"/>
     <tag k="wikipedia:sc" v="Su Masu"/>
-  </node>
-  <node id="72991791" lat="39.0744310" lon="8.6659380" version="41" timestamp="2023-04-22T19:41:00Z" changeset="135241274" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7504"/>
-    <tag k="name" v="Piscinas"/>
-    <tag k="name:it" v="Piscinas"/>
-    <tag k="name:sc" v="Piscinas"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="886"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="ref:LOCODE" v="ITZQW"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.piscinas.ci.it/"/>
-    <tag k="wikidata" v="Q286625"/>
-    <tag k="wikipedia" v="it:Piscinas"/>
-    <tag k="wikipedia:sc" v="Piscinas"/>
   </node>
   <node id="72991806" lat="39.2541390" lon="9.1788460" version="48" timestamp="2023-04-22T19:38:45Z" changeset="135241189" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Cuartuciu"/>
