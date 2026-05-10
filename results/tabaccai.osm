@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-09T05:21:44Z" areas="2026-05-09T01:48:14Z"/>
+<meta osm_base="2026-05-10T05:53:18Z" areas="2026-05-09T22:47:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9179,13 +9179,18 @@
     <tag k="wikimedia_commons" v="Category:Montegrino (Montegrino Valtravaglia)"/>
     <tag k="wikipedia" v="it:Montegrino Valtravaglia"/>
   </node>
-  <node id="62518025" lat="45.9478170" lon="8.7578345" version="2" timestamp="2014-12-07T11:23:17Z" changeset="27308777" uid="1476146" user="Alecs01">
+  <node id="62518025" lat="45.9478357" lon="8.7590065" version="4" timestamp="2026-05-09T08:28:45Z" changeset="182413702" uid="23861640" user="Leolini22">
+    <tag k="ele" v="305"/>
     <tag k="gfoss_id" v="1458"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Mesenzana"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1231"/>
+    <tag k="population" v="1656"/>
+    <tag k="population:date" v="2021"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q39886"/>
+    <tag k="wikipedia" v="it:Mesenzana"/>
   </node>
   <node id="62518068" lat="45.5976933" lon="9.0180613" version="18" timestamp="2023-06-14T14:22:48Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="ele" v="194"/>
@@ -27607,13 +27612,6 @@
     <tag k="population" v="2147"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280788" lat="40.0206070" lon="16.1378820" version="4" timestamp="2016-08-28T18:58:45Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6432"/>
-    <tag k="name" v="San Severino Lucano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1923"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67280822" lat="40.5698130" lon="15.5525620" version="3" timestamp="2020-09-26T13:28:42Z" changeset="91551745" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="6438"/>
     <tag k="name" v="Savoia di Lucania"/>
@@ -29419,7 +29417,7 @@
     <tag k="wikidata" v="Q20521"/>
     <tag k="wikipedia" v="it:Sant'Anatolia di Narco"/>
   </node>
-  <node id="68507618" lat="42.7112390" lon="12.9338760" version="13" timestamp="2024-08-27T14:55:16Z" changeset="155836285" uid="1211510" user="arcanma">
+  <node id="68507618" lat="42.7112390" lon="12.9338760" version="14" timestamp="2026-05-09T13:08:57Z" changeset="182424206" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="974"/>
     <tag k="gfoss_id" v="50041"/>
     <tag k="istat_id" v="5404210001"/>
@@ -29430,7 +29428,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="http://www.comune.poggiodomo.pg.it/"/>
+    <tag k="website" v="https://www.comune.poggiodomo.pg.it/"/>
     <tag k="wikidata" v="Q20515"/>
     <tag k="wikipedia" v="it:Poggiodomo"/>
   </node>
@@ -29982,7 +29980,7 @@
     <tag k="wikidata" v="Q8711"/>
     <tag k="wikipedia" v="it:Fabro"/>
   </node>
-  <node id="68507919" lat="42.5848236" lon="12.8428018" version="15" timestamp="2024-09-04T15:27:51Z" changeset="156192721" uid="1211510" user="arcanma">
+  <node id="68507919" lat="42.5848236" lon="12.8428018" version="16" timestamp="2026-05-09T13:09:50Z" changeset="182424239" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="836"/>
     <tag k="gfoss_id" v="50741"/>
     <tag k="istat_id" v="5502710001"/>
@@ -29993,7 +29991,7 @@
     <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
     <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
     <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="http://www.comune.polino.tr.it/"/>
+    <tag k="website" v="https://www.comune.polino.tr.it/"/>
     <tag k="wikidata" v="Q10882"/>
     <tag k="wikipedia" v="it:Polino"/>
   </node>
@@ -35541,14 +35539,6 @@
     <tag k="postal_code" v="42045"/>
     <tag k="ref:ISTAT" v="035026"/>
     <tag k="ref:LOCODE" v="ITLZA"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301646" lat="44.8100097" lon="10.8030993" version="4" timestamp="2020-09-16T09:22:14Z" changeset="90975139" uid="1834719" user="LvdT">
-    <tag k="gfoss_id" v="3968"/>
-    <tag k="name" v="Rio Saliceto"/>
-    <tag k="name:egl" v="Ré Salsêr"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5258"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301654" lat="44.6258624" lon="10.4222874" version="5" timestamp="2017-12-03T16:38:04Z" changeset="54302391" uid="7073950" user="Ziomio">
@@ -41513,19 +41503,6 @@
     <tag k="website" v="https://www.comune.baradili.or.it/"/>
     <tag k="wikidata" v="Q382636"/>
     <tag k="wikipedia" v="it:Baradili"/>
-  </node>
-  <node id="72992786" lat="40.0205490" lon="8.6719250" version="42" timestamp="2017-11-04T06:53:11Z" changeset="53496460" uid="1240942" user="dan980">
-    <tag k="gfoss_id" v="7622"/>
-    <tag k="is_in" v="Oristano, Sardegna, Italy"/>
-    <tag k="name" v="Baulau/Bauladu"/>
-    <tag k="name:it" v="Bauladu"/>
-    <tag k="name:sc" v="Baulau"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="687"/>
-    <tag k="postal_code" v="09070"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q382672"/>
-    <tag k="wikipedia" v="it:Bauladu"/>
   </node>
   <node id="72992792" lat="40.1130530" lon="8.9364290" version="42" timestamp="2023-11-10T18:40:08Z" changeset="143875216" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Biduniu"/>
