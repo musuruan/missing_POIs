@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-11T05:55:38Z" areas="2026-05-11T03:08:59Z"/>
+<meta osm_base="2026-05-12T05:31:47Z" areas="2026-05-12T02:42:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15,7 +15,7 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9230969" lon="6.8700009" version="53" timestamp="2026-03-28T19:21:29Z" changeset="180555885" uid="8189075" user="Badojo">
+  <node id="26696275" lat="45.9230969" lon="6.8700009" version="54" timestamp="2026-05-11T07:21:17Z" changeset="182497049" uid="13669494" user="Kri_ttt">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -24,6 +24,7 @@
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
     <tag k="name:ko" v="샤모니-몽-블렁"/>
     <tag k="name:ru" v="Шамони-Мон-Блан"/>
+    <tag k="name:th" v="ชามอนี-มง-บล็อง"/>
     <tag k="name:uk" v="Шамоні-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
@@ -1620,12 +1621,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029382"/>
   </node>
-  <node id="62510729" lat="45.1871531" lon="9.7833660" version="14" timestamp="2025-12-14T10:53:07Z" changeset="175913997" uid="564585" user="wegavision">
+  <node id="62510729" lat="45.1871531" lon="9.7833660" version="15" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
     <tag k="name" v="Pizzighettone"/>
     <tag k="name:ru" v="Пиццигеттоне"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="6785"/>
-    <tag k="wikidata" v="Q30028924"/>
+    <tag k="wikidata" v="Q42619"/>
+    <tag k="wikipedia" v="it:Pizzighettone"/>
   </node>
   <node id="62510747" lat="45.2445720" lon="9.8794660" version="4" timestamp="2025-08-27T15:10:48Z" changeset="171086559" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2569"/>
@@ -1941,12 +1943,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026337"/>
   </node>
-  <node id="62511683" lat="45.4048829" lon="9.5517179" version="14" timestamp="2024-06-26T07:17:51Z" changeset="153187619" uid="11979968" user="Francesco Zanaboni">
+  <node id="62511683" lat="45.4048829" lon="9.5517179" version="15" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
     <tag k="ele" v="85"/>
     <tag k="name" v="Pandino"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="7253"/>
-    <tag k="wikidata" v="Q30028590"/>
+    <tag k="wikidata" v="Q42557"/>
+    <tag k="wikipedia" v="it:Pandino"/>
   </node>
   <node id="62511721" lat="45.4204740" lon="9.6185570" version="3" timestamp="2024-09-09T17:59:05Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2644"/>
@@ -1964,13 +1967,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028828"/>
   </node>
-  <node id="62511768" lat="45.4706593" lon="9.5125510" version="14" timestamp="2023-10-24T18:06:38Z" changeset="143077383" uid="20500231" user="fabiotolni">
+  <node id="62511768" lat="45.4706593" lon="9.5125510" version="15" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
     <tag k="ele" v="101"/>
     <tag k="name" v="Rivolta d'Adda"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="7012"/>
     <tag k="short_name" v="Rivolta"/>
-    <tag k="wikidata" v="Q30029417"/>
+    <tag k="wikidata" v="Q42617"/>
+    <tag k="wikipedia" v="it:Rivolta d'Adda"/>
   </node>
   <node id="62511839" lat="45.0111116" lon="10.3797507" version="6" timestamp="2024-09-09T17:58:53Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2623"/>
@@ -2970,10 +2974,12 @@
     <tag k="ref:ISTAT" v="018067"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515457" lat="45.3658449" lon="8.8092037" version="12" timestamp="2023-10-15T12:23:21Z" changeset="142615331" uid="20456925" user="pavia212">
+  <node id="62515457" lat="45.3658449" lon="8.8092037" version="13" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
     <tag k="name" v="Cassolnovo"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="5820"/>
+    <tag k="wikidata" v="Q41081"/>
+    <tag k="wikipedia" v="it:Cassolnovo"/>
   </node>
   <node id="62515463" lat="45.0941145" lon="9.2135284" version="6" timestamp="2026-02-05T14:53:42Z" changeset="178144401" uid="730682" user="Max1234-ITA">
     <tag k="ele" v="64"/>
@@ -3141,7 +3147,7 @@
     <tag k="population" v="933"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515698" lat="45.1086791" lon="9.2829052" version="9" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515698" lat="45.1091601" lon="9.2826257" version="10" timestamp="2026-05-11T14:05:43Z" changeset="182513270" uid="730682" user="Max1234-ITA">
     <tag k="ele" v="63"/>
     <tag k="gfoss_id" v="2509"/>
     <tag k="name" v="San Cipriano Po"/>
@@ -3502,12 +3508,14 @@
     <tag k="population" v="276"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516777" lat="45.1412536" lon="9.1103812" version="6" timestamp="2023-10-15T11:58:04Z" changeset="142614473" uid="20456925" user="pavia212">
+  <node id="62516777" lat="45.1412536" lon="9.1103812" version="7" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
     <tag k="ele" v="79"/>
     <tag k="name" v="Cava Manara"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="6668"/>
     <tag k="ref:ISTAT" v="018041"/>
+    <tag k="wikidata" v="Q40344"/>
+    <tag k="wikipedia" v="it:Cava Manara"/>
   </node>
   <node id="62516780" lat="45.2702516" lon="9.0993440" version="3" timestamp="2023-10-12T20:35:18Z" changeset="142496693" uid="20456925" user="pavia212">
     <tag k="name" v="Vellezzo Bellini"/>
@@ -8729,13 +8737,6 @@
     <tag k="population" v="869"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273938" lat="39.6901767" lon="15.8839994" version="3" timestamp="2016-08-28T18:58:14Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6505"/>
-    <tag k="name" v="Buonvicino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2540"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67273943" lat="39.5676020" lon="16.7728010" version="4" timestamp="2024-03-03T09:32:02Z" changeset="148158195" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="6532"/>
     <tag k="name" v="Crosia"/>
@@ -9834,7 +9835,7 @@
     <tag k="population" v="2007"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280505" lat="40.9463220" lon="15.6726600" version="5" timestamp="2024-01-13T09:03:48Z" changeset="146206606" uid="3860151" user="Michele Aquilani">
+  <node id="67280505" lat="40.9463220" lon="15.6726600" version="6" timestamp="2026-05-11T10:14:43Z" changeset="182503990" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="6365"/>
     <tag k="name" v="Barile"/>
     <tag k="name:aae" v="Barilli"/>
@@ -9842,7 +9843,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3229"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.barile.pz.it"/>
+    <tag k="website" v="https://www.comune.barile.pz.it/"/>
     <tag k="wikidata" v="Q52530"/>
     <tag k="wikimedia_commons" v="Category:Barile"/>
     <tag k="wikipedia" v="it:Barile (Italia)"/>
@@ -10117,14 +10118,14 @@
     <tag k="population" v="1759"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67281259" lat="40.9261881" lon="15.6694407" version="5" timestamp="2024-01-13T09:03:48Z" changeset="146206606" uid="3860151" user="Michele Aquilani">
+  <node id="67281259" lat="40.9261881" lon="15.6694407" version="6" timestamp="2026-05-11T10:14:36Z" changeset="182503990" uid="9451067" user="b-jazz-bot">
     <tag k="contact:facebook" v="https://www.facebook.com/comunedirioneroinvulture/"/>
     <tag k="gfoss_id" v="6420"/>
     <tag k="name" v="Rionero in Vulture"/>
     <tag k="place" v="town"/>
     <tag k="population" v="13230"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.rioneroinvulture.pz.it/"/>
+    <tag k="website" v="https://www.comune.rioneroinvulture.pz.it/"/>
     <tag k="wikidata" v="Q52646"/>
     <tag k="wikimedia_commons" v="Category:Rionero in Vulture"/>
     <tag k="wikipedia" v="it:Rionero in Vulture"/>
@@ -17199,18 +17200,6 @@
     <tag k="population" v="688"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="1545004822" lat="45.1812743" lon="9.4893475" version="7" timestamp="2023-10-16T10:26:10Z" changeset="142657648" uid="20456925" user="pavia212">
-    <tag k="addr:city" v="San Colombano al Lambro"/>
-    <tag k="addr:country" v="IT"/>
-    <tag k="addr:housenumber" v="47"/>
-    <tag k="addr:postcode" v="20078"/>
-    <tag k="addr:street" v="Via Giuseppe Monti"/>
-    <tag k="amenity" v="townhall"/>
-    <tag k="fax" v="+390371897965"/>
-    <tag k="name" v="Municipio di San Colombano al Lambro"/>
-    <tag k="phone" v="+39 0371 2931"/>
-    <tag k="website" v="http://www.comune.sancolombanoallambro.mi.it/;https://www.comune.sancolombanoallambro.mi.it/"/>
-  </node>
   <node id="1604713279" lat="46.6429892" lon="11.3566211" version="9" timestamp="2026-01-19T02:41:59Z" changeset="177401069" uid="4365159" user="wildmaps">
     <tag k="ele" v="961"/>
     <tag k="gfoss_id" v="21968"/>
@@ -17717,6 +17706,15 @@
     <tag k="name" v="Covelo"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q106685242"/>
+  </node>
+  <node id="6855072638" lat="45.1817028" lon="9.4889416" version="12" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+    <tag k="ele" v="80"/>
+    <tag k="name" v="San Colombano al Lambro"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="7430"/>
+    <tag k="website" v="https://www.comune.sancolombanoallambro.mi.it/"/>
+    <tag k="wikidata" v="Q42404"/>
+    <tag k="wikipedia" v="it:San Colombano al Lambro"/>
   </node>
   <node id="7157185900" lat="46.0840576" lon="11.2913950" version="3" timestamp="2021-12-21T07:38:17Z" changeset="115194579" uid="61042" user="Agh">
     <tag k="name" v="Auserpèrg - Frassilongo"/>

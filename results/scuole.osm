@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-11T06:13:02Z" areas="2026-05-11T03:08:59Z"/>
+<meta osm_base="2026-05-12T05:50:15Z" areas="2026-05-12T02:42:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -15,7 +15,7 @@
     <tag k="wikidata" v="Q534206"/>
     <tag k="wikipedia" v="fr:Saint-Gervais-les-Bains"/>
   </node>
-  <node id="26696275" lat="45.9230969" lon="6.8700009" version="53" timestamp="2026-03-28T19:21:29Z" changeset="180555885" uid="8189075" user="Badojo">
+  <node id="26696275" lat="45.9230969" lon="6.8700009" version="54" timestamp="2026-05-11T07:21:17Z" changeset="182497049" uid="13669494" user="Kri_ttt">
     <tag k="alt_name" v="Chamonix"/>
     <tag k="alt_name:frp" v="Chamônix"/>
     <tag k="loc_name" v="Cham"/>
@@ -24,6 +24,7 @@
     <tag k="name:ja" v="シャモニー＝モン＝ブラン"/>
     <tag k="name:ko" v="샤모니-몽-블렁"/>
     <tag k="name:ru" v="Шамони-Мон-Блан"/>
+    <tag k="name:th" v="ชามอนี-มง-บล็อง"/>
     <tag k="name:uk" v="Шамоні-Мон-Блан"/>
     <tag k="name:zh" v="霞慕尼"/>
     <tag k="old_name" v="Chamouny"/>
@@ -3206,14 +3207,13 @@
     <tag k="wikidata" v="Q40346"/>
     <tag k="wikipedia" v="it:Corteolona"/>
   </node>
-  <node id="62515244" lat="45.1961584" lon="8.9227105" version="5" timestamp="2025-06-23T14:41:02Z" changeset="168007193" uid="22632809" user="KeyTV">
-    <tag k="alt_name" v="Las Vegas della Lomellina"/>
+  <node id="62515244" lat="45.1961584" lon="8.9227105" version="6" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
     <tag k="ele" v="93"/>
-    <tag k="loc_name" v="Garlàsch"/>
+    <tag k="loc_name" v="Las Vegas della Lomellina"/>
     <tag k="name" v="Garlasco"/>
     <tag k="name:lmo" v="Garlàsch"/>
     <tag k="name:ru" v="Гарласко"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="9200"/>
     <tag k="wikidata" v="Q40851"/>
   </node>
@@ -3394,10 +3394,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024239"/>
   </node>
-  <node id="62515457" lat="45.3658449" lon="8.8092037" version="12" timestamp="2023-10-15T12:23:21Z" changeset="142615331" uid="20456925" user="pavia212">
+  <node id="62515457" lat="45.3658449" lon="8.8092037" version="13" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
     <tag k="name" v="Cassolnovo"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="5820"/>
+    <tag k="wikidata" v="Q41081"/>
+    <tag k="wikipedia" v="it:Cassolnovo"/>
   </node>
   <node id="62515463" lat="45.0941145" lon="9.2135284" version="6" timestamp="2026-02-05T14:53:42Z" changeset="178144401" uid="730682" user="Max1234-ITA">
     <tag k="ele" v="64"/>
@@ -3577,7 +3579,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029562"/>
   </node>
-  <node id="62515698" lat="45.1086791" lon="9.2829052" version="9" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
+  <node id="62515698" lat="45.1091601" lon="9.2826257" version="10" timestamp="2026-05-11T14:05:43Z" changeset="182513270" uid="730682" user="Max1234-ITA">
     <tag k="ele" v="63"/>
     <tag k="gfoss_id" v="2509"/>
     <tag k="name" v="San Cipriano Po"/>
@@ -4015,10 +4017,10 @@
     <tag k="population" v="276"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516789" lat="44.8235397" lon="9.1969039" version="14" timestamp="2026-04-09T07:16:20Z" changeset="181082014" uid="10901495" user="user_10901495">
+  <node id="62516789" lat="44.8235397" lon="9.1969039" version="15" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
     <tag k="ele" v="416"/>
     <tag k="name" v="Varzi"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="3539"/>
     <tag k="wikidata" v="Q40474"/>
   </node>
@@ -8198,16 +8200,6 @@
     <tag k="population" v="1635"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629729" lat="45.0520303" lon="7.4304703" version="5" timestamp="2024-07-10T08:13:38Z" changeset="153772507" uid="21168218" user="mizioasr">
-    <tag k="gfoss_id" v="211"/>
-    <tag k="name" v="Reano"/>
-    <tag k="name:pms" v="Rean"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1437"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q10215"/>
-    <tag k="wikipedia" v="it:Reano"/>
-  </node>
   <node id="63629734" lat="45.4326987" lon="7.5025536" version="6" timestamp="2026-02-24T22:02:14Z" changeset="179010070" uid="23862645" user="Tseodoric">
     <tag k="gfoss_id" v="212"/>
     <tag k="name" v="Gabbadone"/>
@@ -12239,7 +12231,7 @@
     <tag k="wikidata" v="Q53843"/>
     <tag k="wikipedia" v="it:Bonifati"/>
   </node>
-  <node id="67273938" lat="39.6901767" lon="15.8839994" version="3" timestamp="2016-08-28T18:58:14Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273938" lat="39.6907175" lon="15.8831009" version="4" timestamp="2026-05-11T09:09:42Z" changeset="182501383" uid="8215303" user="ross-map">
     <tag k="gfoss_id" v="6505"/>
     <tag k="name" v="Buonvicino"/>
     <tag k="place" v="village"/>
@@ -13345,16 +13337,6 @@
     <tag k="population" v="1183"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275667" lat="38.4322567" lon="16.4819579" version="5" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6737"/>
-    <tag k="name" v="Camini"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="736"/>
-    <tag k="postal_code" v="89040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54586"/>
-    <tag k="wikipedia" v="it:Camini"/>
-  </node>
   <node id="67275672" lat="38.2884710" lon="15.8077950" version="5" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6727"/>
     <tag k="name" v="Bagnara Calabra"/>
@@ -13610,7 +13592,7 @@
     <tag k="population" v="2007"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280505" lat="40.9463220" lon="15.6726600" version="5" timestamp="2024-01-13T09:03:48Z" changeset="146206606" uid="3860151" user="Michele Aquilani">
+  <node id="67280505" lat="40.9463220" lon="15.6726600" version="6" timestamp="2026-05-11T10:14:43Z" changeset="182503990" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="6365"/>
     <tag k="name" v="Barile"/>
     <tag k="name:aae" v="Barilli"/>
@@ -13618,7 +13600,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3229"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.barile.pz.it"/>
+    <tag k="website" v="https://www.comune.barile.pz.it/"/>
     <tag k="wikidata" v="Q52530"/>
     <tag k="wikimedia_commons" v="Category:Barile"/>
     <tag k="wikipedia" v="it:Barile (Italia)"/>
@@ -18236,13 +18218,15 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18442853"/>
   </node>
-  <node id="69300628" lat="44.4870530" lon="9.7657770" version="4" timestamp="2019-05-06T18:08:38Z" changeset="69946643" uid="447242" user="Rita Pampaloni">
+  <node id="69300628" lat="44.4870530" lon="9.7657770" version="5" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
     <tag k="alt_name" v="Borgotaro"/>
     <tag k="gfoss_id" v="3893"/>
     <tag k="name" v="Borgo Val di Taro"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="6999"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q100767"/>
+    <tag k="wikipedia" v="it:Borgo Val di Taro"/>
   </node>
   <node id="69300632" lat="44.5106079" lon="9.9896546" version="9" timestamp="2020-05-27T08:04:00Z" changeset="85816083" uid="1669056" user="Maurizio Melani (forwalk)">
     <tag k="ele" v="808"/>
@@ -25243,7 +25227,7 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30024853"/>
   </node>
-  <node id="8222523703" lat="46.1582923" lon="9.6617882" version="5" timestamp="2026-05-01T15:31:06Z" changeset="182080486" uid="10901495" user="user_10901495">
+  <node id="8222523703" lat="46.1574765" lon="9.6621614" version="6" timestamp="2026-05-11T18:21:19Z" changeset="182524414" uid="10901495" user="user_10901495">
     <tag k="ele" v="285"/>
     <tag k="fixme" v="Popolare di building questo villaggio"/>
     <tag k="name" v="Sirta"/>
