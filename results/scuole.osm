@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-12T05:50:15Z" areas="2026-05-12T02:42:15Z"/>
+<meta osm_base="2026-05-13T05:49:09Z" areas="2026-05-12T22:35:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2135,14 +2135,14 @@
     <tag k="wikidata" v="Q43058"/>
     <tag k="wikipedia" v="it:Genivolta"/>
   </node>
-  <node id="62511229" lat="45.2615560" lon="9.7280002" version="4" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
+  <node id="62511229" lat="45.2615560" lon="9.7280002" version="5" timestamp="2026-05-12T10:28:28Z" changeset="182547684" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="65"/>
     <tag k="gfoss_id" v="2615"/>
     <tag k="name" v="Gombito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="621"/>
     <tag k="source" v="http://demo.istat.it/pop2019/index.html"/>
-    <tag k="website" v="http://www.comune.gombito.cr.it/hh/index.php"/>
+    <tag k="website" v="https://comune.gombito.cr.it/hh/index.php"/>
   </node>
   <node id="62511244" lat="45.3363613" lon="9.7776099" version="3" timestamp="2021-09-20T16:46:07Z" changeset="111457936" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2609"/>
@@ -3207,13 +3207,14 @@
     <tag k="wikidata" v="Q40346"/>
     <tag k="wikipedia" v="it:Corteolona"/>
   </node>
-  <node id="62515244" lat="45.1961584" lon="8.9227105" version="6" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="62515244" lat="45.1961584" lon="8.9227105" version="7" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
+    <tag k="alt_name" v="Las Vegas della Lomellina"/>
     <tag k="ele" v="93"/>
-    <tag k="loc_name" v="Las Vegas della Lomellina"/>
+    <tag k="loc_name" v="Garlàsch"/>
     <tag k="name" v="Garlasco"/>
     <tag k="name:lmo" v="Garlàsch"/>
     <tag k="name:ru" v="Гарласко"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="9200"/>
     <tag k="wikidata" v="Q40851"/>
   </node>
@@ -3394,12 +3395,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024239"/>
   </node>
-  <node id="62515457" lat="45.3658449" lon="8.8092037" version="13" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="62515457" lat="45.3658449" lon="8.8092037" version="14" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
     <tag k="name" v="Cassolnovo"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="5820"/>
-    <tag k="wikidata" v="Q41081"/>
-    <tag k="wikipedia" v="it:Cassolnovo"/>
   </node>
   <node id="62515463" lat="45.0941145" lon="9.2135284" version="6" timestamp="2026-02-05T14:53:42Z" changeset="178144401" uid="730682" user="Max1234-ITA">
     <tag k="ele" v="64"/>
@@ -3806,7 +3805,7 @@
     <tag k="wikidata" v="Q30024382"/>
     <tag k="wikimedia_commons" v="File:Castione_Andevenno_centro.JPG"/>
   </node>
-  <node id="62516338" lat="46.1756950" lon="9.9425510" version="3" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="user_10901495">
+  <node id="62516338" lat="46.1747608" lon="9.9445761" version="4" timestamp="2026-05-12T14:21:32Z" changeset="182558465" uid="10901495" user="user_10901495">
     <tag k="ele" v="520"/>
     <tag k="loc_name" v="Tresif"/>
     <tag k="name" v="Tresivio"/>
@@ -3927,7 +3926,7 @@
     <tag k="population" v="239"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516727" lat="46.1336397" lon="9.4735483" version="5" timestamp="2022-01-25T19:58:13Z" changeset="116599913" uid="10901495" user="user_10901495">
+  <node id="62516727" lat="46.1324752" lon="9.4744415" version="6" timestamp="2026-05-12T10:09:30Z" changeset="182547004" uid="10901495" user="user_10901495">
     <tag k="ele" v="229"/>
     <tag k="loc_name" v="Andel"/>
     <tag k="name" v="Andalo Valtellino"/>
@@ -4017,10 +4016,10 @@
     <tag k="population" v="276"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516789" lat="44.8235397" lon="9.1969039" version="15" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="62516789" lat="44.8235397" lon="9.1969039" version="16" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
     <tag k="ele" v="416"/>
     <tag k="name" v="Varzi"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="3539"/>
     <tag k="wikidata" v="Q40474"/>
   </node>
@@ -4313,14 +4312,14 @@
     <tag k="population" v="3140"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517140" lat="45.9889227" lon="8.8021840" version="7" timestamp="2022-08-12T18:41:11Z" changeset="124830049" uid="11220113" user="ivanbranco">
+  <node id="62517140" lat="45.9889227" lon="8.8021840" version="8" timestamp="2026-05-12T10:34:05Z" changeset="182547946" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="1412"/>
     <tag k="name" v="Cremenaga"/>
     <tag k="place" v="village"/>
     <tag k="population" v="784"/>
     <tag k="postal_code" v="21030"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.cremenaga.va.it/"/>
+    <tag k="website" v="https://www.comune.cremenaga.va.it/"/>
     <tag k="wikipedia" v="it:Cremenaga"/>
   </node>
   <node id="62517180" lat="45.8199458" lon="8.8947116" version="7" timestamp="2023-05-08T22:43:20Z" changeset="135871219" uid="10361585" user="Hedgie8">
@@ -12297,13 +12296,6 @@
     <tag k="population" v="1870"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274046" lat="39.2347925" lon="16.0671836" version="4" timestamp="2024-02-09T08:50:35Z" changeset="147246949" uid="8215303" user="ross-map">
-    <tag k="gfoss_id" v="6540"/>
-    <tag k="name" v="Fiumefreddo Bruzio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3363"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274054" lat="39.7214010" lon="16.1701860" version="5" timestamp="2018-05-08T19:46:35Z" changeset="58798710" uid="1293386" user="Sal73x">
     <tag k="gfoss_id" v="6539"/>
     <tag k="is_in" v="Cosenza, Calabria, Italy"/>
@@ -18218,15 +18210,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18442853"/>
   </node>
-  <node id="69300628" lat="44.4870530" lon="9.7657770" version="5" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="69300628" lat="44.4870530" lon="9.7657770" version="6" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
     <tag k="alt_name" v="Borgotaro"/>
     <tag k="gfoss_id" v="3893"/>
     <tag k="name" v="Borgo Val di Taro"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="6999"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q100767"/>
-    <tag k="wikipedia" v="it:Borgo Val di Taro"/>
   </node>
   <node id="69300632" lat="44.5106079" lon="9.9896546" version="9" timestamp="2020-05-27T08:04:00Z" changeset="85816083" uid="1669056" user="Maurizio Melani (forwalk)">
     <tag k="ele" v="808"/>
@@ -23835,11 +23825,10 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30024895"/>
   </node>
-  <node id="443354952" lat="46.4625986" lon="10.4117855" version="6" timestamp="2021-11-05T00:44:09Z" changeset="113390293" uid="10901495" user="user_10901495">
-    <tag k="fixme" v="Il dato sulla popolazione è un'approssimazione. Verificare."/>
+  <node id="443354952" lat="46.4626503" lon="10.4106000" version="7" timestamp="2026-05-12T13:10:44Z" changeset="182554903" uid="10901495" user="user_10901495">
+    <tag k="ele" v="1339"/>
     <tag k="name" v="San Nicolò"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="500"/>
     <tag k="wikidata" v="Q18494711"/>
   </node>
   <node id="450861529" lat="44.6306119" lon="11.2777018" version="5" timestamp="2020-11-16T16:20:03Z" changeset="94213676" uid="364" user="Edward">
@@ -24294,11 +24283,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026759"/>
   </node>
-  <node id="1586034545" lat="45.8737236" lon="9.1270391" version="5" timestamp="2022-08-22T14:02:49Z" changeset="125229079" uid="69717" user="kaitu">
+  <node id="1586034545" lat="45.8737236" lon="9.1270391" version="6" timestamp="2026-05-12T10:30:06Z" changeset="182547757" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Carate Lario"/>
     <tag k="name" v="Carate"/>
     <tag k="place" v="village"/>
-    <tag k="website" v="http://www.comune.carateurio.co.it"/>
+    <tag k="website" v="https://www.comune.carateurio.co.it/"/>
     <tag k="wikidata" v="Q30023718"/>
     <tag k="wikimedia_commons" v="Category:Carate Lario"/>
   </node>

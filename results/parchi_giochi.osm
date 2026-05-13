@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-12T05:44:15Z" areas="2026-05-12T02:42:15Z"/>
+<meta osm_base="2026-05-13T05:46:00Z" areas="2026-05-12T22:35:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -207,15 +207,13 @@
     <tag k="wikidata" v="Q182689"/>
     <tag k="wikipedia" v="it:Sillano"/>
   </node>
-  <node id="61753599" lat="44.3771813" lon="9.8829911" version="8" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="61753599" lat="44.3771813" lon="9.8829911" version="9" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
     <tag k="gfoss_id" v="4420"/>
     <tag k="name" v="Pontremoli"/>
     <tag k="name:egl" v="Pontrémal"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="7357"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q52240"/>
-    <tag k="wikipedia" v="it:Pontremoli"/>
   </node>
   <node id="61753608" lat="44.1999608" lon="10.1754596" version="5" timestamp="2017-04-02T18:19:32Z" changeset="47389387" uid="1834719" user="LvdT">
     <tag k="ele" v="328"/>
@@ -2153,12 +2151,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026680"/>
   </node>
-  <node id="62512863" lat="45.3010750" lon="9.4165986" version="13" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="62512863" lat="45.3010750" lon="9.4165986" version="14" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
     <tag k="name" v="Lodi Vecchio"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="7472"/>
-    <tag k="wikidata" v="Q42296"/>
-    <tag k="wikipedia" v="it:Lodi Vecchio"/>
   </node>
   <node id="62512864" lat="45.1465745" lon="9.8536070" version="5" timestamp="2020-12-05T10:41:53Z" changeset="95329045" uid="1476146" user="Alecs01">
     <tag k="gfoss_id" v="7892"/>
@@ -2717,15 +2713,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026840"/>
   </node>
-  <node id="62515260" lat="45.0974469" lon="8.7361760" version="7" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="62515260" lat="45.0974469" lon="8.7361760" version="8" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
     <tag k="alt_name" v="Mede Lomellina"/>
     <tag k="capital" v="8"/>
     <tag k="name" v="Mede"/>
     <tag k="name:ru" v="Меде"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="6000"/>
-    <tag k="wikidata" v="Q41045"/>
-    <tag k="wikipedia" v="it:Mede"/>
+    <tag k="wikidata" v="Q30027396"/>
   </node>
   <node id="62515284" lat="45.3119680" lon="9.2600520" version="3" timestamp="2025-12-08T10:23:14Z" changeset="175658899" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="2454"/>
@@ -2783,12 +2778,10 @@
     <tag k="ref:ISTAT" v="018067"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515457" lat="45.3658449" lon="8.8092037" version="13" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="62515457" lat="45.3658449" lon="8.8092037" version="14" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
     <tag k="name" v="Cassolnovo"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="5820"/>
-    <tag k="wikidata" v="Q41081"/>
-    <tag k="wikipedia" v="it:Cassolnovo"/>
   </node>
   <node id="62515478" lat="45.0948626" lon="9.0312537" version="5" timestamp="2025-12-08T14:17:34Z" changeset="175669863" uid="34088" user="Tri38">
     <tag k="ele" v="68"/>
@@ -15850,15 +15843,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18442853"/>
   </node>
-  <node id="69300628" lat="44.4870530" lon="9.7657770" version="5" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="69300628" lat="44.4870530" lon="9.7657770" version="6" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
     <tag k="alt_name" v="Borgotaro"/>
     <tag k="gfoss_id" v="3893"/>
     <tag k="name" v="Borgo Val di Taro"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="6999"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q100767"/>
-    <tag k="wikipedia" v="it:Borgo Val di Taro"/>
   </node>
   <node id="69300640" lat="44.7240342" lon="11.0998110" version="11" timestamp="2026-05-07T05:57:09Z" changeset="182322232" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="23"/>
@@ -23139,10 +23130,10 @@
     <tag k="population" v="433"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="6855072638" lat="45.1817028" lon="9.4889416" version="12" timestamp="2026-05-11T13:38:12Z" changeset="182512111" uid="21696131" user="aboc">
+  <node id="6855072638" lat="45.1817028" lon="9.4889416" version="13" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
     <tag k="ele" v="80"/>
     <tag k="name" v="San Colombano al Lambro"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="town"/>
     <tag k="population" v="7430"/>
     <tag k="website" v="https://www.comune.sancolombanoallambro.mi.it/"/>
     <tag k="wikidata" v="Q42404"/>
