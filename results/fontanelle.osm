@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-13T05:45:00Z" areas="2026-05-12T22:35:30Z"/>
+<meta osm_base="2026-05-14T05:44:30Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4143,6 +4143,14 @@
     <tag k="population" v="702"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="67274187" lat="39.4270950" lon="16.1237890" version="3" timestamp="2016-09-05T17:44:46Z" changeset="41936916" uid="354689" user="Francesco Placco">
+    <tag k="gfoss_id" v="6597"/>
+    <tag k="name" v="San Benedetto Ullano"/>
+    <tag k="name:aae" v="Shën Bendhiti"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1649"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="67274204" lat="39.2613930" lon="16.3385950" version="2" timestamp="2016-08-28T18:58:37Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6583"/>
     <tag k="name" v="Pietrafitta"/>
@@ -6006,13 +6014,6 @@
     <tag k="population" v="1432"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68566544" lat="40.9270301" lon="15.1775240" version="6" timestamp="2016-09-01T23:10:14Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5522"/>
-    <tag k="name" v="Sant'Angelo dei Lombardi"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4244"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68566549" lat="41.0066180" lon="14.9930450" version="3" timestamp="2026-01-19T01:23:57Z" changeset="177398702" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="5520"/>
     <tag k="name" v="Sant'Angelo all'Esca"/>
@@ -7149,7 +7150,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030389"/>
   </node>
-  <node id="69300258" lat="44.7590740" lon="11.7511320" version="7" timestamp="2017-04-02T18:19:36Z" changeset="47389387" uid="1834719" user="LvdT">
+  <node id="69300258" lat="44.7590740" lon="11.7511320" version="8" timestamp="2026-05-13T11:13:23Z" changeset="182595517" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="7"/>
     <tag k="gfoss_id" v="4109"/>
     <tag k="name" v="Voghiera"/>
@@ -7160,7 +7161,7 @@
     <tag k="ref:ISTAT" v="038023"/>
     <tag k="ref:catasto" v="M110"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.voghiera.fe.it/"/>
+    <tag k="website" v="https://www.comune.voghiera.fe.it/"/>
     <tag k="wikidata" v="Q95147"/>
     <tag k="wikipedia" v="it:Voghiera"/>
   </node>
