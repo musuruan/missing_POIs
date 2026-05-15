@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-14T05:44:30Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-15T05:51:17Z" areas="2026-05-15T03:44:04Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -6288,13 +6288,6 @@
     <tag k="population" v="1005"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68568106" lat="41.0627598" lon="15.2517835" version="3" timestamp="2016-09-01T23:10:16Z" changeset="41859282" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5544"/>
-    <tag k="name" v="Vallesaccarda"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1486"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68568215" lat="41.0445333" lon="14.7600508" version="3" timestamp="2016-09-01T23:10:04Z" changeset="41859282" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5282"/>
     <tag k="name" v="Ceppaloni"/>
@@ -8811,10 +8804,11 @@
     <tag k="wikipedia" v="it:Collinas"/>
     <tag k="wikipedia:sc" v="Forru"/>
   </node>
-  <node id="72991248" lat="39.7341460" lon="9.0205360" version="42" timestamp="2026-01-23T01:43:08Z" changeset="177589476" uid="4365159" user="wildmaps">
+  <node id="72991248" lat="39.7341460" lon="9.0205360" version="43" timestamp="2026-05-14T08:52:31Z" changeset="182636646" uid="323702" user="ybon">
     <tag k="gfoss_id" v="7422"/>
     <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
     <tag k="name" v="Gèsturi/Gesturi"/>
+    <tag k="name:it" v="Gesturi"/>
     <tag k="name:sc" v="Gèsturi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1430"/>
@@ -8849,22 +8843,6 @@
     <tag k="wikidata" v="Q283894"/>
     <tag k="wikipedia" v="it:Donori"/>
     <tag k="wikipedia:sc" v="Donori"/>
-  </node>
-  <node id="72991358" lat="39.1681654" lon="8.6747138" version="42" timestamp="2023-10-23T17:01:54Z" changeset="143027440" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7438"/>
-    <tag k="is_in" v="Cagliari, Sardegna, Italy"/>
-    <tag k="name" v="Narcau/Narcao"/>
-    <tag k="name:it" v="Narcao"/>
-    <tag k="name:sc" v="Narcau"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3365"/>
-    <tag k="postal_code" v="09010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.narcao.ci.it/"/>
-    <tag k="website_1" v="http://www.comunenarcao.it/"/>
-    <tag k="wikidata" v="Q286398"/>
-    <tag k="wikipedia" v="it:Narcao"/>
-    <tag k="wikipedia:sc" v="Narcau"/>
   </node>
   <node id="72991379" lat="39.5686440" lon="9.0740390" version="40" timestamp="2017-03-03T19:53:52Z" changeset="46557134" uid="454589" user="sabas88">
     <tag k="alt_name" v="Guamajori"/>

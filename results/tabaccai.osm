@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-14T05:48:30Z" areas="2026-05-14T02:36:48Z"/>
+<meta osm_base="2026-05-15T05:55:27Z" areas="2026-05-15T03:44:04Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3971,8 +3971,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025489"/>
   </node>
-  <node id="62509982" lat="45.9437820" lon="9.0997360" version="1" timestamp="2007-10-10T06:20:49Z" changeset="85182" uid="864" user="Niccolo">
-    <tag k="created_by" v="JOSM"/>
+  <node id="62509982" lat="45.9429562" lon="9.1001756" version="2" timestamp="2026-05-14T21:50:18Z" changeset="182671892" uid="22560131" user="Vitt1959">
     <tag k="gfoss_id" v="1556"/>
     <tag k="is_in" v="Como, Lombardia, Italy"/>
     <tag k="name" v="Dizzasco"/>
@@ -9375,13 +9374,15 @@
     <tag k="population" v="12084"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62518280" lat="45.6733755" lon="8.7405206" version="2" timestamp="2013-08-20T09:34:22Z" changeset="17423306" uid="1476146" user="Alecs01">
+  <node id="62518280" lat="45.6733755" lon="8.7405206" version="3" timestamp="2026-05-14T13:52:25Z" changeset="182650677" uid="23926999" user="PrUsT2">
     <tag k="gfoss_id" v="1395"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Casorate Sempione"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="5070"/>
+    <tag k="population" v="5648"/>
+    <tag k="population:date" v="2026-02-28"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="62518284" lat="45.9315687" lon="8.7682862" version="4" timestamp="2025-10-24T19:52:35Z" changeset="173733242" uid="19971463" user="LeoBorGiov">
     <tag k="gfoss_id" v="1397"/>
@@ -9857,12 +9858,12 @@
     <tag k="population" v="801"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622129" lat="45.0014530" lon="8.4836959" version="7" timestamp="2023-01-17T20:02:23Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="946"/>
+  <node id="63622129" lat="45.0014530" lon="8.4836959" version="8" timestamp="2026-05-14T17:21:01Z" changeset="182662097" uid="10901495" user="user_10901495">
+    <tag k="alt_name" v="Lu Monferrato"/>
+    <tag k="ele" v="307"/>
     <tag k="name" v="Lu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1079"/>
-    <tag k="source" v="geodati.gfoss.it;dati.istati.it"/>
     <tag k="wikidata" v="Q59357457"/>
     <tag k="wikipedia" v="it:Lu e Cuccaro Monferrato"/>
   </node>
@@ -45904,10 +45905,10 @@
     <tag k="website" v="https://www.comune.valtournenche.ao.it/"/>
     <tag k="wikidata" v="Q30031536"/>
   </node>
-  <node id="5600556284" lat="44.9954653" lon="8.7725320" version="3" timestamp="2026-01-19T15:20:11Z" changeset="177434523" uid="4365159" user="wildmaps">
+  <node id="5600556284" lat="44.9954653" lon="8.7725320" version="4" timestamp="2026-05-14T17:56:18Z" changeset="182663692" uid="10901495" user="user_10901495">
     <tag k="ele" v="77"/>
     <tag k="name" v="Montariolo"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="hamlet"/>
     <tag k="population" v="108"/>
     <tag k="wikidata" v="Q18501871"/>
   </node>
