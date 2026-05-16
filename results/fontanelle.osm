@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-15T05:51:17Z" areas="2026-05-15T03:44:04Z"/>
+<meta osm_base="2026-05-16T05:24:00Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3524,7 +3524,7 @@
     <tag k="population" v="2344"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67253804" lat="37.2679139" lon="13.9732545" version="19" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
+  <node id="67253804" lat="37.2682115" lon="13.9731099" version="20" timestamp="2026-05-15T07:15:48Z" changeset="182682750" uid="923271" user="aldoct">
     <tag k="name" v="Ravanusa"/>
     <tag k="name:scn" v="Rivinusa"/>
     <tag k="place" v="town"/>
@@ -5698,6 +5698,19 @@
     <tag k="website" v="https://comune.deliceto.fg.it/"/>
     <tag k="wikidata" v="Q51925"/>
     <tag k="wikipedia" v="it:Deliceto"/>
+  </node>
+  <node id="68529106" lat="41.2563799" lon="15.7297876" version="4" timestamp="2026-04-15T10:39:38Z" changeset="181360025" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="154"/>
+    <tag k="gfoss_id" v="6151"/>
+    <tag k="name" v="Stornarella"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5402"/>
+    <tag k="population:date" v="2025-12-31"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://comune.stornarella.fg.it/"/>
+    <tag k="wikidata" v="Q51963"/>
+    <tag k="wikipedia" v="it:Stornarella"/>
   </node>
   <node id="68529121" lat="41.5258065" lon="15.0051913" version="7" timestamp="2026-04-16T20:25:55Z" changeset="181430812" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="683"/>
@@ -9053,7 +9066,7 @@
     <tag k="wikipedia" v="it:Quartucciu"/>
     <tag k="wikipedia:sc" v="Quartùcciu"/>
   </node>
-  <node id="72991824" lat="40.2674520" lon="8.5402190" version="42" timestamp="2017-03-01T21:24:49Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72991824" lat="40.2674520" lon="8.5402190" version="43" timestamp="2026-05-15T13:26:17Z" changeset="182698870" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7319"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
     <tag k="name" v="Flùssio/Flussio"/>
@@ -9063,7 +9076,7 @@
     <tag k="population" v="497"/>
     <tag k="postal_code" v="08010"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.flussio.or.it/"/>
+    <tag k="website" v="https://www.comune.flussio.or.it/"/>
     <tag k="wikidata" v="Q385675"/>
     <tag k="wikipedia" v="it:Flussio"/>
   </node>
@@ -9348,7 +9361,7 @@
     <tag k="wikidata" v="Q386350"/>
     <tag k="wikipedia" v="it:Masullas"/>
   </node>
-  <node id="72993233" lat="39.9928313" lon="8.5557841" version="42" timestamp="2017-03-01T21:25:07Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72993233" lat="39.9928313" lon="8.5557841" version="43" timestamp="2026-05-15T13:26:32Z" changeset="182698911" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7620"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
     <tag k="name" v="Boàtiri/Baratili San Pietro"/>
@@ -9358,7 +9371,7 @@
     <tag k="population" v="1251"/>
     <tag k="postal_code" v="09070"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.baratilisanpietro.or.it/indixi.php"/>
+    <tag k="website" v="https://comune.baratilisanpietro.or.it/indixi.php"/>
     <tag k="wikidata" v="Q382644"/>
     <tag k="wikipedia" v="it:Baratili San Pietro"/>
   </node>
@@ -9741,6 +9754,19 @@
     <tag k="wikidata" v="Q391409"/>
     <tag k="wikipedia" v="sc:Istintinu"/>
   </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
+  </node>
   <node id="347123635" lat="45.1927143" lon="12.0399128" version="4" timestamp="2025-05-16T14:10:03Z" changeset="166353501" uid="14316347" user="Gicorada">
     <tag k="name" v="Pegolotte"/>
     <tag k="place" v="village"/>
@@ -9970,6 +9996,17 @@
     <tag k="name" v="Maleo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3261"/>
+  </node>
+  <node id="2670867786" lat="41.2886250" lon="15.7680575" version="3" timestamp="2026-04-15T10:35:52Z" changeset="181359849" uid="20397427" user="RUGGERO DEL VECCHIO">
+    <tag k="ele" v="107"/>
+    <tag k="name" v="Stornara"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5778"/>
+    <tag k="population:date" v="2025-12-31"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="website" v="https://www.comune.stornara.fg.it/it"/>
+    <tag k="wikidata" v="Q51962"/>
+    <tag k="wikipedia" v="it:Stornara"/>
   </node>
   <node id="2672321412" lat="40.9864545" lon="14.1753318" version="2" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
     <tag k="name" v="San Marcellino"/>
