@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-16T05:20:00Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-17T05:40:47Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1184,18 +1184,6 @@
     <tag k="population" v="1800"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508529" lat="45.4610459" lon="10.4845180" version="8" timestamp="2026-01-16T11:57:27Z" changeset="177295149" uid="23682457" user="Il Lonatese">
-    <tag k="gfoss_id" v="2262"/>
-    <tag k="loc_name" v="Lunà"/>
-    <tag k="name" v="Lonato del Garda"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="17160"/>
-    <tag k="population:date" v="2025-09-30"/>
-    <tag k="short_name" v="Lonato"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia"/>
-    <tag k="wikidata" v="Q30026713"/>
-  </node>
   <node id="62508537" lat="45.8645299" lon="10.1836526" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2249"/>
     <tag k="name" v="Gianico"/>
@@ -1922,9 +1910,10 @@
     <tag k="wikidata" v="Q18489117"/>
     <tag k="wikimedia_commons" v="Category:Monticello (Monticello Brianza)"/>
   </node>
-  <node id="62511594" lat="45.8462820" lon="9.3582440" version="4" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62511594" lat="45.8462820" lon="9.3582440" version="5" timestamp="2026-05-16T20:27:47Z" changeset="182758638" uid="5460758" user="FUZZY_42">
     <tag k="gfoss_id" v="7852"/>
     <tag k="name" v="Valmadrera"/>
+    <tag k="name:r" v="Вальмадрера"/>
     <tag k="place" v="town"/>
     <tag k="population" v="10871"/>
     <tag k="source" v="geodati.gfoss.it"/>
