@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-18T06:13:36Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-19T06:09:00Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2715,14 +2715,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022231"/>
   </node>
-  <node id="62507698" lat="45.6374172" lon="10.0064681" version="5" timestamp="2026-04-16T18:13:56Z" changeset="181426675" uid="22886984" user="Giopogib">
-    <tag k="gfoss_id" v="2232"/>
-    <tag k="name" v="Corte Franca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7150"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia"/>
-  </node>
   <node id="62507706" lat="45.6818870" lon="10.4121700" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2182"/>
     <tag k="name" v="Barghe"/>
@@ -3284,12 +3276,11 @@
     <tag k="population" v="4723"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508692" lat="45.5805080" lon="10.0262148" version="8" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2216"/>
+  <node id="62508692" lat="45.5796182" lon="10.0258983" version="10" timestamp="2026-05-18T19:12:17Z" changeset="182848897" uid="10901495" user="user_10901495">
+    <tag k="ele" v="200"/>
     <tag k="name" v="Cazzago San Martino"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="11008"/>
-    <tag k="source" v="ISTAT (30/11/2015)"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4390"/>
   </node>
   <node id="62508697" lat="45.5403767" lon="10.4456596" version="6" timestamp="2024-10-07T13:51:30Z" changeset="157583504" uid="13046266" user="Kajok79">
     <tag k="gfoss_id" v="2203"/>
@@ -21602,18 +21593,6 @@
     <tag k="wikidata" v="Q16939"/>
     <tag k="wikipedia" v="sl:Zgonik"/>
   </node>
-  <node id="66503108" lat="46.0163190" lon="13.1071260" version="10" timestamp="2026-02-11T11:49:37Z" changeset="178403114" uid="8620567" user="dellared">
-    <tag k="alt_name" v="Pasian Schiavonesco"/>
-    <tag k="alt_name:fur" v="Pasian Sclavonèsc"/>
-    <tag k="gfoss_id" v="3680"/>
-    <tag k="name" v="Basiliano / Basilian"/>
-    <tag k="name:fur" v="Basilian"/>
-    <tag k="name:it" v="Basiliano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5146"/>
-    <tag k="population:date" v="2024-12-31"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="66503116" lat="46.4097027" lon="13.1951425" version="14" timestamp="2025-12-08T12:14:44Z" changeset="175664407" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3730"/>
     <tag k="loc_name:de" v="Mosach"/>
@@ -29638,12 +29617,13 @@
     <tag k="wikidata" v="Q20396"/>
     <tag k="wikipedia" v="it:Cerreto di Spoleto"/>
   </node>
-  <node id="68507739" lat="42.8918739" lon="12.6500673" version="17" timestamp="2024-08-22T16:38:02Z" changeset="155615624" uid="1211510" user="arcanma">
+  <node id="68507739" lat="42.8918739" lon="12.6500673" version="18" timestamp="2026-05-18T12:09:43Z" changeset="182828957" uid="393359" user="Robot8A">
     <tag k="ele" v="455"/>
     <tag k="gfoss_id" v="49766"/>
     <tag k="istat_id" v="5403010007"/>
     <tag k="name" v="Montefalco"/>
     <tag k="name:de" v="Falkenberg"/>
+    <tag k="name:it" v="Montefalco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1258"/>
     <tag k="population:date" v="2021-12-31"/>
@@ -29654,12 +29634,13 @@
     <tag k="wikidata" v="Q20478"/>
     <tag k="wikipedia" v="it:Montefalco"/>
   </node>
-  <node id="68507747" lat="42.9094087" lon="12.5558159" version="17" timestamp="2024-08-18T10:51:03Z" changeset="155408292" uid="1211510" user="arcanma">
+  <node id="68507747" lat="42.9094087" lon="12.5558159" version="18" timestamp="2026-05-18T12:09:43Z" changeset="182828957" uid="393359" user="Robot8A">
     <tag k="ele" v="446"/>
     <tag k="gfoss_id" v="49535"/>
     <tag k="istat_id" v="5402210003"/>
     <tag k="name" v="Gualdo Cattaneo"/>
     <tag k="name:ar" v="غالدو كاتانيو"/>
+    <tag k="name:it" v="Gualdo Cattaneo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="361"/>
     <tag k="population:date" v="2021-12-31"/>
@@ -30013,11 +29994,12 @@
     <tag k="wikimedia_commons" v="Category:Lugnano in Teverina"/>
     <tag k="wikipedia" v="it:Lugnano in Teverina"/>
   </node>
-  <node id="68507898" lat="42.4230234" lon="12.4776861" version="16" timestamp="2024-09-04T15:21:10Z" changeset="156192452" uid="1211510" user="arcanma">
+  <node id="68507898" lat="42.4230234" lon="12.4776861" version="17" timestamp="2026-05-18T12:09:43Z" changeset="182828957" uid="393359" user="Robot8A">
     <tag k="ele" v="209"/>
     <tag k="gfoss_id" v="50731"/>
     <tag k="istat_id" v="5502410001"/>
     <tag k="name" v="Otricoli"/>
+    <tag k="name:it" v="Otricoli"/>
     <tag k="name:la" v="Ocriculum"/>
     <tag k="place" v="village"/>
     <tag k="population" v="884"/>
@@ -44573,6 +44555,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="5507"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="1968432936" lat="45.6384456" lon="10.0122896" version="4" timestamp="2026-05-18T19:08:03Z" changeset="182848755" uid="10901495" user="user_10901495">
+    <tag k="ele" v="220"/>
+    <tag k="name" v="Timoline"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1381"/>
+    <tag k="wikidata" v="Q3991484"/>
+    <tag k="wikipedia" v="it:Timoline"/>
   </node>
   <node id="1969045732" lat="40.4716215" lon="8.5602991" version="41" timestamp="2023-11-07T14:20:23Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7247"/>

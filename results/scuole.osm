@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-18T06:14:39Z" areas="2026-05-18T03:37:29Z"/>
+<meta osm_base="2026-05-19T06:10:00Z" areas="2026-05-18T21:46:29Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1138,14 +1138,6 @@
     <tag k="population" v="2347"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022119"/>
-  </node>
-  <node id="62507698" lat="45.6374172" lon="10.0064681" version="5" timestamp="2026-04-16T18:13:56Z" changeset="181426675" uid="22886984" user="Giopogib">
-    <tag k="gfoss_id" v="2232"/>
-    <tag k="name" v="Corte Franca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="7150"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="62507706" lat="45.6818870" lon="10.4121700" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2182"/>
@@ -15164,12 +15156,13 @@
     <tag k="wikidata" v="Q20396"/>
     <tag k="wikipedia" v="it:Cerreto di Spoleto"/>
   </node>
-  <node id="68507739" lat="42.8918739" lon="12.6500673" version="17" timestamp="2024-08-22T16:38:02Z" changeset="155615624" uid="1211510" user="arcanma">
+  <node id="68507739" lat="42.8918739" lon="12.6500673" version="18" timestamp="2026-05-18T12:09:43Z" changeset="182828957" uid="393359" user="Robot8A">
     <tag k="ele" v="455"/>
     <tag k="gfoss_id" v="49766"/>
     <tag k="istat_id" v="5403010007"/>
     <tag k="name" v="Montefalco"/>
     <tag k="name:de" v="Falkenberg"/>
+    <tag k="name:it" v="Montefalco"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1258"/>
     <tag k="population:date" v="2021-12-31"/>
@@ -24578,6 +24571,14 @@
     <tag k="wikidata" v="Q283985"/>
     <tag k="wikipedia" v="it:Gesico"/>
     <tag k="wikipedia:sc" v="Gèsigu"/>
+  </node>
+  <node id="1968432936" lat="45.6384456" lon="10.0122896" version="4" timestamp="2026-05-18T19:08:03Z" changeset="182848755" uid="10901495" user="user_10901495">
+    <tag k="ele" v="220"/>
+    <tag k="name" v="Timoline"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1381"/>
+    <tag k="wikidata" v="Q3991484"/>
+    <tag k="wikipedia" v="it:Timoline"/>
   </node>
   <node id="1969045732" lat="40.4716215" lon="8.5602991" version="41" timestamp="2023-11-07T14:20:23Z" changeset="143739439" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7247"/>
