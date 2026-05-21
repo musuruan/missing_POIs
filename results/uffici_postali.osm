@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-20T06:04:11Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-21T06:02:30Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2613,16 +2613,6 @@
     <tag k="population" v="9951"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62514032" lat="45.3259660" lon="9.0277460" version="2" timestamp="2024-09-09T17:58:27Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="1773"/>
-    <tag k="is_in" v="Milano, Lombardia, Italy"/>
-    <tag k="name" v="Calvignasco"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1029"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023419"/>
-  </node>
   <node id="62514069" lat="45.7100770" lon="9.2406440" version="10" timestamp="2024-09-09T17:58:26Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="addr:postcode" v="20836"/>
     <tag k="ele" v="271"/>
@@ -2971,9 +2961,10 @@
     <tag k="ref:ISTAT" v="018067"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515457" lat="45.3658449" lon="8.8092037" version="14" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
+  <node id="62515457" lat="45.3658449" lon="8.8092037" version="15" timestamp="2026-05-20T08:52:39Z" changeset="182916128" uid="10901495" user="user_10901495">
+    <tag k="ele" v="120"/>
     <tag k="name" v="Cassolnovo"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="5820"/>
   </node>
   <node id="62515463" lat="45.0941145" lon="9.2135284" version="6" timestamp="2026-02-05T14:53:42Z" changeset="178144401" uid="730682" user="Max1234-ITA">
@@ -3315,16 +3306,6 @@
     <tag k="wikimedia_commons" v="File:Panorama_Poggiridenti.JPG"/>
     <tag k="wikipedia" v="it:Poggiridenti"/>
   </node>
-  <node id="62516065" lat="46.1541948" lon="9.5479018" version="5" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="user_10901495">
-    <tag k="ele" v="681"/>
-    <tag k="fixme" v="Verificare se tutti gli abitanti di Mello vivono nel capoluogo o se ci sono dei paesini montani con almeno 1 abitante stabile"/>
-    <tag k="loc_name" v="Mèll"/>
-    <tag k="name" v="Mello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="939"/>
-    <tag k="wikidata" v="Q39701"/>
-    <tag k="wikipedia" v="it:Mello (Italia)"/>
-  </node>
   <node id="62516077" lat="46.2585074" lon="10.2563896" version="4" timestamp="2026-01-14T20:45:39Z" changeset="177235924" uid="465052" user="hecktor">
     <tag k="ele" v="552"/>
     <tag k="loc_name" v="Maz"/>
@@ -3449,13 +3430,6 @@
     <tag k="population:date" v="2020"/>
     <tag k="wikidata" v="Q30022212"/>
   </node>
-  <node id="62516746" lat="46.1496199" lon="9.5257960" version="7" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="user_10901495">
-    <tag k="ele" v="252"/>
-    <tag k="loc_name" v="Traùna"/>
-    <tag k="name" v="Traona"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2441"/>
-  </node>
   <node id="62516749" lat="46.3374131" lon="9.3706850" version="12" timestamp="2021-11-27T16:24:31Z" changeset="114299972" uid="10901495" user="user_10901495">
     <tag k="ele" v="520"/>
     <tag k="loc_name" v="San Giacùm"/>
@@ -3503,10 +3477,10 @@
     <tag k="population" v="276"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516777" lat="45.1412536" lon="9.1103812" version="8" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
+  <node id="62516777" lat="45.1412536" lon="9.1103812" version="9" timestamp="2026-05-20T09:15:09Z" changeset="182917116" uid="10901495" user="user_10901495">
     <tag k="ele" v="79"/>
     <tag k="name" v="Cava Manara"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="6668"/>
     <tag k="ref:ISTAT" v="018041"/>
   </node>
@@ -3663,13 +3637,6 @@
     <tag k="name" v="Berbenno di Valtellina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4000"/>
-  </node>
-  <node id="62516980" lat="46.1830555" lon="9.6765266" version="8" timestamp="2026-04-29T00:02:32Z" changeset="181964172" uid="10901495" user="user_10901495">
-    <tag k="ele" v="577"/>
-    <tag k="loc_name" v="Böi"/>
-    <tag k="name" v="Buglio in Monte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="720"/>
   </node>
   <node id="62516993" lat="46.1708212" lon="9.9893554" version="5" timestamp="2025-10-16T14:05:07Z" changeset="173367971" uid="20601540" user="IlCreeper08">
     <tag k="ele" v="389"/>
@@ -16987,6 +16954,11 @@
     <tag k="population" v="2165"/>
     <tag k="wikidata" v="Q2542184"/>
     <tag k="wikipedia" v="it:Badoere"/>
+  </node>
+  <node id="634347701" lat="45.3333834" lon="9.0203428" version="4" timestamp="2026-05-20T09:13:41Z" changeset="182917062" uid="10901495" user="user_10901495">
+    <tag k="name" v="Bettola"/>
+    <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q18491117"/>
   </node>
   <node id="663142898" lat="44.9705682" lon="9.2530999" version="2" timestamp="2016-11-15T12:36:15Z" changeset="43669561" uid="730682" user="Max1234-ITA">
     <tag k="name" v="Villa Fornace"/>

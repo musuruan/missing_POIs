@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-20T06:17:21Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-21T06:08:36Z" areas="2026-05-20T14:25:17Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1269,7 +1269,7 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q13101032"/>
   </node>
-  <node id="62509356" lat="45.7155801" lon="8.9830741" version="7" timestamp="2026-05-17T09:25:38Z" changeset="182774034" uid="1950277" user="Mannivu">
+  <node id="62509356" lat="45.7178251" lon="8.9858264" version="8" timestamp="2026-05-20T20:27:37Z" changeset="182946969" uid="14179840" user="gabry_whites">
     <tag k="gfoss_id" v="1654"/>
     <tag k="name" v="Veniano"/>
     <tag k="name:it" v="Veniano"/>
@@ -2721,7 +2721,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026840"/>
   </node>
-  <node id="62515260" lat="45.0974469" lon="8.7361760" version="8" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
+  <node id="62515260" lat="45.0965167" lon="8.7363129" version="9" timestamp="2026-05-20T11:56:22Z" changeset="182924324" uid="10901495" user="user_10901495">
     <tag k="alt_name" v="Mede Lomellina"/>
     <tag k="capital" v="8"/>
     <tag k="name" v="Mede"/>
@@ -2786,9 +2786,10 @@
     <tag k="ref:ISTAT" v="018067"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515457" lat="45.3658449" lon="8.8092037" version="14" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
+  <node id="62515457" lat="45.3658449" lon="8.8092037" version="15" timestamp="2026-05-20T08:52:39Z" changeset="182916128" uid="10901495" user="user_10901495">
+    <tag k="ele" v="120"/>
     <tag k="name" v="Cassolnovo"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="5820"/>
   </node>
   <node id="62515478" lat="45.0948626" lon="9.0312537" version="5" timestamp="2025-12-08T14:17:34Z" changeset="175669863" uid="34088" user="Tri38">
@@ -2993,14 +2994,14 @@
     <tag k="population" v="445"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516486" lat="46.1490413" lon="9.7490975" version="4" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="user_10901495">
+  <node id="62516486" lat="46.1490413" lon="9.7490975" version="5" timestamp="2026-05-20T17:58:20Z" changeset="182940831" uid="10901495" user="user_10901495">
     <tag k="ele" v="285"/>
     <tag k="loc_name" v="Füsíni"/>
     <tag k="name" v="Fusine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="561"/>
     <tag k="wikidata" v="Q30025928"/>
-    <tag k="wikipedia" v="ceb:Fusine (kapital sa munisipyo sa Italya, Lombardia, Provincia di Sondrio, lat 46,15, long 9,75)"/>
+    <tag k="wikipedia" v="it:Fusine"/>
   </node>
   <node id="62516627" lat="46.1510725" lon="9.7328367" version="4" timestamp="2021-12-20T18:33:22Z" changeset="115177493" uid="10901495" user="user_10901495">
     <tag k="ele" v="302"/>
@@ -7858,14 +7859,6 @@
     <tag k="population" v="564"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66586377" lat="44.4669525" lon="9.0909582" version="5" timestamp="2018-03-23T16:51:27Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
-    <tag k="gfoss_id" v="1278"/>
-    <tag k="name" v="Davagna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1783"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q266283"/>
-  </node>
   <node id="66586379" lat="44.4529968" lon="9.2595603" version="5" timestamp="2017-02-25T16:29:02Z" changeset="46397292" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="1280"/>
     <tag k="name" v="Favale di Malvaro"/>
@@ -12041,19 +12034,6 @@
     <tag k="website" v="https://www.comune.tufara.cb.it/"/>
     <tag k="wikidata" v="Q278381"/>
     <tag k="wikipedia" v="it:Tufara"/>
-  </node>
-  <node id="67284013" lat="41.4080240" lon="14.6183310" version="4" timestamp="2026-05-03T09:12:33Z" changeset="182149731" uid="20397427" user="RUGGERO DEL VECCHIO">
-    <tag k="ele" v="698"/>
-    <tag k="gfoss_id" v="6087"/>
-    <tag k="name" v="Sepino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1809"/>
-    <tag k="population:date" v="2026-01-31"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="source:population" v="wikipedia"/>
-    <tag k="website" v="https://www.comune.sepino.cb.it/"/>
-    <tag k="wikidata" v="Q278225"/>
-    <tag k="wikipedia" v="it:Sepino"/>
   </node>
   <node id="67284025" lat="41.4826448" lon="14.4723134" version="13" timestamp="2026-05-01T12:50:32Z" changeset="182072962" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="482"/>
@@ -21994,19 +21974,6 @@
     <tag k="wikidata" v="Q390890"/>
     <tag k="wikipedia" v="it:Mara (Italia)"/>
     <tag k="wikipedia:sc" v="Mara"/>
-  </node>
-  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
-    <tag k="ele" v="832"/>
-    <tag k="name" v="Promontogno"/>
-    <tag k="old_name" v="Primentonia"/>
-    <tag k="place" v="hamlet"/>
-    <tag k="population" v="104"/>
-    <tag k="population:date" v="2008"/>
-    <tag k="postal_code" v="7606"/>
-    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
-    <tag k="wikidata" v="Q7249857"/>
-    <tag k="wikimedia_commons" v="Category:Promontogno"/>
-    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="259742893" lat="42.3665063" lon="10.9002704" version="8" timestamp="2017-03-11T12:52:38Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="name" v="Giglio Castello"/>

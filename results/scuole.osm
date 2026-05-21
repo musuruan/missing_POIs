@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-20T06:24:37Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-21T06:13:44Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3136,13 +3136,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q91019693"/>
   </node>
-  <node id="62514662" lat="45.3276560" lon="8.7642419" version="11" timestamp="2024-11-14T08:20:50Z" changeset="159119872" uid="22177114" user="Riccardo Baccaro">
-    <tag k="gfoss_id" v="2451"/>
-    <tag k="name" v="Gravellona Lomellina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2173"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62514893" lat="45.6399770" lon="9.4149490" version="4" timestamp="2024-09-09T17:58:18Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="addr:postcode" v="20886"/>
     <tag k="gfoss_id" v="1740"/>
@@ -3398,9 +3391,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024239"/>
   </node>
-  <node id="62515457" lat="45.3658449" lon="8.8092037" version="14" timestamp="2026-05-12T06:02:24Z" changeset="182538708" uid="21696131" user="aboc">
+  <node id="62515457" lat="45.3658449" lon="8.8092037" version="15" timestamp="2026-05-20T08:52:39Z" changeset="182916128" uid="10901495" user="user_10901495">
+    <tag k="ele" v="120"/>
     <tag k="name" v="Cassolnovo"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="5820"/>
   </node>
   <node id="62515463" lat="45.0941145" lon="9.2135284" version="6" timestamp="2026-02-05T14:53:42Z" changeset="178144401" uid="730682" user="Max1234-ITA">
@@ -3833,14 +3827,14 @@
     <tag k="place" v="hamlet"/>
     <tag k="population" v="37"/>
   </node>
-  <node id="62516486" lat="46.1490413" lon="9.7490975" version="4" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="user_10901495">
+  <node id="62516486" lat="46.1490413" lon="9.7490975" version="5" timestamp="2026-05-20T17:58:20Z" changeset="182940831" uid="10901495" user="user_10901495">
     <tag k="ele" v="285"/>
     <tag k="loc_name" v="Füsíni"/>
     <tag k="name" v="Fusine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="561"/>
     <tag k="wikidata" v="Q30025928"/>
-    <tag k="wikipedia" v="ceb:Fusine (kapital sa munisipyo sa Italya, Lombardia, Provincia di Sondrio, lat 46,15, long 9,75)"/>
+    <tag k="wikipedia" v="it:Fusine"/>
   </node>
   <node id="62516612" lat="46.1612697" lon="9.6008391" version="6" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="user_10901495">
     <tag k="ele" v="568"/>
@@ -15450,22 +15444,6 @@
     <tag k="website" v="https://www.comune.parrano.tr.it/"/>
     <tag k="wikidata" v="Q10877"/>
     <tag k="wikipedia" v="it:Parrano"/>
-  </node>
-  <node id="68507894" lat="42.5742259" lon="12.3307848" version="15" timestamp="2024-09-03T14:33:11Z" changeset="156145742" uid="1211510" user="arcanma">
-    <tag k="ele" v="419"/>
-    <tag k="gfoss_id" v="50578"/>
-    <tag k="istat_id" v="5501610001"/>
-    <tag k="name" v="Lugnano in Teverina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="922"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="https://www.comune.lugnanointeverina.tr.it/index.php"/>
-    <tag k="wikidata" v="Q10823"/>
-    <tag k="wikimedia_commons" v="Category:Lugnano in Teverina"/>
-    <tag k="wikipedia" v="it:Lugnano in Teverina"/>
   </node>
   <node id="68507919" lat="42.5848236" lon="12.8428018" version="16" timestamp="2026-05-09T13:09:50Z" changeset="182424239" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="836"/>
