@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-21T06:13:44Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-22T06:13:27Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1247,15 +1247,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18475581"/>
   </node>
-  <node id="62508024" lat="45.9461920" lon="10.2305610" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2298"/>
-    <tag k="name" v="Ossimo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1434"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q105423"/>
-    <tag k="wikipedia" v="it:Ossimo"/>
-  </node>
   <node id="62508031" lat="45.5624850" lon="10.4618740" version="3" timestamp="2024-09-09T17:58:56Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="gfoss_id" v="2286"/>
     <tag k="name" v="Muscoline"/>
@@ -1542,7 +1533,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029053"/>
   </node>
-  <node id="62508939" lat="45.9759940" lon="10.3332630" version="3" timestamp="2024-09-09T17:58:56Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62508939" lat="45.9772918" lon="10.3365042" version="4" timestamp="2026-05-21T12:44:42Z" changeset="182974546" uid="10901495" user="user_10901495">
     <tag k="gfoss_id" v="2288"/>
     <tag k="name" v="Niardo"/>
     <tag k="place" v="village"/>
@@ -3781,14 +3772,15 @@
     <tag k="wikidata" v="Q30025590"/>
     <tag k="wikipedia" v="ceb:Faedo Valtellino (kapital sa munisipyo)"/>
   </node>
-  <node id="62516300" lat="46.1727940" lon="9.8002470" version="3" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="user_10901495">
+  <node id="62516300" lat="46.1734386" lon="9.7992961" version="4" timestamp="2026-05-21T19:16:13Z" changeset="182991587" uid="10901495" user="user_10901495">
+    <tag k="alt_name" v="Castione Andevenno"/>
     <tag k="ele" v="468"/>
     <tag k="loc_name" v="Castiùn"/>
-    <tag k="name" v="Castione Andevenno"/>
+    <tag k="name" v="Castione"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1553"/>
     <tag k="wikidata" v="Q30024382"/>
-    <tag k="wikimedia_commons" v="File:Castione_Andevenno_centro.JPG"/>
+    <tag k="wikipedia" v="it:Castione Andevenno"/>
   </node>
   <node id="62516338" lat="46.1747608" lon="9.9445761" version="4" timestamp="2026-05-12T14:21:32Z" changeset="182558465" uid="10901495" user="user_10901495">
     <tag k="ele" v="520"/>
@@ -3836,14 +3828,14 @@
     <tag k="wikidata" v="Q30025928"/>
     <tag k="wikipedia" v="it:Fusine"/>
   </node>
-  <node id="62516612" lat="46.1612697" lon="9.6008391" version="6" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="user_10901495">
+  <node id="62516612" lat="46.1604398" lon="9.6014755" version="7" timestamp="2026-05-21T15:54:39Z" changeset="182983314" uid="10901495" user="user_10901495">
     <tag k="ele" v="568"/>
     <tag k="loc_name" v="Dàsc"/>
     <tag k="name" v="Dazio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="460"/>
     <tag k="wikidata" v="Q30025391"/>
-    <tag k="wikipedia" v="ceb:Dazio (kapital sa munisipyo)"/>
+    <tag k="wikipedia" v="it:Dazio"/>
   </node>
   <node id="62516627" lat="46.1510725" lon="9.7328367" version="4" timestamp="2021-12-20T18:33:22Z" changeset="115177493" uid="10901495" user="user_10901495">
     <tag k="ele" v="302"/>
@@ -24660,6 +24652,11 @@
     <tag k="population" v="511"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024168"/>
+  </node>
+  <node id="2411831430" lat="45.9461805" lon="10.2289906" version="3" timestamp="2026-05-21T12:25:41Z" changeset="182973669" uid="10901495" user="user_10901495">
+    <tag k="name" v="Ossimo Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q18475497"/>
   </node>
   <node id="2456838345" lat="41.9469256" lon="16.0147884" version="6" timestamp="2026-04-14T07:08:25Z" changeset="181307072" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="90"/>

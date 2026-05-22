@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-21T06:08:36Z" areas="2026-05-20T14:25:17Z"/>
+<meta osm_base="2026-05-22T06:08:15Z" areas="2026-05-22T01:20:51Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -849,12 +849,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024640"/>
   </node>
-  <node id="62507464" lat="45.9424930" lon="10.2774620" version="2" timestamp="2020-04-03T16:41:28Z" changeset="83045910" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="2225"/>
+  <node id="62507464" lat="45.9447793" lon="10.2786105" version="3" timestamp="2026-05-21T12:31:03Z" changeset="182973922" uid="10901495" user="user_10901495">
     <tag k="name" v="Cividate Camuno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2637"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62507473" lat="45.3086363" lon="10.1893747" version="7" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2223"/>
@@ -1088,14 +1086,17 @@
     <tag k="population" v="8347"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508723" lat="45.9563241" lon="10.3040404" version="5" timestamp="2020-04-03T16:41:28Z" changeset="83045910" uid="478872" user="mcheck">
-    <tag k="gfoss_id" v="2198"/>
+  <node id="62508723" lat="45.9552271" lon="10.3011661" version="6" timestamp="2026-05-21T12:43:27Z" changeset="182974491" uid="10901495" user="user_10901495">
+    <tag k="ele" v="343"/>
+    <tag k="loc_name" v="Bré"/>
     <tag k="name" v="Breno"/>
+    <tag k="name:de" v="Brenn"/>
     <tag k="name:it" v="Breno"/>
-    <tag k="old_name:de" v="Brenn"/>
+    <tag k="name:lmo" v="Bré"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4962"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023123"/>
+    <tag k="wikipedia" v="it:Breno (Italia)"/>
   </node>
   <node id="62508738" lat="45.7544353" lon="10.5446900" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2206"/>
@@ -1166,7 +1167,7 @@
     <tag k="population" v="3523"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508939" lat="45.9759940" lon="10.3332630" version="3" timestamp="2024-09-09T17:58:56Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62508939" lat="45.9772918" lon="10.3365042" version="4" timestamp="2026-05-21T12:44:42Z" changeset="182974546" uid="10901495" user="user_10901495">
     <tag k="gfoss_id" v="2288"/>
     <tag k="name" v="Niardo"/>
     <tag k="place" v="village"/>
