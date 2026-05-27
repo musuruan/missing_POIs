@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-26T06:08:29Z" areas="2026-05-25T21:02:36Z"/>
+<meta osm_base="2026-05-27T06:20:00Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -37422,11 +37422,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q33711596"/>
   </node>
-  <node id="70992630" lat="42.2051312" lon="13.5192689" version="8" timestamp="2025-02-04T09:20:57Z" changeset="162116646" uid="79364" user="klaus e werner">
+  <node id="70992630" lat="42.2051312" lon="13.5192689" version="9" timestamp="2026-05-26T08:54:54Z" changeset="183194945" uid="23651410" user="Gian Marco T">
     <tag k="ele" v="1329"/>
     <tag k="gfoss_id" v="5789"/>
     <tag k="name" v="Rocca di Mezzo"/>
-    <tag k="place" v="town"/>
+    <tag k="place" v="village"/>
     <tag k="population" v="1426"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029441"/>
@@ -40040,7 +40040,7 @@
     <tag k="wikimedia_commons" v="Category:Segni"/>
     <tag k="wikipedia" v="it:Segni (Italia)"/>
   </node>
-  <node id="72963479" lat="42.1000928" lon="13.0065553" version="7" timestamp="2025-12-18T10:42:08Z" changeset="176088503" uid="23618647" user="mishkapi">
+  <node id="72963479" lat="42.1000928" lon="13.0065553" version="8" timestamp="2026-05-26T19:13:45Z" changeset="183225183" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="5024"/>
     <tag k="name" v="Vivaro Romano"/>
     <tag k="place" v="village"/>
@@ -40048,7 +40048,7 @@
     <tag k="population:date" v="2025-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
-    <tag k="website" v="http://www.comunevivaroromano.it/"/>
+    <tag k="website" v="https://www.comunevivaroromano.it/"/>
     <tag k="wikidata" v="Q243525"/>
     <tag k="wikimedia_commons" v="Category:Vivaro Romano"/>
     <tag k="wikipedia" v="it:Vivaro Romano"/>
@@ -42411,6 +42411,19 @@
     <tag k="wikidata" v="Q391218"/>
     <tag k="wikipedia" v="sc:Patada"/>
     <tag k="wikipedia:it" v="Pattada"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="245922467" lat="46.5403897" lon="11.4570266" version="11" timestamp="2023-09-04T09:56:17Z" changeset="140796230" uid="11631067" user="emandt">
     <tag k="name" v="Klobenstein - Collalbo"/>
