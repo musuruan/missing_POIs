@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-28T06:11:30Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-29T06:13:30Z" areas="2026-05-28T16:54:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2190,14 +2190,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029707"/>
   </node>
-  <node id="63625922" lat="44.4133360" lon="8.1686440" version="5" timestamp="2023-01-17T19:47:33Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="690"/>
-    <tag k="name" v="Saliceto"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1500"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30029720"/>
-  </node>
   <node id="63625932" lat="44.4901370" lon="8.0578410" version="5" timestamp="2023-07-14T23:35:39Z" changeset="138527250" uid="14257573" user="toponomastica_comune_arenzano">
     <tag k="gfoss_id" v="695"/>
     <tag k="name" v="San Benedetto Belbo"/>
@@ -2354,13 +2346,6 @@
     <tag k="wikidata" v="Q18377"/>
     <tag k="wikipedia" v="it:Bosia"/>
   </node>
-  <node id="63628705" lat="45.1471822" lon="7.8490570" version="5" timestamp="2023-02-21T13:59:39Z" changeset="132837734" uid="9616185" user="LukeDH">
-    <tag k="gfoss_id" v="252"/>
-    <tag k="name" v="La Piana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2815"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63628765" lat="45.6035134" lon="8.5534312" version="4" timestamp="2023-01-17T20:03:32Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="484"/>
     <tag k="is_in" v="Novara, Piemonte, Italy"/>
@@ -2392,49 +2377,18 @@
     <tag k="population" v="898"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629292" lat="45.4101863" lon="7.7441580" version="6" timestamp="2023-01-17T20:02:35Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629292" lat="45.4101863" lon="7.7441580" version="7" timestamp="2026-05-28T11:14:44Z" changeset="183299611" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="17"/>
     <tag k="name" v="Baldissero Canavese"/>
     <tag k="place" v="village"/>
     <tag k="population" v="513"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://it.wikipedia.org/wiki/Baldissero_Canavese"/>
   </node>
   <node id="63629756" lat="45.3585264" lon="7.6892385" version="3" timestamp="2020-06-20T19:19:17Z" changeset="86919202" uid="2976645" user="Jrachi">
     <tag k="gfoss_id" v="231"/>
     <tag k="name" v="Salassa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1671"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63629840" lat="45.3151540" lon="7.8091200" version="4" timestamp="2023-01-17T19:59:33Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="246"/>
-    <tag k="name" v="San Giusto Canavese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3080"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63629851" lat="45.2237375" lon="7.7826861" version="3" timestamp="2025-10-23T07:56:51Z" changeset="173660195" uid="564585" user="wegavision">
-    <tag k="gfoss_id" v="236"/>
-    <tag k="name" v="San Benigno Canavese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="5154"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63630078" lat="45.3292550" lon="7.8617210" version="7" timestamp="2023-01-17T20:07:29Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="172"/>
-    <tag k="name" v="Orio Canavese"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="781"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q9520"/>
-    <tag k="wikipedia" v="it:Orio Canavese"/>
-  </node>
-  <node id="63630111" lat="45.3425540" lon="7.6937170" version="4" timestamp="2023-01-17T20:07:14Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="170"/>
-    <tag k="name" v="Oglianico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1291"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63630140" lat="45.0376490" lon="7.9400280" version="4" timestamp="2023-01-17T20:00:44Z" changeset="131393953" uid="145231" user="woodpeck_repair">
@@ -2449,13 +2403,6 @@
     <tag k="name" v="Montanaro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5274"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63630413" lat="45.3507540" lon="7.6698739" version="5" timestamp="2023-01-17T19:55:44Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="251"/>
-    <tag k="name" v="San Ponso"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="265"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63630481" lat="45.2686519" lon="7.7636388" version="6" timestamp="2024-01-24T18:05:50Z" changeset="146641044" uid="6645382" user="canfe">
@@ -2477,13 +2424,6 @@
     <tag k="name" v="Varisella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="690"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63631332" lat="45.2154216" lon="7.9745034" version="5" timestamp="2023-01-17T20:00:00Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="273"/>
-    <tag k="name" v="Torrazza Piemonte"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2373"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64777219" lat="46.4139949" lon="11.3050772" version="5" timestamp="2020-03-13T15:40:23Z" changeset="82170683" uid="1462614" user="_Andrea_">
@@ -9765,19 +9705,6 @@
     <tag k="website" v="https://www.comune.stintino.ss.it/"/>
     <tag k="wikidata" v="Q391409"/>
     <tag k="wikipedia" v="sc:Istintinu"/>
-  </node>
-  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
-    <tag k="ele" v="832"/>
-    <tag k="name" v="Promontogno"/>
-    <tag k="old_name" v="Primentonia"/>
-    <tag k="place" v="hamlet"/>
-    <tag k="population" v="104"/>
-    <tag k="population:date" v="2008"/>
-    <tag k="postal_code" v="7606"/>
-    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
-    <tag k="wikidata" v="Q7249857"/>
-    <tag k="wikimedia_commons" v="Category:Promontogno"/>
-    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="347123635" lat="45.1927143" lon="12.0399128" version="4" timestamp="2025-05-16T14:10:03Z" changeset="166353501" uid="14316347" user="Gicorada">
     <tag k="name" v="Pegolotte"/>
