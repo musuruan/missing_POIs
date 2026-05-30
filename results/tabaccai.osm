@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-29T06:17:30Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-30T05:49:01Z" areas="2026-05-29T14:50:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8072,7 +8072,7 @@
     <tag k="wikidata" v="Q30029147"/>
     <tag k="wikipedia" v="it:Prata Camportaccio"/>
   </node>
-  <node id="62516227" lat="46.1587767" lon="9.9422848" version="3" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="user_10901495">
+  <node id="62516227" lat="46.1593008" lon="9.9416620" version="4" timestamp="2026-05-29T19:37:50Z" changeset="183372111" uid="10901495" user="user_10901495">
     <tag k="ele" v="304"/>
     <tag k="loc_name" v="Piatèda"/>
     <tag k="name" v="Piateda"/>
@@ -8089,15 +8089,6 @@
     <tag k="wikidata" v="Q30027481"/>
     <tag k="wikimedia_commons" v="Category:Mese (Italy)"/>
     <tag k="wikipedia" v="it:Mese (Italia)"/>
-  </node>
-  <node id="62516275" lat="46.1529950" lon="9.9060500" version="2" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="user_10901495">
-    <tag k="ele" v="557"/>
-    <tag k="loc_name" v="Faeet"/>
-    <tag k="name" v="Faedo Valtellino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="551"/>
-    <tag k="wikidata" v="Q30025590"/>
-    <tag k="wikipedia" v="ceb:Faedo Valtellino (kapital sa munisipyo)"/>
   </node>
   <node id="62516300" lat="46.1734386" lon="9.7992961" version="4" timestamp="2026-05-21T19:16:13Z" changeset="182991587" uid="10901495" user="user_10901495">
     <tag k="alt_name" v="Castione Andevenno"/>
@@ -42411,19 +42402,6 @@
     <tag k="wikipedia" v="sc:Patada"/>
     <tag k="wikipedia:it" v="Pattada"/>
   </node>
-  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
-    <tag k="ele" v="832"/>
-    <tag k="name" v="Promontogno"/>
-    <tag k="old_name" v="Primentonia"/>
-    <tag k="place" v="hamlet"/>
-    <tag k="population" v="104"/>
-    <tag k="population:date" v="2008"/>
-    <tag k="postal_code" v="7606"/>
-    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
-    <tag k="wikidata" v="Q7249857"/>
-    <tag k="wikimedia_commons" v="Category:Promontogno"/>
-    <tag k="wikipedia" v="it:Promontogno"/>
-  </node>
   <node id="245922467" lat="46.5403897" lon="11.4570266" version="11" timestamp="2023-09-04T09:56:17Z" changeset="140796230" uid="11631067" user="emandt">
     <tag k="name" v="Klobenstein - Collalbo"/>
     <tag k="name:de" v="Klobenstein"/>
@@ -43524,14 +43502,12 @@
     <tag k="wikidata" v="Q94782"/>
     <tag k="wikipedia" v="it:Castello d'Argile"/>
   </node>
-  <node id="1108076413" lat="43.7888272" lon="7.6434111" version="5" timestamp="2022-05-09T15:37:07Z" changeset="120754500" uid="15596130" user="NJH_osm">
+  <node id="1108076413" lat="43.7888272" lon="7.6434111" version="6" timestamp="2026-05-29T14:59:29Z" changeset="183360352" uid="743479" user="fayor">
     <tag k="gfoss_id" v="1184"/>
-    <tag k="name" v="Vallecrosia"/>
+    <tag k="name" v="Vallecrosia al Mare"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7182"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q269892"/>
-    <tag k="wikipedia" v="it:Vallecrosia"/>
   </node>
   <node id="1131424279" lat="44.7328018" lon="10.7839876" version="5" timestamp="2020-01-22T17:04:13Z" changeset="79930075" uid="447242" user="Rita Pampaloni">
     <tag k="ele" v="36"/>
@@ -43983,6 +43959,14 @@
     <tag k="population" v="4829"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023905"/>
+  </node>
+  <node id="1603301352" lat="46.1529937" lon="9.9062065" version="3" timestamp="2026-05-29T19:37:50Z" changeset="183372111" uid="10901495" user="user_10901495">
+    <tag k="ele" v="557"/>
+    <tag k="istat_id" v="1402810002"/>
+    <tag k="name" v="San Carlo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="115"/>
+    <tag k="wikidata" v="Q33478864"/>
   </node>
   <node id="1604713279" lat="46.6429892" lon="11.3566211" version="9" timestamp="2026-01-19T02:41:59Z" changeset="177401069" uid="4365159" user="wildmaps">
     <tag k="ele" v="961"/>
@@ -46179,10 +46163,10 @@
     <tag k="population:date" v="2021-12-31"/>
     <tag k="source:population" v="wikipedia"/>
   </node>
-  <node id="12224173792" lat="45.8935664" lon="9.4227250" version="3" timestamp="2025-07-13T10:02:17Z" changeset="168866111" uid="14476883" user="Daniel Vincenc">
+  <node id="12224173792" lat="45.8935664" lon="9.4227250" version="4" timestamp="2026-05-29T16:47:17Z" changeset="183365097" uid="10901495" user="user_10901495">
     <tag k="alt_name" v="Ballabio Sotto"/>
     <tag k="name" v="Ballabio Inferiore"/>
-    <tag k="place" v="village"/>
+    <tag k="place" v="quarter"/>
     <tag k="wikidata" v="Q17622199"/>
     <tag k="wikimedia_commons" v="Category:Ballabio Inferiore"/>
     <tag k="wikipedia" v="it:Ballabio Inferiore"/>

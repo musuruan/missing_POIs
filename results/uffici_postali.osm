@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-29T06:06:11Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-05-30T05:40:50Z" areas="2026-05-29T14:50:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3318,15 +3318,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3000"/>
     <tag k="wikidata" v="Q30022100"/>
-  </node>
-  <node id="62516275" lat="46.1529950" lon="9.9060500" version="2" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="user_10901495">
-    <tag k="ele" v="557"/>
-    <tag k="loc_name" v="Faeet"/>
-    <tag k="name" v="Faedo Valtellino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="551"/>
-    <tag k="wikidata" v="Q30025590"/>
-    <tag k="wikipedia" v="ceb:Faedo Valtellino (kapital sa munisipyo)"/>
   </node>
   <node id="62516300" lat="46.1734386" lon="9.7992961" version="4" timestamp="2026-05-21T19:16:13Z" changeset="182991587" uid="10901495" user="user_10901495">
     <tag k="alt_name" v="Castione Andevenno"/>
@@ -16450,7 +16441,7 @@
     <tag k="wikipedia" v="it:Orune"/>
     <tag k="wikipedia:sc" v="Orune"/>
   </node>
-  <node id="72992241" lat="40.0956540" lon="9.1623340" version="40" timestamp="2017-03-01T21:24:55Z" changeset="46505334" uid="454589" user="sabas88">
+  <node id="72992241" lat="40.0956540" lon="9.1623340" version="41" timestamp="2026-05-29T07:54:01Z" changeset="183340074" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7367"/>
     <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
     <tag k="name" v="Ovodda"/>
@@ -16460,7 +16451,7 @@
     <tag k="population" v="1732"/>
     <tag k="postal_code" v="08020"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comune.ovodda.nu.it/index.asp"/>
+    <tag k="website" v="https://www.comune.ovodda.nu.it/index.asp"/>
     <tag k="wikidata" v="Q295576"/>
     <tag k="wikipedia" v="it:Ovodda"/>
     <tag k="wikipedia:sc" v="Ovodda"/>
@@ -16712,19 +16703,6 @@
     <tag k="website" v="https://www.comune.pompu.or.it/"/>
     <tag k="wikidata" v="Q387452"/>
     <tag k="wikipedia" v="it:Pompu"/>
-  </node>
-  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
-    <tag k="ele" v="832"/>
-    <tag k="name" v="Promontogno"/>
-    <tag k="old_name" v="Primentonia"/>
-    <tag k="place" v="hamlet"/>
-    <tag k="population" v="104"/>
-    <tag k="population:date" v="2008"/>
-    <tag k="postal_code" v="7606"/>
-    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
-    <tag k="wikidata" v="Q7249857"/>
-    <tag k="wikimedia_commons" v="Category:Promontogno"/>
-    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="9" timestamp="2026-01-01T18:42:49Z" changeset="176714791" uid="1726102" user="AlessioMela">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
@@ -17115,6 +17093,14 @@
     <tag k="place" v="village"/>
     <tag k="population" v="688"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="1603301352" lat="46.1529937" lon="9.9062065" version="3" timestamp="2026-05-29T19:37:50Z" changeset="183372111" uid="10901495" user="user_10901495">
+    <tag k="ele" v="557"/>
+    <tag k="istat_id" v="1402810002"/>
+    <tag k="name" v="San Carlo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="115"/>
+    <tag k="wikidata" v="Q33478864"/>
   </node>
   <node id="1604713279" lat="46.6429892" lon="11.3566211" version="9" timestamp="2026-01-19T02:41:59Z" changeset="177401069" uid="4365159" user="wildmaps">
     <tag k="ele" v="961"/>

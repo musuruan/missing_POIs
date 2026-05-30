@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-29T06:15:30Z" areas="2026-05-28T16:54:30Z"/>
+<meta osm_base="2026-05-30T05:47:00Z" areas="2026-05-29T14:50:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2964,15 +2964,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3000"/>
     <tag k="wikidata" v="Q30022100"/>
-  </node>
-  <node id="62516275" lat="46.1529950" lon="9.9060500" version="2" timestamp="2021-11-04T23:06:46Z" changeset="113388822" uid="10901495" user="user_10901495">
-    <tag k="ele" v="557"/>
-    <tag k="loc_name" v="Faeet"/>
-    <tag k="name" v="Faedo Valtellino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="551"/>
-    <tag k="wikidata" v="Q30025590"/>
-    <tag k="wikipedia" v="ceb:Faedo Valtellino (kapital sa munisipyo)"/>
   </node>
   <node id="62516349" lat="46.1027328" lon="9.5901791" version="4" timestamp="2026-05-17T14:49:51Z" changeset="182788600" uid="10901495" user="user_10901495">
     <tag k="ele" v="950"/>
@@ -8031,15 +8022,6 @@
     <tag k="wikidata" v="Q269816"/>
     <tag k="wikimedia_commons" v="Category:Soldano"/>
     <tag k="wikipedia" v="it:Soldano"/>
-  </node>
-  <node id="66586775" lat="43.9263186" lon="7.9364801" version="4" timestamp="2022-05-05T18:08:30Z" changeset="120600429" uid="15596130" user="NJH_osm">
-    <tag k="gfoss_id" v="1168"/>
-    <tag k="name" v="Prelà"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="480"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q269688"/>
-    <tag k="wikipedia" v="it:Prelà"/>
   </node>
   <node id="66586780" lat="44.0577260" lon="7.9817470" version="4" timestamp="2024-08-01T22:38:38Z" changeset="154713117" uid="21800793" user="Arbenganese">
     <tag k="gfoss_id" v="1130"/>
@@ -22353,6 +22335,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026759"/>
   </node>
+  <node id="1603301352" lat="46.1529937" lon="9.9062065" version="3" timestamp="2026-05-29T19:37:50Z" changeset="183372111" uid="10901495" user="user_10901495">
+    <tag k="ele" v="557"/>
+    <tag k="istat_id" v="1402810002"/>
+    <tag k="name" v="San Carlo"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="115"/>
+    <tag k="wikidata" v="Q33478864"/>
+  </node>
   <node id="1727509731" lat="41.2733301" lon="14.2230652" version="4" timestamp="2024-10-27T21:33:49Z" changeset="158432530" uid="1109359" user="makakko">
     <tag k="ele" v="180"/>
     <tag k="gfoss_id" v="61736"/>
@@ -23175,9 +23165,8 @@
     <tag k="wikimedia_commons" v="Category:Magliano Sabina"/>
     <tag k="wikipedia" v="it:Magliano Sabina"/>
   </node>
-  <node id="8222523703" lat="46.1574765" lon="9.6621614" version="6" timestamp="2026-05-11T18:21:19Z" changeset="182524414" uid="10901495" user="user_10901495">
+  <node id="8222523703" lat="46.1574765" lon="9.6621614" version="7" timestamp="2026-05-29T18:20:26Z" changeset="183368925" uid="10901495" user="user_10901495">
     <tag k="ele" v="285"/>
-    <tag k="fixme" v="Popolare di building questo villaggio"/>
     <tag k="name" v="Sirta"/>
     <tag k="place" v="village"/>
     <tag k="population" v="438"/>
