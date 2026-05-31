@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-05-30T05:49:01Z" areas="2026-05-29T14:50:44Z"/>
+<meta osm_base="2026-05-31T06:27:30Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1521,12 +1521,11 @@
     <tag k="population" v="804"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506249" lat="45.8261850" lon="9.7221520" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2167"/>
+  <node id="62506249" lat="45.8257809" lon="9.7222081" version="4" timestamp="2026-05-30T10:43:23Z" changeset="183394114" uid="10901495" user="user_10901495">
+    <tag k="ele" v="432"/>
     <tag k="name" v="Algua"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="658"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="14"/>
   </node>
   <node id="62506258" lat="45.7212356" lon="9.8935702" version="4" timestamp="2023-04-24T05:40:54Z" changeset="135285012" uid="139580" user="morsi">
     <tag k="gfoss_id" v="1958"/>
@@ -8079,11 +8078,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2000"/>
   </node>
-  <node id="62516251" lat="46.3052737" lon="9.3803256" version="7" timestamp="2022-04-02T10:49:09Z" changeset="119230376" uid="10901495" user="user_10901495">
+  <node id="62516251" lat="46.3052737" lon="9.3803256" version="8" timestamp="2026-05-30T20:07:06Z" changeset="183416615" uid="10901495" user="user_10901495">
     <tag k="ele" v="274"/>
     <tag k="loc_name" v="Mès"/>
     <tag k="name" v="Mese"/>
     <tag k="name:la" v="Mexe;Mesis"/>
+    <tag k="old_name" v="Ultriro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1800"/>
     <tag k="wikidata" v="Q30027481"/>
@@ -8130,14 +8130,12 @@
     <tag k="population" v="445"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516411" lat="46.1726750" lon="10.0641264" version="4" timestamp="2025-08-15T16:44:16Z" changeset="170489704" uid="22632809" user="KeyTV">
-    <tag k="gfoss_id" v="1724"/>
+  <node id="62516411" lat="46.1722169" lon="10.0669066" version="5" timestamp="2026-05-30T18:46:53Z" changeset="183413736" uid="10901495" user="user_10901495">
+    <tag k="ele" v="851"/>
     <tag k="name" v="Teglio"/>
     <tag k="name:de" v="Tell"/>
-    <tag k="name:ru" v="Тельо"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4797"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="1158"/>
   </node>
   <node id="62516424" lat="46.2314000" lon="10.2285560" version="5" timestamp="2024-09-09T17:58:50Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="ele" v="515"/>
@@ -25932,13 +25930,6 @@
     <tag k="wikidata" v="Q53915"/>
     <tag k="wikipedia" v="it:Mendicino"/>
   </node>
-  <node id="67274605" lat="39.8883030" lon="15.9867800" version="2" timestamp="2016-08-28T18:58:33Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6569"/>
-    <tag k="name" v="Mormanno"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3729"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67274626" lat="39.3159930" lon="16.1737910" version="2" timestamp="2026-01-14T11:18:58Z" changeset="177215410" uid="16701886" user="Giorgio543143">
     <tag k="gfoss_id" v="6561"/>
     <tag k="is_in" v="Cosenza, Calabria, Italy"/>
@@ -42401,6 +42392,19 @@
     <tag k="wikidata" v="Q391218"/>
     <tag k="wikipedia" v="sc:Patada"/>
     <tag k="wikipedia:it" v="Pattada"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="245922467" lat="46.5403897" lon="11.4570266" version="11" timestamp="2023-09-04T09:56:17Z" changeset="140796230" uid="11631067" user="emandt">
     <tag k="name" v="Klobenstein - Collalbo"/>
