@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-03T06:45:46Z" areas="2026-06-02T19:02:30Z"/>
+<meta osm_base="2026-06-04T06:28:33Z" areas="2026-06-03T21:33:30Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1023,12 +1023,10 @@
     <tag k="population" v="3388"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507937" lat="46.2203000" lon="10.3587590" version="3" timestamp="2024-09-09T17:58:46Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="2253"/>
+  <node id="62507937" lat="46.2221090" lon="10.3576794" version="4" timestamp="2026-06-03T19:25:53Z" changeset="183610778" uid="10901495" user="user_10901495">
     <tag k="name" v="Incudine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="451"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026344"/>
   </node>
   <node id="62507946" lat="45.7713171" lon="10.2841681" version="4" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -3303,7 +3301,7 @@
     <tag k="wikimedia_commons" v="File:Panorama_Poggiridenti.JPG"/>
     <tag k="wikipedia" v="it:Poggiridenti"/>
   </node>
-  <node id="62516077" lat="46.2585074" lon="10.2563896" version="4" timestamp="2026-01-14T20:45:39Z" changeset="177235924" uid="465052" user="hecktor">
+  <node id="62516077" lat="46.2582438" lon="10.2553936" version="5" timestamp="2026-06-03T17:46:31Z" changeset="183606913" uid="10901495" user="user_10901495">
     <tag k="ele" v="552"/>
     <tag k="loc_name" v="Maz"/>
     <tag k="name" v="Mazzo di Valtellina"/>
@@ -3401,12 +3399,11 @@
     <tag k="population" v="956"/>
     <tag k="wikidata" v="Q30023319"/>
   </node>
-  <node id="62516721" lat="46.2528354" lon="10.2402255" version="3" timestamp="2024-11-11T14:18:22Z" changeset="159008183" uid="9925732" user="Flight777">
-    <tag k="gfoss_id" v="1735"/>
+  <node id="62516721" lat="46.2530204" lon="10.2403542" version="4" timestamp="2026-06-03T17:46:31Z" changeset="183606913" uid="10901495" user="user_10901495">
+    <tag k="ele" v="549"/>
     <tag k="name" v="Vervio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="239"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="95"/>
   </node>
   <node id="62516727" lat="46.1324752" lon="9.4744415" version="6" timestamp="2026-05-12T10:09:30Z" changeset="182547004" uid="10901495" user="user_10901495">
     <tag k="ele" v="229"/>
@@ -16709,15 +16706,6 @@
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
-  </node>
-  <node id="287896814" lat="45.9216649" lon="11.3242901" version="12" timestamp="2026-01-19T14:37:00Z" changeset="177432087" uid="4365159" user="wildmaps">
-    <tag k="name" v="Lusérn - Luserna"/>
-    <tag k="name:cim" v="Lusérn"/>
-    <tag k="name:de" v="Lusern"/>
-    <tag k="name:it" v="Luserna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="276"/>
-    <tag k="wikidata" v="Q18480417"/>
   </node>
   <node id="302692796" lat="45.8585227" lon="11.9863835" version="9" timestamp="2017-03-12T14:07:58Z" changeset="46785792" uid="354284" user="sbiribizio">
     <tag k="name" v="Onigo"/>

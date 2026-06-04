@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-03T06:57:59Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-04T06:38:48Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -908,12 +908,10 @@
     <tag k="population" v="3388"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507937" lat="46.2203000" lon="10.3587590" version="3" timestamp="2024-09-09T17:58:46Z" changeset="156407408" uid="30587" user="IknowJoseph">
-    <tag k="gfoss_id" v="2253"/>
+  <node id="62507937" lat="46.2221090" lon="10.3576794" version="4" timestamp="2026-06-03T19:25:53Z" changeset="183610778" uid="10901495" user="user_10901495">
     <tag k="name" v="Incudine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="451"/>
-    <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026344"/>
   </node>
   <node id="62507986" lat="45.9834940" lon="10.3161630" version="3" timestamp="2024-09-09T17:58:49Z" changeset="156407408" uid="30587" user="IknowJoseph">
@@ -2948,7 +2946,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022991"/>
   </node>
-  <node id="62516077" lat="46.2585074" lon="10.2563896" version="4" timestamp="2026-01-14T20:45:39Z" changeset="177235924" uid="465052" user="hecktor">
+  <node id="62516077" lat="46.2582438" lon="10.2553936" version="5" timestamp="2026-06-03T17:46:31Z" changeset="183606913" uid="10901495" user="user_10901495">
     <tag k="ele" v="552"/>
     <tag k="loc_name" v="Maz"/>
     <tag k="name" v="Mazzo di Valtellina"/>
@@ -3010,23 +3008,11 @@
     <tag k="population" v="1220"/>
     <tag k="wikidata" v="Q30022820"/>
   </node>
-  <node id="62516721" lat="46.2528354" lon="10.2402255" version="3" timestamp="2024-11-11T14:18:22Z" changeset="159008183" uid="9925732" user="Flight777">
-    <tag k="gfoss_id" v="1735"/>
+  <node id="62516721" lat="46.2530204" lon="10.2403542" version="4" timestamp="2026-06-03T17:46:31Z" changeset="183606913" uid="10901495" user="user_10901495">
+    <tag k="ele" v="549"/>
     <tag k="name" v="Vervio"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="239"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62516735" lat="46.1360901" lon="9.6105308" version="5" timestamp="2021-12-19T15:13:03Z" changeset="115129423" uid="10901495" user="user_10901495">
-    <tag k="ele" v="285"/>
-    <tag k="loc_name" v="Talamona"/>
-    <tag k="loc_name:pronunciation" v="talaˈmu:na"/>
-    <tag k="name" v="Talamona"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4615"/>
-    <tag k="wikidata" v="Q30030995"/>
-    <tag k="wikimedia_commons" v="Category:Talamona"/>
-    <tag k="wikipedia" v="it:Talamona"/>
+    <tag k="population" v="95"/>
   </node>
   <node id="62516746" lat="46.1496199" lon="9.5257960" version="7" timestamp="2021-11-04T18:20:10Z" changeset="113380181" uid="10901495" user="user_10901495">
     <tag k="ele" v="252"/>
