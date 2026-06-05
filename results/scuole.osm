@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-04T06:45:00Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-05T06:22:15Z" areas="2026-06-04T17:45:32Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4420,12 +4420,14 @@
     <tag k="population" v="779"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62518099" lat="45.8934053" lon="8.7559697" version="3" timestamp="2025-04-14T18:03:19Z" changeset="164951391" uid="67550" user="Aiman">
+  <node id="62518099" lat="45.8934053" lon="8.7559697" version="4" timestamp="2026-06-04T15:24:25Z" changeset="183652392" uid="23861640" user="Leolini22">
     <tag k="gfoss_id" v="1399"/>
     <tag k="name" v="Castello Cabiaglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="503"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q39505"/>
+    <tag k="wikipedia" v="it:Castello Cabiaglio"/>
   </node>
   <node id="62518128" lat="45.8642056" lon="8.9293287" version="3" timestamp="2024-08-01T14:10:16Z" changeset="154696235" uid="67550" user="Aiman">
     <tag k="gfoss_id" v="1408"/>
@@ -23610,19 +23612,6 @@
     <tag k="wikidata" v="Q390890"/>
     <tag k="wikipedia" v="it:Mara (Italia)"/>
     <tag k="wikipedia:sc" v="Mara"/>
-  </node>
-  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
-    <tag k="ele" v="832"/>
-    <tag k="name" v="Promontogno"/>
-    <tag k="old_name" v="Primentonia"/>
-    <tag k="place" v="hamlet"/>
-    <tag k="population" v="104"/>
-    <tag k="population:date" v="2008"/>
-    <tag k="postal_code" v="7606"/>
-    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
-    <tag k="wikidata" v="Q7249857"/>
-    <tag k="wikimedia_commons" v="Category:Promontogno"/>
-    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="249581031" lat="44.7712392" lon="9.2410693" version="6" timestamp="2023-02-27T21:38:44Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="name" v="Casanova di Destra"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-04T06:41:59Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-05T06:21:15Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8049,7 +8049,7 @@
     <tag k="population" v="3000"/>
     <tag k="wikidata" v="Q30022100"/>
   </node>
-  <node id="62516212" lat="46.3071940" lon="9.3952360" version="3" timestamp="2021-11-04T12:53:59Z" changeset="113368974" uid="10901495" user="user_10901495">
+  <node id="62516212" lat="46.3074593" lon="9.3980658" version="4" timestamp="2026-06-04T10:21:48Z" changeset="183636996" uid="10901495" user="user_10901495">
     <tag k="ele" v="352"/>
     <tag k="loc_name" v="Prada Campustazz;Pràda Campürtasc"/>
     <tag k="name" v="Prata Camportaccio"/>
@@ -8987,7 +8987,7 @@
     <tag k="population" v="1325"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62517589" lat="45.8960048" lon="8.7329793" version="3" timestamp="2025-02-11T13:36:36Z" changeset="162391747" uid="9616185" user="LukeDH">
+  <node id="62517589" lat="45.8960888" lon="8.7329407" version="4" timestamp="2026-06-04T21:10:22Z" changeset="183666015" uid="23861640" user="Leolini22">
     <tag k="gfoss_id" v="1419"/>
     <tag k="is_in" v="Varese, Lombardia, Italy"/>
     <tag k="name" v="Cuvio"/>
@@ -9170,12 +9170,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q39916"/>
   </node>
-  <node id="62518099" lat="45.8934053" lon="8.7559697" version="3" timestamp="2025-04-14T18:03:19Z" changeset="164951391" uid="67550" user="Aiman">
+  <node id="62518099" lat="45.8934053" lon="8.7559697" version="4" timestamp="2026-06-04T15:24:25Z" changeset="183652392" uid="23861640" user="Leolini22">
     <tag k="gfoss_id" v="1399"/>
     <tag k="name" v="Castello Cabiaglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="503"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q39505"/>
+    <tag k="wikipedia" v="it:Castello Cabiaglio"/>
   </node>
   <node id="62518117" lat="45.6587762" lon="8.9719319" version="5" timestamp="2022-06-12T13:24:41Z" changeset="122280987" uid="668137" user="Ramying">
     <tag k="name" v="Cislago"/>
@@ -14201,12 +14203,17 @@
     <tag k="population" v="897"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628882" lat="44.9577440" lon="7.6673240" version="4" timestamp="2023-01-17T19:57:27Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63628882" lat="44.9577440" lon="7.6673240" version="5" timestamp="2026-06-04T23:31:37Z" changeset="183668774" uid="35793" user="Gio">
+    <tag k="addr:city" v="Torino"/>
+    <tag k="addr:postcode" v="10040"/>
+    <tag k="ele" v="230"/>
     <tag k="gfoss_id" v="127"/>
     <tag k="name" v="La Loggia"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6485"/>
+    <tag k="population" v="8693"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q9412"/>
+    <tag k="wikipedia" v="it:La Loggia"/>
   </node>
   <node id="63628892" lat="44.9574400" lon="7.1909140" version="4" timestamp="2023-01-17T19:59:15Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="184"/>
@@ -25523,13 +25530,6 @@
     <tag k="name" v="Orsomarso"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1498"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67274201" lat="40.0538090" lon="16.4460880" version="2" timestamp="2016-08-28T18:58:34Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6572"/>
-    <tag k="name" v="Oriolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2964"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67274204" lat="39.2613930" lon="16.3385950" version="2" timestamp="2016-08-28T18:58:37Z" changeset="41762146" uid="743479" user="fayor">
