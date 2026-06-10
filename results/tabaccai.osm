@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-07T06:24:38Z" areas="2026-06-06T19:28:45Z"/>
+<meta osm_base="2026-06-10T06:24:44Z" areas="2026-06-09T21:06:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -3734,12 +3734,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="604"/>
   </node>
-  <node id="62509531" lat="45.9575626" lon="9.1276954" version="4" timestamp="2019-09-11T15:28:01Z" changeset="74361390" uid="554973" user="dgitto">
+  <node id="62509531" lat="45.9572123" lon="9.1269966" version="5" timestamp="2026-06-07T20:55:40Z" changeset="183799697" uid="69717" user="kaitu">
     <tag k="gfoss_id" v="1618"/>
     <tag k="name" v="Pigra"/>
     <tag k="place" v="village"/>
     <tag k="population" v="302"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30028884"/>
   </node>
   <node id="62509545" lat="46.0360715" lon="9.1183915" version="6" timestamp="2018-08-15T12:34:22Z" changeset="61684157" uid="1476146" user="Alecs01">
     <tag k="gfoss_id" v="1623"/>
@@ -18615,12 +18616,11 @@
     <tag k="wikidata" v="Q30031931"/>
     <tag k="wikipedia" v="it:Vo'"/>
   </node>
-  <node id="64778278" lat="45.4904556" lon="11.9730203" version="4" timestamp="2025-12-25T23:37:54Z" changeset="176413104" uid="16429077" user="Grazing6603">
-    <tag k="gfoss_id" v="3619"/>
+  <node id="64778278" lat="45.4905741" lon="11.9723095" version="5" timestamp="2026-06-07T17:37:53Z" changeset="183792540" uid="10901495" user="user_10901495">
+    <tag k="ele" v="12"/>
     <tag k="name" v="Villanova di Camposampiero"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6139"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="4467"/>
     <tag k="wikidata" v="Q34350"/>
     <tag k="wikipedia" v="it:Villanova di Camposampiero"/>
   </node>
@@ -31907,13 +31907,6 @@
     <tag k="population" v="877"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68569133" lat="41.3106067" lon="14.8789437" version="5" timestamp="2023-12-01T14:41:53Z" changeset="144665033" uid="3731185" user="giorgio92">
-    <tag k="gfoss_id" v="5324"/>
-    <tag k="name" v="San Marco dei Cavoti"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3752"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68569158" lat="41.3874559" lon="14.7322030" version="7" timestamp="2020-05-09T15:41:13Z" changeset="84942674" uid="1258547" user="Decan">
     <tag k="gfoss_id" v="5329"/>
     <tag k="name" v="Santa Croce del Sannio"/>
@@ -33941,21 +33934,6 @@
     <tag k="website" v="https://www.comune.argelato.bo.it/"/>
     <tag k="wikidata" v="Q52218"/>
     <tag k="wikipedia" v="it:Argelato"/>
-  </node>
-  <node id="69300071" lat="44.1704570" lon="11.0888120" version="7" timestamp="2017-05-02T18:11:46Z" changeset="48342986" uid="1834719" user="LvdT">
-    <tag k="ele" v="692"/>
-    <tag k="gfoss_id" v="4036"/>
-    <tag k="name" v="Camugnano"/>
-    <tag k="name:egl" v="Camugnàn"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2038"/>
-    <tag k="postal_code" v="40032"/>
-    <tag k="ref:ISTAT" v="037010"/>
-    <tag k="ref:catasto" v="B572"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comunecamugnano.gov.it/"/>
-    <tag k="wikidata" v="Q94631"/>
-    <tag k="wikipedia" v="it:Camugnano"/>
   </node>
   <node id="69300081" lat="44.1629560" lon="11.0358110" version="9" timestamp="2024-06-26T09:31:54Z" changeset="153193905" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="533"/>

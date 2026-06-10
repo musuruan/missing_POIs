@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-07T06:21:36Z" areas="2026-06-06T19:28:45Z"/>
+<meta osm_base="2026-06-10T06:20:40Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1315,13 +1315,6 @@
     <tag k="population" v="453"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515820" lat="44.8684762" lon="9.2652299" version="3" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2560"/>
-    <tag k="name" v="Zavattarello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1129"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="62515835" lat="45.1104640" lon="9.3960580" version="4" timestamp="2024-09-09T17:59:18Z" changeset="156407408" uid="30587" user="IknowJoseph">
     <tag k="ele" v="68"/>
     <tag k="gfoss_id" v="2564"/>
@@ -2444,12 +2437,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030111"/>
   </node>
-  <node id="64778278" lat="45.4904556" lon="11.9730203" version="4" timestamp="2025-12-25T23:37:54Z" changeset="176413104" uid="16429077" user="Grazing6603">
-    <tag k="gfoss_id" v="3619"/>
+  <node id="64778278" lat="45.4905741" lon="11.9723095" version="5" timestamp="2026-06-07T17:37:53Z" changeset="183792540" uid="10901495" user="user_10901495">
+    <tag k="ele" v="12"/>
     <tag k="name" v="Villanova di Camposampiero"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6139"/>
-    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="population" v="4467"/>
     <tag k="wikidata" v="Q34350"/>
     <tag k="wikipedia" v="it:Villanova di Camposampiero"/>
   </node>
@@ -2903,12 +2895,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027189"/>
   </node>
-  <node id="64778750" lat="45.5054111" lon="12.0339479" version="8" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
+  <node id="64778750" lat="45.5048942" lon="12.0350959" version="9" timestamp="2026-06-07T17:37:53Z" changeset="183792540" uid="10901495" user="user_10901495">
+    <tag k="ele" v="13"/>
     <tag k="name" v="Santa Maria di Sala"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="17458"/>
-    <tag k="population:date" v="2025-11-14"/>
-    <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2408"/>
     <tag k="wikidata" v="Q30030266"/>
   </node>
   <node id="64778757" lat="45.1360987" lon="12.0812854" version="6" timestamp="2025-11-16T20:18:44Z" changeset="174744134" uid="22632809" user="KeyTV">
@@ -2948,13 +2939,11 @@
     <tag k="source:population" v="ISTAT 2025 (Intero Comune)"/>
     <tag k="wikidata" v="Q30025709"/>
   </node>
-  <node id="64778795" lat="45.4559602" lon="12.0301919" version="15" timestamp="2025-12-25T23:37:54Z" changeset="176413104" uid="16429077" user="Grazing6603">
-    <tag k="gfoss_id" v="350t1"/>
+  <node id="64778795" lat="45.4558746" lon="12.0301483" version="16" timestamp="2026-06-07T17:37:53Z" changeset="183792540" uid="10901495" user="user_10901495">
+    <tag k="ele" v="8"/>
     <tag k="name" v="Pianiga"/>
-    <tag k="note" v="12280 (Comune) 3400 (Capoluogo comunale)"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="12280"/>
-    <tag k="source" v="ISTAT"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="3400"/>
     <tag k="wikidata" v="Q46950"/>
     <tag k="wikipedia" v="it:Pianiga"/>
   </node>
@@ -9697,6 +9686,19 @@
     <tag k="website" v="https://www.comune.stintino.ss.it/"/>
     <tag k="wikidata" v="Q391409"/>
     <tag k="wikipedia" v="sc:Istintinu"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="347123635" lat="45.1927143" lon="12.0399128" version="4" timestamp="2025-05-16T14:10:03Z" changeset="166353501" uid="14316347" user="Gicorada">
     <tag k="name" v="Pegolotte"/>
