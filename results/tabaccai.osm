@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-10T06:24:44Z" areas="2026-06-09T21:06:15Z"/>
+<meta osm_base="2026-06-11T06:49:50Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -23405,7 +23405,7 @@
     <tag k="population" v="6948"/>
     <tag k="source:population" v="Istat 2021"/>
   </node>
-  <node id="67253732" lat="37.5700419" lon="13.4546092" version="15" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
+  <node id="67253732" lat="37.5698276" lon="13.4535034" version="16" timestamp="2026-06-10T17:40:42Z" changeset="183935937" uid="923271" user="aldoct">
     <tag k="name" v="Alessandria della Rocca"/>
     <tag k="name:it" v="Alessandria della Rocca"/>
     <tag k="name:scn" v="Lisciànnira di la Rocca"/>
@@ -42354,6 +42354,19 @@
     <tag k="wikipedia" v="sc:Patada"/>
     <tag k="wikipedia:it" v="Pattada"/>
   </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
+  </node>
   <node id="245922467" lat="46.5403897" lon="11.4570266" version="11" timestamp="2023-09-04T09:56:17Z" changeset="140796230" uid="11631067" user="emandt">
     <tag k="name" v="Klobenstein - Collalbo"/>
     <tag k="name:de" v="Klobenstein"/>
@@ -42819,7 +42832,7 @@
     <tag k="population" v="8019"/>
     <tag k="wikidata" v="Q18490630"/>
   </node>
-  <node id="480638714" lat="45.1886190" lon="10.7919897" version="4" timestamp="2025-07-13T09:41:39Z" changeset="168865392" uid="14476883" user="Daniel Vincenc">
+  <node id="480638714" lat="45.1886681" lon="10.7918314" version="5" timestamp="2026-06-10T15:43:15Z" changeset="183930609" uid="465052" user="hecktor">
     <tag k="name" v="Sant'Antonio"/>
     <tag k="place" v="village"/>
   </node>
