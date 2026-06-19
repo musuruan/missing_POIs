@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-18T06:44:14Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-19T06:56:43Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -34,6 +34,15 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="41645001" lat="45.3716864" lon="7.0467945" version="17" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="73480"/>
+    <tag k="name" v="Bonneval-sur-Arc"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="266"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikipedia" v="fr:Bonneval-sur-Arc"/>
   </node>
   <node id="61753389" lat="43.6405741" lon="11.9874471" version="3" timestamp="2024-11-07T10:26:07Z" changeset="158847503" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="4590"/>
@@ -16802,6 +16811,18 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2732"/>
   </node>
+  <node id="430269450" lat="46.3921730" lon="9.2325189" version="7" timestamp="2021-10-22T01:28:44Z" changeset="112814983" uid="10901495" user="user_10901495">
+    <tag k="ele" v="766"/>
+    <tag k="loc_name" v="Mesocc"/>
+    <tag k="name" v="Mesocco"/>
+    <tag k="name:de" v="Misox"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1297"/>
+    <tag k="postal_code" v="6563"/>
+    <tag k="website" v="http://www.mesocco.ch"/>
+    <tag k="wikidata" v="Q64617"/>
+    <tag k="wikipedia" v="it:Mesocco"/>
+  </node>
   <node id="437246141" lat="45.5696499" lon="7.1183340" version="7" timestamp="2026-01-23T00:23:39Z" changeset="177588234" uid="4365159" user="wildmaps">
     <tag k="ele" v="1722"/>
     <tag k="name" v="Bruil"/>
@@ -17508,6 +17529,24 @@
     <tag k="wikidata" v="Q30024546"/>
     <tag k="wikimedia_commons" v="Category:Cerchio (Italy)"/>
     <tag k="wikipedia" v="it:Cerchio (Italia)"/>
+  </node>
+  <node id="4429008093" lat="46.5530710" lon="9.3234097" version="6" timestamp="2022-07-09T11:31:47Z" changeset="123396903" uid="10901495" user="user_10901495">
+    <tag k="alt_name" v="Spluegen;Splugen;Splügen GR"/>
+    <tag k="alt_name:rm" v="Spligia"/>
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1457"/>
+    <tag k="name" v="Splügen"/>
+    <tag k="name:de" v="Splügen"/>
+    <tag k="name:it" v="Spluga"/>
+    <tag k="name:pronunciation" v="ˈʃplyːg̊ə"/>
+    <tag k="name:rm" v="Spleja"/>
+    <tag k="note" v="name pronunciation is in the local german pronunciation"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="377"/>
+    <tag k="population:date" v="2016-12-31"/>
+    <tag k="postal_code" v="7435"/>
+    <tag k="wikidata" v="Q64195"/>
+    <tag k="wikipedia" v="de:Splügen GR"/>
   </node>
   <node id="4464079813" lat="46.4118147" lon="10.9708987" version="6" timestamp="2026-01-20T12:54:36Z" changeset="177473466" uid="8522139" user="mosis99">
     <tag k="name" v="Bresimo"/>

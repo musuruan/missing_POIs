@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-18T06:51:31Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-19T07:04:51Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -34,6 +34,15 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="41645001" lat="45.3716864" lon="7.0467945" version="17" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="73480"/>
+    <tag k="name" v="Bonneval-sur-Arc"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="266"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikipedia" v="fr:Bonneval-sur-Arc"/>
   </node>
   <node id="56040271" lat="44.3204868" lon="11.7992579" version="4" timestamp="2024-12-26T22:39:14Z" changeset="160656133" uid="1726102" user="AlessioMela">
     <tag k="name" v="Castel Bolognese"/>
@@ -543,14 +552,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="557"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62506316" lat="45.9785178" lon="10.1126472" version="6" timestamp="2026-01-26T17:49:47Z" changeset="177730721" uid="1950277" user="Mannivu">
-    <tag k="gfoss_id" v="1943"/>
-    <tag k="name" v="Azzone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="388"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022471"/>
   </node>
   <node id="62506355" lat="45.6708455" lon="9.7613544" version="9" timestamp="2020-05-20T05:34:20Z" changeset="85475674" uid="478872" user="mcheck">
     <tag k="gfoss_id" v="1968"/>
@@ -21971,6 +21972,18 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2732"/>
   </node>
+  <node id="430269450" lat="46.3921730" lon="9.2325189" version="7" timestamp="2021-10-22T01:28:44Z" changeset="112814983" uid="10901495" user="user_10901495">
+    <tag k="ele" v="766"/>
+    <tag k="loc_name" v="Mesocc"/>
+    <tag k="name" v="Mesocco"/>
+    <tag k="name:de" v="Misox"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1297"/>
+    <tag k="postal_code" v="6563"/>
+    <tag k="website" v="http://www.mesocco.ch"/>
+    <tag k="wikidata" v="Q64617"/>
+    <tag k="wikipedia" v="it:Mesocco"/>
+  </node>
   <node id="461480949" lat="45.7085893" lon="7.1397458" version="2" timestamp="2012-10-25T14:39:00Z" changeset="13627969" uid="439413" user="nuvolabianca">
     <tag k="is_in" v="Aosta"/>
     <tag k="name" v="Avise"/>
@@ -22896,6 +22909,24 @@
     <tag k="wikidata" v="Q30024546"/>
     <tag k="wikimedia_commons" v="Category:Cerchio (Italy)"/>
     <tag k="wikipedia" v="it:Cerchio (Italia)"/>
+  </node>
+  <node id="4429008093" lat="46.5530710" lon="9.3234097" version="6" timestamp="2022-07-09T11:31:47Z" changeset="123396903" uid="10901495" user="user_10901495">
+    <tag k="alt_name" v="Spluegen;Splugen;Splügen GR"/>
+    <tag k="alt_name:rm" v="Spligia"/>
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1457"/>
+    <tag k="name" v="Splügen"/>
+    <tag k="name:de" v="Splügen"/>
+    <tag k="name:it" v="Spluga"/>
+    <tag k="name:pronunciation" v="ˈʃplyːg̊ə"/>
+    <tag k="name:rm" v="Spleja"/>
+    <tag k="note" v="name pronunciation is in the local german pronunciation"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="377"/>
+    <tag k="population:date" v="2016-12-31"/>
+    <tag k="postal_code" v="7435"/>
+    <tag k="wikidata" v="Q64195"/>
+    <tag k="wikipedia" v="de:Splügen GR"/>
   </node>
   <node id="4436512780" lat="45.1063826" lon="11.6605269" version="3" timestamp="2025-02-18T19:06:38Z" changeset="162673810" uid="679159" user="Forza10">
     <tag k="name" v="Barbona"/>
