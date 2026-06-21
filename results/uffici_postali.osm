@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-20T06:11:15Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-21T06:43:58Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -8038,14 +8038,6 @@
     <tag k="population" v="62"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q266381"/>
-  </node>
-  <node id="66586673" lat="43.8652210" lon="7.8687480" version="4" timestamp="2026-01-26T21:41:18Z" changeset="177739557" uid="20673751" user="LucianoC63">
-    <tag k="gfoss_id" v="1135"/>
-    <tag k="name" v="Castellaro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1044"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024207"/>
   </node>
   <node id="66586678" lat="43.9724065" lon="7.9910739" version="5" timestamp="2026-01-26T21:41:18Z" changeset="177739557" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1140"/>
@@ -16698,6 +16690,21 @@
     <tag k="wikidata" v="Q67332"/>
     <tag k="wikipedia" v="de:Grengiols"/>
   </node>
+  <node id="240094598" lat="46.5569192" lon="9.4394374" version="10" timestamp="2022-07-12T18:33:10Z" changeset="123532345" uid="10901495" user="user_10901495">
+    <tag k="alt_name:rm" v="Feraila"/>
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1316"/>
+    <tag k="name" v="Ausserferrera"/>
+    <tag k="name:it" v="Ferrera di Fuori"/>
+    <tag k="name:rm" v="Farera"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="46"/>
+    <tag k="population:date" v="2007-12-31"/>
+    <tag k="postal_code" v="7444"/>
+    <tag k="ref:OFS" v="3702"/>
+    <tag k="wikidata" v="Q669218"/>
+    <tag k="wikipedia" v="de:Ausserferrera"/>
+  </node>
   <node id="240123169" lat="46.1621804" lon="8.1164859" version="14" timestamp="2023-01-17T19:55:18Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="ele" v="1359"/>
     <tag k="name" v="Zwischbergen"/>
@@ -17407,6 +17414,20 @@
     <tag k="name" v="Caversaccio"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q48800570"/>
+  </node>
+  <node id="2956969233" lat="46.5706799" lon="9.3664422" version="6" timestamp="2022-07-13T10:39:03Z" changeset="123558576" uid="10901495" user="user_10901495">
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1430"/>
+    <tag k="name" v="Sufers"/>
+    <tag k="name:de" v="Sufers"/>
+    <tag k="name:rm" v="Sur"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="125"/>
+    <tag k="postal_code" v="7434"/>
+    <tag k="website" v="https://www.sufers.ch/"/>
+    <tag k="wikidata" v="Q66012"/>
+    <tag k="wikimedia_commons" v="Category:Sufers"/>
+    <tag k="wikipedia" v="de:Sufers"/>
   </node>
   <node id="3250869670" lat="43.1661204" lon="13.4164033" version="4" timestamp="2016-09-09T17:36:36Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4298"/>
