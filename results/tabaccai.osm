@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-22T07:25:29Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-23T06:13:50Z" areas="2026-06-23T02:34:12Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -34,15 +34,6 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
-  </node>
-  <node id="41645001" lat="45.3716864" lon="7.0467945" version="17" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
-    <tag k="addr:postcode" v="73480"/>
-    <tag k="name" v="Bonneval-sur-Arc"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="266"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="source:population" v="INSEE 2024"/>
-    <tag k="wikipedia" v="fr:Bonneval-sur-Arc"/>
   </node>
   <node id="60147390" lat="46.4653657" lon="12.7087174" version="18" timestamp="2025-07-15T11:54:57Z" changeset="168961665" uid="14202171" user="Alessandro Ambrosino">
     <tag k="alt_name:de" v="Unterzahre"/>
@@ -8182,7 +8173,7 @@
     <tag k="wikidata" v="Q40653"/>
     <tag k="wikipedia" v="it:Grosio"/>
   </node>
-  <node id="62516559" lat="46.2916801" lon="9.3657433" version="4" timestamp="2022-01-19T00:48:56Z" changeset="116320553" uid="10901495" user="user_10901495">
+  <node id="62516559" lat="46.2913945" lon="9.3681235" version="5" timestamp="2026-06-22T13:39:10Z" changeset="184432733" uid="10901495" user="user_10901495">
     <tag k="ele" v="283"/>
     <tag k="loc_name" v="Gùrduna"/>
     <tag k="name" v="Gordona"/>
@@ -8270,7 +8261,7 @@
     <tag k="population" v="956"/>
     <tag k="wikidata" v="Q30023319"/>
   </node>
-  <node id="62516698" lat="46.4028756" lon="9.3532536" version="11" timestamp="2022-01-14T14:50:44Z" changeset="116150646" uid="10901495" user="user_10901495">
+  <node id="62516698" lat="46.4026957" lon="9.3547980" version="12" timestamp="2026-06-22T14:08:03Z" changeset="184434052" uid="10901495" user="user_10901495">
     <tag k="loc_name" v="Candulscin"/>
     <tag k="name" v="Campodolcino"/>
     <tag k="name:de" v="Gampolschin"/>
@@ -8357,9 +8348,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="501"/>
   </node>
-  <node id="62516749" lat="46.3374131" lon="9.3706850" version="12" timestamp="2021-11-27T16:24:31Z" changeset="114299972" uid="10901495" user="user_10901495">
+  <node id="62516749" lat="46.3374131" lon="9.3706850" version="13" timestamp="2026-06-22T14:04:34Z" changeset="184433859" uid="10901495" user="user_10901495">
     <tag k="ele" v="520"/>
     <tag k="loc_name" v="San Giacùm"/>
+    <tag k="loc_name:en" v="Scuaföia"/>
     <tag k="name" v="San Giacomo Filippo"/>
     <tag k="name:la" v="Fanum Sanctorum Iacobi et Philippi;Fani Sanctorum Iacobi"/>
     <tag k="place" v="village"/>
@@ -35608,14 +35600,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022021"/>
   </node>
-  <node id="70979190" lat="43.5781353" lon="13.3527346" version="4" timestamp="2026-01-06T14:10:41Z" changeset="176904823" uid="123412" user="totera">
-    <tag k="gfoss_id" v="4234"/>
-    <tag k="name" v="Camerata Picena"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1700"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023441"/>
-  </node>
   <node id="70979233" lat="43.4872802" lon="13.1452722" version="4" timestamp="2026-01-23T23:17:28Z" changeset="177629634" uid="123412" user="totera">
     <tag k="gfoss_id" v="4235"/>
     <tag k="name" v="Castelbellino"/>
@@ -42273,77 +42257,6 @@
     <tag k="wikipedia" v="sc:Patada"/>
     <tag k="wikipedia:it" v="Pattada"/>
   </node>
-  <node id="118314095" lat="46.5137824" lon="8.3248669" version="9" timestamp="2019-03-20T23:02:05Z" changeset="68356221" uid="9451067" user="b-jazz-bot">
-    <tag k="ele" v="1355"/>
-    <tag k="name" v="Obergesteln"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="195"/>
-    <tag k="website" v="https://www.obergoms.ch/"/>
-    <tag k="wikidata" v="Q662541"/>
-    <tag k="wikipedia" v="de:Obergesteln"/>
-  </node>
-  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
-    <tag k="ele" v="832"/>
-    <tag k="name" v="Promontogno"/>
-    <tag k="old_name" v="Primentonia"/>
-    <tag k="place" v="hamlet"/>
-    <tag k="population" v="104"/>
-    <tag k="population:date" v="2008"/>
-    <tag k="postal_code" v="7606"/>
-    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
-    <tag k="wikidata" v="Q7249857"/>
-    <tag k="wikimedia_commons" v="Category:Promontogno"/>
-    <tag k="wikipedia" v="it:Promontogno"/>
-  </node>
-  <node id="240074304" lat="46.3655993" lon="8.1883972" version="12" timestamp="2026-03-11T14:29:14Z" changeset="179706364" uid="23862645" user="Tseodoric">
-    <tag k="ele" v="1400"/>
-    <tag k="name" v="Binn"/>
-    <tag k="name:frp" v="Boueng"/>
-    <tag k="name:wae" v="Bìi"/>
-    <tag k="note" v="Schmidighischere ist der Name des grössten Dorfes im Binntal, Binn ist der Name der Gemeinde. Es gibt kein Dorf mit dem Namen Binn, obwohl Schmidighischere oft mit Binn gleichgesetzt wird. Siehe Wikipedia-Artikel Schmidighischere."/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="144"/>
-    <tag k="postal_code" v="3996"/>
-    <tag k="website" v="https://www.binn.ch/"/>
-    <tag k="wikidata" v="Q68471"/>
-    <tag k="wikipedia" v="de:Binn"/>
-  </node>
-  <node id="240092945" lat="46.3729638" lon="8.0925350" version="12" timestamp="2026-05-10T14:32:29Z" changeset="182469690" uid="8241440" user="jbcharron">
-    <tag k="ele" v="995"/>
-    <tag k="name" v="Grengiols"/>
-    <tag k="name:uk" v="Гре́нгйольс"/>
-    <tag k="note" v="58 km2"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="436"/>
-    <tag k="website" v="http://www.grengiols.ch/"/>
-    <tag k="wikidata" v="Q67332"/>
-    <tag k="wikipedia" v="de:Grengiols"/>
-  </node>
-  <node id="240094598" lat="46.5569192" lon="9.4394374" version="10" timestamp="2022-07-12T18:33:10Z" changeset="123532345" uid="10901495" user="user_10901495">
-    <tag k="alt_name:rm" v="Feraila"/>
-    <tag k="capital" v="8"/>
-    <tag k="ele" v="1316"/>
-    <tag k="name" v="Ausserferrera"/>
-    <tag k="name:it" v="Ferrera di Fuori"/>
-    <tag k="name:rm" v="Farera"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="46"/>
-    <tag k="population:date" v="2007-12-31"/>
-    <tag k="postal_code" v="7444"/>
-    <tag k="ref:OFS" v="3702"/>
-    <tag k="wikidata" v="Q669218"/>
-    <tag k="wikipedia" v="de:Ausserferrera"/>
-  </node>
-  <node id="240123169" lat="46.1621804" lon="8.1164859" version="14" timestamp="2023-01-17T19:55:18Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="ele" v="1359"/>
-    <tag k="name" v="Zwischbergen"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="86"/>
-    <tag k="postal_code" v="3901"/>
-    <tag k="website" v="https://www.gondo.ch/"/>
-    <tag k="wikidata" v="Q68087"/>
-    <tag k="wikipedia" v="de:Zwischbergen"/>
-  </node>
   <node id="245922467" lat="46.5403897" lon="11.4570266" version="11" timestamp="2023-09-04T09:56:17Z" changeset="140796230" uid="11631067" user="emandt">
     <tag k="name" v="Klobenstein - Collalbo"/>
     <tag k="name:de" v="Klobenstein"/>
@@ -42721,18 +42634,6 @@
     <tag k="population" v="692"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="430269450" lat="46.3921730" lon="9.2325189" version="7" timestamp="2021-10-22T01:28:44Z" changeset="112814983" uid="10901495" user="user_10901495">
-    <tag k="ele" v="766"/>
-    <tag k="loc_name" v="Mesocc"/>
-    <tag k="name" v="Mesocco"/>
-    <tag k="name:de" v="Misox"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1297"/>
-    <tag k="postal_code" v="6563"/>
-    <tag k="website" v="http://www.mesocco.ch"/>
-    <tag k="wikidata" v="Q64617"/>
-    <tag k="wikipedia" v="it:Mesocco"/>
-  </node>
   <node id="437246141" lat="45.5696499" lon="7.1183340" version="7" timestamp="2026-01-23T00:23:39Z" changeset="177588234" uid="4365159" user="wildmaps">
     <tag k="ele" v="1722"/>
     <tag k="name" v="Bruil"/>
@@ -43065,15 +42966,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="144"/>
     <tag k="wikidata" v="Q18470143"/>
-  </node>
-  <node id="748358516" lat="46.4640805" lon="8.2325689" version="6" timestamp="2020-09-06T12:59:41Z" changeset="90479545" uid="8339" user="mtmail">
-    <tag k="ele" v="1357"/>
-    <tag k="name" v="Gluringen"/>
-    <tag k="place" v="village"/>
-    <tag k="postal_code" v="3998"/>
-    <tag k="website" v="https://www.gemeinde-goms.ch/"/>
-    <tag k="wikidata" v="Q1532367"/>
-    <tag k="wikipedia" v="de:Gluringen"/>
   </node>
   <node id="759627428" lat="43.0765485" lon="11.6789076" version="14" timestamp="2024-05-15T06:46:24Z" changeset="151342935" uid="21311955" user="JonathanBStaiger">
     <tag k="ele" v="491"/>
@@ -45068,20 +44960,6 @@
     <tag k="wikidata" v="Q18487688"/>
     <tag k="wikipedia" v="it:Montano (Montano Lucino)"/>
   </node>
-  <node id="2956969233" lat="46.5706799" lon="9.3664422" version="6" timestamp="2022-07-13T10:39:03Z" changeset="123558576" uid="10901495" user="user_10901495">
-    <tag k="capital" v="8"/>
-    <tag k="ele" v="1430"/>
-    <tag k="name" v="Sufers"/>
-    <tag k="name:de" v="Sufers"/>
-    <tag k="name:rm" v="Sur"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="125"/>
-    <tag k="postal_code" v="7434"/>
-    <tag k="website" v="https://www.sufers.ch/"/>
-    <tag k="wikidata" v="Q66012"/>
-    <tag k="wikimedia_commons" v="Category:Sufers"/>
-    <tag k="wikipedia" v="de:Sufers"/>
-  </node>
   <node id="2962248948" lat="43.1117111" lon="13.6029809" version="4" timestamp="2016-09-09T17:36:35Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="name" v="Grottazzolina"/>
     <tag k="place" v="village"/>
@@ -45571,24 +45449,6 @@
     <tag k="name" v="Ponteacqua"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30027525"/>
-  </node>
-  <node id="4429008093" lat="46.5530710" lon="9.3234097" version="6" timestamp="2022-07-09T11:31:47Z" changeset="123396903" uid="10901495" user="user_10901495">
-    <tag k="alt_name" v="Spluegen;Splugen;Splügen GR"/>
-    <tag k="alt_name:rm" v="Spligia"/>
-    <tag k="capital" v="8"/>
-    <tag k="ele" v="1457"/>
-    <tag k="name" v="Splügen"/>
-    <tag k="name:de" v="Splügen"/>
-    <tag k="name:it" v="Spluga"/>
-    <tag k="name:pronunciation" v="ˈʃplyːg̊ə"/>
-    <tag k="name:rm" v="Spleja"/>
-    <tag k="note" v="name pronunciation is in the local german pronunciation"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="377"/>
-    <tag k="population:date" v="2016-12-31"/>
-    <tag k="postal_code" v="7435"/>
-    <tag k="wikidata" v="Q64195"/>
-    <tag k="wikipedia" v="de:Splügen GR"/>
   </node>
   <node id="4431005893" lat="45.0403699" lon="8.9476057" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2525"/>
