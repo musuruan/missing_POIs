@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-26T06:10:15Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-27T05:51:01Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -356,7 +356,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026771"/>
   </node>
-  <node id="62510978" lat="45.7751770" lon="9.0578380" version="2" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62510978" lat="45.7751770" lon="9.0578380" version="2" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="L987">
     <tag k="gfoss_id" v="1572"/>
     <tag k="name" v="Grandate"/>
     <tag k="place" v="village"/>
@@ -561,7 +561,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q33431112"/>
   </node>
-  <node id="62512137" lat="45.7246346" lon="9.3245602" version="7" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62512137" lat="45.7246346" lon="9.3245602" version="7" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="L987">
     <tag k="addr:postcode" v="23897"/>
     <tag k="ele" v="390"/>
     <tag k="gfoss_id" v="7859"/>
@@ -614,7 +614,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024619"/>
   </node>
-  <node id="62512525" lat="45.7443892" lon="9.3750111" version="5" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62512525" lat="45.7443892" lon="9.3750111" version="5" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="L987">
     <tag k="gfoss_id" v="7843"/>
     <tag k="name" v="Santa Maria Hoè"/>
     <tag k="place" v="village"/>
@@ -958,7 +958,7 @@
     <tag k="population" v="2852"/>
     <tag k="source" v="comuni-italiani.it"/>
   </node>
-  <node id="62514075" lat="45.5756656" lon="9.5003771" version="4" timestamp="2019-12-16T14:19:35Z" changeset="78478695" uid="506470" user="LuSirto">
+  <node id="62514075" lat="45.5756656" lon="9.5003771" version="4" timestamp="2019-12-16T14:19:35Z" changeset="78478695" uid="506470" user="L987">
     <tag k="gfoss_id" v="1869"/>
     <tag k="loc_name" v="Pozzo"/>
     <tag k="name" v="Pozzo d'Adda"/>
@@ -1075,7 +1075,7 @@
     <tag k="population:date" v="25/11/2025"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62515168" lat="45.5918653" lon="9.4952028" version="3" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62515168" lat="45.5918653" lon="9.4952028" version="3" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="L987">
     <tag k="gfoss_id" v="1819"/>
     <tag k="name" v="Grezzago"/>
     <tag k="place" v="village"/>
@@ -5325,13 +5325,6 @@
     <tag k="name" v="Cerro al Volturno"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1440"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67284360" lat="41.7671539" lon="14.3974582" version="3" timestamp="2025-09-25T18:30:26Z" changeset="172453512" uid="34088" user="Tri38">
-    <tag k="gfoss_id" v="7570"/>
-    <tag k="name" v="Castelverrino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="130"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67284433" lat="41.6968199" lon="14.2335322" version="4" timestamp="2016-09-03T02:35:25Z" changeset="41880656" uid="743479" user="fayor">
@@ -9711,6 +9704,19 @@
     <tag k="place" v="town"/>
     <tag k="population" v="11966"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="528322124" lat="46.5332403" lon="9.8745860" version="7" timestamp="2021-12-05T14:22:34Z" changeset="114583806" uid="10901495" user="user_10901495">
+    <tag k="ele" v="1721"/>
+    <tag k="name" v="Samedan"/>
+    <tag k="name:de" v="Samaden"/>
+    <tag k="name:it" v="Samedano;Samada"/>
+    <tag k="name:rm" v="Samedan"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2923"/>
+    <tag k="population:date" v="2020-12-21"/>
+    <tag k="website" v="https://www.samedan.ch/"/>
+    <tag k="wikidata" v="Q69085"/>
+    <tag k="wikipedia" v="de:Samedan"/>
   </node>
   <node id="541135011" lat="45.1848407" lon="11.8834864" version="7" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3525"/>

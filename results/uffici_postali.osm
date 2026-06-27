@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-26T06:04:07Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-06-27T05:45:48Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -417,7 +417,7 @@
     <tag k="population" v="114"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62506365" lat="45.6398780" lon="9.5064510" version="2" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62506365" lat="45.6398780" lon="9.5064510" version="2" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="L987">
     <tag k="gfoss_id" v="1960"/>
     <tag k="name" v="Bottanuco"/>
     <tag k="place" v="village"/>
@@ -1477,7 +1477,7 @@
     <tag k="population" v="1247"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62509940" lat="45.7029760" lon="9.1106410" version="2" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62509940" lat="45.7029760" lon="9.1106410" version="2" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="L987">
     <tag k="gfoss_id" v="1531"/>
     <tag k="name" v="Carimate"/>
     <tag k="place" v="village"/>
@@ -2631,7 +2631,7 @@
     <tag k="population" v="3087"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62514301" lat="45.4395480" lon="9.3526310" version="3" timestamp="2020-05-19T19:59:02Z" changeset="85460953" uid="506470" user="LuSirto">
+  <node id="62514301" lat="45.4395480" lon="9.3526310" version="3" timestamp="2020-05-19T19:59:02Z" changeset="85460953" uid="506470" user="L987">
     <tag k="gfoss_id" v="1860"/>
     <tag k="name" v="Pantigliate"/>
     <tag k="old_postal_code" v="20090"/>
@@ -2640,7 +2640,7 @@
     <tag k="postal_code" v="20048"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62514337" lat="45.5725439" lon="9.4268416" version="5" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="LuSirto">
+  <node id="62514337" lat="45.5725439" lon="9.4268416" version="5" timestamp="2019-11-19T10:52:26Z" changeset="77269193" uid="506470" user="L987">
     <tag k="gfoss_id" v="1774"/>
     <tag k="name" v="Cambiago"/>
     <tag k="place" v="village"/>
@@ -2729,7 +2729,7 @@
     <tag k="population" v="7225"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62514967" lat="45.4837150" lon="9.4685402" version="2" timestamp="2023-06-14T07:14:38Z" changeset="137313706" uid="506470" user="LuSirto">
+  <node id="62514967" lat="45.4837150" lon="9.4685402" version="2" timestamp="2023-06-14T07:14:38Z" changeset="137313706" uid="506470" user="L987">
     <tag k="gfoss_id" v="1905"/>
     <tag k="is_in" v="Milano, Lombardia, Italy"/>
     <tag k="name" v="Truccazzano"/>
@@ -3346,7 +3346,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="450"/>
   </node>
-  <node id="62516539" lat="46.2989301" lon="10.2745156" version="4" timestamp="2022-09-09T09:14:05Z" changeset="125973002" uid="506470" user="LuSirto">
+  <node id="62516539" lat="46.2989301" lon="10.2745156" version="4" timestamp="2022-09-09T09:14:05Z" changeset="125973002" uid="506470" user="L987">
     <tag k="ele" v="656"/>
     <tag k="loc_name" v="Gròs"/>
     <tag k="name" v="Grosio"/>
@@ -3570,7 +3570,7 @@
     <tag k="population" v="828"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62516936" lat="46.2798623" lon="10.2584412" version="4" timestamp="2022-09-09T09:36:20Z" changeset="125973810" uid="506470" user="LuSirto">
+  <node id="62516936" lat="46.2798623" lon="10.2584412" version="4" timestamp="2022-09-09T09:36:20Z" changeset="125973810" uid="506470" user="L987">
     <tag k="ele" v="610"/>
     <tag k="loc_name" v="Grosùt;Grosót"/>
     <tag k="name" v="Grosotto"/>
@@ -16844,6 +16844,19 @@
     <tag k="website" v="https://www.comune.camposanto.mo.it/"/>
     <tag k="wikidata" v="Q100040"/>
     <tag k="wikipedia" v="it:Camposanto"/>
+  </node>
+  <node id="528322124" lat="46.5332403" lon="9.8745860" version="7" timestamp="2021-12-05T14:22:34Z" changeset="114583806" uid="10901495" user="user_10901495">
+    <tag k="ele" v="1721"/>
+    <tag k="name" v="Samedan"/>
+    <tag k="name:de" v="Samaden"/>
+    <tag k="name:it" v="Samedano;Samada"/>
+    <tag k="name:rm" v="Samedan"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2923"/>
+    <tag k="population:date" v="2020-12-21"/>
+    <tag k="website" v="https://www.samedan.ch/"/>
+    <tag k="wikidata" v="Q69085"/>
+    <tag k="wikipedia" v="de:Samedan"/>
   </node>
   <node id="538937073" lat="46.7774258" lon="11.6905966" version="8" timestamp="2026-01-19T17:43:45Z" changeset="177441708" uid="4365159" user="wildmaps">
     <tag k="ele" v="885"/>
