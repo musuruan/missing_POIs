@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-30T06:03:25Z" areas="2026-06-29T21:45:44Z"/>
+<meta osm_base="2026-07-01T06:17:44Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -34,6 +34,15 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="41645001" lat="45.3716864" lon="7.0467945" version="17" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="73480"/>
+    <tag k="name" v="Bonneval-sur-Arc"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="266"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikipedia" v="fr:Bonneval-sur-Arc"/>
   </node>
   <node id="61753389" lat="43.6405741" lon="11.9874471" version="3" timestamp="2024-11-07T10:26:07Z" changeset="158847503" uid="9925732" user="Flight777">
     <tag k="gfoss_id" v="4590"/>
@@ -16382,20 +16391,6 @@
     <tag k="wikipedia" v="it:Seulo"/>
     <tag k="wikipedia:sc" v="Seulu"/>
   </node>
-  <node id="72992621" lat="40.2719580" lon="9.1703320" version="46" timestamp="2023-11-01T19:10:11Z" changeset="143492027" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Oniferi"/>
-    <tag k="gfoss_id" v="7356"/>
-    <tag k="name" v="Onieri/Oniferi"/>
-    <tag k="name:it" v="Oniferi"/>
-    <tag k="name:sc" v="Onieri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="959"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.oniferi.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295399"/>
-    <tag k="wikipedia" v="it:Oniferi"/>
-  </node>
   <node id="72992772" lat="39.7213450" lon="8.8974340" version="42" timestamp="2023-11-07T21:09:03Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Baradile"/>
     <tag k="gfoss_id" v="7619"/>
@@ -16552,6 +16547,77 @@
     <tag k="wikidata" v="Q387452"/>
     <tag k="wikipedia" v="it:Pompu"/>
   </node>
+  <node id="118314095" lat="46.5137824" lon="8.3248669" version="9" timestamp="2019-03-20T23:02:05Z" changeset="68356221" uid="9451067" user="b-jazz-bot">
+    <tag k="ele" v="1355"/>
+    <tag k="name" v="Obergesteln"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="195"/>
+    <tag k="website" v="https://www.obergoms.ch/"/>
+    <tag k="wikidata" v="Q662541"/>
+    <tag k="wikipedia" v="de:Obergesteln"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
+  </node>
+  <node id="240074304" lat="46.3655993" lon="8.1883972" version="12" timestamp="2026-03-11T14:29:14Z" changeset="179706364" uid="23862645" user="Tseodoric">
+    <tag k="ele" v="1400"/>
+    <tag k="name" v="Binn"/>
+    <tag k="name:frp" v="Boueng"/>
+    <tag k="name:wae" v="Bìi"/>
+    <tag k="note" v="Schmidighischere ist der Name des grössten Dorfes im Binntal, Binn ist der Name der Gemeinde. Es gibt kein Dorf mit dem Namen Binn, obwohl Schmidighischere oft mit Binn gleichgesetzt wird. Siehe Wikipedia-Artikel Schmidighischere."/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="144"/>
+    <tag k="postal_code" v="3996"/>
+    <tag k="website" v="https://www.binn.ch/"/>
+    <tag k="wikidata" v="Q68471"/>
+    <tag k="wikipedia" v="de:Binn"/>
+  </node>
+  <node id="240092945" lat="46.3729638" lon="8.0925350" version="12" timestamp="2026-05-10T14:32:29Z" changeset="182469690" uid="8241440" user="jbcharron">
+    <tag k="ele" v="995"/>
+    <tag k="name" v="Grengiols"/>
+    <tag k="name:uk" v="Гре́нгйольс"/>
+    <tag k="note" v="58 km2"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="436"/>
+    <tag k="website" v="http://www.grengiols.ch/"/>
+    <tag k="wikidata" v="Q67332"/>
+    <tag k="wikipedia" v="de:Grengiols"/>
+  </node>
+  <node id="240094598" lat="46.5569192" lon="9.4394374" version="10" timestamp="2022-07-12T18:33:10Z" changeset="123532345" uid="10901495" user="user_10901495">
+    <tag k="alt_name:rm" v="Feraila"/>
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1316"/>
+    <tag k="name" v="Ausserferrera"/>
+    <tag k="name:it" v="Ferrera di Fuori"/>
+    <tag k="name:rm" v="Farera"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="46"/>
+    <tag k="population:date" v="2007-12-31"/>
+    <tag k="postal_code" v="7444"/>
+    <tag k="ref:OFS" v="3702"/>
+    <tag k="wikidata" v="Q669218"/>
+    <tag k="wikipedia" v="de:Ausserferrera"/>
+  </node>
+  <node id="240123169" lat="46.1621804" lon="8.1164859" version="14" timestamp="2023-01-17T19:55:18Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+    <tag k="ele" v="1359"/>
+    <tag k="name" v="Zwischbergen"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="86"/>
+    <tag k="postal_code" v="3901"/>
+    <tag k="website" v="https://www.gondo.ch/"/>
+    <tag k="wikidata" v="Q68087"/>
+    <tag k="wikipedia" v="de:Zwischbergen"/>
+  </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="9" timestamp="2026-01-01T18:42:49Z" changeset="176714791" uid="1726102" user="AlessioMela">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
     <tag k="name:it" v="Fontanazzo di sotto"/>
@@ -16567,6 +16633,24 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
   </node>
+  <node id="282901527" lat="46.6270915" lon="10.4466197" version="5" timestamp="2023-09-30T20:01:47Z" changeset="141966305" uid="18913526" user="Gurusraouta">
+    <tag k="ele" v="1273"/>
+    <tag k="name" v="Müstair"/>
+    <tag k="name:de" v="Müstair"/>
+    <tag k="name:fr" v="Müstair"/>
+    <tag k="name:kk" v="Мюстаир"/>
+    <tag k="name:rm" v="Müstair"/>
+    <tag k="name:ru" v="Мюштайр"/>
+    <tag k="old_name" v="Münster"/>
+    <tag k="old_name:de" v="Münster"/>
+    <tag k="old_name:fr" v="Münster"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="764"/>
+    <tag k="postal_code" v="7537"/>
+    <tag k="website" v="https://www.cdvm.ch/"/>
+    <tag k="wikidata" v="Q1959393"/>
+    <tag k="wikipedia" v="de:Müstair"/>
+  </node>
   <node id="302692796" lat="45.8585227" lon="11.9863835" version="9" timestamp="2017-03-12T14:07:58Z" changeset="46785792" uid="354284" user="sbiribizio">
     <tag k="name" v="Onigo"/>
     <tag k="place" v="village"/>
@@ -16581,6 +16665,22 @@
     <tag k="name" v="Ferrada"/>
     <tag k="place" v="village"/>
     <tag k="population" v="621"/>
+  </node>
+  <node id="321521585" lat="46.7976371" lon="10.2996234" version="21" timestamp="2024-11-17T07:57:38Z" changeset="159232146" uid="1894634" user="Wikilux">
+    <tag k="ele" v="1250"/>
+    <tag k="name" v="Scuol"/>
+    <tag k="name:de" v="Scuol"/>
+    <tag k="name:gsw" v="Schguol"/>
+    <tag k="name:rm" v="Scuol"/>
+    <tag k="name:ru" v="Шкуоль"/>
+    <tag k="name:uk" v="Шкуоль"/>
+    <tag k="old_name:de" v="Schuls"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4591"/>
+    <tag k="postal_code" v="7550"/>
+    <tag k="website" v="https://www.scuol.net/"/>
+    <tag k="wikidata" v="Q69079"/>
+    <tag k="wikipedia" v="de:Scuol"/>
   </node>
   <node id="321859985" lat="46.0766465" lon="10.3500680" version="4" timestamp="2026-01-26T17:49:59Z" changeset="177730721" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2217"/>
@@ -16655,6 +16755,18 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2732"/>
   </node>
+  <node id="430269450" lat="46.3921730" lon="9.2325189" version="7" timestamp="2021-10-22T01:28:44Z" changeset="112814983" uid="10901495" user="user_10901495">
+    <tag k="ele" v="766"/>
+    <tag k="loc_name" v="Mesocc"/>
+    <tag k="name" v="Mesocco"/>
+    <tag k="name:de" v="Misox"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1297"/>
+    <tag k="postal_code" v="6563"/>
+    <tag k="website" v="http://www.mesocco.ch"/>
+    <tag k="wikidata" v="Q64617"/>
+    <tag k="wikipedia" v="it:Mesocco"/>
+  </node>
   <node id="437246141" lat="45.5696499" lon="7.1183340" version="7" timestamp="2026-01-23T00:23:39Z" changeset="177588234" uid="4365159" user="wildmaps">
     <tag k="ele" v="1722"/>
     <tag k="name" v="Bruil"/>
@@ -16711,6 +16823,19 @@
     <tag k="website" v="https://www.comune.camposanto.mo.it/"/>
     <tag k="wikidata" v="Q100040"/>
     <tag k="wikipedia" v="it:Camposanto"/>
+  </node>
+  <node id="528322124" lat="46.5332403" lon="9.8745860" version="7" timestamp="2021-12-05T14:22:34Z" changeset="114583806" uid="10901495" user="user_10901495">
+    <tag k="ele" v="1721"/>
+    <tag k="name" v="Samedan"/>
+    <tag k="name:de" v="Samaden"/>
+    <tag k="name:it" v="Samedano;Samada"/>
+    <tag k="name:rm" v="Samedan"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2923"/>
+    <tag k="population:date" v="2020-12-21"/>
+    <tag k="website" v="https://www.samedan.ch/"/>
+    <tag k="wikidata" v="Q69085"/>
+    <tag k="wikipedia" v="de:Samedan"/>
   </node>
   <node id="538937073" lat="46.7774258" lon="11.6905966" version="8" timestamp="2026-01-19T17:43:45Z" changeset="177441708" uid="4365159" user="wildmaps">
     <tag k="ele" v="885"/>
@@ -16776,6 +16901,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="144"/>
     <tag k="wikidata" v="Q18470143"/>
+  </node>
+  <node id="748358516" lat="46.4640805" lon="8.2325689" version="6" timestamp="2020-09-06T12:59:41Z" changeset="90479545" uid="8339" user="mtmail">
+    <tag k="ele" v="1357"/>
+    <tag k="name" v="Gluringen"/>
+    <tag k="place" v="village"/>
+    <tag k="postal_code" v="3998"/>
+    <tag k="website" v="https://www.gemeinde-goms.ch/"/>
+    <tag k="wikidata" v="Q1532367"/>
+    <tag k="wikipedia" v="de:Gluringen"/>
   </node>
   <node id="768212645" lat="44.9129273" lon="9.0958805" version="2" timestamp="2013-08-08T11:37:21Z" changeset="17265406" uid="730682" user="Max1234-ITA">
     <tag k="ele" v="525"/>
@@ -17110,6 +17244,14 @@
     <tag k="population" v="2716"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
+  <node id="2314499669" lat="46.4729086" lon="9.5122667" version="10" timestamp="2026-04-04T10:37:59Z" changeset="180847029" uid="10901495" user="user_10901495">
+    <tag k="alt_name" v="Avers-Cresta"/>
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1960"/>
+    <tag k="name" v="Cresta"/>
+    <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q104891196"/>
+  </node>
   <node id="2319457327" lat="43.5133959" lon="12.7350290" version="3" timestamp="2023-09-23T21:32:02Z" changeset="141661830" uid="4188272" user="dp7">
     <tag k="ele" v="412"/>
     <tag k="gfoss_id" v="51099"/>
@@ -17216,6 +17358,20 @@
     <tag k="name" v="Caversaccio"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q48800570"/>
+  </node>
+  <node id="2956969233" lat="46.5706799" lon="9.3664422" version="6" timestamp="2022-07-13T10:39:03Z" changeset="123558576" uid="10901495" user="user_10901495">
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1430"/>
+    <tag k="name" v="Sufers"/>
+    <tag k="name:de" v="Sufers"/>
+    <tag k="name:rm" v="Sur"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="125"/>
+    <tag k="postal_code" v="7434"/>
+    <tag k="website" v="https://www.sufers.ch/"/>
+    <tag k="wikidata" v="Q66012"/>
+    <tag k="wikimedia_commons" v="Category:Sufers"/>
+    <tag k="wikipedia" v="de:Sufers"/>
   </node>
   <node id="3250869670" lat="43.1661204" lon="13.4164033" version="4" timestamp="2016-09-09T17:36:36Z" changeset="42039680" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4298"/>
@@ -17338,6 +17494,24 @@
     <tag k="wikidata" v="Q30024546"/>
     <tag k="wikimedia_commons" v="Category:Cerchio (Italy)"/>
     <tag k="wikipedia" v="it:Cerchio (Italia)"/>
+  </node>
+  <node id="4429008093" lat="46.5530710" lon="9.3234097" version="6" timestamp="2022-07-09T11:31:47Z" changeset="123396903" uid="10901495" user="user_10901495">
+    <tag k="alt_name" v="Spluegen;Splugen;Splügen GR"/>
+    <tag k="alt_name:rm" v="Spligia"/>
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1457"/>
+    <tag k="name" v="Splügen"/>
+    <tag k="name:de" v="Splügen"/>
+    <tag k="name:it" v="Spluga"/>
+    <tag k="name:pronunciation" v="ˈʃplyːg̊ə"/>
+    <tag k="name:rm" v="Spleja"/>
+    <tag k="note" v="name pronunciation is in the local german pronunciation"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="377"/>
+    <tag k="population:date" v="2016-12-31"/>
+    <tag k="postal_code" v="7435"/>
+    <tag k="wikidata" v="Q64195"/>
+    <tag k="wikipedia" v="de:Splügen GR"/>
   </node>
   <node id="4464079813" lat="46.4118147" lon="10.9708987" version="6" timestamp="2026-01-20T12:54:36Z" changeset="177473466" uid="8522139" user="mosis99">
     <tag k="name" v="Bresimo"/>

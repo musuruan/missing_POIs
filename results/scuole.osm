@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-06-30T06:15:45Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-07-01T06:31:59Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -7962,14 +7962,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3244"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="63629321" lat="45.4811600" lon="7.9339200" version="5" timestamp="2023-01-17T20:05:16Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="42"/>
-    <tag k="name" v="Burolo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1349"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q9108"/>
   </node>
   <node id="63629327" lat="45.4925019" lon="7.8032885" version="12" timestamp="2023-11-06T10:48:32Z" changeset="143687515" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="797"/>
@@ -22688,35 +22680,6 @@
     <tag k="wikipedia" v="sc:Elini"/>
     <tag k="wikipedia:it" v="Elini"/>
   </node>
-  <node id="72992597" lat="40.0684540" lon="9.1473340" version="43" timestamp="2023-11-08T07:24:19Z" changeset="143766427" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7385"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Tìana/Tiana"/>
-    <tag k="name:it" v="Tiana"/>
-    <tag k="name:sc" v="Tìana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="584"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comuneditiana.it/index.asp"/>
-    <tag k="wikidata" v="Q295643"/>
-    <tag k="wikipedia" v="it:Tiana"/>
-    <tag k="wikipedia:sc" v="Tìana"/>
-  </node>
-  <node id="72992621" lat="40.2719580" lon="9.1703320" version="46" timestamp="2023-11-01T19:10:11Z" changeset="143492027" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Oniferi"/>
-    <tag k="gfoss_id" v="7356"/>
-    <tag k="name" v="Onieri/Oniferi"/>
-    <tag k="name:it" v="Oniferi"/>
-    <tag k="name:sc" v="Onieri"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="959"/>
-    <tag k="postal_code" v="08020"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.oniferi.nu.it/index.asp"/>
-    <tag k="wikidata" v="Q295399"/>
-    <tag k="wikipedia" v="it:Oniferi"/>
-  </node>
   <node id="72992772" lat="39.7213450" lon="8.8974340" version="42" timestamp="2023-11-07T21:09:03Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Baradile"/>
     <tag k="gfoss_id" v="7619"/>
@@ -23630,6 +23593,22 @@
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q1898310"/>
     <tag k="wikipedia" v="de:Marina di Campo"/>
+  </node>
+  <node id="321521585" lat="46.7976371" lon="10.2996234" version="21" timestamp="2024-11-17T07:57:38Z" changeset="159232146" uid="1894634" user="Wikilux">
+    <tag k="ele" v="1250"/>
+    <tag k="name" v="Scuol"/>
+    <tag k="name:de" v="Scuol"/>
+    <tag k="name:gsw" v="Schguol"/>
+    <tag k="name:rm" v="Scuol"/>
+    <tag k="name:ru" v="Шкуоль"/>
+    <tag k="name:uk" v="Шкуоль"/>
+    <tag k="old_name:de" v="Schuls"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4591"/>
+    <tag k="postal_code" v="7550"/>
+    <tag k="website" v="https://www.scuol.net/"/>
+    <tag k="wikidata" v="Q69079"/>
+    <tag k="wikipedia" v="de:Scuol"/>
   </node>
   <node id="321859985" lat="46.0766465" lon="10.3500680" version="4" timestamp="2026-01-26T17:49:59Z" changeset="177730721" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2217"/>
