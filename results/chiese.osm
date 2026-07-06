@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-05T05:57:44Z" areas="2026-07-04T18:29:44Z"/>
+<meta osm_base="2026-07-06T06:24:16Z" areas="2026-07-05T12:17:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2556,13 +2556,6 @@
     <tag k="name" v="Castelgrande"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1231"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="67281112" lat="40.0868090" lon="16.3296850" version="2" timestamp="2016-08-28T18:58:34Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6409"/>
-    <tag k="name" v="Noepoli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1189"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67281123" lat="41.0300260" lon="15.9692660" version="2" timestamp="2016-08-28T18:58:33Z" changeset="41762146" uid="743479" user="fayor">
@@ -6219,12 +6212,29 @@
     <tag k="wikidata" v="Q339943"/>
     <tag k="wikipedia" v="it:Girasole (Italia)"/>
   </node>
+  <node id="240098138" lat="46.8917562" lon="10.5026037" version="5" timestamp="2026-06-03T18:42:16Z" changeset="183609210" uid="99800" user="wolfbert">
+    <tag k="ele" v="1394"/>
+    <tag k="name" v="Nauders"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1536"/>
+  </node>
   <node id="268788418" lat="43.5263107" lon="13.0630099" version="14" timestamp="2026-01-29T17:22:06Z" changeset="177858416" uid="123412" user="totera">
     <tag k="name" v="Montecarotto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2176"/>
     <tag k="postal_code" v="60036"/>
     <tag k="wikidata" v="Q30027791"/>
+  </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="395603809" lat="43.9567671" lon="12.1959387" version="5" timestamp="2022-01-27T23:08:19Z" changeset="116685553" uid="554973" user="dgitto">
     <tag k="name" v="Mercato Saraceno"/>

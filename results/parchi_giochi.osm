@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-05T06:08:00Z" areas="2026-07-04T18:29:44Z"/>
+<meta osm_base="2026-07-06T06:31:30Z" areas="2026-07-05T12:17:00Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -19550,21 +19550,6 @@
     <tag k="wikipedia" v="it:Nuxis"/>
     <tag k="wikipedia:sc" v="Nuxis"/>
   </node>
-  <node id="72990990" lat="39.3587390" lon="9.0067410" version="41" timestamp="2019-03-16T22:47:31Z" changeset="68215741" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name" v="Santu Sperau"/>
-    <tag k="gfoss_id" v="7456"/>
-    <tag k="name" v="Santu Sparau/San Sperate"/>
-    <tag k="name:it" v="San Sperate"/>
-    <tag k="name:sc" v="Santu Sparau"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6821"/>
-    <tag k="postal_code" v="09026"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.sansperate.net/"/>
-    <tag k="wikidata" v="Q284850"/>
-    <tag k="wikipedia" v="it:San Sperate"/>
-    <tag k="wikipedia:sc" v="Santu Sparau"/>
-  </node>
   <node id="72990996" lat="39.4813410" lon="8.9076370" version="41" timestamp="2023-11-10T02:45:47Z" changeset="143844984" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7449"/>
     <tag k="name" v="Samassi"/>
@@ -21778,12 +21763,29 @@
     <tag k="wikipedia" v="it:Mara (Italia)"/>
     <tag k="wikipedia:sc" v="Mara"/>
   </node>
+  <node id="240098138" lat="46.8917562" lon="10.5026037" version="5" timestamp="2026-06-03T18:42:16Z" changeset="183609210" uid="99800" user="wolfbert">
+    <tag k="ele" v="1394"/>
+    <tag k="name" v="Nauders"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1536"/>
+  </node>
   <node id="259742893" lat="42.3665063" lon="10.9002704" version="8" timestamp="2017-03-11T12:52:38Z" changeset="46761779" uid="354284" user="sbiribizio">
     <tag k="name" v="Giglio Castello"/>
     <tag k="place" v="village"/>
     <tag k="population" v="557"/>
     <tag k="wikidata" v="Q1523719"/>
     <tag k="wikipedia" v="it:Giglio Castello"/>
+  </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
   </node>
   <node id="291647121" lat="43.8402291" lon="12.3591843" version="5" timestamp="2026-01-19T17:21:08Z" changeset="177440571" uid="4365159" user="wildmaps">
     <tag k="name" v="Villagrande"/>
