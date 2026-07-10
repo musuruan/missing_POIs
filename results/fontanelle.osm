@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-08T05:19:29Z" areas="2026-07-07T19:41:45Z"/>
+<meta osm_base="2026-07-10T06:02:30Z" areas="2026-07-09T23:12:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2369,15 +2369,6 @@
     <tag k="name" v="Varisella"/>
     <tag k="place" v="village"/>
     <tag k="population" v="690"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="64777219" lat="46.4139949" lon="11.3050772" version="5" timestamp="2020-03-13T15:40:23Z" changeset="82170683" uid="1462614" user="_Andrea_">
-    <tag k="gfoss_id" v="2854"/>
-    <tag k="name" v="Vadena - Pfatten"/>
-    <tag k="name:de" v="Pfatten"/>
-    <tag k="name:it" v="Vadena"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="842"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="64778271" lat="45.2452436" lon="11.8186411" version="5" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
@@ -7759,17 +7750,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024302"/>
   </node>
-  <node id="72959732" lat="41.5549190" lon="13.6034070" version="4" timestamp="2026-01-19T11:52:30Z" changeset="177423344" uid="4365159" user="wildmaps">
-    <tag k="admin_level" v="8"/>
-    <tag k="alt_name" v="Coldragone"/>
-    <tag k="name" v="Colfelice"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1853"/>
-    <tag k="ref:ISTAT" v="060027"/>
-    <tag k="ref:catasto" v="C836"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q18452883"/>
-  </node>
   <node id="72959744" lat="41.5428220" lon="13.9528150" version="3" timestamp="2021-04-29T19:56:40Z" changeset="103867285" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="5066"/>
     <tag k="name" v="Acquafondata"/>
@@ -9239,9 +9219,8 @@
     <tag k="wikipedia" v="it:Mores"/>
     <tag k="wikipedia:sc" v="Mores"/>
   </node>
-  <node id="72993969" lat="40.6748600" lon="8.5917140" version="39" timestamp="2017-03-03T19:54:00Z" changeset="46557134" uid="454589" user="sabas88">
+  <node id="72993969" lat="40.6748600" lon="8.5917140" version="40" timestamp="2026-07-09T10:56:25Z" changeset="185400041" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="7258"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
     <tag k="name" v="Ossi"/>
     <tag k="name:it" v="Ossi"/>
     <tag k="name:sc" v="Ossi"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-08T05:22:31Z" areas="2026-05-12T07:36:16Z"/>
+<meta osm_base="2026-07-10T06:11:36Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2977,7 +2977,7 @@
     <tag k="population" v="5099"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508210" lat="45.3285814" lon="10.0760863" version="3" timestamp="2019-06-14T12:16:14Z" changeset="71251205" uid="350864" user="demon_box">
+  <node id="62508210" lat="45.3282514" lon="10.0761051" version="4" timestamp="2026-07-10T05:31:21Z" changeset="185452323" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2365"/>
     <tag k="name" v="Verolanuova"/>
     <tag k="place" v="village"/>
@@ -3037,7 +3037,7 @@
     <tag k="population" v="2321"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508368" lat="45.3469750" lon="9.9684670" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508368" lat="45.3469750" lon="9.9664929" version="3" timestamp="2026-07-09T09:15:13Z" changeset="185394905" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2190"/>
     <tag k="name" v="Borgo San Giacomo"/>
     <tag k="place" v="village"/>
@@ -3345,7 +3345,7 @@
     <tag k="population" v="1239"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508795" lat="45.3108750" lon="10.0085680" version="3" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508795" lat="45.3133271" lon="10.0075917" version="4" timestamp="2026-07-09T20:25:18Z" changeset="185433775" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2329"/>
     <tag k="name" v="Quinzano d'Oglio"/>
     <tag k="place" v="village"/>
@@ -4161,9 +4161,9 @@
     <tag k="population" v="534"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62510530" lat="45.2518730" lon="9.9616680" version="6" timestamp="2026-05-17T09:25:38Z" changeset="182774034" uid="1950277" user="Mannivu">
+  <node id="62510530" lat="45.2515029" lon="9.9644521" version="7" timestamp="2026-07-09T12:42:43Z" changeset="185405490" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2582"/>
-    <tag k="name" v="Casalbuttano"/>
+    <tag k="name" v="Casalbuttano ed Uniti"/>
     <tag k="name:it" v="Casalbuttano"/>
     <tag k="name:ru" v="Каcальбуттано"/>
     <tag k="place" v="village"/>
@@ -20934,12 +20934,13 @@
     <tag k="postal_code" v="34076"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502708" lat="45.8278081" lon="13.5018454" version="15" timestamp="2025-11-13T17:47:35Z" changeset="174616714" uid="12294600" user="alessandrocarmeli">
+  <node id="66502708" lat="45.8278081" lon="13.5018454" version="16" timestamp="2026-07-08T14:50:54Z" changeset="185346259" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="3824"/>
     <tag k="name" v="Ronchi dei Legionari"/>
     <tag k="name:fur" v="Roncjis di Monfalcon"/>
     <tag k="name:it" v="Ronchi dei Legionari"/>
     <tag k="name:sl" v="Ronke pri Tržiču"/>
+    <tag k="name:vec" v="Ronchi"/>
     <tag k="old_name:de" v="Ronkis"/>
     <tag k="place" v="town"/>
     <tag k="population" v="11963"/>
@@ -21030,14 +21031,17 @@
     <tag k="population" v="2087"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502781" lat="45.8469180" lon="13.4601370" version="4" timestamp="2016-10-16T13:42:36Z" changeset="42935220" uid="743479" user="fayor">
+  <node id="66502781" lat="45.8469180" lon="13.4601370" version="5" timestamp="2026-07-08T14:50:54Z" changeset="185346259" uid="20552772" user="user_8y978a">
+    <tag k="alt_name:fur" v="San Pieri"/>
     <tag k="gfoss_id" v="3829"/>
     <tag k="name" v="San Pier d'Isonzo"/>
     <tag k="name:fur" v="San Pieri dal Tiritori"/>
     <tag k="name:sl" v="Špeter ob Soči"/>
+    <tag k="name:vec" v="San Piero"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1892"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:name" v="wikipedia"/>
   </node>
   <node id="66502785" lat="45.9312174" lon="13.5285489" version="9" timestamp="2026-01-08T20:45:51Z" changeset="177000546" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3828"/>
@@ -21051,13 +21055,17 @@
     <tag k="population" v="1412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502810" lat="45.9686618" lon="12.4480970" version="7" timestamp="2021-05-01T16:13:56Z" changeset="103963974" uid="10649349" user="Mateusz_P_90110">
+  <node id="66502810" lat="45.9686618" lon="12.4480970" version="8" timestamp="2026-07-09T19:24:48Z" changeset="185430740" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="7515"/>
-    <tag k="name" v="Caneva"/>
+    <tag k="name" v="Càneva"/>
     <tag k="name:fur" v="Cjanive di Sacîl"/>
+    <tag k="name:it" v="Càneva"/>
+    <tag k="name:vec" v="Càneva"/>
+    <tag k="note" v="su 'name' il nome non è bilingue in quanto il friulano in tale centro abitato non è parlato"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6323"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:name" v="wikipedia"/>
   </node>
   <node id="66502815" lat="46.0685438" lon="12.5891138" version="9" timestamp="2025-07-07T16:50:58Z" changeset="168614910" uid="14202171" user="Alessandro Ambrosino">
     <tag k="gfoss_id" v="7510"/>
@@ -21180,10 +21188,10 @@
     <tag k="population" v="1516"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502909" lat="46.0453055" lon="12.8679995" version="16" timestamp="2025-07-05T06:27:37Z" changeset="168510190" uid="20552772" user="user_8y978a">
+  <node id="66502909" lat="46.0453055" lon="12.8679995" version="17" timestamp="2026-07-09T19:35:20Z" changeset="185431257" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="7543"/>
     <tag k="loc_name:fur" v="San 'Sors"/>
-    <tag k="name" v="San Giorgio della Richinvelda / San Zorç da la Richinvelde"/>
+    <tag k="name" v="San Giorgio della Richinvelda / San 'Sors"/>
     <tag k="name:fur" v="San Zorç da la Richinvelde"/>
     <tag k="name:it" v="San Giorgio della Richinvelda"/>
     <tag k="place" v="village"/>
@@ -21220,11 +21228,12 @@
     <tag k="population" v="1767"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502939" lat="45.8476416" lon="12.8155309" version="8" timestamp="2025-08-11T13:21:06Z" changeset="170293546" uid="20552772" user="user_8y978a">
+  <node id="66502939" lat="45.8476416" lon="12.8155309" version="9" timestamp="2026-07-09T19:10:53Z" changeset="185429952" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="7548"/>
-    <tag k="name" v="Sesto al Reghena / Siest"/>
+    <tag k="name" v="Sesto al Reghena / Siest / Sesto"/>
     <tag k="name:fur" v="Siest"/>
     <tag k="name:it" v="Sesto al Reghena"/>
+    <tag k="name:vec" v="Sesto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="6316"/>
     <tag k="population:date" v="2025-31-05"/>
@@ -42182,6 +42191,15 @@
     <tag k="wikidata" v="Q662541"/>
     <tag k="wikipedia" v="de:Obergesteln"/>
   </node>
+  <node id="240024343" lat="46.2349007" lon="9.1249754" version="11" timestamp="2023-11-06T18:41:23Z" changeset="143705808" uid="1894634" user="Wikilux">
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="298"/>
+    <tag k="name" v="Roveredo GR"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2511"/>
+    <tag k="wikidata" v="Q64912"/>
+    <tag k="wikipedia" v="it:Roveredo"/>
+  </node>
   <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
     <tag k="ele" v="832"/>
     <tag k="name" v="Promontogno"/>
@@ -42819,9 +42837,9 @@
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18496306"/>
   </node>
-  <node id="504634141" lat="45.8620975" lon="12.7528933" version="6" timestamp="2025-07-05T12:19:12Z" changeset="168520766" uid="20552772" user="user_8y978a">
+  <node id="504634141" lat="45.8620975" lon="12.7528933" version="7" timestamp="2026-07-09T19:10:53Z" changeset="185429952" uid="20552772" user="user_8y978a">
     <tag k="loc_name:fur" v="Vilota"/>
-    <tag k="name" v="Villotta / Vilote"/>
+    <tag k="name" v="Villotta / Vilote - Vilota"/>
     <tag k="name:fur" v="Vilote"/>
     <tag k="name:it" v="Villotta"/>
     <tag k="place" v="village"/>
@@ -43695,6 +43713,25 @@
     <tag k="wikidata" v="Q286187"/>
     <tag k="wikipedia" v="it:Calasetta"/>
   </node>
+  <node id="1376769424" lat="46.1920538" lon="9.0205888" version="27" timestamp="2025-08-24T17:42:01Z" changeset="170938066" uid="17860844" user="hangukhistory">
+    <tag k="admin_centre:4" v="yes"/>
+    <tag k="admin_centre:6" v="yes"/>
+    <tag k="ele" v="230"/>
+    <tag k="name" v="Bellinzona"/>
+    <tag k="name:fr" v="Bellinzone"/>
+    <tag k="name:ko" v="벨린초나"/>
+    <tag k="name:lt" v="Belincona"/>
+    <tag k="name:ru" v="Беллинцона"/>
+    <tag k="name:uk" v="Беллінцона"/>
+    <tag k="old_name:de" v="Bellenz"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="43785"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="postal_code" v="6500, 6503, 6512, 6513, 6514, 6515, 6518, 6523, 6524, 6525, 6528, 6582, 6583, 6702"/>
+    <tag k="website" v="https://www.bellinzona.ch/"/>
+    <tag k="wikidata" v="Q64044"/>
+    <tag k="wikipedia" v="it:Bellinzona"/>
+  </node>
   <node id="1390205098" lat="45.9342109" lon="11.0943149" version="11" timestamp="2024-03-29T20:04:59Z" changeset="149328674" uid="10882995" user="Necessarycoot72">
     <tag k="loc_name" v="Caliàm"/>
     <tag k="name" v="Calliano"/>
@@ -43930,12 +43967,6 @@
     <tag k="name" v="Chambave"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30024648"/>
-  </node>
-  <node id="1662574327" lat="45.7167983" lon="7.2591539" version="7" timestamp="2023-09-26T20:31:23Z" changeset="141791032" uid="18913526" user="Gurusraouta">
-    <tag k="name" v="Sarre"/>
-    <tag k="name:fr" v="Sarre"/>
-    <tag k="name:frp" v="Saro"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="1679334206" lat="46.5980617" lon="10.5458223" version="6" timestamp="2017-05-06T11:28:28Z" changeset="48449842" uid="1714220" user="luschi">
     <tag k="ele" v="1310"/>

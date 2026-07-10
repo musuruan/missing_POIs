@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-08T05:21:30Z" areas="2026-07-07T19:41:45Z"/>
+<meta osm_base="2026-07-10T06:08:29Z" areas="2026-07-09T23:12:02Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -980,7 +980,7 @@
     <tag k="population" v="659"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508368" lat="45.3469750" lon="9.9684670" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
+  <node id="62508368" lat="45.3469750" lon="9.9664929" version="3" timestamp="2026-07-09T09:15:13Z" changeset="185394905" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2190"/>
     <tag k="name" v="Borgo San Giacomo"/>
     <tag k="place" v="village"/>
@@ -1385,9 +1385,9 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18488299"/>
   </node>
-  <node id="62510530" lat="45.2518730" lon="9.9616680" version="6" timestamp="2026-05-17T09:25:38Z" changeset="182774034" uid="1950277" user="Mannivu">
+  <node id="62510530" lat="45.2515029" lon="9.9644521" version="7" timestamp="2026-07-09T12:42:43Z" changeset="185405490" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2582"/>
-    <tag k="name" v="Casalbuttano"/>
+    <tag k="name" v="Casalbuttano ed Uniti"/>
     <tag k="name:it" v="Casalbuttano"/>
     <tag k="name:ru" v="Каcальбуттано"/>
     <tag k="place" v="village"/>
@@ -2688,15 +2688,6 @@
     <tag k="population" v="1380"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026840"/>
-  </node>
-  <node id="62515260" lat="45.0965167" lon="8.7363129" version="9" timestamp="2026-05-20T11:56:22Z" changeset="182924324" uid="10901495" user="user_10901495">
-    <tag k="alt_name" v="Mede Lomellina"/>
-    <tag k="capital" v="8"/>
-    <tag k="name" v="Mede"/>
-    <tag k="name:ru" v="Меде"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="6000"/>
-    <tag k="wikidata" v="Q30027396"/>
   </node>
   <node id="62515284" lat="45.3119680" lon="9.2600520" version="3" timestamp="2025-12-08T10:23:14Z" changeset="175658899" uid="34088" user="Tri38">
     <tag k="gfoss_id" v="2454"/>
@@ -7353,14 +7344,17 @@
     <tag k="population" v="821"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502781" lat="45.8469180" lon="13.4601370" version="4" timestamp="2016-10-16T13:42:36Z" changeset="42935220" uid="743479" user="fayor">
+  <node id="66502781" lat="45.8469180" lon="13.4601370" version="5" timestamp="2026-07-08T14:50:54Z" changeset="185346259" uid="20552772" user="user_8y978a">
+    <tag k="alt_name:fur" v="San Pieri"/>
     <tag k="gfoss_id" v="3829"/>
     <tag k="name" v="San Pier d'Isonzo"/>
     <tag k="name:fur" v="San Pieri dal Tiritori"/>
     <tag k="name:sl" v="Špeter ob Soči"/>
+    <tag k="name:vec" v="San Piero"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1892"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:name" v="wikipedia"/>
   </node>
   <node id="66502785" lat="45.9312174" lon="13.5285489" version="9" timestamp="2026-01-08T20:45:51Z" changeset="177000546" uid="129060" user="Klenje">
     <tag k="gfoss_id" v="3828"/>
@@ -7413,10 +7407,10 @@
     <tag k="population" v="1516"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502909" lat="46.0453055" lon="12.8679995" version="16" timestamp="2025-07-05T06:27:37Z" changeset="168510190" uid="20552772" user="user_8y978a">
+  <node id="66502909" lat="46.0453055" lon="12.8679995" version="17" timestamp="2026-07-09T19:35:20Z" changeset="185431257" uid="20552772" user="user_8y978a">
     <tag k="gfoss_id" v="7543"/>
     <tag k="loc_name:fur" v="San 'Sors"/>
-    <tag k="name" v="San Giorgio della Richinvelda / San Zorç da la Richinvelde"/>
+    <tag k="name" v="San Giorgio della Richinvelda / San 'Sors"/>
     <tag k="name:fur" v="San Zorç da la Richinvelde"/>
     <tag k="name:it" v="San Giorgio della Richinvelda"/>
     <tag k="place" v="village"/>
@@ -20393,21 +20387,6 @@
     <tag k="wikidata" v="Q340612"/>
     <tag k="wikipedia" v="it:Triei"/>
     <tag k="wikipedia:sc" v="Triei"/>
-  </node>
-  <node id="72992288" lat="40.2648596" lon="8.8174739" version="45" timestamp="2019-03-23T16:11:47Z" changeset="68448433" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7305"/>
-    <tag k="is_in" v="Nuoro, Sardegna, Italy"/>
-    <tag k="name" v="Bìroro/Birori"/>
-    <tag k="name:it" v="Birori"/>
-    <tag k="name:sc" v="Bìroro"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="591"/>
-    <tag k="postal_code" v="08010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.birori.nu.it/"/>
-    <tag k="wikidata" v="Q294720"/>
-    <tag k="wikipedia" v="it:Birori"/>
-    <tag k="wikipedia:sc" v="Bìroro"/>
   </node>
   <node id="72992306" lat="39.9194634" lon="9.5270001" version="43" timestamp="2019-03-23T16:09:58Z" changeset="68448383" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Àrtzana"/>
