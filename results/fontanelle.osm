@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-12T05:29:02Z" areas="2026-07-11T11:25:07Z"/>
+<meta osm_base="2026-07-13T05:46:00Z" areas="2026-07-12T13:30:15Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2030,6 +2030,16 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17844"/>
     <tag k="wikipedia" v="it:Pino d'Asti"/>
+  </node>
+  <node id="63624896" lat="44.8585400" lon="8.1582222" version="4" timestamp="2021-03-14T15:28:11Z" changeset="100994359" uid="2976645" user="Jrachi">
+    <tag k="gfoss_id" v="827"/>
+    <tag k="name" v="Revigliasco d'Asti"/>
+    <tag k="name:pms" v="Riasch"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="859"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q17849"/>
+    <tag k="wikipedia" v="it:Revigliasco d'Asti"/>
   </node>
   <node id="63624939" lat="44.7540212" lon="8.2957567" version="4" timestamp="2021-02-14T01:01:40Z" changeset="99234952" uid="492756" user="Botaler">
     <tag k="gfoss_id" v="837"/>
@@ -5229,6 +5239,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030351"/>
   </node>
+  <node id="67284465" lat="41.6381618" lon="14.3315648" version="4" timestamp="2016-09-03T02:35:28Z" changeset="41880656" uid="743479" user="fayor">
+    <tag k="gfoss_id" v="7606"/>
+    <tag k="name" v="Sessano del Molise"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="927"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+  </node>
   <node id="68507698" lat="42.8579387" lon="12.3646786" version="13" timestamp="2024-08-18T10:14:08Z" changeset="155406490" uid="1211510" user="arcanma">
     <tag k="ele" v="243"/>
     <tag k="gfoss_id" v="49500"/>
@@ -6473,13 +6490,6 @@
     <tag k="name" v="Cervino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5016"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68580263" lat="41.2627170" lon="14.1519230" version="2" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="5224"/>
-    <tag k="name" v="Riardo"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2509"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68580271" lat="41.2717278" lon="14.1880047" version="3" timestamp="2016-09-02T23:58:43Z" changeset="41879755" uid="743479" user="fayor">
@@ -9489,22 +9499,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2753"/>
     <tag k="wikidata" v="Q30031306"/>
-  </node>
-  <node id="1727509731" lat="41.2733301" lon="14.2230652" version="4" timestamp="2024-10-27T21:33:49Z" changeset="158432530" uid="1109359" user="makakko">
-    <tag k="ele" v="180"/>
-    <tag k="gfoss_id" v="61736"/>
-    <tag k="istat_id" v="2147483647"/>
-    <tag k="name" v="Roccaromana"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="358"/>
-    <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
-  <node id="1736600352" lat="45.7150864" lon="7.2763432" version="11" timestamp="2026-01-22T21:48:40Z" changeset="177584412" uid="4365159" user="wildmaps">
-    <tag k="ele" v="632"/>
-    <tag k="name" v="Jovençan"/>
-    <tag k="name:frp" v="Dzonsàn;Dzoénsàn"/>
-    <tag k="place" v="village"/>
-    <tag k="wikidata" v="Q30026434"/>
   </node>
   <node id="1805561779" lat="39.6811693" lon="8.8338449" version="40" timestamp="2017-03-01T21:25:43Z" changeset="46505334" uid="454589" user="sabas88">
     <tag k="gfoss_id" v="7633"/>
