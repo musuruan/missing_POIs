@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-13T05:35:52Z" areas="2026-07-12T13:30:15Z"/>
+<meta osm_base="2026-07-15T04:42:35Z" areas="2026-07-14T09:03:45Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -5613,9 +5613,10 @@
     <tag k="population" v="668"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63628633" lat="44.9170420" lon="7.4843210" version="2" timestamp="2020-06-07T06:21:03Z" changeset="86298127" uid="6645382" user="canfe">
+  <node id="63628633" lat="44.9170420" lon="7.4843210" version="3" timestamp="2026-07-14T22:11:09Z" changeset="185744430" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="2"/>
     <tag k="name" v="Airasca"/>
+    <tag k="name:ru" v="Айраска"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3554"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -5717,8 +5718,9 @@
     <tag k="population" v="9015"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63629114" lat="44.8455856" lon="7.7192711" version="7" timestamp="2023-01-17T19:54:02Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63629114" lat="44.8455856" lon="7.7192711" version="8" timestamp="2026-07-14T22:11:09Z" changeset="185744430" uid="22632809" user="KeyTV">
     <tag k="name" v="Carmagnola"/>
+    <tag k="name:ru" v="Карманьола"/>
     <tag k="place" v="town"/>
     <tag k="population" v="23000"/>
     <tag k="wikidata" v="Q9187"/>
@@ -6091,9 +6093,10 @@
     <tag k="population" v="1417"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63630588" lat="44.7789390" lon="7.5004240" version="4" timestamp="2023-01-17T20:05:41Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63630588" lat="44.7789390" lon="7.5004240" version="5" timestamp="2026-07-14T22:11:09Z" changeset="185744430" uid="22632809" user="KeyTV">
     <tag k="gfoss_id" v="300"/>
     <tag k="name" v="Villafranca Piemonte"/>
+    <tag k="name:ru" v="Виллафранка-Пьемонте"/>
     <tag k="place" v="village"/>
     <tag k="population" v="4795"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -9622,13 +9625,6 @@
     <tag k="population" v="5732"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67280367" lat="40.1119100" lon="16.3879860" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6479"/>
-    <tag k="name" v="San Giorgio Lucano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1510"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="67280378" lat="40.1699120" lon="16.4434870" version="2" timestamp="2016-08-28T18:58:52Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6484"/>
     <tag k="name" v="Valsinni"/>
@@ -11531,16 +11527,6 @@
     <tag k="name" v="Minervino di Lecce"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3949"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529665" lat="40.2036212" lon="18.3019803" version="8" timestamp="2023-06-04T17:24:21Z" changeset="136941837" uid="117497" user="Gnurpsnewoel">
-    <tag k="gfoss_id" v="6297"/>
-    <tag k="name" v="Martano"/>
-    <tag k="name:el" v="Μαρτάνο"/>
-    <tag k="name:it" v="Martano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9225"/>
-    <tag k="reg_name:el-it" v="Martàna"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529738" lat="40.0093028" lon="18.3924670" version="8" timestamp="2025-07-12T16:41:06Z" changeset="168844090" uid="1725439" user="Begavil84">
