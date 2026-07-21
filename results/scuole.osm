@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-19T05:38:45Z" areas="2026-07-18T12:04:50Z"/>
+<meta osm_base="2026-07-21T05:41:01Z" areas="2026-07-20T13:09:40Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -12194,7 +12194,7 @@
     <tag k="population" v="3096"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274027" lat="39.4692469" lon="15.9875062" version="11" timestamp="2025-10-11T14:09:45Z" changeset="173139253" uid="16701886" user="Giorgio543143">
+  <node id="67274027" lat="39.4658478" lon="15.9994029" version="12" timestamp="2026-07-20T14:31:03Z" changeset="186063607" uid="16701886" user="Giorgio543143">
     <tag k="alt_name" v="La Gàrdia"/>
     <tag k="gfoss_id" v="6546"/>
     <tag k="name" v="Guardia Piemontese"/>
@@ -22583,6 +22583,20 @@
     <tag k="wikidata" v="Q339898"/>
     <tag k="wikipedia" v="sc:Elini"/>
     <tag k="wikipedia:it" v="Elini"/>
+  </node>
+  <node id="72992632" lat="40.4853258" lon="9.4411680" version="44" timestamp="2023-10-30T16:12:39Z" changeset="143374533" uid="9451067" user="b-jazz-bot">
+    <tag k="gfoss_id" v="7354"/>
+    <tag k="name" v="Onanìe/Onanì"/>
+    <tag k="name:it" v="Onanì"/>
+    <tag k="name:sc" v="Onanìe"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="473"/>
+    <tag k="postal_code" v="08020"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="website" v="https://www.comune.onani.nu.it/index.asp"/>
+    <tag k="wikidata" v="Q295369"/>
+    <tag k="wikipedia" v="it:Onanì"/>
+    <tag k="wikipedia:sc" v="Onanie"/>
   </node>
   <node id="72992772" lat="39.7213450" lon="8.8974340" version="42" timestamp="2023-11-07T21:09:03Z" changeset="143754742" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Baradile"/>
