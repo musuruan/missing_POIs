@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-07-26T05:53:31Z" areas="2026-07-25T11:26:06Z"/>
+<meta osm_base="2026-07-31T05:48:21Z" areas="2026-05-12T07:36:16Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -34,6 +34,15 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="41645001" lat="45.3716864" lon="7.0467945" version="17" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="73480"/>
+    <tag k="name" v="Bonneval-sur-Arc"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="266"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikipedia" v="fr:Bonneval-sur-Arc"/>
   </node>
   <node id="61753374" lat="43.6540276" lon="11.7884391" version="4" timestamp="2026-01-19T14:40:19Z" changeset="177432276" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="4591"/>
@@ -11367,14 +11376,18 @@
     <tag k="population" v="1855"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67254974" lat="37.8583477" lon="15.2773159" version="24" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
+  <node id="67254974" lat="37.8583477" lon="15.2773159" version="25" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Nella lista &quot;I Borghi più Belli d'Italia&quot;"/>
     <tag k="ele" v="529"/>
     <tag k="name" v="Castelmola"/>
     <tag k="name:it" v="Castelmola"/>
     <tag k="name:scn" v="Castermula"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1067"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
+    <tag k="population" v="1056"/>
+    <tag k="population:date" v="2026"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q492609"/>
+    <tag k="wikipedia" v="it:Castelmola"/>
   </node>
   <node id="67254999" lat="37.7652422" lon="14.3527011" version="14" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
     <tag k="alt_name:scn" v="Spillinga"/>
@@ -12097,12 +12110,15 @@
     <tag k="population" v="2816"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273892" lat="39.9241209" lon="16.4698691" version="3" timestamp="2020-06-11T11:42:49Z" changeset="86515815" uid="11330561" user="vins312">
+  <node id="67273892" lat="39.9241209" lon="16.4698691" version="4" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Membro dell'Associazione dei Borghi Autentici d'Italia"/>
     <tag k="gfoss_id" v="6491"/>
     <tag k="name" v="Albidona"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1784"/>
+    <tag k="population" v="1042"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
   </node>
   <node id="67273904" lat="39.1304900" lon="16.2526950" version="3" timestamp="2024-07-29T13:27:49Z" changeset="154563124" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6493"/>
@@ -12129,12 +12145,17 @@
     <tag k="wikidata" v="Q53852"/>
     <tag k="wikipedia" v="it:Casole Bruzio"/>
   </node>
-  <node id="67273930" lat="40.0939110" lon="16.5042890" version="2" timestamp="2016-08-28T18:58:15Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273930" lat="40.0939110" lon="16.5042890" version="3" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Membro dell'Associazione dei Borghi Autentici d'Italia"/>
     <tag k="gfoss_id" v="6509"/>
     <tag k="name" v="Canna"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="869"/>
+    <tag k="population" v="573"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q53849"/>
+    <tag k="wikipedia" v="it:Canna (Italia)"/>
   </node>
   <node id="67273933" lat="39.5852960" lon="15.9002820" version="4" timestamp="2025-10-11T14:19:11Z" changeset="173139712" uid="16701886" user="Giorgio543143">
     <tag k="ele" v="425"/>
@@ -12148,12 +12169,17 @@
     <tag k="wikidata" v="Q53843"/>
     <tag k="wikipedia" v="it:Bonifati"/>
   </node>
-  <node id="67273938" lat="39.6907175" lon="15.8831009" version="4" timestamp="2026-05-11T09:09:42Z" changeset="182501383" uid="8215303" user="ross-map">
+  <node id="67273938" lat="39.6907175" lon="15.8831009" version="5" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Nella lista “I Borghi più Belli d’Italia&quot;"/>
     <tag k="gfoss_id" v="6505"/>
     <tag k="name" v="Buonvicino"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2540"/>
+    <tag k="population" v="1967"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q53845"/>
+    <tag k="wikipedia" v="it:Buonvicino"/>
   </node>
   <node id="67273943" lat="39.5676020" lon="16.7728010" version="4" timestamp="2024-03-03T09:32:02Z" changeset="148158195" uid="3860151" user="Michele Aquilani">
     <tag k="gfoss_id" v="6532"/>
@@ -12180,12 +12206,17 @@
     <tag k="population" v="1416"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67273989" lat="39.2760920" lon="16.1753920" version="2" timestamp="2016-08-28T18:58:19Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67273989" lat="39.2760920" lon="16.1753920" version="3" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Membro dell'Associazione dei Borghi Autentici d'Italia"/>
     <tag k="gfoss_id" v="6522"/>
     <tag k="name" v="Cerisano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3238"/>
+    <tag k="population" v="2906"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q53863"/>
+    <tag k="wikipedia" v="it:Cerisano"/>
   </node>
   <node id="67274013" lat="39.1667584" lon="16.1491424" version="5" timestamp="2024-11-07T13:18:59Z" changeset="158855745" uid="18785499" user="DaveMzp">
     <tag k="gfoss_id" v="6547"/>
@@ -12304,13 +12335,16 @@
     <tag k="population" v="6282"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274173" lat="39.9870090" lon="16.6016930" version="3" timestamp="2024-08-09T09:38:39Z" changeset="155013726" uid="18063623" user="DomeF">
+  <node id="67274173" lat="39.9870090" lon="16.6016930" version="4" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Membro dell'Associazione dei Borghi Autentici d'Italia"/>
     <tag k="gfoss_id" v="6592"/>
     <tag k="name" v="Roseto Capo Spulico"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="1759"/>
+    <tag k="population" v="1854"/>
+    <tag k="population:date" v="2026"/>
     <tag k="postal_code" v="87070"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q53951"/>
     <tag k="wikipedia" v="it:Roseto Capo Spulico"/>
   </node>
@@ -12345,12 +12379,15 @@
     <tag k="population" v="556"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274193" lat="39.8439407" lon="16.1356130" version="4" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
+  <node id="67274193" lat="39.8439407" lon="16.1356130" version="5" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Nella lista &quot;I Borghi più Belli d'Italia&quot;"/>
     <tag k="gfoss_id" v="6568"/>
     <tag k="name" v="Morano Calabro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4966"/>
+    <tag k="population" v="3754"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q53919"/>
     <tag k="wikipedia" v="it:Morano Calabro"/>
   </node>
@@ -12409,12 +12446,17 @@
     <tag k="population" v="1410"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274328" lat="39.8892050" lon="16.3302880" version="2" timestamp="2016-08-28T18:58:43Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274328" lat="39.8892050" lon="16.3302880" version="3" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Membro dell'Associazione dei Borghi Autentici d'Italia"/>
     <tag k="gfoss_id" v="6605"/>
     <tag k="name" v="San Lorenzo Bellizzi"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="904"/>
+    <tag k="population" v="497"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q53970"/>
+    <tag k="wikipedia" v="it:San Lorenzo Bellizzi"/>
   </node>
   <node id="67274331" lat="39.3088920" lon="16.0507880" version="3" timestamp="2024-08-02T10:10:09Z" changeset="154728440" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6607"/>
@@ -12489,19 +12531,29 @@
     <tag k="population" v="1135"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274457" lat="39.9581070" lon="16.3794880" version="2" timestamp="2016-08-28T18:58:09Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274457" lat="39.9581070" lon="16.3794880" version="3" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Membro dell'Associazione dei Borghi Autentici d'Italia"/>
     <tag k="gfoss_id" v="6492"/>
     <tag k="name" v="Alessandria del Carretto"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="745"/>
+    <tag k="population" v="337"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q53824"/>
+    <tag k="wikipedia" v="it:Alessandria del Carretto"/>
   </node>
-  <node id="67274469" lat="39.1174689" lon="16.1666633" version="3" timestamp="2016-08-28T18:58:08Z" changeset="41762146" uid="743479" user="fayor">
+  <node id="67274469" lat="39.1174689" lon="16.1666633" version="4" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Nella lista “I Borghi più Belli d’Italia&quot;"/>
     <tag k="gfoss_id" v="6489"/>
     <tag k="name" v="Aiello Calabro"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2446"/>
+    <tag k="population" v="1319"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q53820"/>
+    <tag k="wikipedia" v="it:Aiello Calabro"/>
   </node>
   <node id="67274527" lat="39.2758920" lon="16.0917900" version="4" timestamp="2024-08-02T10:10:09Z" changeset="154728440" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6537"/>
@@ -12577,12 +12629,15 @@
     <tag k="population" v="375"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67274592" lat="39.2635962" lon="16.1953516" version="5" timestamp="2024-09-28T20:59:49Z" changeset="157228787" uid="16701886" user="Giorgio543143">
+  <node id="67274592" lat="39.2635962" lon="16.1953516" version="6" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Membro dell'Associazione dei Borghi Autentici d'Italia"/>
     <tag k="gfoss_id" v="6564"/>
     <tag k="name" v="Mendicino"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="9450"/>
+    <tag k="population" v="8886"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q53915"/>
     <tag k="wikipedia" v="it:Mendicino"/>
   </node>
@@ -12696,12 +12751,15 @@
     <tag k="wikidata" v="Q53971"/>
     <tag k="wikipedia" v="it:San Lorenzo del Vallo"/>
   </node>
-  <node id="67274771" lat="40.1097079" lon="16.5802433" version="6" timestamp="2026-05-13T18:21:02Z" changeset="182615975" uid="8215303" user="ross-map">
+  <node id="67274771" lat="40.1097079" lon="16.5802433" version="7" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Nella lista “I Borghi più Belli d’Italia&quot;"/>
     <tag k="gfoss_id" v="6588"/>
     <tag k="name" v="Rocca Imperiale"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3352"/>
+    <tag k="population" v="3111"/>
+    <tag k="population:date" v="2026"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q53947"/>
     <tag k="wikipedia" v="it:Rocca Imperiale"/>
   </node>
@@ -13436,13 +13494,6 @@
     <tag k="population" v="5792"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikipedia" v="it:Grassano"/>
-  </node>
-  <node id="67280433" lat="40.5179442" lon="16.5459445" version="4" timestamp="2016-08-28T18:58:38Z" changeset="41762146" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6476"/>
-    <tag k="name" v="Pomarico"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4482"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="67280463" lat="40.5844447" lon="16.0367155" version="3" timestamp="2016-08-28T18:58:09Z" changeset="41762146" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6357"/>
@@ -15241,21 +15292,6 @@
     <tag k="wikidata" v="Q10862"/>
     <tag k="wikipedia" v="it:Monteleone d'Orvieto"/>
   </node>
-  <node id="68507883" lat="42.8640144" lon="12.1066286" version="17" timestamp="2026-07-21T14:52:49Z" changeset="186120690" uid="1211510" user="arcanma">
-    <tag k="ele" v="441"/>
-    <tag k="gfoss_id" v="50735"/>
-    <tag k="istat_id" v="5502510002"/>
-    <tag k="name" v="Parrano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="268"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="https://www.comune.parrano.tr.it/"/>
-    <tag k="wikidata" v="Q10877"/>
-    <tag k="wikipedia" v="it:Parrano"/>
-  </node>
   <node id="68507919" lat="42.5848236" lon="12.8428018" version="16" timestamp="2026-05-09T13:09:50Z" changeset="182424239" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="836"/>
     <tag k="gfoss_id" v="50741"/>
@@ -15953,15 +15989,6 @@
     <tag k="place" v="town"/>
     <tag k="population" v="10125"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68530095" lat="40.4018250" lon="17.6335110" version="5" timestamp="2026-01-15T13:06:37Z" changeset="177258599" uid="23246302" user="pierfrancescop">
-    <tag k="ele" v="79"/>
-    <tag k="gfoss_id" v="6220"/>
-    <tag k="name" v="Manduria"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="31420"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q52019"/>
   </node>
   <node id="68530155" lat="40.4374240" lon="17.3896050" version="2" timestamp="2016-08-27T16:24:14Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="gfoss_id" v="6231"/>
@@ -22362,21 +22389,6 @@
     <tag k="wikipedia" v="it:Turri"/>
     <tag k="wikipedia:sc" v="Turri"/>
   </node>
-  <node id="72991755" lat="39.8470520" lon="9.5072440" version="44" timestamp="2023-11-10T22:23:56Z" changeset="143881488" uid="9451067" user="b-jazz-bot">
-    <tag k="alt_name:it" v="Gairo"/>
-    <tag k="gfoss_id" v="7322"/>
-    <tag k="name" v="Gàiru/Gairo Sant'Elena"/>
-    <tag k="name:it" v="Gairo Sant'Elena"/>
-    <tag k="name:sc" v="Gàiru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1678"/>
-    <tag k="postal_code" v="08040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.gairo.og.it/index.asp"/>
-    <tag k="wikidata" v="Q339919"/>
-    <tag k="wikipedia" v="it:Gairo"/>
-    <tag k="wikipedia:sc" v="Gàiru"/>
-  </node>
   <node id="72991791" lat="39.0744310" lon="8.6659380" version="41" timestamp="2023-04-22T19:41:00Z" changeset="135241274" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7504"/>
     <tag k="name" v="Piscinas"/>
@@ -23324,6 +23336,92 @@
     <tag k="wikipedia" v="it:Mara (Italia)"/>
     <tag k="wikipedia:sc" v="Mara"/>
   </node>
+  <node id="118314095" lat="46.5137824" lon="8.3248669" version="9" timestamp="2019-03-20T23:02:05Z" changeset="68356221" uid="9451067" user="b-jazz-bot">
+    <tag k="ele" v="1355"/>
+    <tag k="name" v="Obergesteln"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="195"/>
+    <tag k="website" v="https://www.obergoms.ch/"/>
+    <tag k="wikidata" v="Q662541"/>
+    <tag k="wikipedia" v="de:Obergesteln"/>
+  </node>
+  <node id="240024343" lat="46.2349007" lon="9.1249754" version="11" timestamp="2023-11-06T18:41:23Z" changeset="143705808" uid="1894634" user="Wikilux">
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="298"/>
+    <tag k="name" v="Roveredo GR"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2511"/>
+    <tag k="wikidata" v="Q64912"/>
+    <tag k="wikipedia" v="it:Roveredo"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
+  </node>
+  <node id="240074304" lat="46.3655993" lon="8.1883972" version="12" timestamp="2026-03-11T14:29:14Z" changeset="179706364" uid="23862645" user="Tseodoric">
+    <tag k="ele" v="1400"/>
+    <tag k="name" v="Binn"/>
+    <tag k="name:frp" v="Boueng"/>
+    <tag k="name:wae" v="Bìi"/>
+    <tag k="note" v="Schmidighischere ist der Name des grössten Dorfes im Binntal, Binn ist der Name der Gemeinde. Es gibt kein Dorf mit dem Namen Binn, obwohl Schmidighischere oft mit Binn gleichgesetzt wird. Siehe Wikipedia-Artikel Schmidighischere."/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="144"/>
+    <tag k="postal_code" v="3996"/>
+    <tag k="website" v="https://www.binn.ch/"/>
+    <tag k="wikidata" v="Q68471"/>
+    <tag k="wikipedia" v="de:Binn"/>
+  </node>
+  <node id="240092945" lat="46.3729638" lon="8.0925350" version="12" timestamp="2026-05-10T14:32:29Z" changeset="182469690" uid="8241440" user="jbcharron">
+    <tag k="ele" v="995"/>
+    <tag k="name" v="Grengiols"/>
+    <tag k="name:uk" v="Гре́нгйольс"/>
+    <tag k="note" v="58 km2"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="436"/>
+    <tag k="website" v="http://www.grengiols.ch/"/>
+    <tag k="wikidata" v="Q67332"/>
+    <tag k="wikipedia" v="de:Grengiols"/>
+  </node>
+  <node id="240094598" lat="46.5569192" lon="9.4394374" version="10" timestamp="2022-07-12T18:33:10Z" changeset="123532345" uid="10901495" user="user_10901495">
+    <tag k="alt_name:rm" v="Feraila"/>
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1316"/>
+    <tag k="name" v="Ausserferrera"/>
+    <tag k="name:it" v="Ferrera di Fuori"/>
+    <tag k="name:rm" v="Farera"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="46"/>
+    <tag k="population:date" v="2007-12-31"/>
+    <tag k="postal_code" v="7444"/>
+    <tag k="ref:OFS" v="3702"/>
+    <tag k="wikidata" v="Q669218"/>
+    <tag k="wikipedia" v="de:Ausserferrera"/>
+  </node>
+  <node id="240098138" lat="46.8917562" lon="10.5026037" version="5" timestamp="2026-06-03T18:42:16Z" changeset="183609210" uid="99800" user="wolfbert">
+    <tag k="ele" v="1394"/>
+    <tag k="name" v="Nauders"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1536"/>
+  </node>
+  <node id="240123169" lat="46.1621804" lon="8.1164859" version="14" timestamp="2023-01-17T19:55:18Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+    <tag k="ele" v="1359"/>
+    <tag k="name" v="Zwischbergen"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="86"/>
+    <tag k="postal_code" v="3901"/>
+    <tag k="website" v="https://www.gondo.ch/"/>
+    <tag k="wikidata" v="Q68087"/>
+    <tag k="wikipedia" v="de:Zwischbergen"/>
+  </node>
   <node id="249581031" lat="44.7712392" lon="9.2410693" version="6" timestamp="2023-02-27T21:38:44Z" changeset="133105017" uid="43207" user="kdkeller">
     <tag k="name" v="Casanova di Destra"/>
     <tag k="official_name" v="Casanova Staffora"/>
@@ -23344,6 +23442,17 @@
     <tag k="place" v="neighbourhood"/>
     <tag k="wikidata" v="Q18479754"/>
   </node>
+  <node id="279782422" lat="45.8614577" lon="9.0205616" version="9" timestamp="2015-03-02T19:05:33Z" changeset="29206076" uid="2265854" user="G4rp">
+    <tag k="ele" v="452"/>
+    <tag k="is_in" v="Breggia,Distretto di Mendrisio,Ticino,Ticino,Schweiz,Europe"/>
+    <tag k="name" v="Morbio Superiore"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="687"/>
+    <tag k="postal_code" v="6835"/>
+    <tag k="website" v="http://www.comunebreggia.ch"/>
+    <tag k="wikidata" v="Q668726"/>
+    <tag k="wikipedia" v="it:Morbio Superiore"/>
+  </node>
   <node id="282673529" lat="46.1199120" lon="10.7514518" version="12" timestamp="2025-05-18T21:42:30Z" changeset="166449946" uid="1726102" user="AlessioMela">
     <tag k="gfoss_id" v="3048"/>
     <tag k="name" v="Strembo"/>
@@ -23351,6 +23460,24 @@
     <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030937"/>
+  </node>
+  <node id="282901527" lat="46.6270915" lon="10.4466197" version="5" timestamp="2023-09-30T20:01:47Z" changeset="141966305" uid="18913526" user="Gurusraouta">
+    <tag k="ele" v="1273"/>
+    <tag k="name" v="Müstair"/>
+    <tag k="name:de" v="Müstair"/>
+    <tag k="name:fr" v="Müstair"/>
+    <tag k="name:kk" v="Мюстаир"/>
+    <tag k="name:rm" v="Müstair"/>
+    <tag k="name:ru" v="Мюштайр"/>
+    <tag k="old_name" v="Münster"/>
+    <tag k="old_name:de" v="Münster"/>
+    <tag k="old_name:fr" v="Münster"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="764"/>
+    <tag k="postal_code" v="7537"/>
+    <tag k="website" v="https://www.cdvm.ch/"/>
+    <tag k="wikidata" v="Q1959393"/>
+    <tag k="wikipedia" v="de:Müstair"/>
   </node>
   <node id="299980117" lat="44.2225554" lon="8.3733477" version="9" timestamp="2022-01-10T17:19:25Z" changeset="115990939" uid="9616185" user="LukeDH">
     <tag k="name" v="Magnone"/>
@@ -23388,6 +23515,22 @@
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q1898310"/>
     <tag k="wikipedia" v="de:Marina di Campo"/>
+  </node>
+  <node id="321521585" lat="46.7976371" lon="10.2996234" version="21" timestamp="2024-11-17T07:57:38Z" changeset="159232146" uid="1894634" user="Wikilux">
+    <tag k="ele" v="1250"/>
+    <tag k="name" v="Scuol"/>
+    <tag k="name:de" v="Scuol"/>
+    <tag k="name:gsw" v="Schguol"/>
+    <tag k="name:rm" v="Scuol"/>
+    <tag k="name:ru" v="Шкуоль"/>
+    <tag k="name:uk" v="Шкуоль"/>
+    <tag k="old_name:de" v="Schuls"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="4591"/>
+    <tag k="postal_code" v="7550"/>
+    <tag k="website" v="https://www.scuol.net/"/>
+    <tag k="wikidata" v="Q69079"/>
+    <tag k="wikipedia" v="de:Scuol"/>
   </node>
   <node id="321859985" lat="46.0766465" lon="10.3500680" version="4" timestamp="2026-01-26T17:49:59Z" changeset="177730721" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2217"/>
@@ -23467,6 +23610,18 @@
     <tag k="population" v="692"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
+  <node id="430269450" lat="46.3921730" lon="9.2325189" version="7" timestamp="2021-10-22T01:28:44Z" changeset="112814983" uid="10901495" user="user_10901495">
+    <tag k="ele" v="766"/>
+    <tag k="loc_name" v="Mesocc"/>
+    <tag k="name" v="Mesocco"/>
+    <tag k="name:de" v="Misox"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1297"/>
+    <tag k="postal_code" v="6563"/>
+    <tag k="website" v="http://www.mesocco.ch"/>
+    <tag k="wikidata" v="Q64617"/>
+    <tag k="wikipedia" v="it:Mesocco"/>
+  </node>
   <node id="437246141" lat="45.5696499" lon="7.1183340" version="7" timestamp="2026-01-23T00:23:39Z" changeset="177588234" uid="4365159" user="wildmaps">
     <tag k="ele" v="1722"/>
     <tag k="name" v="Bruil"/>
@@ -23514,6 +23669,16 @@
     <tag k="population" v="647"/>
     <tag k="wikidata" v="Q18492895"/>
   </node>
+  <node id="479341840" lat="46.2583616" lon="10.1260849" version="10" timestamp="2024-11-11T15:02:04Z" changeset="159008183" uid="9925732" user="Flight777">
+    <tag k="ele" v="780"/>
+    <tag k="name" v="Brusio"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="1115"/>
+    <tag k="postal_code" v="7743"/>
+    <tag k="website" v="https://www.brusio.ch/"/>
+    <tag k="wikidata" v="Q64580"/>
+    <tag k="wikipedia" v="it:Brusio"/>
+  </node>
   <node id="484121476" lat="40.8674331" lon="14.5499642" version="5" timestamp="2022-03-24T19:04:46Z" changeset="118878558" uid="10622815" user="Umbyone">
     <tag k="gfoss_id" v="5390"/>
     <tag k="name" v="Palma Campania"/>
@@ -23531,6 +23696,19 @@
     <tag k="population" v="123"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
     <tag k="wikidata" v="Q18496306"/>
+  </node>
+  <node id="528322124" lat="46.5332403" lon="9.8745860" version="7" timestamp="2021-12-05T14:22:34Z" changeset="114583806" uid="10901495" user="user_10901495">
+    <tag k="ele" v="1721"/>
+    <tag k="name" v="Samedan"/>
+    <tag k="name:de" v="Samaden"/>
+    <tag k="name:it" v="Samedano;Samada"/>
+    <tag k="name:rm" v="Samedan"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2923"/>
+    <tag k="population:date" v="2020-12-21"/>
+    <tag k="website" v="https://www.samedan.ch/"/>
+    <tag k="wikidata" v="Q69085"/>
+    <tag k="wikipedia" v="de:Samedan"/>
   </node>
   <node id="539318222" lat="41.0850517" lon="16.0777763" version="4" timestamp="2016-08-27T16:24:10Z" changeset="41739592" uid="743479" user="fayor">
     <tag k="name" v="Minervino Murge"/>
@@ -23572,6 +23750,15 @@
     <tag k="place" v="village"/>
     <tag k="population" v="229"/>
     <tag k="wikidata" v="Q30022737"/>
+  </node>
+  <node id="748358516" lat="46.4640805" lon="8.2325689" version="6" timestamp="2020-09-06T12:59:41Z" changeset="90479545" uid="8339" user="mtmail">
+    <tag k="ele" v="1357"/>
+    <tag k="name" v="Gluringen"/>
+    <tag k="place" v="village"/>
+    <tag k="postal_code" v="3998"/>
+    <tag k="website" v="https://www.gemeinde-goms.ch/"/>
+    <tag k="wikidata" v="Q1532367"/>
+    <tag k="wikipedia" v="de:Gluringen"/>
   </node>
   <node id="768212645" lat="44.9129273" lon="9.0958805" version="2" timestamp="2013-08-08T11:37:21Z" changeset="17265406" uid="730682" user="Max1234-ITA">
     <tag k="ele" v="525"/>
@@ -23866,6 +24053,25 @@
     <tag k="name:frp" v="Polèn;Pollèn"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30028981"/>
+  </node>
+  <node id="1376769424" lat="46.1920538" lon="9.0205888" version="27" timestamp="2025-08-24T17:42:01Z" changeset="170938066" uid="17860844" user="hangukhistory">
+    <tag k="admin_centre:4" v="yes"/>
+    <tag k="admin_centre:6" v="yes"/>
+    <tag k="ele" v="230"/>
+    <tag k="name" v="Bellinzona"/>
+    <tag k="name:fr" v="Bellinzone"/>
+    <tag k="name:ko" v="벨린초나"/>
+    <tag k="name:lt" v="Belincona"/>
+    <tag k="name:ru" v="Беллинцона"/>
+    <tag k="name:uk" v="Беллінцона"/>
+    <tag k="old_name:de" v="Bellenz"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="43785"/>
+    <tag k="population:date" v="2021-12-31"/>
+    <tag k="postal_code" v="6500, 6503, 6512, 6513, 6514, 6515, 6518, 6523, 6524, 6525, 6528, 6582, 6583, 6702"/>
+    <tag k="website" v="https://www.bellinzona.ch/"/>
+    <tag k="wikidata" v="Q64044"/>
+    <tag k="wikipedia" v="it:Bellinzona"/>
   </node>
   <node id="1393763096" lat="45.7400916" lon="7.4167988" version="7" timestamp="2026-01-19T13:09:38Z" changeset="177427585" uid="4365159" user="wildmaps">
     <tag k="name" v="Villefranche"/>
@@ -24291,6 +24497,14 @@
     <tag k="population" v="229"/>
     <tag k="wikidata" v="Q30032003"/>
   </node>
+  <node id="2314499669" lat="46.4729086" lon="9.5122667" version="10" timestamp="2026-04-04T10:37:59Z" changeset="180847029" uid="10901495" user="user_10901495">
+    <tag k="alt_name" v="Avers-Cresta"/>
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1960"/>
+    <tag k="name" v="Cresta"/>
+    <tag k="place" v="village"/>
+    <tag k="wikidata" v="Q104891196"/>
+  </node>
   <node id="2319430521" lat="45.6050596" lon="11.0957685" version="5" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
     <tag k="name" v="Velo Veronese"/>
     <tag k="name:de" v="Feld"/>
@@ -24440,6 +24654,20 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q48800570"/>
   </node>
+  <node id="2956969233" lat="46.5706799" lon="9.3664422" version="6" timestamp="2022-07-13T10:39:03Z" changeset="123558576" uid="10901495" user="user_10901495">
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1430"/>
+    <tag k="name" v="Sufers"/>
+    <tag k="name:de" v="Sufers"/>
+    <tag k="name:rm" v="Sur"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="125"/>
+    <tag k="postal_code" v="7434"/>
+    <tag k="website" v="https://www.sufers.ch/"/>
+    <tag k="wikidata" v="Q66012"/>
+    <tag k="wikimedia_commons" v="Category:Sufers"/>
+    <tag k="wikipedia" v="de:Sufers"/>
+  </node>
   <node id="3007609238" lat="40.9494876" lon="14.7448045" version="3" timestamp="2020-10-29T12:02:49Z" changeset="93235365" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="5534"/>
     <tag k="name" v="Summonte"/>
@@ -24523,6 +24751,15 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30029987"/>
   </node>
+  <node id="3599442460" lat="46.1339979" lon="8.8344739" version="2" timestamp="2017-09-25T03:49:46Z" changeset="52343388" uid="339581" user="nyuriks">
+    <tag k="ele" v="196"/>
+    <tag k="name" v="Gambarogno"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="5073"/>
+    <tag k="website" v="http://www.gambarogno.ch/"/>
+    <tag k="wikidata" v="Q70234"/>
+    <tag k="wikipedia" v="it:Gambarogno"/>
+  </node>
   <node id="3791033198" lat="44.1160352" lon="7.9549457" version="6" timestamp="2024-07-28T22:01:10Z" changeset="154539872" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="528"/>
     <tag k="name" v="Caprauna"/>
@@ -24555,9 +24792,13 @@
     <tag k="wikidata" v="Q51923"/>
     <tag k="wikipedia" v="it:Celle di San Vito"/>
   </node>
-  <node id="4087948103" lat="39.6978818" lon="16.1271277" version="3" timestamp="2024-08-09T10:14:39Z" changeset="155015270" uid="18063623" user="DomeF">
+  <node id="4087948103" lat="39.6978818" lon="16.1271277" version="4" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
+    <tag k="description" v="Nella lista “I Borghi più Belli d’Italia&quot;"/>
     <tag k="name" v="Altomonte"/>
     <tag k="place" v="village"/>
+    <tag k="population" v="3945"/>
+    <tag k="population:date" v="2026"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q53826"/>
     <tag k="wikipedia" v="it:Altomonte"/>
   </node>
@@ -24623,6 +24864,24 @@
     <tag k="wikidata" v="Q30024546"/>
     <tag k="wikimedia_commons" v="Category:Cerchio (Italy)"/>
     <tag k="wikipedia" v="it:Cerchio (Italia)"/>
+  </node>
+  <node id="4429008093" lat="46.5530710" lon="9.3234097" version="6" timestamp="2022-07-09T11:31:47Z" changeset="123396903" uid="10901495" user="user_10901495">
+    <tag k="alt_name" v="Spluegen;Splugen;Splügen GR"/>
+    <tag k="alt_name:rm" v="Spligia"/>
+    <tag k="capital" v="8"/>
+    <tag k="ele" v="1457"/>
+    <tag k="name" v="Splügen"/>
+    <tag k="name:de" v="Splügen"/>
+    <tag k="name:it" v="Spluga"/>
+    <tag k="name:pronunciation" v="ˈʃplyːg̊ə"/>
+    <tag k="name:rm" v="Spleja"/>
+    <tag k="note" v="name pronunciation is in the local german pronunciation"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="377"/>
+    <tag k="population:date" v="2016-12-31"/>
+    <tag k="postal_code" v="7435"/>
+    <tag k="wikidata" v="Q64195"/>
+    <tag k="wikipedia" v="de:Splügen GR"/>
   </node>
   <node id="4431005893" lat="45.0403699" lon="8.9476057" version="2" timestamp="2022-03-06T10:30:05Z" changeset="118152917" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2525"/>
