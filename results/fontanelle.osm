@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-01T05:31:51Z" areas="2026-07-31T11:27:02Z"/>
+<meta osm_base="2026-08-12T04:04:19Z" areas="2026-08-11T13:58:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -4328,16 +4328,6 @@
     <tag k="population" v="1105"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275058" lat="38.1489710" lon="16.1740040" version="3" timestamp="2023-08-24T13:17:06Z" changeset="140323157" uid="18063623" user="DomeF">
-    <tag k="gfoss_id" v="6732"/>
-    <tag k="name" v="Bovalino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8358"/>
-    <tag k="postal_code" v="89034"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q54575"/>
-    <tag k="wikipedia" v="it:Bovalino"/>
-  </node>
   <node id="67275084" lat="38.1018700" lon="16.0899030" version="3" timestamp="2024-08-02T17:00:10Z" changeset="154745494" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6744"/>
     <tag k="name" v="Casignana"/>
@@ -5265,21 +5255,6 @@
     <tag k="wikidata" v="Q20449"/>
     <tag k="wikipedia" v="it:Fratta Todina"/>
   </node>
-  <node id="68507774" lat="43.4377812" lon="12.1625435" version="15" timestamp="2024-08-23T09:57:29Z" changeset="155643181" uid="1211510" user="arcanma">
-    <tag k="ele" v="688"/>
-    <tag k="gfoss_id" v="49801"/>
-    <tag k="istat_id" v="5403210004"/>
-    <tag k="name" v="Monte Santa Maria Tiberina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="64"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="https://www.montesantamariatiberina.org/"/>
-    <tag k="wikidata" v="Q20477"/>
-    <tag k="wikipedia" v="it:Monte Santa Maria Tiberina"/>
-  </node>
   <node id="68507833" lat="42.5094100" lon="12.3247903" version="14" timestamp="2024-09-03T14:10:57Z" changeset="156144683" uid="1211510" user="arcanma">
     <tag k="ele" v="292"/>
     <tag k="gfoss_id" v="50563"/>
@@ -5639,13 +5614,6 @@
     <tag k="name" v="Seclì"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1909"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="68529803" lat="40.1488230" lon="18.1952260" version="4" timestamp="2021-03-03T14:00:36Z" changeset="100356446" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="6332"/>
-    <tag k="name" v="Sogliano Cavour"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4078"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="68529870" lat="40.0944649" lon="18.0634273" version="8" timestamp="2025-08-15T10:28:08Z" changeset="170474048" uid="1725439" user="Begavil84">
@@ -6495,11 +6463,12 @@
     <tag k="population" v="4464"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580317" lat="41.0919601" lon="14.1284079" version="3" timestamp="2023-11-05T19:57:53Z" changeset="143664159" uid="10622815" user="Umbyone">
+  <node id="68580317" lat="41.0919601" lon="14.1284079" version="4" timestamp="2026-08-05T20:50:51Z" changeset="187000591" uid="24384276" user="anew9816">
     <tag k="gfoss_id" v="5240"/>
     <tag k="name" v="Santa Maria la Fossa"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2647"/>
+    <tag k="population" v="2478"/>
+    <tag k="population:date" v="2026-05-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q58897"/>
@@ -6569,12 +6538,14 @@
     <tag k="population" v="6840"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68580520" lat="41.0894130" lon="14.1003240" version="3" timestamp="2023-11-05T19:57:53Z" changeset="143664159" uid="10622815" user="Umbyone">
+  <node id="68580520" lat="41.0894130" lon="14.1003240" version="4" timestamp="2026-08-05T20:43:45Z" changeset="187000303" uid="24384276" user="anew9816">
     <tag k="gfoss_id" v="5198"/>
     <tag k="name" v="Grazzanise"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="6830"/>
+    <tag k="population" v="6808"/>
+    <tag k="population:date" v="2026-05-31"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q58633"/>
     <tag k="wikipedia" v="it:Grazzanise"/>
   </node>
@@ -7432,11 +7403,12 @@
     <tag k="population" v="1656"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70990869" lat="42.1630390" lon="14.4973180" version="2" timestamp="2016-09-07T16:52:23Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70990869" lat="42.1630390" lon="14.4973180" version="3" timestamp="2026-08-04T08:49:06Z" changeset="186910700" uid="1940323" user="SekeRob">
+    <tag k="check_date" v="2024"/>
     <tag k="gfoss_id" v="5967"/>
     <tag k="name" v="Paglieta"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4401"/>
+    <tag k="population" v="4086"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70991247" lat="41.9687447" lon="14.3753527" version="4" timestamp="2020-07-09T14:40:56Z" changeset="87771319" uid="10124288" user="damianeue">
@@ -8808,19 +8780,6 @@
     <tag k="wikidata" v="Q284383"/>
     <tag k="wikipedia" v="it:Nuragus"/>
     <tag k="wikipedia:sc" v="Nuragus"/>
-  </node>
-  <node id="72992019" lat="39.9517192" lon="9.6619603" version="45" timestamp="2023-11-08T03:04:22Z" changeset="143760926" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7327"/>
-    <tag k="name" v="Gelisuli/Girasole"/>
-    <tag k="name:it" v="Girasole"/>
-    <tag k="name:sc" v="Gelisuli"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="946"/>
-    <tag k="postal_code" v="08040"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comune.girasole.og.it/index.asp"/>
-    <tag k="wikidata" v="Q339943"/>
-    <tag k="wikipedia" v="it:Girasole (Italia)"/>
   </node>
   <node id="72992029" lat="40.4072775" lon="9.6111604" version="46" timestamp="2023-11-06T20:40:27Z" changeset="143709535" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7336"/>

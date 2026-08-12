@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-01T05:20:36Z" areas="2026-07-31T11:27:02Z"/>
+<meta osm_base="2026-08-12T03:56:04Z" areas="2026-08-11T15:16:44Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -181,13 +181,6 @@
     <tag k="name" v="Mezzoldo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="162"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62505771" lat="45.8894870" lon="9.7692520" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
-    <tag k="gfoss_id" v="2068"/>
-    <tag k="name" v="Oltre il Colle"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="990"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62505798" lat="45.7380261" lon="10.0345150" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -13897,13 +13890,6 @@
     <tag k="population" v="3797"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301810" lat="43.8557055" lon="12.6713923" version="4" timestamp="2016-09-16T15:55:09Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7926"/>
-    <tag k="name" v="Mondaino"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1461"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="69301853" lat="43.8902363" lon="12.6103147" version="4" timestamp="2016-09-16T15:55:09Z" changeset="42205884" uid="743479" user="fayor">
     <tag k="gfoss_id" v="7928"/>
     <tag k="name" v="Montefiore Conca"/>
@@ -14447,11 +14433,12 @@
     <tag k="population" v="1656"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="70990869" lat="42.1630390" lon="14.4973180" version="2" timestamp="2016-09-07T16:52:23Z" changeset="41983597" uid="743479" user="fayor">
+  <node id="70990869" lat="42.1630390" lon="14.4973180" version="3" timestamp="2026-08-04T08:49:06Z" changeset="186910700" uid="1940323" user="SekeRob">
+    <tag k="check_date" v="2024"/>
     <tag k="gfoss_id" v="5967"/>
     <tag k="name" v="Paglieta"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="4401"/>
+    <tag k="population" v="4086"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70990962" lat="41.9115330" lon="14.3738190" version="2" timestamp="2016-09-07T16:52:26Z" changeset="41983597" uid="743479" user="fayor">
@@ -16646,12 +16633,6 @@
     <tag k="place" v="hamlet"/>
     <tag k="wikidata" v="Q18495221"/>
   </node>
-  <node id="1255599015" lat="45.8387097" lon="7.6203596" version="7" timestamp="2026-01-23T00:23:39Z" changeset="177588234" uid="4365159" user="wildmaps">
-    <tag k="name" v="Corgnolaz"/>
-    <tag k="place" v="hamlet"/>
-    <tag k="population" v="68"/>
-    <tag k="wikidata" v="Q18495395"/>
-  </node>
   <node id="1274631717" lat="42.4093586" lon="12.7665388" version="6" timestamp="2018-05-15T09:20:45Z" changeset="58976905" uid="7022493" user="Fra00">
     <tag k="gfoss_id" v="4863"/>
     <tag k="name" v="Contigliano"/>
@@ -17252,6 +17233,15 @@
     <tag k="population" v="5262"/>
     <tag k="population:date" v="2021-12-31"/>
     <tag k="source:population" v="wikipedia"/>
+  </node>
+  <node id="14080086632" lat="45.8381732" lon="7.6202319" version="1" timestamp="2026-08-08T10:54:52Z" changeset="187127912" uid="23861640" user="Leolini22">
+    <tag k="name" v="Chamois"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="113"/>
+    <tag k="population:date" v="2026-05-41"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q34924"/>
+    <tag k="wikipedia" v="it:Chamois"/>
   </node>
 
 </osm>
