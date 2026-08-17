@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-16T03:27:56Z" areas="2026-08-15T08:46:19Z"/>
+<meta osm_base="2026-08-17T03:23:16Z" areas="2026-08-16T10:27:20Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -34,6 +34,19 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
+  </node>
+  <node id="41645818" lat="45.2769434" lon="6.8169262" version="23" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
+    <tag k="addr:postcode" v="73500"/>
+    <tag k="alt_name" v="Termignon-la-Vanoise"/>
+    <tag k="name" v="Termignon"/>
+    <tag k="name:uk" v="Терміньон"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="2067"/>
+    <tag k="population:date" v="2021"/>
+    <tag k="ref:FR:SIREN" v="217302900"/>
+    <tag k="source:population" v="INSEE 2024"/>
+    <tag k="wikidata" v="Q569751"/>
+    <tag k="wikipedia" v="fr:Termignon"/>
   </node>
   <node id="61753374" lat="43.6540276" lon="11.7884391" version="4" timestamp="2026-01-19T14:40:19Z" changeset="177432276" uid="4365159" user="wildmaps">
     <tag k="gfoss_id" v="4591"/>
