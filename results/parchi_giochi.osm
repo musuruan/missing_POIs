@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-17T03:18:15Z" areas="2026-08-16T10:27:20Z"/>
+<meta osm_base="2026-08-19T03:07:05Z" areas="2026-08-18T18:09:03Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -34,19 +34,6 @@
     <tag k="postal_code" v="74400"/>
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
-  </node>
-  <node id="41645818" lat="45.2769434" lon="6.8169262" version="23" timestamp="2024-11-08T04:05:09Z" changeset="158880209" uid="587556" user="Cyrille37Bot">
-    <tag k="addr:postcode" v="73500"/>
-    <tag k="alt_name" v="Termignon-la-Vanoise"/>
-    <tag k="name" v="Termignon"/>
-    <tag k="name:uk" v="Терміньон"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2067"/>
-    <tag k="population:date" v="2021"/>
-    <tag k="ref:FR:SIREN" v="217302900"/>
-    <tag k="source:population" v="INSEE 2024"/>
-    <tag k="wikidata" v="Q569751"/>
-    <tag k="wikipedia" v="fr:Termignon"/>
   </node>
   <node id="56040271" lat="44.3204868" lon="11.7992579" version="4" timestamp="2024-12-26T22:39:14Z" changeset="160656133" uid="1726102" user="AlessioMela">
     <tag k="name" v="Castel Bolognese"/>
@@ -14976,13 +14963,6 @@
     <tag k="wikidata" v="Q72233"/>
     <tag k="wikipedia" v="it:Marigliano"/>
   </node>
-  <node id="68581390" lat="40.2496190" lon="15.2693964" version="3" timestamp="2022-11-03T14:17:49Z" changeset="128441652" uid="404532" user="jaimemd">
-    <tag k="gfoss_id" v="5618"/>
-    <tag k="name" v="Moio della Civitella"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1823"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68581395" lat="40.7181120" lon="14.9423470" version="2" timestamp="2016-08-30T01:07:10Z" changeset="41791239" uid="743479" user="fayor">
     <tag k="gfoss_id" v="5605"/>
     <tag k="name" v="Giffoni Valle Piana"/>
@@ -16042,11 +16022,14 @@
     <tag k="population" v="2389"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301732" lat="43.9137480" lon="12.6460672" version="6" timestamp="2017-12-01T21:15:17Z" changeset="54250049" uid="362065" user="GFS">
+  <node id="69301732" lat="43.9140276" lon="12.6458266" version="7" timestamp="2026-08-17T13:13:17Z" changeset="187587401" uid="19805734" user="karlottobenz">
     <tag k="gfoss_id" v="7931"/>
     <tag k="name" v="Morciano di Romagna"/>
+    <tag k="name:it" v="Morciano di Romagna"/>
+    <tag k="name:rgn" v="Murzèn"/>
+    <tag k="old_name:-1865" v="Morciano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="7045"/>
+    <tag k="population" v="7306"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="69301746" lat="43.9041617" lon="12.5830579" version="4" timestamp="2016-09-16T15:55:08Z" changeset="42205884" uid="743479" user="fayor">
@@ -16280,13 +16263,6 @@
     <tag k="name" v="Francavilla d'Ete"/>
     <tag k="place" v="village"/>
     <tag k="population" v="963"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="70980102" lat="43.1379540" lon="13.5871840" version="2" timestamp="2016-09-09T17:36:36Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="4359"/>
-    <tag k="name" v="Magliano di Tenna"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1204"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="70980169" lat="42.8969500" lon="13.7938920" version="2" timestamp="2016-09-09T17:36:38Z" changeset="42039680" uid="743479" user="fayor">
@@ -22355,11 +22331,6 @@
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q48800570"/>
   </node>
-  <node id="2962248948" lat="43.1117111" lon="13.6029809" version="4" timestamp="2016-09-09T17:36:35Z" changeset="42039680" uid="743479" user="fayor">
-    <tag k="name" v="Grottazzolina"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="3398"/>
-  </node>
   <node id="3013247846" lat="40.0037483" lon="8.6495366" version="40" timestamp="2023-11-06T06:19:56Z" changeset="143677583" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7675"/>
     <tag k="is_in" v="Oristano, Sardegna, Italy"/>
@@ -22396,7 +22367,7 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2401"/>
   </node>
-  <node id="3691158883" lat="42.0898152" lon="14.2053326" version="3" timestamp="2025-02-06T11:23:20Z" changeset="162204200" uid="79364" user="klaus e werner">
+  <node id="3691158883" lat="42.0898853" lon="14.2053187" version="4" timestamp="2026-08-18T16:34:56Z" changeset="187649208" uid="26139" user="dieterdreist">
     <tag k="name" v="Fara San Martino"/>
     <tag k="place" v="village"/>
     <tag k="wikidata" v="Q30025634"/>
