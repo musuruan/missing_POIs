@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-20T03:11:01Z" areas="2026-08-19T06:37:35Z"/>
+<meta osm_base="2026-08-21T03:10:10Z" areas="2026-08-20T09:15:59Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -9166,10 +9166,11 @@
     <tag k="wikidata" v="Q25179"/>
     <tag k="wikipedia" v="it:Quarona"/>
   </node>
-  <node id="63631957" lat="45.2822927" lon="8.4781176" version="7" timestamp="2023-01-17T19:55:50Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63631957" lat="45.2822927" lon="8.4781176" version="8" timestamp="2026-08-20T13:36:10Z" changeset="187744558" uid="11220113" user="ivanbranco">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="370"/>
     <tag k="name" v="Prarolo"/>
+    <tag k="old_name" v="Pelarol"/>
     <tag k="place" v="village"/>
     <tag k="population" v="589"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -10121,6 +10122,18 @@
     <tag k="population" v="568"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030044"/>
+  </node>
+  <node id="64778949" lat="45.5185311" lon="11.0161587" version="9" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
+    <tag k="gfoss_id" v="3128"/>
+    <tag k="name" v="Grezzana"/>
+    <tag k="name:uk" v="Греццана"/>
+    <tag k="place" v="town"/>
+    <tag k="population" v="10772"/>
+    <tag k="population:date" v="2025-05-31"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="source:population" v="wikipedia"/>
+    <tag k="wikidata" v="Q30026222"/>
+    <tag k="wikipedia" v="it:Grezzana"/>
   </node>
   <node id="64778952" lat="45.4659334" lon="11.1800214" version="4" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
     <tag k="gfoss_id" v="3129"/>
@@ -15098,22 +15111,6 @@
     <tag k="website" v="https://www.comune.preci.pg.it/"/>
     <tag k="wikidata" v="Q20516"/>
     <tag k="wikipedia" v="it:Preci"/>
-  </node>
-  <node id="68507816" lat="42.5835238" lon="12.7697492" version="17" timestamp="2026-08-19T16:24:53Z" changeset="187699941" uid="1211510" user="arcanma">
-    <tag k="ele" v="243"/>
-    <tag k="gfoss_id" v="50464"/>
-    <tag k="istat_id" v="5500510001"/>
-    <tag k="name" v="Arrone"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1349"/>
-    <tag k="population:date" v="2021-12-31"/>
-    <tag k="population:note" v="Popolazione del centro abitato. La popolazione dell'intero comune è inserita nella relazione amministrativa"/>
-    <tag k="population:note:en" v="Urban centre population. The municipality population is in the boundary relation"/>
-    <tag k="ref:LOCODE" v="ITZCM"/>
-    <tag k="source:population" v="Istat 2021 census"/>
-    <tag k="website" v="https://www.comune.arrone.terni.it/"/>
-    <tag k="wikidata" v="Q6248"/>
-    <tag k="wikipedia" v="it:Arrone"/>
   </node>
   <node id="68507824" lat="42.5882078" lon="12.2959357" version="13" timestamp="2025-02-26T13:55:41Z" changeset="162973073" uid="3860151" user="Michele Aquilani">
     <tag k="contact:facebook" v="https://www.facebook.com/Comune-Alviano-1518802771673345/"/>

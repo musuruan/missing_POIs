@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-20T03:07:01Z" areas="2026-08-19T07:53:47Z"/>
+<meta osm_base="2026-08-21T03:08:12Z" areas="2026-08-20T10:02:43Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -13399,16 +13399,6 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023744"/>
   </node>
-  <node id="63627693" lat="45.6748690" lon="8.4597270" version="4" timestamp="2023-01-17T19:52:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="created_by" v="JOSM"/>
-    <tag k="gfoss_id" v="433"/>
-    <tag k="is_in" v="Novara, Piemonte, Italy"/>
-    <tag k="name" v="Cureggio"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2251"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30025340"/>
-  </node>
   <node id="63627710" lat="45.6131680" lon="8.4861290" version="4" timestamp="2023-01-17T19:58:04Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="427"/>
     <tag k="name" v="Cavaglio d'Agogna"/>
@@ -16136,10 +16126,11 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30028729"/>
   </node>
-  <node id="63631957" lat="45.2822927" lon="8.4781176" version="7" timestamp="2023-01-17T19:55:50Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="63631957" lat="45.2822927" lon="8.4781176" version="8" timestamp="2026-08-20T13:36:10Z" changeset="187744558" uid="11220113" user="ivanbranco">
     <tag k="capital" v="8"/>
     <tag k="gfoss_id" v="370"/>
     <tag k="name" v="Prarolo"/>
+    <tag k="old_name" v="Pelarol"/>
     <tag k="place" v="village"/>
     <tag k="population" v="589"/>
     <tag k="source" v="geodati.gfoss.it"/>
@@ -21240,9 +21231,9 @@
     <tag k="population" v="3816"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503015" lat="45.9145042" lon="12.8565956" version="13" timestamp="2025-07-05T06:27:37Z" changeset="168510190" uid="20552772" user="user_8y978a">
+  <node id="66503015" lat="45.9145042" lon="12.8565956" version="14" timestamp="2026-08-20T20:14:04Z" changeset="187764403" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="7546"/>
-    <tag k="name" v="San Vito al Tagliamento / San Vît dal Tiliment"/>
+    <tag k="name" v="San Vito al Tagliamento"/>
     <tag k="name:fur" v="San Vît dal Tiliment"/>
     <tag k="name:it" v="San Vito al Tagliamento"/>
     <tag k="place" v="town"/>
@@ -21362,9 +21353,9 @@
     <tag k="wikidata" v="Q1520816"/>
     <tag k="wikipedia" v="it:Campolongo al Torre"/>
   </node>
-  <node id="66503091" lat="46.2066766" lon="13.1185570" version="13" timestamp="2026-07-07T13:42:50Z" changeset="185266529" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503091" lat="46.2066766" lon="13.1185570" version="14" timestamp="2026-08-20T04:01:53Z" changeset="187721084" uid="3538539" user="micheleOSM3">
     <tag k="gfoss_id" v="3684"/>
-    <tag k="name" v="Buja / Buie"/>
+    <tag k="name" v="Buja"/>
     <tag k="name:fur" v="Buie"/>
     <tag k="name:it" v="Buja"/>
     <tag k="place" v="village"/>
@@ -21492,9 +21483,9 @@
     <tag k="population" v="1632"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503193" lat="45.9426667" lon="13.0491805" version="7" timestamp="2025-07-05T20:38:41Z" changeset="168538657" uid="20552772" user="user_8y978a">
+  <node id="66503193" lat="45.9426667" lon="13.0491805" version="8" timestamp="2026-08-20T20:23:13Z" changeset="187764823" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="3681"/>
-    <tag k="name" v="Bertiolo / Bertiûl"/>
+    <tag k="name" v="Bertiolo"/>
     <tag k="name:fur" v="Bertiûl"/>
     <tag k="name:it" v="Bertiolo"/>
     <tag k="place" v="village"/>
@@ -21880,9 +21871,9 @@
     <tag k="population" v="4114"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503344" lat="46.2156457" lon="13.2221061" version="16" timestamp="2026-02-06T17:00:51Z" changeset="178197202" uid="129060" user="Klenje">
+  <node id="66503344" lat="46.2156457" lon="13.2221061" version="17" timestamp="2026-08-20T20:42:58Z" changeset="187765557" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="3787"/>
-    <tag k="name" v="Tarcento / Tarcint"/>
+    <tag k="name" v="Tarcento"/>
     <tag k="name:fur" v="Tarcint"/>
     <tag k="name:it" v="Tarcento"/>
     <tag k="name:sl" v="Čenta"/>
@@ -21892,10 +21883,10 @@
     <tag k="wikidata" v="Q53376"/>
     <tag k="wikipedia" v="it:Tarcento"/>
   </node>
-  <node id="66503348" lat="45.8008548" lon="13.3457543" version="11" timestamp="2026-08-19T14:00:34Z" changeset="187692454" uid="14202171" user="Alessandro Ambrosino">
+  <node id="66503348" lat="45.8008548" lon="13.3457543" version="12" timestamp="2026-08-20T04:55:45Z" changeset="187722139" uid="3538539" user="micheleOSM3">
     <tag k="gfoss_id" v="3791"/>
     <tag k="loc_name:fur" v="Tiars"/>
-    <tag k="name" v="Terzo di Aquileia / Tierç"/>
+    <tag k="name" v="Terzo di Aquileia"/>
     <tag k="name:fur" v="Tierç"/>
     <tag k="name:it" v="Terzo di Aquileia"/>
     <tag k="place" v="village"/>
@@ -22148,9 +22139,9 @@
     <tag k="population" v="2284"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503509" lat="45.8581744" lon="13.2178534" version="7" timestamp="2025-07-09T17:41:41Z" changeset="168707645" uid="20552772" user="user_8y978a">
+  <node id="66503509" lat="45.8581744" lon="13.2178534" version="8" timestamp="2026-08-20T20:38:02Z" changeset="187765374" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="3748"/>
-    <tag k="name" v="Porpetto / Porpêt"/>
+    <tag k="name" v="Porpetto"/>
     <tag k="name:fur" v="Porpêt"/>
     <tag k="name:it" v="Porpetto"/>
     <tag k="place" v="village"/>
