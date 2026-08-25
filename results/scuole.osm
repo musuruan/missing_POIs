@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-24T03:24:27Z" areas="2026-08-23T16:30:51Z"/>
+<meta osm_base="2026-08-25T03:09:58Z" areas="2026-08-24T19:48:20Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -930,11 +930,13 @@
     <tag k="population" v="2281"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507063" lat="45.8517289" lon="9.7432339" version="5" timestamp="2021-01-14T11:40:31Z" changeset="97493203" uid="616481" user="gigi2037">
+  <node id="62507063" lat="45.8517289" lon="9.7432339" version="6" timestamp="2026-08-24T21:08:34Z" changeset="187960368" uid="24448860" user="Cavaxx">
+    <tag k="capital" v="6"/>
     <tag k="gfoss_id" v="2168"/>
     <tag k="name" v="Cornalba"/>
     <tag k="place" v="village"/>
     <tag k="population" v="297"/>
+    <tag k="postal_code" v="24017"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q100410"/>
     <tag k="wikipedia" v="it:Cornalba"/>
@@ -7229,10 +7231,13 @@
     <tag k="population" v="316"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63627101" lat="44.4585534" lon="7.0934722" version="7" timestamp="2021-09-27T17:21:44Z" changeset="111779512" uid="4347030" user="vbertola">
+  <node id="63627101" lat="44.4585534" lon="7.0934722" version="8" timestamp="2026-08-24T17:42:54Z" changeset="187951510" uid="16291142" user="Lisapple">
     <tag k="ele" v="1230"/>
     <tag k="name" v="Vernetti"/>
     <tag k="place" v="hamlet"/>
+    <tag k="population" v="56"/>
+    <tag k="population:date" v="2025-12-31"/>
+    <tag k="source:population" v="https://demo.istat.it/ - 2026"/>
   </node>
   <node id="63627110" lat="44.6762622" lon="7.1903758" version="7" timestamp="2023-01-17T19:49:25Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="643"/>
@@ -23320,10 +23325,13 @@
     <tag k="place" v="village"/>
     <tag k="population" v="18"/>
   </node>
-  <node id="303700939" lat="44.2206828" lon="8.3241235" version="6" timestamp="2024-07-28T10:28:16Z" changeset="154514081" uid="21794763" user="N Longo">
+  <node id="303700939" lat="44.2206828" lon="8.3241235" version="7" timestamp="2026-08-24T18:09:32Z" changeset="187952712" uid="16291142" user="Lisapple">
     <tag k="name" v="Feglino"/>
     <tag k="name:lij" v="Feìn"/>
     <tag k="place" v="village"/>
+    <tag k="population" v="901"/>
+    <tag k="population:date" v="2025-12-31"/>
+    <tag k="source:population" v="https://demo.istat.it/ - 2026"/>
   </node>
   <node id="316029610" lat="44.4420638" lon="9.1373284" version="3" timestamp="2017-10-04T07:51:58Z" changeset="52617222" uid="5266127" user="alessio gardella">
     <tag k="ele" v="228"/>
@@ -23889,9 +23897,12 @@
     <tag k="wikimedia_commons" v="Category:Perinaldo"/>
     <tag k="wikipedia" v="it:Perinaldo"/>
   </node>
-  <node id="1565960186" lat="45.3700638" lon="7.2816333" version="9" timestamp="2019-07-03T19:18:59Z" changeset="71872809" uid="1778799" user="SomeoneElse_Revert">
+  <node id="1565960186" lat="45.3700638" lon="7.2816333" version="10" timestamp="2026-08-24T17:56:11Z" changeset="187952142" uid="16291142" user="Lisapple">
     <tag k="name" v="Pialpetta"/>
     <tag k="place" v="village"/>
+    <tag k="population" v="183"/>
+    <tag k="population:date" v="2025-12-31"/>
+    <tag k="source:population" v="https://demo.istat.it/ - 2026"/>
     <tag k="wikidata" v="Q18444014"/>
   </node>
   <node id="1569243772" lat="43.9680214" lon="7.9639801" version="5" timestamp="2026-01-26T21:41:18Z" changeset="177739557" uid="20673751" user="LucianoC63">
@@ -23966,12 +23977,15 @@
     <tag k="population" v="358"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="1731476139" lat="44.5896382" lon="7.0703201" version="7" timestamp="2023-01-17T19:51:01Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="1731476139" lat="44.5896382" lon="7.0703201" version="8" timestamp="2026-08-24T17:42:39Z" changeset="187951510" uid="16291142" user="Lisapple">
     <tag k="name" v="Casteldelfino"/>
     <tag k="name:fr" v="Châteaudauphin"/>
     <tag k="name:oc" v="Chasteldeifin"/>
     <tag k="place" v="village"/>
+    <tag k="population" v="143"/>
+    <tag k="population:date" v="2025-12-31"/>
     <tag k="source:name:oc" v="ieo-bdtopoc"/>
+    <tag k="source:population" v="https://demo.istat.it/ - 2026"/>
   </node>
   <node id="1735580727" lat="45.7454373" lon="7.0705652" version="3" timestamp="2026-01-23T01:10:33Z" changeset="177588957" uid="4365159" user="wildmaps">
     <tag k="name" v="La Salle"/>
@@ -24325,9 +24339,12 @@
     <tag k="wikidata" v="Q18054"/>
     <tag k="wikipedia" v="it:Coggiola"/>
   </node>
-  <node id="2641958471" lat="45.5921482" lon="8.0379244" version="3" timestamp="2023-01-17T19:56:05Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="2641958471" lat="45.5921482" lon="8.0379244" version="4" timestamp="2026-08-24T17:57:20Z" changeset="187952179" uid="16291142" user="Lisapple">
     <tag k="name" v="Pralungo"/>
     <tag k="place" v="village"/>
+    <tag k="population" v="2293"/>
+    <tag k="population:date" v="2025-12-31"/>
+    <tag k="source:population" v="https://demo.istat.it/ - 2026"/>
   </node>
   <node id="2646453006" lat="45.2120721" lon="9.2554631" version="2" timestamp="2025-12-08T23:10:22Z" changeset="175690340" uid="34088" user="Tri38">
     <tag k="name" v="Cura Carpignano"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-24T03:06:05Z" areas="2026-08-23T16:30:51Z"/>
+<meta osm_base="2026-08-25T02:53:47Z" areas="2026-08-24T04:33:33Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -655,11 +655,13 @@
     <tag k="population" v="2281"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62507063" lat="45.8517289" lon="9.7432339" version="5" timestamp="2021-01-14T11:40:31Z" changeset="97493203" uid="616481" user="gigi2037">
+  <node id="62507063" lat="45.8517289" lon="9.7432339" version="6" timestamp="2026-08-24T21:08:34Z" changeset="187960368" uid="24448860" user="Cavaxx">
+    <tag k="capital" v="6"/>
     <tag k="gfoss_id" v="2168"/>
     <tag k="name" v="Cornalba"/>
     <tag k="place" v="village"/>
     <tag k="population" v="297"/>
+    <tag k="postal_code" v="24017"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q100410"/>
     <tag k="wikipedia" v="it:Cornalba"/>
@@ -5227,10 +5229,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027702"/>
   </node>
-  <node id="63627101" lat="44.4585534" lon="7.0934722" version="7" timestamp="2021-09-27T17:21:44Z" changeset="111779512" uid="4347030" user="vbertola">
+  <node id="63627101" lat="44.4585534" lon="7.0934722" version="8" timestamp="2026-08-24T17:42:54Z" changeset="187951510" uid="16291142" user="Lisapple">
     <tag k="ele" v="1230"/>
     <tag k="name" v="Vernetti"/>
     <tag k="place" v="hamlet"/>
+    <tag k="population" v="56"/>
+    <tag k="population:date" v="2025-12-31"/>
+    <tag k="source:population" v="https://demo.istat.it/ - 2026"/>
   </node>
   <node id="63627120" lat="44.6919420" lon="8.1168380" version="5" timestamp="2023-01-17T19:46:05Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="638"/>
@@ -7236,7 +7241,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30021974"/>
   </node>
-  <node id="64778889" lat="45.4202303" lon="11.2477220" version="4" timestamp="2026-01-25T16:33:01Z" changeset="177689274" uid="21646218" user="giopera">
+  <node id="64778889" lat="45.4206910" lon="11.2475529" version="5" timestamp="2026-08-24T15:12:40Z" changeset="187944259" uid="2964620" user="Guido Guariento">
     <tag k="gfoss_id" v="3171"/>
     <tag k="name" v="Soave"/>
     <tag k="place" v="village"/>
@@ -16846,9 +16851,12 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4049"/>
   </node>
-  <node id="2658014388" lat="44.9559831" lon="7.1827794" version="4" timestamp="2023-01-17T19:53:19Z" changeset="131393953" uid="145231" user="woodpeck_repair">
+  <node id="2658014388" lat="44.9559831" lon="7.1827794" version="5" timestamp="2026-08-24T17:43:59Z" changeset="187951548" uid="16291142" user="Lisapple">
     <tag k="name" v="Pomaretto"/>
     <tag k="place" v="village"/>
+    <tag k="population" v="935"/>
+    <tag k="population:date" v="2025-12-31"/>
+    <tag k="source:population" v="https://demo.istat.it/ - 2026"/>
     <tag k="wikidata" v="Q10197"/>
     <tag k="wikipedia" v="it:Pomaretto"/>
   </node>
