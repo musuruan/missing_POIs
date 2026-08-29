@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-26T03:08:19Z" areas="2026-08-25T10:20:35Z"/>
+<meta osm_base="2026-08-29T08:35:17Z" areas="2026-08-29T01:53:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -321,13 +321,12 @@
     <tag k="population" v="207"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505768" lat="45.4687750" lon="9.6210570" version="9" timestamp="2023-11-10T10:23:53Z" changeset="143856573" uid="9451067" user="b-jazz-bot">
+  <node id="62505768" lat="45.4687750" lon="9.6210570" version="11" timestamp="2026-08-26T15:53:37Z" changeset="188051751" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2058"/>
     <tag k="name" v="Misano di Gera d'Adda"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2932"/>
-    <tag k="population:date" v="2016"/>
-    <tag k="source:population" v="http://www.comuni-italiani.it/016/135/statistiche/"/>
+    <tag k="population" v="3044"/>
+    <tag k="population:date" v="2025-10-31"/>
     <tag k="website" v="https://www.comune.misano.bg.it/"/>
     <tag k="wikidata" v="Q30027573"/>
     <tag k="wikipedia" v="it:Misano di Gera d'Adda"/>
@@ -1604,7 +1603,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023458"/>
   </node>
-  <node id="62511376" lat="45.0788720" lon="10.3751800" version="4" timestamp="2025-09-20T11:23:13Z" changeset="172201188" uid="18063623" user="DomeF">
+  <node id="62511376" lat="45.0776144" lon="10.3737423" version="5" timestamp="2026-08-27T06:56:40Z" changeset="188079780" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2656"/>
     <tag k="name" v="San Giovanni in Croce"/>
     <tag k="name:egl" v="San Giuan in Crus"/>
@@ -1771,11 +1770,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="3500"/>
     <tag k="wikidata" v="Q30024820"/>
-  </node>
-  <node id="62511645" lat="45.9999225" lon="9.3831654" version="4" timestamp="2015-08-22T22:51:39Z" changeset="33515047" uid="69717" user="kaitu">
-    <tag k="name" v="Cortenova"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1254"/>
   </node>
   <node id="62511687" lat="45.2207750" lon="10.2520750" version="2" timestamp="2022-02-27T08:50:11Z" changeset="117900216" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2630"/>
@@ -7748,11 +7742,12 @@
     <tag k="population" v="546"/>
     <tag k="wikidata" v="Q266259"/>
   </node>
-  <node id="66586621" lat="44.6048462" lon="9.2912637" version="5" timestamp="2018-03-23T16:51:28Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
+  <node id="66586621" lat="44.6048462" lon="9.2912637" version="6" timestamp="2026-08-26T13:22:38Z" changeset="188043485" uid="24247338" user="davide020382">
     <tag k="gfoss_id" v="1283"/>
     <tag k="name" v="Gorreto"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="97"/>
+    <tag k="population" v="92"/>
+    <tag k="population:date" v="2023-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q266338"/>
   </node>
@@ -8286,16 +8281,6 @@
     <tag k="name:scn" v="Vivona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3115"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67253832" lat="37.3380858" lon="13.4219962" version="38" timestamp="2024-05-28T21:48:11Z" changeset="151964539" uid="743479" user="fayor">
-    <tag k="name" v="Siculiana"/>
-    <tag k="name:ar" v="سيكوليانا"/>
-    <tag k="name:it" v="Siculiana"/>
-    <tag k="name:ru" v="Сикульяна"/>
-    <tag k="name:uk" v="Сікуліана"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="4155"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67253933" lat="37.5090143" lon="13.5242820" version="15" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
@@ -22688,10 +22673,11 @@
     <tag k="population" v="4592"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="8038184494" lat="42.3613571" lon="12.4811695" version="26" timestamp="2023-09-20T09:44:16Z" changeset="141504537" uid="3860151" user="Michele Aquilani">
+  <node id="8038184494" lat="42.3613571" lon="12.4811695" version="28" timestamp="2026-08-26T13:19:53Z" changeset="188043294" uid="24247338" user="davide020382">
     <tag k="name" v="Magliano Sabina"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3693"/>
+    <tag k="population" v="3433"/>
+    <tag k="population:date" v="2023-01-01"/>
     <tag k="wikidata" v="Q224202"/>
     <tag k="wikimedia_commons" v="Category:Magliano Sabina"/>
     <tag k="wikipedia" v="it:Magliano Sabina"/>

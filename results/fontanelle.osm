@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-26T03:06:20Z" areas="2026-08-25T20:39:47Z"/>
+<meta osm_base="2026-08-29T08:33:18Z" areas="2026-08-29T01:53:18Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -35,13 +35,12 @@
     <tag k="source:population" v="INSEE 2024"/>
     <tag k="wikidata" v="Q83236"/>
   </node>
-  <node id="62505768" lat="45.4687750" lon="9.6210570" version="9" timestamp="2023-11-10T10:23:53Z" changeset="143856573" uid="9451067" user="b-jazz-bot">
+  <node id="62505768" lat="45.4687750" lon="9.6210570" version="11" timestamp="2026-08-26T15:53:37Z" changeset="188051751" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2058"/>
     <tag k="name" v="Misano di Gera d'Adda"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2932"/>
-    <tag k="population:date" v="2016"/>
-    <tag k="source:population" v="http://www.comuni-italiani.it/016/135/statistiche/"/>
+    <tag k="population" v="3044"/>
+    <tag k="population:date" v="2025-10-31"/>
     <tag k="website" v="https://www.comune.misano.bg.it/"/>
     <tag k="wikidata" v="Q30027573"/>
     <tag k="wikipedia" v="it:Misano di Gera d'Adda"/>
@@ -392,7 +391,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30023939"/>
   </node>
-  <node id="62511376" lat="45.0788720" lon="10.3751800" version="4" timestamp="2025-09-20T11:23:13Z" changeset="172201188" uid="18063623" user="DomeF">
+  <node id="62511376" lat="45.0776144" lon="10.3737423" version="5" timestamp="2026-08-27T06:56:40Z" changeset="188079780" uid="564585" user="wegavision">
     <tag k="gfoss_id" v="2656"/>
     <tag k="name" v="San Giovanni in Croce"/>
     <tag k="name:egl" v="San Giuan in Crus"/>
@@ -1609,13 +1608,6 @@
     <tag k="population" v="226"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="63622117" lat="44.6360470" lon="8.7154520" version="4" timestamp="2023-01-17T20:02:52Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="945"/>
-    <tag k="name" v="Lerma"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="801"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="63622238" lat="44.9437992" lon="8.6701395" version="7" timestamp="2023-01-17T20:06:39Z" changeset="131393953" uid="145231" user="woodpeck_repair">
     <tag k="gfoss_id" v="986"/>
     <tag k="name" v="Pietra Marazzi"/>
@@ -1978,12 +1970,13 @@
     <tag k="wikidata" v="Q17789"/>
     <tag k="wikipedia" v="it:Cerreto d'Asti"/>
   </node>
-  <node id="63624437" lat="44.7185099" lon="8.4158536" version="4" timestamp="2025-10-27T19:28:20Z" changeset="173854268" uid="564585" user="wegavision">
+  <node id="63624437" lat="44.7185099" lon="8.4158536" version="5" timestamp="2026-08-26T13:21:19Z" changeset="188043365" uid="24247338" user="davide020382">
     <tag k="gfoss_id" v="771"/>
     <tag k="name" v="Castel Rocchero"/>
     <tag k="name:pms" v="Castel Roché"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="396"/>
+    <tag k="population" v="379"/>
+    <tag k="population:date" v="2023-01-01"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q17777"/>
     <tag k="wikipedia" v="it:Castel Rocchero"/>
@@ -6938,14 +6931,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="4874"/>
     <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="69301189" lat="44.8327057" lon="9.7298940" version="12" timestamp="2023-06-14T14:31:03Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
-    <tag k="gfoss_id" v="3864"/>
-    <tag k="name" v="Gropparello"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2369"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026241"/>
   </node>
   <node id="69301385" lat="45.0214997" lon="9.9484880" version="3" timestamp="2021-05-02T05:43:02Z" changeset="103980116" uid="554973" user="dgitto">
     <tag k="gfoss_id" v="3880"/>
