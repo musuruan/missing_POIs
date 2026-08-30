@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-29T08:37:21Z" areas="2026-08-29T01:53:18Z"/>
+<meta osm_base="2026-08-30T07:49:20Z" areas="2026-08-30T01:51:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1120,15 +1120,11 @@
     <tag k="population" v="207"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505768" lat="45.4687750" lon="9.6210570" version="11" timestamp="2026-08-26T15:53:37Z" changeset="188051751" uid="1950277" user="Mannivu">
+  <node id="62505768" lat="45.4687750" lon="9.6210570" version="12" timestamp="2026-08-29T11:55:31Z" changeset="188192924" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2058"/>
     <tag k="name" v="Misano di Gera d'Adda"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3044"/>
-    <tag k="population:date" v="2025-10-31"/>
-    <tag k="website" v="https://www.comune.misano.bg.it/"/>
     <tag k="wikidata" v="Q30027573"/>
-    <tag k="wikipedia" v="it:Misano di Gera d'Adda"/>
   </node>
   <node id="62505771" lat="45.8894870" lon="9.7692520" version="3" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2068"/>
@@ -1137,13 +1133,10 @@
     <tag k="population" v="990"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505788" lat="45.6160780" lon="9.5890530" version="9" timestamp="2026-08-26T15:54:03Z" changeset="188051777" uid="1950277" user="Mannivu">
+  <node id="62505788" lat="45.6160780" lon="9.5890530" version="10" timestamp="2026-08-29T11:59:12Z" changeset="188193110" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2075"/>
     <tag k="name" v="Osio Sotto"/>
     <tag k="place" v="town"/>
-    <tag k="population" v="12592"/>
-    <tag k="population:date" v="2023-01-01"/>
-    <tag k="source:population" v="wikidata"/>
     <tag k="wikidata" v="Q30028438"/>
   </node>
   <node id="62505794" lat="45.9889712" lon="9.5794792" version="6" timestamp="2023-11-09T06:48:03Z" changeset="143808173" uid="9451067" user="b-jazz-bot">
@@ -2049,12 +2042,10 @@
     <tag k="wikidata" v="Q99970"/>
     <tag k="wikipedia" v="it:Bolgare"/>
   </node>
-  <node id="62506811" lat="45.5656770" lon="9.6401550" version="6" timestamp="2026-08-26T15:53:51Z" changeset="188051766" uid="1950277" user="Mannivu">
+  <node id="62506811" lat="45.5656770" lon="9.6401550" version="7" timestamp="2026-08-29T11:58:03Z" changeset="188193052" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2052"/>
     <tag k="name" v="Lurano"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="2847"/>
-    <tag k="population:date" v="2023-01-01"/>
     <tag k="wikidata" v="Q30026788"/>
   </node>
   <node id="62506817" lat="45.7163928" lon="9.8804960" version="8" timestamp="2023-05-26T12:18:37Z" changeset="136585225" uid="11220113" user="ivanbranco">
@@ -3055,7 +3046,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikipedia" v="it:Vallio Terme"/>
   </node>
-  <node id="62508443" lat="45.7605110" lon="10.5953562" version="8" timestamp="2019-10-20T20:52:35Z" changeset="75964746" uid="350864" user="demon_box">
+  <node id="62508443" lat="45.7605409" lon="10.5953683" version="9" timestamp="2026-08-29T10:01:07Z" changeset="188188191" uid="6098724" user="CCCGGG">
     <tag k="gfoss_id" v="2364"/>
     <tag k="name" v="Turano"/>
     <tag k="place" v="village"/>
@@ -3575,13 +3566,6 @@
     <tag k="name" v="Vignola"/>
     <tag k="place" v="hamlet"/>
     <tag k="population" v="577"/>
-  </node>
-  <node id="62509323" lat="45.6971263" lon="9.0595206" version="10" timestamp="2026-05-17T09:25:38Z" changeset="182774034" uid="1950277" user="Mannivu">
-    <tag k="name" v="Bregnano"/>
-    <tag k="name:it" v="Bregnano"/>
-    <tag k="name:lmo" v="Bregnan"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="6527"/>
   </node>
   <node id="62509327" lat="45.9680810" lon="8.9710330" version="6" timestamp="2026-05-12T10:32:25Z" changeset="182547839" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="273"/>
@@ -24383,7 +24367,7 @@
     <tag k="population" v="1315"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67256692" lat="37.7214535" lon="13.4312651" version="17" timestamp="2025-07-01T12:51:07Z" changeset="168352553" uid="22632809" user="KeyTV">
+  <node id="67256692" lat="37.7215278" lon="13.4311162" version="18" timestamp="2026-08-29T09:21:05Z" changeset="188186518" uid="923271" user="aldoct">
     <tag k="name" v="Prizzi"/>
     <tag k="name:ru" v="Прицци"/>
     <tag k="place" v="village"/>

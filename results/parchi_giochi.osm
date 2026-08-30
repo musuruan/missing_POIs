@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-08-29T08:35:17Z" areas="2026-08-29T01:53:18Z"/>
+<meta osm_base="2026-08-30T07:46:17Z" areas="2026-08-30T01:51:05Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -321,15 +321,11 @@
     <tag k="population" v="207"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62505768" lat="45.4687750" lon="9.6210570" version="11" timestamp="2026-08-26T15:53:37Z" changeset="188051751" uid="1950277" user="Mannivu">
+  <node id="62505768" lat="45.4687750" lon="9.6210570" version="12" timestamp="2026-08-29T11:55:31Z" changeset="188192924" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2058"/>
     <tag k="name" v="Misano di Gera d'Adda"/>
     <tag k="place" v="village"/>
-    <tag k="population" v="3044"/>
-    <tag k="population:date" v="2025-10-31"/>
-    <tag k="website" v="https://www.comune.misano.bg.it/"/>
     <tag k="wikidata" v="Q30027573"/>
-    <tag k="wikipedia" v="it:Misano di Gera d'Adda"/>
   </node>
   <node id="62505794" lat="45.9889712" lon="9.5794792" version="6" timestamp="2023-11-09T06:48:03Z" changeset="143808173" uid="9451067" user="b-jazz-bot">
     <tag k="email" v="info@comune.ornica.bg.it"/>
@@ -21222,20 +21218,6 @@
     <tag k="website" v="http://www.comune.budduso.ot.it/"/>
     <tag k="wikidata" v="Q340675"/>
     <tag k="wikipedia" v="it:Buddusò"/>
-  </node>
-  <node id="72994330" lat="40.3899781" lon="8.9953354" version="42" timestamp="2017-08-29T17:32:07Z" changeset="51551483" uid="1240942" user="dan980">
-    <tag k="gfoss_id" v="7227"/>
-    <tag k="name" v="Su Burgu/Burgos"/>
-    <tag k="name:it" v="Burgos"/>
-    <tag k="name:sc" v="Su Burgu"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1068"/>
-    <tag k="postal_code" v="07010"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="http://www.comuneburgos.gov.it/index.asp"/>
-    <tag k="wikidata" v="Q390624"/>
-    <tag k="wikipedia" v="it:Burgos (Italia)"/>
-    <tag k="wikipedia:sc" v="Su Burgu"/>
   </node>
   <node id="72994336" lat="40.4562109" lon="9.0644445" version="42" timestamp="2023-11-04T06:05:39Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
     <tag k="alt_name" v="Burtei"/>
