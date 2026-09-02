@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-01T07:34:16Z" areas="2026-08-31T18:31:53Z"/>
+<meta osm_base="2026-09-02T07:07:34Z" areas="2026-09-01T07:54:35Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1342,7 +1342,7 @@
     <tag k="population" v="659"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508443" lat="45.7605409" lon="10.5953683" version="9" timestamp="2026-08-29T10:01:07Z" changeset="188188191" uid="6098724" user="CCCGGG">
+  <node id="62508443" lat="45.7604807" lon="10.5957288" version="10" timestamp="2026-09-01T13:34:42Z" changeset="188365528" uid="6098724" user="CCCGGG">
     <tag k="gfoss_id" v="2364"/>
     <tag k="name" v="Turano"/>
     <tag k="place" v="village"/>
@@ -10555,16 +10555,17 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q266352"/>
   </node>
-  <node id="66586656" lat="43.8710380" lon="7.5541812" version="7" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
+  <node id="66586656" lat="43.8710380" lon="7.5541812" version="8" timestamp="2026-09-02T06:47:06Z" changeset="188402650" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1122"/>
     <tag k="name" v="Airole"/>
     <tag k="place" v="village"/>
     <tag k="population" v="456"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022042"/>
+    <tag k="wikidata" v="Q264583"/>
     <tag k="wikimedia_commons" v="Category:Airole"/>
+    <tag k="wikipedia" v="it:Airole"/>
   </node>
-  <node id="66586658" lat="43.8804326" lon="7.6602391" version="9" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
+  <node id="66586658" lat="43.8804326" lon="7.6602391" version="10" timestamp="2026-09-02T06:47:06Z" changeset="188402650" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1123"/>
     <tag k="loc_name:lij" v="Bligal"/>
     <tag k="name" v="Apricale"/>
@@ -10572,7 +10573,8 @@
     <tag k="place" v="village"/>
     <tag k="population" v="578"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022275"/>
+    <tag k="wikidata" v="Q268067"/>
+    <tag k="wikipedia" v="it:Apricale"/>
   </node>
   <node id="66586666" lat="44.6012449" lon="9.0386677" version="5" timestamp="2018-03-23T16:51:27Z" changeset="57463355" uid="3620795" user="Ibrahem_Qasim">
     <tag k="gfoss_id" v="1323"/>
@@ -10622,11 +10624,12 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30022432"/>
   </node>
-  <node id="66586689" lat="43.8788708" lon="7.6400263" version="6" timestamp="2026-01-30T19:43:01Z" changeset="177904032" uid="20673751" user="LucianoC63">
+  <node id="66586689" lat="43.8788708" lon="7.6400263" version="7" timestamp="2026-09-02T06:47:06Z" changeset="188402650" uid="15596130" user="NJH_osm">
     <tag k="name" v="Isolabona"/>
     <tag k="place" v="village"/>
     <tag k="population" v="643"/>
-    <tag k="wikidata" v="Q30026395"/>
+    <tag k="wikidata" v="Q269038"/>
+    <tag k="wikipedia" v="it:Isolabona"/>
   </node>
   <node id="66586701" lat="44.0763792" lon="7.8056411" version="16" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1155"/>
@@ -10652,15 +10655,16 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30025423"/>
   </node>
-  <node id="66586718" lat="43.8906190" lon="7.5996420" version="5" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
+  <node id="66586718" lat="43.8906190" lon="7.5996420" version="6" timestamp="2026-09-02T06:47:06Z" changeset="188402650" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1172"/>
     <tag k="image" v="https://commons.wikimedia.org/wiki/File:Rocchetta_Nervina.jpg"/>
     <tag k="name" v="Rocchetta Nervina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30029511"/>
+    <tag k="wikidata" v="Q269717"/>
     <tag k="wikimedia_commons" v="File:Rocchetta Nervina-panorama2.jpg"/>
+    <tag k="wikipedia" v="it:Rocchetta Nervina"/>
   </node>
   <node id="66586727" lat="44.0698777" lon="7.8712894" version="17" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
     <tag k="gfoss_id" v="1167"/>
@@ -10688,14 +10692,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30027863"/>
   </node>
-  <node id="66586741" lat="43.9327142" lon="7.6633135" version="8" timestamp="2022-07-08T11:53:51Z" changeset="123359513" uid="10901495" user="user_10901495">
+  <node id="66586741" lat="43.9327142" lon="7.6633135" version="9" timestamp="2026-09-02T06:47:06Z" changeset="188402650" uid="15596130" user="NJH_osm">
     <tag k="capital" v="8"/>
     <tag k="ele" v="280"/>
     <tag k="loc_name" v="Pìgna"/>
     <tag k="name" v="Pigna"/>
     <tag k="place" v="village"/>
     <tag k="population" v="750"/>
-    <tag k="wikidata" v="Q30028878"/>
+    <tag k="wikidata" v="Q269516"/>
     <tag k="wikimedia_commons" v="Category:Pigna (comune, Italy)"/>
     <tag k="wikipedia" v="it:Pigna (Italia)"/>
   </node>
@@ -10727,15 +10731,16 @@
     <tag k="wikidata" v="Q30031092"/>
     <tag k="wikimedia_commons" v="Category:Terzorio"/>
   </node>
-  <node id="66586765" lat="43.9031088" lon="7.7167756" version="9" timestamp="2026-01-28T20:00:56Z" changeset="177819663" uid="20673751" user="LucianoC63">
+  <node id="66586765" lat="43.9031088" lon="7.7167756" version="10" timestamp="2026-09-02T06:47:06Z" changeset="188402650" uid="15596130" user="NJH_osm">
     <tag k="alt_name" v="Baiardo"/>
     <tag k="gfoss_id" v="1128"/>
     <tag k="name" v="Bajardo"/>
     <tag k="place" v="village"/>
     <tag k="population" v="278"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30022530"/>
+    <tag k="wikidata" v="Q268168"/>
     <tag k="wikimedia_commons" v="File:Bajardo-panorama1.JPG"/>
+    <tag k="wikipedia" v="it:Bajardo"/>
   </node>
   <node id="66586769" lat="43.9229240" lon="8.1011520" version="3" timestamp="2024-08-04T09:43:03Z" changeset="154803326" uid="21794763" user="N Longo">
     <tag k="gfoss_id" v="1173"/>
@@ -10841,14 +10846,14 @@
     <tag k="wikidata" v="Q30024565"/>
     <tag k="wikimedia_commons" v="File:Ceriana-P1010175.JPG"/>
   </node>
-  <node id="66586825" lat="43.9285566" lon="7.6744340" version="6" timestamp="2022-07-08T11:53:51Z" changeset="123359513" uid="10901495" user="user_10901495">
+  <node id="66586825" lat="43.9285566" lon="7.6744340" version="7" timestamp="2026-09-02T06:47:06Z" changeset="188402650" uid="15596130" user="NJH_osm">
     <tag k="alt_name" v="Castelvittorio"/>
     <tag k="ele" v="420"/>
     <tag k="loc_name" v="O Castê"/>
     <tag k="name" v="Castel Vittorio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="275"/>
-    <tag k="wikidata" v="Q30024148"/>
+    <tag k="wikidata" v="Q268314"/>
     <tag k="wikimedia_commons" v="Category:Castel Vittorio"/>
     <tag k="wikipedia" v="it:Castel Vittorio"/>
   </node>
