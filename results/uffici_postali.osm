@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-02T06:46:00Z" areas="2026-09-01T13:46:46Z"/>
+<meta osm_base="2026-09-04T06:47:21Z" areas="2026-09-03T10:22:36Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -846,13 +846,14 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024640"/>
   </node>
-  <node id="62507459" lat="45.5634485" lon="9.9782721" version="4" timestamp="2025-06-09T13:46:13Z" changeset="167399188" uid="350864" user="demon_box">
+  <node id="62507459" lat="45.5634485" lon="9.9782721" version="5" timestamp="2026-09-02T14:32:42Z" changeset="188422747" uid="1950277" user="Mannivu">
     <tag k="gfoss_id" v="2226"/>
     <tag k="loc_name" v="Cucài"/>
     <tag k="name" v="Coccaglio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="7049"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30024876"/>
   </node>
   <node id="62507473" lat="45.3086363" lon="10.1893747" version="7" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="2223"/>
@@ -7965,80 +7966,91 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q266381"/>
   </node>
-  <node id="66586678" lat="43.9724065" lon="7.9910739" version="5" timestamp="2026-01-26T21:41:18Z" changeset="177739557" uid="20673751" user="LucianoC63">
+  <node id="66586678" lat="43.9724065" lon="7.9910739" version="6" timestamp="2026-09-02T07:24:27Z" changeset="188403827" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1140"/>
     <tag k="name" v="Chiusanico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="612"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30024712"/>
+    <tag k="wikidata" v="Q268525"/>
+    <tag k="wikipedia" v="it:Chiusanico"/>
   </node>
-  <node id="66586680" lat="44.0859270" lon="8.0052470" version="3" timestamp="2016-09-26T20:59:14Z" changeset="42456120" uid="743479" user="fayor">
+  <node id="66586680" lat="44.0859270" lon="8.0052470" version="4" timestamp="2026-09-02T07:24:27Z" changeset="188403827" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1124"/>
     <tag k="name" v="Aquila d'Arroscia"/>
     <tag k="place" v="village"/>
     <tag k="population" v="211"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q268098"/>
+    <tag k="wikipedia" v="it:Aquila d'Arroscia"/>
   </node>
-  <node id="66586714" lat="43.9496250" lon="8.0415500" version="5" timestamp="2026-01-24T20:36:27Z" changeset="177660870" uid="20673751" user="LucianoC63">
+  <node id="66586714" lat="43.9496250" lon="8.0415500" version="6" timestamp="2026-09-02T07:24:27Z" changeset="188403827" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1146"/>
     <tag k="name" v="Diano Arentino"/>
     <tag k="place" v="village"/>
     <tag k="population" v="606"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30025423"/>
+    <tag k="wikidata" v="Q268773"/>
+    <tag k="wikipedia" v="it:Diano Arentino"/>
   </node>
-  <node id="66586718" lat="43.8906190" lon="7.5996420" version="5" timestamp="2026-01-23T21:15:03Z" changeset="177626572" uid="20673751" user="LucianoC63">
+  <node id="66586718" lat="43.8906190" lon="7.5996420" version="6" timestamp="2026-09-02T06:47:06Z" changeset="188402650" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1172"/>
     <tag k="image" v="https://commons.wikimedia.org/wiki/File:Rocchetta_Nervina.jpg"/>
     <tag k="name" v="Rocchetta Nervina"/>
     <tag k="place" v="village"/>
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30029511"/>
+    <tag k="wikidata" v="Q269717"/>
     <tag k="wikimedia_commons" v="File:Rocchetta Nervina-panorama2.jpg"/>
+    <tag k="wikipedia" v="it:Rocchetta Nervina"/>
   </node>
-  <node id="66586754" lat="43.8523210" lon="7.8983490" version="6" timestamp="2026-01-23T10:09:47Z" changeset="177601386" uid="20673751" user="LucianoC63">
+  <node id="66586754" lat="43.8523210" lon="7.8983490" version="7" timestamp="2026-09-02T07:24:27Z" changeset="188403827" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1181"/>
     <tag k="name" v="Terzorio"/>
     <tag k="place" v="village"/>
     <tag k="population" v="214"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031092"/>
+    <tag k="wikidata" v="Q269827"/>
     <tag k="wikimedia_commons" v="Category:Terzorio"/>
+    <tag k="wikipedia" v="it:Terzorio"/>
   </node>
-  <node id="66586784" lat="43.9749240" lon="7.9451470" version="4" timestamp="2026-01-26T21:15:29Z" changeset="177738821" uid="20673751" user="LucianoC63">
+  <node id="66586784" lat="43.9749240" lon="7.9451470" version="5" timestamp="2026-09-02T07:24:27Z" changeset="188403827" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1131"/>
     <tag k="name" v="Borgomaro"/>
     <tag k="place" v="village"/>
     <tag k="population" v="842"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30023008"/>
+    <tag k="wikidata" v="Q268246"/>
+    <tag k="wikipedia" v="it:Borgomaro"/>
   </node>
-  <node id="66586795" lat="44.0459373" lon="7.9608530" version="6" timestamp="2026-01-26T21:41:18Z" changeset="177739557" uid="20673751" user="LucianoC63">
+  <node id="66586795" lat="44.0459373" lon="7.9608530" version="7" timestamp="2026-09-02T07:24:27Z" changeset="188403827" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1187"/>
     <tag k="name" v="Vessalico"/>
     <tag k="name:lij" v="Vesargu"/>
     <tag k="place" v="village"/>
     <tag k="population" v="297"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30031666"/>
+    <tag k="wikidata" v="Q269910"/>
+    <tag k="wikipedia" v="it:Vessalico"/>
   </node>
-  <node id="66586799" lat="43.9684250" lon="8.0896510" version="7" timestamp="2025-04-11T08:04:51Z" changeset="164802995" uid="20673751" user="LucianoC63">
+  <node id="66586799" lat="43.9684250" lon="8.0896510" version="8" timestamp="2026-09-02T07:24:27Z" changeset="188403827" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1188"/>
     <tag k="name" v="Villa Faraldi"/>
     <tag k="name:lij" v="A Villa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="435"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q269914"/>
+    <tag k="wikipedia" v="it:Villa Faraldi"/>
   </node>
-  <node id="66586814" lat="43.8554210" lon="7.9387490" version="4" timestamp="2026-01-23T10:09:47Z" changeset="177601386" uid="20673751" user="LucianoC63">
+  <node id="66586814" lat="43.8554210" lon="7.9387490" version="5" timestamp="2026-09-02T07:24:27Z" changeset="188403827" uid="15596130" user="NJH_osm">
     <tag k="gfoss_id" v="1145"/>
     <tag k="name" v="Costarainera"/>
     <tag k="place" v="village"/>
     <tag k="population" v="718"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30025230"/>
+    <tag k="wikidata" v="Q268753"/>
+    <tag k="wikipedia" v="it:Costarainera"/>
   </node>
   <node id="66587021" lat="44.1375290" lon="8.1031480" version="4" timestamp="2026-01-02T09:41:10Z" changeset="176734531" uid="4425563" user="Danysan95">
     <tag k="gfoss_id" v="1216"/>
@@ -16249,6 +16261,19 @@
     <tag k="website" v="https://www.comune.pompu.or.it/"/>
     <tag k="wikidata" v="Q387452"/>
     <tag k="wikipedia" v="it:Pompu"/>
+  </node>
+  <node id="240033339" lat="46.3388659" lon="9.5573117" version="14" timestamp="2026-04-08T20:36:49Z" changeset="181068930" uid="10901495" user="user_10901495">
+    <tag k="ele" v="832"/>
+    <tag k="name" v="Promontogno"/>
+    <tag k="old_name" v="Primentonia"/>
+    <tag k="place" v="hamlet"/>
+    <tag k="population" v="104"/>
+    <tag k="population:date" v="2008"/>
+    <tag k="postal_code" v="7606"/>
+    <tag k="url" v="https://hls-dhs-dss.ch/it/articles/008128"/>
+    <tag k="wikidata" v="Q7249857"/>
+    <tag k="wikimedia_commons" v="Category:Promontogno"/>
+    <tag k="wikipedia" v="it:Promontogno"/>
   </node>
   <node id="272333320" lat="46.4698782" lon="11.7273247" version="9" timestamp="2026-01-01T18:42:49Z" changeset="176714791" uid="1726102" user="AlessioMela">
     <tag k="name" v="Fontanazzo di sotto - Fontanac' de sot"/>
