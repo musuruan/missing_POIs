@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-05T06:57:50Z" areas="2026-09-04T15:20:21Z"/>
+<meta osm_base="2026-09-09T07:12:26Z" areas="2026-09-08T17:15:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -825,13 +825,15 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026741"/>
   </node>
-  <node id="62507993" lat="45.7813920" lon="10.6159730" version="3" timestamp="2024-09-09T17:58:50Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62507993" lat="45.7813920" lon="10.6159730" version="4" timestamp="2026-09-07T15:47:55Z" changeset="188678014" uid="6098724" user="CCCGGG">
+    <tag k="ele" v="976"/>
     <tag k="gfoss_id" v="2268"/>
     <tag k="name" v="Magasa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026836"/>
+    <tag k="wikidata" v="Q105101"/>
+    <tag k="wikipedia" v="it:Magasa"/>
   </node>
   <node id="62508017" lat="46.0790576" lon="10.2925497" version="5" timestamp="2023-01-11T21:35:51Z" changeset="131162920" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2301"/>
@@ -8383,14 +8385,6 @@
     <tag k="population" v="2827"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
-  <node id="67254730" lat="37.6101657" lon="15.0967587" version="17" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
-    <tag k="name" v="Viagrande"/>
-    <tag k="name:it" v="Viagrande"/>
-    <tag k="name:scn" v="Varanni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="8936"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
   <node id="67254822" lat="37.4954203" lon="14.3907910" version="17" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
     <tag k="name" v="Valguarnera Caropepe"/>
     <tag k="name:it" v="Valguarnera Caropepe"/>
@@ -8470,14 +8464,6 @@
     <tag k="name:scn" v="Libbrizzi"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1576"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67255048" lat="37.8802614" lon="15.3064429" version="21" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
-    <tag k="name" v="Letojanni"/>
-    <tag k="name:it" v="Letojanni"/>
-    <tag k="name:scn" v="Lotijanni"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="2917"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67255059" lat="38.0459174" lon="14.6760173" version="15" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
@@ -10700,11 +10686,12 @@
     <tag k="population" v="617"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="67275570" lat="38.3869584" lon="16.1081645" version="5" timestamp="2023-07-30T15:16:22Z" changeset="139214177" uid="18063623" user="DomeF">
+  <node id="67275570" lat="38.3869584" lon="16.1081645" version="6" timestamp="2026-09-05T07:53:58Z" changeset="188558668" uid="18063623" user="DomeF">
     <tag k="gfoss_id" v="6791"/>
     <tag k="name" v="San Giorgio Morgeto"/>
     <tag k="place" v="village"/>
     <tag k="population" v="3384"/>
+    <tag k="postal_code" v="89017"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q54647"/>
     <tag k="wikipedia" v="it:San Giorgio Morgeto"/>
@@ -21666,13 +21653,6 @@
     <tag k="place" v="hamlet"/>
     <tag k="population" v="2"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
-  <node id="894055836" lat="45.9920276" lon="12.2318827" version="4" timestamp="2017-03-12T14:08:21Z" changeset="46785792" uid="354284" user="sbiribizio">
-    <tag k="name" v="Santa Maria"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="353"/>
-    <tag k="wikidata" v="Q18502464"/>
-    <tag k="wikipedia" v="it:Santa Maria (Revine Lago)"/>
   </node>
   <node id="946942749" lat="45.1683868" lon="9.8900934" version="4" timestamp="2024-03-03T11:32:57Z" changeset="148161887" uid="9622178" user="GiovanniC83">
     <tag k="gfoss_id" v="2567"/>

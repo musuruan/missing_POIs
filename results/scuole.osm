@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-05T07:06:06Z" areas="2026-09-04T20:58:02Z"/>
+<meta osm_base="2026-09-09T07:23:37Z" areas="2026-09-08T17:15:46Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -1208,13 +1208,15 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30026741"/>
   </node>
-  <node id="62507993" lat="45.7813920" lon="10.6159730" version="3" timestamp="2024-09-09T17:58:50Z" changeset="156407408" uid="30587" user="IknowJoseph">
+  <node id="62507993" lat="45.7813920" lon="10.6159730" version="4" timestamp="2026-09-07T15:47:55Z" changeset="188678014" uid="6098724" user="CCCGGG">
+    <tag k="ele" v="976"/>
     <tag k="gfoss_id" v="2268"/>
     <tag k="name" v="Magasa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="189"/>
     <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q30026836"/>
+    <tag k="wikidata" v="Q105101"/>
+    <tag k="wikipedia" v="it:Magasa"/>
   </node>
   <node id="62508017" lat="46.0790576" lon="10.2925497" version="5" timestamp="2023-01-11T21:35:51Z" changeset="131162920" uid="43207" user="kdkeller">
     <tag k="gfoss_id" v="2301"/>
@@ -1335,7 +1337,8 @@
     <tag k="population" v="659"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="62508443" lat="45.7604807" lon="10.5957288" version="10" timestamp="2026-09-01T13:34:42Z" changeset="188365528" uid="6098724" user="CCCGGG">
+  <node id="62508443" lat="45.7604807" lon="10.5957288" version="11" timestamp="2026-09-07T15:47:55Z" changeset="188678014" uid="6098724" user="CCCGGG">
+    <tag k="ele" v="680"/>
     <tag k="gfoss_id" v="2364"/>
     <tag k="name" v="Turano"/>
     <tag k="place" v="village"/>
@@ -1402,14 +1405,6 @@
     <tag k="name" v="Esine"/>
     <tag k="place" v="village"/>
     <tag k="population" v="5262"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="62508738" lat="45.7544353" lon="10.5446900" version="5" timestamp="2026-08-31T21:32:08Z" changeset="188331930" uid="6098724" user="CCCGGG">
-    <tag k="alt_name" v="Hano"/>
-    <tag k="gfoss_id" v="2206"/>
-    <tag k="name" v="Capovalle"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="452"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="62508752" lat="45.2426740" lon="10.1779730" version="2" timestamp="2022-03-19T20:11:59Z" changeset="118677931" uid="11220113" user="ivanbranco">
@@ -10375,9 +10370,9 @@
     <tag k="wikidata" v="Q53319"/>
     <tag k="wikipedia" v="it:Preone"/>
   </node>
-  <node id="66503271" lat="46.5528310" lon="12.8521100" version="6" timestamp="2026-02-14T13:53:41Z" changeset="178545209" uid="129060" user="Klenje">
+  <node id="66503271" lat="46.5528310" lon="12.8521100" version="7" timestamp="2026-09-06T06:18:24Z" changeset="188602007" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3765"/>
-    <tag k="name" v="Rigolato / Rigulât"/>
+    <tag k="name" v="Rigolato"/>
     <tag k="name:fur" v="Rigulât"/>
     <tag k="name:it" v="Rigolato"/>
     <tag k="place" v="village"/>
@@ -11396,15 +11391,6 @@
     <tag k="source:population" v="wikipedia"/>
     <tag k="wikidata" v="Q492609"/>
     <tag k="wikipedia" v="it:Castelmola"/>
-  </node>
-  <node id="67254999" lat="37.7652422" lon="14.3527011" version="14" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
-    <tag k="alt_name:scn" v="Spillinga"/>
-    <tag k="name" v="Sperlinga"/>
-    <tag k="name:it" v="Sperlinga"/>
-    <tag k="name:scn" v="Sperrënga"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="675"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67255125" lat="37.9876331" lon="14.9096799" version="17" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
     <tag k="alt_name:scn" v="Fluresta"/>
@@ -24337,11 +24323,6 @@
     <tag k="website" v="http://www.abriola.eu/"/>
     <tag k="wikidata" v="Q52510"/>
     <tag k="wikipedia" v="it:Abriola"/>
-  </node>
-  <node id="2672321412" lat="40.9864545" lon="14.1753318" version="2" timestamp="2016-09-02T23:58:44Z" changeset="41879755" uid="743479" user="fayor">
-    <tag k="name" v="San Marcellino"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="14155"/>
   </node>
   <node id="2673996091" lat="42.4059662" lon="12.6859706" version="1" timestamp="2014-02-16T01:09:33Z" changeset="20587632" uid="69717" user="kaitu">
     <tag k="name" v="Cottanello"/>
