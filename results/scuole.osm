@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-09T07:23:37Z" areas="2026-09-08T17:15:46Z"/>
+<meta osm_base="2026-09-10T07:13:49Z" areas="2026-09-09T06:53:06Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10358,9 +10358,9 @@
     <tag k="population" v="259"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503259" lat="46.3936842" lon="12.8662013" version="8" timestamp="2025-11-24T20:39:28Z" changeset="175084299" uid="129060" user="Klenje">
+  <node id="66503259" lat="46.3936842" lon="12.8662013" version="9" timestamp="2026-09-09T17:02:27Z" changeset="188784341" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="3755"/>
-    <tag k="name" v="Preone / Preon"/>
+    <tag k="name" v="Preone"/>
     <tag k="name:fur" v="Preon"/>
     <tag k="name:it" v="Preone"/>
     <tag k="place" v="village"/>
@@ -24821,7 +24821,8 @@
     <tag k="name" v="San Vincenzo Valle Roveto"/>
     <tag k="place" v="village"/>
   </node>
-  <node id="9427910483" lat="45.9678886" lon="7.9681478" version="9" timestamp="2026-01-19T13:51:29Z" changeset="177429698" uid="4365159" user="wildmaps">
+  <node id="9427910483" lat="45.9678886" lon="7.9681478" version="10" timestamp="2026-09-09T12:11:31Z" changeset="188770226" uid="14867340" user="mpmac82">
+    <tag k="ele" v="1307"/>
     <tag k="name" v="Staffa"/>
     <tag k="place" v="village"/>
     <tag k="population" v="253"/>
@@ -24861,6 +24862,10 @@
     <tag k="place" v="village"/>
     <tag k="population" v="858"/>
     <tag k="source" v="geodati.gfoss.it"/>
+  </node>
+  <node id="13730878282" lat="45.7670062" lon="9.0013459" version="1" timestamp="2026-04-14T20:11:59Z" changeset="181340046" uid="10901495" user="user_10901495">
+    <tag k="name" v="Lurate Caccivio"/>
+    <tag k="place" v="town"/>
   </node>
   <node id="14080086632" lat="45.8381732" lon="7.6202319" version="1" timestamp="2026-08-08T10:54:52Z" changeset="187127912" uid="23861640" user="Leolini22">
     <tag k="name" v="Chamois"/>
