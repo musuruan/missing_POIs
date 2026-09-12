@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-10T07:03:35Z" areas="2026-09-09T12:18:00Z"/>
+<meta osm_base="2026-09-12T06:52:03Z" areas="2026-09-11T14:41:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -41,11 +41,11 @@
     <tag k="population" v="9554"/>
     <tag k="wikidata" v="Q30024086"/>
   </node>
-  <node id="60147390" lat="46.4653657" lon="12.7087174" version="18" timestamp="2025-07-15T11:54:57Z" changeset="168961665" uid="14202171" user="Alessandro Ambrosino">
+  <node id="60147390" lat="46.4653657" lon="12.7087174" version="19" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="alt_name:de" v="Unterzahre"/>
     <tag k="ele" v="1215"/>
     <tag k="loc_name:de" v="Dörf"/>
-    <tag k="name" v="Sauris di Sotto / Dörf / Sauris Disot"/>
+    <tag k="name" v="Sauris di Sotto"/>
     <tag k="name:fur" v="Sauris Disot"/>
     <tag k="name:it" v="Sauris di Sotto"/>
     <tag k="place" v="village"/>
@@ -7230,9 +7230,9 @@
     <tag k="population" v="1412"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502841" lat="46.2744266" lon="12.3720879" version="12" timestamp="2026-01-19T15:18:21Z" changeset="177434419" uid="4365159" user="wildmaps">
+  <node id="66502841" lat="46.2744266" lon="12.3720879" version="13" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="7525"/>
-    <tag k="name" v="Erto / Nert"/>
+    <tag k="name" v="Erto"/>
     <tag k="name:fur" v="Nert"/>
     <tag k="name:it" v="Erto"/>
     <tag k="place" v="village"/>
@@ -7385,9 +7385,9 @@
     <tag k="population" v="2542"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503194" lat="46.3153270" lon="13.1046210" version="9" timestamp="2025-11-18T11:08:39Z" changeset="174812662" uid="129060" user="Klenje">
+  <node id="66503194" lat="46.3153270" lon="13.1046210" version="10" timestamp="2026-09-10T15:59:56Z" changeset="188832962" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3683"/>
-    <tag k="name" v="Bordano / Bordan"/>
+    <tag k="name" v="Bordano"/>
     <tag k="name:fur" v="Bordan"/>
     <tag k="name:it" v="Bordano"/>
     <tag k="place" v="village"/>
@@ -7405,9 +7405,9 @@
     <tag k="population" v="2326"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503206" lat="46.5152338" lon="12.8678035" version="9" timestamp="2026-02-18T20:24:54Z" changeset="178742102" uid="129060" user="Klenje">
+  <node id="66503206" lat="46.5152338" lon="12.8678035" version="10" timestamp="2026-09-10T16:40:42Z" changeset="188834753" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3700"/>
-    <tag k="name" v="Comeglians / Comelians"/>
+    <tag k="name" v="Comeglians"/>
     <tag k="name:fur" v="Comelians"/>
     <tag k="name:it" v="Comeglians"/>
     <tag k="place" v="village"/>
@@ -7434,9 +7434,9 @@
     <tag k="wikidata" v="Q53306"/>
     <tag k="wikipedia" v="it:Paularo"/>
   </node>
-  <node id="66503226" lat="46.5308146" lon="13.0182065" version="9" timestamp="2025-11-17T21:08:13Z" changeset="174791824" uid="129060" user="Klenje">
+  <node id="66503226" lat="46.5308146" lon="13.0182065" version="10" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3742"/>
-    <tag k="name" v="Paluzza / Paluce"/>
+    <tag k="name" v="Paluzza"/>
     <tag k="name:fur" v="Paluce"/>
     <tag k="name:it" v="Paluzza"/>
     <tag k="place" v="village"/>
@@ -7616,9 +7616,9 @@
     <tag k="population" v="697"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503566" lat="46.5332320" lon="13.0429150" version="7" timestamp="2025-11-14T20:57:54Z" changeset="174665243" uid="129060" user="Klenje">
+  <node id="66503566" lat="46.5332320" lon="13.0429150" version="8" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3796"/>
-    <tag k="name" v="Treppo Carnico / Trep di Cjargne"/>
+    <tag k="name" v="Treppo Carnico"/>
     <tag k="name:fur" v="Trep di Cjargne"/>
     <tag k="name:it" v="Treppo Carnico"/>
     <tag k="place" v="village"/>
@@ -12752,14 +12752,6 @@
     <tag k="population" v="6351"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="68528852" lat="40.4656270" lon="17.7356120" version="4" timestamp="2026-01-15T13:06:37Z" changeset="177258599" uid="23246302" user="pierfrancescop">
-    <tag k="ele" v="72"/>
-    <tag k="gfoss_id" v="6256"/>
-    <tag k="name" v="Torre Santa Susanna"/>
-    <tag k="place" v="town"/>
-    <tag k="population" v="10595"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="68528905" lat="41.6202320" lon="15.1038390" version="4" timestamp="2026-04-14T08:18:11Z" changeset="181309567" uid="20397427" user="RUGGERO DEL VECCHIO">
     <tag k="ele" v="432"/>
     <tag k="gfoss_id" v="6109"/>
@@ -15583,22 +15575,6 @@
     <tag k="wikidata" v="Q100070"/>
     <tag k="wikipedia" v="it:Montefiorino"/>
   </node>
-  <node id="69300668" lat="44.4805382" lon="11.0351093" version="13" timestamp="2020-05-05T09:26:32Z" changeset="84681471" uid="11022312" user="Joe Wannie">
-    <tag k="ele" v="102"/>
-    <tag k="gfoss_id" v="4020"/>
-    <tag k="name" v="Savignano sul Panaro"/>
-    <tag k="name:egl" v="Savignàn"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="9177"/>
-    <tag k="postal_code" v="41056"/>
-    <tag k="ref:ISTAT" v="036041"/>
-    <tag k="ref:LOCODE" v="ITSSP"/>
-    <tag k="ref:catasto" v="I473"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.savignano.it/"/>
-    <tag k="wikidata" v="Q100104"/>
-    <tag k="wikipedia" v="it:Savignano sul Panaro"/>
-  </node>
   <node id="69300674" lat="44.8920894" lon="10.9961365" version="12" timestamp="2023-11-03T02:13:08Z" changeset="143554862" uid="9451067" user="b-jazz-bot">
     <tag k="ele" v="20"/>
     <tag k="gfoss_id" v="4017"/>
@@ -18252,12 +18228,13 @@
     <tag k="wikimedia_commons" v="Category:Santi Cosma e Damiano (comune, Italy)"/>
     <tag k="wikipedia" v="it:Santi Cosma e Damiano (Italia)"/>
   </node>
-  <node id="72961212" lat="42.2510280" lon="12.8042790" version="2" timestamp="2016-09-07T16:51:07Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961212" lat="42.2510280" lon="12.8042790" version="3" timestamp="2026-09-11T13:02:01Z" changeset="188871679" uid="22954076" user="Accalappia">
     <tag k="gfoss_id" v="4849"/>
     <tag k="name" v="Casaprota"/>
     <tag k="place" v="village"/>
     <tag k="population" v="686"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023980"/>
   </node>
   <node id="72961222" lat="42.1359516" lon="13.0479802" version="3" timestamp="2017-06-28T10:40:58Z" changeset="49882577" uid="234178" user="vlattanzi">
     <tag k="gfoss_id" v="4856"/>
@@ -21694,9 +21671,9 @@
     <tag k="population" v="104"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
   </node>
-  <node id="1091320722" lat="46.3950450" lon="12.6702260" version="10" timestamp="2025-12-10T16:32:07Z" changeset="175767540" uid="129060" user="Klenje">
+  <node id="1091320722" lat="46.3950450" lon="12.6702260" version="11" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3713"/>
-    <tag k="name" v="Forni di Sotto / For Disot"/>
+    <tag k="name" v="Forni di Sotto"/>
     <tag k="name:fur" v="For Disot"/>
     <tag k="name:it" v="Forni di Sotto"/>
     <tag k="place" v="village"/>
@@ -21842,11 +21819,6 @@
     <tag k="place" v="village"/>
     <tag k="population" v="358"/>
     <tag k="source" v="Istat 2001 - geodati.gfoss.it"/>
-  </node>
-  <node id="1735725784" lat="45.7094813" lon="7.2291423" version="11" timestamp="2023-06-25T21:31:26Z" changeset="137767583" uid="18892689" user="ComitéNosAccents">
-    <tag k="name" v="Saint-Pierre"/>
-    <tag k="name:frp" v="Sen-Piére"/>
-    <tag k="place" v="village"/>
   </node>
   <node id="1736280823" lat="45.7017361" lon="7.2476561" version="8" timestamp="2026-01-22T21:48:40Z" changeset="177584412" uid="4365159" user="wildmaps">
     <tag k="name" v="Aymavilles"/>
@@ -22013,8 +21985,8 @@
     <tag k="wikipedia" v="sc:Monteleone"/>
     <tag k="wikipedia:it" v="Monteleone Rocca Doria"/>
   </node>
-  <node id="1976768775" lat="46.5203060" lon="12.7972483" version="8" timestamp="2026-02-18T20:24:54Z" changeset="178742102" uid="129060" user="Klenje">
-    <tag k="name" v="Pieria / Pierie"/>
+  <node id="1976768775" lat="46.5203060" lon="12.7972483" version="9" timestamp="2026-09-10T16:40:42Z" changeset="188834753" uid="188429" user="gpstracks">
+    <tag k="name" v="Pieria"/>
     <tag k="name:fur" v="Pierie"/>
     <tag k="name:it" v="Pieria"/>
     <tag k="official_name" v="Frazione Pieria"/>

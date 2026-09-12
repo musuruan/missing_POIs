@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-10T07:13:49Z" areas="2026-09-09T06:53:06Z"/>
+<meta osm_base="2026-09-12T06:57:06Z" areas="2026-09-11T20:42:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -93,14 +93,6 @@
     <tag k="name" v="Campagnatico"/>
     <tag k="place" v="village"/>
     <tag k="population" v="2423"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
-  <node id="61753513" lat="42.7306583" lon="11.5403457" version="6" timestamp="2022-11-06T18:56:02Z" changeset="128567048" uid="14617702" user="Đuro Jiří">
-    <tag k="gfoss_id" v="4686"/>
-    <tag k="name" v="Semproniano"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1326"/>
-    <tag k="postal_code" v="58055"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="61753514" lat="42.9288320" lon="11.5582420" version="2" timestamp="2016-09-11T17:23:01Z" changeset="42083429" uid="743479" user="fayor">
@@ -10309,10 +10301,10 @@
     <tag k="population" v="650"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502991" lat="46.2876390" lon="12.4380528" version="8" timestamp="2025-12-01T13:18:25Z" changeset="175357497" uid="129060" user="Klenje">
+  <node id="66502991" lat="46.2876390" lon="12.4380528" version="9" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="7520"/>
     <tag k="loc_name:fur" v="Thimolei"/>
-    <tag k="name" v="Cimolais / Thimolei"/>
+    <tag k="name" v="Cimolais"/>
     <tag k="name:fur" v="Cimolais"/>
     <tag k="name:it" v="Cimolais"/>
     <tag k="place" v="village"/>
@@ -10379,9 +10371,9 @@
     <tag k="population" v="641"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503274" lat="46.3930860" lon="13.2185780" version="10" timestamp="2025-12-05T11:57:35Z" changeset="175544646" uid="129060" user="Klenje">
+  <node id="66503274" lat="46.3930860" lon="13.2185780" version="11" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3764"/>
-    <tag k="name" v="Resiutta / Resiute"/>
+    <tag k="name" v="Resiutta"/>
     <tag k="name:fur" v="Resiute"/>
     <tag k="name:it" v="Resiutta"/>
     <tag k="place" v="village"/>
@@ -10418,9 +10410,9 @@
     <tag k="population" v="697"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503566" lat="46.5332320" lon="13.0429150" version="7" timestamp="2025-11-14T20:57:54Z" changeset="174665243" uid="129060" user="Klenje">
+  <node id="66503566" lat="46.5332320" lon="13.0429150" version="8" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3796"/>
-    <tag k="name" v="Treppo Carnico / Trep di Cjargne"/>
+    <tag k="name" v="Treppo Carnico"/>
     <tag k="name:fur" v="Trep di Cjargne"/>
     <tag k="name:it" v="Treppo Carnico"/>
     <tag k="place" v="village"/>
@@ -11369,14 +11361,6 @@
     <tag k="name" v="Sutera"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1162"/>
-    <tag k="source:population" v="Istat febbraio 2024"/>
-  </node>
-  <node id="67254848" lat="37.8101947" lon="14.5089893" version="13" timestamp="2026-05-17T10:56:18Z" changeset="182777853" uid="393359" user="Robot8A">
-    <tag k="name" v="Cerami"/>
-    <tag k="name:it" v="Cerami"/>
-    <tag k="name:scn" v="Cirami"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1855"/>
     <tag k="source:population" v="Istat febbraio 2024"/>
   </node>
   <node id="67254974" lat="37.8583477" lon="15.2773159" version="25" timestamp="2026-07-28T11:03:19Z" changeset="186512447" uid="21653896" user="anfulgen">
@@ -20919,12 +20903,13 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30024143"/>
   </node>
-  <node id="72961212" lat="42.2510280" lon="12.8042790" version="2" timestamp="2016-09-07T16:51:07Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961212" lat="42.2510280" lon="12.8042790" version="3" timestamp="2026-09-11T13:02:01Z" changeset="188871679" uid="22954076" user="Accalappia">
     <tag k="gfoss_id" v="4849"/>
     <tag k="name" v="Casaprota"/>
     <tag k="place" v="village"/>
     <tag k="population" v="686"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023980"/>
   </node>
   <node id="72961217" lat="42.1755280" lon="13.0389860" version="2" timestamp="2016-09-07T16:51:09Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4858"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-10T06:53:06Z" areas="2026-09-09T12:18:00Z"/>
+<meta osm_base="2026-09-12T06:44:51Z" areas="2026-09-11T14:41:21Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -2373,7 +2373,7 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q42777"/>
   </node>
-  <node id="62513208" lat="44.9918730" lon="10.7430900" version="6" timestamp="2026-02-03T11:14:31Z" changeset="178045664" uid="12495047" user="Yan Bakhmat">
+  <node id="62513208" lat="44.9920380" lon="10.7432134" version="7" timestamp="2026-09-10T20:36:59Z" changeset="188844276" uid="564585" user="wegavision">
     <tag k="contact:email" v="info@comune.suzzara.mn.it"/>
     <tag k="contact:phone" v="+39 0376 5131"/>
     <tag k="contact:website" v="http://www.comune.suzzara.mn.it/servizi/notizie/notizie_homepage.aspx"/>
@@ -7796,9 +7796,9 @@
     <tag k="population" v="1300"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66503262" lat="46.0338220" lon="13.3026300" version="6" timestamp="2026-01-08T20:45:51Z" changeset="177000546" uid="129060" user="Klenje">
+  <node id="66503262" lat="46.0338220" lon="13.3026300" version="7" timestamp="2026-09-11T16:53:41Z" changeset="188882466" uid="14617702" user="Đuro Jiří">
     <tag k="gfoss_id" v="3751"/>
-    <tag k="name" v="Pradamano / Pradaman"/>
+    <tag k="name" v="Pradamano"/>
     <tag k="name:fur" v="Pradaman"/>
     <tag k="name:it" v="Pradamano"/>
     <tag k="place" v="village"/>
@@ -7845,10 +7845,11 @@
     <tag k="wikidata" v="Q53367"/>
     <tag k="wikipedia" v="it:Stregna"/>
   </node>
-  <node id="66503360" lat="46.5868310" lon="12.7769080" version="10" timestamp="2025-11-04T18:45:46Z" changeset="174208495" uid="129060" user="Klenje">
+  <node id="66503360" lat="46.5868310" lon="12.7769080" version="11" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
+    <tag k="alt_name:fur" v="For Davuatri"/>
     <tag k="gfoss_id" v="3711"/>
     <tag k="loc_name:fur" v="Lu For"/>
-    <tag k="name" v="Forni Avoltri / For Davuatri"/>
+    <tag k="name" v="Forni Avoltri"/>
     <tag k="name:fur" v="For Davôtri"/>
     <tag k="name:it" v="Forni Avoltri"/>
     <tag k="place" v="village"/>
@@ -7932,9 +7933,9 @@
     <tag k="wikidata" v="Q53402"/>
     <tag k="wikipedia" v="it:Zuglio"/>
   </node>
-  <node id="66503566" lat="46.5332320" lon="13.0429150" version="7" timestamp="2025-11-14T20:57:54Z" changeset="174665243" uid="129060" user="Klenje">
+  <node id="66503566" lat="46.5332320" lon="13.0429150" version="8" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3796"/>
-    <tag k="name" v="Treppo Carnico / Trep di Cjargne"/>
+    <tag k="name" v="Treppo Carnico"/>
     <tag k="name:fur" v="Trep di Cjargne"/>
     <tag k="name:it" v="Treppo Carnico"/>
     <tag k="place" v="village"/>
@@ -13842,13 +13843,6 @@
     <tag k="population" v="3797"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301853" lat="43.8902363" lon="12.6103147" version="4" timestamp="2016-09-16T15:55:09Z" changeset="42205884" uid="743479" user="fayor">
-    <tag k="gfoss_id" v="7928"/>
-    <tag k="name" v="Montefiore Conca"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1765"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-  </node>
   <node id="70979045" lat="43.6125270" lon="13.1580611" version="6" timestamp="2026-01-14T11:53:56Z" changeset="177216539" uid="123412" user="totera">
     <tag k="gfoss_id" v="4262"/>
     <tag k="name" v="Ostra"/>
@@ -15232,12 +15226,13 @@
     <tag k="wikimedia_commons" v="Category:Bassiano"/>
     <tag k="wikipedia" v="it:Bassiano"/>
   </node>
-  <node id="72961212" lat="42.2510280" lon="12.8042790" version="2" timestamp="2016-09-07T16:51:07Z" changeset="41983557" uid="743479" user="fayor">
+  <node id="72961212" lat="42.2510280" lon="12.8042790" version="3" timestamp="2026-09-11T13:02:01Z" changeset="188871679" uid="22954076" user="Accalappia">
     <tag k="gfoss_id" v="4849"/>
     <tag k="name" v="Casaprota"/>
     <tag k="place" v="village"/>
     <tag k="population" v="686"/>
     <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q30023980"/>
   </node>
   <node id="72961217" lat="42.1755280" lon="13.0389860" version="2" timestamp="2016-09-07T16:51:09Z" changeset="41983557" uid="743479" user="fayor">
     <tag k="gfoss_id" v="4858"/>
@@ -16695,9 +16690,9 @@
     <tag k="wikidata" v="Q175406"/>
     <tag k="wikipedia" v="it:Nogaredo"/>
   </node>
-  <node id="1831456395" lat="46.4035784" lon="12.8230913" version="13" timestamp="2025-11-24T20:39:28Z" changeset="175084299" uid="129060" user="Klenje">
+  <node id="1831456395" lat="46.4035784" lon="12.8230913" version="14" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="loc_name:fur" v="Midias"/>
-    <tag k="name" v="Mediis / Midiis - Midias"/>
+    <tag k="name" v="Mediis"/>
     <tag k="name:fur" v="Midiis"/>
     <tag k="name:it" v="Mediis"/>
     <tag k="place" v="village"/>
