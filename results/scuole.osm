@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-09-17T07:34:26Z" areas="2026-09-16T02:28:36Z"/>
+<meta osm_base="2026-09-20T07:34:30Z" areas="2026-09-20T02:36:50Z"/>
 
   <node id="26695130" lat="45.8928549" lon="6.7113338" version="16" timestamp="2024-12-08T21:53:10Z" changeset="160071455" uid="507417" user="tartiflex">
     <tag k="addr:postcode" v="74170"/>
@@ -10216,10 +10216,10 @@
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30032006"/>
   </node>
-  <node id="66502748" lat="46.0313230" lon="13.4793349" version="8" timestamp="2026-01-08T20:45:51Z" changeset="177000546" uid="129060" user="Klenje">
+  <node id="66502748" lat="46.0313230" lon="13.4793349" version="9" timestamp="2026-09-19T18:12:50Z" changeset="189266313" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="3812"/>
     <tag k="loc_name:fur" v="Dolegna dal Cuei"/>
-    <tag k="name" v="Dolegna del Collio / Dolegna dal Cuei / Dolenje v Brdih"/>
+    <tag k="name" v="Dolegna del Collio / Dolenje v Brdih"/>
     <tag k="name:fur" v="Dolegne dal Cuei"/>
     <tag k="name:it" v="Dolegna del Collio"/>
     <tag k="name:sl" v="Dolenje"/>
@@ -10237,10 +10237,10 @@
     <tag k="population" v="694"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="66502851" lat="46.1902507" lon="12.5582101" version="8" timestamp="2025-12-01T13:18:25Z" changeset="175357497" uid="129060" user="Klenje">
+  <node id="66502851" lat="46.1902507" lon="12.5582101" version="9" timestamp="2026-09-18T17:29:48Z" changeset="189220084" uid="188429" user="gpstracks">
     <tag k="gfoss_id" v="7512"/>
     <tag k="loc_name:fur" v="Barce"/>
-    <tag k="name" v="Barcis / Barce"/>
+    <tag k="name" v="Barcis"/>
     <tag k="name:fur" v="Barcis"/>
     <tag k="name:it" v="Barcis"/>
     <tag k="place" v="village"/>
@@ -10668,16 +10668,6 @@
     <tag k="wikidata" v="Q269516"/>
     <tag k="wikimedia_commons" v="Category:Pigna (comune, Italy)"/>
     <tag k="wikipedia" v="it:Pigna (Italia)"/>
-  </node>
-  <node id="66586746" lat="44.0470260" lon="7.9149460" version="6" timestamp="2026-09-02T07:24:27Z" changeset="188403827" uid="15596130" user="NJH_osm">
-    <tag k="gfoss_id" v="1163"/>
-    <tag k="name" v="Pieve di Teco"/>
-    <tag k="name:lij" v="A Cêve"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1336"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="wikidata" v="Q269503"/>
-    <tag k="wikipedia" v="it:Pieve di Teco"/>
   </node>
   <node id="66586750" lat="43.8283447" lon="7.6542098" version="5" timestamp="2022-06-18T12:33:37Z" changeset="122545205" uid="11220113" user="ivanbranco">
     <tag k="gfoss_id" v="1179"/>
@@ -23087,21 +23077,6 @@
     <tag k="wikidata" v="Q390160"/>
     <tag k="wikipedia" v="it:Banari"/>
     <tag k="wikipedia:sc" v="Bànari"/>
-  </node>
-  <node id="72994365" lat="40.8170650" lon="8.8354170" version="40" timestamp="2023-10-28T07:18:06Z" changeset="143245626" uid="9451067" user="b-jazz-bot">
-    <tag k="gfoss_id" v="7241"/>
-    <tag k="is_in" v="Sassari, Sardegna, Italy"/>
-    <tag k="name" v="Laerru"/>
-    <tag k="name:it" v="Laerru"/>
-    <tag k="name:sc" v="Laerru"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="1029"/>
-    <tag k="postal_code" v="07030"/>
-    <tag k="source" v="geodati.gfoss.it"/>
-    <tag k="website" v="https://www.comunelaerru.ss.it/"/>
-    <tag k="wikidata" v="Q390875"/>
-    <tag k="wikipedia" v="it:Laerru"/>
-    <tag k="wikipedia:sc" v="Laerru"/>
   </node>
   <node id="72994376" lat="40.5439610" lon="8.9023220" version="40" timestamp="2023-11-04T06:05:34Z" changeset="143599718" uid="9451067" user="b-jazz-bot">
     <tag k="gfoss_id" v="7239"/>
