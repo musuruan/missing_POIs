@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-10-17T12:11:57Z" areas="2026-10-17T12:09:52Z"/>
+<meta osm_base="2026-10-18T06:53:21Z" areas="2026-10-18T06:51:21Z"/>
 
   <node id="56040271" lat="44.3204868" lon="11.7992579" version="4" timestamp="2024-12-26T22:39:14Z" changeset="160656133" uid="1726102" user="AlessioMela">
     <tag k="name" v="Castel Bolognese"/>
@@ -3477,13 +3477,6 @@
     <tag k="population" v="413"/>
     <tag k="source" v="geodati.gfoss.it"/>
     <tag k="wikidata" v="Q30030300"/>
-  </node>
-  <node id="63622362" lat="45.1002540" lon="8.2820340" version="4" timestamp="2023-01-17T20:06:00Z" changeset="131393953" uid="145231" user="woodpeck_repair">
-    <tag k="gfoss_id" v="1016"/>
-    <tag k="name" v="Serralunga di Crea"/>
-    <tag k="place" v="village"/>
-    <tag k="population" v="617"/>
-    <tag k="source" v="geodati.gfoss.it"/>
   </node>
   <node id="63622366" lat="44.9941540" lon="8.5659420" version="12" timestamp="2023-06-14T14:15:28Z" changeset="137329502" uid="1778799" user="SomeoneElse_Revert">
     <tag k="gfoss_id" v="1011"/>
@@ -15838,9 +15831,10 @@
     <tag k="population" v="3096"/>
     <tag k="source" v="geodati.gfoss.it"/>
   </node>
-  <node id="69301853" lat="43.8902363" lon="12.6103147" version="4" timestamp="2016-09-16T15:55:09Z" changeset="42205884" uid="743479" user="fayor">
+  <node id="69301853" lat="43.8902363" lon="12.6103147" version="5" timestamp="2026-10-17T21:28:29Z" changeset="190670924" uid="19805734" user="karlottobenz">
     <tag k="gfoss_id" v="7928"/>
     <tag k="name" v="Montefiore Conca"/>
+    <tag k="old_name" v="Montefiorito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1765"/>
     <tag k="source" v="geodati.gfoss.it"/>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <osm version="0.6" generator="Overpass API 0.7.62.11 87bfad18">
 <note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
-<meta osm_base="2026-10-17T12:14:01Z" areas="2026-10-17T12:13:01Z"/>
+<meta osm_base="2026-10-18T06:55:21Z" areas="2026-10-18T06:52:21Z"/>
 
   <node id="60147390" lat="46.4653657" lon="12.7087174" version="19" timestamp="2026-09-11T17:36:08Z" changeset="188883952" uid="188429" user="gpstracks">
     <tag k="alt_name:de" v="Unterzahre"/>
@@ -5164,6 +5164,16 @@
     <tag k="place" v="village"/>
     <tag k="population" v="2200"/>
     <tag k="wikidata" v="Q30030743"/>
+  </node>
+  <node id="62512153" lat="46.0099785" lon="9.2831593" version="27" timestamp="2024-11-12T08:51:25Z" changeset="159037158" uid="9925732" user="Flight777">
+    <tag k="gfoss_id" v="7853"/>
+    <tag k="name" v="Varenna"/>
+    <tag k="name:ru" v="Варенна"/>
+    <tag k="place" v="village"/>
+    <tag k="population" v="846"/>
+    <tag k="source" v="geodati.gfoss.it"/>
+    <tag k="wikidata" v="Q42776"/>
+    <tag k="wikipedia" v="it:Varenna"/>
   </node>
   <node id="62512160" lat="45.3584945" lon="9.4948843" version="2" timestamp="2022-04-07T19:58:10Z" changeset="119442432" uid="10901495" user="user_10901495">
     <tag k="ele" v="78"/>
@@ -35161,9 +35171,10 @@
     <tag k="wikidata" v="Q111883"/>
     <tag k="wikipedia" v="it:Poggio Berni"/>
   </node>
-  <node id="69301853" lat="43.8902363" lon="12.6103147" version="4" timestamp="2016-09-16T15:55:09Z" changeset="42205884" uid="743479" user="fayor">
+  <node id="69301853" lat="43.8902363" lon="12.6103147" version="5" timestamp="2026-10-17T21:28:29Z" changeset="190670924" uid="19805734" user="karlottobenz">
     <tag k="gfoss_id" v="7928"/>
     <tag k="name" v="Montefiore Conca"/>
+    <tag k="old_name" v="Montefiorito"/>
     <tag k="place" v="village"/>
     <tag k="population" v="1765"/>
     <tag k="source" v="geodati.gfoss.it"/>
